@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-0217">
+<Title>Probabilistic Dialogue Modelling</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We show how Bayesian networks and related probabilistic methods provide an efficient way of capturing the complex balancing of different factors that determine interpretation and generation in dialogue.</Paragraph>
+<Paragraph position="1"> As a case study, we show how a probabilistic approach can be used to model anaphora resolution in dialogue1.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H91-1054">
+<Title>A Study on Speaker-Adaptive Speech Recognition</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> Speaker-independent system is desirable in many applications where speaker-specific data do not exist. However, if speaker-dependent data are available, the system could be adapted to the specific speaker such that the error rate could be significantly reduced. In this paper, DARPA Resource Management task is used as the domain to investigate the performance of speaker-adaptive speech recognition. Since adaptation is based on speaker-independent systems with only limited adaptation data, a good adaptation algorithm should be consistent with the speaker-independent parameter estimation criterion, and adapt those parameters that are less sensitive to the limited training data. Two parameter sets, the codebook mean vector and the output distribution, are regarded to be most important.</Paragraph>
+<Paragraph position="1"> They are modified in the framework of maximum likelihood estimation criterion according to the characteristics of each speaker. In order to reliably estimate those parameters, output distributions are shared with each other if they exhibit certain acoustic similarity. In addition to modify these parameters, speaker normalization with neural networks is also studied in the hope that acoustic data normalization will not only rapidly adapt the system but also enhance the robustness of speaker-independent speech recognition. Preliminary results indicate that speaker differences can be well minimized. In comparison with speaker-independent speech recognition, the error rate has been reduced from 4.3% to 3.1% by only using parameter adaptation techniques, with 40 adaptation sentences for each speaker. When the number of speaker adaptation sentences is comparable to that of speaker-dependent training, speaker-adaptive recognition works better than the best speaker-dependent recognition results on the same test set, which indicates the robustness of speaker-adaptive speech recognition.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C02-1160">
+<Title>Modular MT with a learned bilingual dictionary: rapid deployment of a new language pair</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The MT system described in this paper combines hand-built analysis and generation components with automatically learned example-based transfer patterns. Up to now, the transfer component used a traditional bilingual dictionary to seed the transfer pattern learning process and to provide fallback translations at runtime. This paper describes an improvement to the system by which the bilingual dictionary used for these purposes is instead learned automatically from aligned bilingual corpora, making the system's transfer knowledge entirely derivable from corpora. We show that this system with a fully automated transfer process performs better than the system with a hand-crafted bilingual dictionary.</Paragraph>
+<Paragraph position="1"> More importantly, this has enabled us to create in less than one day a new language pair, French-Spanish, which, for a technical domain, surpasses the quality bar of the commercial system chosen for comparison.</Paragraph>
+</Section>
+</Paper>
+

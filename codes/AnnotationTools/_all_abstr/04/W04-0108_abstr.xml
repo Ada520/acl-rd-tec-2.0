@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-0108">
+<Title>A Comparison of Two Different Approaches to Morphological Analysis of Dutch</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper compares two systems for computational morphological analysis of Dutch. Both systems have been independently designed as separate modules in the context of the FLaVoR project, which aims to develop a modular architecture for automatic speech recognition.</Paragraph>
+<Paragraph position="1"> The systems are trained and tested on the same Dutch morphological database (CELEX), and can thus be objectively compared as morphological analyzers in their own right.</Paragraph>
+</Section>
+</Paper>
+

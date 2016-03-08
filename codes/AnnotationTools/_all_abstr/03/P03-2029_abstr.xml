@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P03-2029">
+<Title>Word Sense Disambiguation Using Pairwise Alignment</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Yukihiro Itoh
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we proposed a new supervised word sense disambiguation (WSD) method based on a pairwise alignment technique, which is used generally to measure a similarity between DNA sequences.</Paragraph>
+<Paragraph position="1"> The new method obtained 2.8%-14.2% improvements of the accuracy in our experiment for WSD.</Paragraph>
+</Section>
+</Paper>
+

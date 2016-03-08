@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-1016">
+<Title>Dialogue Helpsystem based on Flexible Matching of User Query with Natural Language Knowledge Base</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a dialog helpsystem which advises users in using computer facilities and software applications provided by the Center for Information and Multimedia Studies, Kyoto University. The system employs a knowledge base written in natural language and retrieves a proper knowledge unit by flexible matching of user query with the knowledge base. The system is running since July 1999, received about 2,000 queries for the first seven months, and answered about 40~ of them satisfactory.</Paragraph>
+</Section>
+</Paper>
+

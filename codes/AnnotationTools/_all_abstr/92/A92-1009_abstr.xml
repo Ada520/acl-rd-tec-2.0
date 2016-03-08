@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A92-1009">
+<Title>Automatic Generation of On-Line Documentation in the IDAS Project*</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The Intelligent Documentation Advisory System generates on-line documentation and help messages from a domain knowledge base, using natural-language (NL) generation techniques.</Paragraph>
+<Paragraph position="1"> This paper gives an overview of IDAS, with particular emphasis on: (1) its architecture and the types of questions it is capable of answering; (2) its KR and NL generation systems, and lessons we have learned in designing them; and (3) its hypertext-like user interface, and the benefits such an interface brings.</Paragraph>
+</Section>
+</Paper>
+

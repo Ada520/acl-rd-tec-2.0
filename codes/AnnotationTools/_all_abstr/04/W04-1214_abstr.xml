@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-1214">
+<Title></Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+References
+</SectionTitle>
+<Paragraph position="0"> K. J. Lee and Y. S. Hwang and H. C. Rim. 2003. Two-phase biomedical NE recognition based on SVMs. ACL workshop on natural language processing in biomedicine.</Paragraph>
+<Paragraph position="1"> T. Brants. 2000. TnT - a statistical part-of-speech tagger. ANLP.</Paragraph>
+<Paragraph position="2"> L. Ramshaw and M. Marcus. 1995. Text chunk using transformation-based learning. ACL workshop on VLC.</Paragraph>
+</Section>
+</Paper>
+

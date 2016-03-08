@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P84-1090">
+<Title>Correcting Object-Related Misconceptions: How Should The System Respond? t</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Tills paper describes a computational method for correcting users' miseonceptioas concerning the objects modelled by a compute,&amp;quot; s.ystem. The method involves classifying object-related misc,mce|,tions according to the knowledge-base feature involved in the incorrect information. For each resulting class sub-types are identified, :.:cording to the structure of the knowledge base, which indicate wh:LI i.formativn may be supporting the misconception and therefore what information to include in the response. Such a characteriza*i,,n, along with a model of what the user knows, enables the syst.cm to reas,m in a domain-independent way about how best to c~rrv,'t \[he user.</Paragraph>
+</Section>
+</Paper>
+

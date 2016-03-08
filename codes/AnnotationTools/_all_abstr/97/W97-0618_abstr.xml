@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0618">
+<Title>A Programmable Multi-Blackboard Architecture for Dialogue Processing Systems</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In current Natural Language Processing Systems, different components for different processing tasks and input\] output modalities have to be integrated. Once integrated, the interactions between the components have to be specified. Interactions in dialogue systems can be complex due in part to the many states the system can be in.</Paragraph>
+<Paragraph position="1"> When porting the system to another domain, parts of the integration process have to be repeated. To overcome these difficulties, we propose a multi-blackboard architecture that is controlled by a set of expert-system like rules. These rules may contain typed variables. Variables can be substituted by representations with an appropriate type stored in the blackboards. Furthermore, the representations in the blackboards allow to represent partial information and to leave disjunctions unresolved. Moreover, the conditions of the rule may depend on the specificity of the representations with which the variables are instantiated. For this reason, the interaction is information-driven. The described system has been implemented and has been integrated with the speech recognizer JANUS.</Paragraph>
+</Section>
+</Paper>
+

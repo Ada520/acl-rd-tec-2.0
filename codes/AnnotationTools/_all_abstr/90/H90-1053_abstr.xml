@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H90-1053">
+<Title>Table h Comparison of correctness of parsing with various parsing methods Modified Parsing Algorithm for Fine Grained Statistics</Title>
+<Section position="2" start_page="263" end_page="419772" type="abstr">
+<SectionTitle>
+SA &amp;quot;--, NULL
+</SectionTitle>
+<Paragraph position="0"> will involve a fixed amount of priority no matter where this SA appears. This strategy disregards the fact that SA appearing at certain locations may have a greater probability to use this production and SA appearing at some other place may have a lesser probability to use this production. Therefore, it was expected that if the probabilities for a certain non-terminal using a certain production were computed separately for each instance of each nonterminal appearing on the right hand side of a production, it will lead to a more informed parser. Such probabilities were obtained and the parsing algorithm was modified accordingly. This change resulted in an even better perfomance, both with respect to speed and accuracy. The following section briefly describes the further changes necessary in the parsing algorithm in order to be able to use fine-grained statistical information.</Paragraph>
+<Section position="1" start_page="419772" end_page="419772" type="sub_section">
+<SectionTitle>
+Modified Parsing Algorithm for Fine
+Grained Statistics
+</SectionTitle>
+<Paragraph position="0"> The parsing algorithm for parsing with fine-grained priorities becomes somewhat more complex. In this scheme, the priority attributable to a production is influenced by the context in which it is used. Since the priority of an edge is the sum of the priority of the production used by the edge and priorities of its constituents, the overall priority of an edge varies according to the context. This effect can be best captured by breaking up the priority of an edge into two components - the absolute component and the relative component. While the absolute component for an edge is constant, the relative component depends on the context in which the priority of this edge is being computed, since priorities of the same production are different in different contexts. These changes are discussed in greater detail in \[2\]</Paragraph>
+</Section>
+<Section position="2" start_page="419772" end_page="419772" type="sub_section">
+<SectionTitle>
+Heuristic Penalties
+</SectionTitle>
+<Paragraph position="0"> Even with the improvements detailed in the two prior sections, the parser suffered from a serious problem. The modified search algorithm, which is best first, ignored the length of hypotheses being compared. As a result, as the parsing progressed towards the right of the sentence, it would often thrash after the lengthier (and possibly correc 0 partial parses gathered more penalty than short, unpromising hypotheses near the left of the sentence. In order to have a strictly best-first search strategy, this phenomenon is unavoidable 4. However, we studied the trade-off that existed by penalizing shorter hypotheses by a fixed amount per word 5. This way, the ~hrashmg was avoided, the parser became faster and the parser could parse several sentences which could not be parsed earlier under the same edge limit 6. However, the parser lost the characteristic of being best first and this resulted in a slight degradation of accuracy.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

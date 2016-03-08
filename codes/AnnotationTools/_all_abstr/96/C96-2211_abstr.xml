@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-2211">
+<Title>Pattern-Based Machine Translation</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this 1)a,l)er, we (les(:ril)(~ a. &amp;quot;l)a.ttern-I)a.s(,d&amp;quot; ma.c\[fine transla.tion (MT) a.pproa.(:h tha.t we followed in designing a. l)(:rsona.1 tool for ilS(:rs who \[1,3,VO, ;t,C(:(~SS tO la.rg(: v()Ittlll('.s of text in la.ngua.ges other tha.n their owu, su(:h as WWW pa.gas. Sore(: of the critica.1 issues involv(:d it, th(: design of such a. tool in(:htd(: (:a.sy (:ustomiza.tion for div(:rse (h&gt;mMns, th(: (;tfi(:iency of th&lt;: tra.nsla.tion a.lgorithm, a.nd sea.lability (in(:r(:menta.l improvcm(:nt in tra.nsla.tion qua.1 ity through us(:r intera.ction). W(: a.lso describe how our pa.tterns fit into the (:ont(:xt-fr(:(: l)a.rsing aml g(:nera.tion a.lgorithms, a.n(1 h(-)w wo, intl)h:tn(:rtted a, prototyp(: tool.</Paragraph>
+</Section>
+</Paper>
+

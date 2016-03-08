@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-2200">
+<Title></Title>
+<Section position="2" start_page="0" end_page="1227" type="abstr">
+<SectionTitle>
+1. Background
+</SectionTitle>
+<Paragraph position="0"> This paper concerns the implementation and testing of similarity metrics for the alignment of phonetic segments in transcriptions of children's (mis)articulations with the adult model. This has an obvious application in the development of software to assist speech and language clinicians to assess clients and to plan therapy. This paper will give some of the background to this general problem, but will focus on the computational and linguistic aspect of the alignment problem.</Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+1.1. Articulation testing
+</SectionTitle>
+<Paragraph position="0"> It is well known that a child's acquisition of phonology is gradual, and can be charted according to the appearance of phonetic distinctions (e.g. stops vs. fricatives), the disappearance of childish mispronunciations, especially due to assimilation (\[909\] for dog), and the ability to articulate particular phonetic configurations (e.g. consonant clusters).</Paragraph>
+<Paragraph position="1"> Whether screening whole populations of children, or assessing individual referrals, the articulation test is an important tool for the speech clinician.</Paragraph>
+<Paragraph position="2"> A child's articulatory development is usually described with reference to an adult model, and in terms of deviations from it: a number of phonological &amp;quot;processes&amp;quot; can be identified, and their significance with respect to the chronological age of the child assessed. Often processes interact, e.g. when spoon is pronounced \[mun\] we have consonant-cluster reduction and assimilation.</Paragraph>
+<Paragraph position="3"> The problem for this paper is to align the segments in the transcription of the child's articulation with the target model pronunciation. The task is complicated by the need to identify cases of &amp;quot;metathesis&amp;quot;, where the corresponding sounds have been reordered (e.g.</Paragraph>
+<Paragraph position="4"> remember -+ \[mtremb~\]) and &amp;quot;merges&amp;quot;, a special case of consonant-cluster reduction where the  harold@ccl, umist, ac. uk resulting segment has some of the features of both elements in the original cluster (e.g. sleep \[tip\]).</Paragraph>
+<Paragraph position="5"> It would be appropriate here to review the software currently available to speech clinicians, but lack of space prevents us from doing so (see Somers, forthcoming). Suffice it to say that software does exist, but is mainly for grammatical and lexical analysis. Of the tiny number of programs which specifically address the problem of articulation testing, none, as far as one can tell, involve automatic alignment of the data.</Paragraph>
+</Section>
+<Section position="2" start_page="0" end_page="1227" type="sub_section">
+<SectionTitle>
+1.2. Segment alignment
+</SectionTitle>
+<Paragraph position="0"> In a recent paper, Covington (1996) described an algorithm for aligning historical cognates.</Paragraph>
+<Paragraph position="1"> The present author was struck by the possibility of using this technique for the child-language application, a task for which a somewhat similar algorithm had been developed some years ago (Somers 1978, 1979). In both algorithms, the phonetic segments are interpreted as bundles of phonetic features, and the algorithms include a simple similarity metric for comparing the segments pairwise. The algorithms differ somewhat in the way the search space is reduced, but the results are quite comparable (Somers, forthcoming).</Paragraph>
+<Paragraph position="2"> Coincidentally, a recent article by Connolly (1997) has suggested a number of ways of quantifying the similarity or difference between two individual phones, on the basis of perceptual and articulatory differences. Connolly's metric is also feature-based, but differs from the others mentioned in its complexity. In particular, the features can be differentially weighted for salience, and, additionally, not all the features are simple Booleans. In the second part of his article, Connolly introduces a distance measure for comparing sequences of phones, based on the Levenshtein distance well-known in the  spell-checking, speech-processing and corpusalignment literatures (inter alia). Again, this metric can be weighted, to allow substitutions to be valued differentially (on the basis of the individual phone distance measure as described in the first part), and to deal with merges and metathesis.</Paragraph>
+<Paragraph position="3"> Although his methods are clearly computational in nature, Connolly reports (personal communication) that he has not yet implemented them. In this paper, we describe a simple implementation and adaptation of Connolly's metrics, and a brief critical evaluation of their performance on some child language data (both real and artificial).</Paragraph>
+</Section>
+</Section>
+</Paper>
+

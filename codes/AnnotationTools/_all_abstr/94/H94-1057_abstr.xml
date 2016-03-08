@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H94-1057">
+<Title>One DODer's View of ARPA Spoken Language Directions</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> DOD support for ARPA/HLT speech research stems from the belief that large vocabulary continuous speech recognition and speech understanding will have advantages in portability, and in the variety of applications sustainable from a single, basic speech system. With some imagination one can envision applications in such remotely related areas as speaker identification and language identification.</Paragraph>
+<Paragraph position="1"> changes in a problem over time. Once the initial system is trained, an adequate port to a new problem should be possible with limited training. Improved performance should be achievable over time by bootstrapping techniques that require minimum user interaction.</Paragraph>
+<Paragraph position="2"> However, even ff everyone accepted these goals there would still be sources of conflict. The first area of potential conflict I will consider is the relative emphasis of research versus technology transfer.</Paragraph>
+<Paragraph position="3"> Like many of you, I feel that some useful applications can be found for current systems, but many potential applications will fail the usefulness test. Those that pass will require considerable algorithmic tuning. So, how do we expand the range of applications, while simultaneously making life easier for the person who must develop applications? Of course, ARPA has been working toward this by introducing stress testing, unconstrained vocabulary, multi-lingual speech processing, contrastive testing, etc. But we can do more. I share a number of opinions with my colleagues in DOD about current, and potentially new ARPA research directions. Perhaps surfacing these perspectives will stimulate discussion and have some impact.</Paragraph>
+<Paragraph position="4"> If we could agree on the goal of ARPA speech research, agreeing on the research directions might be easier. For me this goal is a simple motherhood statement. I would like to have a competent large vocabulary continuous speech recognition engine.</Paragraph>
+<Paragraph position="5"> To achieve that competence we will need better basic performance that is robust to changes in problem and environment. Preferably the system would be capable of assisting in tracking</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E83-1015">
+<Title>THE G~INERATION OF TERM DEFINITIONS FROM AN ON-LINE TEP~NOLOGICAL ~SA\[~S</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> A new type of machine dictionary is described, which uses terminological relations to build up a semantic network representing the terms of a particular subject field, through interaction with the user. These relations are then used to dynamically generate outline definitions of terms in on-line query mode. The definitions produced are precise, consistent and informative, and allow the user to situate a query term in the local conceptual ~vironment. The simple definitions based on terminological relations are supplemented by information contained in facets and modifiers, which allow the user to capture different views of the data.</Paragraph>
+</Section>
+</Paper>
+

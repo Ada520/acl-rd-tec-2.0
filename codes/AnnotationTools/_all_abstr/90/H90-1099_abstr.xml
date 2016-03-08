@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H90-1099">
+<Title>Natural Language Research</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+OBJECTIVE
+</SectionTitle>
+<Paragraph position="0"> The m~n objective is basic research and system development leading to (1) characterization of information carried by (a) syntax, semantics, and discourse structure, (b) their relation to information carried by intonation, and (c) development of methods for using this information for generation and understanding; (2) development of architectures for integration of utterance planning with lexical, syntactic and intonational choice; (3) development of incremental strategies for using syntactic, semantic, and pragmatic knowledge in understanding and generating language.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C86-1129">
+<Title>A Lexical Functional Grammar System in Prolog</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a system in PROLOG for the automatic transforination of a grammar, written in LFG formalism, into a DCG-based parser. It demonstrates the main principles of the transformation, the representation of f-structures and constraints, the treatment of long-distance dependencies, and left rccursion.</Paragraph>
+<Paragraph position="1"> Finally some problem areas of the system and possibilities for overcoming them are discussed.</Paragraph>
+<Paragraph position="2"> Introduction In order to intprove our knowledge about natural language, it is desirable to have a high-level description language which can be used to test grammars on a computer system, but which is independent of the details of the implementation. For linguists without knowledge of programming languages, a system for writing and testing grammars on a computer should be offered.</Paragraph>
+<Paragraph position="3"> At the University of Stuttgart such a system has been implemented in PROLOG, which uses tile formalism of Lexical-Functional Grammar \[Kaplan/Bresuan 82\] as its description language.</Paragraph>
+<Paragraph position="4"> The system makes it possible for the user to enter grammar rules and lexical entries directly in the form described in \[Kaplan/Bresnan 82\]. The input is translated into PROLOG rules, which form a top down parser in defiuite clause grammar style.</Paragraph>
+<Paragraph position="5"> Equations and constraints associated with a grammar rule are evalnated as soon as the rule is used, thus allowing the rejection of incorrect parses as soon as constraints are violated.</Paragraph>
+<Paragraph position="6"> One of the main problems using DCG grammars - the prohibition of using left-recursive grammar rules is solved by a conversion to right-recursive rules that does not violate the semantics of the functional description. grammar implementors in two respects: i) Using DCGs for parsing (and overcoming the prohibition of left recursion) ii)Profiting from PROLOG's unification mechanism to implement LFG-Unification.</Paragraph>
+<Paragraph position="7"> Uuification LFG is a unification-based grammar formalism. To be more precise, any defining equation in LFG can be interpreted as the unification of certaiu f-structures. Unifying two f-structures is an operation very similar to set union. However, unification may fail, if the stuctures contain contradicting values for the same attribute. Otherwise the two structures become the same object, which contains the information of hoth structures. Consider for example the LFG</Paragraph>
+<Paragraph position="9"> and take FS, FNP and FVP as the f-strnctures associated to tile S, NP and VP node, respectively. Then the two equations cau be interpreted as the unifications FS U - FVP and FS U \[SUBJ = FNP\].</Paragraph>
+<Paragraph position="10"> The unification of f-structures is also closely related to the unification of PROLOG-Terms, yet there are two important differences: lu f-structures values are identified by labels (the attributes) and their number is potentially unlimited, whereas in PROLOG-terms the arguments are identified by their position and their number is fixed. In the following we show how we can model f-structure unification in PROLOG.</Paragraph>
+<Paragraph position="11"> We represent partial f-structures as an 'open ended' list of pairs: \[ AI = VI , A2 = V2 ..... An = Vn I _ \] Main Goals of tile Implementation When we started the implementation of our LFG-Sytem we had mainly the following tasks in mind: - Independence of Implementation The LFG system is meant to be a grammar-writer's tool which allows him to ignore completely the details of the implementation. Specifically we wanted tile system to be useful for linguists without any prior knowledge of PROLOG.</Paragraph>
+</Section>
+</Paper>
+

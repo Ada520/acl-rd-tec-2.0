@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H90-1087">
+<Title>Large Vocabulary Speech Recognition Prototype</Title>
+<Section position="2" start_page="414" end_page="415" type="abstr">
+<SectionTitle>
+FY-91 Plans
+* On-line adaptive training will be implemented.
+</SectionTitle>
+<Paragraph position="0"> * The signal processing will be improved by systematically evaluating the performance of a wide variety of signal processing algorithms.</Paragraph>
+<Paragraph position="1"> * The robusmess will be improved by modeling altemate word pronunciations.</Paragraph>
+<Paragraph position="2"> * The performance on short function words will be improved by developing techniques specifically modeling the phenomena which occur for such words. * The performance will be improved in general by detailed post-analysis of specific errors.</Paragraph>
+<Paragraph position="3"> * The overall error rate will be reduced by a factor of two compared to the current system.</Paragraph>
+</Section>
+</Paper>
+

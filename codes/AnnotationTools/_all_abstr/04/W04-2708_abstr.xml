@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-2708">
+<Title>Prague Czech-English Dependency Treebank Any Hopes for a Common Annotation Scheme?</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The Prague Czech-English Dependency Tree-bank (PCEDT) is a new syntactically annotated Czech-English parallel resource. The Penn Treebank has been translated to Czech, and its annotation automatically transformed into dependency annotation scheme. The dependency annotation of Czech is done from plain text by automatic procedures. A small subset of corresponding Czech and English sentences has been annotated by humans. We discuss some of the problems we have experienced during the automatic transformation between annotation schemes and hint at some of the difficulties to be tackled by potential guidelines for dependency annotation of English.</Paragraph>
+</Section>
+</Paper>
+

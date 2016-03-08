@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1030">
+<Title>Reordering Constraints for Phrase-Based Statistical Machine Translation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In statistical machine translation, the generation of a translation hypothesis is computationally expensive. If arbitrary re-orderings are permitted, the search problem is NP-hard. On the other hand, if we restrict the possible reorderings in an appropriate way, we obtain a polynomial-time search algorithm. We investigate different reordering constraints for phrase-based statistical machine translation, namely the IBM constraints and the ITG constraints. We present efficient dynamic programming algorithms for both constraints. We evaluate the constraints with respect to translation quality on two Japanese-English tasks. We show that the reordering constraints improve translation quality compared to an unconstrained search that permits arbitrary phrase reorderings. The ITG constraints preform best on both tasks and yield statistically significant improvements compared to the unconstrained search.</Paragraph>
+</Section>
+</Paper>
+

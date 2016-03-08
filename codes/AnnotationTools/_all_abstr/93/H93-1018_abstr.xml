@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H93-1018">
+<Title>Search Algorithms for Software-Only Real-Time Recognition with Very Large Vocabularies</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> This paper deals with search algorithms for real-time speech recognition. We argue that software-only speech recognition has several critical advantages over using special or parallel hardware. We present a history of several advances in search algorithms, which together, have made it possible to implement real-time recognition of large vocabularies on a single workstation without the need for any hardware accelerators. We discuss the Forward-Backward Search algorithm in detail, as this is the key algorithm that has made possible recognition of very large vocabularies in real-time.</Paragraph>
+<Paragraph position="1"> The result is that we can recognize continuous speech with a vocabulary of 20,000 words strictly in real-time entirely in software on a high-end workstation with large memory. We demonstrate that the computation needed grows as the cube root of the vocabulary size.</Paragraph>
+</Section>
+</Paper>
+

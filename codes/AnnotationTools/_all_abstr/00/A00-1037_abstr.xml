@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A00-1037">
+<Title>I Relations I Lexico-syntactic Patterns Examples H WordNet Relations</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In many knowledge intensive applications, it is necessary to have extensive domain-specific knowledge in addition to general-purpose knowledge bases.</Paragraph>
+<Paragraph position="1"> This paper presents a methodology for discovering domain-specific concepts and relationships in an attempt to extend WordNet. The method was tested on five seed concepts selected from the financial domain: interest rate, stock market, inflation, economic growth, and employment.</Paragraph>
+</Section>
+</Paper>
+

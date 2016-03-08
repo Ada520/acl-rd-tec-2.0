@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-0804">
+<Title>International Standard for a Linguistic Annotation Framework</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes the outline of a linguistic annotation framework under development by ISO TC37 SC WG1-1. This international standard will provide an architecture for the creation, annotation, and manipulation of linguistic resources and processing software. The outline described here results from a meeting of approximately 20 experts in the field, who determined the principles and fundamental structure of the framework. The goal is to provide maximum flexibility for encoders and annotators, while at the same time enabling interchange and re-use of annotated linguistic resources.</Paragraph>
+</Section>
+</Paper>
+

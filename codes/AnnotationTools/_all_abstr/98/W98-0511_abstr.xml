@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-0511">
+<Title>Parsing with Dependency Relations and Robust Parsing</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> After a short recall of our view of dependency grammars, we present two dependency parsers.</Paragraph>
+<Paragraph position="1"> The first uses dependency relations to have a more concise expression of dependency rules and to get efficiency in parsing. The second uses typed feature structures to add some semantic knowledge on dependency trees and parses in a more robust left to right manner.</Paragraph>
+</Section>
+</Paper>
+

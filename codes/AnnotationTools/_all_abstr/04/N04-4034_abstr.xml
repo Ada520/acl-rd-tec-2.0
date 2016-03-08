@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N04-4034">
+<Title>Multi-Speaker Language Modeling</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In conventional language modeling, the words from only one speaker at a time are represented, even for conversational tasks such as meetings and telephone calls. In a conversational or meeting setting, however, speakers can have signi cant in uence on each other.</Paragraph>
+<Paragraph position="1"> To recover such un-modeled inter-speaker information, we introduce an approach for conversational language modeling that considers words from other speakers when predicting words from the current one. By augmenting a normal trigram context, our new multi-speaker language model (MSLM) improves on both Switchboard and ICSI Meeting Recorder corpora. Using an MSLM and a conditional mutual information based word clustering algorithm, we achieve a 8.9% perplexity reduction on Switchboard and a 12.2% reduction on the</Paragraph>
+</Section>
+</Paper>
+

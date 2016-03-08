@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P87-1030">
+<Title>A Model For Generating Better Explanations</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Previous work in generating explanations from advice-giving systems has demonstrated that a cooperative system can and should infer the immediate goals and plans of an utterance (or discourse segment) and formulate a response in light of these goals and plans. The claim of this paper is that a cooperative response may also have to address a user's overall goals, plans, and preferences among those goals and plans. An algorithm is introduced that generates user-specific responses by reasoning about the goals, plans and preferences hypothesized about a user.</Paragraph>
+</Section>
+</Paper>
+

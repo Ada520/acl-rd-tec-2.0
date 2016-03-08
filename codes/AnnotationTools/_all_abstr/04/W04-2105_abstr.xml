@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-2105">
+<Title>Word lookup on the basis of associations: from an idea to a roadmap</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Word access is an obligatory step in language production. In order to achieve his communicative goal, a speaker/writer needs not only to have something to say, he must also find the corresponding word(s). Yet, knowing a word, i.e. having it stored in a data-base or memory (human mind or electronic device) does not imply that one is able to access it in time. This is a clearly a case where computers (electronic dictionaries) can be of great help.</Paragraph>
+<Paragraph position="1"> In this paper we present our ideas of how an enhanced electronic dictionary can help people to find the word they are looking for. The yet-to-be-built resource is based on the age-old notion of association: every idea, concept or word is connected. In other words, we assume that people have a highly connected conceptual-lexical network in their mind. Finding a word amounts thus to entering the network at any point by giving the word or concept coming to their mind (source word) and then following the links (associations) leading to the word they are looking for(target word).</Paragraph>
+<Paragraph position="2"> Obviously, in order to allow for this kind of access, the resource has to be built accordingly. This requires at least two things: (a) indexing words by the associations they evoke, (b) identification and labeling of the most frequent/useful associations. This is precisely our goal. Actually, we propose to build an associative network by enriching an existing electronic dictionary (essentially) with (syntagmatic) associations coming from a corpus, representing the average citizen's shared, basic knowledge of the world (encyclopedia). Such an enhanced electronic database resembles in many respects our mental dictionary. Combining the power of computers and the flexibility of the human mind (omnidirectional navigation and quick jumps), it emulates to some extent the latter in its capacity to navigate quickly and efficiently in a large data base.</Paragraph>
+<Paragraph position="3"> While the notions of association and spreading activation are fairly old, their use to support word access via computer is new. The resource still needs to be built, and this is not a trivial task. We discuss here some of the strategies and problems involved in accomplishing it with the help of people and computers (automation).</Paragraph>
+</Section>
+</Paper>
+

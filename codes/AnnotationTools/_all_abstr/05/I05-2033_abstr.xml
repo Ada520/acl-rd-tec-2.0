@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="I05-2033">
+<Title>POS tagger combinations on Hungarian text</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we will brie y survey the key results achieved so far in Hungarian POS tagging and show how classi er combination techniques can aid the POS taggers.</Paragraph>
+<Paragraph position="1"> Methods are evaluated on a manually annotated corpus containing 1.2 million words. POS tagger tests were performed on single-domain, multiple domain and cross-domain test settings, and, to improve the accuracy of the taggers, various combination rules were implemented.</Paragraph>
+<Paragraph position="2"> The results indicate that combination schemas (like the Boosting algorithm) are promising tools which can signi cantly degrade the classication errors, and produce a more e ective tagger application.</Paragraph>
+</Section>
+</Paper>
+

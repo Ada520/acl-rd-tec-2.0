@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-1120">
+<Title>A Decision Tree Method for Finding and Classifying Names in Japanese Texts</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a system which uses a decision tree to find and classify names in Japanese texts. The decision tree uses part-of-speech, character type, and special dictionary information to determine the probability that a particular type of name opens or closes at a given position in the text. The output is generated from the consistent sequence of name opens and name closes with the highest probability. This system does not require any human adjustment. Experiments indicate good accuracy with a small amount of training data, and demonstrate the system's portability. The issues of training data size and domain dependency are discussed.</Paragraph>
+</Section>
+</Paper>
+

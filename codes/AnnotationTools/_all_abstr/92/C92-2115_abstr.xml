@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C92-2115">
+<Title>A Similarity-Driven Transfer System</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The transfer phase in machine translation (MT) systems has been considered to be more complicated titan analysis and generation~ since it is inherently a conglomeration of individual lexical rules. Currently some attempts are being made to use case-based reasoning in machine translation, that is, to make decisions on the basis of translation examples at appropriate pohtts in MT. This paper proposes a new type of transfer system, called a Similarity-driven Transfer' System (SimTi'ao), for use in such case-based MT (CBMT).</Paragraph>
+</Section>
+</Paper>
+

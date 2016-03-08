@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P04-1020">
+<Title>Learning Noun Phrase Anaphoricity to Improve Coreference Resolution: Issues in Representation and Optimization</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Knowledge of the anaphoricity of a noun phrase might be profitably exploited by a coreference system to bypass the resolution of non-anaphoric noun phrases. Perhaps surprisingly, recent attempts to incorporate automatically acquired anaphoricity information into coreference systems, however, have led to the degradation in resolution performance.</Paragraph>
+<Paragraph position="1"> This paper examines several key issues in computing and using anaphoricity information to improve learning-based coreference systems. In particular, we present a new corpus-based approach to anaphoricity determination. Experiments on three standard coreference data sets demonstrate the effectiveness of our approach.</Paragraph>
+</Section>
+</Paper>
+

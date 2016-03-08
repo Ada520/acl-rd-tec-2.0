@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J99-2002">
+<Title>at Asheville</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> This paper describes a framework for developing probabilistic classifiers in natural language processing (NLP). 1 A probabilistic classifier assigns the most probable class to an object, based on a probability model of the interdependencies among the class and a set of input features. This paper focuses on formulating a model that captures the most important interdependencies, to avoid overfitting the data while also characterizing the data well. The goal is to achieve a balance between feasibility and expressive power, which is needed in an area as complex as NLP.</Paragraph>
+<Paragraph position="1"> The class of probability models and the associated inference techniques described here were developed in mathematical statistics, and are widely used in artificial intelligence and applied statistics. However, these techniques have not been widely used in NLP, although the software required to implement these procedures is freely available. Within this framework, we can unify many of the metrics and types of models currently used in NLP. The class of models, decomposable models, is large and expressive, yet there are computationally feasible model search procedures defined for them. They can include any kind of discrete variable, and the formality of the method supports evaluation.</Paragraph>
+<Paragraph position="2"> In this paper, our goal is to make this model selection framework accessible to researchers in NLP, by providing a concise explanation of the underlying theor~ pointing  * Department of Computer Science, Asheville, NC 28804-3299.</Paragraph>
+<Paragraph position="3"> Department of Computer Science, Las Cruces, NM 88003.</Paragraph>
+<Paragraph position="4"> 1 This framework was originally introduced into NLP in Bruce and Wiebe (1994).</Paragraph>
+<Paragraph position="5"> (~) 1999 Association for Computational Linguistics  Computational Linguistics Volume 25, Number 2 out relationships to existing NLP research, and providing pointers to available software and important references. In addition, we describe how the quality of the three determinants of classifier performance (the features, the form of the model and the parameter estimates) can be separately evaluated.</Paragraph>
+<Paragraph position="6"> We also demonstrate the classification performance of these models in a large-scale experiment involving the disambiguation of 34 words taken from the HECTOR word sense corpus (Atkins 1993; Hanks 1996). We compare the performance of classifiers based on models selected by this algorithm with the performance of naive Bayes classifiers (classifiers based on the naive Bayes model). Naive Bayes classifiers have been found to be remarkably successful in many applications, including word sense disambiguation (Mooney 1996). In 10-fold cross-validations, the model search procedure achieves an overall 1.4 percentage point improvement over naive Bayes, and is significantly better on 6 of the words without being significantly worse on any of them.</Paragraph>
+</Section>
+</Paper>
+

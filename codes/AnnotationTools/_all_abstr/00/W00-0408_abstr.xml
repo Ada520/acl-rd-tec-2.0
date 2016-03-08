@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-0408">
+<Title>A Comparison of Rankings Produced by Summarization Evaluation Measures</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Summary evaluation measures produce a ranking of all possible extract summaries of a document., Recall-based evaluation measures, which depend on costly human-generated ground truth summaries, produce uncorrelated rankings when ground truth is varied. This paper proposes using sentence-rank-based and content-based measures for evaluating extract summaries, and compares these with recall-based evaluation measures. Content-based measures increase the correlation of rankings induced by synonymous ground truths, and exhibit other desirable properties.</Paragraph>
+</Section>
+</Paper>
+

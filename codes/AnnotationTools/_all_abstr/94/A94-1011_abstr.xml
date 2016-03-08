@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A94-1011">
+<Title>ing, Word Associations and Typical Predicate-Argument</Title>
+<Section position="2" start_page="0" end_page="65" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The use of NLP techniques for document classification has not produced significant improvements in performance within the standard term weighting statistical assignment paradigm (Fagan 1987; Lewis, 1992bc; Buckley, 1993). This perplexing fact needs both an explanation and a solution if the power of recently developed NLP techniques are to be successfully applied in IR. A novel method for adding linguistic annotation to corpora is presented which involves using a statistical POS tagger in conjunction with unsupervised structure finding methods to derive notions of &amp;quot;noun group&amp;quot;, &amp;quot;verb group&amp;quot;, and so on which is inherently extensible to more sophisticated annotation, and does not require a pre-tagged corpus to fit. One of the distinguishing features of a more linguistically sophisticated representation of documents over a word set based representation of them is that linguistically sophisticated units are more frequently individually good predictors of document descriptors (keywords) than single words are. This leads us to consider the assignment of descriptors from individual phrases rather than from the weighted sum of a word set representation. We investigate how sets of individually high-precision rules can result in a low precision when used together, and develop some theory about these probably-correct rules. We then proceed to repeat results which show that standard statistical models are not particularly suitable for exploiting linguistically sophisticated representations, and show that a statistically fitted rule-based model provides significantly improved performance for sophisticated representations. It therefore shows that statistical systems can exploit sophisticated representations of documents, and lends some suppor t to the use of more linguistically  sophisticated representations for document classification. This paper reports on work done for the LRE project SmTA, which is creating a PC based tool to be used in the technical abstracting industry.</Paragraph>
+</Section>
+</Paper>
+

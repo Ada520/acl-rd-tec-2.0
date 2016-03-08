@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-2196">
+<Title>Parsing Plans Situation-Dependently in Dialogues</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a plan parsing method that can handle the effects and preconditions of actions and that parses plans in a manner dependent on dialogue state changes, especially on the mental state changes of dialogue participants caused by utterances. This method is based on active chart parsing and uses augmented edge structures to keep state information locally and time map management to deal with state changes. It has been implemented in Prolog and is used for plan recognition in dialogues.</Paragraph>
+</Section>
+</Paper>
+

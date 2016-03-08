@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-1314">
+<Title>Exploring adjectival modification in biomedical discourse across two genres</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Objectives: To explore the phenomenon of adjectival modification in biomedical discourse across two genres: the biomedical literature and patient records. Methods: Adjectival modifiers are removed from phrases extracted from two corpora (three million noun phrases extracted from MEDLINE, on the one hand, and clinical notes from the Mayo Clinic, on the other). The original phrases, the adjectives extracted, and the resulting demodified phrases are compared across the two corpora after normalization. Quantitative comparisons (frequency of occurrence) are performed on the whole domain.</Paragraph>
+<Paragraph position="1"> Qualitative comparisons are performed on the two subdomains (disorders and procedures). Results: Although the average number of adjectives per phrase is equivalent in the two corpora (1.4), there are more adjective types in MAYO than in MEDLINE for disorders and procedures.</Paragraph>
+<Paragraph position="2"> For disorder phrases, the 38% of adjective types common to the two corpora account for 85% of the occurrences. The predominance of adjectives in one corpus is analyzed. Discussion: Potential applications of this approach are discussed, namely terminology acquisition, information retrieval, and genre characterization.</Paragraph>
+</Section>
+</Paper>
+

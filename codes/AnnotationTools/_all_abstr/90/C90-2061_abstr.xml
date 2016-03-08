@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-2061">
+<Title>A Type-theoretical Analysis of Complex Verb Generation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Tense and aspect, together with mood and modality, usually form the entangled structure of a complex verb.</Paragraph>
+<Paragraph position="1"> They are often hard to translate by machines, because of both syntactic and semantic differences between languages. This problem seriously affects upon the generation process because those verb components in interlingua are hardly rearranged correctly in the target language. We propose here a method in which each verb element is defined as a mathematical function according to its type of type theory. This formalism gives each element its legal position in the complex verb in the target language and certifies so-called partial translation. In addition, the generation algorithm is totally free from the stepwise calculation, and is available on parallel architecture.</Paragraph>
+</Section>
+</Paper>
+

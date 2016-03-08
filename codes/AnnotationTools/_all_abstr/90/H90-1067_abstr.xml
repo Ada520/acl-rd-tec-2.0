@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H90-1067">
+<Title>Experiments with Tree-Structured MMI Encoders on the RM Task</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> This paper describes the tree-structured maximum mutual information (MMI) encoders used in SSrs Phonetic Engine (r) to perform large-vocabulary, continuous speech recognition.</Paragraph>
+<Paragraph position="1"> The MMI encoders are arranged into a two-stage cascade. At each stage, the encoder is trained to maximize the mutual information between a set of phonetic targets and corresponding codes. After each stage, the codes are compressed into segments. This step expands acoustic-phonetic context and reduces subsequent computation. We evaluated these MMI encoders by comparing them against a standard minimum distortion (MD) vector quantizer (encoder). Both encoders produced code streams, which were used to train speaker-independent discrete hidden Markov models in a simplified version of the Sphinx system \[3\]. We used data from the DARPA Resource Management (RM) task. The two-stage cascade of MMI encoders significantly outperforms the standard MD encoder in both speed and accuracy.</Paragraph>
+</Section>
+</Paper>
+

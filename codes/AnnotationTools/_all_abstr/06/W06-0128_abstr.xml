@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-0128">
+<Title>Chinese Word Segmentation using Various Dictionaries</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Most of the Chinese word segmentation systems utilizes monolingual dictionary and are used for monolingual processing.</Paragraph>
+<Paragraph position="1"> For the tasks of machine translation (MT) and cross-language information retrieval (CLIR), another translation dictionary may be used to transfer the words of documents from the source languages to target languages. The inconsistencies resulting from the two types of dictionaries (segmentation dictionary and transfer dictionary) may produce some problems for MT and CLIR. This paper shows the effectiveness of the external resources (bilingual dictionary and word list) for Chinese word segmentations.</Paragraph>
+</Section>
+</Paper>
+

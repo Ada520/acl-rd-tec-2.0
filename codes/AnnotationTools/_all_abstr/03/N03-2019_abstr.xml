@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N03-2019">
+<Title>Inferring Temporal Ordering of Events in News</Title>
+<Section position="1" start_page="0" end_page="2" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a domain-independent, machine-learning based approach to temporally anchoring and ordering events in news. The approach achieves 84.6% accuracy in temporally anchoring events and 75.4% accu- null Introduction Practical NLP applications such as text summarization and question-answering place increasing demands on the processing of temporal information. In multi-document summarization of news, it is important to know the relative order of events so as to correctly merge and present information. In question-answering, one would like to be able to ask when an event occurs, or what events occurred prior to a particular event. Such capabilities presuppose an ability to infer the temporal order of events in discourse.</Paragraph>
+<Paragraph position="1"> A number of different knowledge sources appear to be involved in inferring event ordering (Lascarides and Asher 1993), including tense and aspect (1), temporal  adverbials (2), and world knowledge (3).</Paragraph>
+<Paragraph position="2"> (1) Max entered the room. He had drunk/was drinking the wine.</Paragraph>
+<Paragraph position="3"> (2) A drunken man died in the central Phillipines when he put a firecracker under his armpit.</Paragraph>
+<Paragraph position="4"> (3) U. N. Secretary- General Boutros Boutros-Ghali  Sunday opened a meeting of ....Boutros-Ghali arrived in Nairobi from South Africa, ...</Paragraph>
+<Paragraph position="5"> As (Bell 1999) has pointed out, the temporal structure of news is dictated by perceived news value rather than chronology. Thus, the latest news is often presented first, instead of events being described in order of occurrence (the latter ordering is called the narrative convention).</Paragraph>
+<Paragraph position="6"> This paper describes a domain-independent approach to temporally anchoring and ordering events in news. The approach is motivated by a pilot experiment with 8 subjects providing news event-ordering judgments which revealed that the narrative convention applied only 47% of the time in ordering the events in successive past-tense clauses. Our approach involves mixed-initiative corpus annotation, with automatic tagging to identify clause structure, tense, aspect, and temporal adverbials, as well as tagging of reference times and anchoring of events with respect to reference times. We report on machine learning results from event-time anchoring judgments.</Paragraph>
+<Section position="1" start_page="2" end_page="2" type="sub_section">
+<SectionTitle>
+Linguistic Processing
+</SectionTitle>
+<Paragraph position="0"> The time expression tagger TempEx (Mani and Wilson 2000) tags and assigns values to temporal expressions, both &amp;quot;absolute&amp;quot; expressions like &amp;quot;June 1, 2001&amp;quot; and relative expressions like &amp;quot;Monday&amp;quot;. It was cited in (Mani and Wilson 2000) as achieving a .83 F-measure against hand-annotated data. Inter-annotator reliability across 5 annotators on 193 TDT2-documents was .79F for extent and .86F for time values, with TempEx scoring .76F (extent) and .82F (value) on these documents.</Paragraph>
+<Paragraph position="1"> The clause tagger (CLAUSE-IT) identifies top-level clauses (C), top-level clauses with gapped subjects (GC), e.g., &amp;quot;&lt;C&gt;He returned the book&lt;/C&gt; &lt;GC&gt;and went home&lt;/GC&gt;&amp;quot;, relative clauses (RC), and complement clauses (CO), which include all non-finite clauses.</Paragraph>
+<Paragraph position="2"> Our pilot experiment also revealed that the proportion of clauses with explicit time expressions (TIMEX2) is approximately 25%, suggesting that anchoring the events to just the explicit times wouldn't be sufficient.</Paragraph>
+<Paragraph position="3"> The system accordingly computes a reference time (Reichenbach 1947) value (tval) for each clause, defined to be either the time value of an explicit temporal expression mentioned in the clause, or, when the explicit time expression is absent, an implicit time value inferred from context.</Paragraph>
+<Paragraph position="4"> To generate this tval feature, the simple algorithm in Figure 1 was used. The system also anchors the event's time with respect to the tval (at, before, or after) when the tval is an explicit reference time. This feature is called anchor-explicit. All in all, the features shown in Table 1 were computed for each clause.</Paragraph>
+<Paragraph position="5"> Set initial tval to document-creation-date.</Paragraph>
+<Paragraph position="6"> For each clause:  1. If clause has explicit time, then set its tval to it. 2. If clause-type is relative clause, assume its tval is inaccessible to later discourse.</Paragraph>
+<Paragraph position="7"> 3. If clause verb is of type reporting verb, set tval to document-creation-date.</Paragraph>
+<Paragraph position="8"> 4. If clause is inside quotes inherit tval from embedding clause.</Paragraph>
+<Paragraph position="9"> 5. Otherwise, pick most recent tval.</Paragraph>
+<Paragraph position="10">  Reference Time (tval) CTYPE: clause is a regular clause, complement clause, or relative clause CINDEX: subclause index PARA: paragraph number SENT: sentence number SCONJ: subordinating conjunction (e.g., while, since, before) TPREP: preposition in a TIMEX2 PP TIMEX2: string in the TIMEX2 tag TMOD: temporal modifier not attached to a TIMEX2, (e.g., after [an altercation]) QUOTE: number of words in quotes REPVERB-P: reporting verb in clause STATIVE-P: stative verb in clause ACCOMP-P: accomplishment verb ASPECTSHIFT: shift in aspect from previous clause G-ASPECT: grammatical aspect {progessive, perfect,nil} TENSE: tense of clause {past, present, future, nil} TENSESHIFT: shift in tense from previous clause ANCHOR_EXPLICIT: {&lt;, &gt;, =, undef} null TVAL: reference time for clause, i.e., a time value  The statives and accomplishments were computed from UMaryland's LCS lexicon, based on (Dorr and Olsen 1997)</Paragraph>
+</Section>
+<Section position="2" start_page="2" end_page="2" type="sub_section">
+<SectionTitle>
+Learning Anchoring Rules
+</SectionTitle>
+<Paragraph position="0"> A human unconnected with our project corrected the tval, based on a set of annotation guidelines, on a sample of 2069 clauses extracted at random from the North American News Corpus. She also anchored the event's time with respect to the tval (AT, BEF, AFT, or undefined). This feature (not a machine feature) is called anchors.</Paragraph>
+<Paragraph position="1"> The corrections showed that the algorithm in Figure 1 was right on tval for 1231 out of 2069, giving an accuracy of 59%. Tracking the sequence of corrected tvals revealed that the tval of the previous clause was kept 65.75% of the time, that it reverted to some other previous tval 22.99% of the time, and that it shifted to a new tval 11.26% of the times. Most of the errors in computed tvals had to do with the tval being assigned erroneously the document date rather than reverting to a non-immediately previous tval. Finally, the anchor-explicit relation is correct 83.8% of the time; however, just guessing &amp;quot;at&amp;quot; for the explicit anchor will get an accuracy of 90.2%.</Paragraph>
+<Paragraph position="2">  We then used this training data to train a statistical classifier, C5.0 Rules (Quinlan 1997), to learn (1) anchors relation rules and (2) rules for tracking the tval moves (keep, revert, shift) across successive clauses.</Paragraph>
+<Paragraph position="3"> The accuracy of anchors rules as well as tval change rules are shown in Table 2. It can be seen that accuracy of machine learning here is significantly better than the majority class. The tval, tense, and tense shift play a useful role in anchoring, revealing that the tval is a useful abstraction. Here are some of the rules learnt (here t e is the clause index, assumed to stand for the event time of the clause): If no sconj and no tmod and no tprep and tval-class =day then anchors(AT, t e ,, tval) 80.4% accurate (156 examples).</Paragraph>
+<Paragraph position="4"> If tense is present and no sconj and tvalclass=month then anchors(AT, t e ,, tval) 77.8 (7).</Paragraph>
+<Paragraph position="5"> If tense is present perfect and no sconj, then See www.umiacs.umd.edu/ ~bonnie/ LCS_ Database_Documentation.html. null  Since the TIMEX2 and tval values form an open class, they were automatically grouped into classes based on the granularity of the time expression, namely, {time-of-day, day, week, month, year, or non-specific}.</Paragraph>
+<Paragraph position="6"> anchors(BEF, t e ,, tval) 83 (4).</Paragraph>
+<Paragraph position="7"> If tense shift is present2past and no explicit time and no sconj, then anchors(AT, t</Paragraph>
+<Paragraph position="9"></Paragraph>
+</Section>
+</Section>
+</Paper>
+

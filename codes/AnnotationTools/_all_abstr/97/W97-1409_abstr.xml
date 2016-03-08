@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-1409">
+<Title>Planning Referential Acts for Animated Presentation Agents</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Computer-based presentation systems enable the realization of effective and dynamic presentation styles that incorporate multiple media. In particular, they allow for the emulation of conversational styles known from personal human-human communication. In this paper, we argue that life-like characters are an effective means of encoding references to world objects in a presentation. We present a two-phase approach which first generates high-level referential acts and then transforms them into fine-grained animation sequences.</Paragraph>
+<Paragraph position="1"> * effectively establish cross-references between presentation parts which are conveyed by different media possibly being displayed in different windows; * enable new forms of deixis by personalizing the system as a situated presenter.</Paragraph>
+<Paragraph position="2"> For illustration, let's have a look at two example presentations taken from the PPP system (Personalized Plan-Based Presenter, (RAM97)). In Fig. 1, a pointing gesture is combined with a graphical annotation technique using a kind of magnifying glass.</Paragraph>
+</Section>
+</Paper>
+

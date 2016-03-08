@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N04-1041">
+<Title>Automatically Labeling Semantic Classes</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Systems that automatically discover semantic classes have emerged in part to address the limitations of broad-coverage lexical resources such as WordNet and Cyc. The current state of the art discovers many semantic classes but fails to label their concepts. We propose an algorithm labeling semantic classes and for leveraging them to extract is-a relationships using a top-down approach.</Paragraph>
+</Section>
+</Paper>
+

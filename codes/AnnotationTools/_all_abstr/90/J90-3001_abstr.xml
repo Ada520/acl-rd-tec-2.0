@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J90-3001">
+<Title>RESOLVING QUASI LOGICAL FORMS</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+RESOLVING QUASI LOGICAL FORMS
+Hiyan Alshawi
+SRI International
+</SectionTitle>
+<Paragraph position="0"> U.K.</Paragraph>
+<Paragraph position="1"> The paper describes intermediate and resolved logical form representations of sentences involving referring expressions and a reference resolution process for mapping between these representations. The intermediate representation, Quasi Logical Form (or QLF), may contain unresolved terms corresponding to anaphoric noun phrases covering bound variable anaphora, reflexives, and definite descriptions. Implict relations arising in constructs such as compound nominals appear in QLF as unresolved formulae. The QLF representation is also neutral with respect to ambiguities corresponding to quantifier scope and the collective/distributive distinction, the latter being treated as quantifier resolution. Reference candidates are proposed according to an ordered set of &amp;quot;reference resolution rules&amp;quot; producing possible resolved logical forms to which linguistic and pragmatic constraints are then applied.</Paragraph>
+</Section>
+</Paper>
+

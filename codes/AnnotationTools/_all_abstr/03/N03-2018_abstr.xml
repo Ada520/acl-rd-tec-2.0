@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N03-2018">
+<Title>Towards Emotion Prediction in Spoken Tutoring Dialogues</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Human tutors detect and respond to student emotional states, but current machine tutors do not. Our preliminary machine learning experiments involving transcription, emotion annotation and automatic feature extraction from our human-human spoken tutoring corpus indicate that the spoken tutoring system we are developing can be enhanced to automatically predict and adapt to student emotional states.</Paragraph>
+</Section>
+</Paper>
+

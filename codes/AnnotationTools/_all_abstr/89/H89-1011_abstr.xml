@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H89-1011">
+<Title>Speaker Adaptation from Limited Training in the BBN BYBLOS Speech Recognition System</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The BBN BYBLOS continuous speech recognition system has been used to develop a method of speaker adaptation from limited training. The key step in the method is the estimation of a probabilistic spectral mapping between a prototype speaker, for whom there exists a well-trained speaker-dependent hidden Markov model (HMM), and a target speaker for whom there is only a small amount of training speech available. The mapping defines a set of transformation matrices which are used to modify the parameters of the prototype model. The resulting transformed model is then used as an approximation to a well-trained model for the target speaker. We review the techniques employed to accomplish this transformation and present experimental results conducted on the DARPA Resource Management database.</Paragraph>
+</Section>
+</Paper>
+

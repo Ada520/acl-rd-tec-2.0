@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-1709">
+<Title>Sentence Completion Tests for Training and Assessment in a Computational Linguistics Curriculum</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a novel type of test, halfway between multiple-choice and free-form text, used for training and assessment in several courses in a Computational Linguistics curriculum. We will describe the principles of the test, the di erent ways in which it can be used by learners, and the tools developed for authoring.</Paragraph>
+<Paragraph position="1"> Use of this type of test is not limited to the eld of Computational Linguistics. Wherever text heavy or even picture based topics are taught use of this type of test is possible.</Paragraph>
+</Section>
+</Paper>
+

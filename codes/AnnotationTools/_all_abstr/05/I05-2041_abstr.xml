@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="I05-2041">
+<Title>Tree Annotation Tool using Two-phase Parsing to Reduce Manual Effort for BuildingaTreebank</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we propose a tree annotation tool using a parser in order to build a treebank. For the purpose of minimizing manual effort without any modification of the parser, it performs two-phase parsing for the intra-structure of each segment and the inter-structure after segmenting a sentence. Experimental results show that it can reduce manual effort about 24.5% as compared with a tree annotation tool without segmentation because an annotation's intervention related to cancellation and reconstruction remarkably decrease although it requires the annotator to segment some long sentence.</Paragraph>
+</Section>
+</Paper>
+

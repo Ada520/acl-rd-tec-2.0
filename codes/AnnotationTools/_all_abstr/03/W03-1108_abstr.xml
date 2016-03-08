@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-1108">
+<Title>Learning Bilingual Translations from Comparable Corpora to Cross-Language Information Retrieval: Hybrid Statistics-based and Linguistics-based Approach</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Recent years saw an increased interest in the use and the construction of large corpora. With this increased interest and awareness has come an expansion in the application to knowledge acquisition and bilingual terminology extraction. The present paper will seek to present an approach to bilingual lexicon extraction from non-aligned comparable corpora, combination to linguistics-based pruning and evaluations on Cross-Language Information Retrieval. We propose and explore a two-stages translation model for the acquisition of bilingual terminology from comparable corpora, disambiguation and selection of best translation alternatives on the basis of their morphological knowledge. Evaluations using a large-scale test collection on Japanese-English and different weighting schemes of SMART retrieval system confirmed the effectiveness of the proposed combination of two-stages comparable corpora and linguistics-based pruning on Cross-</Paragraph>
+</Section>
+</Paper>
+

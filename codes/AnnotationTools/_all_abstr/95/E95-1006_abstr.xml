@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E95-1006">
+<Title>A Specification Language for Lexical Functional Grammars</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper defines a language Z~ for specifying LFG grammars. This enables constraints on LFG's composite ontology (c-structures synchronised with fstructures) to be stated directly; no appeal to the LFG construction algorithm is needed. We use f to specify schemata annotated rules and the LFG uniqueness, completeness and coherence principles. Broader issues raised by this work are noted and discussed.</Paragraph>
+</Section>
+</Paper>
+

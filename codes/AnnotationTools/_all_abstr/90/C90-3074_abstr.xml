@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-3074">
+<Title>A Machine Translation System for the Target Language Inexpert</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> Almost all commercial machine translation (MT) systems to date are designed for multi-lingual users, normally with post-editing facilities (Melby, 1987). To cater for the needs of users not skilled in either the source language or the target language an MT system must provide facilities for the user to check into the quality of the translation, without knowing the foreign language. In this note two presumptions are made: first, we discuss only translation from the user's native language into a foreign language (or &amp;quot;exo port translation&amp;quot;); second, we will restrict the quality checking to accuracy checking only, leaving style considerations aside.</Paragraph>
+<Paragraph position="1"> In the following sections we will first discuss approaches to assuring correct translation, and then describe the selective confirmation approach adopted in our MT system.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-2089">
+<Title>Tagging and Chunking with Bigrams</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we present an integrated system for tagging and chunking texts from a certain language.</Paragraph>
+<Paragraph position="1"> The approach is based on stochastic finite-state models that are learnt automatically. This includes bigrmn models or tinite-state automata learnt using grammatical inference techniques. As the models involved in our system are learnt automatically, this is a very flexible and portable system.</Paragraph>
+<Paragraph position="2"> Itl order to show the viability of our approach we t)resent results for tagging mid chunking using bigrain models on the Wall Street Journal corpus. We have achieved an accuracy rate for tagging of 96.8%, and a precision rate tbr NP chunks of 94.6% with a recall rate of 93.6%.</Paragraph>
+</Section>
+</Paper>
+

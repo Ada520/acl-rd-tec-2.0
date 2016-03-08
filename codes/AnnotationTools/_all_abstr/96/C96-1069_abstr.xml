@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-1069">
+<Title>An Automatic Clustering of Articles Using Dictionary Definitions</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we propose a statistical approach for clustering of artMes using on-line dictionary definitions. One of the characteristics of our approach is that every sense of word in artMes is automatically disambiguated using dictionary definitions. The other is that in order to cope with the problem of a phrasal lexicon, linking which links words with their semantically similar words in articles is introduced in our method. The results of experiments demonstrate the effectiveness of the proposed method.</Paragraph>
+</Section>
+</Paper>
+

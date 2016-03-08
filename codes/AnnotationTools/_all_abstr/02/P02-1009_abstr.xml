@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P02-1009">
+<Title>Generalized Encoding of Description Spaces and its Application to Typed Feature Structures</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a new formalization of a unification- or join-preserving encoding of partially ordered sets that more essentially captures what it means for an encoding to preserve joins, generalizing the standard definition in AI research. It then shows that every statically typable ontology in the logic of typed feature structures can be encoded in a data structure of fixed size without the need for resizing or additional union-find operations. This is important for any grammar implementation or development system based on typed feature structures, as it significantly reduces the overhead of memory management and reference-pointer-chasing during unification.</Paragraph>
+<Paragraph position="1"> adj noun nom acc plus minus subst case bool head  values (value restrictions) those feature values must have. In Figure 1,1 for example, all head-typed TFSs must have bool-typed values for the features MOD and PRD, and no values for any other feature. Relative to data structures like arrays or logical terms, typed feature structures (TFSs) can be regarded as an expressive refinement in two different ways. First, they are typed, and the type system allows for subtyping chains of unbounded depth. Figure 1 has a chain of length from to noun. Pointers to arrays and logical terms can only monotonically &amp;quot;refine&amp;quot; their (syntactic) type from unbound (for logical terms, variables) to bound. Second, although all the TFSs of a given type have the same features because of appropriateness, a TFS may acquire more features when it promotes to a subtype. If a head-typed TFS promotes to noun in the type system above, for example, it acquires one extra casevalued feature, CASE. When a subtype has two or 1 In this paper, Carpenter's (1992) convention of using as the most general type, and depicting subtypes above their supertypes is used.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W01-1207">
+<Title>Terminological variants for document selection and question/answer matching</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Answering precise questions requires applying Natural Language techniques in order to locate the answers inside retrieved documents. The QALC system, presented in this paper, participated to the Question Answering track of the TREC8 and TREC9 evaluations. QALC exploits an analysis of documents based on the search for multi-word terms and their variations. These indexes are used to select a minimal number of documents to be processed and to give indices when comparing question and sentence representations. This comparison also takes advantage of a question analysis module and recognition of numeric and named entities in the documents.</Paragraph>
+</Section>
+</Paper>
+

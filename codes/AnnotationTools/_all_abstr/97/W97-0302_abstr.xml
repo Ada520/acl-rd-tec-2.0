@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0302">
+<Title>Global Thresholding and Multiple-Pass Parsing*</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a variation on classic beam thresholding techniques that is up to an order of magnitude faster than the traditional method, at the same performance level. We also present a new thresholding technique, global thresholding, which, combined with the new beam thresholding, gives an additional factor of two improvement, and a novel technique, multiple pass parsing, that can be combined with the others to yield yet another 50% improvement. We use a new search algorithm to simultaneously optimize the thresholding parameters of the various algorithms.</Paragraph>
+</Section>
+</Paper>
+

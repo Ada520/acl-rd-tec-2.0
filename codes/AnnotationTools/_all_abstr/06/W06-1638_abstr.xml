@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-1638">
+<Title>Better Informed Training of Latent Syntactic Features</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We study unsupervised methods for learning refinements of the nonterminals in a treebank. Following Matsuzaki et al.</Paragraph>
+<Paragraph position="1"> (2005) and Prescher (2005), we may for example split NP without supervision into NP[0] andNP[1], which behave differently.</Paragraph>
+<Paragraph position="2"> We first propose to learn a PCFG that adds such features to nonterminals in such a way that they respect patterns of linguistic feature passing: each node's nonterminal features are either identical to, or independent of, those of its parent. This linguistic constraint reduces runtime and the number of parameters to be learned. However, it did not yield improvements when training on the Penn Treebank. An orthogonal strategy was more successful: to improve the performance of the EM learner by treebank preprocessing and by annealing methods that split nonterminals selectively. Using these methods, we can maintain high parsing accuracy while dramatically reducing the model size.</Paragraph>
+</Section>
+</Paper>
+

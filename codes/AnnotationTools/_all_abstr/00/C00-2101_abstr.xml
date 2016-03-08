@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-2101">
+<Title>Learning Semantic-Level Information Extraction Rules by Type-Oriented ILP</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes an approach to using semantic rcprcsentations for learning information extraction (IE) rules by a type-oriented inductire logic programming (ILl)) system. NLP components of a lnachine translation system are used to automatically generate semantic representations of text corpus that can be given directly to an ILP system. The latest experimental results show high precision and recall of the learned rules.</Paragraph>
+</Section>
+</Paper>
+

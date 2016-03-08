@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W96-0418">
+<Title>Matchmaking: dialogue modelling and speech generation meet*</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Keywords: Speech generation, intonation
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This article is concerned with determining the constraints on the selection of appropriate intonation in speech generation in human-machine information seeking dialogues. The two pillars of our system--a state-of-the-art computational dialogue model and a state-of-the-art NL generator--are presented.</Paragraph>
+<Paragraph position="1"> Based on this, we determine the kinds of linguistic and pragmatic knowledge needed to sufficiently constrain choice in the intonational resources of the system. We take into consideration factors such as dialogue history, speaker's attitudes, heater's expectations, and semantic speech functions.</Paragraph>
+</Section>
+</Paper>
+

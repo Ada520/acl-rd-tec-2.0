@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E99-1030">
+<Title>The Development of Lexical Resources for Information Extraction from Text Combining WordNet and Dewey Decimal Classification*</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Lexicon definition is one of the main bottlenecks in the development of new applications in the field of Information Extraction from text. Generic resources (e.g., lexical databases) are promising for reducing the cost of specific lexica definition, but they introduce lexical ambiguity. This paper proposes a methodology for building application-specific lexica by using WordNet. Lexical ambiguity is kept under control by marking synsets in WordNet with field labels taken from the Dewey Decimal Classification.</Paragraph>
+</Section>
+</Paper>
+

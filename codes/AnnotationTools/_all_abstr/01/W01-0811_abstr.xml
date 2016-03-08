@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W01-0811">
+<Title>References</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The aim of this talk is to show to what extent the work on text generation by computer (TGBC) does not address some of the fundamental problems people struggle with when generating language (TGBP). We will substantiate this claim by taking two tasks on which a lot of research has been carried out during the last 15 years: discourse planning and lexicalisation.</Paragraph>
+</Section>
+</Paper>
+

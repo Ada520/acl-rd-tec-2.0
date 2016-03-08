@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H01-1009">
+<Title>Automatic Pattern Acquisition for Japanese Information Extraction</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> One of the central issues for information extraction is the cost of customization from one scenario to another. Research on the automated acquisition of patterns is important for portability and scalability. In this paper, we introduce Tree-Based Pattern representation where a pattern is denoted as a path in the dependency tree of a sentence. We outline the procedure to acquire Tree-Based Patterns in Japanese from un-annotated text. The system extracts the relevant sentences from the training data based on TF/IDF scoring and the common paths in the parse tree of relevant sentences are taken as extracted patterns.</Paragraph>
+</Section>
+</Paper>
+

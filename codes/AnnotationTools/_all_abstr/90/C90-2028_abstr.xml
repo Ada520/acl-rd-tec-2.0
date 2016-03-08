@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-2028">
+<Title>Reading Distinction in MT*</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+email: tenhackenC~hutruu59.bitnet
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In any system for Natural Language Processing having a dictionary, the question arises as to whiclh entries are included in it. In this paper, I address the subquestion as to whether a lexical unit having two senses should be considered ambiguous or vague with respect to them. The inadequacy of some common strategies to answer this question in Machine Translation (MT) systems is shown. From a semantic conjecture, tests are developed that are argued to give more consistent and theoretically well-founded results.</Paragraph>
+</Section>
+</Paper>
+

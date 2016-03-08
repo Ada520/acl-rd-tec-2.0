@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-2126">
+<Title>MULTITALE: linking medical concepts by means of frames</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> In this paper MULTITALE, a system for the semantic tagging of medical neurosurgical texts and for the semi-automatic expansion of the medical lexicon, will be presented. Given the textual information explosion (in particular in, though not restricted to, specialized domains) there is an urgent need for tools enabling to exploit the information available in natural language texts. MULTITALE has been devised therefore primarily with the aim to make explicit semantic information in medical texts, which should lead to more refined information retrieval results. By making &amp;quot;educated guesses&amp;quot; the system moreover has a possibility to expand its own lexicon of medical terms so to be able to cope with new texts.</Paragraph>
+</Section>
+</Paper>
+

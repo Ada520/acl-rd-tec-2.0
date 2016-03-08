@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C80-1047">
+<Title>STATISTICAL ANALYSIS OF JAPANESE CHARACTERS</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+STATISTICAL ANALYSIS OF JAPANESE CHARACTERS
+</SectionTitle>
+<Paragraph position="0"> The purpose of this study is to analyze the statistical property of Japanese characters for computer processing. Sentences in high school text-books and newspapers have been investigated in this study. This paper contains the following points : the number of different words written in each character, position of characters in a word, relation between word boundaries and character strings, relation between parts of speech and patterns of character strings, relation between parts of speech and each character.</Paragraph>
+<Paragraph position="1"> The results of these investigations can be applied to the processing of written Japanese for practical purpose.</Paragraph>
+<Paragraph position="2"> i. Introduction There are several different aspects between English and Japanese in the information processing of natural language. The first concerns the number of characters. In order to write Japanese more than 2,000 characters are used.</Paragraph>
+<Paragraph position="3"> The second concerns the way of writing.</Paragraph>
+<Paragraph position="4"> A Japanese sentence consists of a continuous character string without any space between words. The third concerns word order and other syntactic features.</Paragraph>
+<Paragraph position="5"> Among these aspects, the second and third features are closely related to the characters.</Paragraph>
+<Paragraph position="6"> Japanese characters consist of three kinds. A KANJI(Chinese character) is used to write nouns and the principal part of a predicate, and expresses the concepts contained in the sentence.</Paragraph>
+<Paragraph position="7"> A HIRAGANA (traditional Japanese character) is used to write conjunctions, adverbs, JODOSHI (mainly expresses many modalities of a predicate) and JOSHI (post-position, mainly expresses case relations). A KATAKANA (traditional Japanese character) is used mainly as phonetic signs to write foreign words.</Paragraph>
+<Paragraph position="8"> Accordingly, Japanese characters are regarded as elements of words, at the same time, they function to characterize the syntactic or semantic classes of words and express word boundaries in a character string.</Paragraph>
+<Paragraph position="9"> The following Japanese character strings, (A) to (D), are the same sentenCes written by using KANJI to different degrees.</Paragraph>
+<Paragraph position="10"> (D) is quoted from a high school textbook (world history).</Paragraph>
+<Paragraph position="11"> While (A), (B) and (C) are transliterated from (D) by computer. 1,2  without using KANJI.</Paragraph>
+<Paragraph position="12"> (B) is written in HIRAGANA, KATAKANA and 200 KANJI of high frequency in Japanese writing.</Paragraph>
+<Paragraph position="13"> (C) is written in HIRAGANA, KATAKANA and the so-called educational KANJI (996 characters).</Paragraph>
+<Paragraph position="14"> Low graders in elementary school tend to write sentences like (A). The older they get the more KANJI they learn and they begin to write sentences like (D) in high school. When we read sentences like (A), we realize it is very difficult to read them, because we cannot find word boundaries easily. On the other hand, in (B), (C) and (D) we find less difficulty in this order. Because we can easily find out word boundaries by means of KANJI in a character string. Boundaries between a HIRAGANA part and a KANJI part play a role to indicate word boundaries in many cases. We can also grasp main concepts in a sentence by focusing our attention to the KANJI parts of the sentence.</Paragraph>
+<Paragraph position="15"> Therefore, it is very important to use HIRAGANA and KANJI appropriately in a character string. It is, however, hard to say the rules for the appropriate use of HIRAGANA and KANJI have been established. Due to the fact, it is necessary for us to study more about the actual use of Japanese characters. Because, explication of rules for the appropriate use of the characters is a prerequisite for information processing in commonly written Japanese.</Paragraph>
+</Section>
+</Paper>
+

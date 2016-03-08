@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C88-1020">
+<Title>SPI'\]ECIt-RATE VARIATION AND TIlE PREDICTION OF DURATION</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> A comparison between the output fioin a set of duration rules based on Klatt '76 and measured durations in a text allows quantificati.on of speech rate at a local as well as a global level.</Paragraph>
+<Paragraph position="1"> The rules account for knowo correlates of duration change, such as Stl'e~s, phonetic and phrasal context, aud inherent differences in the durations of each segment, but make no allowan(e for local changes of rate within a text. The degree of fit of the OUtl~Ut from snch a system to the observed durations in tile text provides a guide both to the accuracy of Ille rule-set and to tile rate-related variation within that text.</Paragraph>
+<Paragraph position="2"> Statistic~l procedures can bc applied to reduce the rule-related error au, l thereby strengthen both the predictions of the rules and the quantification of the rate variation. This paper describc~ research it\] progress.</Paragraph>
+</Section>
+</Paper>
+

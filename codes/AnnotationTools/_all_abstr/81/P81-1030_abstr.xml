@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P81-1030">
+<Title>A TAXONOMY FOR ENGLISH NOUNS AND VERBS</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. INTRODUCTION
+</SectionTitle>
+<Paragraph position="0"> In the late 1960&amp;quot;s, John 01ney et al. at System</Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+Development Corporation produced machine-readable copies
+</SectionTitle>
+<Paragraph position="0"> of the Merriam-Webster New Pocke~ Dictionary and the Sevent~ Collegiate Dictionary. These massive data files have been widely distributed within the computational linguistic community, yet research upon the basic structure of the dictionary has been exceedingly slow and difficult due to the Significant computer resources required to process tens of thousands of definitions.</Paragraph>
+<Paragraph position="1"> The dictionary is a fascinating computational resource. It contains spelling, pronunciation, hyphenation, capitalization, usage notes for semantic domains, geographic regions, and propriety; etymological, syntactic and semantic information about the most basic units of the language. Accompanying definitions are example sentences which often use words in prototypical contexts. Thus the dictionary should be able to serve as a resource for a variety of computational linguistic needs. My primary concern within the dictionary has been the development of dictionary data for use in understanding systems. Thus I am concerned with what dictionary definitions tell us about the semantic and pragmatic structure of meaning. The hypothesis I am proposing is that definitions in the lexicon can be studied in the same manner as other large collections of objects such as plants, animals, and minerals are studied. Thus I am concerned with enunerating the classifications1 organization of the lexicon as it has been implicitly used by the dictionary's lexicographers. Each textual definition in the dictionary is syntactically a noun or verb phrase with one or more kernel terms. If one identifies these kernel terms of definitions, and then proceeds to disambiguate them relative to the senses offered in the same dictionary under their respective definitions, then one can arrive at a large collection of pairs of disambiguated words which can be assembled into a taxonomic semi-lattice.</Paragraph>
+<Paragraph position="2"> This task has been accomplished for all the definition texts of nouns and verbs in a comu~n pocket dictionary.</Paragraph>
+<Paragraph position="3"> This paper is an effort to reveal the results of a preliminary examination of the structure of these databases.</Paragraph>
+<Paragraph position="4"> The applications of this data are still in the future.</Paragraph>
+<Paragraph position="5"> What might these applications be? First, the data shoul'd provide information on the contents of semantic domains. One should be able to determine from a lexical taxonomy what domains one might be in given one has encountered the word &amp;quot;periscope&amp;quot;, or &amp;quot;petiole&amp;quot;, or &amp;quot;petroleum&amp;quot;. Second, dictionary data should be of use in resolving semantic ambiguity in text. Words in definitions appear in the company of their prototypical associates.</Paragraph>
+<Paragraph position="6"> Third, dictionary data can provide the basis for creating case gr-,-~-r descriptions of verbs, and noun argument descriptions of nouns. Semantic templates of meaning are far richer when one considers the taxonomic inheritance of elements of the lexicon.</Paragraph>
+<Paragraph position="7"> Fourth. the dictionary should offer a classification which anthropological linguists and psycholinguists can use as an objective reference in comparison with other cultures or human memory observations. This isn't to say that the dictionary's classification is the same as the culture's or the human mind's, only that it is an objective datum from which comparisons can be made.</Paragraph>
+<Paragraph position="8"> Fifth. knowledge of how the dictionary is structured can be used by lexicographers to build better dictionaries.</Paragraph>
+<Paragraph position="9"> And finally, the dictionary if converted into a computer tool can become more readily accessible to all the disciplines seeking Co use the current paper-based versions. Education. historical linguistics, sociology. English composition, etc. can all make steps foxward given that they can assume access to a dictionary is immediately available via computer. I do not know what all these applications will be and the task at hand is simply an elucidation of the dictionary's structure as it currently exists.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

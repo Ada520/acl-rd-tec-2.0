@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C88-2147">
+<Title>Feature Structures Based Tree Adjoining Grammars 1</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract We have embedded Tree Adjoining Grammars (TAG) in a fea-
+</SectionTitle>
+<Paragraph position="0"> ture structure based unification system. The resulting system, Feature Structure based Tree Adjoining Grammars (FTAG), captures the principle of factoring dependencies and recursion, fundamental to TAG's. Wc show that FTAG has an enhanced descriptive capacity compared to TAG formalisnr. We consider some restricted versions of this system and some possible linguistic stipulations that can be made. We briefly describe a calculus to represent the structures used by this system, extending on the work of Rounds, and Kasper \[Rounds et al. 1986, Kasper et al. 1986\] involving the logical formulation of feature structures.</Paragraph>
+<Paragraph position="2"></Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C88-1075">
+<Title>Parsing Incomplete Sentences</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> An efficient context-free parsing algorithm is presented that can parse sentences with unknown parts of unknown length. It pa'oduees in finite form all possible parses (often infinite in number) that could account for the missing parts. The algorithm is a variation oa the construction due to Earley. ltowever, its presentation is such that it can readily be adapted to any chart parsing schema (topdown, bottom-up, etc...).</Paragraph>
+</Section>
+</Paper>
+

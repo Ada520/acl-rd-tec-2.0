@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P92-1054">
+<Title>Sense-Linking in a Machine Readable Dictionary</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> Machine-readable dictionaries contain a rich set of relationships between their senses, and indicate them in a variety of ways. Sometimes the relationship is provided explicitly, such as with a synonym or antonym reference. More commonly the relationship is only implicit, and needs to be uncovered through outside mechanisms. This paper describes our efforts at identifying these links.</Paragraph>
+<Paragraph position="1"> The purpose of the research is to obtain a better understanding of the relationships between word meanings, and to provide data for our work on word-sense disambiguation and information retrieval. Our hypothesis is that retrieving documents on the basis of word senses (instead of words) will result in better performance. Our approach is to treat the information associated with dictionary senses (part of speech, subcategorization, subject area codes, etc.) as multiple sources of evidence (cf. Krovetz \[3\]).</Paragraph>
+<Paragraph position="2"> This process is fundamentally a divisive one, and each of the sources of evidence has exceptions (i.e., instances in which senses are related in spite of being separated by part of speech, subcategorization, or morphology). Identifying related senses will help us to test the hypothesis that unrelated meanings will be more effective at separating relevant from nonrelevant documents than meanings which are related. null We will first discuss some of the explicit indications of sense relationships as found in usage notes and deictic references. We will then describe our efforts at uncovering the implicit relationships via stochastic tagging and word collocation.</Paragraph>
+</Section>
+</Paper>
+

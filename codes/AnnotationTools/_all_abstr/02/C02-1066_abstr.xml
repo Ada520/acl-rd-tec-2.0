@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C02-1066">
+<Title>Guaranteeing Parsing Termination of Uni cation Grammars</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Uni cation grammars are known to be Turingequivalent; given a grammar a0 and a word a1 , it is undecidable whether a1a3a2a5a4a7a6 a0a9a8 . In order to ensure decidability, several constraints on grammars, commonly known as off-line parsability (OLP) were suggested. The recognition problem is decidable for grammars which satisfy OLP. An open question is whether it is decidable if a given grammar satis es OLP. In this paper we investigate various de nitions of OLP, discuss their inter-relations and show that some of them are undecidable.</Paragraph>
+</Section>
+</Paper>
+

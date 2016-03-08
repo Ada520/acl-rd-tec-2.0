@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="I05-3007">
+<Title>Chinese Sketch Engine and the Extraction of Grammatical Collocations</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> The accessibility to large scale corpora, at one billion words or above, has become both a blessing and a challenge for NLP research. How to efficiently use a gargantuan corpus is an urgent issue concerned by both users and corpora designers. Adam Kilgarriff et al. (2004) developed the Sketch Engine to facilitate efficient use of corpora. Their claims are two folded: that genuine linguistic generalizations can be automatically extracted from a corpus with simple collocation information provided that the corpus is large enough; and that such a methodology is easily adaptable for a new language. The first claim was fully substantiated with their work on BNC. The current paper deals with the second claim by adapting the Sketch Engine to Chinese.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C65-1028">
+<Title>VANDENBUR.GH MORPHISM: A SYMBOLIC LIST PROCESSING LANGUAGE I</Title>
+<Section position="1" start_page="28" end_page="28" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> With the formal study of natural languages, we have obtained some residual results which greatly increase our power of logical manipulation. Coupled with a computer, our language extends enormously the external logic of our computing device. This paper is concerned with a well-defined symbolic list processing language and a set of operators for this language. These operators, which we call morphisms, are themselves operators thereby giving us an indefinite nesting ability. We have defined a schematic representation of'our operators (called a comb-scheme) and have then proceeded to describe a numbering technique which allows us to use these operators with a computer. Since our operators and lists are defined at the time of execution, our ability to change them is unlimited.</Paragraph>
+<Paragraph position="1"> The pattern of this paper is to build up from an alphabet to words, then non-connected words, then lists and the operations on lists and finally operations on the operations. We have taken, what we hope to be, descriptive examples in linguistics and non-linguistical applications in the hope of being representative of our language and easily understandable. null</Paragraph>
+</Section>
+</Paper>
+

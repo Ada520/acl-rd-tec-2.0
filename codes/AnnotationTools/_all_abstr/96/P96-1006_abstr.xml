@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P96-1006">
+<Title>Integrating Multiple Knowledge Sources to Disambiguate Word Sense: An Exemplar-Based Approach</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we present a new approach for word sense disambiguation (WSD) using an exemplar-based learning algorithm.</Paragraph>
+<Paragraph position="1"> This approach integrates a diverse set of knowledge sources to disambiguate word sense, including part of speech of neighboring words, morphological form, the unordered set of surrounding words, local collocations, and verb-object syntactic relation. We tested our WSD program, named LEXAS, on both a common data set used in previous work, as well as on a large sense-tagged corpus that we separately constructed. LEXAS achieves a higher accuracy on the common data set, and performs better than the most frequent heuristic on the highly ambiguous words in the large corpus tagged with the refined senses of WoRDNET.</Paragraph>
+</Section>
+</Paper>
+

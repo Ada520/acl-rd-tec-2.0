@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1157">
+<Title>Verb Phrase Ellipsis detection using Automatically Parsed Text</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a Verb Phrase Ellipsis (VPE) detection system, built for robustness, accuracy and domain independence.</Paragraph>
+<Paragraph position="1"> The system is corpus-based, and uses a variety of machine learning techniques on free text that has been automatically parsed using two difierent parsers. Tested on a mixed corpus comprising a range of genres, the system achieves a 72% F1-score. It is designed as the flrst stage of a complete VPE resolution system that is input free text, detects VPEs, and proceeds to flnd the antecedents and resolve them.</Paragraph>
+</Section>
+</Paper>
+

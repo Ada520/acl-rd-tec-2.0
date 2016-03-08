@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-0122">
+<Title>Sydney, July 2006. c(c)2006 Association for Computational Linguistics On Using Ensemble Methods for Chinese Named Entity Recognition</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In sequence labeling tasks, applying different machine learning models and feature sets usually leads to different results. In this paper, we exploit two ensemble methods in order to integrate multiple results generated under different conditions. One method is based on majority vote, while the other is a memory-based approach that integrates maximum entropy and conditional random field classifiers. Our results indicate that the memory-based method can outperform the individual classifiers, but the majority vote method cannot.</Paragraph>
+</Section>
+</Paper>
+

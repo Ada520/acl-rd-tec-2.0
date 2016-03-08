@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C94-1033">
+<Title>Backtracking-Free Dictionary Access Method for Japanese Morphological Analysis</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction Input sentence: ~-\[-Ill:~fC/:,~ e) I-3f- ~: j~. --~/:. o
+JMA output:
+</SectionTitle>
+<Paragraph position="0"> Since the Japanese language does not have explicit word boundaries, dictionary lookup should be done, in principle, for all possible sub-strings in an input sentence. Thus, Japanese morphological analysis involves a large number of dictionary accesses.</Paragraph>
+<Paragraph position="1"> The standard technique for handling this problem is to use the TRIE structure to find all the words that begin at a given position in a sentence (Morimoto and Aoe 1993). This process is executed for every character position in the sentence; that is, after looking up all the words beginning at position n, the program looks up all the words beginning at position n + 1, and so on. Therefore, some characters may be scanned more than once for different starting positions.</Paragraph>
+<Paragraph position="2"> This paper describes an attempt to minimize this 'backtracking' by using an idea similar to one proposed by Aho and Corasick (Aho 1990) for multiple-keyword string matching. When used with a 70,491-word dictionary that we developed for Japanese morphological analysis, our method reduced the number of dictionary accesses by 25%.</Paragraph>
+<Paragraph position="3"> The next section briefly describes the problem and our basic idea for handling it. The detailed algorithm is given in Section 3 and Section 4, followed by the results of an experiment</Paragraph>
+</Section>
+</Paper>
+

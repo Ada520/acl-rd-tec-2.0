@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E06-1050">
+<Title>A Probabilistic Answer Type Model</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> All questions are implicitly associated with an expected answer type. Unlike previous approaches that require a predefined set of question types, we present a method for dynamically constructing a probability-based answer type model for each different question. Our model evaluates the appropriateness of a potential answer by the probability that it fits into the question contexts. Evaluation is performed against manual and semi-automatic methods using a fixed set of answer labels. Results show our approach to be superior for those questions classified as having a miscellaneous answer type.</Paragraph>
+</Section>
+</Paper>
+

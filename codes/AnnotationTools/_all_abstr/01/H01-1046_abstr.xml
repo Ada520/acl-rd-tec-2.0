@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H01-1046">
+<Title>LaTaT: Language and Text Analysis Tools</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> LaTaT is a Language and Text Analysis Toolset. This paper gives a brief description of the components comprising LaTaT, including a Minimalist parser and language and concept learning programs.</Paragraph>
+</Section>
+</Paper>
+

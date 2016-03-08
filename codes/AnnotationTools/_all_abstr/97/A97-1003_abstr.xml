@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A97-1003">
+<Title>High Performance Segmentation of Spontaneous Speech Using Part of Speech and Trigger Word Information</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe and experimentally evaluate an efficient method for automatically determining small clause boundaries in spontaneous speech. Our method applies an artificial neural network to information about part of speech and trigger words.</Paragraph>
+<Paragraph position="1"> We find that with a limited amount of data (less than 2500 words for the training set), a small sliding context window (+/-3 tokens) and only two hidden units, the neural net performs extremely well on this task: less than 5% error rate and F-score (combined precision and recall) of over .85 on unseen data.</Paragraph>
+<Paragraph position="2"> These results prove to be better than those reported earlier using different approaches.</Paragraph>
+</Section>
+</Paper>
+

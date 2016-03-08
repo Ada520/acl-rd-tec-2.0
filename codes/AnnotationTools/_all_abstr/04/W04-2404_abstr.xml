@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-2404">
+<Title>Combining Lexical and Syntactic Features for Supervised Word Sense Disambiguation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The success of supervised learning approaches to word sense disambiguation is largely dependent on the features used to represent the context in which an ambiguous word occurs.</Paragraph>
+<Paragraph position="1"> Previous work has reached mixed conclusions; some suggest that combinations of syntactic and lexical features will perform most effectively. However, others have shown that simple lexical features perform well on their own. This paper evaluates the effect of using different lexical and syntactic features both individually and in combination. We show that it is possible for a very simple ensemble that utilizes a single lexical feature and a sequence of part of speech features to result in disambiguation accuracy that is near state of the art.</Paragraph>
+</Section>
+</Paper>
+

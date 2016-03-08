@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H94-1081">
+<Title>Is N-Best Dead?</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> We developed a faster search algorithm that avoids the use of the N-Best paradigm until after more powerful knowledge sources have been used. We found, however, that there was little or no decrease in word errors. We then showed that the use of the N-Best paradigm is still essential for the use of still more powerful knowledge sources, and for several other purposes that are outlined in the paper.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W05-1604">
+<Title>Real-Time Stochastic Language Generation for Dialogue Systems</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes Acorn, a sentence planner and surface realizer for dialogue systems. Improvements to previous stochastic word-forest based approaches are described, countering recent criticism of this class of algorithms for their slow speed.</Paragraph>
+<Paragraph position="1"> An evaluation of the approach with semantic input shows runtimes of a fraction of a second and presents results that suggest it is also portable across domains.</Paragraph>
+</Section>
+</Paper>
+

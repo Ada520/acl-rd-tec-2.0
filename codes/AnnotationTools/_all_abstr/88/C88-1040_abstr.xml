@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C88-1040">
+<Title>Robust parsing of severely corrupted spoken utterances</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a technique for enabling a speech understanding system to deal with sentences for which some monosyllabic words are not recognized. Such words are supposed to act as mere syntactic markers within the system linguistic domain. This result is achieved by combining a modified caseframe approach to linguistic knowledge representation with a parsing strategy able to integrate expectations from the language model and predictions from words. Experimental results show that the proposed technique permits to greatly increase the quota of corrupted sentences correctly understandable without sensibly decreasing parsing efficiency.</Paragraph>
+</Section>
+</Paper>
+

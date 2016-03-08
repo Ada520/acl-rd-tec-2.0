@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N03-1001">
+<Title>Effective Utterance Classification with Unsupervised Phonotactic Models</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a method for utterance classification that does not require manual transcription of training data. The method combines domain independent acoustic models with off-the-shelf classifiers to give utterance classification performance that is surprisingly close to what can be achieved using conventional word-trigram recognition requiring manual transcription. In our method, unsupervised training is first used to train a phone n-gram model for a particular domain; the output of recognition with this model is then passed to a phone-string classifier. The classification accuracy of the method is evaluated on three different spoken language system domains.</Paragraph>
+</Section>
+</Paper>
+

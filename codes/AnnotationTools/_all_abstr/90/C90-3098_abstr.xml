@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-3098">
+<Title>USING THE SAME SYSTEM FOR ANALYZING AND SYNTHESIZING SENTENCES</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+USING THE SAME SYSTEM FOR ANALYZING AND SYNTHESIZING SENTENCES
+</SectionTitle>
+<Paragraph position="0"></Paragraph>
+</Section>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> We specify the advantages of guided composition of sentences and illustrate them with examples from Leader, a natural language interface we have developped. Guided composition is achieved by using the same grammar for analysis and for synthesis. We detail the problems we have encountered and we provide solutions for partial synthesis. We give the principles of the analysis-synthesis algorithm.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-2151">
+<Title>Handling Sparse Data by Successive Abstraction</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A general, practical method for handling sparse data that avoids held-out data and iterative reestimation is derived from first principles. It has been tested on a part-of-speech tagging task and out-performed (deleted) interpolation with context-independent weights, even when the latter used a globally optimal parameter setting determined a posteriori.</Paragraph>
+</Section>
+</Paper>
+

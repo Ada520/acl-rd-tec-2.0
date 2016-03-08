@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A94-1016">
+<Title>Three Heads are Better than One</Title>
+<Section position="1" start_page="0" end_page="95" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Machine translation (MT) systems do not currently achieve optimal quality translation on free text, whatever translation method they employ. Our hypothesis is that the quality of MT will improve if an MT environment uses output from a variety of MT systems working on the same text. In the latest version of the Pangloss MT project, we collect the results of three translation engines -- typically, sub-sentential chunks -- in a chart data structure. Since the individual MT systems operate completely independently, their results may be incomplete, conflicting, or redundant. We use simple scoring heuristics to estimate the quality of each chunk, and find the highest-score sequence of chunks (the &amp;quot;best cover&amp;quot;). This paper describes in detail the combining method, presenting the algorithm and illustrations of its progress on one of many actual translations it has produced. It uses dynamic programming to efficiently compare weighted averages of sets of adjacent scored component translations. The current system operates primarily in a human-aided MT mode. The translation delivery system and its associated post-editing aide are briefly described, as is an initial evaluation of the usefulness of this method. Individual M T engines will be reported separately and are not, therefore, described in detail here.</Paragraph>
+</Section>
+</Paper>
+

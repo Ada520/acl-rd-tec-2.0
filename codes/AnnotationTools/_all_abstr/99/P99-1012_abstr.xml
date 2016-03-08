@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P99-1012">
+<Title>Preserving Semantic Dependencies in Synchronous Tree Adjoining Grammar*</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Rambow, Wier and Vijay-Shanker (Rainbow et al., 1995) point out the differences between TAG derivation structures and semantic or predicate-argument dependencies, and Joshi and Vijay-Shanker (Joshi and Vijay-Shanker, 1999) describe a monotonic compositional semantics based on attachment order that represents the desired dependencies of a derivation without underspecifying predicate-argument relationships at any stage. In this paper, we apply the Joshi and Vijay-Shanker conception of compositional semantics to the problem of preserving semantic dependencies in Synchronous TAG translation (Shieber and Schabes, 1990; Abeill~ et al., 1990). In particular, we describe an algorithm to obtain the semantic dependencies on a TAG parse forest and construct a target derivation forest with isomorphic or locally non-isomorphic dependencies in O(n 7) time.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P01-1041">
+<Title>Japanese Named Entity Recognition based on a Simple Rule Generator and Decision Tree Learning</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Named entity (NE) recognition is a task in which proper nouns and numerical information in a document are detected and classified into categories such as person, organization, location, and date. NE recognition plays an essential role in information extraction systems and question answering systems. It is well known that hand-crafted systems with a large set of heuristic rules are difficult to maintain, and corpus-based statistical approaches are expected to be more robust and require less human intervention. Several statistical approaches have been reported in the literature. In a recent Japanese NE workshop, a maximum entropy (ME) system outperformed decision tree systems and most hand-crafted systems.</Paragraph>
+<Paragraph position="1"> Here, we propose an alternative method based on a simple rule generator and decision tree learning. Our experiments show that its performance is comparable to the ME approach. We also found that it can be trained more efficiently with a large set of training data and that it improves readability.</Paragraph>
+</Section>
+</Paper>
+

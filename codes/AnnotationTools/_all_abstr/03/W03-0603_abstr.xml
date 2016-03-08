@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-0603">
+<Title>Understanding Complex Visually Referring Utterances</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We propose a computational model of visually-grounded spatial language understanding, based on a study of how people verbally describe objects in visual scenes.</Paragraph>
+<Paragraph position="1"> We describe our implementation of word level visually-grounded semantics and their embedding in a compositional parsing framework. The implemented system selects the correct referents in response to a broad range of referring expressions for a large percentage of test cases. In an analysis of the system's successes and failures we reveal how visual context influences the semantics of utterances and propose future extensions to the model that take such context into account.</Paragraph>
+</Section>
+</Paper>
+

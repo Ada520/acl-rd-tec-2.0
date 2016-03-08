@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H94-1034">
+<Title>Tagging Speech Repairs</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> This paper describes a method of detecting speechrepairs that uses a part-of-speech tagger. The tagger is given knowledge about category transitions for speechrepairs, and so is able to mark a transition either as a likely repair or as fluent speech. Other contextual clues, such as editing terms, word fragments, and word matchings, are also factored in by modifying the transition probabilities.</Paragraph>
+</Section>
+</Paper>
+

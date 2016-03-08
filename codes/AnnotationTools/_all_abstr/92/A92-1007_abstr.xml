@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A92-1007">
+<Title>Automatic Generation of Multimodal Weather Reports from Datasets</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Weather reports are created in various modes -natural language text, specialized language text, tables and maps. The system presented allows the user to define his needs of weather information and requirements on the form of presentation. The system analyzes a dataset obtained through specific procedures of forecasting or observation, plans the product according to the user requirements and generates its components. Special emphasis is placed on the coherence of the report by investigating the rhetorical structures observed in this kind of text and the coordination between a map and a text specifying it. The method of generation is a knowledge-based one with three types of knowledge employed in the system - terminological, rhetorical and grammatical. A prototype has been implemented and tested with original datasets.</Paragraph>
+</Section>
+</Paper>
+

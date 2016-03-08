@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1108">
+<Title>Improving Chronological Sentence Ordering by Precedence Relation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> It is necessary to find a proper arrangement of sentences in order to generate a well-organized summary from multiple documents. In this paper we describe an approach to coherent sentence ordering for summarizing newspaper articles. Since there is no guarantee that chronological ordering of extracted sentences, which is widely used by conventional summarization system, arranges each sentence behind presupposed information ofthe sentence, weimprove chronological ordering by resolving antecedent sentences of arranged sentences. Combining the refinement algorithm with topical segmentation and chronological ordering, we address our experiment to test the effectiveness of the proposed method. The results reveal that the proposed method improves chronological sentence ordering.</Paragraph>
+</Section>
+</Paper>
+

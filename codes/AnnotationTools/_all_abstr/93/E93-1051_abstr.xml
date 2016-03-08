@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E93-1051">
+<Title>Lexical Disambiguation Using Constraint Handling In Prolog (CHIP) *</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> Automatic sense disambiguation has been recognised by the research community as very important for a number of natural language processing applications like information retrieval, machine translation, or speech recognition. This paper describes experiments with an algorithm for lexieal sense disambiguation, that is, predicting which of many possible senses of a word is intended in a given sentence. The definitions of senses of a given word are those used in LDOCE, the Longman Dictionary of Contemporary English \[Procter et al., 1978\]. The algorithm first assigns a set of meanings or senses drawn from LDOCE to each word in the given sentence, and then chooses the combination of word-senses (one for each word in the sentence), yielding the maximum semantic overlap. The metric of semantic overlap is based on the fact that LDOCE sense definitions are made in terms of the Longman Defining Vocabulary, effectively a (large) set of semantic primitives. Since the problem of finding the word-sense-chain with maximum overlap can be viewed as a specialised example of the class of constraint-based optimisation problems for which Constraint Handling In Prolog (CHIP) was designed, we have chosen to implement our algorithm in CHIP.</Paragraph>
+</Section>
+</Paper>
+

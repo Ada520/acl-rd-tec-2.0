@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C02-1009">
+<Title>A Robust Cross-Style Bilingual Sentences Alignment Model</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Most current sentence alignment approaches adopt sentence length and cognate as the alignment features; and they are mostly trained and tested in the documents with the same style. Since the length distribution, alignment-type distribution (used by length-based approaches) and cognate frequency vary significantly across texts with different styles, the length-based approaches fail to achieve similar performance when tested incorpora ofdifferent styles. The experiments show that the performance in F-measure could drop from 98.2% to 85.6% when a length-based approach is trained by a technical manual and then tested on a general magazine.</Paragraph>
+<Paragraph position="1"> Sincealargepercentageofcontentwordsinthesource text would be translated into the corresponding translation duals to preserve the meaning in the target text, transfer lexicons are usually regarded as more reliable cues for aligning sentences when the alignment task is performed by human. To enhance the robustness, a robust statistical model based on both transfer lexicons and sentence lengths are proposed in this paper. After integrating the transfer lexicons into the model, a 60% F-measure error reduction (from 14.4% to 5.8%) is observed.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H01-1021">
+<Title>Evaluating Question-Answering Techniques in Chinese</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> An important first step in developing a cross-lingual question answering system is to understand whether techniques developed with English text will also work with other languages, such as Chinese. The Marsha Chinese question answering system described in this paper uses techniques similar to those used in the English systems developed for TREC. Marsha consists of three main components: the query processing module, the Hanquery search engine, and the answer extraction module. It also contains some specific techniques dealing with Chinese language characteristics, such as word segmentation and ordinals processing. Evaluation of the system is done using a method based on the TREC question-answering track.</Paragraph>
+<Paragraph position="1"> The results of the evaluation show that the performance of Marsha is comparable to some English question answering systems in TREC 8 track. An English language version of Marsha further indicates that the heuristics used are applicable to the English question answering task.</Paragraph>
+</Section>
+</Paper>
+

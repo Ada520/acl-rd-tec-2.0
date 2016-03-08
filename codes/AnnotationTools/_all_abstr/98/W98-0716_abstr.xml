@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-0716">
+<Title>I I I I I I I i I I I I I I I I I I I A Comparison of WordNet and Roget's Taxonomy for Measuring Semantic Similarity</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents the results of using</Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+Roget's International Thesaurus as the
+</SectionTitle>
+<Paragraph position="0"> taxonomy in a semantic similarity measurement task. Four similarity metrics were taken from the literature and applied to Roget's. The experimental evaluation suggests that the traditional edge counting approach does surprisingly well (a correlation of r=0.88 with a benchmark set of human similarity judgements, with an upper bound of r=0.90 for human subjects performing the same task.) Introduction The study of semantic relatedness has been a part of artificial intelligence and psychology for many years. Much of the early semantic relatedness work in natural language processing centered around the use of Roget's thesaurus (Yaworsky 92). As WordNet (Miller 90) became available, most of the new work used it (Agirre &amp; Rigau 96, Resnik 95, Jiang &amp; Conrath 97).</Paragraph>
+<Paragraph position="1"> This is understandable, as WordNet is freely available, fairly large and was designed for computing. Roget's remains, though, an attractive lexical resource for those with access to it. Its wide, shallow hierarchy is densely populated with nearly 200,000 words and phrases. The relationships among the words are also much richer than WordNet's IS-A or HAS-PART links. The price paid for this richness is a somewhat unwieldy tool with ambiguous links.</Paragraph>
+<Paragraph position="2"> This paper presents an evaluation of Roget's for the task of measuring semantic similarity. This is done by using four metrics of semantic similarity found in the literature while using Roget's International Thesaurus, third edition (Roget 1962) as the taxonomy. Thus the results can be compared to those in the literature (that used WordNet). The end result is the ability to compare the relative usefulness of Roget's and WordNet for this type of task.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

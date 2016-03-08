@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C86-1026">
+<Title>The need for MT-oriented versions of Case and Valency in MT</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> This paper looks at the use in machine Translation systems of the linguistic models of Case and Valency.</Paragraph>
+<Paragraph position="1"> It is argued that neither of these models was originally developed with this use in mind, and both must be adapted somewhat to meet this purpose. In particular, the traditional Valency distinction of complements and adjuncts leads to conflicts when valency frames in different languages are compared: a finer but more flexible distinction is required.</Paragraph>
+<Paragraph position="2"> Also, these concepts must be extended beyond the verb, to include the noun and adjective as valency bearers. As far as Case is concerned, too narrow an approach has traditionally been taken: work in this field has been too conerned only with cases for arguments in verb frames; case label systems for nonvalency bound elements and also for elements Jn nominal groups must be elaborated. The paper suggests an integrated approach specifically oriented towards the particular problems found in MT.</Paragraph>
+<Paragraph position="3"> \]. Introduction Most (though not all) MT systems claim to incorporate versions of Valency grammar, and more recently have also looked to Case grammar. However, whatever theory they use is often imported more or less directly, without taking account of the fact that a model developed for one purpose may not be entirely appropriate for another. This is a less serious problem for Valency, though this was originally designed with a monolingual didactic purpose in mind (see Helbig &amp; Schenkel, 1973:5) rather than the multiling~al needs of translation. With Case however, it is often the much-maligned and quickly supereeded Fillmore (1968) model which is adopted, or at best a 'consensus' model like that of Fillmore (1971) or Chafe (1970), loosely extended. What is not taken into account is the fact that these models typically concentrate on 'nuclear' arguments in verbphrases, saying little about 'peripheral' roles, or about the structure of nominal or even adjectival groups. This paper will show need for a more task-specific model, combining Valency and Case into an integrated theory for the purposes of translation.</Paragraph>
+<Paragraph position="4"> More specifically, we will show (a) the need for a more flexible Valency system with six degrees of valency-binding instead of the usual two; (b) the need for a finely tuned version of Case to fit the new version of Valency proposed: in particular what depth of abstraction is appropriate; and (c) the need for this combined Case and Valency model to extend beyond verbs, especially to nominal groups.</Paragraph>
+<Paragraph position="5"> 2. Valency in existing MT systems The essential notion borrowed from Valency theory found in MT is the distinction between 'complements' and 'adjuncts'. In several MT systems we find that the lexicon contains information equivalent to that given in a valency dictionary like that of Helbig &amp; Schenkel (1973) listing the complements predicted by the verb together with associated syntactic and semantic features. This lexical information is used in a straightforward manner to assist in the computation of structured representations for the source text, with the complements and adjuncts labelled appropriately. In this way for example, the functions of the prepositions in sentences like (la) and (2a) can be differentiated, and the correct translations (ib-2b) arrived at.</Paragraph>
+<Paragraph position="6"> la) Er wartet auf seinem Freund.</Paragraph>
+<Paragraph position="7"> \]b) He is waiting for his friend.</Paragraph>
+<Paragraph position="8"> 2a) Er wafter auf dem Bahnhof.</Paragraph>
+<Paragraph position="9"> 2b) He is waiting at the station.</Paragraph>
+<Paragraph position="10"> The identification of complements is useful in the bilingual transfer stage (or equivalent) of the MT system, and it is appropriate at this point to provide a set of example translation pairs (3)-(5) that illustrate an important problem that Valency can help with.</Paragraph>
+<Paragraph position="11">  (3a) He likes the girl.</Paragraph>
+<Paragraph position="12"> (3b) La fille lui plait.</Paragraph>
+<Paragraph position="13"> 4a) The farmer supplied the grocer with milk.</Paragraph>
+<Paragraph position="14"> 4b) Le fermier fournit du lait a l'$picier.</Paragraph>
+<Paragraph position="15"> 5a) CharIes entered the'restaurant.</Paragraph>
+<Paragraph position="16"> (5b) Charles entra darts le restaurant.</Paragraph>
+<Paragraph position="17">  Each of the sentence-pairs in (3)-(5) illustrates a change in complement structure between English and French. The example with like and plaire is something of a classic, involving a double argument change; but examples like (4) and (5), which, while less extreme, are nevertheless typical, suggest that the phenomenon is widespread.</Paragraph>
+<Paragraph position="18"> The Valency approach to this problem recognises each of the three verb pairs in (3)-(5) as having the same valency, but as having different valency patterns, which must be mapped onto each other.</Paragraph>
+<Paragraph position="19"> In the case of Rothkegel (1976), this mapping is achieved by simpIy juxtaposing the two entries, with equivalent arguments next to each other, roughly as in Figure i.</Paragraph>
+<Paragraph position="20"> supply Ns (animate) No (animate) Np (with,physobj) fournir Ns (animate) Ni (animate) No (physobj) Figure i. Valency patterns in Rothkegel (1976) Alternatively, in GETA's ARIANE-78 (Vauquois, 1978) and TAUM-Aviation (Lehrberger, 1981), the complements are assigned distinctive labels: in both systems the label ARG(ument) is used with a distinctive affixed numeral, roughly as in (6).</Paragraph>
+<Paragraph position="21"> (6a) The farmer supplied the grocer with milk.</Paragraph>
+</Section>
+</Paper>
+

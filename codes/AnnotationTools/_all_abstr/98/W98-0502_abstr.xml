@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-0502">
+<Title>Unit Coordination and Gapping in Dependency Theory</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The paper investigates the problem of representing coordination constructs in a formal system for the dependency approach to syntax. The distinctive aspect of the formalism is the presence of non-lexical (trace - ~) nodes in the representation. We illustrate the basic mechanisms, and how they can account for syntactic phenomena involving long-distance dependencies. Then, we see how the same mechanism can account for the gaps and ellipses of coordination constructs.</Paragraph>
+</Section>
+</Paper>
+

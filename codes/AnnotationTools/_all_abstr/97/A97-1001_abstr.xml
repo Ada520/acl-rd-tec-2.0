@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A97-1001">
+<Title>was given the highest grade of any Marine Corps portion of the exercise. In addition to these milestones, CommandTalk has been included in demonstrations of LeatherNet to numerous VIPs including General</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> CommandTalk is a spoken-language interface to battlefield simulations that allows the use of ordinary spoken English to create forces and control measures, assign missions to forces, modify missions during execution, and control simulation system functions. CommandTalk combines a number of separate components integrated through the use of the Open Agent Architecture, including the Nuance speech recognition system, the Gemini natural-language parsing and interpretation system, a contextual-interpretation modhle, a &amp;quot;push-to-talk&amp;quot; agent, the ModSAF battlefield simulator, and &amp;quot;Start-It&amp;quot; (a graphical processing-spawning agent). CommandTalk is installed at a number of Government and contractor sites, including NRaD and the Marine Corps Air Ground Combat Center. It is currently being extended to provide exercise-time control of all simulated U.S. forces in DARPA's STOW 97 demonstration.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P84-1066">
+<Title>REFERENCES</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> A revised and more structured version of Davey's discourse generation program has been implemented, which constructs the underlying forms for sentences and clauses by using rules which annotate and segment the initial sequence of events in various ways.</Paragraph>
+<Paragraph position="1"> i. The Proteus Program The text generation program designed and implemented by Davey (1974,1978) achieved a high level of fluency in the generation of small paragraphs of English describing events in a limited domain (games of &amp;quot;tic-tac-toe&amp;quot;/&amp;quot;noughts-andcrosses&amp;quot;). Although that work was completed ten years ago, the performance is still impressive by current standards. The program could play a game of &amp;quot;noughts-and-crosses&amp;quot; with a user, then produce a fluent sunmmry of what had happened during the game(whether or not the game was complete). For example: The game began with your taking a corner, and I took the middle of an adjacent edge. If you had taken the corner opposite the one which you had just taken, you would have threatened me, but you took the one adjacent to the square which I had just taken. The game hasn't finished yet.</Paragraph>
+<Paragraph position="2"> As well as heuristics for actually playing a game, the program contained rules for text generation, which could be regarded as having the following components (this is not a decomposition used by Davey, but an organisation imposed here in order to clarify the processing):  (a) Sentence planner (b) Description constructor (c) Systems network  The third (syntactic) component, is a major part of the original Proteus program, and Davey included a very detailed systemic grammar (in the style of Hudson (1971)) for the area of English he was concerned with; consequently the written accoun~ (Davey (1974,1978)) deal mainly with these grammatical aspects. However, much of the fluency of the discourses produced by Proteus seems to derive from the crucial computations performed by This research was supported by SERC grants GR/B/9874.6 and GR/C/8845.1.</Paragraph>
+<Paragraph position="3"> components (a) and (b), since the syntactic system is largely set up to convert deep representations into surface tokens, without too much regard for global contextual factors. Unfortunately, the written accounts give only a rough informal outline of how these components operated. A completely revised version of Proteus has been implemented in Prolog on a DEC System iO, and this paper describes the working of its sentence planner. The system outlined below is not an exact replication of Davey's program, but is a &amp;quot;rational reconstruction'~ that'is, an attempt to present a slightly cleaner, more general method, based on Davey's ideas and performing the same specific task as Proteus.</Paragraph>
+<Paragraph position="4"> Paradoxically, this cleaning up process may lead to minor losses of fluency, where particular effects were gained in Proteus by slightly ad hoc measures.</Paragraph>
+</Section>
+</Paper>
+

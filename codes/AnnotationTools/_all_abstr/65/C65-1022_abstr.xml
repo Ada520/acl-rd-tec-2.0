@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C65-1022">
+<Title>SENTENCE GENERATION BY SEMANTIC CONCORDANCE</Title>
+<Section position="1" start_page="22" end_page="22" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> Generation of English sentence is realized in the following three steps.</Paragraph>
+<Paragraph position="1"> First, the generation of kernel sentence by phrase structure rules; second, the application of transformational rules to the kernel sentence; and finally the completion of a sentence by the morphophonemic modifications.</Paragraph>
+<Paragraph position="2"> At the first stage of generating kernel sentence, the semantics of words are fully utilized. The method is such that a pair of words in the generation process (subject noun and predicate verb, verb and object or complement, sdJective and modified noun etc.) is selected in accordance with the semantic categories which are attached to each word in the word dictionary. The semantic categories are determined by considering both the meaning of words themselves and also the functioning of words in sentences.</Paragraph>
+<Paragraph position="3"> At the stage of transformational rules, sentence is considered not as a simple string but as the one having the internal tree structure, and the transformational rules are applied to this tree structure. For these two stages the generation process is formalized strictly and is realized in a computer programming. We have presented in relation to the transformational rules a method of sentence generation not from the axiom (from th@ top Gf the tree) but from any point, from which the whole tree is constructed.</Paragraph>
+<Paragraph position="4"> We have also proposed that the morphophonemic rules can be presented as a kind of operators operating on words in the neighbourhood of a generated string.</Paragraph>
+</Section>
+</Paper>
+

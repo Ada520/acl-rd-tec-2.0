@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-1615">
+<Title>FarsiSum - A Persian text summarizer</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> FarsiSum is an attempt to create an automatic text summarization system for Persian. The system is implemented as a HTTP client/server application written in Perl. It uses modules implemented in an existing summarizer geared towards the Germanic languages, a Persian stop-list in Unicode format and a small set of heuristic rules.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="M93-1024">
+<Title>Tagged Sentences Tagger Lisp-readable sentences CompletedChart Template Generator, Target Templates Input Text System Knowledge Bases</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+E-mail: lytinen Oengin.umich.edu
+BACKGROUND
+</SectionTitle>
+<Paragraph position="0"> Over the past five years, we have developed a natural language processing (NLP) syste m called LINK . LINK is a unification-based system, in which all syntactic and semantic analysi s is performed in a single step . Syntactic and semantic information are both represented in th e grammar in a uniform manner, similar to HPSG (Pollard and Sag, 1987) .</Paragraph>
+<Paragraph position="1"> LINK has been used in several information extraction applications . In a project with General Motors, LINK was used to process terse free-form descriptions of symptoms displayed b y malfunctioning automobiles, and the repairs which fixed them . In this very narrow domain , LINK achieved recall and precision rates of 80-85% .</Paragraph>
+<Paragraph position="2"> Most recently, we used the LINK system to participate in MUC-4. During this competition , we developed initial versions of pre and postprocessing modules which were further developed in MUC-5. In MUC-4, LINK achieved recall and precision rates of about 40% .</Paragraph>
+</Section>
+</Paper>
+

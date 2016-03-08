@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C88-1015">
+<Title>TWO-COMPONF~ TEACHING SYSTEM THAT UNDERSTANDS ~ CORRECTS MISTAKES</Title>
+<Section position="1" start_page="0" end_page="68" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a computer-tool teaching system supplied by a language processor. Its aim is to correct mistakes in texts written by foreign students learning Russian as a second language. Since a text may include grammar mistakes, the system cannot use morphological analysis to fool extent. So one must compile a programm capable of finding and correcting mistakes without traditional means of analysis.</Paragraph>
+<Paragraph position="1"> To solve this problem we prepone a system that includes a vocabalary and rules of finding and re-writing words. So the process consists of finding word stems and than correcting word endings . Semantic and syntactic information(&amp;quot;a model of ruling&amp;quot;/Mel'~uk 1974/~ necessary for that is written in the vocabulary of verbs as a frame. The slots of this frame contain semantic and morphological information about words that depend on this vord~.</Paragraph>
+<Paragraph position="2"> The vocabulary containing now approximately 200 lexemes is enough for beginners</Paragraph>
+<Paragraph position="4"> As a rule, computer-tool teaching programs ca~ do without language processors.</Paragraph>
+<Paragraph position="5"> That gives us an opportunity to use Personal computers and other available and in~ expensive means. But such programs can be used only for several types of exercises: mostly those that include substitution or insertion of listed words and endings in a sentence.</Paragraph>
+</Section>
+</Paper>
+

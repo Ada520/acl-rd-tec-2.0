@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-0138">
+<Title>Using Part-of-Speech Reranking to Improve Chinese Word Segmentation</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Chinese word segmentation and Part-of-Speech (POS) tagging have been commonly considered as two separated tasks.</Paragraph>
+<Paragraph position="1"> In this paper, we present a system that performs Chinese word segmentation and POS tagging simultaneously. We train a segmenter and a tagger model separately based on linear-chain Conditional Random Fields (CRF), using lexical, morphological and semantic features. We propose an approximated joint decoding method by reranking the N-best segmenter output, based POS tagging information. Experimental results on SIGHAN Bakeoff dataset and Penn Chinese Treebank show that our reranking method significantly improve both segmentation and POS tagging accuracies.</Paragraph>
+</Section>
+</Paper>
+

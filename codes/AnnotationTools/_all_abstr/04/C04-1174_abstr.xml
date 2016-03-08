@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1174">
+<Title>Automatic Construction of Nominal Case Frames and its Application to Indirect Anaphora Resolution</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper proposes a method to automatically construct Japanese nominal case frames. The point of our method is the integrated use of a dictionary and example phrases from large corpora. To examine the practical usefulness of the constructed nominal case frames, we also built a system of indirect anaphora resolution based on the case frames. The constructed case frames were evaluated by hand, and were confirmed to be good quality. Experimental results of indirect anaphora resolution also indicated the effectiveness of our approach.</Paragraph>
+</Section>
+</Paper>
+

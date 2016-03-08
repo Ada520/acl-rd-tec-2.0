@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0111">
+<Title>Clustering Co-occurrence Graph based on Transitivity</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Word co-occurrences form a graph, regarding words as nodes and co-occurrence relations as branches. Thus, a co-occurrence graph can be constructed by co-occurrence relations in a corpus. This paper discusses a clustering method of the co-occurrence graph, the decomposition of the graph, from a graph-theoretical viewpoint. Since one of the applications for the clustering results is the ambiguity resolution, each output cluster is expected to have no ambiguity and be specialized in a single topic. We observed that a graph has no ambiguity if its branches representing co-occurrence relations are transitive. An algorithm to extract such graphs are proposed and its uniqueness of the output is discussed. The effectiveness of our method is examined by an experiment using co-occurrence graph obtained from a 30M bytes corpus.</Paragraph>
+</Section>
+</Paper>
+

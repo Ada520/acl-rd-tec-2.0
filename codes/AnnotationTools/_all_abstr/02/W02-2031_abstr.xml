@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-2031">
+<Title>Learning with Multiple Stacking for Named Entity Recognition</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> In this paper, we present a learning method using multiple stacking for named entity recognition.</Paragraph>
+<Paragraph position="1"> In order to take into account the tags of the surrounding words, we propose a method which employs stacked learners using the tags predicted by the lower level learners. We have applied this approach to the CoNLL-2002 shared task to improve a base system.</Paragraph>
+</Section>
+</Paper>
+

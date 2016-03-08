@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N03-4010">
+<Title>JAVELIN: A Flexible, Planner-Based Architecture for Question Answering</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The JAVELIN system integrates a flexible, planning-based architecture with a variety of language processing modules to provide an open-domain question answering capability on free text. The demonstration will focus on how JAVELIN processes questions and retrieves the most likely answer candidates from the given text corpus. The operation of the system will be explained in depth through browsing the repository of data objects created by the system during each question answering session.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-0112">
+<Title>Main Library Building</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe a basic Geo-coding service encompassing a geo-parsing tool and integrated digital gazetteer service. The development of a geo-parser comes from the need to explicitly georeference large resource collections such as the Statistical Accounts of Scotland which currently only contain implicit georeferences in the form of placennames thus making such collections inherently geographically searchable.</Paragraph>
+</Section>
+</Paper>
+

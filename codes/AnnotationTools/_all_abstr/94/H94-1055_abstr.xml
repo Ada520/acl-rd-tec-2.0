@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H94-1055">
+<Title>Phonological Parsing for Bi-directional Letter-to-Sound/Sound-to-Letter Generation 1</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> In this paper, we describe a reversible letter-to-sound/soundto-letter generation system based on an approach which combines a rule-based formalism with data-driven techniques. We adopt a probabilistic parsing strategy to provide a hierarchical lexical analysis of a word, including information such as morphology, stress, syllabification, phonemics and graphemics.</Paragraph>
+<Paragraph position="1"> Long-distance constraints are propagated by enforcing local constraints throughout the hierarchy. Our training and testing corpora are derived from the high-frequency portion of the Brown Corpus (10,000 words), augmented with markers indicating stress and word morphology. We evaluated our performance based on an unseen test set. The percentage of nonparsable words for letter-to-sound and sound-to-letter generation were 6% and 5% respectively. Of the remaining words our system achieved a word accuracy of 71.8~0 and a phoneme accuracy of 92.5% for letter-to-sound generation, and a word accuracy of 55.8% and letter accuracy of 89.4% for sound-to-letter generation. We also compared our hierarchical approach with an alternative, single-layer approach to demonstrate how the hierarchy provides a parsimonious description for English orthographic-phonological regularities, while simultaneously attaining competitive generation accuracy. null</Paragraph>
+</Section>
+</Paper>
+

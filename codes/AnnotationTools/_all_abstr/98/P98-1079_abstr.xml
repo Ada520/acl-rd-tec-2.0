@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-1079">
+<Title>A Text Understander that Learns</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We introduce an approach to the automatic acquisition of new concepts fi'om natural language texts which is tightly integrated with the underlying text understanding process. The learning model is centered around the 'quality' of different forms of linguistic and conceptual evidence which underlies the incremental generation and refinement of alternative concept hypotheses, each one capturing a different conceptual reading for an unknown lexical item.</Paragraph>
+</Section>
+</Paper>
+

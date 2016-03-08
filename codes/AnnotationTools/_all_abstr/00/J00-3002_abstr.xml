@@ -1,0 +1,37 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J00-3002">
+<Title>Incremental Processing and Acceptability</Title>
+<Section position="2" start_page="0" end_page="320" type="abstr">
+<SectionTitle>
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> Contemporary linguistics rests on abstractions and idealizations which, however fruitful, should eventually be integrated with human computational performance in language use. In this paper we consider the case of language processing on the basis of Lambek categorial grammar (Lambek 1958). We argue that an incremental procedure of proof net construction affords an account of various processing phenomena, including garden pathing, the unacceptability of center embedding, preference for lower attachment, left-to-right quantifier scope preference, and heavy noun phrase shift. We give examples of each of these phenomena below.</Paragraph>
+<Paragraph position="1"> Garden pathing (Bever 1970) is illustrated by the following contrasts:  (1) a. The horse raced past the barn.</Paragraph>
+<Paragraph position="2"> b. ?The horse raced past the barn fell.</Paragraph>
+<Paragraph position="3"> (2) a. The boat floated down the river.</Paragraph>
+<Paragraph position="4"> b. ?The boat floated down the river sank.</Paragraph>
+<Paragraph position="5"> (3) a. The dog that knew the cat disappeared.</Paragraph>
+<Paragraph position="6"> b. ?The dog that knew the cat disappeared was rescued.</Paragraph>
+<Paragraph position="7">  Typically, although the b sentences are perfectly well formed they are perceived as being ungrammatical due to a strong tendency to interpret their initial segments as in the a sentences.</Paragraph>
+<Paragraph position="8"> The unacceptability of centre embedding is illustrated by the fact that while the  nested subject relativizations of (4) exhibit little variation in acceptability, the nested * Departament de Llenguatges i Sistemes Informatics, Modul C 5 - Campus Nord, Jordi Girona Salgado 1-3, E-08034 Barcelona. E-maih morrill@lsi.upc.es; http://www-lsi.upc.es/~morrill/ (~) 2000 Association for Computational Linguistics Computational Linguistics Volume 26, Number 3 object relativizations (5) exhibit a severe deterioration in acceptability (Chomsky 1965, Chap. 1).</Paragraph>
+<Paragraph position="9"> (4) a. The dog that chased the cat barked.</Paragraph>
+<Paragraph position="10"> b. The dog that chased the cat that saw the rat barked.</Paragraph>
+<Paragraph position="11"> c. The dog that chased the cat that saw the rat that ate the cheese barked. (5) a. The cheese that the rat ate stank.</Paragraph>
+<Paragraph position="12"> b. ?The cheese that the rat that the cat saw ate stank.</Paragraph>
+<Paragraph position="13"> c. ??The cheese that the rat that the cat that the dog chased saw ate  stank.</Paragraph>
+<Paragraph position="14"> Discussing such center embedding, Johnson (1998) presents the essential idea developed here, noting that processing overload of dependencies invoked in psycholinguistic literature could be rendered in terms of the maximal number of unresolved dependencies as represented by proof nets.</Paragraph>
+<Paragraph position="15"> Kimball (1973, 27) considers sentences such as (6), which are three ways ambiguous according to the attachment of the adverb. He points out that the lower the attachment of the adverb, the higher the preference (he calls this relationship Right Association).</Paragraph>
+<Paragraph position="16">  (6) Joe said that Martha believed that Ingrid fell today.</Paragraph>
+<Paragraph position="17"> Left-to-right quantifier scope preference is illustrated by: (7) a. Someone loves everyone.</Paragraph>
+<Paragraph position="18"> b. Everyone is loved by someone.</Paragraph>
+<Paragraph position="19"> Both sentences exhibit both quantifier scopings: (8) a. ~xVy(love y x) b. Vy3x(love y x)  However, while the dominant reading of (7a) is (8a), that of (7b) is (8b), i.e., the preference is for the first quantifier to have wider scope. Note that the same effect is observed when the quantifiers are swapped:  (9) a. Everyone loves someone.</Paragraph>
+<Paragraph position="20"> b. Someone is loved by everyone.</Paragraph>
+<Paragraph position="21">  While both sentences in (9) have both quantifier scopings, the preferred readings give the first quantifier wide scope.</Paragraph>
+<Paragraph position="22"> Finally, we will look at heavy noun phrase shift, which is the preference for complex object noun phrases to &amp;quot;shift&amp;quot; to the end of the sentence. Consider the two sentences in (10); the second, in which the &amp;quot;heavy&amp;quot; direct object follows the indirect object, is more acceptable than the first.</Paragraph>
+<Paragraph position="23">  Morrill Incremental Processing and Acceptability (10) a. ?John gave the painting that Mary hated to Bill.</Paragraph>
+<Paragraph position="24"> b. John gave Bill the painting that Mary hated.</Paragraph>
+<Paragraph position="25"> We argue that a simple metric of categorial processing complexity explains these and other performance phenomena.</Paragraph>
+</Section>
+</Paper>
+

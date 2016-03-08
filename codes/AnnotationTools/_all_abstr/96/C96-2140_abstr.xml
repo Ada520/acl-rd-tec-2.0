@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-2140">
+<Title>GLOSSER-RuG: in Support of Reading</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> q'his paper reports ou ongoing work on a CAI,I, system to facilitate foreign lain guage learning: GI,()SSEI{-I{uG. The system is partieulm'ly dependent on advanc.ed morphological analysis, t!'ollowing a brief introduction to the project, the paper describes the architecture of GLOSSI';I{-RuG. Then wc describe iu detail the main compolmnts/modnles that are part of the implemented prototype. Finally, iml)lement,ation issues and details involving the user interfaces of the tool are discussed. We oul, line the design of an integrated system t,o SUl&gt; port the reading of French text by \])ul, ctl speakers.</Paragraph>
+</Section>
+</Paper>
+

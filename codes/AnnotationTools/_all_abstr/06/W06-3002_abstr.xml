@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-3002">
+<Title>WoZ Simulation of Interactive Question Answering</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+QACIAD (Question Answering Chal-
+</SectionTitle>
+<Paragraph position="0"> lenge for Information Access Dialogue) is an evaluation framework for measuring interactive question answering (QA) technologies. It assumes that users interactively collect information using a QA system for writing a report on a given topic and evaluates, among other things, the capabilities needed under such circumstances. This paper reports an experiment for examining the assumptions made by QACIAD. In this experiment, dialogues under the situation that QACIAD assumes are collected using WoZ (Wizard of Oz) simulating, which is frequently used for collecting dialogue data for designing speech dialogue systems, and then analyzed. The results indicate that the setting of QACIAD is real and appropriate and that one of the important capabilities for future interactive QA systems is providing cooperative and helpful responses.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C94-2121">
+<Title>Word Sense i)ismnl}iguati&lt;)n and Text Set mentation</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we describe ihow word sense am= biguity can be resolw'.d with the aid of lexical eohesion. By checking \]exical coheshm between the current word and lexical chains in the order of the salience, in tandem with getmration of lexica\] chains~ we realize incretnental word sense disam biguation based on contextual infl)rmation that lexical chains,reveah Next;, we &lt;le~&lt;:ribe how set men&lt; boundaries of a text can be determined with the aid of lexical cohesion. Wc can measure the plausibility of each point in the text as a segment boundary by computing a degree of agreement of the start and end points of lexical chaihs.</Paragraph>
+</Section>
+</Paper>
+

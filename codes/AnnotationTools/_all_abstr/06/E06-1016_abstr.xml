@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E06-1016">
+<Title>Determining Word Sense Dominance Using a Thesaurus</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The degree of dominance of a sense of a word is the proportion of occurrences of that sense in text. We propose four new methods to accurately determine word sense dominance using raw text and a published thesaurus. Unlike the McCarthy et al. (2004) system, these methods can be used on relatively small target texts, without the need for a similarly-sense-distributed auxiliary text. We perform an extensive evaluation using artificially generated thesaurus-sense-tagged data. In the process, we create a word-category co-occurrence matrix, which can be used for unsupervised word sense disambiguation and estimating distributional similarity of word senses, as well.</Paragraph>
+</Section>
+</Paper>
+

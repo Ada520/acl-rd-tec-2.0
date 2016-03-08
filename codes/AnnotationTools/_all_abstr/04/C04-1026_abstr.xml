@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1026">
+<Title>A Relational Syntax-Semantics Interface Based on Dependency Grammar</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We propose a syntax-semantics interface that realises the mapping between syntax and semantics as a relation and does not make functionality assumptions in either direction. This interface is stated in terms of Extensible Dependency Grammar (XDG), a grammar formalism we newly specify. XDG's constraint-based parser supports the concurrent flow of information between any two levels of linguistic representation, even when only partial analyses are available. This generalises the concept of underspecification. null</Paragraph>
+</Section>
+</Paper>
+

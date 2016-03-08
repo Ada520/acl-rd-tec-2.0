@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1023">
+<Title>A Support System for Revising Titles to Stimulate the Lay Reader's Interest in Technical Achievements</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> When we write a report or an explanation on a newly-developed technology for readers including laypersons, it is very important to compose a title that can stimulate their interest in the technology. However, it is difficult for inexperienced authors to come up with an appealing title.</Paragraph>
+<Paragraph position="1"> In this research, we developed a support system for revising titles. We call it &amp;quot;title revision wizard&amp;quot;. The wizard provides a guidance on revising draft title to compose a title meeting three key points, and support tools for coming up with and elaborating on comprehensible or appealing phrases.</Paragraph>
+<Paragraph position="2"> In order to test the effect of our title revision wizard, we conducted a questionnaire survey on the effect of the titles with or without using the wizard on the interest of lay readers. The survey showed that the wizard is effective and helpful for the authors who cannot compose appealing titles for lay readers by themselves.</Paragraph>
+</Section>
+</Paper>
+

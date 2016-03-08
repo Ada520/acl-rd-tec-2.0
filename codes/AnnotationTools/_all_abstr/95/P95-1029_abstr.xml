@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P95-1029">
+<Title>Using Higher-Order Logic Programming for Semantic Interpretation of Coordinate Constructs</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Many theories of semantic interpretation use A-term manipulation to compositionally compute the meaning of a sentence. These theories are usually implemented in a language such as Prolog that can simulate A-term operations with first-order unification. However, for some interesting cases, such as a Combinatory Categorial Grammar account of coordination constructs, this can only be done by obscuring the underlying linguistic theory with the &amp;quot;tricks&amp;quot; needed for implementation. This paper shows how the use of abstract syntax permitted by higher-order logic programming allows an elegant implementation of the semantics of Combinatory Categorial Grammar, including its handling of coordination constructs.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,73 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E99-1036">
+<Title>Repair Strategies for Lexicalized Tree Grammars</Title>
+<Section position="1" start_page="0" end_page="251" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a framework for the definition of monotonic repair rules on chart items and Lexicalized Tree Grammars. We exploit island representations and a new level of granularity for the linearization of a tree called connected routes. It allows to take into account the topology of the tree in order to trigger additional rules. These local rules cover ellipsis and common extra-grammatical phenomena such as self-repairs. First results with a spoken language corpora are presented.</Paragraph>
+<Paragraph position="1"> Introduction In the context of spoken task-oriented man-machine and question-answering dialogues, one of the most important problem is to deal with spontaneous and unexpected syntactical phenomena. Utterances can be very incomplete and difficult to predict which questions the principle of grammaticality. Moreover large covering grammars are generally dedicated to written text parsing and it is not easy to exploit such a grammar for the analysis of spoken language even if complex syntax does not occur.</Paragraph>
+<Paragraph position="2"> For such sentences, robust parsing techniques are necessary to extract a maximum of information from the utterance even if a Complete parsing fails (at least all possible constituents). Considering parsing of word-graphs and the large search space of parsing algorithms in order to compute all possible ambiguities, the number of partial parses can be very important. A robust semantic processing on these partial derivations would result in a prohibitive number of hypotheses. We argue in this paper that appropriate syntactical constraints expressed in a Lexicalized Tree Grammar (LTG) can trigger efficient repair rules for specific oral phenomena.</Paragraph>
+<Paragraph position="3"> First results of a classical grammatical parsing are presented, they show that robust parsing need to cope with oral phenomena. We argue then that extended domain of locality and lexicalization of LTG can be exploited in order to express repair local rules for these specific spoken phenomena. First results of this approach are presented.</Paragraph>
+<Section position="1" start_page="0" end_page="249" type="sub_section">
+<SectionTitle>
+1.1 Experimental results
+</SectionTitle>
+<Paragraph position="0"> Table 1 presents parsing test results of the Gocad corpora. This corpora contains 861 utterances in French of transcribed spontaneous spoken language collected with a Wizard of Oz experiment (Chapelier et al., 1995). We used a bottom-up parser (Lopez, 1998b) for LTAG. The size of the grammar was limited compared with (Candito, 1999) and corresponds to the sublanguage used in the Gocad application. However designing principles of the grammar was close to the large covering French LTAG grammar just including additional elementary trees (for example for unexpected adverbs which can modify predicative nouns) and a notation enrichment for the possible ellipsis occurrences (Lopez, 1998a). The LTAG grammar for the sublanguage corresponds to a syntactical lexicon of 529 entries and a set of 80 non-instancied elementary trees.</Paragraph>
+<Paragraph position="1"> A taxonomy of parsing errors occurring in oral dialogue shows that the majority of failures are linked to orality: hesitations, repetitions, self repairs and some head ellipsis. The table 2 gives the occurrence of these oral phenomena in the Gocad corpora. Of course more than one phenomenon can occur in the same utterance.</Paragraph>
+<Paragraph position="2"> Prediction of these spoken phenomena would result in a very high parsing cost. However if we can detect these oral phenomena with additional techniques combining partial results, the number of hypotheses at the semantic level will decrease.</Paragraph>
+<Paragraph position="3">  ill-formed with with with I agrammatical utterances hesitations repetitions self-repairs \[ ellipsis Occurrences II 123 II 28 22 II 15</Paragraph>
+</Section>
+<Section position="2" start_page="249" end_page="249" type="sub_section">
+<SectionTitle>
+1.2 Exploiting Lexicalized Tree
+Grammars
+</SectionTitle>
+<Paragraph position="0"> The choice of a LTG (Lexicalized Tree Grammar), more specifically a LTAG (Lexicalized Tree Adjoing Grammar), can be justified by the two main following reasons: first the lexicalization and the extended domain of locality allow to express easily lexical constraints in partial parsing trees (elementary trees), secondly robust bottom-up parsing algorithms, stochastic models and efficient precompilation of the grammar (Evans and Weir, 1998) exist for LTG.</Paragraph>
+<Paragraph position="1"> When the parsing of an utterance fails, a robust bottom-up algorithm gives partial derived and derivation trees. With a classical chart parsing, items are obtained from other items and correspond to a well-recognized chunk of the utterance. The chart is an acyclic graph representing all the derivations. A partial result corresponds to the maximal expansion of an island, so to an item which is not the origin of any other item.</Paragraph>
+<Paragraph position="2"> The main difference between a Context Free Grammar and a Lexicalized Tree Grammar is that a tree directly encodes for a specific anchor a partial parsing tree. This representation is richer than a set of Context Free rules. We argue that we can exploit this feature by triggering rules not only according to the category of the node N corresponding to an item but considering some nodes  near N.</Paragraph>
+<Paragraph position="3"> 2 Island representation and connected routes in repair local</Paragraph>
+</Section>
+<Section position="3" start_page="249" end_page="249" type="sub_section">
+<SectionTitle>
+rules
+2.1 Finite States Automata
+</SectionTitle>
+<Paragraph position="0"> representation of an elementary tree The linearization of a tree can be represented with a Finite State Automaton (FSA) as in figure 2. Every tree traversal (left-to-right, bidirectional from an anchor, ...) can be performed on this automaton. Doted trees used for example in (Schabes, 1994) are equivalent to the states of these automata. It is then possible to share all the FSA of a lexicalized grammar in a single one with techniques presented in (Evans and Weir, 1998).</Paragraph>
+<Paragraph position="1">  tree for the normal form of French intransive verb. We consider the following definitions and notations : Each automaton transition is annotated with a category of node. Each non-leaf node appears twice in the list of transition framing the nodes which it dominates. In order to simplify our explanation the transition is shown by the annotated category.</Paragraph>
+<Paragraph position="2"> Transitions can be bidirectional in order to be able to start a bidirectional tree walk of a tree starting from any state.</Paragraph>
+<Paragraph position="3"> * Considering a direction of transition (left-toright, right-to-left) the FSA becomes acyclic.</Paragraph>
+</Section>
+<Section position="4" start_page="249" end_page="250" type="sub_section">
+<SectionTitle>
+2.2 Parsing invariant and island
+</SectionTitle>
+<Paragraph position="0"> representation A set of FSA corresponds to a global representation of the grammar, for the parsing we use a local representation called item. An item is defined as a 7-tuple of the following form:  (a) Rule for hesitations : (i, j, rE, fR) (j, k, fPS, f~) (k, l, o~, f~) (i, k, fL, fiR) (k, l, f~, o'~) (head(F'L) = tail(F'R) = H) (b) Rule for head ellipsis on the left : (i, j, aL, aR) (j, k, a~, a~) (tait(rR) = X,</Paragraph>
+<Paragraph position="2"> (c) Rule for argument ellipsis on the right : (i, j, oL, fR) (ta/l(rR) = X ~) (i, j, fL, next(rR)) (d) Rule 1 for self repair :</Paragraph>
+<Paragraph position="4"> item: ( left index, right index, left state, right state, foot left index, foot right index, star state) The two first indices are the limits on the input string of the island (an anchor or consecutive anchors) corresponding to the item. During the initialization, we build an item for each anchor present in the input string. An item also stores two states of the same FSA corresponding to the maximal extension of the island on the left and on the right, and only if necessary we represent two additional indices for the position of the foot node of a wrapping auxiliary tree and the state star corresponding to the node where the current wrapping adjunction have been predicted.</Paragraph>
+<Paragraph position="5"> This representation maintains the following invariant: an item of the form (p, q, fL, O'R) specifies the fact that the linearized tree represented by a FSA A is completely parsed between the states aL and ct R of A and between the indices p and q. No other attachment on the tree can happen on the nodes located between the anchors p and q-1.</Paragraph>
+</Section>
+<Section position="5" start_page="250" end_page="250" type="sub_section">
+<SectionTitle>
+2.3 Connected routes
+</SectionTitle>
+<Paragraph position="0"> Considering an automaton representing the linearization of an elementary tree, we can define a connected route as a part of this automaton corresponding to the list of nodes crossed successively until reaching a substitution, a foot node or a root node (included transition) or an anchor (excluded transition). Connected route is an intermediate level of granularity when representing a linearized tree: each elementary (or a derived tree) can be represented as a list of connected routes. Considering connected routes during the parsing permits to take into account the topology of the elementary trees and to locate significative nodes for an attachment (Loper, 1998b). We use the following additional simplified notations : * The connected route passing through the state ad is noted Fd.</Paragraph>
+<Paragraph position="1"> * next(r) (resp. previous(F)) gives the first state of the connected route after (resp. before) F according to a left-to-right automaton walk.</Paragraph>
+<Paragraph position="2"> * next(N) (resp. previous(N)) gives the state after (resp. before) the transition N.</Paragraph>
+<Paragraph position="3"> * headiF. ) (resp. tail(F)) gives the first right (resp. left) transition of the leftmost (resp.</Paragraph>
+<Paragraph position="4"> rightmost) state of the connected route F.</Paragraph>
+</Section>
+<Section position="6" start_page="250" end_page="251" type="sub_section">
+<SectionTitle>
+2.4 Inference rules system
+</SectionTitle>
+<Paragraph position="0"> The derivation process can be viewed as inference rules which use and introduce items. The inference rules (Schabes, 1994) have the following meaning, if q items (itemi)o&lt;i&lt;q are present in the chart and if the requirements are fulfilled then add the r items (itemj)o&lt;_j&lt;r in the chart i\[ necessary: (item~)o&lt;~&lt;q ( conditions ) add (itemj)o&lt;j&lt;r) We note O* the reflexive transitive closure of the derivation relation between two items: if il ~* i2 then the item identified with i2 can be obtained from il after applying to it a set of derivations. We note a root node with $.</Paragraph>
+<Paragraph position="1"> Figure 1 presents examples of repair rules. This additional system deals with the following phenomena: null  adjacent initial trees whose head is a H node.</Paragraph>
+<Paragraph position="2"> Such a tree can correspond to different kind of hesitation.</Paragraph>
+<Paragraph position="3"> * Ellipsis : two rules and their symmetrical configurations try to detect and recover respectively an empty head (b) and an empty argument (c).</Paragraph>
+<Paragraph position="4"> * Self-repair : The (Cori et ai., 1997) definition of self repairs stipulates that the right side of the interrupted structure (the partial derived tree on the left of the interruption point) and the reparandum (the adjacent syntactic island) must match. Instead of modifing the parsing algorithm as (Cori et al., 1997) do, we consider a more expressive connected route matching condition. Rule (d) deals with self-repair where the repaired structure has been connected on the target node.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

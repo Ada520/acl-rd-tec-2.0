@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C86-1125">
+<Title>ON FORMALIZATIONS OF MARCUS' PARSER</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ON FORMALIZATIONS OF MARCUS' PARSER
+R. Nozoboor-Farshi
+</SectionTitle>
+<Paragraph position="0"> Dept. of Computing Science, University of Alberta, Edmonton, Canada T6G 2H1 Abstract: LR(k,t), BCP(m,n) and LRRL(k) grammars, and their relations to Marcus parsing are discussed.</Paragraph>
+</Section>
+</Paper>
+

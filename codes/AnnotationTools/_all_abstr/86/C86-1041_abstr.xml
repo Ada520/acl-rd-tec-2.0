@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C86-1041">
+<Title>SITUAT\]Or~JA L</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper gives a formal theory of presupposition using situation semantics developed by Barwise and Perry, We will slightly modify Barwise and Perry's original theory of situation semantics so that we can deal with non-monotonic reasonings which are very important for the formalization of presupposition in natural language. This aspect is closely related to the formalization of incomplete knowledge in artificial intelligence,</Paragraph>
+</Section>
+</Paper>
+

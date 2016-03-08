@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-0119">
+<Title></Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a Chinese word segmentor (CWS) for the third International Chinese Language Processing Bakeoff (SIGHAN Bakeoff 2006). We participate in the word segmentation task at the Microsoft Research (MSR) closed testing track. Our CWS is based on backward maximum matching with word support model (WSM) and contextual-based Chinese unknown word identification. From the scored results and our experimental results, it shows WSM can improve our previous CWS, which was reported at the SIGHAN Bakeoff 2005, about 1% of F-measure.</Paragraph>
+</Section>
+</Paper>
+

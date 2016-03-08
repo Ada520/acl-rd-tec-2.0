@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-1501">
+<Title>Dependency and relational structure in treebank annotation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Among the variety of proposals currently making the dependency perspective on grammar more concrete, there are several treebanks whose annotation exploits some form of Relational Structure that we can consider a generalization of the fundamental idea of dependency at various degrees and with reference to different types of linguistic knowledge.</Paragraph>
+<Paragraph position="1"> The paper describes the Relational Structure as the common underlying representation of tree-banks which is motivated by both theoretical and task-dependent considerations. Then it presents a system for the annotation of the Relational Structure in treebanks, called Augmented Relational Structure, which allows for a systematic annotation of various components of linguistic knowledge crucial in several tasks. Finally, it shows a dependency-based annotation for an Italian treebank, i.e. the Turin University Treebank, that implements the Augmented</Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+Relational Structure.
+</SectionTitle>
+<Paragraph position="0"></Paragraph>
+</Section>
+</Section>
+</Paper>
+

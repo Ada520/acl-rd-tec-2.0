@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C73-2028">
+<Title></Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+TIONAL PARSING IN THE REQUEST SYSTEM
+1. INTRODUCTION
+</SectionTitle>
+<Paragraph position="0"> The REQUEST (Restricted English Question-answering) System is an experimental natural language query system currently under development at the n3M Thomas J. Watson Research Center. The general objective of this work is to explore the feasibility of using restricted subsets of natural language (in this case, English) as the basis for effective man-computer communication, with particular emphasis on the problem of making data-base-oriented services readily available to nonprogrammer users. Our initial implementation of R~QUEST (described here and in a companion paper by S. R. P~TRICK, in the I volume) addresses the data-base communication problem with reference to the specific world of business statistics, as exemplified by the summary data published annually in the &amp;quot;Fortune 500&amp;quot; An essential feature of the language processing approach embodied in the REQUEST System is the employment of a very general transformational parsing algorithm and a large, explicitly formulated transformational grammar in order to produce semantically interpretable underlying structures of input sentences (questions and commands).</Paragraph>
+<Paragraph position="1"> l~qu~sT thus differs markedly from such well-known systems as those of F. B. T~OlVIPSON (1973) (direct semantic interpretation of surface structures), W. A. WOODS (1972) (representation of grammatical information and parsing strategy in augmented transition networks), and T. WINOGRAD (1972) (direct incorporation of grammatical information within the parsing program). Furthermore, the underlying structures assigned by our current grammar do considerably more than merely capturing a few relatively superficial syntactic generalizations such as the relationship between active sentences and corresponding passives: they are significantly more abstract than the deep structures ofN. CHOlVl-SKY'S Aspects (1965) and go a long way towards explicit representation 368 WAR~N J. PI~ATI-I of the meanings of sentences in a notation that bears certain strong resemblances to the predicate calculus. Among the motivations for our choice of approach are 1) the advantages of a transformational model as a vehicle for capturing significant linguistic generalizations, 2) the relative case of interpretation of our abstract underlying structures, and 3) the perspicuity of a system organization which separates data from algorithms and represents linguistic rules direcdy as units, rather than as discontinuous elements that are distributed over networks or programs.</Paragraph>
+</Section>
+</Paper>
+

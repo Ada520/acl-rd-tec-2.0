@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-2156">
+<Title>Decision-Tree based Error Correction for Statistical Phrase Break Prediction in Korean *</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> tn this paper, we present a new 1)hrase break prediction architecture that integrates probabilistic apt)roach with decision-tree based error correction. The probabilistic method alone usually sufl'crs fronl performance degradation due to inherent data sparseness l)rolflems and it only covers a limited range of contextual information. Moreover, the module can not utilize the selective morpheme tag and relative distance to the other phrase breaks. The decision-tree based error correction was tightly integrated to overt:ohm these limitations.</Paragraph>
+<Paragraph position="1"> The initially phrase break tagged morphcnm sequence is corrected with the error correcting decision tree which was induced by C4.5 fl'om the correctly tagged corpus with the outtmt of the 15mbabilistic predictor. The decision tree-based post error correction l)rovided improved results even with the phrase break predictor that has l)oor initial performance. Moreover, tim system can be flexibly tamed to new corI)uS without massive retraining.</Paragraph>
+</Section>
+</Paper>
+

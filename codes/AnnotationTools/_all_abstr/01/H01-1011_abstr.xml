@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H01-1011">
+<Title>Automatic Title Generation for Spoken Broadcast News</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> In this paper, we implemented a set of title generation methods using training set of 21190 news stories and evaluated them on an independent test corpus of 1006 broadcast news documents, comparing the results over manual transcription to the results over automatically recognized speech. We use both F1 and the average number of correct title words in the correct order as metric.</Paragraph>
+<Paragraph position="1"> Overall, the results show that title generation for speech recognized news documents is possible at a level approaching the accuracy of titles generated for perfect text transcriptions.</Paragraph>
+</Section>
+</Paper>
+

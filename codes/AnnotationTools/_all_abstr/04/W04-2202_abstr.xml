@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-2202">
+<Title>A Model for Fine-Grained Alignment of Multilingual Texts</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> While alignment of texts on the sentential level is often seen as being too coarse, and word alignment as being too ne-grained, bi- or multi-lingual texts which are aligned on a level in-between are a useful resource for many purposes. Starting from a number of examples of non-literal translations, which tend to make alignment di cult, we describe an alignment model which copes with these cases by explicitly coding them. The model is based on predicate-argument structures and thus covers the middle ground between sentence and word alignment.</Paragraph>
+<Paragraph position="1"> The model is currently used in a recently initiated project of a parallel English-German tree-bank (FuSe), which can in principle be extended with additional languages.</Paragraph>
+</Section>
+</Paper>
+

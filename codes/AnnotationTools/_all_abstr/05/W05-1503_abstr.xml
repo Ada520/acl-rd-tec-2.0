@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W05-1503">
+<Title>Switch Graphs for Parsing Type Logical Grammars[?]</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Parsing in type logical grammars amounts to theorem proving in a substructural logic. This paper takes the proof net presentation of Lambek's associative calculus as a case study. It introduces switch graphs for online maintenance of the Danos-Regnier acyclicity condition on proof nets. Early detection of Danos-Regnier acyclicity violations supports early failure in shift-reduce parsers. Normalized switch graphs represent the combinatorial potential of a set of analyses derived from lexical and structural ambiguities. Packing these subanalyses and memoizing the results leads directly to a dynamic programming algorithm for Lambek grammars.</Paragraph>
+</Section>
+</Paper>
+

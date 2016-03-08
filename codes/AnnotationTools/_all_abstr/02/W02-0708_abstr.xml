@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-0708">
+<Title>Balancing Expressiveness and Simplicity in an Interlingua for Task Based Dialogue</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+IRST-itc, Italy
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we compare two interlingua representations for speech translation. The basis of this paper is a distributional analysis of the C-star II and Nespole databases tagged with inter-lingua representations. The C-star II database has been partially re-tagged with the Nespole interlingua, which enables us to make comparisons on the same data with two types of interlinguas and on two types of data (Cstar II and Nespole) with the same interlingua. The distributional information presented in this paper show that the Nespole interlingua maintains the language-independence and simplicity of the C-star II speech-act-based approach, while increasing semantic expressiveness and scalability.</Paragraph>
+</Section>
+</Paper>
+

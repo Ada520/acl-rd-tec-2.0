@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H01-1031">
+<Title>Guidelines for Annotating Temporal Information</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> This paper introduces a set of guidelines for annotating time expressions with a canonicalized representation of the times they refer to. Applications that can benefit from such an annotated corpus include information extraction (e.g., normalizing temporal references for database entry), question answering (answering &amp;quot;when&amp;quot; questions), summarization (temporally ordering information), machine translation (translating and normalizing temporal references), and information visualization (viewing event chronologies).</Paragraph>
+</Section>
+</Paper>
+

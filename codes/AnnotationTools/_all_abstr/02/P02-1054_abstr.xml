@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P02-1054">
+<Title>Is It the Right Answer? Exploiting Web Redundancy for Answer Validation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Answer Validation is an emerging topic in Question Answering, where open domain systems are often required to rank huge amounts of candidate answers. We present a novel approach to answer validation based on the intuition that the amount of implicit knowledge which connects an answer to a question can be quantitatively estimated by exploiting the redundancy of Web information. Experiments carried out on the TREC-2001 judged-answer collection show that the approach achieves a high level of performance (i.e. 81% success rate). The simplicity and the efficiency of this approach make it suitable to be used as a module in Question Answering systems.</Paragraph>
+</Section>
+</Paper>
+

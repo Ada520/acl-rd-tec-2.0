@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-0110">
+<Title>Sydney, July 2006. c(c)2006 Association for Computational Linguistics Hybrid Models for Chinese Named Entity Recognition</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a hybrid model and the corresponding algorithm combining support vector machines (SVMs) with statistical methods to improve the performance of SVMs for the task of Chinese Named Entity Recognition (NER).</Paragraph>
+<Paragraph position="1"> In this algorithm, a threshold of the distance from the test sample to the hyper-plane of SVMs in feature space is used to separate SVMs region and statistical method region. If the distance is greater than the given threshold, the test sample is classified using SVMs; otherwise, the statistical model is used. By integrating the advantages of two methods, the hybrid model achieves 93.18% F-measure for Chinese person names and 91.49% F-measure for Chinese location names.</Paragraph>
+</Section>
+</Paper>
+

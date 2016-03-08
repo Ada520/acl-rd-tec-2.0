@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W05-1605">
+<Title>Generating and selecting grammatical paraphrases</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Natural language has a high paraphrastic power yet not all paraphrases are appropriate for all contexts.</Paragraph>
+<Paragraph position="1"> In this paper, we present a TAG based surface realiser which supports both the generation and the selection of paraphrases. To deal with the combinatorial explosion typical of such an NP-complete task, we introduce a number of new optimisations in a tabular, bottom-up surface realisation algorithm. We then show that one of these optimisations supports paraphrase selection.</Paragraph>
+</Section>
+</Paper>
+

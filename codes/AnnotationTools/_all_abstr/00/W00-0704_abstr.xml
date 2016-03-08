@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-0704">
+<Title>The Role of Algorithm Bias vs Information Source in Learning Algorithms for Morphosyntactic Disambiguation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"></Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+Morphosyntactic Disambiguation (Part of
+</SectionTitle>
+<Paragraph position="0"> Speech tagging) is a useful benchmark problem for system comparison because it is typical for a large class of Natural Language Processing (NLP) problems that can be defined as disambiguation in local context. This paper adds to the literature on the systematic and objective evaluation of different methods to automatically learn this type of disambiguation problem. We systematically compare two inductive learning approaches to tagging: MXPOST (based on maximum entropy modeling) and MBT (based on memory-based learning).</Paragraph>
+<Paragraph position="1"> We investigate the effect of different sources of information on accuracy when comparing the two approaches under the same conditions.</Paragraph>
+<Paragraph position="2"> Results indicate that earlier observed differences in accuracy can be attributed largely to differences in information sources used, rather than to algorithm bias.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

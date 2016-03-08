@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A92-1017">
+<Title>Overview of new Phenomena for Spelling Correction</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A conscrvativc extension of standard spciling corrcction systems for German is discusscd which goes beyond normal chccking of isolated single words by taking multi-words, linguistically motivatcd non-words, as well as contexts into account.</Paragraph>
+</Section>
+</Paper>
+

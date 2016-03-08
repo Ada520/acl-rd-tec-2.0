@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J86-4001">
+<Title>ASSOCIATIVE MODEL OF MORPHOLOGICAL ANALYSIS: As EMPIRICAL INQUIRY 1</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ASSOCIATIVE MODEL OF MORPHOLOGICAL ANALYSIS:
+</SectionTitle>
+<Paragraph position="0"> This paper presents a computational model for the analysis of word forms of a highly inflectional, agglutinative language. We call the model &amp;quot;associative&amp;quot; as it directly links phonemic stimulus with its morphemic interpretation(s) under the guidance of a coherence constraint. The model has been fully implemented for Finnish. We discuss separately the abstract model and various algorithms to implement the model. We also demonstrate the implementation. The best features of the method are its efficiency and its capability of supporting open lexicons.</Paragraph>
+</Section>
+</Paper>
+

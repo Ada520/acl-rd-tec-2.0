@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H94-1029">
+<Title>The Automatic Component of the LINGSTAT Machine-Aided Translation System*</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> We present the newest implementation of the LINGSTAT machine-aided translation system. The moat signiflcsat change from earlier versions is a new set of modules that produce a draft translation of the document for the user to refer to or modify. This paper describes these modules, with special emphasis on an automatically trained lexicalized grammar used in the parsing module. Some preHminary results from the January 1994 ARPA evaluation are reported.</Paragraph>
+</Section>
+</Paper>
+

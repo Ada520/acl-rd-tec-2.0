@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0402">
+<Title>A Dialogue Analysis Model with Statistical Speech Act Processing for Dialogue Machine Translation*</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In some cases, to make a proper translation of an utterance in a dialogue, the system needs various information about context. In this paper, we propose a statistical dialogue analysis model based on speech acts for Korean-English dialogue machine translation. The model uses syntactic patterns and N-grams reflecting the hierarchical discourse structures of dialogues. The syntactic pattern includes the syntactic features that are related with the language dependent expressions of speech acts. The N-gram of speech acts based on hierarchical recency approximates the context. Our experimental results with trigram showed that the proposed model achieved 78.59 % accuracy for the top candidate and 99.06 % for the top four candidates even though the size of the training corpus is relatively small. The proposed model can be integrated with other approaches for an efficient and robust analysis of dialogues.</Paragraph>
+</Section>
+</Paper>
+

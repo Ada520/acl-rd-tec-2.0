@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A92-1011">
+<Title>The Acquisition of Lexical Knowledge from Combined Machine-Readable Dictionary Sources</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper is concerned with the question of how to extract lexical knowledge from Machine-Readable Dictionaries (MRDs) within a lexical database which integrates a lexicon development environment. Our long term objective is the creation of a large lexical knowledge base using semiautomatic techniques to recover syntactic and semantic information from MRDs.</Paragraph>
+<Paragraph position="1"> In doing so, one finds that reliance on a single MRD source induces inadequacies which could be efficiently redressed through access to combined MRD sources. In the general case, the integration of information from distinct MRDs remains a problem hard, perhaps impossible, to solve without the aid of a complete, linguistically motivated database which provides a reference point for comparison. Nevertheless, advances can be made by attempting to correlate dictionaries which are not too dissimilar. In keeping with these observations, we describe a software package for correlating MRDs based on sense merging techniques and show how such a tool can be employed in augmenting a lexical knowledge base built from a conventional MRD with thesaurus information.</Paragraph>
+</Section>
+</Paper>
+

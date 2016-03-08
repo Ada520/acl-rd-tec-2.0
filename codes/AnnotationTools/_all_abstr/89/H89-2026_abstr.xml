@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H89-2026">
+<Title>A STACK DECODER FOR CONTINOUS SPEECH RECOGNITION 1</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> We describe the structure, preliminary implementation and performance of an algorithm for doing continuous speech recognition. The algorithm, known as a stack decoder, proceeds by continually evaluating one-word extensions of the most promising partial transcriptions of an input utterance. The output is a list of candidate complete transcriptions, ordered by likelihood under a stochastic model. The stochastic model in the current implementation is composed solely of an acoustic component - a linguistic component will soon be added. The acoustic models make use of dictionary phonetic spellings together with models for phonemes in context. The linguistic models will be based on digram statistics.</Paragraph>
+<Paragraph position="1"> A key component of the system is a module for quickly evaluating a hypothesized partial transcription of an input utterance to determine how likely it is that it will extend to a complete transcription which is the most likely transcription under the model.</Paragraph>
+</Section>
+</Paper>
+

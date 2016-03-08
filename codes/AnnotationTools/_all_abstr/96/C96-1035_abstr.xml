@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-1035">
+<Title>Chinese Word Segmentation based on Maximum Matching and Word Binding Force</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> A language model as a t)ost-processor is esse, ntial to a recognizer of speech or characters in order to determine the approi)riate word se, que, n(:e and henc.e the semantics of an inI)ut line of text or utterance. It is well known that an N-gram statistics language model is just as effective as, t)ut nmch more eificient than, a syntactk:/semantic analyser in determining the correct word sequence. A necessary condition to successflfl collection of N-gram statistics is the existence of a coInprehensive le, xicon and a large text corpus. The latter must tie lexically analysed in order to identify all the words, from which, N-gram statistics can be derived. null About 5,000 characters are being used in modern Chinese and they are the building blocks of all wor(ls. Ahnost every character is a word and inost words are of one or two characters long but there are also abundant wor(ls longer than two characters. Before it; is seginented into words, a line of text is just a sequence of characters and there are numerous word segmentation alternatives. Usually, all but one of these alternatives arc syntactically and/or semantically incorrect. This is l;he case because unlike texts in English, Chinese texl;s have no word nlarkers. A tirst step towmds buihting a language model based on N-gram statistics is to de, vek)p an etIMent lexical analyser to id(!ntify all the words in the, corpus.</Paragraph>
+<Paragraph position="1"> Word segmentation algorithlns behmg to one of two types ill general, viz., the structural (Wang et al., 1991) and the statistical type (Lua, 1990)(Lua and Gan, 1994)(Sproat and Shih, 1990) rt;spectively. A structural algorithm resolves segmentation mnbiguities by examining the structural rclationships between words, while a statistical algo-rithm compares the usage flequencies of the words and their ordered combinations inste, ad. Both approaches ln~ve serious liinitat;ions.</Paragraph>
+</Section>
+</Paper>
+

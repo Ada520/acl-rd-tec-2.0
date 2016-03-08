@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P03-2020">
+<Title>Automatic Collection of Related Terms from the Web</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper proposes a method of collecting a dozen terms that are closely related to a given seed term. The proposed method consists of three steps. The first step, compiling corpus step, collects texts that contain the given seed term by using search engines. The second step, automatic term recognition, extracts important terms from the corpus by using Nakagawa's method. These extracted terms become the candidates for the final step. The final step, filtering step, removes inappropriate terms from the candidates based on search engine hits. An evaluation result shows that the precision of the method is 85%.</Paragraph>
+</Section>
+</Paper>
+

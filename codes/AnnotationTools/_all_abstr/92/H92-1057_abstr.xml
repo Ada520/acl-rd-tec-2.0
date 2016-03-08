@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H92-1057">
+<Title>Experimental Results for Baseline Speech Recognition Performance using Input Acquired from a Linear Microphone Array</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> In this paper, baseline speech recognition performance is determined both for a single remote microphone and for a signal derived from a delay-and-sum beamformer using an eight-microphone linear array.</Paragraph>
+<Paragraph position="1"> An HMM-based, connected-speech, 38-word vocabulary (alphabet, digits, 'space', 'period'), talker-independent speech recognition system is used for testing performance. Normal performance, with no language model, i.e., raw word-level performance, is currently about 81% for a set of talkers not in the training set and about 91% for training set data. The system has been trained and tested using a close-talking bead-mounted microphone. Since a meaningful comparison requires using the same speech, the existing speech database was appropriately pre-filtered, played out through a transducer (speaker) in the room environment, picked-up by the microphone array, and re-stored as a digital file. The resulting file was post-processed and used as input to the recognizer; the recognition performance indicates the effect of the input device. The baseline experiment showed that both a single remote microphone and the beamformed signal reduced performance by 12% in a room with no other talkers. For the array tested, the error is generally attributable to reverberation off the floor and ceiling.</Paragraph>
+</Section>
+</Paper>
+

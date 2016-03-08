@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-1218">
+<Title>A Clustering Algorithm-for Chinese Adjectives and Nouns 1</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper proposes a bidirctional hierarchical clustering algorithm for simultaneously clustering words of different parts of speech based on collocations. The algorithm is composed of cycles of two kinds of alternate clustering processes. We construct an objective function based on Minimum Description Length. To. partly solve the problem caused by sparse data two concepts of collocational degree and revisional distance are presented.</Paragraph>
+</Section>
+</Paper>
+

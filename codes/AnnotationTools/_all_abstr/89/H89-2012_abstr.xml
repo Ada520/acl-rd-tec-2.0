@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H89-2012">
+<Title>Parsing, Word Associations and Typical Predicate-Argument Relations 1</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> There are a number of coUocational constraints in natural languages that ought to play a more important role in natural language parsers. Thus, for example, it is hard for most parsers to take advantage of the fact that wine is typically drunk, produced, and sold, but (probably) not pruned. So too, it is hard for a parser to know which verbs go with which prepositions (e.g., set up) and which nouns fit together to form compound noun phrases (e.g., computer programmer). This paper will attempt to show that many of these types of concerns can be addressed with syntactic methods (symbol pushing), and need not require explicit semantic interpretation. We have found that it is possible to identify many of these interesting co-occurrence relations by computing simple summary statistics over millions of words of text. This paper will summarize a number of experiments carried out by various subsets of the authors over the last few years. The term collocation will be used quite broadly to include constraints on SVO (subject verb object) triples, phrasal verbs, compound noun phrases, and psycholinguistic notions of word association (e.g., doctor~nurse).</Paragraph>
+</Section>
+</Paper>
+

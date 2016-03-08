@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1135">
+<Title>Extracting Hyponyms of Prespecified Hypernyms from Itemizations and Headings in Web Documents</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a method to acquire hyponyms for given hypernyms from HTML documents on the WWW. We assume that a heading (or explanation) of an itemization (or listing) in an HTML document is likely to contain a hypernym of the items in the itemization, and we try to acquire hyponymy relations based on this assumption. Our method is obtained by extending Shinzato's method (Shinzato and Torisawa, 2004) where a common hypernym for expressions in itemizations in HTML documents is obtained by using statistical measures. By using Japanese HTML documents, we empirically show that our proposed method can obtain a significant number of hyponymy relations which would otherwise be missed by alternative methods. null</Paragraph>
+</Section>
+</Paper>
+

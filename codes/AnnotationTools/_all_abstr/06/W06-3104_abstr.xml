@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-3104">
+<Title>Quasi-Synchronous Grammars: Alignment by Soft Projection of Syntactic Dependencies</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Many syntactic models in machine translation are channels that transform one tree into another, or synchronous grammars that generate trees in parallel. We  presentanewmodelofthetranslationprocess: quasi-synchronous grammar (QG). Given a source-language parse tree T1, a QG defines a monolingual grammar that generates translations of T1. The trees T2 allowed by this monolingual grammar are inspired by pieces of substructure in T1 and aligned to T1 at those points. We describe experiments learning quasi-synchronous context-free grammars from bitext. As with other monolingual language models, we evaluate the cross-entropy of QGs on unseen text and show thatabetterfittobilingualdataisachieved by allowing greater syntactic divergence.</Paragraph>
+<Paragraph position="1"> When evaluated on a word alignment task, QG matches standard baselines.</Paragraph>
+</Section>
+</Paper>
+

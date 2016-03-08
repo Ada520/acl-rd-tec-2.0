@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="X98-1004">
+<Title>THE COMMON PATTERN SPECIFICATION LANGUAGE</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> This paper describes the Common Pattern Specification Language (CPSL) that was developed during the TIPSTER program by a committee of researchers from the TIPSTER research sites. Many information extraction systems work by matching regular expressions over the lexical features of input symbols. CPSL was designed as a language for specifying such finite-state grammars for the purpose of specifying information extraction rules in a relatively system-independent way. The adoption of such a common language would enable the creation of shareable resources for the development of rule-based information extraction systems.</Paragraph>
+</Section>
+</Paper>
+

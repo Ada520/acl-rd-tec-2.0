@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="I05-6003">
+<Title>A Study of Applying BTM Model on the Chinese Chunk Bracketing</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The purpose of this paper is to automatically generate Chinese chunk bracketing by a bottom-to-top mapping (BTM) model with a BTM dataset. The BTM model is designed as a supporting model with parsers. We define a word-layer matrix to generate the BTM dataset from Chinese Treebank. Our model matches auto-learned patterns and templates against segmented and POS-tagged Chinese sentences. A sentence that can be matched with some patterns or templates is called a matching sentence. The experimental results have shown that the chunk bracketing of the BTM model on the matching sentences is high and stable. By applying the BTM model to the matching sentences and the N-gram model to the non-matching sentences, the experiment results show the F-measure of an N-gram model can be improved.</Paragraph>
+</Section>
+</Paper>
+

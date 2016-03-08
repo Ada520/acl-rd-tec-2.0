@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W05-0822">
+<Title>PORTAGE: A Phrase-based Machine Translation System</Title>
+<Section position="2" start_page="0" end_page="1" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes the participation of the Portage team at NRC Canada in the shared task  of ACL 2005 Workshop on Building and Using Parallel Texts. We discuss Portage, a statistical phrase-based machine translation system, and present experimental results on the four language pairs of the shared task. First, we focus on the French-English task using multiple resources and techniques. Then we describe our contribution on the Finnish-English, Spanish-English and German-English language pairs using the provided data for the shared task.</Paragraph>
+</Section>
+</Paper>
+

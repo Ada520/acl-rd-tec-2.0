@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H91-1005">
+<Title></Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> One of the most obvious and natural applications for speech technology is in providing a gateway to information services over the telephone network. Already a significant growth is occurring the provision of information from a centralised computing system using stored messages or synthetic speech derived from text files. Most of these systems however currently rely on the use of touch tone input for selection of the information. In the UK only 15% of homes and businesses have tone dialling, although the network is currently able to support around 50% tone dialling. The ability to recognise a small number of words or even the digits without the user requiring to train the system therefore has widespread application. As the scope of the information service expands so also does the need for more intelligent dialogues with much larger vocabularies for speech understanding.</Paragraph>
+<Paragraph position="1"> The SUNDIAL project, led by Logica Cambridge, is currently one of Europe's largest collaborative projects in speech technology involving partners from the UK, France, Germany, Italy and Sweden in 170 man years of effort over five years. The project which is part funded by the Commission of the European Communities under the ESPRIT programme, commenced in September 1988 and will end in July 1993. The partners involved in the project are shown below.</Paragraph>
+</Section>
+</Paper>
+

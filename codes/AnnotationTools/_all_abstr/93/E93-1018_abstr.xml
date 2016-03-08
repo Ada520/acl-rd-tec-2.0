@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E93-1018">
+<Title>A unification-based approach to multiple VP Ellipsis resolution*</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> An assumption shared by many theories of discourse is that discourse structure constrains anaphora resolution (cf. \[Grosz and Sidner 1986\] for definite NPs, \[Lascarides and Asher 1991\], \[Nakhimovsky 1988\] for temporal anaphora, \[Webber 1990\] for deictic pronouns and \[Gardent 1991\], \[Prfist and Scha 1990\] for VP ellipsis). The aim of this paper is (i) to show that this assumption also applies to multiple VP ellipsis (VPE), (ii) to argue that other levels of linguistic information (such as syntax and semantics) interact with discourse structure in determining multiple VPE acceptability and (iii)to make these intuitions precise by providing a unification-based account of multiple VPE resolution.</Paragraph>
+</Section>
+</Paper>
+

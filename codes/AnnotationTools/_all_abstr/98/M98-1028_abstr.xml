@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="M98-1028">
+<Title>MUC-7 Named Entity Task Definition</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. INTRODUCTION
+</SectionTitle>
+<Paragraph position="0"></Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+1.1 Scope
+</SectionTitle>
+<Paragraph position="0"> The Named Entity task consists of three subtasks (entity names, temporal expressions, number expressions).</Paragraph>
+<Paragraph position="1"> The expressions to be annotated are &amp;quot;unique identifiers&amp;quot; of entities (organizations, persons, locations), times (dates, times), and quantities (monetary values, percentages).</Paragraph>
+<Paragraph position="2"> For many text processing systems, such identifiers are recognized primarily using local pattern-matching techniques. The TEI (Text Encoding Initiative) Guidelines for Electronic Text Encoding and Interchange cover such identifiers (plus abbreviations) together in section 6.4 and explain that the identifiers comprise &amp;quot;textual features which it is often convenient to distinguish from their surrounding text. Names, dates and numbers are likely to be of particular importance to the scholar treating a text as source for a database; distinguishing such items from the surrounding text is however equally important to the scholar primarily interested in lexis.&amp;quot; The task is to identify all instances of the three types of expressions in each text in the test set and to subcategorize the expressions. The original texts contain some SGML tags already; the Named Entity task is to be performed within the text delimited by the SLUG, DATE, NWORDS, PREAMBLE, TEXT, and TRAILER tags.</Paragraph>
+<Paragraph position="3"> The system must produce a single, unambiguous output for any relevant string in the text; thus, this evaluation is not based on a view of a pipelined system architecture in which Named Entity recognition would be completely handled as a preprocess to sentence and discourse analysis. The task requires that the system recognize what a string represents, not just its superficial appearance. Sometimes, the right answer is superficially apparent, as in the case of most, if not all, NUMEX expressions, and can be obtained by local pattern-matching techniques. In other cases, the right answer is not superficially apparent, as when a single capitalized word could represent the name of a location, person, or organization, and the answer may have to be obtained using techniques that draw information from a larger context or from reference lists.</Paragraph>
+<Paragraph position="4"> The three subtasks correspond to three SGML tag elements: ENAMEX, TIMEX, and NUMEX. The subcategorization is captured by a SGML tag attribute called TYPE, which is defined to have a different set of possible values for each tag element. The markup is described in section 2, below.</Paragraph>
+</Section>
+<Section position="2" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+1.2 Performance Evaluation
+</SectionTitle>
+<Paragraph position="0"> Scoring of this task will be done using the same kinds of metrics that are used for scoring template-filling (information extraction) tasks. For specific information on the scoring, refer to &amp;quot;MUC-7 Scoring System User's Manual,&amp;quot; prepared for MUC-7 by SAIC.</Paragraph>
+<Paragraph position="1"> Cumulative scores will be generated at several levels of description of the task, e.g., * across subtasks, * for each subtask, * for the subcategorization aspect of each subtask, * for each part of the article that is included in the task (&lt;SLUG&gt;,&lt;DATE&gt;, &lt;NWORDS&gt;, &lt;PREAMBLE&gt;,&lt;TEXT&gt;, &lt;TRAILER&gt;).</Paragraph>
+</Section>
+</Section>
+</Paper>
+

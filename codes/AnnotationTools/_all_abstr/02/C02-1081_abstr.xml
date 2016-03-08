@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C02-1081">
+<Title>Data-driven Classification of Linguistic Styles in Spoken Dialogues</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Language users have individual linguistic styles. A spoken dialogue system may benefit from adapting to the linguistic style of a user in input analysis and output generation. To investigate the possibility to automatically classify speakers according to their linguistic style three corpora of spoken dialogues were analyzed. Several numerical parameters were computed for every speaker.</Paragraph>
+<Paragraph position="1"> These parameters were reduced to linguistically interpretable components by means of a principal component analysis. Classes were established from these components by cluster analysis. Unseen input was classified by trained neural networks with varying error rates depending on corpus type. A first investigation in using special language models for speaker classes was carried out.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-0102">
+<Title>An Interactive Spreadsheet for Teaching the Forward-Backward Algorithm</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper offers a detailed lesson plan on the forward-backward algorithm. The lesson is taught from a live, commented spreadsheet that implements the algorithm and graphs its behavior on a whimsical toy example. By experimenting with different inputs, one can help students develop intuitions about HMMs in particular and Expectation Maximization in general. The spreadsheet and a coordinated follow-up assignment are available.</Paragraph>
+<Paragraph position="1"> 1 Why Teach from a Spreadsheet? Algorithm animations are a wonderful teaching tool.</Paragraph>
+<Paragraph position="2"> They are concrete, visual, playful, sometimes interactive, and remain available to students after the lecture ends. Unfortunately, they have mainly been limited to algorithms that manipulate easy-to-draw data structures.</Paragraph>
+<Paragraph position="3"> Numerical algorithms can be &amp;quot;animated&amp;quot; by spreadsheets. Although current spreadsheets do not provide video, they can show &amp;quot;all at once&amp;quot; how a computation unfolds over time, displaying intermediate results in successive rows of a table and on graphs. Like the best algorithm animations, they let the user manipulate the input data to see what changes. The user can instantly and graphically see the effect on the whole course of the computation.</Paragraph>
+<Paragraph position="4"> Spreadsheets are also transparent. In Figure 1, the user has double-clicked on a cell to reveal its underlying formula. The other cells that it depends on are automatically highlighted, with colors keyed to the references in the formula. There is no programming language to learn: spreadsheet programs are aimed at the mass market, with an intuitive design and plenty of online help, and today's undergraduates already understand their basic operation. An adventurous student can even experiment with modifying the formulas, or can instrument the spreadsheet with additional graphs.</Paragraph>
+<Paragraph position="5"> Finally, modern spreadsheet programs such as Microsoft Excel support visually attractive layouts with integrated comments, color, fonts, shading, and  drawings. This makes them effective for both classroom presentation and individual study.</Paragraph>
+<Paragraph position="6"> This paper describes a lesson plan that was centered around a live spreadsheet, as well as a subsequent programming assignment in which the spreadsheet served as a debugging aid. The materials are available for use by others.</Paragraph>
+<Paragraph position="7"> Students were especially engaged in class, apparently for the following reasons: Striking results (&amp;quot;It learned it!&amp;quot;) that could be immediately apprehended from the graphs.</Paragraph>
+<Paragraph position="8"> Live interactive demo. The students were eager to guess what the algorithm would do on particular inputs and test their guesses.</Paragraph>
+<Paragraph position="9"> A whimsical toy example.</Paragraph>
+<Paragraph position="10"> The departure from the usual class routine.</Paragraph>
+<Paragraph position="11"> Novel use of spreadsheets. Several students who thought of them as mere bookkeeping tools were awed by this, with one calling it &amp;quot;the coolest-ass spreadsheet ever.&amp;quot; 2 How to Teach from a Spreadsheet? It is possible to teach from a live spreadsheet by using an RGB projector. The spreadsheet's zoom feature can compensate for small type, although undergraduate eyes prove sharp enough that it may be unnecessary. (Invite the students to sit near the front.) Of course, interesting spreadsheets are much too big to fit on the screen, even with a &amp;quot;View / Full Screen&amp;quot; command. But scrolling is easy to follow if it is not too fast and if the class has previously July 2002, pp. 10-18. Association for Computational Linguistics. Natural Language Processing and Computational Linguistics, Philadelphia, Proceedings of the Workshop on Effective Tools and Methodologies for Teaching been given a tour of the overall spreadsheet layout (by scrolling and/or zooming out). Split-screen features such as hide rows/columns, split panes, and freeze panes can be moderately helpful; so can commands to jump around the spreadsheet, or switch between two windows that display different areas. It is a good idea to memorize key sequences for such commands rather than struggle with mouse menus or dialog boxes during class.</Paragraph>
+</Section>
+</Paper>
+

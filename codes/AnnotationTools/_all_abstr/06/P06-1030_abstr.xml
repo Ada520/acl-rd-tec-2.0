@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P06-1030">
+<Title>Automated Japanese Essay Scoring System based on Articles Written by Experts</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We have developed an automated Japanese essay scoring system called Jess. The system needs expert writings rather than expert raters to build the evaluation model.</Paragraph>
+<Paragraph position="1"> By detecting statistical outliers of predetermined aimed essay features compared with many professional writings for each prompt, our system can evaluate essays.</Paragraph>
+<Paragraph position="2"> The following three features are examined: (1) rhetoric -- syntactic variety, or the use of various structures in the arrangement of phases, clauses, and sentences, (2) organization -- characteristics associated with the orderly presentation of ideas, such as rhetorical features and linguistic cues, and (3) content -- vocabulary related to the topic, such as relevant information and precise or specialized vocabulary. The final evaluation score is calculated by deducting from a perfect score assigned by a learning process using editorials and columns from the Mainichi Daily News newspaper. A diagnosis for the essay is also given.</Paragraph>
+</Section>
+</Paper>
+

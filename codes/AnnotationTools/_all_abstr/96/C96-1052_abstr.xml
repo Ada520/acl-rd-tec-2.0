@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-1052">
+<Title>A Computational Model of Incremental Utterance Production in Task-Oriented Dialogues</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a comtmtational model of incremental utterance production in task-oriented dialogues. This model incrementally produces utterantes to propose the solution of a given problem, while simultaneously solving the problem in a stepwise manner. Even when the solution has been partially determined, this model starts utterances to satisfy time constraints where pauses in mid-utterance must not exceed a certain length. The results of an analysis of discourse structure in a dialogue corpus are presented and the fine structure of discourse that contributes to the incremental strategy of utterance production is described. This model utilizes such a discourse structure to incrementally produce utterances constituting a discourse. Pragmatic constraints are exploited to guarantee the relevance of discourses, which are evaluated by an utterance simulation experiment.</Paragraph>
+</Section>
+</Paper>
+

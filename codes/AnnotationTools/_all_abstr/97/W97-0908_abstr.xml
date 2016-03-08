@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0908">
+<Title>C/n G o C/ Q W</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In the Microsoft Natural Language Processing System (MSNLP), grammar sharing between English, French, Spanish, and German has been an important means for speeding up the development time for the latter grammars.</Paragraph>
+<Paragraph position="1"> Despite significant typological differences between these languages, a mature English grammar was taken as the starting point for each of the other three grarnmars. In each case, through a combination of adding and deleting a modest number of grammar rules, and modifying the conditions on many others, a broad-coverage target grammar emerged. Tests indicate that this approach has been successful in achieving a high degree of coverage in a relatively short period of time.</Paragraph>
+</Section>
+</Paper>
+

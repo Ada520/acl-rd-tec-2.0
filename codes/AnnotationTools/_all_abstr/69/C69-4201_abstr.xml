@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C69-4201">
+<Title>A Universal Graphic Character Writer</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+' ABSTRACT
+O
+</SectionTitle>
+<Paragraph position="0"> A major harrier to the human communication is attributed to the fact that there is no compatible typewriter, as in the Western World, for any non-alphabetic language outside of the Western World. This paper~11 describe how a plotter can be used through programming, as a universal graphic character writer for all non-alphabetic as well as alphabetic languages in place of the typewriter. This is economically feasible since the plotter is not expensive and can be driven by a small computer on-llne, or off-line using a plotter and tape unit.</Paragraph>
+<Paragraph position="1"> Each character is treated as a single independent graph and decomposed into line segments within a 16 x 16 grid for non-alphabetic languages, and a 5 x 8 grid for alphabetic languages. Therefore, the graphic character can be represented by the coordinates which indicate the beginning and the ending points of the line segments.</Paragraph>
+<Paragraph position="2"> To take the most c.omplicated Chinese language as an example, the character for &amp;quot;BRAVE&amp;quot; ( ) can be represented by twenty-three pairs of coordinates and packed into four 48-bit computer words.</Paragraph>
+<Paragraph position="3"> Taking this as a basis for estimation, the overwhelmingly numerous I0,000 Chinese characters can be decomposed and packed into 40K *This study was supported in part by the University of Wisconsin.</Paragraph>
+<Paragraph position="4">  -2of memory. Thus, a computer with 65K memory will be able to keep them in core for direct access and processing.</Paragraph>
+<Paragraph position="5"> On the other hand, an English letter &amp;quot;I~' can be represented by five pairs of coordinates and packed into one 48-bit computer word. In other words, the whole set of the English alphabet, including upper and lower cases, will need only II0 words of memory.</Paragraph>
+<Paragraph position="6"> The output on the plotter is itself a good hard copy to keep, and certainly it can be used as an original for further dupllcating, photographing and photoengraving.</Paragraph>
+</Section>
+</Paper>
+

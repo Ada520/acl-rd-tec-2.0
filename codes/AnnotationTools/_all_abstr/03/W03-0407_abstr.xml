@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-0407">
+<Title>Bootstrapping POS taggers using Unlabelled Data</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper investigates booststrapping part-of-speech taggers using co-training, in which two taggers are iteratively re-trained on each other's output. Since the output of the taggers is noisy, there is a question of which newly labelled examples to add to the training set. We investigate selecting examples by directly maximising tagger agreement on unlabelled data, a method which has been theoretically and empirically motivated in the co-training literature. Our results show that agreement-based co-training can significantly improve tagging performance for small seed datasets. Further results show that this form of co-training considerably out-performs self-training. However, we find that simply re-training on all the newly labelled data can, in some cases, yield comparable results to agreement-based co-training, with only a fraction of the computational cost.</Paragraph>
+</Section>
+</Paper>
+

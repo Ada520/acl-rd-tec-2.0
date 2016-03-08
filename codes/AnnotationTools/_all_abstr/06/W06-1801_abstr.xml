@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-1801">
+<Title>Language and Reasoning for Question Answering: State of the Art and Future Directions</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The research community states that QA systems should support the integration of deeper modes of language understanding as well as more elaborated reasoning schemas in order to boost the performances of current QA systems as well as the quality and the relevance of the produced answers.</Paragraph>
+<Paragraph position="1"> Depending on the complexity of the question and the associated passages, more or less complex strategies can be used, such as :  ent sources, etc.</Paragraph>
+<Paragraph position="2"> We focus in this talk on the role of reasoning in a QA process by answering the following questions: what kind of reasoning capabilities can be used ? on what kind of resources can they be built on ? at what extend they can be used when developing realistic systems ? Based on the synthesis of the current state of the art, the second part of the talk describes a general typology of inference at different levels: deep semantic analysis of both NL questions and passages, textual entailment, pragmatic inference and context detection, etc. The related formalisms as well as a description of some current QA systems based on these techniques are also presented.</Paragraph>
+</Section>
+</Paper>
+

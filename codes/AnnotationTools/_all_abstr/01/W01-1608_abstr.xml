@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W01-1608">
+<Title></Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+References
+</SectionTitle>
+<Paragraph position="0"> 1 Tilman Becker and Stephan Busemann, editors. 1999. May I Speak Freely? Between Templates and Free Choice in Natural Language Generation. Workshop at the 23rd German Annual Conference for Artificial Intelligence (KI '99), Saarbrcken. DFKI.</Paragraph>
+<Paragraph position="1"> 2 R. Cooper, S. Larsson, M. Poesio, D. Traum, and C. Matheson. 1999. Coding instructional dialogue for information states. In Task Oriented Instructional Dialogue (TRINDI): Deliverable 1.1. University of Gothenburg, Gothenburg.</Paragraph>
+<Paragraph position="2"> 3 Gregor Erbach, ProFIT: prolog with features, inheritance and templates, Proceedings of the seventh conference on European chapter of the Association for Computational Linguistics, March 27-31, 1995, Dublin, Ireland 4 Jonathan Ginzburg and Ivan Sag. 2000. English Interrogative Constructions. Studies in Constraint-based Lexicalism. CSLI Publications, Stanford, California.</Paragraph>
+<Paragraph position="3"> 5 Jonathan Ginzburg, Howard Gregory, and Shalom Lappin. 2001. SHARDS: Fragment resolution in dialogue. In Harry Bunt, Ielka van der Sluis, and Elias Thijse, editors, Proceedings of the 4th International Workshop on Computational Semantics (IWCS-4), pages 156--172, Tilburg. 6 Jonathan Ginzburg. 2001. Clarification ellipsis and nominal anaphora. In H. Bunt, editor, Computing meaning, volume 2. Kluwer, Dordrecht.</Paragraph>
+<Paragraph position="4"> 7 Howard Gregory and Shalom Lappin. 1999. Antecedent contained ellipsis in HPSG. In G. Webelhuth, J. P. Koenig, and A. Kathol, editors, Lexical and Constructional Aspects of Linguistic Explanation, pages 331--356. CSLI Publications, Stanford. 8 Martin Kay, Chart generation, Proceedings of the 34th annual meeting on Association for Computational Linguistics, p.200-204, June 24-27, 1996, Santa Cruz, California 9 Kathleen R. McKeown, Text generation: using discourse strategies and focus constraints to generate natural language text, Cambridge University Press, New York, NY, 1985 10 Nicolas Nicolov and Chris Mellish. 2000. PROTECTOR: Efficient Generation with Lexicalized Grammars. In Recent Advances in Natural Language Processing, Current Issues in Linguistic Theory (CILT 189), pages 221--243. John Benjamin, Amsterdam &amp; Philadelphia. 11 Carl Pollard and Ivan Sag. 1994. Head Driven Phrase Structure Grammar. University of Chicago Press and CSLI Publications, Chicago.</Paragraph>
+<Paragraph position="5"> 12 Ehud Reiter. 1995. NLG vs. templates. In Proceedings of the Fifth European Workshop on Natural-Language Generation (ENLGW-1995), Leiden, The Netherlands.</Paragraph>
+<Paragraph position="6"> 13 Ivan Sag. 1997. English relative clause constructions. Journal of Linguistics, 33:431--484.</Paragraph>
+<Paragraph position="7"> 14 Stuart M. Shieber , Gertjan van Noord , Fernando C. N. Pereira , Robert C. Moore, Semantic-head-driven generation, Computational Linguistics, v.16 n.1, p.30-42, March 1990</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-2810">
+<Title>FindingSimilarSentencesacrossMultipleLanguagesin Wikipedia</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We investigatewhethertheWikipediacorpus is amenableto multilingualanalysis that aims at generatingparallelcorpora.</Paragraph>
+<Paragraph position="1"> We presenttheresultsof theapplicationof two simpleheuristicsfortheidentification of similartext acrossmultiple languages in Wikipedia.Despitethesimplicityof the methods,evaluationcarriedout on a sampleofWikipediapagesshowsencouraging null results.</Paragraph>
+</Section>
+</Paper>
+

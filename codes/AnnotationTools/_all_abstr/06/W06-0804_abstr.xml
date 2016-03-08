@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-0804">
+<Title>Sydney, July 2006. c(c)2006 Association for Computational Linguistics How to Find Better Index Terms Through Citations</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We consider the question of how information from the textual context of citations in scienti c papers could improve indexing of the cited papers. We rst present examples which show that the context should in principle provide better and new index terms. We then discuss linguistic phenomena around citations and which type of processing would improve the automatic determination of the right context. We present a case study, studying the effect of combining the existing index terms of a paper with additional terms from papers citing that paper in our corpus. Finally, we discuss the need for experimentation for the practical validation of our claim.</Paragraph>
+</Section>
+</Paper>
+

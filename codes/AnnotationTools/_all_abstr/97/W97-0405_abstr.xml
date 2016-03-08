@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0405">
+<Title>A Formal Basis for Spoken Language Translation by Analogy</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Since spoken language is characterized by a number of properties that defy interpretation and translation by purely grammar-based techniques, recent interest has turned to analogical (also known as case-based or example-based) approaches. In this framework, the most important step consists of robustly matching the recognized input expression with the stored examples. This paper presents a probabilistic formalization of analogical matching, and describes how this model is applied to speech translation in the framework of translation by analogy.</Paragraph>
+</Section>
+</Paper>
+

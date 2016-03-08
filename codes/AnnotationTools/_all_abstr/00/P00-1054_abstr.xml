@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P00-1054">
+<Title>Lexical transfer using a vector-space model</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Building a bilingual dictionary for transfer in a machine translation system is conventionally done by hand and is very time-consuming. In order to overcome this bottleneck, we propose a new mechanism for lexical transfer, which is simple and suitable for learning from bilingual corpora. It exploits a vector-space model developed in information retrieval research. We present a preliminary result from our computational experiment.</Paragraph>
+<Paragraph position="1"> Introduction Many machine translation systems have been developed and commercialized. When these systems are faced with unknown domains, however, their performance degrades. Although there are several reasons behind this poor performance, in this paper, we concentrate on one of the major problems, i.e., building a bilingual dictionary for transfer.</Paragraph>
+<Paragraph position="2"> A bilingual dictionary consists of rules that map a part of the representation of a source sentence to a target representation by taking grammatical differences (such as the word order between the source and target languages) into consideration. These rules usually use case-frames as their base and accompany syntactic and/or semantic constraints on mapping from a source word to a target word. For many machine translation systems, experienced experts on individual systems compile the bilingual dictionary, because this is a complicated and difficult task. In other words, this task is knowledge-intensive and labor-intensive, and therefore, time-consuming. Typically, the developer of a machine translation system has to spend several years building a general-purpose bilingual dictionary. Unfortunately, such a general-purpose dictionary is not almighty, in that (1) when faced with a new domain, unknown source words may emerge and/or some domain-specific usages of known words may appear and (2) the accuracy of the target word selection may be insufficient due to the handling of many target words simultaneously.</Paragraph>
+<Paragraph position="3"> Recently, to overcome these bottlenecks in knowledge building and/or tuning, the automation of lexicography has been studied by many researchers: (1) approaches using a decision tree: the ID3 learning algorithm is applied to obtain transfer rules from case-frame representations of simple sentences with a thesaurus for generalization (Akiba et. al., 1996 and Tanaka, 1995); (2) approaches using structural matching: to obtain transfer rules, several search methods have been proposed for maximal structural matching between trees obtained by parsing bilingual sentences (Kitamura and Matsumoto, 1996; Meyers et. al., 1998; and Kaji et. al.,1992).</Paragraph>
+</Section>
+</Paper>
+

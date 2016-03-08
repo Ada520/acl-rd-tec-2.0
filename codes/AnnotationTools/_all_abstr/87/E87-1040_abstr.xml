@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E87-1040">
+<Title>A STRUCTURED REPRESENTATION OF WORD-SENSES IrOR SEMANTIC ANALYSIS.</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> A framework for a structured representation of semantic knowledge (e.g. word-senses) has been defined at the IBM Scientific Center of Roma, as part of a project on Italian Text Understanding. This representation, based on the conceptual graphs formalism \[SOW84\], expresses deep knowledge (pragmatic) on word-senses. The knowledge base data structure is such as to provide easy access by the semantic verification algorithm. This paper discusses some important problem related to the definition of a semantic knowledge base, as depth versus generality, hierarchical ordering of concept types, etc., and describes the solutions adopted within the text understanding project.</Paragraph>
+</Section>
+</Paper>
+

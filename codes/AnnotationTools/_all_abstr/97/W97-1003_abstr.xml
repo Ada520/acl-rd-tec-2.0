@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-1003">
+<Title>A Preliminary Study of Word Clustering Based on Syntactic Behavior</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We show how a treebank can be used to cluster words on the basis of their syntactic behavior. The resulting clusters represent distinct types of behavior with much more precision than parts of speech. As an example we show how prepositions can be automatically subdivided by their syntactic behavior and discuss the appropriateness of such a subdivision. Applications of this work are also discussed.</Paragraph>
+</Section>
+</Paper>
+

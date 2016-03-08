@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P80-1017">
+<Title>Interactive Discourse: Influence of the Social Context</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+SRI International
+</SectionTitle>
+<Paragraph position="0"> Progress on natural language interfaces can perhaps be stimulated or directed by imagining the ideal natural language system of the future. What features (or even design philosophies) should such a system have in order to become an integral part of our work environments? What scaled-down versions of these features might be possible in the near future in &amp;quot;simple service systems&amp;quot; \[2\]? These issues can be broken down into the following four questions: i. What are the significant features of the environment in which the system will reside? The system will be one participant in an intricate information network, depending on a continually reinforced shared complex of knowledge \[9\]. To be an integral part of this environment, the system must possess some of the shared knowledge and perhaps must participate in its reinforcement, e.g. via explanations, \[9\], \[2\].</Paragraph>
+</Section>
+</Paper>
+

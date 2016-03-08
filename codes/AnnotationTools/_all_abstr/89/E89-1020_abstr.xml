@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E89-1020">
+<Title>It Would Be Much Easier If WENT Were GOED</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> The paper proposes a paradigmatic approach to morphological knowledge acquisition. It addresses the problem of learning from examples rules for word-forms analysis and synthesis.</Paragraph>
+<Paragraph position="1"> These rules, established by generalizing the training data sets, are effectively used by a built-in interpreter which acts consequently as a morphological processor within the architecture of a natural language question-answering system.</Paragraph>
+<Paragraph position="2"> The PARADIGM system has no a priori knowledge which should restrict it to a particular natural language, but instead builds up the morphological rules based only on the examples provided, be they in Romanian, English, French, Russian, SIovak and the like.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-1311">
+<Title>Event Coreference for Information Extraction</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We propose a general approach for performing event coreference and for constructing complex event representations, such as those required for information extraction tasks. Our approach is based on a representation which allows a tight coupling between world or conceptual modelling and discourse modelling. The representation and the coreference mechanism are fully implemented within the LaSIE information extraction system where the mechanism is used for both object (noun phrase) and event coreference resolution.</Paragraph>
+<Paragraph position="1"> Indirect evaluation of the approach shows small, but significant benefit, for information extraction tasks.</Paragraph>
+</Section>
+</Paper>
+

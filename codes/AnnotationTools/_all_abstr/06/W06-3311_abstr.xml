@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-3311">
+<Title>Procter and Gamble Keynote Speech: Mining biomedical texts for disease-related pathways</Title>
+<Section position="1" start_page="0" end_page="81" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> I will describe my collaborators' and my own effort to compile large models of molecular pathways in complex human disorders.</Paragraph>
+<Paragraph position="1"> The talk will address a number of interrelated questions: How to extract facts from texts at a large scale? How to assess the quality of the extracted facts? How to identify sets of conflicting or unreliable facts and to generate an internally consistent model? How to use the resulting pathway model for automated generation of biological hypotheses?</Paragraph>
+</Section>
+</Paper>
+

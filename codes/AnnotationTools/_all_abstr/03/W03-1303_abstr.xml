@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-1303">
+<Title>Using Domain-Specific Verbs for Term Classification</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we present an approach to term classification based on verb complementation patterns. The complementation patterns have been automatically learnt by combining information found in a corpus and an ontology, both belonging to the biomedical domain. The learning process is unsupervised and has been implemented as an iterative reasoning procedure based on a partial order relation induced by the domain-specific ontology.</Paragraph>
+<Paragraph position="1"> First, term recognition was performed by both looking up the dictionary of terms listed in the ontology and applying the C/NC-value method. Subsequently, domain-specific verbs were automatically identified in the corpus. Finally, the classes of terms typically selected as arguments for the considered verbs were induced from the corpus and the ontology.</Paragraph>
+<Paragraph position="2"> This information was used to classify newly recognised terms. The precision of the classification method reached 64%.</Paragraph>
+</Section>
+</Paper>
+

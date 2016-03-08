@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-1708">
+<Title>The problem of ontology alignment on the web: a first report</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a general architecture and four algorithms that use Natural Language Processing for automatic ontology matching. The proposed approach is purely instance based, i.e., only the instance documents associated with the nodes of ontologies are taken into account.</Paragraph>
+<Paragraph position="1"> The four algorithms have been evaluated using real world test data, taken from the Google and LookSmart online directories.</Paragraph>
+<Paragraph position="2"> The results show that NLP techniques applied to instance documents help the system achieve higher performance.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0508">
+<Title>A Tutor for Teaching English as a Second Language for Deaf Users of American Sign Language</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we introduce a computer-assisted writing tool for deaf users of American Sign Language (ASL). The novel aspect of this system (under development) is that it views the task faced by these writers as one of second language acquisition. We indicate how this affects the system design and the system's correction and explanation strategies, and present our methodology for modeling the second language acquisition process.</Paragraph>
+</Section>
+</Paper>
+

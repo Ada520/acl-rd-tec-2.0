@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W94-0112">
+<Title>Bootstrapping Statistical Processing into a Rule-based Natural Language Parser</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a &amp;quot;bootstrapping&amp;quot; method which uses a broad-coverage, rule-based parser to compute probabilities while parsing an untagged corpus of NL text, and which then incorporates those probabilities into the processing of the same parser as it analyzes new text. Results are reported which show that this method can significantly improve the speed and accuracy of the parser without requiring the use of annotated corpora or human-supervised training during the computation of probabilities.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E99-1033">
+<Title>Investigating NLG Architectures: taking style into consideration</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we propose a methodology for investigating the relationship between architectures of natural language generation (NLG) systems and stylistic properties of texts. Biber's (1988) methodology is used to obtain both the characterisation of style of our corpus and the division of the corpus into sets of linguistically similar texts. These sets will be used for studying the architectural aspects.</Paragraph>
+</Section>
+</Paper>
+

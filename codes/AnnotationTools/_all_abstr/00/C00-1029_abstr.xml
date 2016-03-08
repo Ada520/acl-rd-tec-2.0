@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-1029">
+<Title>A Class-based Probabilistic approach to Structural Disambiguation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Knowledge of which words are able to fill p~rticular argum.ent slots of a predicate can be used tbr structural disambiguation. This paper describes a proposal :for acquiring such knowledge, and in line with much of the recent work in this area, a probabilistic approach is taken. We develop a novel way of using a semantic hierarchy to estimate the probabilities, and demonstrate the general approach using a prepositional phrase atta.chment experiment.</Paragraph>
+</Section>
+</Paper>
+

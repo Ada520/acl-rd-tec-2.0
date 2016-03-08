@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-0817">
+<Title>Building a Sense Tagged Corpus with Open Mind Word Expert</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+Open Mind Word Expert is an imple-
+</SectionTitle>
+<Paragraph position="0"> mented active learning system for collecting word sense tagging from the general public over the Web. It is available at http://teach-computers.org. We expect the system to yield a large volume of high-quality training data at a much lower cost than the traditional method of hiring lexicographers. We thus propose a Senseval-3 lexical sample activity where the training data is collected via Open Mind Word Expert.</Paragraph>
+<Paragraph position="1"> If successful, the collection process can be extended to create the definitive corpus of word sense information.</Paragraph>
+</Section>
+</Paper>
+

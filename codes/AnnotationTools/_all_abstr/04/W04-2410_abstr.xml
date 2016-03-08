@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-2410">
+<Title>Thesauruses for Prepositional Phrase Attachment</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Probabilistic models have been effective in resolving prepositional phrase attachment ambiguity, but sparse data remains a significant problem. We propose a solution based on similarity-based smoothing, where the probability of new PPs is estimated with information from similar examples generated using a thesaurus. Three thesauruses are compared on this task: two existing generic thesauruses and a new specialist PP thesaurus tailored for this problem. We also compare three smoothing techniques for prepositional phrases. We find that the similarity scores provided by the thesaurus tend to weight distant neighbours too highly, and describe a better score based on the rank of a word in the list of similar words. Our smoothing methods are applied to an existing PP attachment model and we obtain significant improvements over the baseline.</Paragraph>
+</Section>
+</Paper>
+

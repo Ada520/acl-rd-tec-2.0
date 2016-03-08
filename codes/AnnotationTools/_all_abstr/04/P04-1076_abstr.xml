@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P04-1076">
+<Title>Weakly Supervised Learning for Cross-document Person Name Disambiguation Supported by Information Extraction</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> It is fairly common that different people are associated with the same name. In tracking person entities in a large document pool, it is important to determine whether multiple mentions of the same name across documents refer to the same entity or not. Previous approach to this problem involves measuring context similarity only based on co-occurring words. This paper presents a new algorithm using information extraction support in addition to co-occurring words. A learning scheme with minimal supervision is developed within the Bayesian framework. Maximum entropy modeling is then used to represent the probability distribution of context similarities based on heterogeneous features. Statistical annealing is applied to derive the final entity coreference chains by globally fitting the pairwise context similarities. Benchmarking shows that our new approach significantly outperforms the existing algorithm by 25 percentage points in overall F-measure.</Paragraph>
+</Section>
+</Paper>
+

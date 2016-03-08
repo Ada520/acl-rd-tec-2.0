@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E06-3004">
+<Title>Bootstrapping Named Entity Recognition with Automatically Generated Gazetteer Lists</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Current Named Entity Recognition systems suffer from the lack of hand-tagged data as well as degradation when moving to other domain. This paper explores two aspects: the automatic generation of gazetteerlistsfromunlabeleddata; andthe building of a Named Entity Recognition system with labeled and unlabeled data.</Paragraph>
+</Section>
+</Paper>
+

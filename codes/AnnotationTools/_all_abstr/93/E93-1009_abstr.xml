@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E93-1009">
+<Title>A Strategy for Dynamic Interpretation: a Fragment and an Implementation</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The strategy for natural language interpretation presented in this paper implements the dynamics of context change by translating natural language texts into a meaning representation language consisting of (descriptions of) programs, in the spirit of dynamic predicate logic (DPL) \[5\]. The difference with DPL is that the usual DPL semantics is replaced by an error state semantics \[2\]. This allows for the treatment of unbound anaphors, as in DPL, but also of presuppositions and presupposition projection. null The use of this dynamic interpretation strategy is demonstrated in an implementation of a small fragment of natural language which handles unbound pronoun antecedent links, where it is assumed that the intended links are indicated in the input string, and uniqueness presuppositions of definite descriptions. The implementation consists of a syntax module which outputs parse trees, a semantic module mapping parse trees to DPL representations, a representation processor which determines truth conditions, falsity conditions and presupposition failure conditions, and an evaluator of these conditions in a database model.</Paragraph>
+<Paragraph position="1"> The implementation uses the logic programming language GSdel \[6\], an experimental successor of Prolog, with similar functionality and expressiveness, but with an improved declarative semantics.</Paragraph>
+</Section>
+</Paper>
+

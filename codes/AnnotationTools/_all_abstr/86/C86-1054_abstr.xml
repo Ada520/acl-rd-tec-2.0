@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C86-1054">
+<Title></Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> Language interaction (LI) as a part of interpersonal communication is considerably influenced by psychological and social roles nf the partners and their pragmatic goals. These aspects of communication should be accounted for while elaborating advanced user-computer dialogue systems and developing formal models of LI. We propose here a formal description of communicative context of Li-situation, namely, a system of indices of LI agents' interest in achieving various pragmatic purposes and a system of contracts which reflect social and psychological roles of the LI agents and conventionalize their &amp;quot;rights&amp;quot; and &amp;quot;duties&amp;quot; in tlle LIprocess. Different values of these parameters of communication allow us to state possibility or/and necessity of certain types of speech acts under certain conditious of LI-situation.</Paragraph>
+</Section>
+</Paper>
+

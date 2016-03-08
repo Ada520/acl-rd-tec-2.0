@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C92-4210">
+<Title>Semantic di(:tionary viewed as a lexic~l database</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper an expert system is described which is ealle(l Lexicographer and which aims at supplying the user with diverse information about lhlssian words, including bibliographic information concerning individual lex.. ieM items. It is SUl)posed that tim system may be of use for a practical contputationa |linguist ,iLnd at the same time will serw~ as nn instrument of linguistic research.</Paragraph>
+<Paragraph position="1"> the user with diverse inform~tion about t/.m; slan words, of. \[2\].</Paragraph>
+<Paragraph position="2"> The system is conceived ;~s an aid both in the area of natural language t)ro(:essing and in the traditi(mal lexicogr~qflly.</Paragraph>
+<Paragraph position="3"> The system consists o\[ two I)asi(: colnpollellts: \],cxi(:on (containing ~'~ome 13.000 most corn\[non words); - l|ibliograt)hical (1;md)ase.</Paragraph>
+<Paragraph position="4"> It is tim l,exicon that is of prim;~ry c&lt;)ncern in this l~al)cr.</Paragraph>
+<Paragraph position="5"> Lexieal database and il,s The idea was topresent the l,exicon in :~ form advantages over traditional of a lexical dat, aha:;e (IA)B). dictionaries \[,l)t~ is a vo(:abuiary presented in ;~ machine rea(l~ble form and consisting of sever;d do mMnes, ;ts in a usuM relational databmse. 'l'}te In this paper we investigate general principles implemented in nn expert systeln (cMled user may get information ahout morphology, LEXICOGRAPHER), designed to SUl)ply synl,~ctic combimd)ility and semantit: l'eatnres ACIT~ DE COLING-92, NANqES, 23-28 AOt~rr 1992 1 2 9 5 1)ROe. O1: COLING-92, NAN-n!S, Auc;. 23-28, 1992 of individual lexical items. It is semantics that we concentrate upon in this paper.</Paragraph>
+<Paragraph position="6"> Many attempts have been made to use traditional dictionaries in order to assign word senses to general semantic categories, cf. \[1\].</Paragraph>
+<Paragraph position="7"> Our LDB contains semantic information that cannot be elicited from the existing dictionaries. The priority is given to semantic features influencing lexieal or grammatical cooccurrence. In this paper possibilities are discussed of predicting selection~l restrictions, syntactic features and other formal characteristics of the utterance - such as the array of arguments and their semantic interpretation, the meaning of an aspeetual form of a verb etc., on the basis of semantic features of a word in the lexicon.</Paragraph>
+<Paragraph position="8"> The main advantage of a lexicai database as compared with a traditional dictionary consists in the fact that a database makes it possible to present semantic information in a format enabling the computer to locate efficiently various types of information specified for a given class of words. To put it differently, the main advantage of a database consists in the possibility of compiling lists of words possessing a common feature or a set of features.</Paragraph>
+<Paragraph position="9"> There are three main principles that the system is based upon.</Paragraph>
+<Paragraph position="10"> 1. We are convinced that semantic features of words determine co-occurence to a much greater extent than it is usually acknowledged.</Paragraph>
+<Paragraph position="11"> In other words, we claim that many aspects of syntactic subcategorization of lexical items are  predictable from their meaning.</Paragraph>
+<Paragraph position="12"> 2. A semantic feature of a word is essentially a semantic component (or components) in its lexieographic definition.</Paragraph>
+<Paragraph position="13"> 3. A great amount of information about the meaning of a lexical unit; about its combinatory possibilities; prosody; referential features;  or about its regular ambiguity, need not he stored in the dictionary: this information belongs to wi~at may be called a grammar of lexicon and should be formulated in a generalized form. In this form it can be stored in a Lexical Knowledge-Base of semantic and syntactic regularities. This Knowledge-Base has not yet been designed, but semantic features of words in LDB are conceived as an input for general rules that will be stored in this hypothetical Knowledge-Base.</Paragraph>
+</Section>
+</Paper>
+

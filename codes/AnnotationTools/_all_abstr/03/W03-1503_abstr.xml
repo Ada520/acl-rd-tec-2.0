@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-1503">
+<Title>Construction and Analysis of Japanese-English Broadcast News Corpus with Named Entity Tags</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We are aiming to acquire named entity (NE) translation knowledge from nonparallel, content-aligned corpora, by utilizing NE extraction techniques. For this research, we are constructing a Japanese-English broadcast news corpus with NE tags. The tags represent not only NE class information but also coreference information within the same monolingual document and between corresponding Japanese-English document pairs. Analysis of about 1,100 annotated article pairs has shown that if NE occurrence information, such as classes, number of occurrence and occurrence order, is given for each language, it may provide a good clue for corresponding NEs across languages.</Paragraph>
+</Section>
+</Paper>
+

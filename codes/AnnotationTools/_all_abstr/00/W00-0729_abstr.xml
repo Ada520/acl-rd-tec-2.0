@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-0729">
+<Title>Chunking with Maximum Entropy Models</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> In this paper I discuss a first attempt to create a text chunker using a Maximum Entropy model.</Paragraph>
+<Paragraph position="1"> The first experiments, implementing classifiers that tag every word in a sentence with a phrasetag using very local lexical information, part-of-speech tags and phrase tags of surrounding words, give encouraging results.</Paragraph>
+</Section>
+</Paper>
+

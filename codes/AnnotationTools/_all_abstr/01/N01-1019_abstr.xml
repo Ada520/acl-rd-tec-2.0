@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N01-1019">
+<Title>Information-based Machine Translation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes an approach to Machine Translation that places linguistic information at its foundation. The difficulty of translation from English to Japanese is illustrated with data that shows the influence of various linguistic contextual factors. Next, a method for natural language transfer is presented that integrates translation examples (represented as typed feature structures with source-target indices) with linguistic rules and constraints.</Paragraph>
+<Paragraph position="1"> The method has been implemented, and the results of an evaluation are presented.</Paragraph>
+<Paragraph position="2"> Introduction High-quality automatic translation requires the disambiguation of common, highly ambiguous verbs, such as to have, to take, or to get. It also requires the correct handling of non-compositional, idiomatic expressions with varying degrees of &amp;quot;fixedness&amp;quot;. We view Machine Translation in terms of linguistic information represented as typed feature structures. By integrating translation information represented as example pairs with other types of linguistic information represented as rules, our approach extends the capabilities of current machine translation methods, and solves a number of key problems.</Paragraph>
+</Section>
+</Paper>
+

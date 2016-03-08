@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H01-1026">
+<Title>Facilitating Treebank Annotation Using a Statistical Parser</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. INTRODUCTION
+</SectionTitle>
+<Paragraph position="0"> Corpora of phrase-structure-annotated text, or treebanks, are useful for supervised training of statistical models for natural language processing, as well as for corpus linguistics. Their primary drawback, however, is that they are very time-consuming to produce. To alleviate this problem, the standard approach is to make two passes over the text: first, parse the text automatically, then correct the parser output by hand.</Paragraph>
+<Paragraph position="1"> In this paper we explore three questions: How much does an automatic first pass speed up annotation? Does this automatic first pass affect the reliability of the final product? What kind of parser is best suited for such an automatic first pass? We investigate these questions by an experiment to augment the Penn Chinese Treebank [15] using a statistical parser developed by Chiang [3] for English. This experiment differs from previous efforts in two ways: first, we quantify the increase in annotation speed provided by the automatic first pass (70-100%); second, we use a parser developed on one language to augment a corpus in an unrelated language.</Paragraph>
+</Section>
+</Paper>
+

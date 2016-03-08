@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-1095">
+<Title>Towards a More Careful Evaluation of Broad Coverage Parsing Systems</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Since treebanks have become available to researchers a wide variety of techniques has been used to make broad coverage parsing systems. This makes quantitative evaluation very important, but the current evaluation methods have a number of drawbacks such as arbitrary choices in the treebank and the difficulty in measuring statistical significance. We suggest a more detailed method for testing a parsing system using constituent boundaries, with a number of measures that give more information than current measures, and evaluate the quality of the test. We also show that statistical significance cannot be calculated in a straight-forward way, and suggest a calculation method for the case of Bracket Recall.</Paragraph>
+</Section>
+</Paper>
+

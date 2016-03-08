@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P83-1004">
+<Title>Formal Constraints on Metarules*</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Metagrammaticai formalisms that combine context-free phrase structure rules and metarules (MPS grammars) allow concise statement of generalizations about the syntax of natural languages. Unconstrained MPS grammars, tmfortunately, are not cornputationally &amp;quot;safe.&amp;quot; We evaluate several proposals for constraining them, basing our amae~ment on computational tractability and explanatory adequacy. We show that none of them satisfies both criteria, and suggest new directions for research on alternative metagrammatical formalisms.</Paragraph>
+</Section>
+</Paper>
+

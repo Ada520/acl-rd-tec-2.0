@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-2317">
+<Title>Towards automatic addressee identification in multi-party dialogues</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The paper is about the issue of addressing in multi-party dialogues. Analysis of addressing behavior in face to face meetings results in the identification of several addressing mechanisms. From these we extract several utterance features and features of non-verbal communicative behavior of a speaker, like gaze and gesturing, that are relevant for observers to identify the participants the speaker is talking to. A method for the automatic prediction of the addressee of speech acts is discussed.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W01-1003">
+<Title>Crosslingual Language Technologies for Knowledge Creation and Knowledge Sharing</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Knowledge Sharing
+</SectionTitle>
+<Paragraph position="0"> One of the true challenges of KM is the development and implementation of schemes that make people share knowledge and use such shared knowledge in critical situations. Offering incentives for the sharing of knowledge is not sufficient. The valuable information needs to be offered in situations where it is needed. It also needs to be evaluated in such situations because any effective incentive scheme might lead to information overflow if the quality of the provided information cannot be assessed.</Paragraph>
+<Paragraph position="1"> Language technology can provide means for associating shared knowledge with the relevant decision situations by automatically linking it to the critical elements within decision triggers, i.e, electronic documents in the workflow that demand and record a decision.</Paragraph>
+<Paragraph position="2"> Together with some simple statistical methods this method can also support a scheme for evaluating shared information with a minimum of additional effort. The language technology that can be applied for this purpose we call automatic relational hyperlinking. Relational hyperlinks differ from the simple hyperlinks of HTML in that they are composed out of a number of named links that can be selected from a menu.</Paragraph>
+<Paragraph position="3"> Language technology is needed for identifying and disambiguating the concepts in documents that need to be linked. To this end, techniques from information extraction are employed such as named entity recognition. When automatic hyperlinking associates information to decision situations, an evaluation can be enforced without an additional burden on the user.</Paragraph>
+<Paragraph position="4"> Automatic hyperlinking can also be applied for transforming information into knowledge-like structures. By densely interconnecting informational elements, three criteria are met that distinguish knowledge from other forms of information: immediate accessability, grounding of pieces of knowledge and associative structure. The important fourth criterion is the suitability for inferencing, however in this application scenario inferencing is not performed by the machine but by the human user of the service.</Paragraph>
+<Paragraph position="5"> This method has been applied in the system Hypercode of the DFKI LT Lab. The original purpose of this system which was developed for a large German bank is to facilitate work with legacy code. Hypercode provides dense associative relational hyperlinking to program code and documentation. By densely interlinking code and documentation, the knowledge encoded in the documentation becomes much more accessible and usable. The methods of Hypercode were also applied for enriching a new WWW-based information service of the Saarland State Government for start-up companies.</Paragraph>
+</Section>
+</Paper>
+

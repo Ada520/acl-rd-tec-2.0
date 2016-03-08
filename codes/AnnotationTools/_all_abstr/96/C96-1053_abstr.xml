@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-1053">
+<Title>Lexical Information for Determining Japanese Unbounded Dependency</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a practical method for a global structure analyzing Mgorithm of Japanese long sentences with lexical information, a method which we call Lexical Discourse Grammar (LDG). This method assumes that .Japanese function words, such as conjunctive particles (postpositions) located at the end of each clause, have modality and suggest global structures of Japanese long sentences in cooperation with modality within predicates or auxiliary verbs. LDG classifies the encapsulating powers of function words into six levels, and modality in predicates into four types. LDG presumes tile inter-clausal dependency within Japanese sentences prior to syntactic and semantic analyses, by utilizing the differences of the encapsulating powers each Japanese function word has, and by utilizing modification preference between function words and predicates that reflects consistency of modality in them. In order to confirm the encapsulation power of Japanese function words, we analyzed the speech utterances of a male announcer and found the correlation between a particle's encapsulating power and the pause length inserted after the clause with a conjunctive particle.</Paragraph>
+</Section>
+</Paper>
+

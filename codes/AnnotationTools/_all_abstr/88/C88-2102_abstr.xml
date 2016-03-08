@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C88-2102">
+<Title>Maintaining Consistency and Plausibility in Integra,ted Natm-al Langu~ge Understanding</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we present an inference mechanism called the integrated parsing engine which provides a uniform abductive inference mech-anism for natu~al language understmlding. It can (1) make phmsibh, assmnptiox~s, (2) rea~.</Paragraph>
+<Paragraph position="1"> son with mlfltiple alternatives, (3) switch the search process to the maximally plausible alter.., native, (4) detect contradiction attd tame COlt -~ clutions which depend on inconsistent a,'~sumptions, and (5) update plausibility factor of each befief based on new obsexvations. We demonstrafe that a .natural language understanding system using the integrated parsing engine as a subsystem can pursue a guided search for most t)lausible interpretation by making use of syntax, semantics, and contextual information.</Paragraph>
+</Section>
+</Paper>
+

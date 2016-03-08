@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0812">
+<Title>Using Semantic Similarity to Acquire Cooccurrence Restrictions from Corpora</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe a method for acquiring semantic cooccurrence restrictions for tuples of syntactically related words (e.g. verb-object pairs) from text corpora automatically. This method uses the notion of semantic similarity to assign a sense from a dictionary database (e.g. WordNet) to ambiguous words occurring in a syntactic dependency. Semantic similarity is also used to merge disambiguated word tuples into classes of cooccurrence restrictions. This encoding makes it possible to reduce subsequent disambiguation events to simple table lookups.</Paragraph>
+</Section>
+</Paper>
+

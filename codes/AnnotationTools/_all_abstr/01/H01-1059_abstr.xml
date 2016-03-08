@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H01-1059">
+<Title>Portability Issues for Speech Recognition Technologies</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> Although there has been regular improvement in speech recognition technology over the past decade, speech recognition is far from being a solved problem. Most recognition systems are tuned to a particular task and porting the system to a new task (or language) still requires substantial investment of time and money, as well as expertise. Todays state-of-the-art systems rely on the availability of large amounts of manually transcribed data for acoustic model training and large normalized text corpora for language model training. Obtaining such data is both time-consuming and expensive, requiring trained human annotators with substantial amounts of supervision.</Paragraph>
+<Paragraph position="1"> In this paper we address issues in speech recognizer portability and activities aimed at developing generic core speech recognition technology, in order to reduce the manual effort required for system development. Three main axes are pursued: assessing the genericity of wide domain models by evaluating performance under several tasks; investigating techniques for lightly supervised acoustic model training; and exploring transparent methods for adapting generic models to a specific task so as to achieve a higher degree of genericity.</Paragraph>
+</Section>
+</Paper>
+

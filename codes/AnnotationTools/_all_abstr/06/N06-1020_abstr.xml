@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N06-1020">
+<Title>Effective Self-Training for Parsing</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a simple, but surprisingly effective, method of self-training a two-phase parser-reranker system using readily available unlabeled data. We show that this type of bootstrapping is possible for parsing when the bootstrapped parses are processed by a discriminative reranker.</Paragraph>
+<Paragraph position="1"> Our improved model achieves an f-score of 92.1%, an absolute 1.1% improvement (12% error reduction) over the previous best result for Wall Street Journal parsing.</Paragraph>
+<Paragraph position="2"> Finally, we provide some analysis to better understand the phenomenon.</Paragraph>
+</Section>
+</Paper>
+

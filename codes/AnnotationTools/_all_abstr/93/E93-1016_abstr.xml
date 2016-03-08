@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E93-1016">
+<Title>Parsing with polymorphism *</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Certain phenomena resist coverage within the Lambek Calculus, such as scope-ambiguity and non-peripheral extraction. I have argued in previous work that an extension called Polymorphic Lambek Calculus (PLC), which adds variables and their universal quantification, covers these phenomena. However, a major problem is the absence of a known decision procedure for PLC grammars. This paper proposes a decision procedure which covers a subset of all the possible PLC grammars, a subset which, however, includes the PLC grammars with wide coverage. The decision procedure is shown to be terminating, and correct, and a Prolog implementation of it is described.</Paragraph>
+</Section>
+</Paper>
+

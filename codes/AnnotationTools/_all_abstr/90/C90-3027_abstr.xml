@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-3027">
+<Title>A Constraint-Based Approach to Linguistic Performance*</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper investigates linguistic performance, from the viewpoint that the information processing in cognitive systems should be designed in terms of constraints rather than procedures in order to deal with partiality of information. In this perspective, the same grammar, the same belief and the same processing architecture should underly both sentence comprehension and production. A basic model of sentence processing, for both comprehension and production, is derived along this llne of reasoning. This model is demonstrated to account for diverse linguistic phenomena apparently unrelated to each other, lending empirica! support to the constraint paradigm.</Paragraph>
+</Section>
+</Paper>
+

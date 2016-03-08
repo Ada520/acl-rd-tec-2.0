@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-1807">
+<Title>Merging Stories with Shallow Semantics</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We demonstrate a proof-of-concept system that uses a shallow chunking-based technique for knowledge extraction from natural language text, in particular looking at the task of story understanding. This technique is extended with a reasoning engine that borrows techniques from dynamic ontology refinement to discover the semantic similarity of stories and to merge them together.</Paragraph>
+</Section>
+</Paper>
+

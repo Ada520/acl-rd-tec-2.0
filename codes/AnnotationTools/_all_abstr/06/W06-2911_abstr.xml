@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-2911">
+<Title>Applying Alternating Structure Optimization to Word Sense Disambiguation</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a new application of the recently proposed machine learning method Alternating Structure Optimization (ASO), to word sense disambiguation (WSD). Given a set of WSD problems and their respective labeled examples, we seek to improve overall performance on that set by using all the labeled examples (irrespective of target words) for the entire set in learning a disambiguator for each individual problem. Thus, in effect, on each individual problem (e.g., disambiguation of &amp;quot;art&amp;quot;) we benefit from training examples for other problems (e.g., disambiguation of &amp;quot;bar&amp;quot;, &amp;quot;canal&amp;quot;, and so forth). We empirically study the effective use of ASO for this purpose in the multi-task and semi-supervised learning configurations. Our performance results rival or exceed those of the previous best systems on several Senseval lexical sample task data sets.</Paragraph>
+</Section>
+</Paper>
+

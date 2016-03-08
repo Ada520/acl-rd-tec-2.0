@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0615">
+<Title>Filtering Errors and Repairing Linguistic Anomalies for Spoken Dialogue Systems</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Our work addresses the integration of speech recognition and language processing for whole spoken dialogue systems.</Paragraph>
+<Paragraph position="1"> To filter ill-recognized words, we design an on-line computing of word confidence scores based on the recognizer output hypothesis. To infer as much information as possible from the retained sequence of words, we propose a bottom-up syntactico-semantic robust parsing relying on a lexicalized tree grammar and on integrated repairing strategies.</Paragraph>
+</Section>
+</Paper>
+

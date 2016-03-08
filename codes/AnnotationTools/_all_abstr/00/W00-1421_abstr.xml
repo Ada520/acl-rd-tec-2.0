@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-1421">
+<Title>Planning Word-order Dependent Focu s Assignments*</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Word order and accent placement are the primary linguistic means to indicate focus/background structures in German. This paper presents a pipelined architecture for the generation of German monologues with contextually appropriate word order and accent placements for the realization of focus/background structures. Our emphasis is on the sentence planner that extends the respective propositional contents with discourse-relational features and decides which part will be focused. Such an enriched semantic input for an HPSG-based formulator allows word order variations and the placement of prenucleus and nucleus accents. Word order is realized by grammatical competition based on linear precedence (LP) rules which are based on the discourse-relational features. Accent placement is realized by a syntax-driven focus principle that determines the focus exponent and possible bearers of prenucleus accents within the syntactically realized focus, the so-called focus domain.</Paragraph>
+</Section>
+</Paper>
+

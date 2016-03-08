@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E95-1017">
+<Title>Incremental Interpretation of Categorial Grammar*</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The paper describes a parser for Categorial Grammar which provides fully word by word incremental interpretation. The parser does not require fragments of sentences to form constituents, and thereby avoids problems of spurious ambiguity.</Paragraph>
+<Paragraph position="1"> The paper includes a brief discussion of the relationship between basic Categorial Grammar and other formalisms such as HPSG, Dependency Grammar and the Lambek Calculus. It also includes a discussion of some of the issues which arise when parsing lexicalised grammars, and the possibilities for using statistical techniques for tuning to particular languages. null</Paragraph>
+</Section>
+</Paper>
+

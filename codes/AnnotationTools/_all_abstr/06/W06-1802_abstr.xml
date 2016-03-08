@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-1802">
+<Title>Linguistic Knowledge and Question Answering</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The availability of robust and deep syntactic parsing can improve the performance of Question Answering systems. This is illustrated using examples from Joost, a Dutch QA system which has been used for both open (CLEF) and closed domain QA.</Paragraph>
+</Section>
+</Paper>
+

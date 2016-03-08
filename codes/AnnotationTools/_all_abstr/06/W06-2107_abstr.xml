@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-2107">
+<Title>An Ontology-Based View on Prepositional Senses</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes ongoing work, aimed at producing a lexicon of prepositions, i.e.</Paragraph>
+<Paragraph position="1"> relations denoted by prepositions, to be used for information retrieval purposes.</Paragraph>
+<Paragraph position="2"> The work is ontology based, which for this project means that the ontological types of the arguments of the preposition are considered, rather than the word forms. Thus, sense distinctions are made based on ontological constraints on the arguments.</Paragraph>
+</Section>
+</Paper>
+

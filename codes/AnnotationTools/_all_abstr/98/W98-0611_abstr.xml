@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-0611">
+<Title>Tools for locating noun phrases with finite state transducers.</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The processes of retrieving and describing information in full texts are very close, at least for the first user (developer). We describe here practical tools that allow construction of an FST database which describes and then to retrieve nominal phrases composed with a sequence denoting an occupation and a proper noun,</Paragraph>
+</Section>
+</Paper>
+

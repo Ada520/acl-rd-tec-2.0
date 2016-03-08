@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A94-1020">
+<Title>Resolving Anaphora in a Portable Natural Language Front End to Databases</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> An analysis of the evolution of Natural Language front ends in the last three decades shows that the growth in portability brought, as a side effect, the narrowing of the provided coverage of contextually based linguistic phenomena, such as anaphora and ellipsis.</Paragraph>
+<Paragraph position="1"> This paper presents the design and state of development of a computational mechanism which provides pronominal Anaphora Resolution within the environment of a highly portable Natural Language front end to databases, SQUIRREL3 Simple cases of Ellipsis are also treated by the proposed model.</Paragraph>
+<Paragraph position="2"> An Overview of SQUIRREL is presented, followed by a description of the Discourse Module and the results achieved so far. The prototype is implemented in C-Prolog.</Paragraph>
+</Section>
+</Paper>
+

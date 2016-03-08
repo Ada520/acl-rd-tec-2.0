@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C88-2156">
+<Title>Figuring out Most Plausible Interpretation from Spatial Descriptions</Title>
+<Section position="2" start_page="0" end_page="764" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The problem we want to handle in this paper is vagueness. A notion of space, which we basically have, plays an important part in the faculty of thinking and speech. In this paper, we concentrate on a particular class of spatial descriptions, namely descriptions about positional relations on a two-dimensional space. A theoretical device we present in this paper is called the potential model The potential model provides a means for accumulating from fragmentary information. It is possible to derive maximally plausible interpretation from a chunk of information accumulated in the model. When new information is given, the potential model is modefied so that that new information is taken into account. As a result, the interpretations with maximal plausibility may change. A program called SPRINT(SPatial Relation IN-Terpreter) reflecting our theory is in the way of construction.</Paragraph>
+<Paragraph position="1"> i Introduction Natural language description is vague in many ways. The real world described with natural language has continuous expanse and transition, although the natural language itself is a descrete symbolic system. Vagueness plays an important role in our communication in that it allows us to transfer partial information.</Paragraph>
+<Paragraph position="2"> Suppose a situation in which a boy is looking around for his toy. Even if we cannot tell ex- null actly where it was if we know it was somewhere around my desk~ we can transfer him this par~ tim information by telling that his toy is around my desk. It would be nice if we can communio cute with our robot in the same way. We also use vague expression in the case of thinking it useless to give more detailed information to th6 hearer.</Paragraph>
+<Paragraph position="3"> A theoretical device we present in this paper for the interpretation of such wague information is called potential model. The potem tial model employs both continuous and clis~ continuous functions to represent spatial relations, so that the probability changes either continuously or discontinously, depending on the nature of a given description. Currently, we are concentrating on a particular class of spatial relations, namely positional relations on a two-dimensional space, although the potential model is more general. We assume objects to be sizeless.</Paragraph>
+<Paragraph position="4"> A program called SPRINT (SPatial Relation INTerpreter) reflecting our theory is in the way of construction.</Paragraph>
+</Section>
+</Paper>
+

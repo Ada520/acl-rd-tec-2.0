@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-2175">
+<Title>Comparing two trainable grammatical relations finders</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Grammatical relationships (Glls) form an important level of natural language processing, but different sets of ORs are useflfl for different purposes. Theretbre, one may often only have time to obtain a small training corpus with the desired GI1. annotations. On su&amp; a small training corpus, we compare two systems. They use difl'erent learning tedmiques, but we find that this difference by itself only has a minor effect.</Paragraph>
+<Paragraph position="1"> A larger factor is that iLL English, a different GI/. length measure appears better suited for finding simple m:gument GI{s than ~br finding modifier GRs. We also find that partitioning the data ma W help memory-based learning.</Paragraph>
+</Section>
+</Paper>
+

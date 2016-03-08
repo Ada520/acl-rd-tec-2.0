@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N03-2024">
+<Title>References to Named Entities: a Corpus Study</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+References included in multi-document sum-
+</SectionTitle>
+<Paragraph position="0"> maries are often problematic. In this paper, we present a corpus study performed to derive a statistical model for the syntactic realization of referential expressions. The interpretation of the probabilistic data helps us gain insight on how extractive summaries can be rewritten in an efficient manner to produce more fluent and easy-to-read text.</Paragraph>
+</Section>
+</Paper>
+

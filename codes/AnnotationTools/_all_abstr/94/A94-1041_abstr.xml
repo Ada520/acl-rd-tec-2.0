@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A94-1041">
+<Title>Representing Knowledge for Planning Multisentential Text</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The AlethGen tool has been used to build a system for automatically generating replies to complaints, for a European mail-order company. In the current version, letters are generated in French. AlethGen consists of several modules: the text deep structure planner (or conceptual planner), the text surface structure planner (or rhetorical planner), the computation of pronouns and quantifiers, and the linguistic generator proper (globally inspired by the Meaning-Text Theory) which determines the concrete realization of sentences.</Paragraph>
+<Paragraph position="1"> The paper mainly describes AlethGen's conceptual and rhetorical planners and focuses on the knowledge they use and produce.</Paragraph>
+</Section>
+</Paper>
+

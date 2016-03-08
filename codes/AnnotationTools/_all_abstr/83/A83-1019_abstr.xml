@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A83-1019">
+<Title>SPECLkLIZEI) \[NFOKMATION EXTRACTION: AUTOMATIC CHEMICAL RFACTION CODING FROM ENGLIS}t DF.SCRPS?'r\[ONS</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> In an age of increased attention to the problems of database o rganlzat ion, retrieval problems and query languages, one of the major economic problems of many potential databases remains the entry of the original information into the database. Specialized information extraction (SIE) systems are therefore of potential importance in the entry of information that is already available in certain restricted types of natural language text. This paper contains a discussion of the problems of enElneering such systems and a description of a particular SIE system, designed to extract information regarding chemical reactions from experimental sections of papers in the chemical literature and to produce a data structure containing the relevant information.</Paragraph>
+</Section>
+</Paper>
+

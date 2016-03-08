@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C94-2122">
+<Title>Automatic Recognition of Verbal Polysemy</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Polysemy is one of the major causes of difficulties in selnantic clustering of words in a corpus. In this paper, we first; give a definition of polysemy from the view-point of clustering and then, b~rsed on this definition, we propose a clustering method which reeognises verbal 1)olysemics from a textual corpus. The results of experiments denmnstrate the effectiveness of the pro-I)osed method.</Paragraph>
+</Section>
+</Paper>
+

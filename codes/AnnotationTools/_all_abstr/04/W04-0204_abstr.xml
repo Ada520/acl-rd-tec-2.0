@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-0204">
+<Title>On the use of automatic tools for large scale semantic analyses of causal connectives</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we describe the (annotation) tools underlying two automatic techniques to analyse the meaning and use of backward causal connectives in large Dutch newspaper corpora. With the help of these techniques, Latent Semantic Analysis and Thematic Text Analysis, the contexts of more than 14,000 connectives were studied. We will focus here on the methods of analysis and on the fairly straightforward (annotation) tools needed to perform the semantic analyses, i.e. POS-tagging, lemmatisation and a thesaurus-like thematic dictionary.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1032">
+<Title>Symmetric Word Alignments for Statistical Machine Translation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we address the word alignment problem for statistical machine translation. We aim at creating a symmetric word alignment allowing for reliable one-to-many and many-to-one word relationships. We perform the iterative alignment training in the source-to-target and the target-to-source direction with the well-known IBM and HMM alignment models. Using these models, we robustly estimatethelocalcostsofaligningasource word and a target word in each sentence pair. Then, we use efficient graph algorithms to determine the symmetric alignment with minimal total costs (i.e. maximal alignment probability). We evaluate the automatic alignments created in this way on the German-English Verbmobil task and the French-English Canadian Hansards task. We show statistically significant improvements of the alignment quality compared to the best results reported so far. On the Verbmobil task, we achieve an improvement of more than 1% absolute over the baseline error rate of 4.7%.</Paragraph>
+</Section>
+</Paper>
+

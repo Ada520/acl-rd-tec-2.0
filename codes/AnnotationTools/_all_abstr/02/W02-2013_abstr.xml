@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-2013">
+<Title>Named Entity Extraction with Conditional Markov Models and Classifiers</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> Our approach to multilingual named entity (NE) recognition in the context of the CoNLL Shared Task consists of the following ingredients: Feature engineering A human expert (though not necessarily a language expert) determines relevant features to be used to determine whether or not a word is part of a named entity.</Paragraph>
+<Paragraph position="1"> Extraction In a first phase a conditional Markov model extracts candidate NE phrases, but does not classify them yet into LOC, ORG, etc.</Paragraph>
+<Paragraph position="2"> Classification In the second phase a classifier looks at candidate phrases proposed by the extractor in their sentential context and labels them as LOC, ORG, etc.</Paragraph>
+</Section>
+</Paper>
+

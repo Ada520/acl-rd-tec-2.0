@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W05-0813">
+<Title>Symmetric Probabilistic Alignment</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We recently decided to develop a new alignment algorithm for the purpose of improving our Example-Based Machine Translation (EBMT) system's performance, since subsentential alignment is critical in locating the correct translation for a matched fragment of the input. Unlike most algorithms in the literature, this</Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+new Symmetric Probabilistic Alignment
+</SectionTitle>
+<Paragraph position="0"> (SPA) algorithm treats the source and target languages in a symmetric fashion.</Paragraph>
+<Paragraph position="1"> In this short paper, we outline our basic algorithm and some extensions for using context and positional information, and compare its alignment accuracy on the Romanian-English data for the shared task with IBM Model 4 and the reported results from the prior workshop.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

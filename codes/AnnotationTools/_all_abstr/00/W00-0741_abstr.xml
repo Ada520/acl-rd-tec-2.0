@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-0741">
+<Title>Learning from Parsed Sentences with INTHELEX</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In the context of language learning, we address a logical approach to information extraction. The system INTHELEX, used to carry out this task, requires a logic representation of sentences to run the learning algorithm. Hence, the need for parsers to produce structured representations from raw text. This led us to develop a prototypical Italian language parser, as a pre-processor in order to obtain the structured representation of sentences required for the symbolic learner to work. A preliminary experimentation proved that the logic approach to learning from language is able to capture the semantics underlying the kind of sentences that were processed, even if a comparison with classical methods as regards efficiency has still to be done.</Paragraph>
+</Section>
+</Paper>
+

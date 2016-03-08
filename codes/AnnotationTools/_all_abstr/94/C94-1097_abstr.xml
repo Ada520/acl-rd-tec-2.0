@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C94-1097">
+<Title>MULTEXT : Multilingual Text Tools and Corpora</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> Text-oriented methods and software tools have come to be of primary interest to the NLP community. However, existing tools for natural language processing (NLP) and machine translation (MT) corpus-based research are typically embedded in large, non-adaptable systems which are fundamentally incompatible. Little effort has been made to develop software standards, and software reusability is virtually non-existent. As a result, there is a serious lack of generally usable tools to manipulate and analyze text corpora that arc widely available for research, especially for multi-lingual al)plications.</Paragraph>
+<Paragraph position="1"> At the same time, the availability of data is hampered by a lack of well-established standards for encoding corpora. Although the Text Encoding Initiativc (TEI) has provided guidelines for text encoding \[Sper94\], they arc so far largely untested on real-scale data, especially multi-lingual data. Further, the TEl Guidelines offer a broad range of text encoding solutions serving a w~riety of disciplines and applications, and are not intended to provide specific guidance for the purposes of NLP and MT corpus-based research.</Paragraph>
+<Paragraph position="2"> MIJLTEXT (Multilingual Text Tools and Corpora) ix a recently initiated large-scale project funded under tim Commission of European Communities Linguistic Research and Engineering Program, which is intended to address these problems. The project will contribute to the development of generally usable software tools to nmnipulate and analyse text corpora and to create multi-lingual text corpora with structural and linguistic markt, p. It will attempt to establish conventions for the encoding of such corpora, building on and contributing to the preliminary recommendations of the relevant international and European standardization initiatives.</Paragraph>
+<Paragraph position="3"> MULTEXT will also work towards establishing a set of guidelines for text software development, which will be wklely published in order to enable future development by others. The project consortimn, consisting of eight academic and research institutions and six major European industrial partners, is committed to make its results, namely corpus, related tools, specifications and accompanying documentation, freely and publicly available.</Paragraph>
+</Section>
+</Paper>
+

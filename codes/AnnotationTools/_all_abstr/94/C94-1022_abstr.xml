@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C94-1022">
+<Title>Morphology with a Null-Interface</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present an integrated architecture for word-level and sentence-level processing in a unification-based paradigm. The core of the system is a CLP implementation of a nnilication engine for feature structures suplmrting relational values. In this framework an IiPSC,-style granlmar is implemented. Word-level processing uses X2MoltF, a morphological component I)ased on an extended version of two-level morphology. This component is tightly integrated with the grammar as a relation. The advantage of this apl)roach is that morphology and syntax are kept logically autonomous while at the same time minimizing interface problems.</Paragraph>
+</Section>
+</Paper>
+

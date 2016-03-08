@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="I05-2039">
+<Title>The influence of data homogeneity on NLP system performance</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this work we study the influence of corpus homogeneity on corpus-based NLP system performance. Experiments are performed on both stochastic language models and an EBMT system translating from Japanese to English with a large bicorpus, in order to reassess the assumption that using only homogeneous data tends to make system performance go up. We describe a method to represent corpus homogeneity as a distribution of similarity coefficients based on a cross-entropic measure investigated in previous works. We show that beyond minimal sizes of training data the excessive elimination of heterogeneous data proves prejudicial in terms of both perplexity and translation quality : excessively restricting the training data to a particular domain may be prejudicial in terms of In-Domain system performance, and that heterogeneous, Out-of-Domain data may in fact contribute to better sytem performance.</Paragraph>
+</Section>
+</Paper>
+

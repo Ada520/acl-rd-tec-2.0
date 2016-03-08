@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C92-1034">
+<Title>Structure Sharing in Lexicalized Tree-Adjoining Graulmars*</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a scheme for efficiently representing a lexicaiized tree-adjoining grammar (LTAG). The propcoed representational scheme allows for structure-sharing between lexical entries and the trees associated with the lexical items. A compact organization is achieved by organizing the lexicon in a hierarchical fashion and using inheritance as well as by using lexical and syntactic rules.</Paragraph>
+<Paragraph position="1"> While different organizations (Flickinger, 1987; Pollard and Sag, 1987; Shieber, 1986) of the lexicon have been proposed, in the scheme we propose, the inheritance hierarchy not only provides structure-sharing of lexical information but also of the associated elementary trees of extended domain of locality. Furthermore, the lexical and syntactic rules can be used to derive new elementary trees from the default structures specified in the hierarchical lexicon.</Paragraph>
+<Paragraph position="2"> In the envisaged scheme, tbe use of a hierarchical lexicon and of lexical and syntactic rules for lexicalized tree-adjoining grammars will capture important linguistic generalizations and also allows for a space efficient representation of the grammar. This will allow for easy maintenance and facilitate updates to the grammar.</Paragraph>
+</Section>
+</Paper>
+

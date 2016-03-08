@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-1301">
+<Title>Resolving Bridging References in Unrestricted Text</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Our goal is to develop a system capable of treating the largest possible subset of definite descriptions in unrestricted written texts. A previous prototype resolved anaphoric uses of definite descriptions and identified some types of first-mention uses, achieving a recall of 56%. In this paper we present the latest version of our system, which handles some types of bridging references, uses WordNet as a source of lexical knowledge, and achieves a recall of 65%.</Paragraph>
+</Section>
+</Paper>
+

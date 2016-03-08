@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-1087">
+<Title>A Probabilistic Approach to Compound Noun Indexing in Korean Texts</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we address the problem of compound noun indexing that is about segmenting or decomposing compound nouns into promising index terms. Compound nouns as index terms that usually subscribe to specific notions tend to increase the precision of retrieval performance. The use of the component nouns of a compound noun as index terms, on the other hand, may improve the recall performance, but can decrease the precision.</Paragraph>
+<Paragraph position="1"> Our proposed method to handle compound nouns with a goal to increase the recall while preserving the precision computes the relevance of the component nouns of a compound noun to the document content by comparing the document sets that are supported by the component nouns and the terms of the document. The operational content of a term is represented as the probabilistic distribution of the term over the document set.</Paragraph>
+<Paragraph position="2"> Experiments with a set of 1,000 documents show that our method gains 33% increase of retrieval performance compared to the indexing method without compound noun analysis, and is as good as manual decomposition by human experts. null</Paragraph>
+</Section>
+</Paper>
+

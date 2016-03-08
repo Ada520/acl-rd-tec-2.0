@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-0613">
+<Title>Nominal Metonymy Processing</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> Lakoff and Johnson (1980) identify metonymy as &amp;quot;using one entity to refer to another that is related to it.&amp;quot; Following Gibbs (1993), we distinguish metonymy from metaphor in that metonymy uses an entity to refer to another, related, entity from the same domain, whereas metaphor necessarily relies on the replacement of an entity from one domain by an entity from another conceptual domain. As has been well-established in the literature, metonymic language use is pervasive in written and spoken language. NLP efforts addressing specific corpora, such as Hobbs and Martin (1987), Stallard (1993), and MADCOW (1992), all had to address metonymic phenomena because of its high frequency. The training and test data collected for this effort (as described below) also found high volumes of metonymy in newswires in English and Spanish. Our investigation found that the vast majority of all metonymies encountered involve the substitution of one nominal by another 1, and, given the pervasive nature of the phenomenon, we believe that semantic interpretation of nominals in context unavoidably involves metonymic resolution.</Paragraph>
+</Section>
+</Paper>
+

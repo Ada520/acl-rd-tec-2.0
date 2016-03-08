@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W05-0602">
+<Title>A Statistical Semantic Parser that Integrates Syntax and Semantics</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We introduce a learning semantic parser, SCISSOR, that maps natural-language sentences to a detailed, formal, meaning-representation language. It first uses an integrated statistical parser to produce a semantically augmented parse tree, in which each non-terminal node has both a syntactic and a semantic label.</Paragraph>
+<Paragraph position="1"> A compositional-semantics procedure is then used to map the augmented parse tree into a final meaning representation.</Paragraph>
+<Paragraph position="2"> We evaluate the system in two domains, a natural-language database interface and an interpreter for coaching instructions in robotic soccer. We present experimental results demonstrating that SCISSOR produces more accurate semantic representations than several previous approaches.</Paragraph>
+</Section>
+</Paper>
+

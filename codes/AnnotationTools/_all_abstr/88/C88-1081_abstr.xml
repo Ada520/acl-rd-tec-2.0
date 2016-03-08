@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C88-1081">
+<Title>Representing Regularities in the Metaphoric Lexicon</Title>
+<Section position="1" start_page="94720" end_page="94720" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a system for representing knowledge about conventional metaphors for use by natural language analysis, generation and acquisition systems. A system of hierarchically related structured associations is used. These associations are implemented as a part of the KODIAK representation language. Particular attention is paid in this paper to representational mechanisms that can capture generalizations over the system of conventional metaphors as a whole.</Paragraph>
+</Section>
+</Paper>
+

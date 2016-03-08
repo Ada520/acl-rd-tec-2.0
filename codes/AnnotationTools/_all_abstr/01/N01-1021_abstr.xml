@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N01-1021">
+<Title>A Probabilistic Earley Parser as a Psycholinguistic Model</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In human sentence processing, cognitive load can be de ned many ways. This report considers a de nition of cognitive load in terms of the total probability of structural options that have been discon rmed at some point in a sentence: the surprisal of word w i given its pre x w 0:::i[?]1 on a phrase-structural language model. These loads can be e ciently calculated using a probabilistic Earley parser (Stolcke, 1995) which is interpreted as generating predictions about reading time on a word-by-word basis. Under grammatical assumptions supported by corpusfrequency data, the operation of Stolcke's probabilistic Earley parser correctly predicts processing phenomena associated with garden path structural ambiguity and with the subject/object relative asymmetry. null Introduction What is the relation between a person's knowledge of grammar and that same person's application of that knowledge in perceiving syntactic structure? The answer to be proposed here observes three principles. Principle 1 The relation between the parser and grammar is one of strong competence.</Paragraph>
+<Paragraph position="1"> Strong competence holds that the human sentence processing mechanism directly uses rules of grammar in its operation, and that a bare minimum of extragrammatical machinery is necessary. This hypothesis, originally proposed by Chomsky (Chomsky, 1965, page 9) has been pursued by many researchers (Bresnan, 1982) (Stabler, 1991) (Steedman, 1992) (Shieber and Johnson, 1993), and stands in contrast with an approach directed towards the discovery of autonomous principles unique to the processing mechanism.</Paragraph>
+<Paragraph position="2"> Principle 2 Frequency a ects performance.</Paragraph>
+<Paragraph position="3"> The explanatory success of neural network and constraint-based lexicalist theories (McClelland and St. John, 1989) (MacDonald et al., 1994) (Tabor et al., 1997) suggests a statistical theory of language performance. The present work adopts a numerical view of competition in grammar that is grounded in probability.</Paragraph>
+<Paragraph position="4"> Principle 3 Sentence processing is eager.</Paragraph>
+<Paragraph position="5"> \Eager&amp;quot; in this sense means the experimental situations to be modeled are ones like self-paced reading in which sentence comprehenders are unrushed and no information is ignored at a point at which it could be used.</Paragraph>
+<Paragraph position="6"> The proposal is that a person's di culty perceiving syntactic structure be modeled by word-to-word surprisal (Attneave, 1959, page 6) which can be directly computed from a probabilistic phrase-structure grammar. The approach taken here uses a parsing algorithm developed by Stolcke. In the course of explaining the algorithm at a very high level I will indicate how the algorithm, interpreted as a psycholinguistic model, observes each principle. After that will come some simulation results, and then a conclusion.</Paragraph>
+</Section>
+</Paper>
+

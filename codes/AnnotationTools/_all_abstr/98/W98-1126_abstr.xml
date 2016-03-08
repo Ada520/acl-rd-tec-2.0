@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-1126">
+<Title>Mapping Collocational Properties into Machine Learning Features</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper investigates interactions between collocational properties and methods for organizing them into features for machine learning. In experiments performing an event categorization task, Wiebe et al. (1997a) found that different organizations are best for different properties. This paper presents a statistical analysis of the results across different machine learning algorithms. In the experiments, the relationship between property and organization was strikingly consistent across algorithms. This prompted further analysis of this relationship, and an investigation of criteria for recognizing beneficial ways to include collocational properties in machine learning experiments. While many types of collocational properties and methods of organizing them into features have been used in NLP, systematic investigations of their interaction are rare.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C86-1113">
+<Title>Distributed Memory: A Basis for Chart Parsing</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ENGLAND
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The properties of distributed representations and memory systems are explored as a potential basis for non-deterministic parsing mechanisms. The structure of a distributed chart parsing representation is outlined.</Paragraph>
+<Paragraph position="1"> Such a representation encodes both immediate-dominance and terminal projection information on a single composite memory vector. A parsing architecture is described which uses a permanent store of context-free rule patterns encoded as split composite vectors, and two interacting working memory units.</Paragraph>
+<Paragraph position="2"> These latter two units encode vectors which correspond to the active and inactive edges of an active chart parsing scheme. This type of virtual parsing mechanism is compatible with both a macro-level implementation based on standard sequential processing and a micro-level implementation using a massively parallel architecture.</Paragraph>
+<Paragraph position="3"> A lot of recent research has focused on the problem of building psychologically feasible models of natural language comprehension. Much of this work has been based on the connectionist paradigm of Feldman and Ballard (1982) and other massively parallel architectures (Fahlman, Hinton and Sejnowski, 1983). For example, Waltz and Pollack (1984) have devised a model of word-sense and syntactic disambiguation, and Cottrell (1985) has proposed a neural network style model of parsing. Originally, such systems were limited in thier capability to handle tasks involving rule-based processing. For example, the Waltz and Pollack model uses the output of a conventional chart parser to derive a structure for the syntactic parse of a sentence. However, more recent connectionist parsing systems (e.g., Selman and Hirst, 1985) are more suited to handling sequential rule-based parsing.</Paragraph>
+<Paragraph position="4"> In this type of model grammar rules are represented by means of a small set of connectionist primitives. The syntactic categories of the grammar are represented in a Iocalist manner, that is, by a computational unit in a network. The interconnections of the units within the network are determined by the grammar rules. Such Iocalised representations are obviously useful in the construction of connectionist models of rule-based processing, but they suffer from an inherent capacity limitation and are usually non-adaptive.</Paragraph>
+<Paragraph position="5"> The research to be discussed here differs from previous work in that it explores the properties of distributed representations as a basis for constructing parallel parsing architectures. Rather than being represented by Iocalised networks of processing units, the grammar rules are encoded as patterns which have their effect through simple, yet well-specified forms of interaction. The aim of the research is to devise a virtual machine for parsing context-free languages based on the mutual interaction of relatively simple memory components.</Paragraph>
+</Section>
+</Paper>
+

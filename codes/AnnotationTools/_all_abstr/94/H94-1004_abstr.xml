@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H94-1004">
+<Title>Lexicons for Human Language Technology</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> Information about words--their pronunciation, syntax and meaning--is a crucial and costly part of human language technology. Many questions remain about the best way to express and use such lexical information. Nevertheless, much of this information is common to all current approaches, and therefore the effort to collect it can usefully be shared. The Linguistic Data Consortium (LDC) has undertaken to provide such common lexical information for the community of HLT researchers. The purpose of this paper is to sketch the various LDC lexical projects now underway or planned, and to solicit feedback from the community of HLT researchers.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-0714">
+<Title>I I I I I I I I I I I Algorithms for Ontological Mediation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We lay the foundation for ontological mediation as a method for resolving communication difficulties resulting from different ontologies. The notion of hierarchical relations enables a theory of orientadon or direction of ontoiogies to be presented. We describe an ontologcial mediator as being able to think about (or conceptualize) concepts from ontologies and find equivalences between them. Algorithms for finding the meanings of unfamiliar words by asking questions are introduced and evaluated experimentally.</Paragraph>
+</Section>
+</Paper>
+

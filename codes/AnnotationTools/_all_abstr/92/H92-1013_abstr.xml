@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H92-1013">
+<Title>Progress Report on the Chronus System: ATIS Benchmark Results</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> The speech understanding system we propose in this paper is based on the stochastic modeling of a sentence as a sequence of elemental units that represent its meaning. According to this paradigm, the original meaning of a sentence, can be decoded using a dynamic programming algorithm, although the small amount of training data currently available suggested the integration of the decoder with a more traditional technique. However, the advantage of this method consists in the development of a framework in which a closed training loop reduces the amount of human supervision in the design phase of the understanding component. The results reported here for the February 1992 DARPA ATIS test are extremely promising, considering the small amount of hand tuning the system required.</Paragraph>
+</Section>
+</Paper>
+

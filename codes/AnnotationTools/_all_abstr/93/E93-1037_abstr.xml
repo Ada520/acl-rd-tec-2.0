@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E93-1037">
+<Title>Resolving Zero Anaphora in Japanese</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Tei.+81-492-96-6111 Fax. +81-492-96-6006
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The paper presents a computational theory for resolving Japanese zero anaphora, based on the notion of discourse segment. We see that the discourse segment reduces the domain of antecedents for zero anaphora and thus leads to their efficient resolution.</Paragraph>
+<Paragraph position="1"> Also we make crucial use of functional notions such as empathy hierarchy and minimal semantics thesis to resolve reference for zero anaphora \[Kuno, 1987\]. Our al)proach differs from the Centering analysis \[Walker et al., 1990\] in that the resolution works by matching one empathy hierarchy against another, which makes it possible to deal with discourses with no explicit topic and those with cataphora \[Halliday and Hassan, 1990\].</Paragraph>
+<Paragraph position="2"> The theory is formalized through the definite clause grammar(DCG) formalism \[Pereira and Warren, 1980\],\[Gazdar and Mellish, 1989; Longacre, 1979\].</Paragraph>
+<Paragraph position="3"> Finally, we show that graphology i.e., quotation mark, spacing, has an important effect on the interpretation of zero anaphora in Japanese discourse.</Paragraph>
+</Section>
+</Paper>
+

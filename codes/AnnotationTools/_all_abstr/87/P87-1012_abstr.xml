@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P87-1012">
+<Title>A Lazy Way to Chart-Parse with Categorial Grammars Ill</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> There has recendy been a revival of interest in Categorial Grammars (CG) among computational linguists. The various versions noted below which extend pure CG by including operations such as functional composition have been claimed to offer simple and uniform accounts of a wide range of natural language (NL) constructions involving bounded and unbounded &amp;quot;movement&amp;quot; and coordination &amp;quot;reduction&amp;quot; in a number of languages. Such grammars have obvious advantages for computational applications, provided that they can be parsed efficiently. However, many of the proposed extensions engender proliferating semantically equivalent surface syntactic analyses. These &amp;quot;spurious analyses&amp;quot; have been claimed to compromise their efficient parseability.</Paragraph>
+<Paragraph position="1"> The present paper descn~oes a simple parsing algorithm for our own &amp;quot;combinatory&amp;quot; extension of CG. This algorithm offers a uniform treatment for &amp;quot;spurious&amp;quot; syntactic ambiguities and the &amp;quot;genuine&amp;quot; structural ambiguities which any processor must cope with, by exploiting the assodativRy of functional composition and the procedural neutrality of the combinatory rules of grammar in a bottom-up, left-to-fight parser which delivers all semantically distinct analyses via a novel unification-based extension of chart-parsing.</Paragraph>
+</Section>
+</Paper>
+

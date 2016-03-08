@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A88-1004">
+<Title>TIHE PRESENT :SYHPTOH (*PAIN :LOCATION (*BOOY-PART :NAHE *THROAT</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract:
+</SectionTitle>
+<Paragraph position="0"> We report about the current status of the SEMSYN generation system. This system - initially implemented within a Japanese to German MT project - has been applied to a variety of generation tasks both within MT and text generation. We will work out how these applications enhanced the system's capacities. In addition to the paper we will give a demo of both the German and a recently implemented English version of the system.</Paragraph>
+</Section>
+</Paper>
+

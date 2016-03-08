@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="I05-2011">
+<Title>Automatic Detection of Opinion Bearing Words and Sentences</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe a sentence-level opinion detection system. We first define what an opinion means in our research and introduce an effective method for obtaining opinion-bearing and non-opinion-bearing words. Then we describe recognizing opinion-bearing sentences using these words We test the system on 3 different test sets: MPQA data, an internal corpus, and the TREC-2003 Novelty track data. We show that our automatic method for obtaining opinion-bearing words can be used effectively to identify opinion-bearing sentences.</Paragraph>
+</Section>
+</Paper>
+

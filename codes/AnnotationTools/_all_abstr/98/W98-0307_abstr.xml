@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-0307">
+<Title>Meta-discourse markers and problem-structuring in scientific articles</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Knowledge about the argumentative structure of scientific articles can, amongst other things, be used to improve automatic abstracts. We argue that the argumentative structure of scientific discourse can be automatically detected because reasordng about problems, research tasks and solutions follows predictable patterns. null Certain phrases explicitly mark the rhetorical status (communicative function) of sentences with respect to the global argumentative goal. Examples for such meta-diacaurse markers are &amp;quot;in this paper, we have presented...&amp;quot; or &amp;quot;however, their method fails to&amp;quot;. We report on work in progress about recognizing such meta-comments automatically in research articles from two disciplines: computational linguistics and medicine (cardiology).</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W01-1611">
+<Title></Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+References
+</SectionTitle>
+<Paragraph position="0"> 1 Jens Allwood. 1976. Linguistic Communication as Action and Cooperation. Department of Linguistics, University of Gteborg. Gothenburg Monographs in Linguistics 2.</Paragraph>
+<Paragraph position="1"> 2 Apache XML Project. 2001. Xalan-Java version 2.1.0. http://xml.apache.org/xalanj/index.html.</Paragraph>
+<Paragraph position="2"> 3 Alison Cawsey, Presenting tailored resource descriptions: will XSLT do the job?, Proceedings of the 9th international World Wide Web conference on Computer networks : the international journal of computer and telecommunications netowrking, p.713-722, June 2000, Amsterdam, The Netherlands 4 Morena Danieli and Elisabetta Gerbino. 1995. Metrics for evaluating dialogue strategies in a spoken language system. In Proceedings of the AAAI Spring Symposium on Empirical Methods in Discourse Interpretation and Generation, pages 34--39. 5 Kristiina Jokinen, Hideki Tanaka, and Akio Yokoo. 1998. Planning dialogue contributions with new information. In Proceedings of the Ninth International Workshop on Natural Language Generation, pages 158--167, Niagara-on-the-Lake, Ontario. 6 Kristiina Jokinen. 2000. Learning dialogue systems. In L. Dybkjaer, editor, LREC 2000 Workshop: From Spoken Dialogue to Full Natural Interactive Dialogue - Theory, Empirical Analysis and Evaluation, pages 13--17, Athens.</Paragraph>
+<Paragraph position="3"> 7 Masako Kume , Gayle K. Sato , Kei Yoshimoto, A descriptive framework for translating speaker's meaning: towards a dialogue translation system between Japanese and English, Proceedings of the fourth conference on European chapter of the Association for Computational Linguistics, p.264-271, April 10-12, 1989, Manchester, England 8 Diane J. Litman , Shimei Pan, Predicting and Adapting to Poor Speech Recognition in a Spoken Dialogue System, Proceedings of the Seventeenth National Conference on Artificial Intelligence and Twelfth Conference on Innovative Applications of Artificial Intelligence, p.722-728, July 30-August 03, 2000 9 Ehud Reiter , Robert Dale, Building natural language generation systems, Cambridge University Press, New York, NY, 2000 10 Marit Theune. 2000. From Data to Speech: Language Generation in Context. Ph.D. thesis, Eindhoven University of Technology.</Paragraph>
+<Paragraph position="4"> 11 David R. Traum , James F. Allen, Discourse obligations in dialogue processing, Proceedings of the 32nd annual meeting on Association for Computational Linguistics, p.1-8, June 27-30, 1994, Las Cruces, New Mexico 12 Markku Turunen and Jaakko Hakulinen. 2000. Jaspis - a framework for multilingual adaptive speech applications. In Proceedings of 6th International Conference on Spoken Language Processing, Beijing.</Paragraph>
+<Paragraph position="5"> 13 Kees van Deemter, Emiel Krahmer, and Marit Theune. 1999. Plan-based vs. template-based NLG: A false opposition? In Proceedings of the KI'99 Workshop: May I Speak Freely?, pages 1--5, Saarbrcken.</Paragraph>
+<Paragraph position="6"> 14 Marilyn Walker, Diane Litman, Candace Kamm, and Alicia Abella. 1998. Evaluating spoken dialogue agents with PARADISE: Two case studies. Computer Speech and Language, 12--3.</Paragraph>
+</Section>
+</Paper>
+

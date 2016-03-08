@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-0317">
+<Title>Acquisition of English-Chinese Transliterated Word Pairs from Parallel- Aligned Texts using a Statistical Machine Transliteration Model</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a framework for extracting English and Chinese transliterated word pairs from parallel texts. The approach is based on the statistical machine transliteration model to exploit the phonetic similarities between English words and corresponding Chinese transliterations. For a given proper noun in English, the proposed method extracts the corresponding transliterated word from the aligned text in Chinese. Under the proposed approach, the parameters of the model are automatically learned from a bilingual proper name list. Experimental results show that the average rates of word and character precision are 86.0% and 94.4%, respectively. The rates can be further improved with the addition of simple linguistic processing.</Paragraph>
+</Section>
+</Paper>
+

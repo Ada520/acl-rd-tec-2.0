@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A88-1001">
+<Title>The Multimedia Articulation of Answers in a Natural Language Database Query System</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a domain independent strategy for the multimedia articulation of answers elicited by a natural language interface to database query applications. Multimedia answers include videodisc images and heuristically-produced complete sentences in text or text-to-speech form. Deictic reference and feedback about the discourse are enabled. The interface thus presents the application as cooperative and conversational.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E95-1004">
+<Title>Automatic Processing of Proper Names in Texts</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper shows first the problems raised by proper names in natural language processing. Second, it introduces the knowledge representation structure we use based on conceptual graphs. Then it explains the techniques which are used to process known and unknown proper names. At last, it gives the performance of the system and the further works we intend to deal with.</Paragraph>
+<Paragraph position="1"> or unknown. Some of these techniques are taken out of existing systems but they have been unified and completed in constructing this single operational module. Besides some innovative techniques for desambiguating known proper names using the context have been implemented.</Paragraph>
+</Section>
+</Paper>
+

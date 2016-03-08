@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-0309">
+<Title>The Duluth Word Alignment System</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The Duluth Word Alignment System participated in the 2003 HLT-NAACL Workshop on Parallel Text shared task on word alignment for both English-French and Romanian-English.</Paragraph>
+<Paragraph position="1"> It is a Perl implementation of IBM Model 2.</Paragraph>
+<Paragraph position="2"> We used approximately 50,000 aligned sentences as training data for each language pair, and found the results for Romanian-English to be somewhat better. We also varied the Model 2 distortion parameters among the values 2, 4, and 6, but did not observe any significant differences in performance as a result.</Paragraph>
+</Section>
+</Paper>
+

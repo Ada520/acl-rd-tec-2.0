@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P02-1039">
+<Title>A Decoder for Syntax-based Statistical MT</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a decoding algorithm for a syntax-based translation model (Yamada and Knight, 2001). The model has been extended to incorporate phrasal translations as presented here. In contrast to a conventional word-to-word statistical model, a decoder for the syntax-based model builds up an English parse tree given a sentence in a foreign language. As the model size becomes huge in a practical setting, and the decoder considers multiple syntactic structures for each word alignment, several pruning techniques are necessary. We tested our decoder in a Chinese-to-English translation system, and obtained better results than IBM Model 4. We also discuss issues concerning the relation between this decoder and a language model.</Paragraph>
+</Section>
+</Paper>
+

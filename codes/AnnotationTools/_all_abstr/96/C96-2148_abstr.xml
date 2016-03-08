@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-2148">
+<Title>POS Tagging Using Relaxation Labelling</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Relaxation labelling is an optimization technique used in many fields to solve constraint satisfael,ion problems. The algorithm finds a combination of values for a set of variables such that satisfies -to the maximum possible degree- a set of given constraints. This paper describes some experiments performed applying it to POS tagging, and the results obtained, it also ponders the possibility of applying it to Word Sense Disambiguation. null</Paragraph>
+</Section>
+</Paper>
+

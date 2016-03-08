@@ -1,0 +1,38 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J82-2006">
+<Title>5. Sublanguages</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+5. Sublanguages
+</SectionTitle>
+<Paragraph position="0"></Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+5.1 Why Are Sublanguages Important for Applied
+Computational Lingustics?
+</SectionTitle>
+<Paragraph position="0"> Four of the five panels at this workshop are assessing the perspectives in applied computational linguistics for four important problem areas: natural-language interfaces, machine translation, text generation, and concept extraction. For each of these areas, it is assumed that any applied system will be oriented toward the particular variety of natural language associated with a single knowledge domain. This follows from the now widely accepted fact that such systems require rather tight, primarily semantic, constraints to obtain a correct analysis, and that such constraints can at present be stated only for sublanguages, not for the language as a whole. Although a practical system may well have components that are designed to accommodate the whole language, it must also anticipate the particular syntactic, lexical, semantic, and discourse properties of the sublanguage in which it will operate.</Paragraph>
+<Paragraph position="1"> Research into the linguistic structure of weather reports, medical records, and aircraft maintenance manuals has led to specialized grammars for the sub-languages of these domains. Central to each sublanguage grammar is a statement of the functionally similar word classes and the co-occurrence restrictions among these classes. When a parser, generator, or translation system incorporates such a precise linguistic description, it becomes not only more efficient but also capable of discriminating between sentences (and texts) that are appropriate to the domain and those that are grammatical but inappropriate. In addition, the word classes used in the grammar, and the hierarchies relating these classes, are an important part of the knowledge structure for the domain.</Paragraph>
+</Section>
+<Section position="2" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+5.2 How Do Sublanguages Arise?
+</SectionTitle>
+<Paragraph position="0"> When natural language is used in a sufficiently restricted setting, we may be justified in calling the resultant forms a sublanguage. Although there is no generally accepted definition of this term. Several factors are usually present when the subset of a natural language is restricted enough for efficient semantic processing.</Paragraph>
+<Paragraph position="1"> * Restricted domain of reference. The set of objects and relations to which the linguistic expressions refer is relatively small.</Paragraph>
+<Paragraph position="2"> * Restricted purpose and orientation. The relationships among the participants in the linguistic exchange are of a particular type and the purpose of the exchange is oriented towards certain goals.</Paragraph>
+<Paragraph position="3"> * Restricted mode of communication. Communication may be spoken or written, but there are constraints on the form of expression, which may include &amp;quot;bandwidth&amp;quot; limitations. Compressed (or telegraphic) language forms may reflect the time and space constraints of certain communication modes.</Paragraph>
+<Paragraph position="4"> * Community of participants sharing specialized knowledge. The best canonical examples of sub-languages are those for which there exists an identifiable community of users who share specialized knowledge and who communicate under restrictions of domain, purpose, and mode by using the sublanguage. These participants enforce the special patterns of usage and ensure the coherence and completeness of the sublanguage as a linguistic system.</Paragraph>
+</Section>
+<Section position="3" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+5.3 Constraints and Extensions in the Grammar of a
+Sublanguage
+</SectionTitle>
+<Paragraph position="0"> A typical sublanguage makes use of only a part of the language's lexical, morphological, syntactic, semantic, and discourse structures. These restrictions on its grammar, once detected and encoded in the form of rules, can be exploited during automatic processing by greatly reducing the number of possibilities to be considered. A sublanguage may also exhibit structures (and, hence, rules) that are not normally regarded as part of the standard language. In the most general case, then, a sublanguage grammar intersects, but is not contained in, the grammar of the general or standard language from which it derives.</Paragraph>
+<Paragraph position="1"> Some of the typical constraints and extensions found in each component of a sublanguage grammar are given below, along with reference to recognized techniques for describing the constraints and for identifying them in a corpus of texts, when appropriate. In American Journal of Computational Linguistics, Volume 8, Number 2, April-June 1982 79</Paragraph>
+</Section>
+</Section>
+</Paper>
+

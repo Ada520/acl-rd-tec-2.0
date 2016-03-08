@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P03-2006">
+<Title>Finding non-local dependencies: beyond pattern matching</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe an algorithm for recovering non-local dependencies in syntactic dependency structures. The pattern-matching approach proposed by Johnson (2002) for a similar task for phrase structure trees is extended with machine learning techniques. The algorithm is essentially a classifier that predicts a non-local dependency given a connected fragment of a dependency structure and a set of structural features for this fragment. Evaluating the algorithm on the Penn Treebank shows an improvement of both precision and recall, compared to the results presented in (Johnson, 2002).</Paragraph>
+</Section>
+</Paper>
+

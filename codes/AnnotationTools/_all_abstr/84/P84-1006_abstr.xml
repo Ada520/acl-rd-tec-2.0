@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P84-1006">
+<Title>IIOLiNI)EI) CONH'XT PARSING AND FASY I.I'AI+.NAIIII.ITY</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+AIISTRACI&amp;quot;
+</SectionTitle>
+<Paragraph position="0"> Natural langt~ages are often assumed to be constrained so that they are either easily learnable or parsdble, but few studies have investigated the conrtcction between these two &amp;quot;'functional'&amp;quot; demands, Without a fonnal model of pamtbility or learnability, it is difficult to determine which is morc &amp;quot;dominant&amp;quot; in fixing the properties of natural languages. In this paper we show that if we adopt one precise model of &amp;quot;easy&amp;quot; parsability, namely, that of boumled context parsabilio,, and a precise model of &amp;quot;easy&amp;quot; learnability, namely, that of degree 2 learnabilio&amp;quot; then we can show that certain families of grammars that meet the bounded context parsability ct~ndition will also be degree 2 learnable. Some implications of this result for learning in other subsystems of linguistic knowledge are suggested. 1</Paragraph>
+</Section>
+</Paper>
+

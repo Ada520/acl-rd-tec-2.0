@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="I05-6006">
+<Title>The Syntactically Annotated ICE Corpus and the Automatic Induction of a Formal Grammar</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The International Corpus of English is a corpus of national and regional varieties of English. The mega-word British component has been constructed, grammatically tagged, and syntactically parsed. This article is a description of work that aims at the automatic induction of a wide-coverage grammar from this corpus as well as an empirical evaluation of the grammar. It first of all describes the corpus and its annotation schemes and then presents empirical statistics for the grammar. I will then evaluate the coverage and the accuracy of such a grammar when applied automatically in a parsing system. Results show that the grammar enabled the parser to achieve 86.1% recall rate and 83.5% precision rate.</Paragraph>
+</Section>
+</Paper>
+

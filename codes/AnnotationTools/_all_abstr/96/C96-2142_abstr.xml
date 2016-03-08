@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-2142">
+<Title>(11) Modified Modifiers Verb Adverb, Noun, Prepositional Phrase Noun Adjective, Prepositional Phra~ Adjective Adverb, Prepositional Phrase</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Tiffs work belongs to a family of research efforts, called nficrotheories and aimed at describing the static inemfing of all lexical categories in several languages in the fr,'unework of tile MikroKosmos project on computational semantics. The latter also involves other static microtheories describing world kalowledge and syntax-semantics mapping as well as dynamic microtheories comlected with the actual process of text analysis. Tiffs paper describes our approach to detecting ,'rod recording adjectival meaning, compares it with the body of kalowledge on adjectives in literature and presents a detailed, practically tested methodology for the acquisition of lexical entries for adjecfives. The work was based on the set of over 6,000 English and about 1,500 Spanish adjectives obtained from task-oriented corpora.</Paragraph>
+</Section>
+</Paper>
+

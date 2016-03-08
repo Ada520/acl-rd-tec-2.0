@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-2001">
+<Title>A Grammar Combining Phrase Structure and Field Structure</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A graanmar tbrmalism, Field and Category Gram-.</Paragraph>
+<Paragraph position="1"> mar (FCG), is described, which beside constituent structure and functional structure recognizes a level of field structure. It is argued that the formalism offers descriptive and computational advantages for the analysis of Scandinavian and other languages that distinguish clause types topologically. It is also argued that the clear distinction between fields and constituents makes FCGs theoretically sounder than other proposed field grammars. A comparison is made of the word order rules and assumptions of FCGs with the partial orderip, gs employed by G PSG and other models.</Paragraph>
+</Section>
+</Paper>
+

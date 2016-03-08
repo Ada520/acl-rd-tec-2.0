@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C02-1080">
+<Title>An Agent-based Approach to Chinese Named Entity Recognition</Title>
+<Section position="1" start_page="0" end_page="1" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Chinese NE (Named Entity) recognition is a difficult problem because of the uncertainty in word segmentation and flexibility in language structure. This paper proposes the use of a rationality model in a multi-agent framework to tackle this problem. We employ a greedy strategy and use the NE rationality model to evaluate and detect all possible NEs in the text. We then treat the process of selecting the best possible NEs as a multi-agent negotiation problem. The resulting system is robust and is able to handle different types of NE effectively. Our test on the MET-2 test corpus indicates that our system is able to achieve high F  values of above 92% on all NE types.</Paragraph>
+</Section>
+</Paper>
+

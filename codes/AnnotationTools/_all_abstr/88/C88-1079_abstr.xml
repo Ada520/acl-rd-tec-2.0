@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C88-1079">
+<Title>Reference</Title>
+<Section position="2" start_page="388" end_page="388" type="abstr">
+<SectionTitle>
+4. Testing
+</SectionTitle>
+<Paragraph position="0"> This is a very brief sketch of the types of testing needed to cheek tile linguistic coverage. The type of testing which is adequate is of course dependent on the way in which the coverage has been defined: If tile extensional definition of a corpus has been adopted, then tile testing is very simple: check if the corpus can be treated adequately.</Paragraph>
+<Paragraph position="1"> If an inteusional definition is adopted like the one suggested above, the question of testing becomes less simple, because the claims of the system are more general: all sentences described by tile grmnmar and the lexicon should be treated adequately, and such a set of sentences will normally be infinite.</Paragraph>
+<Paragraph position="2"> }\[ere it seems reasonable to combine two approaches: first of all, the conduction of a systematic test, whereby all types of constituents, and a reasonable amount of combinations of constituents are tested.</Paragraph>
+<Paragraph position="3"> And secondly, also to test tlle grammars and dletio~ naries developed against &amp;quot;real&amp;quot; text. This last testing allows for random combinations that were not takea into account by those devising the systematic test. All this testing should be done after the implementors&amp;quot; testing is performed, and by a different group of people.</Paragraph>
+<Section position="1" start_page="388" end_page="388" type="sub_section">
+<SectionTitle>
+Ackn9wled~ement
+</SectionTitle>
+<Paragraph position="0"> The definition of the linguistic coverage of the second phase of EUROTRA was made by Charlotte Touhro (then: EUROTRA-DK, now: ALPS, Switzerland) and the present author.</Paragraph>
+<Paragraph position="1"> We also want to thank the many collaborators in EUROTRA who consented on this definition, thereby improving it.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

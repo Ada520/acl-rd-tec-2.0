@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-1039">
+<Title>Hybrid Approaches to Improvement of Translation Quality in Web-based English-Korean Machine Translation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The previous English-Korean MT system that was the transfer-based MT system and applied to only written text enumerated a following brief list of the problems that had not seemed to be easy to solve in the near future : 1) processing of non-continuous idiomatic expressions 2) reduction of too many ambiguities in English syntactic analysis 3) robust processing for failed or ill-formed sentences 4) selecting correct word correspondence between several alternatives 5) generation of Korean sentence style. The problems can be considered as factors that have influence on the translation quality of machine translation system. This paper describes the symbolic and statistical hybrid approaches to solutions of problems of the previous English-to-Korean machine translation system in terms of the improvement of translation quality. The solutions are now successfully applied to the web-based English-Korean machine translation system &amp;quot;FromTo/EK&amp;quot; which has been developed from 1997.</Paragraph>
+<Paragraph position="1"> Introduction The transfer-based English-to-Korean machine translation system &amp;quot;MATES/EK&amp;quot; that has been developed from 1988 to 1992 in KAIST(Korean Advanced Institute of Science and Technology) and SERl(Systems Engineering Research Institute) enumerated following list that doesn't seem to be easy to solve in the near future in terms of the problems for evolution of the  The problems result in dropping a translation assessment such as fidelity, intelligibility, and style (Hutchins and Somers, 1992). They can be the problems with which MATES/EK as well as other MT systems have faced.</Paragraph>
+<Paragraph position="2"> This paper describes the symbolic and statistical hybird approaches to solve the problems and to improve the translation quality of web-based English-to-Korean machine translation.</Paragraph>
+</Section>
+</Paper>
+

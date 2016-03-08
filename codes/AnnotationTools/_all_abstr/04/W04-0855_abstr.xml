@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-0855">
+<Title>UBB system at Senseval3</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> It is known that whenever a system's actions depend on the meaning of the text being processed, disambiguation is beneflcial or even necessary. The contest Senseval is an international frame where the research in this important fleld is validated in an hierarchical manner. In this paper we present our system participating for the flrst time at Senseval 3 contest on WSD, contest developed in March-April 2004. We present also our intentions on improving our system, intentions occurred from the study of results.</Paragraph>
+</Section>
+</Paper>
+

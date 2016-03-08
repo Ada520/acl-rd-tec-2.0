@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P88-1028">
+<Title>Polynomial Learnability and Locality of Formal Grammars</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> We apply a complexity theoretic notion of feasible learnability called &amp;quot;polynomial learnabillty&amp;quot; to the evaluation of grammatical formalisms for linguistic description. We show that a novel, nontriviai constraint on the degree of ~locMity&amp;quot; of grammars allows not only context free languages but also a rich d~s of mildy context sensitive languages to be polynomiaily learnable. We discuss possible implications, of this result t O the theory of naturai language acquisition.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-1070">
+<Title>Lexicalized Hidden Markov Models for Part-of-Speech Tagging</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Since most previous works tbr HMM-1)ased tagging consider only part-ofsl)eech intbrmation in contexts, their models (:minor utilize lexical inforlnatiol~ which is crucial tbr resolving some morphological tmfl)iguity. In this paper we introduce mliformly lexicalized HMMs fin: i)art ofst)eech tagging in 1)oth English and \](ore, an.</Paragraph>
+<Paragraph position="1"> The lexicalized models use a simplified back-off smoothing technique to overcome data Sl)arsehess. In experiment;s, lexi(:alized models a(:hieve higher accuracy than non-lexicifliz(~d models and the l)ack-off smoothing metho(l mitigates data sparseness 1)etter (;ban simple smoothing methods.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E85-1025">
+<Title>TOWARDS A DICTIONARY SUPPORT ENVIRONMENT FOR REALTIME PARSING ABSTRACT</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+TOWARDS A DICTIONARY SUPPORT ENVIRONMENT
+FOR REALTIME PARSING
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> In this article we describe research on the development of large dictionaries for natural language processing. We detail the development of a dictionary support environment linking a restructrured version of the Longman Dictionary of Contemporary English to natural language processing systems. We describe the process of restructuring the information in the dictionary and our use of the Longman grammar code system to construct dictionary entries for the PATR-II parsing system and our use of the Longman word definitions for automated word sense classification.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-1122">
+<Title>Automatic Acquisition of Phrase Grammars for Stochastic Language Modeling</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Phrase-based language models have been recognized to have an advantage over word-based language models since they allow us to capture long spanning dependencies. Class based language models have been used to improve model generalization and overcome problems with data sparseness. In this paper, we present a novel approach for combining the phrase acquisition with class construction process to automatically acquire phrase-grammar fragments from a given corpus. The phrase-grammar learning is decomposed into two sub-problems, namely the phrase acquisition and feature selection. The phrase acquisition is based on entropy minimization and the feature selection is driven by the entropy reduction principle. We further demonstrate that the phrase-grammar based n-gram language model significantly outperforms a phrase-based n-gram language model in an end-to-end evaluation of a spoken language application.</Paragraph>
+</Section>
+</Paper>
+

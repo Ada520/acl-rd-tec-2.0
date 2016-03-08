@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-1005">
+<Title>Vocabulary Usage in Newswire Summaries</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Analysis of 9000 manually written summaries of newswire stories used in four Document Understanding Conferences indicates that approximately 40% of their lexical items do not occur in the source document. A further comparison of different summaries of the same document shows agreement on 28% of their vocabulary. It can be argued that these relationships establish a performance ceiling for automated summarization systems which do not perform syntactic and semantic analysis on the source document.</Paragraph>
+</Section>
+</Paper>
+

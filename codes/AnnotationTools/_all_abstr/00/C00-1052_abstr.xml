@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-1052">
+<Title>Compact non-left-recursive grammars using the selective left-corner transform and factoring*</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Tim lcft-c.orner transibrm reiIloves left-r(;cursion fl'om (l)rol)al)ilisti(') (:ontext-free granunars and unit|cation grammars, i)ermitting siml)l(~ tol)-down parsing te(:hniques to l)e used. Unforl.unately the grammars l)roduced by the stal~dard \]etTt-('orner transform are usually much larger than |;he original.</Paragraph>
+<Paragraph position="1"> The select, lye left-corner i;ransform (lescril)ed in this l)aI)er 1)rodu(:es a transformed grammar which simulates left-corner recognition of a user-st)coiffed set of tim original productions, and tOl)-down r(~cognition of the, others. C()mbined with tw() factorizations, it; 1)rOdll(;es llOll-lefl;-recilrsive grallllll~ll'S |;lilt|; ~/re 11o|; much larger than the original.</Paragraph>
+</Section>
+</Paper>
+

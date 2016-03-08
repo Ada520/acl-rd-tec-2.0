@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C92-2079">
+<Title>APPARIEMENT DES PHRASES DE TEXTES BILINGUES FRAN~AIS - ANGLAIS ET FRAN~AIS = ARABES</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> In this paper, we will tackle the problem raised by the automatic alignment of sentences belonging to bilingual text pairs. &amp;quot;\[he method that we advocate here is inspired by what a person with a fair knowledge of the other langage would do intuitively. It is based on rite matching of the elements which are similar in both sentences.</Paragraph>
+<Paragraph position="1"> However, to match these elements correctly, we first have to match the sentences that contain them. There seems to be a vicious circle here. We will show how to break it. On the one hand, we will describe the hypotheses we made, and, nn the other hand, the algorithms which ensued. The experiments are carried out with French-English and French-Arabic text pairs* We will show that matching sentences and, later, expressions, amounts to raising a new problem in the machine translation field, i. e. the problem of recognition instead of that of translation, strictly speaking.</Paragraph>
+</Section>
+</Paper>
+

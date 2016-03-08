@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-0706">
+<Title>i Text Classification Using WordNet Hypernyms</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes experiments in Machine Learning for text classification using a new representation of text based on WordNet hypernyms. Six binary classification tasks of varying difficulty are defined, and the Ripper system is used to produce discrimination rules for each task using the new hypernym density representation. Rules are also produced with the commonly used bag-of-words representation, incorporating no knowledge from WordNet.</Paragraph>
+<Paragraph position="1"> Experiments show that for some of the more difficult tasks the hypernym density representation leads to significantly more accurate and more comprehensible rules.</Paragraph>
+</Section>
+</Paper>
+

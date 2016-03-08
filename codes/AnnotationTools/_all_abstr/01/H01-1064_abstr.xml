@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H01-1064">
+<Title>SCANMail: Audio Navigation in the Voicemail Domain</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> This paper describes SCANMail, a system that allows users to browse and search their voicemail messages by content through a GUI. Content based navigation is realized by use of automatic speech recognition, information retrieval, information extraction and human computer interaction technology. In addition to the browsing and querying functionalities, acoustics-based caller ID technology is used to proposes caller names from existing caller acoustic models trained from user feedback. The GUI browser also provides a note-taking capability. Comparing SCANMail to a regular voicemail interface in a user study, SCANMail performed better both in terms of objective (time to and quality of solutions) as well as subjective objectives.</Paragraph>
+</Section>
+</Paper>
+

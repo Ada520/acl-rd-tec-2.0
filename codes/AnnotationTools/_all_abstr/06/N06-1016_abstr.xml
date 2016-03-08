@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N06-1016">
+<Title></Title>
+<Section position="1" start_page="2" end_page="2" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper shows that two uncertainty-based active learning methods, combined with a maximum entropy model, work well on learning English verb senses.</Paragraph>
+<Paragraph position="1"> Data analysis on the learning process, based on both instance and feature levels, suggests that a careful treatment of feature extraction is important for the active learning to be useful for WSD. The overfitting phenomena that occurred during the active learning process are identified as classic overfitting in machine learning based on the data analysis.</Paragraph>
+</Section>
+</Paper>
+

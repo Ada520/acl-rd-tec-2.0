@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N03-4011">
+<Title>Automatically Discovering Word Senses</Title>
+<Section position="1" start_page="0" end_page="1" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We will demonstrate the output of a distributional clustering algorithm called Clustering by Committee that automatically discovers word senses from text  .</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W01-1606">
+<Title>An Empirical Study of Speech Recognition Errors in a Task-oriented Dialogue System</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The development of spoken dialogue systems is often limited by the performance of their speech recognition component. The impact of speech recognition errors on dialogue systems is often studied at the global level of task completion. In this paper, we carry an empirical study on the consequences of speech recognition errors on a fully-implemented dialogue prototype, based on a speech acts formalisms. We report the impact of speech recognition errors on speech act identification and discuss how standard control mechanisms can participate to robustness by assisting the user in repairing the consequences of speech recognition errors.</Paragraph>
+<Paragraph position="1"> Introduction The development of spoken dialogue systems is faced with limitations in speech recognition technologies that make recognition errors a recurring problem for any dialogue system.</Paragraph>
+<Paragraph position="2"> Several studies have shown little correlation between speech recognition scores and user satisfaction, or the ability to complete the tasks underlying spoken dialogue [Yankelovich et al., 1995] [Dybkjaer et al., 1997], suggesting that a certain level of errors should not prevent spoken dialogue systems from being successful.</Paragraph>
+<Paragraph position="3"> However, most of the studies on speech recognition errors have concentrated either on parsing incomplete utterances or on global dialogue robustness, i.e. at task completion level [Allen et al., 1996] [Stromback and Jonsson, 1998] [Brandt-Pook et al., 1996].</Paragraph>
+<Paragraph position="4"> In this paper, we investigate the impact of speech recognition errors on a fully-implemented prototype for a task-oriented dialogue system. This system supports a conversational character for Interactive Television and is based on a speech acts formalism. We report a first empirical study on the consequences of speech recognition errors on the identification of speech acts, and the conditions under which the system can be robust to those errors.</Paragraph>
+</Section>
+</Paper>
+

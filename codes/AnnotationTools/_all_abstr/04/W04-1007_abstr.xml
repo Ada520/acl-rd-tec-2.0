@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-1007">
+<Title>A Rhetorical Status Classifier for Legal Text Summarisation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe a classifier which determines the rhetorical status of sentences in texts from a corpus of judgments of the UK House of Lords. Our summarisation system is based on the work of Teufel and Moens where sentences are classified for rhetorical status to aid sentence selection. We experiment with a variety of linguistic features with results comparable to Teufel and Moens, thereby demonstrating the feasibility of porting this kind of system to a new domain.</Paragraph>
+</Section>
+</Paper>
+

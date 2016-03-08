@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-1718">
+<Title>Single Character Chinese Named Entity Recognition</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Single character named entity (SCNE) is a name entity (NE) composed of one Chinese character, such as &amp;quot;a0&amp;quot; (zhong1, China) and &amp;quot;a1&amp;quot; a2e2,Russiaa3. SCNE is very common in written Chinese text. However, due to the lack of in-depth research, SCNE is a major source of errors in named entity recognition (NER). This paper formulates the SCNE recognition within the source-channel model framework. Our experiments show very encouraging results: an F-score of 81.01% for single character loca-tion name recognition, and an F-score of 68.02% for single character person name recognition. An alternative view of the SCNE recognition problem is to formulate it as a classification task. We construct two classifiers based on maximum entropy model (ME) and vector space model (VSM), respectively. We compare all proposed approaches, showing that the source-channel model performs the best in most cases.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="X96-1043">
+<Title>Class Annotation Type of AttributedObject Properties</Title>
+<Section position="1" start_page="0" end_page="249" type="abstr">
+<SectionTitle>
+1.0 GOALS
+</SectionTitle>
+<Paragraph position="0"> The TIPSTER Program aims to push the technology for access to information in large (multi-GB) text collections, in particular for the analysts in Government agencies. Technology is being developed for document detection (&amp;quot;information retrieval&amp;quot;) and for data extraction from free text.</Paragraph>
+<Paragraph position="1"> The primary mission of the TIPSTER Common Architecture is to provide a vehicle for efficiently delivering this detection and extraction technology to the Government agencies. The Architecture also has a secondary mission of providing a convenient and efficient environment for research in document detection and data extraction.</Paragraph>
+<Paragraph position="2"> To accomplish this mission, the TIPSTER Architecture is being designed to:</Paragraph>
+</Section>
+</Paper>
+

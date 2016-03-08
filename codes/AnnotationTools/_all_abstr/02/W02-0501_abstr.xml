@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-0501">
+<Title>Parsing Akkadian Verbs with Prolog</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a parsing/generation system for finite verbal forms in Akkadian, with the possible addition of suffixes, implemented in Prolog. The work described provides the framework and engine to interpret the D, N, and G stems along with accusative, dative and ventive endings.</Paragraph>
+</Section>
+</Paper>
+

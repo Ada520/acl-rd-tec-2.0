@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-2182">
+<Title>Formal Description of Multi-Word Lexemes with the Finite-State Formalism IDAREX</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Most multi-word lexemes (MWLs) allow certain types of variation. This has to be taken into account for their description and their recognition in texts. We suggest to describe their syntactic restrictions and their idiosyncratic peculiarities with local grammar rules, which at the same time allow to express in a general way regularities valid for a whole class of MWLs. The local grammars can be written in a very convenient and compact way as regular expressions in the formalism IDAREX which uses a two-level morphology. IDAREX allows to define various types of variables, and to mix canonical and inflected word forms in the regular expressions. ~</Paragraph>
+</Section>
+</Paper>
+

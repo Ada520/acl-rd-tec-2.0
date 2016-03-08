@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-3068">
+<Title>A Formal Description of Arabic Syntax in Definite Clause Grammar</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Arabic has some special syntax features which lead to complex syntax structures.</Paragraph>
+<Paragraph position="1"> We have developed a formal description of Arabic syntax in Definite Clause Grammar. This grarnrnar is characterized by its high descriptive power due to its dual formulation in terms of functions and in terms of grammatical categories. The developed grammar has a high coverage of Arabic language and has context sensitive capabilities. It is suitable for the advanced applications of natural language processing. null</Paragraph>
+</Section>
+</Paper>
+

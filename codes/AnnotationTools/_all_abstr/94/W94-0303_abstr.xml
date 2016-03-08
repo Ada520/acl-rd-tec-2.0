@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W94-0303">
+<Title>Building Underlying Structures for Multiparagraph Texts</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+BBN
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> Our experience with MACH-III \[Kurland et al 1992\] showed us that there is more to multiparagraph text than stringing together isolated well-formed paragraphs, not surprising since the same is true of multisentential paragraphs and multiword sentences. The underlying structure of the entire text, depicting interparagraph relationships and emphases, must also be determined for successful generation. Th~ of course implies that we need a formalism for representing interparagraph structure.</Paragraph>
+<Paragraph position="1"> Fortunately, RST \[Mann &amp; Thompson 1987\] is capable of representing the needed interparagraph structure as well as intraparagraph structure, giving us the framework for exploring how paragraph structure and total text structure interact and how these structures affect the surface text. However, RST does not specify how to build large structures representing multiparagraph text, or even smaller structures retYresenting sentences. This paper presents an algorithm to construct such multiparagraph structures in the context of a critique by the MACH-III system of a student's performance in troubleshooting the HAWK radar. This critique is based on the functional hierarchy tree (FH tree), which is the heart of the expert system component of MACH-III \[Kurland et aI 1989\]. First we describe functional hierarchy as a paradigm for organizing expert system knowledge. Then the algorithm for generating text structures based on this functional hierarchy organization is presented in two parts. The first describes how the higher level RST structure defining the overall organization of the paragraphs and their contents is built. This is an elaboration of the algorithm first presented in \[Granville 1993\]. The second part describes how the individual paragraph RST structures are filled out, resulting in a complete representation of the desired text. This algorithm was developed as part of the George system, on-going work extending MACH-III to improve explanation capabilities. The first part of the algorithm, that which builds the high-level RST structures, has been implemented. The second part is the current subject of the George effort.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P79-1012">
+<Title>A SNAPSHOT OF KDS A KNOWLEDGE DF_,LIVERY SYSTEM</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+SUMMARY
+</SectionTitle>
+<Paragraph position="0"> KDS Is a computer program which creates multl-par~raph, Natural Language text from a computer representation of knowledge to be delivered. We have addressed a number of Issues not previously encountered In the generation of Natural Language st the multi-sentence level, vlz: ordering among sentences and the scope of each, quality comparisons between alternative 8~regations of sub-sententJal units, the coordination of communication with non-linguistic activities by * gcel-pursuin~ planner, end the use of dynamic models of speaker and hearer to shape the text to the task at hand.</Paragraph>
+</Section>
+</Paper>
+

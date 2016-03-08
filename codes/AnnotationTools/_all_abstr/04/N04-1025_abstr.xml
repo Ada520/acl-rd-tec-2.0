@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N04-1025">
+<Title></Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We demonstrate a new research approach to the problem of predicting the reading difficulty of a text passage, by recasting readability in terms of statistical language modeling. We derive a measure based on an extension of multinomial naive Bayes classification that combines multiple language models to estimate the most likely grade level for a given passage. The resulting classifier is not specific to any particular subject and can be trained with relatively little labeled data. We perform predictions for individual Web pages in English and compare our performance to widely-used semantic variables from traditional readability measures. We show that with minimal changes, the classifier may be retrained for use with French Web documents.</Paragraph>
+<Paragraph position="1"> For both English and French, the classifier maintains consistently good correlation with labeled grade level (0.63 to 0.79) across all test sets. Some traditional semantic variables such as type-token ratio gave the best performance on commercial calibrated test passages, while our language modeling approach gave better accuracy for Web documents and very short passages (less than 10 words).</Paragraph>
+<Paragraph position="2">  In the course of constructing a search engine for students, we wanted a method for retrieving Web pages that were not only relevant to a student's query, but also well-matched to their reading ability. Widely-used traditional readability formulas such as Flesch-Kincaid usually perform poorly in this scenario. Such formulas make certain assumptions about the text: for example, that the sample has at least 100 words and uses well-defined sentences. Neither of these assumptions need be true for Web pages or other non-traditional documents. We seek a more robust technique for predicting reading difficulty that works well on a wide variety of document types.</Paragraph>
+<Paragraph position="3"> To do this, we turn to simple techniques from statistical language modeling. Advances in this field in the past 20 years, along with greater access to training data, make the application of such techniques to readability quite timely. While traditional formulas are based on linear regression with two or three variables, statistical language models can capture more detailed patterns of individual word usage. As we show in our evaluation, this generally results in better accuracy for Web documents and very short passages (less than 10 words).</Paragraph>
+<Paragraph position="4"> Another benefit of a language modeling approach is that we obtain a probability distribution across all grade models, not just a single grade prediction.</Paragraph>
+<Paragraph position="5"> Statistical models of text rely on training data, so in Section 2 we describe our Web training corpus and note some trends that are evident in word usage. Section 3 summarizes related work on readability, focusing on existing vocabulary-based measures that can be thought of as simplified language model techniques. Section 4 defines the modified multinomial naive Bayes model.</Paragraph>
+<Paragraph position="6"> Section 5 describes our smoothing and feature selection techniques. Section 6 evaluates our model's generalization performance, accuracy on short passages, and sensitivity to the amount of training data. Sections 7 and 8 discuss the evaluation results and give our observations and conclusions.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A92-1016">
+<Title>XUXEN: A Spelling Checker/Corrector for Basque Based on Two-Level Morphology Agirre E., Alegria I., Arregi X.,</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+20009 DONOSTIA (Basque Country)
+Abslract
+</SectionTitle>
+<Paragraph position="0"> The application of the formalism of two-level morphology to Basque and its use in the elaboration of the XUXEN spelling checker/corrector are described. This application is intended to cover a large part of the language.</Paragraph>
+<Paragraph position="1"> Because Basque is a highly inflected language, the approach of spelling checking and correction has been conceived as a by-product of a general purpose morphological analyzer/generator. This analyzer is taken as a basic tool for current and future work on automatic processing of Basque.</Paragraph>
+<Paragraph position="2"> An extension for continuation class specifications in order to deal with long-distance dependencies is proposed. This extension consists basically of two features added to the standard formalism which allow the lexicon builder to make explicit the interdependencies of morphemes.</Paragraph>
+<Paragraph position="3"> User-lexicons can be interactively enriched with new entries enabling the checker from then on to recognize all the possible flexions derived from them.</Paragraph>
+<Paragraph position="4"> Due to a late process of standardization of the language, writers don't always know the standard form to be used and commit errors. The treatment of these &amp;quot;typical errors&amp;quot; is made in a specific way by means of describing them using the two-level lexicon system. In this sense, XUXEN is intended as a useful tool for standardization purposes of present day written Basque.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W01-1627">
+<Title>Dialogue tagsets in oncology</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Dialogue analysis is widely used in oncology for training health professionals in communication skills. Parameters and tagsets have been developed independently of work in natural language processing. In relation to emergent standards in NLP, syntactic tagging is minimal, semantics is domain-speci c, pragmatics is comparable, and the analysis of cognitive a ect is richly developed. We suggest productive directions for convergence. null</Paragraph>
+</Section>
+</Paper>
+

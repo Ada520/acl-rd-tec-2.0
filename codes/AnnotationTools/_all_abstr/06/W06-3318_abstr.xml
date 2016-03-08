@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-3318">
+<Title>Recognizing Nested Named Entities in GENIA corpus</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Nested Named Entities (nested NEs), one containing another, are commonly seen in biomedical text, e.g., accounting for 16.7% of all named entities in GENIA corpus. While many works have been done in recognizing non-nested NEs, nested NEs have been largely neglected.</Paragraph>
+<Paragraph position="1"> In this work, we treat the task as a binary classification problem and solve it using Support Vector Machines. For each token in nested NEs, we use two schemes to set its class label: labeling as the outmost entity or the inner entity. Our preliminary results show that while the outmost labeling tends to work better in recognizing the outmost entities, the inner labeling recognizes the inner NEs better.</Paragraph>
+<Paragraph position="2"> This result should be useful for recognition of nested NEs.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C88-1076">
+<Title>On the Rble of Old Information in Generating Readable Text: A Psychological and Computational Definition Of &amp;quot;Old&amp;quot; and &amp;quot;New&amp;quot; Information in the NOSVO System</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1.0 Introduction
+</SectionTitle>
+<Paragraph position="0"> There are at least two stages of text generation. One is generating the content of the text. The other is generating the language that represents and communicates the content (Thompson 1977). These two stages, though interrelated, have their owta sets of interesting problems and principles.</Paragraph>
+<Paragraph position="1"> The first stage, generating the semantic content of the text, involves motivating, planning and creating the conceptual and semantic content of a piece of text. Once the semantic representation for a text has been constructed the language of that text can be generated. The second stage, language generation, involves communicating the intent and content of the text Without confusing or misleading the reader. &amp;quot;~his paper will address the second stage only.</Paragraph>
+<Paragraph position="2"> It is not enough to merely generate text. It is also necessary to generate cohesive text. However a shopping list is cohesive, though not &amp;quot;flowing&amp;quot; text by any means. A set of sentences that are prepositionally related are cohesive though are not necessarily beautiful prose.</Paragraph>
+<Paragraph position="3"> It is not enough to attend to ellipsis and prouominalization to generate readable prose. We believe that there are other factors which must be attended to to generate prose. The NOSVO system is an attempt to take into account old/new information contrasts (Chafe 1974, 1976) which we believe will help natural language generation systems produce more readable text.</Paragraph>
+<Paragraph position="4"> 'assumable' as being there&amp;quot; (Prince 19'/8:819)i This is quite important and expands upon Ch~'e :.;ir, ce fbr him the important thing is that the antecede~t mu~t be in the hearer's consciousness, i.e. i-~ the l~earer, s tbcus of attention, while for Prince and LaPolla it need only be appropriate to the situation or in some other way coCperatively assumable, to ho in the fiearer's consciousness.</Paragraph>
+<Paragraph position="5"> Hajicov~ and Vbrov~t (19811 also takes exception with the terms &amp;quot;given (or old) &amp;quot; or &amp;quot;new&amp;quot; information and suggests that &amp;quot;contextuall!C/ bound&amp;quot; and &amp;quot;contextually non-bound&amp;quot; lexical item would be more appropriate.</Paragraph>
+<Paragraph position="6"> &amp;quot;contextually bound&amp;quot; and &amp;quot;contextually non-bound&amp;quot; is even more appropriate than &amp;quot;already activated&amp;quot; ~md &amp;quot;newly activated&amp;quot; because it seems to also convey situational appropriateness. However, it seems that Hajicov~t restricts her terminology, as well as her theory of discourse (focus) strueture~ to linguistic antecedents. That is, her &amp;quot;shared stock of knowledge&amp;quot; appears to be closer to, if not completely, linguistic in representation. Thet~f0re, neither her theory or terminology has the power to deal with mt antecedent that is merely inferable or appropriate to a situation. We will use the familiar terms &amp;quot;new/old infolmation&amp;quot; but will define them a little more precisely later in the paper.</Paragraph>
+</Section>
+</Paper>
+

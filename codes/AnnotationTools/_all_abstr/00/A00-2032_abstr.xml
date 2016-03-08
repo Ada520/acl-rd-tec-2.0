@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A00-2032">
+<Title>Mostly-Unsupervised Statistical Segmentation of Japanese: Applications to Kanji</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Given the lack of word delimiters in written Japanese, word segmentation is generally considered a crucial first step in processing Japanese texts. Typical Japanese segmentation algorithms rely either on a lexicon and grammar or on pre-segmented data. In contrast, we introduce a novel statistical method utilizing unsegmented training data, with performance on kanji sequences comparable to and sometimes surpassing that of morphological analyzers over a variety of error metrics.</Paragraph>
+</Section>
+</Paper>
+

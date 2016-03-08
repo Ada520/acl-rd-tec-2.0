@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-2937">
+<Title>The Exploration of Deterministic and Efficient Dependency Parsing</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we propose a three-step multilingual dependency parser, which generalizes an efficient parsing algorithm at first phase, a root parser and post-processor at the second and third stages. The main focus of our work is to provide an efficient parser that is practical to use with combining only lexical and part-of-speech features toward language independent parsing. The experimental results show that our method outperforms Maltparser in 13 languages. We expect that such an efficient model is applicable for most languages.</Paragraph>
+</Section>
+</Paper>
+

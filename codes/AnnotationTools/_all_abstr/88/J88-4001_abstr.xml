@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J88-4001">
+<Title>LFP: A LOGIC FOR LINGUISTIC DESCRIPTIONS AND AN ANALYSIS OF ITS COMPLEXITY</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+LFP: A LOGIC FOR LINGUISTIC DESCRIPTIONS AND
+AN ANALYSIS OF ITS COMPLEXITY
+</SectionTitle>
+<Paragraph position="0"> We investigate the weak expressive power of a notation using first-order logic, augmented with a facility for recursion, to give linguistic descriptions. The notation is precise and easy to read, using ordinary conventions of logic. Two versions of the notation are presented. One, called CLFP, speaks about strings and concatenation, and generates the class EXPTIME of languages accepted by Turing machines in time</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-2705">
+<Title>Multi-dimensional Annotation and Alignment in an English-German Translation Corpus</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents the compilation of the CroCo Corpus, an English-German translation corpus. Corpus design, annotation and alignment are described in detail. In order to guarantee the searchability and exchangeability of the corpus, XML stand-off mark-up is used as representation format for the multi-layer annotation. On this basis it is shown how the corpus can be queried using XQuery.</Paragraph>
+<Paragraph position="1"> Furthermore, the generalisation of results in terms of linguistic and translational research questions is briefly discussed.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A94-1002">
+<Title>Practical Issues in Automatic Documentation Generation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> PLANDoc, a system under joint development by Columbia and Bellcore, documents the activity of planning engineers as they study telephone routes. It takes as input a trace of the engineer's interaction with a network planning tool and produces 1-2 page summary. In this paper, we describe the user needs analysis we performed and how it influenced the development of PLANDoc. In particular, we show how it pinpointed the need for a sub-language specification, allowing us to identify input messages and to characterize the different sentence paraphrases for realizing them. We focus on the systematic use of conjunction in combination with paraphrase that we developed for PLANDoc, which allows for the generation of summaries that are both concise-avoiding repetition of similar information, and fluentavoiding repetition of similar phrasing.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-3227">
+<Title>Phrase Pair Rescoring with Term Weightings for Statistical Machine Translation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We propose to score phrase translation pairs for statistical machine translation using term weight based models. These models employ tf.idf to encode the weights of content and non-content words in phrase translation pairs. The translation probability is then modeled by similarity functions defined in a vector space. Two similarity functions are compared.</Paragraph>
+<Paragraph position="1"> Using these models in a statistical machine translation task shows significant improvements.</Paragraph>
+</Section>
+</Paper>
+

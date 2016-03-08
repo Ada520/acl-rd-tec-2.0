@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-0421">
+<Title>A Simple Named Entity Extractor using AdaBoost</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> This paper presents a Named Entity Extraction (NEE) system for the CoNLL-2003 shared task competition. As in the past year edition (Carreras et al., 2002a), we have approached the task by treating the two main sub-tasks of the problem, recognition (NER) and classification (NEC), sequentially and independently with separate modules.</Paragraph>
+<Paragraph position="1"> Both modules are machine learning based systems, which make use of binary and multiclass AdaBoost classifiers.</Paragraph>
+<Paragraph position="2"> Named Entity recognition is performed as a greedy sequence tagging procedure under the well-known BIO labelling scheme. This tagging process makes use of three binary classifiers trained to be experts on the recognition of B, I, and O labels, respectively. Named Entity classification is viewed as a 4-class classification problem (with LOC, PER, ORG, and MISC class labels), which is straight-forwardly addressed by the use of a multiclass learning algorithm.</Paragraph>
+<Paragraph position="3"> The system presented here consists of a replication, with some minor changes, of the system that obtained the best results in the CoNLL-2002 NEE task. Therefore, it can be considered as a benchmark of the state-of-the-art technology for the current edition, and will allow also to make comparisons about the training corpora of both editions.</Paragraph>
+</Section>
+</Paper>
+

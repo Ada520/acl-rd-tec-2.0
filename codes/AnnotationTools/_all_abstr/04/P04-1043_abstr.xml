@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P04-1043">
+<Title>A Study on Convolution Kernels for Shallow Semantic Parsing</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we have designed and experimented novel convolution kernels for automatic classi cation of predicate arguments. Their main property is the ability to process structured representations. Support Vector Machines (SVMs), using a combination of such kernels and the at feature kernel, classify Prop-Bank predicate arguments with accuracy higher than the current argument classi cation stateof-the-art. null Additionally, experiments on FrameNet data have shown that SVMs are appealing for the classi cation of semantic roles even if the proposed kernels do not produce any improvement.</Paragraph>
+</Section>
+</Paper>
+

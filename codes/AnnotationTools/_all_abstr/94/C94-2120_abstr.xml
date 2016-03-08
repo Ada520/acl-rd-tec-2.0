@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C94-2120">
+<Title>INCREMENTAb INTERPRETATION: APPLICATIONS, THEORY, AND RF, LATIONSHIP TO DYNAMIC SEMANTICS*</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> Why should computers interpret language incrementally? In recent years psycholinguistic evidence for incremental interpretation has become more and more compelling, suggesting that humans perlTorm semantic interpretation before constituent boundaries, possibly word by word. However, possible computational applications have received less attention. In this paper we consider various potential applications, in particular graphical interaction and dialogue. We then review the theoretical and computational tools available for mapping from fragments of sentences to flflly scoped semantic representations. Finally, we tease apart the relationship between dynamic semantics and increinental interpretation.</Paragraph>
+</Section>
+</Paper>
+

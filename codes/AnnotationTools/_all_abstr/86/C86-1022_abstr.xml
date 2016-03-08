@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C86-1022">
+<Title></Title>
+<Section position="1" start_page="0" end_page="104" type="abstr">
+<SectionTitle>
+USA
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> One of the necessary tasks of a machine translation system is lexical transfer. In some cases there is a one-to-one mapping from source language word to target language word.</Paragraph>
+<Paragraph position="1"> What theoretical model is followed when there is a one-to-many mapping? Unfortunately, none of the linguistic models that have been used in machine translation include a lexical transfer component. In the absence of a theoretical model, this paper will suggest a new way to test lexical transfer systems.</Paragraph>
+<Paragraph position="2"> This test is being applied to an MT system under development. One possible conclusion may be that further effort should be expended developing models of lexical transfer.</Paragraph>
+<Paragraph position="3"> i. An Early Approach to Lexical Transfer Years before the machine translation community was burdened with guilt by the ALPAC report, David Hays, former chairman of the International Committee on Computational Linguistics, proposed a procedure for lexical transfer (Hays, 1963, pp 205-208). We will describe it, quoting pieces to preserve the original flavor.</Paragraph>
+<Paragraph position="4"> i. a. File of Equivalent-Choice Data &amp;quot;Most words...have uniform translations, but not all.&amp;quot; &amp;quot;These exceptions to the general rule must be discovered and taken into account. The procedure is simple and straightforward. A file of equivalent-choice data...is required.&amp;quot; This file is prepared usina real text. When a word is encountered for the first time, one translation is selected and entered into a bilingual glossary. When the same word is encountered again, the human translator/editor attempts to use the translation already in the glossary. Additional translations are added only when the one(s) in the glossary are not acceptable. This procedure is supposed to avoid entering interchangeable alternatives that are only stylistic variations. The file of equivalent-choice data mentioned above is a record of how many times each translation was used.</Paragraph>
+<Paragraph position="5"> i. b. Category Once the equivalent-choice file has been compiled, the first step in analyzing it is to identify those words with two or more translations (i.e. equivalents). The next step is to identify whether the translation is governed by &amp;quot;grammatic category&amp;quot;. i. c. Function If there are two or more translations within the same category, then the analyst looks at &amp;quot;grammatic function&amp;quot; (e.g. subject, object of preposition, etc).</Paragraph>
+<Paragraph position="6">  I. d. Features &amp;quot;If there is any kind of relation in which the word has two equivalents, the analyst continues by examining each word that governs the multiple-equivalent word.&amp;quot; From the words that govern the word in question, the analyst derives &amp;quot;criterial classes&amp;quot; (i.e. features to mark on the governing words in the dictionary).</Paragraph>
+<Paragraph position="7"> i. e. End of Procedure But what if testing features on other words is not sufficient to determine the translation? Hays recognizes this possibility by noting &amp;quot;There is no certainty, of course, that the governors and dependents of an occurrence determine its translation, but is seems plausible that they will often do so.&amp;quot; Even following this procedure of assigning features may be anything but &amp;quot;simple and straightforward&amp;quot;, and (even worse) it is not sufficient.</Paragraph>
+</Section>
+</Paper>
+

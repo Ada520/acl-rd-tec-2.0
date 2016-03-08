@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-2144">
+<Title>A Constraint-based Case Frame Lexicon</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a constraint-based case flame lexicon arctfitecture fbr bi-directionM mapping between a syntactic case Dame and a semantic Dame. The lexicon uses a semantic sense as the basic unit and employs a multi-tiered constraint structure for the resolution of syntactic information into the appropriate senses and/or idiomatic usage. VMency changing transfbrmations such as morptnologieally marked passivized or causativized forms are handled via le:xical rules that manipulate case Dames templates. The system has been implemented in a typed-feature system and applied to Turkish.</Paragraph>
+</Section>
+</Paper>
+

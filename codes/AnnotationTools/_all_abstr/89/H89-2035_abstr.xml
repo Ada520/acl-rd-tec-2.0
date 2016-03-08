@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H89-2035">
+<Title>References</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> In practical large vocabulary speech recognition systems, it is nearly impossible for a speaker to remember which words are in the vocabulary. The probability of the speaker using words outside the vocabulary can be quite high. For the case when a speaker uses a new word, current systems will always&amp;quot; recognize other words within the vocabulary in place of the new word, and the speaker wouldn't know what the problem is.</Paragraph>
+<Paragraph position="1"> In this paper, we describe a preliminary investigation of techniques that automatically detect when the speaker has used a word that is not in the vocabulary. We developed a technique that uses a general model for the acoustics of any word to recognize the existence of new words. Using this general word model, we measure the correct detection of new words versus the false alarm rate.</Paragraph>
+<Paragraph position="2"> Experiments were run using the DARPA 1000-word Resource Management Database for continuous speech recognition. The recognition system used is the BBN BYBLOS continuous speech recognition system (Chow et al.. 1987). The preliminary results indicate a detection rate of 74% with a false alarm rate of 3.4%.</Paragraph>
+</Section>
+</Paper>
+

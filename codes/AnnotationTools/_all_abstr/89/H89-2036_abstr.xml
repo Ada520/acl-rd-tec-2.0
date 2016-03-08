@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H89-2036">
+<Title>Automatic New Word Acquisition: Spelling from Acoustics</Title>
+<Section position="1" start_page="0" end_page="266" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The problem of extending the lexicon of words in an automatic speech recognition system is commonly referred to as the the new word problem. When encountered in the context of an embedded speech recognition system this problem can be be divided into the following sub-problems. First, identify the presence of a new word. Second, acquire a phonetic transcription of the new word. Third, acquire the orthographic transcription (spelling) of the new word. In this paper we present the results of a preliminary study that employs a novel approach to the problem of acquiring the orthographic transcription through the use of an n-gram language model of english spelling and a quad-letter labeling of acoustic models that when taken together potentially produce an acoustic to spelling transcription of any spoken input.</Paragraph>
+<Paragraph position="1"> Introduction This paper focuses on t_he problem of acquiring the orthographic transcription of new words and explicitly ignores the problems of identifying the presence of a new word and generating the phonetic base-form of the new word. The approach that we employ here is to map directly from the acoustic evidence to an orthographic transcription. In other words we model the acoustics of our training set based on the readily available orthographic transcription of the sentence instead of a phonetic transcription. The language model that we employ is the familiar n-gram model. Our model consists of a five gram with 27 tokens, A through Z plus blank. One may reasonably ask what led us to think that a reasonable level of performance would be possible. A question is the answer in this case. Ask yourself how many guesses you might require to get the fifth letter correct in a five letter sequence if you had been given the previous 4 letters? We guessed that a perplexity of english spelling might be somewhere between two and five for a five gram language model. A more detailed analysis of the perplexity of english spelling can be found in \[Shannon 51\]. Given such a low perplexity we believed it would be possible to overcome much of the inherent ambiguity in english spelling.</Paragraph>
+<Section position="1" start_page="0" end_page="266" type="sub_section">
+<SectionTitle>
+Acoustic Models
+Signal Processing
+</SectionTitle>
+<Paragraph position="0"> The signal processing front-end used in this work is identical to the Sphinx front-end \[Lee 89\]. We computed power and 12 bilinear-transformed LPC cepstral coefficients, which are then quantized into three different codebooks: (1) 12 stationary coefficients, (2) 12 differential coefficients, and (3) power and differenced power. Each codebook has 256 entries, thereby reducing each centisecond of speech into three bytes.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

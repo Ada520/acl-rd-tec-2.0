@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1126">
+<Title>Information Extraction from Single and Multiple Sentences</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Some Information Extraction (IE) systems are limited to extracting events expressed in a single sentence. It is not clear what effect this has on the di-culty of the extraction task. This paper addresses the problem by comparing a corpus which has been annotated using two separate schemes: one which lists all events described in the text and another listing only those expressed within a single sentence. It was found that only 40.6% of the events in the flrst annotation scheme were fully contained in the second.</Paragraph>
+</Section>
+</Paper>
+

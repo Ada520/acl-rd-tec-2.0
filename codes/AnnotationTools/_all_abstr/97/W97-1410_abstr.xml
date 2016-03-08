@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-1410">
+<Title>Exploiting Image Descriptions for the Generation Expressions of Referring</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+*Otto-yon- Guericke-Universit~it Magdeburg,
+</SectionTitle>
+<Paragraph position="0"> Institut fiir Informations- und Kommunikationssysteme, P.O.Box 41 20, D-39016 Magdeburg, Germany Email: hartmann~iik.cs.uni-magdeburg.de t software design &amp; management GmbH &amp; Co.</Paragraph>
+<Paragraph position="1"> KG, Thomas-Dehler-Str. 27, D-81737 Mfinchen, Germany, Email: jochen.schoepp~sdm.de tin (Bordegoni et al., 1996) the tasks of intelligent multimedia representation systems are discussed in a uniform terminology.</Paragraph>
+<Paragraph position="2"> jects, that are so characteristic as to enable the addressee to identify the side on which they are located. Based on this information, referring expressions can be generated that exploit information on relative location of the components of a complex object.</Paragraph>
+<Paragraph position="3"> This paper is organised as follows: In section 2, we describe how the content of a computer generated graphics is represented and propose an algorithm to compute a set of so-called characteristic component. The result of our algorithm can be applied to the generation of referring expressions, as described in section 3. In section 4, we discuss our results by comparing our algorithm with other reference algorithms. Section 5 gives a short summary and describes future work.</Paragraph>
+</Section>
+</Paper>
+

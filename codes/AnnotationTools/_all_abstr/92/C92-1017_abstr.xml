@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C92-1017">
+<Title>TRACE &amp; UNIFICATION GRAMMAR</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents Trace &amp; Unification Grammar (TUG), a declarative and reversible grammar formalism that brings together Unification Grammar (UG) and ideas of Government &amp; Binding Theory (on)~ The main part of the paper consists in a description of many free word order phenomena of German syntax. It will be shown that the use of traces allows for an easier and more elegant way of description than competing approaches like ID/LP-format rules as used e.g. in GPSG and HPSG. Grammkrs written in the TUG-formallsm can be compiled to a very efficient parser. The occurrence of head movement, wh-movement and scrambling in one sentence does not lead to any decrease in parsing efficiency.</Paragraph>
+</Section>
+</Paper>
+

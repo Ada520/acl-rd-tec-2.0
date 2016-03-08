@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H93-1016">
+<Title>An Overview of the SPHINX-II Speech Recognition System</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> In the past year at Carnegie Mellon steady progress has been made in the area of acoustic and language modeling. The result has been a dramatic reduction in speech recognition errors in the SPHINX-II system. In this paper, we review SPHINX-I/and summarize our recent efforts on improved speech recognition. Recently SPHINX-I/ achieved the lowest error rate in the November 1992 DARPA evaluations. For 5000-word, speaker-independent, continuous, speech recognition, the error rate was reduced to 5%.</Paragraph>
+</Section>
+</Paper>
+

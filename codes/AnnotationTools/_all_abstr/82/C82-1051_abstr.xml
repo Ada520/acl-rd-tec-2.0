@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C82-1051">
+<Title>PROCEDURAL MEANING REPRESENTATION BY CONNOTATIVE DEPENDENCY STRUCTURES. AN EMPIRICAL APPROACH TO WORD SEMANTICS FOR ANALOGICAL INEERENCING</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+PROCEDURAL MEANING REPRESENTATION BY CONNOTATIVE
+DEPENDENCY STRUCTURES. AN EMPIRICAL APPROACH TO
+WORD SEMANTICS FOR ANALOGICAL INEERENCING
+</SectionTitle>
+<Paragraph position="0"></Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+Germany
+</SectionTitle>
+<Paragraph position="0"> Natural language understanding systems make use of language and/or worldknowledge bases. One of the salient problems of meaning representation and knowledge structure is the modelling of its acquisition and modification from natural language processing. Based upon the statistical analysis of discourse, a formal representation of vague word meanings is derived which constitutes the lexical structure of the vocabulary employed in the texts as a fragment of the connotative knowledge conveyed in discourse. It consists of a distance-like data structure of linguistically labeled space points whose positions give a prototype-representation of conceptual meanings. On the basis of these semantic space data an algorithm is presented which transforms prevailing similarities of conceptual meanings as denoted by adjacent space points to establish a binary, non-symmotric, and transitive relation between them. This allows for the hierarchical reorganization of points as nodes dependent on a head in a binary tree called connotative dependency structure (CDS\]. It offers an empirically founded operational approach to determine relevant portions of the space structure constituting semantic dispositions which the priming of a meaning point will trigger with decreasing criteriality. Thus, the CDS allows for the execution of associatively guided search strategies, contents-oriented retrieval operations, and source-dependent processes of analogical inferencing.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

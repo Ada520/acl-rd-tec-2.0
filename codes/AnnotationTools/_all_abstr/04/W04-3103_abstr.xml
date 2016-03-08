@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-3103">
+<Title>The Language of Bioscience: Facts, Speculations, and Statements in Between</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We explore the use of speculative language in MEDLINE abstracts. Results from a manual annotation experiment suggest that the notion of speculative sentence can be reliably annotated by humans. In addition, an experiment with automated methods also suggest that reliable automated methods might also be developed.</Paragraph>
+<Paragraph position="1"> Distributional observations are also presented as well as a discussion of possible uses for a system that can recognize speculative language.</Paragraph>
+</Section>
+</Paper>
+

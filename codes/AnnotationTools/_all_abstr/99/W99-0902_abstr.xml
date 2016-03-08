@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W99-0902">
+<Title>The applications of unsupervised learning to Japanese grapheme-phoneme alignment</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we adapt the TF-IDF model to the Japanese grapheme-phoneme alignment task, by way of a simple statistical model and an incremental learning method. In the incremental learning method, grapheme-phoneme alignment paradigms are disambiguated one at a time according to the relative plausibility of the highest scoring alignment schema, and the statistical model is re-trained accordingly. On limited evaluation, the learning method achieved an accuracy of 93.28%, representing a slight improvement over a baseline rule-based method.</Paragraph>
+</Section>
+</Paper>
+

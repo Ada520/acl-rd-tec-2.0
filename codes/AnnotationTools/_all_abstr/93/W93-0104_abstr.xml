@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W93-0104">
+<Title>Internal and External Evidence in the Identification and Semantic Categorization of Proper Names</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe the proper name recognition and classification facility (&amp;quot;PNV') of the SPARSER natural language understanding system. PNF has been used very successfully in the analysis of unrestricted texts in several sublanguages taken from online news sources. It makes its categorizations on the basis of 'external' evidence from the context of the phrases adjacent to the name as well as 'internal' evidence within the sequence of words and characters. A semantic model of each name and its components is maintained and used for subsequent reference.</Paragraph>
+<Paragraph position="1"> We describe PNF's operations of delimiting, classifying, and semantically recording the structure of a name; we situate PNF with respect to the related parsing mechanisms within Sparser; and finally we work through an extended example that is typical of the sorts of text we have applied PNF to.</Paragraph>
+</Section>
+</Paper>
+

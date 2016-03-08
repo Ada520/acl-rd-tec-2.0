@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-2110">
+<Title>A Very Large Dictionary with Paradigmatic, Syntagmatic, and Paronymic Links between Entries</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A very large Russian dictionary is described.</Paragraph>
+<Paragraph position="1"> It contains currently 3.6 million links between its 120,000 entries. The links are syntagmatic (collocations), paradigmatic (WordNet-like), or paronymic (words similar in letters or in morphs). The entries of the dictionary are single- or multiwords belonging to four main POS. The entries represent so-called grammemes rather than lexemes: e.g., nouns are represented as singular and plural; verbs are split into 'finite forms + infinitive', 'participle', and 'gerund'. The multiword entries in turn can be collocations--idiomatic free--whose parts are also entries of the same dictionary.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N03-3006">
+<Title>A low-complexity, broad-coverage probabilistic Dependency Parser for English</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Large-scale parsing is still a complex and time-consuming process, often so much that it is infeasible in real-world applications. The parsing system described here addresses this problem by combining finite-state approaches, statistical parsing techniques and engineering knowledge, thus keeping parsing complexity as low as possible at the cost of a slight decrease in performance. The parser is robust and fast and at the same time based on strong linguistic foundations.</Paragraph>
+</Section>
+</Paper>
+

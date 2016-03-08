@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E06-2025">
+<Title>Theoretical Evaluation of Estimation Methods for Data-Oriented Parsing</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We analyze estimation methods for Data-Oriented Parsing, as well as the theoretical criteria used to evaluate them. We show that all current estimation methods areinconsistent inthe &amp;quot;weight-distribution test&amp;quot;, and argue that these results force us to rethink both the methods proposed and the criteria used.</Paragraph>
+</Section>
+</Paper>
+

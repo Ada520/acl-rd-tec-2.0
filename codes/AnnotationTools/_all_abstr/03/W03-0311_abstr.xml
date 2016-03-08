@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-0311">
+<Title>Retrieving Meaning-equivalent Sentences for Example-based Rough Translation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Example-based machine translation (EBMT) is a promising translation method for speech-to-speech translation because of its robustness. It retrieves example sentences similar to the input and adjusts their translations to obtain the output. However, it has problems in that the performance degrades when input sentences are long and when the style of inputs and that of the example corpus are different.</Paragraph>
+<Paragraph position="1"> This paper proposes a method for retrieving &amp;quot;meaning-equivalent sentences&amp;quot; to overcome these two problems. A meaning-equivalent sentence shares the main meaning with an input despite lacking some unimportant information. The translations of meaning-equivalent sentences correspond to &amp;quot;rough translations.&amp;quot; The retrieval is based on content words, modality, and tense.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="I05-3032">
+<Title>Sentence Class-based HMM RoleTag-based Entity Recognition Class-based HMM Post-processing</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Chinese word segmentation is always much accounted of in ICT-NLP. In this bakeoff, two different systems in ICT-NLP participated. The one is SYSTEM_#1 evaluated in three tracks -- PK-close, MSR-close and MSR-open, and SYSTEM_#2 PK-open. Through this bakeoff , the development of Chinese segmentation is learned and the problems are found in our systems.</Paragraph>
+</Section>
+</Paper>
+

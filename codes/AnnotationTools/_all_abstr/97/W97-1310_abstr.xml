@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-1310">
+<Title>Corpus Annotation and Reference Resolution</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A variety of approaches to annotating reference in corpora have been adopted. This paper reviews four approaches to the annotation of reference in corpora. Following this we present a variety of results from one annotated corpus, the UCREL anaphoric treebank, relevant to automated reference resolution.</Paragraph>
+<Paragraph position="1"> Introduction The application of corpora to the problems of pronoun resolution is a rapidly growing area of corpus linguistics. Work by Dagan and Itai (1990) and Mitkov (1994, 1995, 1996; Mitkov, Choi and Sharp 1995) are good examples of this growth. However, the application of suitably annotated corpora to the problem of pronoun resolution has been largely hampered to date by a lack of availability of suitable corpus resources. This paper is going to review what work has been undertaken in the production of corpora including discourse annotations. We will then show what quantitative data is available from such corpora which can be of use in the construction of robust pronoun resolution systems.</Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+Corpus Annotation
+</SectionTitle>
+<Paragraph position="0"> While an increasingly wide range of linguistic analyses (both automatically and manually produced) are becoming available as annotations in corpora, morphosyntactically annotated corpora have long been available, and syntactically annotated corpora are now becoming more readily available too.</Paragraph>
+<Paragraph position="1"> Examples include the parsed LOB corpus, the Susanne corpus (Sampson, 1995) and the Penn Treebanks. While it is widely perceived that appropriately annotated corpus data is of importance in the study of reference resolution, corpora which include appropriate discourse annotations have not become more readily available in the public domain, however.</Paragraph>
+<Paragraph position="2"> Evidence for the growing appreciation of the importance of anaphorically annotated corpora can be seen in the slow but sure growth of a range of corpus annotation systems for reference annotation in the 1990s - Fligelstone (1992), Aone and Bennett (1994), Botley (1996), de Rocha (1997) and Gaizauskas and Humphries (1997). Yet while the proposals for an appropriately annotated corpus are growing, there is little corpus data available in Englishk The only corpus that is available, developed by Aone and Bennett, has a variety of shortcomings - it covers only one genre of written language (newspaper articles), it deals only with anaphora, it is a corpus of Japanese and Spanish 2, and its annotations were not produced to meet the need of a wide range of end-users, only participants in the fifth message understanding competition. Hence the work which has been undertaken with corpora in the field of reference resolution has not been able to exploit and evaluate the type of reliable quantitative data that an anaphorically annotated corpus could yield.</Paragraph>
+<Paragraph position="3"> Our aim at Lancaster over the past three years has been to develop a series of tools to retrieve quantitative data on a range of reference features in text. We have done this on the basis of one corpus which was developed in collaboration with IBM Yorktown Heights, and a second which we have developed in-house.</Paragraph>
+<Paragraph position="4"> Neither of these corpora are available for general release because of restrictions placed upon us by the providers of the corpus text.</Paragraph>
+<Paragraph position="5"> What we can release, however, are the results It should be noted that other languages have already started to generate such resources - Aone and Bennett (1994) have been working on such a corpus for Japanese and Spanish.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

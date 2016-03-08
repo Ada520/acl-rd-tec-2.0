@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-1104">
+<Title>Semantic Indexing using WordNet Senses</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe in this paper a boolean Information l~.etrieval system that adds word semantics to the classic word based indexing. Two of the main tasks of our system, namely the indexing and retrieval components, are using a combined word-based and sense-based approach.</Paragraph>
+<Paragraph position="1"> The key to our system is a methodology for building semantic representations of open text, at word and collocation level. This new technique, called semantic indexing, shows improved effectiveness over the classic word based indexing techniques.</Paragraph>
+</Section>
+</Paper>
+

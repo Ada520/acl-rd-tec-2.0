@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H94-1062">
+<Title>Tree-Based State Tying for High Accuracy Modelling</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> The key problem to be faced when building a HMM-based continuous speech recogniser is maintaining the balance between model complexity and available training data. For large vocabulary systems requiring cross-word context dependent modelling, this is particularly acute since many mmh contexts will never occur in the training data. This paper describes a method of creating a tied-state continuous speech recognition system using a phonetic decision tree. This tree-based clustering is shown to lead to similar recognition performance to that obtained using an earlier data-driven approach but to have the additional advantage of providing a mapping for unseen triphones. State-tying is also compared with traditional model-based tying and shown to be clearly superior. Experimental results are presented for both the Resource Management and Wall Street 3ournal tasks.</Paragraph>
+</Section>
+</Paper>
+

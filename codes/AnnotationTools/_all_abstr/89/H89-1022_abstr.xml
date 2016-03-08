@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H89-1022">
+<Title>A Flexible Interface for Linking Applications to Penman's Sentence Generator</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The Penman text generation system has been used within several different experimental application domains, demonstrating that it provides the basis for an adaptable general purpose text generation capability. Linking with these applications also indicated several ways that Penman's interface with applications could be improved. Penman's interface with applications is described, focusing on SPL, a newly developed sentence plan language. SPL is a notation that can be used by text planning programs to specify plans for sentences at multiple levels of abstraction and varied amounts of detail. Sentence plans are interpreted with respect to a collection of predefined knowledge sources, thereby minimizing the size and complexity of inputs that must be dynamically constructed by the application to generate individual sentences.</Paragraph>
+</Section>
+</Paper>
+

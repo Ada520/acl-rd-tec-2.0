@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-0308">
+<Title>Sydney, July 2006. c(c)2006 Association for Computational Linguistics Towards a validated model for affective classification of texts</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we present the results of experiments aiming to validate a two-dimensional typology of affective states as a suitable basis for affective classi cation of texts. Using a corpus of English weblog posts, annotated for mood by their authors, we trained support vector machine binary classi ers to distinguish texts on the basis of their af liation with one region of the space. We then report on experiments which go a step further, using four-class classi ers based on automated scoring of texts for each dimension of the typology.</Paragraph>
+<Paragraph position="1"> Our results indicate that it is possible to extend the standard binary sentiment analysis (positive/negative) approach to a two dimensional model (positive/negative; active/passive), and provide some evidence to support a more ne-grained classi cation along these two axes.</Paragraph>
+</Section>
+</Paper>
+

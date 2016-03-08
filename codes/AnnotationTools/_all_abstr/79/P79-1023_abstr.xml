@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P79-1023">
+<Title>W~ IL: RETRIEVE \[JOB.EMPLOYEE,JOB.ADDRESS\] WHERE (DIV.DNAME - &amp;quot;R&amp;D&amp;quot;) AND (DIV.DIV JOB CH - JOB.DIV_JOBCH) AND (JOB.JNAME - &amp;quot;SECRETARY&amp;quot;) AND (JOB.CLASS - &amp;quot;EXECUTIVE&amp;quot;) WW'DMS QUERY: INVOKE 'WWDMS/PERSONNEL/ADF' REPORT EUFID-1 ON FILE 'USER/PASSWD/EUFID' FOR TTY QI. LINE &amp;quot;EMPLOYEE NAME =&amp;quot;,EMPLOYEE Q2. LINE &amp;quot;ADDRESS &amp;quot;&amp;quot;,ADDRESS</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+EUFID: A FRIENDLY AND FLEXIBLE FRONT-END FOR DATA MANAGEMENT SYSTEMS
+</SectionTitle>
+<Paragraph position="0"></Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+Marjorie Templeton
+System Development Corporation, Santa Monica, CA.
+</SectionTitle>
+<Paragraph position="0"> EUFID is a natural language frontend for data management systems. It is modular and table driven so that it can be interfaced to different applications and data management systems. It allows a user to query his data base in natural English, including sloppy syntax and misspellings. The tables contain a data management system view of the data base, a semantic/syntactic view of the application, and a mapping from the second to the first.</Paragraph>
+<Paragraph position="1"> We are entering a new era in data base access. Computers and terminals have come down in price while salaries have risen. We can no longer make users spend a week in class to learn how to get at their data in a data base.</Paragraph>
+<Paragraph position="2"> Access to the data base must be easy, but also secure.</Paragraph>
+<Paragraph position="3"> In some aspects, ease and security go together because, when we move the user away from the physical characteristics of the data base, we also make it easier to screen access.</Paragraph>
+<Paragraph position="4"> EUFID is a system that makes data base access easy for an untrained user, by accepting questions PSn natural English. It can be used by anyone after a few minutes of coaching. If the user gets stuck, he can ask EUFID for help. EUFID is a friendly but firm interface which includes security features. If the user goes too far in his questions and asks about areas outside of his authorized data base, EUFID will politely misunderstand the question and quietly log the security violation.</Paragraph>
+<Paragraph position="5"> One beauty of EUFID is its flexibility. It is written in FORTRAN for a PDP-II/70. With minor modifications it could run on other minl-computers or on a large computer. It is completely table driven so ~hat it can handle different data bases, different views of the same data base, or the same view of a restructured data base.</Paragraph>
+<Paragraph position="6"> It can be interfaced with various data management systems--currently it can access a relational data base via INGRES or a network data base via WWDMS.</Paragraph>
+<Paragraph position="7"> EUFID is an outgrowth of the SDC work on a conceptual processor which was started in 1973. 1 It is now demonstrable with a wide range of sentences questioning two data bases. It is still a growing system with new power being added.</Paragraph>
+<Paragraph position="8"> In the following sections we will explore the features that make EUFID so flexible and easy to use. The main</Paragraph>
+</Section>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W96-0403">
+<Title>Paraphrasing and Aggregating Argumentative Text Using Text Structure</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We argue in this paper that sophisticated microplanning techniques are required even for mathematical proofs, in contrast to the belief that mathematical texts are only schematic and mechanical. We demonstrate why paraphrasing and aggregation significantly enhance the flexibility and the coherence of the text produced. To this end, we adopted the Text Structure of Meteer as our basic representation. The type checking mechanism of Text Structure allows us to achieve paraphrasing by building comparable combinations of linguistic resources. Specified in terms of concepts in an uniform ontological structure called the Upper Model, our semantic aggregation rules are more compact than similar rules reported in the literature.</Paragraph>
+</Section>
+</Paper>
+

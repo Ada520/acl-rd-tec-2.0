@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-1217">
+<Title>I</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The idea of '~familial relationships&amp;quot; among languages is well-established and accepted, although some controversies persist in a few specific instances. By painstakingly recording and identifying regularities and similarities and comparing these to the historical record, linguists have been able to produce a general &amp;quot;family tree&amp;quot; incorporating most natural languages. null We suggest here that much of these trees can be automatically determined by a complementary technique of distributional analysis. Recent work by (Farach et al., 1995) and (Juola, 1997) suggests that Kullback-Leibler divergence (or cross-entropy) can be meaningfully measured from small samples, in some cases as small as only 20 or so words. Using these techniques, we define and measure a distance function between translations of a small corpus (c. 70 words/sample) covering much of the accepted Indo-European family, and reconstruct a relationship tree by hierarchical duster analysis. The resulting tree shows remarkable similarity to the accepted Indo-European family; this we read as evidence both for the immense power of this measurement technique and for the validity of this kind of mechanical similarity judgement in the identification of typological relationships. Furthermore, this technique is in theory sensitive to different sorts of relationships than more common word-list based methods and may help ilium;hate these from a different direction.</Paragraph>
+</Section>
+</Paper>
+

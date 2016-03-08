@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P95-1008">
+<Title>DATR Theories and DATR Models</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Evans and Gazdar (Evans and Gazdar, 1989a; Evans and Gazdar, 1989b) introduced DATR as a simple, non-monotonic language for representing natural language lexicons. Although a number of implementations of DATR exist, the full language has until now lacked an explicit, declarative semantics. This paper rectifies the situation by providing a mathematical semantics for DATR. We present a view of DATR as a language for defining certain kinds of partial functions by cases. The formal model provides a transparent treatment of DATR's notion of global context. It is shown that DA-I'R's default mechanism can be accounted for by interpreting value descriptors as families of values indexed by paths.</Paragraph>
+</Section>
+</Paper>
+

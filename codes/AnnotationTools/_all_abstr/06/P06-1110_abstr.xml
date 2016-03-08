@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P06-1110">
+<Title>Advances in Discriminative Parsing</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The present work advances the accuracy and training speed of discriminative parsing. Our discriminative parsing method has no generative component, yet surpasses a generative baseline on constituent parsing, and does so with minimal linguistic cleverness. Our model can incorporate arbitrary features of the input and parse state, and performs feature selection incrementally over an exponential feature space during training.</Paragraph>
+<Paragraph position="1"> We demonstrate the flexibility of our approach by testing it with several parsing strategies and various feature sets.</Paragraph>
+<Paragraph position="2"> Our implementation is freely available at: http://nlp.cs.nyu.edu/parser/.</Paragraph>
+</Section>
+</Paper>
+

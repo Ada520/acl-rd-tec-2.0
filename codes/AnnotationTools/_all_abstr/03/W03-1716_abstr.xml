@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-1716">
+<Title>The Semantic Knowledge-base of Contemporary Chinese and its Applications in WSD [?]</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"></Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+The Semantic Knowledge-base of Con-
+</SectionTitle>
+<Paragraph position="0"> temporary Chinese (SKCC) is a large scale Chinese semantic resource developed by the Institute of Computational Linguistics of Peking University. It provides a large amount of semantic information such as semantic hierarchy and collocation features for 66,539 Chinese words and their English counterparts. Its POS and semantic classification represent the latest progress in Chinese linguistics and language engineering. The descriptions of semantic attributes are fairly thorough, comprehensive and authoritative. The paper introduces the outline of SKCC, and indicates that it is effective for word sense disambiguation in MT applications and is likely to be important for general Chinese language processing.</Paragraph>
+<Paragraph position="1"> Key words: Semantic knowledge-base, lexical semantic, computational lexicography, word sense disambiguation (WSD), Chinese language processing</Paragraph>
+</Section>
+</Section>
+</Paper>
+

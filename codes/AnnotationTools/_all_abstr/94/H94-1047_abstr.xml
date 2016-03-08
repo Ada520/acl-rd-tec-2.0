@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H94-1047">
+<Title>A New Approach to Word Sense Disambiguation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> This paper presents and evaluates models created according to a schema that provides a description of the joint distribution of the values of sense tags and contextual features that is potentially applicable to a wide range of content words.</Paragraph>
+<Paragraph position="1"> The models are evaluated through a series of experiments, the results of which suggest that the schema is particularly well suited to nouns but that it is also applicable to words in other syntactic categories.</Paragraph>
+</Section>
+</Paper>
+

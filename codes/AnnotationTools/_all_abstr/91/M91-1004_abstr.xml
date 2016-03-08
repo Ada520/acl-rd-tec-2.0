@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="M91-1004">
+<Title>MUC-3 LINGUISTIC PHENOMENA TEST EXPERIMEN T</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+INTRODUCTION
+</SectionTitle>
+<Paragraph position="0"> The evaluation of data extraction systems can be supplemented by determinin g performance of the systems on a representative selection of linguistic phenomena .</Paragraph>
+<Paragraph position="1"> The experiment performed as part of the MUC-3 evaluation was aimed at determinin g whether linguistic phenomena can be tested in isolation for state-of-the-art dat a extraction . Although not all of the methods of data extraction used by the participants in MUC-3 directly process linguistic phenomena, the methods are dealing with those phenomena in some manner because they are present in the input .</Paragraph>
+<Paragraph position="2"> Phenomena testing in MUC-3 is testing according to the characteristics of th e messages rather than characteristics of the systems processing those messages .</Paragraph>
+<Paragraph position="3"> In order to determine the validity of phenomena testing at the current level of syste m performance, an experiment was run . The results of the experiment indicate that linguistic phenomena are isolatable and that performance for linguistic phenomen a can be measured using the MUC-3 scoring system .</Paragraph>
+</Section>
+</Paper>
+

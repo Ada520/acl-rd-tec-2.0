@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W99-0204">
+<Title>Automatic Slide Presentation from Semantically Annotated Documents</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper discusses how to automatically generate slide shows. The reported presentation system inputs documents annotated with the GDA tagset, an XML tagset which allows machines to automatically infer the semantic structure underlying the raw documents. The system picks up important topics in the input document on the basis of the semantic dependencies and coreferences identified from the tags. This topic selection depends also on interactions with the audience, leading to dynamic adaptation of the presentation. A slide is composed for each topic by extracting relevant sentences and paraphrasing them to an itemized summary. Some heuristics are employed here for paraphrasing and layout. Since the GDA tagset is independent of the domain and style of documents and applicable to diverse natural languages, the reported system is also domain/style independent and easy to adapt to different languages.</Paragraph>
+</Section>
+</Paper>
+

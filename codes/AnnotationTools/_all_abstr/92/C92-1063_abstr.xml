@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C92-1063">
+<Title>The Typology of Unknown Words: An Experimental Study of Two Corpora</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Acknowledgments
+References
+1.0 Introduction
+</SectionTitle>
+<Paragraph position="0"> Most current state-of-the-art natural language processing (NLP) systems, when presented with real-life texts, have problems recognizing each and every word present in the input. Depending on the application, the consequences can be severe. For example, in a machine translation system the quality of the processing may suffer and sometimes further processing may even be impossible.There are two main reasons why a word might not be recograzed and thus be considered unknown by the system: * The linguistic knowledge of the system is not complete, i.e. the word is correct but is not present in the system's d=ctionary; * The word is erroneous.</Paragraph>
+<Paragraph position="1"> A lot of effort has been directed towards dealing with the latter, i.e. finding ways of detecting and correcting erroneous words. Most of the developments in this area of research are based on a paper by Damerau \[Damerau 64\] where the author offers a classification of erroneous words.</Paragraph>
+<Paragraph position="2"> The aim of this paper is to present further results about the frequency and types of unknown words found in real-life corpora. We hope that the results of our study will be of some use in the development of NLP systems capable of dealing with realistic input.</Paragraph>
+<Paragraph position="3"> Our findings confirm Damerau's results in that the great majority of erroneous words contain a single typographical error and belong to one of the four following categofie, s: insertion, deletion, substitution, transposition. But we have also found that a large proportion of the unknown words is made up of correct words which are not present in the dictionary. For example, derived words alone represent 30% of all unknown words in our sampies. null These results indicate the need for further work before an acceptable level of robustness can be attained. Although traditional typographical error detection and correction techniques can be used to handle the majority of erroneous words, much remains to be done before such problematic areas as derived words can be dealt with effectively.</Paragraph>
+</Section>
+</Paper>
+

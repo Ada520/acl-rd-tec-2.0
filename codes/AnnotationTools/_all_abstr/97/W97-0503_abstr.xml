@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0503">
+<Title>Simple NLP Techniques for Expanding Telegraphic Sentences</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Some people have disabilities which make it difficult for them to speak in an understandable fashion. The field of Augmentative and Alternative Communication (AAC) is concerned with developing methods to augment the communicative ability of such people. Over the past 9 years, the Applied Science and Engineering Laboratories (ASEL) at the University of Delaware and the duPont Hospital for Children, has been involved with applying natural language processing (NLP) technologies to the field of AAC. One of the major projects at ASEL (The COMPANSION project) has been concerned with the application of primarily lexical semantics and sentence generation technology to expand telegraphic input into full sentences.</Paragraph>
+<Paragraph position="1"> While this project has shown some very promising results, its direct application to a communication device is somewhat questionable (primarily because of the computational power necessary to make the technique fast). This paper describes some of the problems with bringing Compansion to a standard communication device and introduces some work being done in conjunction with the Prentke Romich Company (PRC) (a well known communication device manufacturer) on developing a pared-down version of Compansion for people with cognitive impairments.</Paragraph>
+</Section>
+</Paper>
+

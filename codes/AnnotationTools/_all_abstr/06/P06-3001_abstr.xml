@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P06-3001">
+<Title>Sydney, July 2006. c(c)2006 Association for Computational Linguistics A Flexible Approach to Natural Language Generation for Disabled Children</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Natural Language Generation (NLG) is a way to automatically realize a correct expression in response to a communicative goal. This technology is mainly explored in the fields of machine translation, report generation, dialog system etc. In this paper we have explored the NLG technique for another novel applicationassisting disabled children to take part in conversation. The limited physical ability and mental maturity of our intended users made the NLG approach different from others. We have taken a flexible approach where main emphasis is given on flexibility and usability of the system.</Paragraph>
+<Paragraph position="1"> The evaluation results show this technique can increase the communication rate of users during a conversation.</Paragraph>
+</Section>
+</Paper>
+

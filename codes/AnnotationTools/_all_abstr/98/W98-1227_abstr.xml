@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-1227">
+<Title>A Method of Incorporating Bigram Constraints into an LR Table and Its Effectiveness in Natural Language Processing i</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we propose a method for constructing bigram LR tables by way of incorporating bigram constraints into an LR table.</Paragraph>
+<Paragraph position="1"> Using a bigram LR table, it is possible for a GLR parser to make use of both big'ram and CFG constraints in natural language processing. Applying bigram LR tables to our GLR method has the following advantages:  (1) Language models utilizing bigzam LR tables have lower perplexity than simple bigram language models, since local constraints (higram) and global constraints (CFG) are combined in a single bigram LR table.</Paragraph>
+<Paragraph position="2"> (2) Bigram constraints are easily acquired from a given corpus. Therefore data sparseness is not likely to arise.</Paragraph>
+<Paragraph position="3"> (3) Separation of local and global constraints  keeps down the number of CFG rules.</Paragraph>
+<Paragraph position="4"> The first advantage leads to a reduction in complexity, and as the result, better performance in GLR parsing.</Paragraph>
+<Paragraph position="5"> Our experiments demonstrate the effectiveness of our method.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-3034">
+<Title>A Quantifier Scoping Algorithm without A Free Variable Constraint</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Three recent demands on quantifier scoping algorithms have been that they should be explicitly stated, they should be sound and complete with respect to the input sentence \[Hobbs and Shieber 1987\] and they should not employ a 'Free Variable Constraint' \[Pereira 1989\]. The first demand is for good academic practice. The second is to ask for an algorithm that generates all and only the possible scopings of a sentence. The third demand is for an algorithm that avoids appealing to the syntax of logical form in order to determine possible scopings. I present a modified version of \[Hobbs and Shieber 1987\], which simplifies its operation, and can be considered sound and complete, depending on what interpretations of English sentences are deemed possible. Finally, any doubts concerning the use of logical form syntax are avoided.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="I05-5007">
+<Title>Automated Generalization of Phrasal Paraphrases from the Web*</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Rather than creating and storing thousands of paraphrase examples, paraphrase templates have strong representation capacity and can be used to generate many paraphrase examples.</Paragraph>
+<Paragraph position="1"> This paper describes a new template representation and generalization method. Combing a semantic dictionary, it uses multiple semantic codes to represent a paraphrase template. Using an existing search engine to extend the word clusters and generalize the examples. We also design three metrics to measure our generalized templates. The experimental results show that the representation method is reasonable and the generalized templates have a higher precision and coverage.</Paragraph>
+</Section>
+</Paper>
+

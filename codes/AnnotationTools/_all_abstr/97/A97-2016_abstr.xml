@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A97-2016">
+<Title>PPER VVFIN ADV PlAT NN $, KOUS ART NN ADJD VAFIN ,--Move: I &amp;quot;'' II &amp;quot;&amp;quot;' I ~-deg to: I I I :~0 11 ;,o I\[\] ~_,,to. I :~degdeg II ;'degdeg I Mato&amp;quot;es:deg -Dependency: Selection: | Command: I I Ex-ecute I $( ADV PlAT</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a tool developed for annotating corpora with argument structure representations. The presentation focuses on the architecture of the annotation scheme and a number of techniques for increasing the efficiency and accuracy of annotation. Among others, we show how the assignment of grammatical functions can be automatised using standard part-of-speech tagging methods.</Paragraph>
+</Section>
+</Paper>
+

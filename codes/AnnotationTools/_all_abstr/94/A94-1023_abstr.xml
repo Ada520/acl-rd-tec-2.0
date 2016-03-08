@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A94-1023">
+<Title>Understanding Location Descriptions in the LEI System</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Biological specimens have historically been labeled with English descriptions of the location of collection. To perform spatial, statistical, or historic studies, these descriptions must be converted into geodetic coordinates. A study of the sublanguage used in the descriptions shows much less frequent than typical usage of observer-relative relations such as &amp;quot;left of,&amp;quot; but shows problems with name ambiguity, finding the referents of generic terms like &amp;quot;the stream,&amp;quot; ordinal numbering of river forks and valley branches, object-oriented prepositions (&amp;quot;behind&amp;quot;), fuzzy boundaries (how close is &amp;quot;at,&amp;quot; how far is still &amp;quot;north of&amp;quot;), etc. The LEI system implements a semi-automated understanding of such location descriptions. Components of LEI include a language analyzer, a geographical reasoner, an object-oriented geographic knowledge base derived from US Geological Survey digital maps with user input, and a graphical user interface. LEI parses prepositional phrases into spatial relations, converts these into areas, then computes polygon overlays to find the intersection, and returns the minimum bounding rectangle. The user is consuited on unknown words/phrases and ambiguous descriptions.</Paragraph>
+</Section>
+</Paper>
+

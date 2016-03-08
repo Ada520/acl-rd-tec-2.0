@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0214">
+<Title>Writing Annotation Instructions</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Strategies for Writing Annotation Instructions
+</SectionTitle>
+<Paragraph position="0"> In two corpus annotation projects, we followed similar strategies for developing annotation instructions and obtained good inter-coder reliability results for both (the instructions are similar in style to Allen &amp; Core 1996). Our goal in developing the annotation instructions was that they can be used reliably, after a reasonable amount of training, by taggers who are non-experts but who have good language skills and the ability to pay close attention to detail. The instructions were developed iteratively, applying the current scheme and then revising it in light of dlt~culties that arose. We did not attempt to specify a formal set of rules for the taggers to follow. Rather, we give representative examples and appeal to the taggers' intuitions, asking them to generali,~ from the examples to new situations encountered in the text or dialog.</Paragraph>
+<Paragraph position="1"> An important strategy is to acknowledge, in the instructions, the weM~nesses of the task definition and the dit~iculties the tagger is likely to face. If, for example, the taggers are being asked to categorize objects into one of a set of mutually exclusive, exhaustive classes, for most NLP problems, the taggers will be faced with borderline, ambiguous, and vague instances. We give the taggers strategies for dealing with such problems, such as asking themselves what is the most focal meaning component of the word in that particular context.</Paragraph>
+<Paragraph position="2"> The taggers should also be assisted in targeting exactly which distinctions they are to make. We have * observed taggers' desires to take into account all aspects of the general problem surrounding the task. If there are closely related distinctions that are not to be tagged for, such as, for example, distinctions related to syntactic function, what we do is outline a related tagging task, to contrast it with the one the taggers are performing and to help them zero in on the particular distinctions they are to make.</Paragraph>
+</Section>
+</Paper>
+

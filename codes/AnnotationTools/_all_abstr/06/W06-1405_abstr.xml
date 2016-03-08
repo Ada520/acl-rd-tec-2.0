@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-1405">
+<Title>Sydney, July 2006. c(c)2006 Association for Computational Linguistics Individuality and Alignment in Generated Dialogues</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> It would be useful to enable dialogue agents to project, through linguistic means, their individuality or personality.</Paragraph>
+<Paragraph position="1"> Equally, each member of a pair of agents ought to adjust its language (to a greater or lesser extent) to match that of its interlocutor. We describe CRAG, which generates dialogues between pairs of agents, who are linguistically distinguishable, but able to align. CRAG-2 makes use of OPENCCG and an over-generation and ranking approach, guided by a set of language models covering both personality and alignment. We illustrate with examples of output, and briefly note results from user studies with the earlier CRAG-1, indicating how CRAG-2 will be further evaluated.</Paragraph>
+<Paragraph position="2"> Related work is discussed, along with current limitations and future directions.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P04-3028">
+<Title>Co-training for Predicting Emotions with Spoken Dialogue Data</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Natural Language Processing applications often require large amounts of annotated training data, which are expensive to obtain.</Paragraph>
+<Paragraph position="1"> In this paper we investigate the applicability of Co-training to train classifiers that predict emotions in spoken dialogues. In order to do so, we have first applied the wrapper approach with Forward Selection and Naive Bayes, to reduce the dimensionality of our feature set.</Paragraph>
+<Paragraph position="2"> Our results show that Co-training can be highly effective when a good set of features are chosen.</Paragraph>
+</Section>
+</Paper>
+

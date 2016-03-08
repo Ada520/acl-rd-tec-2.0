@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-2006">
+<Title>A step towards incremental generation of logical forms</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents AsdeCopas, a module designed to interface syntax and semantics. AsdeCopas is based on hierarchically organised semantic rules, that output formulas in a flat language. In this paper, we show how this system can be used in the following applications: a) semantic disambiguation; b) logical formulas construction (in Minimal Recursion Semantics); c) question interpretation.</Paragraph>
+</Section>
+</Paper>
+

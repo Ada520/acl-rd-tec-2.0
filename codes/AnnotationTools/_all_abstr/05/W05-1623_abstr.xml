@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W05-1623">
+<Title>Reversibility and Re-usability of Resources in NLG and Natural Language Dialog Systems</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Reversibility is a key to e-cient and maintainable NLG systems. In this paper, we present a formal deflnition of reversible NLG systems and develop a classiflcation of existing natural language dialog systems in this framework.</Paragraph>
+</Section>
+</Paper>
+

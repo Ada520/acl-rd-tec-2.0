@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-0802">
+<Title>Towards Multimodal Spoken Language Corpora: TransTool and SyncTool</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper argues for the usefulness of multimodal spoken language corpora and specifies components of a platform for the creation, maintenance and exploitation of such corpora. Two of the components, which have already been implemented as prototypes, are described in more detail: TransTool and SyncTool. TransTool is a transcription editor meant to facilitate and partially automate the task of a human transcriber, while SyncTool is a tool for aligning the resulting transcriptions with a digitized audio and video recording in order to allow synchronized presentation of different representations (e.g., text, audio, video, acoustic analysis).</Paragraph>
+<Paragraph position="1"> Finally, a brief comparison is made between these tools and other programs developed for similar purposes.</Paragraph>
+</Section>
+</Paper>
+

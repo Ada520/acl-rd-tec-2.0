@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-1305">
+<Title>Topic Analysis Using a Finite Mixture Model</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We address the issue of 'topic analysis,' by which is determined a text's topic structure, which indicates what topics are included in a text, and how topics change within the text.</Paragraph>
+<Paragraph position="1"> We propose a novel approach to this issue, one based on statistical modeling and learning.</Paragraph>
+<Paragraph position="2"> We represent topics by means of word clusters, and employ a finite mixture model to represent a word distribution within a text. Our experimental results indicate that our method significantly outperforms a method that combines existing techniques.</Paragraph>
+</Section>
+</Paper>
+

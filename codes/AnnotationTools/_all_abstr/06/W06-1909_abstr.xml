@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-1909">
+<Title>Adapting a Semantic Question Answering System to the Web</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes how a question answering (QA) system developed for small-sized document collections of several million sentences was modified in order to work with a monolingual subset of the web. The basic QA system relies on complete sentence parsing, inferences, and semantic representation matching. The extensions and modifications needed for useful and quick answers from web documents are discussed. The main extension is a two-level approach that first accesses a web search engine and downloads some of its document hits and then works similar to the basic QA system. Most modifications are restrictions like a maximal number of documents and a maximal length of investigated document parts; they ensure acceptable answer times. The resulting web QA system is evaluated on the German test collection from QA@CLEF 2004. Several parameter settings and strategies for accessing the web search engineareinvestigated. Themainresultsare: precision-oriented extensions and experimentally derived parameter settings are needed to achieve similar performance on the web as on small-sized document collectionsthatshowhigherhomogeneityand null quality of the contained texts; adapting a semanticQAsystemtothewebisfeasible, but answering a question is still expensive in terms of bandwidth and CPU time.</Paragraph>
+</Section>
+</Paper>
+

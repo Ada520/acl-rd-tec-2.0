@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-2246">
+<Title>Neural Network Recognition of Spelling Errors</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> One area in which artificial neural networks (ANNs) may strengthen NLP systems is in the identification of words under noisy conditions. In order to achieve this benefit when spelling errors or spelling variants are present, variable-length strings of symbols must be converted to ANN input/output form--fixed-length arrays of numbers. A common view in the neural network community has been that different forms of input/output representations have negligible effect on ANN performance. This paper, however, shows that input/output representations can in fact affect the performance of ANNs in the case of natural language words. Minimum properties for an adequate word representation are proposed, as well as new methods of word representation.</Paragraph>
+<Paragraph position="1"> To test the hypothesis that word representations significantly affect ANN performance, traditional and new word representations are evaluated for their ability to recognize words in the presence of four types of typographical noise: substitutions, insertions, deletions and reversals of letters. The results indicate that word representations have a significant effect on ANN performance.</Paragraph>
+<Paragraph position="2"> Additionally, different types of word representation are shown to perform better on different types of error.</Paragraph>
+<Paragraph position="3"> Introduction ANNs are a promising technology for NLP, since a strength of ANNs is their &amp;quot;common sense&amp;quot; ability to make reasonable decisions even when faced with novel data, while a weakness of NLP applications is brittleness in the face of ambiguous situations. One area in which much ambiguity occurs is the identification of words: words may be misspelled, they may have valid spelling variants, and they can be homographic. Robust word recognition capabilities can improve applications which involve text understanding, and are the central component of applications such as spell-checking and name searching.</Paragraph>
+<Paragraph position="4"> In order for ANNs to recognize variant and homographic forms of words, however, words must be transformed to a form that is meaningful to ANNs. The interface to ANNs is input and output layers each composed of fixed numbers of nodes. Each node is associated with a numerical value, typically between 0 and 1. Thus, words-variable-length strings of symbolsmneed to be converted to fixed-length arrays of numbers in order to be processed by ANNs. The resulting word representations should ideally:  1) be in a form which enables an ANN to identify spelling similarities and differences; 2) represent all the letters of words; 3) be concise enough to allow processing of a large number of words in a reasonable time.</Paragraph>
+<Paragraph position="5">  To date, research in ANNs has ignored these low-level input issues, even though they critically affect &amp;quot;higher-level&amp;quot; processing. A common view has been that different representation methods do not significantly impact ANN performance. This paper, however, presents word representations that significantly enhance ANN performance on natural language words.</Paragraph>
+</Section>
+</Paper>
+

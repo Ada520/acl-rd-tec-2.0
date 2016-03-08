@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-1224">
+<Title>Do Not Forget: Full Memory in Memory-Based Learning of Word Pronunciation *</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Memory-based learning, keeping full memory ofleaxning material, appeaxs a viable approach to learning N-~ tasks, and is often superior in genera~sation accuracy to eager learning approaches that abstract from learning materiaL Here we investigate three pa~'tial memory-based learning approaches which remove from memory specific task instance types estimated to be exceptional. The three approaches each implement one heuristic function for estimating exceptiona\]ity of instance types: (i) typicatty, (ii) class prediction strength, and (fii) friencfly-neighbourhood size. Experiments are performed with the memory-based learning algorithm IBI-IG trained on English word pronunciatlon. We find that removing instance types with low prediction strength (il) is the only tested method which does not seriously harm generallsation accuracy. We conclude that keeping full memory of types rather than tokens, and excluding minority ambiguities appear to be the only performance-preserving optimi~tions of memory-based leaxning.</Paragraph>
+</Section>
+</Paper>
+

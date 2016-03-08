@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A92-1018">
+<Title>A Practical Part-of-Speech Tagger</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+3333 Coyote Hill Road, Palo Alto, CA 94304, USA
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present an implementation of a part-of-speech tagger based on a hidden Markov model. The methodology enables robust and accurate tagging with few resource requirements. Only a lexicon and some unlabeled training text are required.</Paragraph>
+<Paragraph position="1"> Accuracy exceeds 96%. We describe implementation strategies and optimizations which result in high-speed operation. Three applications for tagging are described: phrase recognition; word sense disambiguation; and grammatical function assignment.</Paragraph>
+</Section>
+</Paper>
+

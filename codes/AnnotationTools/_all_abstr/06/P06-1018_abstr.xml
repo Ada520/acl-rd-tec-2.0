@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P06-1018">
+<Title>Sydney, July 2006. c(c)2006 Association for Computational Linguistics Polarized Unification Grammars</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper proposes a generic mathematical formalism for the combination of various structures: strings, trees, dags, graphs and products of them. The polarization of the objects of the elementary structures controls the saturation of the final structure. This formalism is both elementary and powerful enough to strongly simulate many grammar formalisms, such as rewriting systems, dependency grammars, TAG, HPSG and LFG.</Paragraph>
+</Section>
+</Paper>
+

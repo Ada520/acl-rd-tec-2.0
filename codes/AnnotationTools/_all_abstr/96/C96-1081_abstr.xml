@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-1081">
+<Title>Sjur NCrstebC/ Moshagen Computing Centre for the Humanities</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Two problematic issues in most lexicon systems today are their size and restricted domain of use. In this paper, we introduce a new approach to lexical organization that leads to more compact and flexible lexicons. The lexical entries are conceptual/phonological frames rather than word entries, and a number of expansion rules are used to generate entries of actual words from these frames. A single frame supports not only all forms of a word, but also words of different categories that are derived from the same semantic basis. The whole theory is now being implemented in the TROLL lexicon project.</Paragraph>
+</Section>
+</Paper>
+

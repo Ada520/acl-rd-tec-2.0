@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W05-1620">
+<Title>An Evolutionary Approach to Referring Expression Generation and Aggregation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The work presented here is intended as an evolutionary task-specific module for referring expression generation and aggregation to be enclosed in a generic flexible architecture. Appearances of concepts are considered as genes, each one encoding the type of reference used. Three genetic operators are used: classic crossover and mutation, plus a specific operator dealing with aggregation. Fitness functions are defined to achieve elementary coherence and stylistic validity. Experiments are described and discussed.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C94-1013">
+<Title>Evahmtion Metrics t'oi- Knowledge-Based Machine Translation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A methodology is presented for coml)onent-l)ase(l machine translation (MT) evaluation through causal error analysis to complement existing global evaluation methods. This methodology is particularly :q)propriate for knowledgc-I)ased machine translation (KBMT) systems. After a discussion o\[ M'I' evaluation criteria and the particular evahlatiou metrics proposed for KBMT, we apply this methodology to a large-scale application of the KANT ,nachinc translation system, and present some sample results.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-1017">
+<Title>STS: An Experimental Sentence Translation System</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> STS is a small experimental sentence translation system developed to demonstrate the efficiency of our lexicalist model of translation. Based on a GB-inspired parser, lexical transfer and lexical projection, STS provides real-time accurate English translations for a small but non-trivial subset of French sentences.</Paragraph>
+</Section>
+</Paper>
+

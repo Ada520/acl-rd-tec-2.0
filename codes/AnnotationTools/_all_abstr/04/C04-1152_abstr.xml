@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1152">
+<Title>Efficient Unsupervised Recursive Word Segmentation Using Minimum Description Length</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Automatic word segmentation is a basic requirement for unsupervised learning in morphological analysis. In this paper, we formulate a novel recursive method for minimum description length (MDL) word segmentation, whose basic operation is resegmenting the corpus on a prefix (equivalently, a suffix). We derive a local expression for the change in description length under resegmentation, i.e., one which depends only on properties of the specific prefix (not on the rest of the corpus). Such a formulation permits use of a new and efficient algorithm for greedy morphological segmentation of the corpus in a recursive manner. In particular, our method does not restrict words to be segmented only once, into a stem+affix form, as do many extant techniques. Early results for English and Turkish corpora are promising.</Paragraph>
+</Section>
+</Paper>
+

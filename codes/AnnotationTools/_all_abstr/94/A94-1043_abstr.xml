@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A94-1043">
+<Title>An Interactive Rewriting Tool for Machine Acceptable Sentences</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper proposes an interactive rewriting tool for supporting people in creating machine acceptable sentences. The experiment and evaluation of this tool conducted when applied to a pre-editing support tool in a Japanese-to-English machine translation (henceforth, MT) system are also described.</Paragraph>
+</Section>
+</Paper>
+

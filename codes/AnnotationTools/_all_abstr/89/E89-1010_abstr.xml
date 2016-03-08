@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E89-1010">
+<Title>Ambiguity Resolution in the DMTRANS PLUS</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a cost-based (or energy-based) model of disambiguation. When a sentence is ambiguous, a parse with the least cost is chosen from among multiple hypotheses.</Paragraph>
+<Paragraph position="1"> Each hypothesis is assigned a cost which is added when:  (1) a new instance is created to satisfy reference success, (2) links between instances are created or removed to satisfy constraints on concept sequences, and (3) a concept node with insufficient priming is used for further processing. This method of ambiguity resolution is implemented in DMT~NS PLUS, which is a second generation bi-direetional English/Japanese machine translation system based on a massively parallel spreading activation paradigm developed at the Center for Machine Translation at Carnegie Mellon University. null  access (DMA) paradigm of natural language processing. Under the DMA paradigm, the mental state of the hearer is modelled by a massively parallel network representing memory. Parsing is performed by passing markers in the memory network. In our model, the meaning of a sentence is viewed as modifications made to the memory network. The meaning of a sentence in our model is definable as the difference in the memory network before and after understanding the sentence.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0309">
+<Title>Aggregate and mixed-order Markov models for statistical language processing</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We consider the use of language models whose size and accuracy are intermediate between different order n-gram models. Two types of models are studied in particular. Aggregate Markov models are class-based bigram models in which the mapping from words to classes is probabilistic. Mixed-order Markov models combine bigram models whose predictions are conditioned on different words. Both types of models are trained by Expectation-Maximization (EM) algorithms for maximum likelihood estimation. We examine smoothing procedures in which these models are interposed between different order n-grams. This is found to significantly reduce the perplexity of unseen word combinations. null</Paragraph>
+</Section>
+</Paper>
+

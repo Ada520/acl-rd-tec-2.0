@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P00-1053">
+<Title>A Hierarchical Account of Referential Accessibility</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we outline a theory of referential accessibility called Veins Theory (VT). We show how VT addresses the problem of &amp;quot;left satellites&amp;quot;, currently a problem for stack-based models, and show that VT can be used to significantly reduce the search space for antecedents. We also show that VT provides a better model for determining domains of referential accessibility, and discuss how VT can be used to address various issues of structural ambiguity.</Paragraph>
+<Paragraph position="1"> Introduction In this paper, we outline a theory of referential accessibility called Veins Theory (VT). We compare VT to stack-based models based on Grosz and Sidner's (1986) focus spaces, and show how VT addresses the problem of &amp;quot;left satellites&amp;quot;, i.e., subordinate discourse segments that appear prior to their nuclei (dominating segments) in the linear text. Left-satellites pose a problem for stack-based models, which remove subordinate segments from the stack before pushing a nuclear or dominating segment, thus rendering them inaccessible. The percentage of such cases is typically small, which may account for the fact that their treatment has been largely overlooked in the literature, but the phenomenon nonetheless persists in most texts. We also show how VT can be used to address various issues of structural ambiguity.</Paragraph>
+</Section>
+</Paper>
+

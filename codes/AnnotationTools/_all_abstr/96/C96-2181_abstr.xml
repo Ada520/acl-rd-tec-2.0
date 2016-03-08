@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-2181">
+<Title>NKRL, a Knowledge Representation Language for Narrative Natural Language Processing</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> NKRL is a conceptual language which intends to provide a normalised, pragmatic description of the semantic contents (in short, the &amp;quot;meaning&amp;quot;) of NL narrative documents. We introduce firstly the general architecture of NKRL, and we give some examples of its characteristic features. We supply, afterward, some sketchy information about the inference techniques and the NLP procedures associated with this language.</Paragraph>
+</Section>
+</Paper>
+

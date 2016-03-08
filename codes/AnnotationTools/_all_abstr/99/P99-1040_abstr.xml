@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P99-1040">
+<Title>Automatic Detection of Poor Speech Recognition at the Dialogue Level</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The dialogue strategies used by a spoken dialogue system strongly influence performance and user satisfaction. An ideal system would not use a single fixed strategy, but would adapt to the circumstances at hand. To do so, a system must be able to identify dialogue properties that suggest adaptation. This paper focuses on identifying situations where the speech recognizer is performing poorly. We adopt a machine learning approach to learn rules from a dialogue corpus for identifying these situations.</Paragraph>
+<Paragraph position="1"> Our results show a significant improvement over the baseline and illustrate that both lower-level acoustic features and higher-level dialogue features can affect the performance of the learning algorithm.</Paragraph>
+</Section>
+</Paper>
+

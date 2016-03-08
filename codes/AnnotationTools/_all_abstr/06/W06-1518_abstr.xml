@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-1518">
+<Title>Using LTAG-Based Features for Semantic Role Labeling</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Semantic role labeling (SRL) methods typically use features from syntactic parse trees. We propose a novel method that uses Lexicalized Tree-Adjoining Grammar (LTAG) based features for this task. We convert parse trees into LTAG derivation trees where the semantic roles are treated as hidden information learned by supervised learning on annotated data derived from PropBank. We extracted various features from the LTAG derivation trees and trained a discriminative decision list model to predict semantic roles. We present our results on the full CoNLL 2005 SRL task.</Paragraph>
+</Section>
+</Paper>
+

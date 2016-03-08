@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-1008">
+<Title>What makes a word: Learning base units in Japanese for speech recognition</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe an automatic process for learning word units in Japanese. Since the Japanese orthography has no spaces delimiting words, the first step in building a Japanese speech recognition system is to define the units that will be recognized.</Paragraph>
+<Paragraph position="1"> Our method applies a compound-finding algorithm, previously used to find word sequences in English, to learning syllable sequences in Japanese. We report that we were able not only to extract meaningful units, eliminating the need for possibly inconsistent manual segmentation, but also to decrease perplexity using this automatic procedure, which relies on a statistical, not syntactic, measure of relevance. Our algorithm also uncovers the kinds of environments that help the recognizer predict phonological alternations, which are often hidden by morphologically-motivated tokenization. null</Paragraph>
+</Section>
+</Paper>
+

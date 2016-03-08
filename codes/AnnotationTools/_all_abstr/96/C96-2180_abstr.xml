@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-2180">
+<Title>United Kingdom</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe a robust text-handling component, which can deal with free text in a wide range of formats and can successfully identify a wide range of phenomena, including chemical formulae, dates, numbers and proper nouns. The set of regular expressions used to capture numbers in written form (&amp;quot;sechsundzwanzig&amp;quot;) in German is given as an example. Proper noun &amp;quot;candidates&amp;quot; are identified by means of regular expressions, these being then rejected or accepted on the basis of run-time interaction with the user. This tagging component is integrated in a large-scale grammar development environment, and provides direct input to the grammatical analysis component of the system by means of &amp;quot;lift&amp;quot; rules which convert tagged text into partial linguistic structures. null</Paragraph>
+</Section>
+</Paper>
+

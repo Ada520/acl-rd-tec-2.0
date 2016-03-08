@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P03-1038">
+<Title>Self-Organizing Markov Models and Their Application to Part-of-Speech Tagging</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a method to develop a class of variable memory Markov models that have higher memory capacity than traditional (uniform memory) Markov models. The structure of the variable memory models is induced from a manually annotated corpus through a decision tree learning algorithm. A series of comparative experiments show the resulting models outperform uniform memory Markov models in a part-of-speech tagging task.</Paragraph>
+</Section>
+</Paper>
+

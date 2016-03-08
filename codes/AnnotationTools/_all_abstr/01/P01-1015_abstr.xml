@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P01-1015">
+<Title></Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The RAGS proposals for generic specification of NLG systems includes a detailed account of data representation, but only an outline view of processing aspects. In this paper we introduce a modular processing architecture with a concrete implementation which aims to meet the RAGS goals of transparency and reusability. We illustrate the model with the RICHES system - a generation system built from simple linguistically-motivated modules.</Paragraph>
+</Section>
+</Paper>
+

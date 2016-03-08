@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0303">
+<Title>An Efficient Distribution of Labor in a Two Stage Robust Interpretation Process</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+Although Minimum Distance Parsing
+</SectionTitle>
+<Paragraph position="0"> (MDP) offers a theoretically attractive solution to the problem of extragrammaticality, it is often computationally infeasible in large scale practical applications.</Paragraph>
+<Paragraph position="1"> In this paper we present an alternative approach where the labor is distributed between a more restrictive partial parser and a repair module. Though two stage approaches have grown in popularity in recent years because of their efficiency, they have done so at the cost of requiring hand coded repair heuristics (Ehrlich and Hanrieder, 1996; Danieli and Gerbino, 1995).</Paragraph>
+<Paragraph position="2"> In contrast, our two stage approach does not require any hand coded knowledge sources dedicated to repair, thus making it possible to achieve a similar run time advantage over MDP without losing the quality of domain independence.</Paragraph>
+</Section>
+</Paper>
+

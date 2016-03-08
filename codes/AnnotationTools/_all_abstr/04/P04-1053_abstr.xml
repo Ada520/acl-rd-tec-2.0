@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P04-1053">
+<Title>Discovering Relations among Named Entities from Large Corpora</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Discovering the significant relations embedded in documents would be very useful not only for information retrieval but also for question answering and summarization. Prior methods for relation discovery, however, needed large annotated corpora which cost a great deal of time and effort. We propose an unsupervised method for relation discovery from large corpora. The key idea is clustering pairs of named entities according to the similarity of context words intervening between the named entities.</Paragraph>
+<Paragraph position="1"> Our experiments using one year of newspapers reveals not only that the relations among named entities could be detected with high recall and precision, but also that appropriate labels could be automatically provided for the relations.</Paragraph>
+</Section>
+</Paper>
+

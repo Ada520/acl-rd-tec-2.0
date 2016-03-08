@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C86-1085">
+<Title>Combining Deictic Gestures and Natural Language for Referent Identification</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In virtually all current natural-language dialog systems, users can only refer to objects by using linguistic descriptions. However, in human face-to-face conversation, participants fre= quently use various sorts of deictic gestures as well. In this paper, we will present the referent identification component of XTRA, a system for a natural-language access to expert systems. XTRA allows the user to combine NL input together with pointing gestures on the terminal screen in order Io refer to objects on the display. Information about the location and type of this deietic gesture, as well as about the linguistic description of the referred object, the case frame, and the dialog memory are utilized for identifying the object. The system is tolerant in respect to impreciseness of both the deictic and the natural language input. The user can thereby refer to objects more easily, avoid referential failures, and employ vague everyday terms instead of precise technical notions.</Paragraph>
+<Paragraph position="1"> Keywords: Deixis, referent identification, NP analysis, parsing</Paragraph>
+</Section>
+</Paper>
+

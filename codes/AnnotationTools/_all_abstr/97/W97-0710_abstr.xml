@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0710">
+<Title>Sentence extraction as a classification task</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A useful first step m document summausation is the selection of a small number of 'meamngful' sentences from a larger text Kupiec et al (1995) describe tim as a clasmficatlon task on the basis of a corpus of technical papers with summaries written by professional abstractors, their system ldent~fies those sentences m the text which also occur in the summary, and then acquires a model of the 'abstract-worthiness' of a sentence as a combination of a hmlted numbel of properties of that sentence We report on a rephcatlon of thin expernnent with different data summaries for our documents were not written by professional abstractors, but by the authors themselves Tins produced fewer allguable sentences to tram on We use alternative 'meaningful' sentences (selected by a human judge) as training and evaluation material, because tlns has advantages for the subsequent automatic generation of more flexible abstracts We quantitatively compare the two C/hfferent strategies for training and evaluation (vm ahgnment vs human judgement), we also chscnss qualitative chfferences and consequences for the generatlon of abstracts</Paragraph>
+</Section>
+</Paper>
+

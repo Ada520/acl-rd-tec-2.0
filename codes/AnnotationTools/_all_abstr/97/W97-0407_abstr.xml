@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0407">
+<Title>Using Categories in the EUTRANS System</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The EUTRANS project, aims at developing Machine Translation systems for limited domain applications. These systems accept speech and text input, and are trained using an example based approach. The translation model used in this project is the Subsequential Transducer, which is easily integrable in conventional speech recognition systems. In addition, Subsequential Transducers can be automatically learned from corpora.</Paragraph>
+<Paragraph position="1"> This paper describes the use of categories for improving the EUTRANS translation systems. Experimental results with the task defined in the project show that this approach reduces the number of examples required for achieving good models.</Paragraph>
+</Section>
+</Paper>
+

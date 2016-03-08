@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A92-1008">
+<Title>Generating Spatial Descriptions for Cross-modal References</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a localisation component that supports the generation of cross-modal deictic expressions in the knowledge-based presentation system WIP. We deal with relative localisations (e.g., &amp;quot;The object to the left, of object X.&amp;quot;), absolute localisations (e.g., &amp;quot;The object in the upl)er left part of the l)icture.&amp;quot;) and corner localisations (e.g., &amp;quot;The object in the lower right corner of the l)icture&amp;quot;). In addition, we distinguish two localisation granularities, one less detailed (e.g., &amp;quot;the object to the left. of object X.&amp;quot;) and one more detailed (e.g., &amp;quot;the object above and to the left. of object X.&amp;quot;). We consider corner localisations to be similar to absolute localisations and in turn absolute localisations to be specialisations of relative localisations. This allows us to compute all three localisation types with one generic localisation procedure. As elementary localisations are derived from previously computed composite localisations, we can cope with both localisation granularities in a computationally efficient way. Based on these l)rimary localisation l)rocedures, we discuss how objects can be localised among several other objects. Finally we introduce group localisations (e.g., &amp;quot;The object to left, of the group of or, her objects.&amp;quot;) and show how to deal with thern.</Paragraph>
+</Section>
+</Paper>
+

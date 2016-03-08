@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C86-1012">
+<Title>Particle Homonymy and Machine Translation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The purpose of this contribution is to formulate ways in which the homonymy of so-called 'Modal Particles' and their etymons can be handled. Our aim is to show that not only a strategy for this type of homonymy can be worked out, but also a formalization of information beyond propositional content can be introduced with a view to its MT application. null</Paragraph>
+</Section>
+</Paper>
+

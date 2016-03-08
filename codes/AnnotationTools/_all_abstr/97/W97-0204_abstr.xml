@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0204">
+<Title>Hanshin Publishing Co., Seoul, South Korea.</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The number and arrangement of semantic tags must be constrained, lest the size and complexity of the tagging sets (tagsets) used for semantic annotation become unwieldy both for humans and computers.</Paragraph>
+<Paragraph position="1"> The description of lexical predicates within the framework of frame semantics provides a natural method for selecting and structuring appropriate tagsets.</Paragraph>
+</Section>
+</Paper>
+

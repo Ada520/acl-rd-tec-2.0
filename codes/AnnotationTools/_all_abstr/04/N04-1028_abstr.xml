@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N04-1028">
+<Title>Non-Native Users in the Let's Go!! Spoken Dialogue System: Dealing with Linguistic Mismatch</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes the CMU Let's Go!! bus information system, an experimental system designed to study the use of spoken dialogue interfaces by non-native speakers. The differences in performance of the speech recognition and language understanding modules of the system when confronted with native and non-native spontaneous speech are analyzed.</Paragraph>
+<Paragraph position="1"> Focus is placed on the linguistic mismatch between the user input and the system's expectations, and on its implications in terms of language modeling and parsing performance. The effect of including non-native data when building the speech recognition and language understanding modules is discussed. In order to close the gap between non-native and native input, a method is proposed to automatically generate confirmation prompts that are both close to the user's input and covered by the system's language model and grammar, in order to help the user acquire idiomatic expressions appropriate to the task.</Paragraph>
+</Section>
+</Paper>
+

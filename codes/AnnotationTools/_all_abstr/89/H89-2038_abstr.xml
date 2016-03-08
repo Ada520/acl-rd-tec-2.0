@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H89-2038">
+<Title>Large-Vocabulary Speaker-Independent Continuous Speech Recognition with Semi.Continuous Hidden Markov Models</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> A semi-continuous hidden Markov model based on the muluple vector quantization codebooks is used here for large.vocabulary speaker-independent continuous speech recognition in the techn,ques employed here. the semi-continuous output probab~hty densHy function for each codebook is represented by a comhinat,on of the corre,~ponding discrete output probablhttes of the hidden Markov model end the continuous Gauss,an den.</Paragraph>
+<Paragraph position="1"> stay functions of each individual codebook. Parameters of vec.</Paragraph>
+<Paragraph position="2"> tor qusnttzation codebook and hidden Markov model are mutuully optimized to achJeve an optimal model'codebook comb,nation under a untried probab,hshc framework Another advantages of thts approach is the enhanced robustness of the semi.</Paragraph>
+<Paragraph position="3"> continuous output probability by the combination of multiple codewords and multtple codebooks For a 1000.word speakermdependent continuous speech recognition using a word.pa,r grammar, the recogmtion error rate of the semi-conhnuouq bud.</Paragraph>
+<Paragraph position="4"> den Markov model was reduced by more than 29'~ and 41&amp;quot;3 in comparison to the discrete and continuous mixture htdden Mar.</Paragraph>
+<Paragraph position="5"> kay model respectively</Paragraph>
+</Section>
+</Paper>
+

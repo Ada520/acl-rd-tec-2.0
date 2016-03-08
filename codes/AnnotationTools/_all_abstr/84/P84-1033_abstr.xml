@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P84-1033">
+<Title>A Case Analysis Method Cooperating with ATNG and Its Application to Machine Translation Hitoshi IIDA, Kentaro OGURA and Hirosato NOMURA</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper present a new method for parsing English sentences. The parser called LUTE-EJ parser is combined with case analysis and ATNG-based analysis. LUTE-EJ parser has two interesting mechanical characteristics. One is providing a structured buffer, Structured Constituent Buffer, so as to hold previous fillers for a case structure, instead of case registers before a verb appears in a sentence.</Paragraph>
+<Paragraph position="1"> The other is extended HOLD mechanism(in ATN), in whose use an embedded clause, especially a &amp;quot;bedeleted&amp;quot; clause, is recursively analyzed by case analysis. This parser's features are (1)extracting a case filler, basically as a noun phrase, by ATNG-based analysis, including recursive case analysis, and (2)mixing syntactic and semantic analysis by using case frames in case analysis.</Paragraph>
+<Paragraph position="2"> I. Introduction In a lot of natural language processing including machine translation, ATNG-based analysis is a usual method, while case analysis is commonly employed for Japanese language processing.The parser described in this paper consists of two major parts.</Paragraph>
+<Paragraph position="3"> One is ATNG-based analysis for getting case elements and the other is case-analysis for getting a semantic clause analysis. LUTE-EJ parser has been implemented on an experimental machine translation system LUTE (Language Understander, Translator &amp; Editor) which can translate English into Japanese and vice versa. LUTE-EJ is the English-to-Japanece version of LUTE.</Paragraph>
+<Paragraph position="4"> In case analysis, two ways are generally used for parsing. One way analyzes a sentence from left to right, by using case registers. Case fillers which fill each case registers are major participants of constituents, for example SUBJECT, OBJECT, PP(Prepositional Phrase)'s and so on, in a sentence.</Paragraph>
+<Paragraph position="5"> In particular, before a verb appears, at least one participant(the subject) will be registered, for example, in the AGENT register.</Paragraph>
+<Paragraph position="6"> The other method has two phases on the analysis processing. In the first processing, phrases are extracted as case elements in order to fill the slots of a case frame. The second is to choose the adequate case element among the extracted phrases for a certain case slot and to continue this process for the other phrases and the other case slots. In this method, there are no special actions, i.e. no registering before a verb appears.(Winograd \[83\] ) English question-answering system PLANES (Waltz \[78\] ) uses a special kind of case frames, &amp;quot;concept case frames&amp;quot;. By using them, phrases in a sentence, which are described by using particular &amp;quot;subnets&amp;quot; and semantic features (for a plane type and so on), are gathered and an action of a requirement (a sentence) is constructed.</Paragraph>
+</Section>
+</Paper>
+

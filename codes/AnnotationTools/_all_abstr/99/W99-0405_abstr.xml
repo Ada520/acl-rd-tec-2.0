@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W99-0405">
+<Title>Modeling the language assessment process and result: Proposed architecture for automatic oral proficiency assessment</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We outline challenges for modeling human language assessment in automatic systems, both in terms of the process and the reliability of the result. We propose an architecture for a system to evaluate learners of Spanish via the Computerized Oral Proficiency Instrument, to determine whether they have 'reached' or 'not reached' the Intermediate Low level of proficiency, according to the American Council on the Teaching of Foreign Languages (ACTFL) Speaking Proficiency Guidelines. Our system divides the acoustic and non-acoustic features, incorporating human process modeling where permitted by the technology and required by the domain. We suggest machine learning techniques applied to this type of system permit insight into yet unarticulated aspects of the human rating process.</Paragraph>
+</Section>
+</Paper>
+

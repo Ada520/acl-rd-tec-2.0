@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C94-2205">
+<Title>Portuguese Analysis with Tree Adjoining Grammars</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> This article describes an experiment approaching syntactical analysis of l'ortuguese based on Tree Adjoining Grammars (TAGs) \[JOSltl 75\]. It briefly presents the TAG formalism, placing it among other description tbrmalisms used for natural language processing, and introduces a prototype which is being developed in order to validate application of this formalism to Portuguese language.</Paragraph>
+<Paragraph position="1"> The present work concerns sentence analysis at syntaclical level, which can be viewed as a process with two main ftmctions for natural language processing : the identification of the input components through association of tree structures to sentences, and regularization of the identified structure in order to minimize the number of trees for each sentence \[GR1StlMAN 86\].</Paragraph>
+<Paragraph position="2"> Although Context-Free Grammars (CFG) have been the most studied ones in order to describe natural language, purely context-fiee granlmars are not adequate for this description \[R/Ctt 91\].</Paragraph>
+<Paragraph position="3"> Context-Sensitive Grammars (CSG) are also used for description of natural languages, however they have not been proven to be a suitable tbmmlism ~br stating most grammatical constraints \[GRISHMAN 86\].</Paragraph>
+<Paragraph position="4"> /Z.~ Categorial Grammars (CG) seem to be a tendency for natural language description, including several related formalisms, all involved with the foundations of modern syntactic and semantics theories \[STEEDMAN 93\].</Paragraph>
+<Paragraph position="5"> Among the formalisms related to Categorial Grammars we can mention Tree Adjoining Grammars (TAGs) \[JOSHI 75\] \[JOSHI 85\], Lexical Functional Grammar \[BRESNAN 82\], Dependency Grammar \[HUDSON 82\] and Generalized Phrase Structure Grammar \[GAZDAR 85\]. These grammatical formalisms and linguistic theories are based on unification and specification of constraints for definition of the possible structures to be unified. This article is organized in four items. After a brief introduction, we present the Tree Adjoining Grammars formalism, describing its main components and operations, We comment our steps toward construction of a syntactical analyzer for Portuguese language and make some consideration about the prototype described.</Paragraph>
+</Section>
+</Paper>
+

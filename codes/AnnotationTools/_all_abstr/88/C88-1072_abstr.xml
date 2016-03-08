@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C88-1072">
+<Title>A News Analysis System</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a prototype news analysis system Which classifies and indexes news stories in real time. The system extracts stories from a newswire, parses the sentences of the story, and then maps the syntactic structures into a concept base. This process results in an index containing both ger~eral categories and specific details.</Paragraph>
+<Paragraph position="1"> Central to this system is a Government-Binding parser which processes each sentence of a news item. The system is completely modular and can be interfaced with different news feeds or concept bases.</Paragraph>
+</Section>
+</Paper>
+

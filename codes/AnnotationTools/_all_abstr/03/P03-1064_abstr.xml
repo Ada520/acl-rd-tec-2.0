@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P03-1064">
+<Title>A SNoW based Supertagger with Application to NP Chunking</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Supertagging is the tagging process of assigning the correct elementary tree of LTAG, or the correct supertag, to each word of an input sentence1. In this paper we propose to use supertags to expose syntactic dependencies which are unavailable with POS tags. We first propose a novel method of applying Sparse Network of Winnow (SNoW) to sequential models.</Paragraph>
+<Paragraph position="1"> Then we use it to construct a supertagger that uses long distance syntactical dependencies, and the supertagger achieves an accuracy of a2a4a3a6a5a8a7a10a9a12a11 . We apply the supertagger to NP chunking. The use of supertags in NP chunking gives rise to almost a9a12a11 absolute increase (from a2a4a3a6a5a14a13a16a15a16a11 to a2a4a3a6a5a17a2a4a18a16a11 ) in F-score under Transformation Based Learning(TBL) frame. The surpertagger described here provides an effective and efficient way to exploit syntactic information.</Paragraph>
+</Section>
+</Paper>
+

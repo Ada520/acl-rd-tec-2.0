@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P80-1001">
+<Title>ON THE SPATIAL USES OF PREPOSITIONS</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ON THE SPATIAL USES OF PREPOSITIONS
+</SectionTitle>
+<Paragraph position="0"></Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+Annette Herskovlts
+Linguistics Department, Stanford University
+</SectionTitle>
+<Paragraph position="0"> At first glance, the spatial uses of prepositions seem to constitute a good semantic domain for a computational approach. One expects such uses will refer more or less strictly to a closed, explicit, and precise chunk of world knowledge. Such an attitude Is expressed in the following statement: &amp;quot;Given descriptions of the shape of two objects, given their location (for example, by means ox coordinates in Some system of reference), and, In some cases, the location of an observer, one can select an appropriate preposition.&amp;quot; This paper shows the fallacy of this claim. It addresses the problem of interpreting and generating &amp;quot;locative predications&amp;quot; (expressions made up of two noun-phrases governed by a preposition used spatially). It identifies and describes a number of object characteristics beyond shape (section I) and contextual factors (section 2) which bear on these processes.</Paragraph>
+<Paragraph position="1"> Drawing on these descriptions, the third section proposes core meanings for two categories of prepositions, and describes some of the transfor~ttons these core meanings are subject to in context. The last section outlines the main directions of Inquiry suggested by the examples and observations in the paper.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

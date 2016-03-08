@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C94-1086">
+<Title>REFERRING TO WORLD OBJECTS WITH TEXT AND PICTURES</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+REFERRING TO WORLD OBJECTS WITH TEXT AND PICTURES
+</SectionTitle>
+<Paragraph position="0"> ABSTRACT: It oftcn makes sense to employ both text and pictures wheu referring to world objects. In this paper, we present a model for referring which is based on the assumption that concepts may be activated not only by Icxt, but also by pictures and tcxt-pieturc combiniltious. By means of a case study, we demouslrale that l'ailure aml success of referring acts can be cxplalncd by thc user's ability to infer ccrtaiu links between mental representations and object descriptions. Finally, we show how the model has been incorporated into a plan-t)ased multimedia prcseatation system by defiaiug operators lk)r concept activation.</Paragraph>
+</Section>
+</Paper>
+

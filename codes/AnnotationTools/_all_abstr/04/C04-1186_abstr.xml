@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1186">
+<Title>Semantic Role Labeling Using Dependency Trees</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, a novel semantic role labeler based on dependency trees is developed. This is accomplished by formulating the semantic role labeling as a classification problem of dependency relations into one of several semantic roles. A dependency tree is created from a constituency parse of an input sentence. The dependency tree is then linearized into a sequence of dependency relations. A number of features are extracted for each dependency relation using a predefined linguistic context. Finally, the features are input to a set of one-versus-all support vector machine (SVM) classifiers to determine the corresponding semantic role label. We report results on CoNLL2004 shared task data using the representation and scoring scheme adopted for that task.</Paragraph>
+</Section>
+</Paper>
+

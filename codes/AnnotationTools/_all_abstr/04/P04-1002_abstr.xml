@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P04-1002">
+<Title>Constructivist Development of Grounded Construction Grammars</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+SONY Computer Science Lab - Paris
+6 Rue Amyot, 75005 Paris steels@arti.vub.ac.be
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The paper reports on progress in building computational models of a constructivist approach to language development. It introduces a formalism for construction grammars and learning strategies based on invention, abduction, and induction. Examples are drawn from experiments exercising the model in situated language games played by embodied arti cial agents.</Paragraph>
+</Section>
+</Paper>
+

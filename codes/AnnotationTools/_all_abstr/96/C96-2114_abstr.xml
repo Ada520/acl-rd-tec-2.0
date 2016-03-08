@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-2114">
+<Title>Linguistic Indeterminacy as a Source of Errors in Tagging</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Most evaluations of part-of-speech tagging compare the utput of an automatic tagger to some established standard, define the differences as tagging errors and try to remedy them by, e.g., more training of the tagger. The present article is based on a manual analysis of a large number of tagging errors. Some clear patterns among the errors can be discerned, and the sources of the errors as well as possible alternative methods of remedy are presented and discussed. In particular are the problems with undecidable cases treated.</Paragraph>
+</Section>
+</Paper>
+

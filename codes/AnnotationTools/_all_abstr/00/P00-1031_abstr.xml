@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P00-1031">
+<Title>A New Statistical Approach to Chinese Pinyin Input</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Chinese input is one of the key challenges for Chinese PC users. This paper proposes a statistical approach to Pinyin-based Chinese input. This approach uses a trigram-based language model and a statistically based segmentation. Also, to deal with real input, it also includes a typing model which enables spelling correction in sentence-based Pinyin input, and a spelling model for English which enables modeless Pinyin input.</Paragraph>
+</Section>
+</Paper>
+

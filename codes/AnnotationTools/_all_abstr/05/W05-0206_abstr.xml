@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W05-0206">
+<Title>Automatic Essay Grading with Probabilistic Latent Semantic Analysis</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> (PLSA) is an information retrieval technique proposed to improve the problems found in Latent Semantic Analysis (LSA).</Paragraph>
+<Paragraph position="1"> We have applied both LSA and PLSA in our system for grading essays written in Finnish, called Automatic Essay Assessor (AEA). We report the results comparing PLSA and LSA with three essay sets from various subjects. The methods were found to be almost equal in the accuracy measured by Spearman correlation between the grades given by the system and a human. Furthermore, we propose methods for improving the usage of PLSA in essay grading.</Paragraph>
+</Section>
+</Paper>
+

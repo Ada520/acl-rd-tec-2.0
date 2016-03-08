@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-2206">
+<Title>A Method of Creating New Bilingual Valency Entries using Alternations</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a method that uses alternation data to add new entries to an existing bilingual valency lexicon. If the existing lexicon has only one half of the alternation, then our method constructs the other half. The new entries have detailed information about argument structure and selectional restrictions. In this paper we focus on one class of alternations, but our method is applicable to any alternation. We were able to increase the coverage of the causative alternation to 98%, and the new entries gave an overall improvement in translation quality of 32%.</Paragraph>
+</Section>
+</Paper>
+

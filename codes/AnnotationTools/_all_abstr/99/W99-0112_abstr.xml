@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W99-0112">
+<Title>Reference Hashed</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper argues for a novel data structure for the representation of discourse referents. A so-called hashing list is employed to store discourse referents according to their grammatical features. The account proposed combines insights from several theodes of discourse comprehension. Segmented Discourse Representation Theory (Asher, 1993) is enriched by the ranking system developed in centering theory (Grosz et al., 1995). In addition, a tree logic is used to represent underspecification within the discourse structure (Schilder, 1998).</Paragraph>
+</Section>
+</Paper>
+

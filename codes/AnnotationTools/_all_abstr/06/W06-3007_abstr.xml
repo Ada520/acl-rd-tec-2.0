@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-3007">
+<Title>User-Centered Evaluation of Interactive Question Answering Systems</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe a large-scale evaluation of four interactive question answering system with real users. The purpose of the evaluation was to develop evaluation methods and metrics for interactive QA systems. We present our evaluation method as a case study, and discuss the design and administration of the evaluation components and the effectiveness of several evaluation techniques with respect to their validity and discriminatory power.</Paragraph>
+<Paragraph position="1"> Our goal is to provide a roadmap to others for conducting evaluations of their own systems, and to put forward a research agenda for interactive QA evaluation.</Paragraph>
+</Section>
+</Paper>
+

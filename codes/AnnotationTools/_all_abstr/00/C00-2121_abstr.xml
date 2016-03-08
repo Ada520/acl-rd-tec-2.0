@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-2121">
+<Title>McMahon J.G., Smith F.J.: Improving Statistical Language Model Pelformance with Automatically Generated Word Ilierarchies.</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we address the problem of discovering word semantic similarities via statistical processing of text corpora. We propose a knowledge-poor method that exploits the sentencial context of words for extracting similarity relations between them as well as semantic in nature word clusters.</Paragraph>
+<Paragraph position="1"> The approach aims at full portability across domains and languages and therefore is based on minimal resources.</Paragraph>
+</Section>
+</Paper>
+

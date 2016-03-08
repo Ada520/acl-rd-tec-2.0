@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-2902">
+<Title>Porting Statistical Parsers with Data-Defined Kernels</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Previous results have shown disappointing performance when porting a parser trained on one domain to another domain where only a small amount of data is available.</Paragraph>
+<Paragraph position="1"> We propose the use of data-defined kernels as a way to exploit statistics from a source domain while still specializing a parser to a target domain. A probabilistic model trained on the source domain (and possibly also the target domain) is used to define a kernel, which is then used in a large margin classifier trained only on the target domain. With a SVM classifier and a neural network probabilistic model, this method achieves improved performance over the probabilistic model alone.</Paragraph>
+</Section>
+</Paper>
+

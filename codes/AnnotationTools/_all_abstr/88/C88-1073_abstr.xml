@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C88-1073">
+<Title>INSTANTIATIONS AND (OBLIGATORY VS. OPTIONAL) ACTANTS</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+INSTANTIATIONS AND (OBLIGATORY VS. OPTIONAL) ACTANTS
+</SectionTitle>
+<Paragraph position="0"> Abstract: A formalism for ~he representation of &amp;quot;semantic emphases&amp;quot; is introduced, using principal and accessory instantiatiQns. It m~es it possible to convert predicate expressions inbo network-like structures. As an application criteria for ooligatory and optional actants are dealt with.</Paragraph>
+<Paragraph position="1">  I. The formal framework - A set X of objects, denoted by x, y, Zo - A set E of events, states, actions, ..., denoted by el, e2, ....</Paragraph>
+<Paragraph position="2"> - A set L of places, denoted by 11, 12, .... - A set T of intervals (span~or moments) on the time axis, denoted by tl, t2, ....</Paragraph>
+<Paragraph position="3"> - A se~ of functions f1' f2' ..o, which are mappings between the sets X, E, L and T.</Paragraph>
+<Paragraph position="4"> - A se~ of relaUions in E, L and T as e. g. e I ~e 2 (e I is a partial event, ... of e2J 11 ~ 12, t I ~ t2, t I starts t2, t I finishes t 2 etco (Allen (1984); Bierwinch (1988) for the general framework). - Finally a set of primitive semantic predlcares BI, B2, .o., ~hat may have as arguments elements of X, L and T as well as propositions A, ioe. predicates B wluh their (aopropriate) arguments.</Paragraph>
+<Paragraph position="5">  While ~he elements of the first four sets have the character of variables, the functions, relations and predicates are fixed and interpreted in a characteristic way.</Paragraph>
+<Paragraph position="6"> We use here the following functions: loc(e) = l: The location of e is 1.</Paragraph>
+<Paragraph position="7"> ~ime(e) = t: The time of e is to If e is a path, one may define Init(e) = e' and fln(e) = e&amp;quot; (cf. Bierwisch 41988)). One has time(inlt(e)) starts time(e) etc.</Paragraph>
+<Paragraph position="8"> We will use the following predicates:</Paragraph>
+<Paragraph position="10"> On the basis of these formal components one has to give a definition of wellformed expressions. One needs furthermore an axiom system expressing the fundamental properties of the predicates. We skip this heredeg</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W96-0103">
+<Title>Hierarchical Clustering of Words and Application to NLP Tasks</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a data-driven method for hierarchical clustering of words and clustering of multiword compounds. A large vocabulary of English words (70,000 words) is clustered bottom-up, with respect to corpora ranging in size from 5 million to 50 million words, using mutual information as an objective function. The resulting hierarchical clusters of words are then naturally transformed to a bit-string representation of (i.e. word bits for) all the words in the vocabulary. Evaluation of the word bits is carried out through the measurement of the error rate of the ATR Decision-Tree Part-Of-Speech Tagger. The same clustering technique is then applied to the classification of multiword compounds. In order to avoid the explosion of the number of compounds to be handled, compounds in a small subclass are bundled and treated as a single compound. Another merit of this approach is that we can avoid the data sparseness problem which is ubiquitous in corpus statistics. The quality of one of the obtained compound classes is examined and compared to a conventional approach.</Paragraph>
+</Section>
+</Paper>
+

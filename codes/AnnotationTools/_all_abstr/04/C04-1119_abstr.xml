@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1119">
+<Title>Back Transliteration from Japanese to English Using Target English Context</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper proposes a method of automatic back transliteration of proper nouns, in which a Japanese transliterated-word is restored to the original English word. The English words are created from a sequence of letters; thus our method can create new English words that are not registered in dictionaries or English word lists. When a katakana character is converted into English letters, there are various candidates of alphabetic characters. To ensure adequate conversion, the proposed method uses a target English context to calculate the probability of an English character or string corresponding to a Japanese katakana character or string. We confirmed the effectiveness of using the target English context by an experiment of personal-name back transliteration. null</Paragraph>
+</Section>
+</Paper>
+

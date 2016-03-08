@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-0728">
+<Title>A Context Sensitive Maximum Likelihood Approach to Chunking</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> In Brill's (1994) groundbreaking work on parts-of-speech tagging, the starting point was to assign each word its most common tag. An extension to this first step is to utilize the lexical context (i.e., words and punctuation) surrounding the word. This approach could obviously be used for ordering tags into higher order units (referred to as chunks) using chunk :labels.</Paragraph>
+<Paragraph position="1"> This paper will investigate the performance of simply picking the most likely tag for a given context, under the condition that a larger context is allowed to override the most likely label of a smaller context. The results could be extended by secondary error correction as in Brill's tagger, but this exercise is left to the reader to allow us to concentrate on the performance based on storing and retrieving the most likely examples only.</Paragraph>
+<Paragraph position="2"> More sophisticated methods may' use more than one stored context to determine the label that best fits the current context (Van den Bosch and Daelemans, 1998; Zavrel and Daelemans, 1997; Skousen, 1989, inter al.). The method of this paper uses only one context to determine the best label, but may decrease the size of the context until a full match is found.</Paragraph>
+</Section>
+</Paper>
+

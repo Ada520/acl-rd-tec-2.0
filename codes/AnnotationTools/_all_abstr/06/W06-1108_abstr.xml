@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-1108">
+<Title>Evaluation of String Distance Algorithms for Dialectology</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We examine various string distance measures for suitability in modeling dialect distance, especially its perception. We find measures superior which do not normalize for word length, but which are are sensitive to order. We likewise find evidence for the superiority of measures which incorporate a sensitivity to phonological context, realized in the form of n-grams-although we cannot identify which form of context (bigram, trigram, etc.) is best.</Paragraph>
+<Paragraph position="1"> However, we find no clear benefit in using gradual as opposed to binary segmental difference when calculating sequence distances.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-0113">
+<Title>Sydney, July 2006. c(c)2006 Association for Computational Linguistics A SVM-based Model for Chinese Functional Chunk Parsing Yingze Zhao State Key Laboratory of Intelligent Technology and Systems</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Functional chunks are defined as a series of non-overlapping, non-nested segments of text in a sentence, representing the implicit grammatical relations between the sentence-level predicates and their arguments. Its top-down scheme and complexity of internal constitutions bring in a new challenge for automatic parser. In this paper, a new parsing model is proposed to formulate the complete chunking problem as a series of boundary detection sub tasks. Each of these sub tasks is only in charge of detecting one type of the chunk boundaries. As each sub task could be modeled as a binary classification problem, a lot of machine learning techniques could be applied.</Paragraph>
+<Paragraph position="1"> In our experiments, we only focus on the subject-predicate (SP) and predicate-object (PO) boundary detection sub tasks. By applying SVM algorithm to these sub tasks, we have achieved the best F-Score of 76.56% and 82.26% respectively.</Paragraph>
+</Section>
+</Paper>
+

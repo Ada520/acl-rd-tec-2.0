@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-2140">
+<Title>DIASUMM: Flexible Summarization of Spontaneous Dialogues in Unrestricted Domains</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we present a summa.rization system for spontaneous dialogues which consists of a novel multi-stage architectm'e. It is specifically aimed at addressing issues related to tlle nature of the l;exts being spoken vs. written and being diMogical vs.</Paragraph>
+<Paragraph position="1"> monologica.l. The system is embedded in a. graphical user interface ~md was developed and tested on transcripts of recorded telephone conversations in English and Spanish (CAI,LHOMI,;).</Paragraph>
+</Section>
+</Paper>
+

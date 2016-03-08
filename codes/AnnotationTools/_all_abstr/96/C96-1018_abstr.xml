@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-1018">
+<Title>Unsupervised Discovery of Phonological Categories through Supervised Learning of Morphological Rules</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe a case study in tit(', application of symbolic machinc learning techniques for the discow;ry of linguistic rules and categories. A supervised rule induction algorithm is used to learn to predict the. correct dimilmtive suffix given the phonological representation of Dutch nouns. The system produces rules which are comparable, to rules proposed by linguists, l,Slrthermore, in the process of learning this morphological task, the phonemes used are grouped into phonologically relevant categories. We discuss the relevance of our method for linguistics attd language technology.</Paragraph>
+</Section>
+</Paper>
+

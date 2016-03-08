@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P04-3020">
+<Title>Graph-based Ranking Algorithms for Sentence Extraction, Applied to Text Summarization</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents an innovative unsupervised method for automatic sentence extraction using graph-based ranking algorithms. We evaluate the method in the context of a text summarization task, and show that the results obtained compare favorably with previously published results on established benchmarks.</Paragraph>
+</Section>
+</Paper>
+

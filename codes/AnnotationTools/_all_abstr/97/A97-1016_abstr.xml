@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A97-1016">
+<Title>Automatic Acquisition of Two-Level Morphological Rules</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe and experimentally evaluate a complete method for the automatic acquisition of two-level rules for morphological analyzers/generators. The input to the system is sets of source-target word pairs, where the target is an inflected form of the source. There are two phases in the acquisition process: (1) segmentation of the target into morphemes and (2) determination of the optimal two-level rule set with minimal discerning contexts. In phase one, a minimal acyclic finite state automaton (AFSA) is constructed from string edit sequences of the input pairs. Segmentaiion of the words into morphemes is achieved through viewing the AFSA as a directed acyclic graph (DAG) and applying heuristics using properties of the DAG as well as the elementary edit operations. For phase two, the determination of the optimal rule set is made possible with a novel representation of rule contexts, with morpheme boundaries added, in a new DAG. We introduce the notion of a delimiter edge. Delimiter edges are used to select the correct two-level rule type as well as to extract minimal discerning rule contexts from the DAG. Results are presented for English adjectives, Xhosa noun locatives and Afrikaans noun plurals.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-0904">
+<Title>Comparison between Tagged Corpora for the Named Entity Task</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present two measures for comparing corpora based on infbrmation theory statistics such as gain ratio as well as simple term-class ~equency counts.</Paragraph>
+<Paragraph position="1"> We tested the predictions made by these measures about corpus difficulty in two domains -- news and molecular biology -- using the result of two well-used paradigms for NE, decision trees and HMMs and found that gain ratio was the more reliable predictor.</Paragraph>
+<Paragraph position="2"> made by these measures against actual system performance.</Paragraph>
+<Paragraph position="3"> Recently IE systems based on supervised learning paradigms such as hidden Markov models (Bikel et al., 1997), maximum entropy (Borthwick et al., 1998) and decision trees (Sekine et al., 1998) have emerged that should be easier to adapt to new domains than the dictionary-based systems of the past. Much of this work has taken advantage of smoothing techniques to overcome problems associated with data sparseness (Chen and Goodman, 1996).</Paragraph>
+<Paragraph position="4"> The two corpora we use in our NE experiments represent the following domains:</Paragraph>
+</Section>
+</Paper>
+

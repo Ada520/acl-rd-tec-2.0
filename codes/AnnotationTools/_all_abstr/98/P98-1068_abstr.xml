@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-1068">
+<Title>Japanese Morphological Analyzer using Word Co-occurrence -- JTAG- Takeshi FUCHI NTT Information and Communication Systems Laboratories</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We developed a Japanese morphological analyzer that uses the co-occurrence of words to select the correct sequence of words in an unsegmented Japanese sentence.</Paragraph>
+<Paragraph position="1"> The co-occurrence information can be obtained from cases where the system incorrectly analyzes sentences. As the amount of information increases, the accuracy of the system increases with a small risk of degradation. Experimental results show that the proposed system assigns the correct phonological representations to unsegmented Japanese sentences more precisely than do other popular systems.</Paragraph>
+<Paragraph position="2"> Introduction In natural language processing for Japanese text, morphological analysis is very important. Currently, there are two main methods for automatic part-of-speech tagging, namely, corpus-based and rule-based methods. The corpus-based method is popular for European languages.</Paragraph>
+<Paragraph position="3"> Samuelsson and Voutilainen (1997), however, show significantly higher achievement of a rule-based tagger than that of statistical taggers for English text. On the other hand, most Japanese taggers I are rule-based. In previous Japanese taggers, it was difficult to increase the accuracy of the analysis. Takeuchi and Matsumoto (1995) combined a rule-based and a corpus-based method, i In this paper, a tagger is identical to a morphological analyzer.</Paragraph>
+<Paragraph position="4"> resulting in a marginal increase in the accuracy of their taggers. However, this increase is still insufficient. The source of the trouble is the difficulty in adjusting the grammar and parameters. Our tagger is also rule-based. By using the co-occurrence of words, it reduces the difficulty and generates a continuous increase in its accuracy. The proposed system analyzes unsegmented Japanese sentences and segments them into words. Each word has a part-of-speech and phonological representation. Our tagger has the co-occurrence information of words in its dictionary. The information can be adjusted concretely by hand in each case of incorrect analysis. Concrete adjustment is different from detailed adjustment. It must be easy to understand for people who make adjustments to the system. The effect of one adjustment is concrete but small. Therefore, much manual work is needed. However, the work is so simple and easy.</Paragraph>
+<Paragraph position="5"> Section 1 shows the drawbacks to previous systems. Section 2 describes the outline of the proposed system. In Section 3, the accuracy of the system is compared with that of others. In addition, we show the change in the accuracy while the system is being adjusted.</Paragraph>
+</Section>
+</Paper>
+

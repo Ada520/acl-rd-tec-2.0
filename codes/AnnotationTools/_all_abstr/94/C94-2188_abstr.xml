@@ -1,0 +1,58 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C94-2188">
+<Title>Centering in Japanese: A Step Towards Better Interpretation of Pronouns and Zero-Pronouns</Title>
+<Section position="2" start_page="0" end_page="1752" type="abstr">
+<SectionTitle>
+2 The Center List Model
+</SectionTitle>
+<Paragraph position="0"> In this section, centering is cxtcndc'd to handle mult,il)Ic ZI~I!O-I)I'OIIOIIIlS ~ ~llld l, hcll \['url, her exl, cnd0d to handle over(, pronouns. Finally, the ordering; ot'm&gt; t.ities for showing the degree of salience is &amp;mcril)ed.</Paragraph>
+<Section position="1" start_page="0" end_page="1752" type="sub_section">
+<SectionTitle>
+2.1 Zero-Pronouns
+</SectionTitle>
+<Paragraph position="0"> In Kameyama's account, only one zero-pronoun encodes the Cb, and any otl~er zero-pronouns become Cfs, just as if they had been overtly expressed in the sentence. In other words, when there are multiple zero-pronouns, only one of the zero-pronouns has any significance, and ally other zero-pronoun might as well have been overtly expressed.</Paragraph>
+<Paragraph position="1"> But, because entities become zero-pronouns in order to avoid unnaturalness due to redundancy, zero-pronouns can be said to be salient enough to be understood without being overt. Iu effect, this means that a greater amount of attention is placed on them than entities that were overtly expressed. This is shown through an example.</Paragraph>
+<Paragraph position="2"> Taking her approach, some simple extensions are made to see how well the ordering of entities in centering would work for multiple zero-pronouns. First, the antecedent for the Cb-eueoding zero-pronoun is chosen.as shown in \[Kameyama 85\]. Basically, this consists of choosing the entity with the highest degree of salience in the previous sentence. Then, the next most salient zero-pronoun according to the ordering of degrees of salience given in the previous section is considered. The antecedent for this zero-pronoun is the most salient entity fi'om the previous sentence which will not contradict any possible constraints. At this point, we only consider semantic constraints for excluding such sentences as &amp;quot;The desk ate fish&amp;quot; and contra-index constraints for excluding such sentences as &amp;quot;Jack ate Jack.&amp;quot; Any other zero-pronouns are handled in tile same manner. For example, the following discourse is examinedl:  In sentence (1), tile Cfs are ordered as Taro &gt; Jiro, since Topic is the most salient entity. In sentence (2), the entity with the highest degree of salience fi'o,n the previous sentence (Taro) is chosen as tile zeropronoun's antecedent, and becomes the Cb, with Saburo becoming a Cf. In tile third sentence, after Taro is chosen as the subject of the sentence, since there is only Saburo left,, Saburo becomes the antecedent of tile object zero-pronoun, assuming that there is some sort of knowledge preventing Taro from becoming the object.</Paragraph>
+<Paragraph position="3"> After sentence (3), the ordering of noun phrases would be as follows: Taro (Cb) &gt; Jiro (Cf- Obj2) = Saburo (Cf- Oh j) This means that sentence (4) is ambiguous, having tile following possible interpretations:  (a) Taro invited Jiro to the meal.</Paragraph>
+<Paragraph position="4"> (b) Taro invited Saburo to the rneal.</Paragraph>
+<Paragraph position="5">  But, the preferred meaning is (b). So, this would mean that the ordering should be as follows: Taro &gt; Eaburo &gt; Jiro This example shows that when trying to interpret more than one zero-pronoun, the ordering of noun phrases according to Kameyama's acconnt may not be optimal. Of course, this can be rectified by changing the ordering of the degree of salience so that Object is higher than Object2, and as noted later in the paper this will actually take place. But, suppose sen- null tence (3) in Example 2 is replaced with the following sentence: (3') q5 '-b Jiro we shoukaishita.</Paragraph>
+<Paragraph position="6"> Sub Obj2 airo Obj introduced (Ta,,) i,,.t,~od,,ce~ ai,'o (to S,,b,,,'o).</Paragraph>
+<Paragraph position="7"> Even in this case, the interpretation of sentence (4) would not change 2. So, the ordering of zero- null pronoun not being optimal, i.e. that zero-pronouns are more likely to become zero-pronouns again than overt noun phrases, would seeln to be the more logical choice.</Paragraph>
+<Paragraph position="8"> So, we propose that &amp;quot;entities that have become zero-pronouns are more centered in tile discourse than those that have been overtly expressed.&amp;quot; Therefore, tile centering model has been extended to tile following two lists to handle entities (noun phrases) that appear in a sentence: ~Althougb it should be noted that it doesn't seem to be ,as strongly preferred as before.</Paragraph>
+<Paragraph position="9">  (1) Center List . .. Entities in asentence that have becolne zero-\])rOllOtlns.</Paragraph>
+<Paragraph position="10"> (2) Possible Center List; *.. Entities in a sentence. that were overtly exl)ressed.</Paragraph>
+</Section>
+<Section position="2" start_page="1752" end_page="1752" type="sub_section">
+<SectionTitle>
+2.2 Pronouns
+</SectionTitle>
+<Paragraph position="0"> In Japanese, both overt and elided t)ronondnal forms exist. The elided l)rOl,Ominal forl'Ll (zeropronoun) was discussed in the previous subsection.</Paragraph>
+<Paragraph position="1"> In this subsection, we will show how pronouns are handled within tile proposed nlodel.</Paragraph>
+<Paragraph position="2"> ill Kanleyatnlat~s acco/lnt, \])ronollltS do ltot elicode Cbs and can only become C\[~s. If overt pronouns are treated as entities that were overtly expressed (i.e. put in the Possibh'. Center I,ist), the \[blk)wing example will not l)e interpreted correctly a.</Paragraph>
+<Paragraph position="3">  l'~xanq)le 2: (1) Taro wa Jiro to hatnatshiteitat.</Paragraph>
+<Paragraph position="4"> Taro 'l'op/Sub Jiro with talking &amp;quot;l'(Iro was lalL&amp;quot;~ng wilh Jiro.</Paragraph>
+<Paragraph position="5"> CL:. -, 1)(211,:'l'atro &gt; 3ire (2) (it \[lanatko we nfikaketa.</Paragraph>
+<Paragraph position="6"> Sub llatnako ()bj saw (Taro) saw llaua,(:o.</Paragraph>
+<Paragraph position="7"> eL: 'l'aro, PCI,: llanako (3) ~ 3ire ni kaatojo nituite hanashita.</Paragraph>
+<Paragraph position="8"> Sub 3iroObj2 her about talked (7'are) lalked to Jiro abottl hcr (Ilanako). CL: Taro, PCI,: Jiro &gt; llauako (4) (l~ C/l) Suki naatodcarl,.</Paragraph>
+<Paragraph position="9"> Sub Obj like is ('/'.,',,) li~:~.,~ (Ha,,,~o).</Paragraph>
+<Paragraph position="10">  If this example is interl)reted with tit(', antecedent of kanojo (her) in sentence (3) in the Possible (.:eatter List, then tile interpretation would be 'Tatro likes 3iro.' \[n order to obtain the preferred interpretation, the ordering of noun phrases should be as follows: Taro &gt; llauako &gt; .lifo 'l'his example shows that pronoul,s are not n(~ccssadly at the same level as with other overt noun phrases. Ill other words, prollouns atre atl. at. level of attention higher than 'ordinary' noun phrases. This is especially true when considering tile fact that prollOllIIS are used to preven\[; nnl/aturathless dllc l.o redundancy, just as zero-prononiis are used. a'CL' strums for Center 1,ist., alld '|)('1,' stands for Possible Center Lisl,.</Paragraph>
+<Paragraph position="11"> So, we propose that pronouns be interl)reted at the same level as zero-pronouns as follows: C(mter List Model The entities in a sentence llelong to one of tile tbllowing two lists:  (1) CeilteF List ... l';ntities that have.</Paragraph>
+<Paragraph position="12"> become zeroq)ronouns or overt l)rc ~ notlns.</Paragraph>
+<Paragraph position="13"> (2) Possible Center List ... Entities  that were overtly expressed but ~tre not in the Center List.</Paragraph>
+<Paragraph position="14"> Entities ill the Center l,ist are more salient than those in the l)ossihle Center List, with tile exception of '\['opic.</Paragraph>
+<Paragraph position="15"> The exceptkm will be touched nllon in the next sub-. section.</Paragraph>
+</Section>
+<Section position="3" start_page="1752" end_page="1752" type="sub_section">
+<SectionTitle>
+2.3 Ordering by Salience
+</SectionTitle>
+<Paragraph position="0"> Next comes the problenl of ordering witl,in the Center l,ist and the Possible Center List. in other words, the difference in salience between pronouns (zero and ow;rt) and 'ordinary' noun phrases is shown by the Center List and the Possible Center last. l,'ntities in the Center List are lnore sMient than those in the Possible Center List. But, what about t, tl&lt;&amp;quot; difference ill salie.nce within each list? In our model, the ordering is as follows:  The tirst line shows tile ordering of grammatical functions of the main verh. This line is basically the same as l(ameyama's ordering, except that Object is deemed to be more salient than Object2. This was because, after making some prelhninary evaluations of our model, Object was Rmnd to have at slightly higher degree of salience than Object2.</Paragraph>
+<Paragraph position="1"> The following two lines are for ally entities that atpl)car in subordinate (:l~mses. '\['here doesn't seem to be at clear cut difference between the Subject, Object, and Obje.ct2 of subordinatte clauses, so they are Ilcmdled at the same level. The difference between the lnain clause and any sul)ordinate clauses captures the intuition that entities in the main chmse are. more s~dient than those in subordinate ones.</Paragraph>
+<Paragraph position="2"> There is one exception to the Center List Model.</Paragraph>
+<Paragraph position="3"> It is tile salience of the Topic in the Possible Center  List. As can be surmised from the term itself, tim 'Fopie is special in that the sentence contains information about the entity corresponding to the Topic. In other words, the sentence is usually about the 3bpicalized entity. So, it was placed at. the same level as the Object in the Center List.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

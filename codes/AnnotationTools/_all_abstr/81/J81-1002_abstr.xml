@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J81-1002">
+<Title>Computer Generation of Multiparagraph English Text 1</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+SCHOLAR:
+*TELL ME ABOUT THE LOCATION OF URUGUAY.*
+THE LOCATION IN URUGUAY IS SOUTH AMERICA.
+THE LATITUDE RANGES FROM -30 TO -35 DEGREES.
+THE LONGITUDE RANGES FROM -53 TO -58 DEGREES.
+THE NORTHERN AND EASTERN BORDERING COUNTRY IS BRAZIL.
+THE WESTERN BORDERING COUNTRY IS ARGENTINA.
+THE BOUNDARY IS THE URUGUAY RIVER.
+THE SOUTHEASTERN COAST IS THE ATLANTIC OCEAN.
+THE SOUTHERN COAST IS THE RIO DE LA PLATA.
+SAM:
+</SectionTitle>
+<Paragraph position="0"> John decided he wasgoing to a restaurant. He went to one.</Paragraph>
+<Paragraph position="1"> He asked the hostess for a table. She told him he could go to it. He went to it. She went to it. He sat down in a chair. He got a menu from her. He read it. A waiter saw John was at the table. The waiter went to it. John ordered a lobster. A chef cooked it. The waiter got it from the chef. The waiter served it to John quickly. He ate it. He asked the waiter for a check. John got it from the waiter. John remembered the waiter had served the lobster to him quickly. John left the waiter a large tip.</Paragraph>
+<Paragraph position="2"> John paid the check. He left the restaurant.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-0403">
+<Title>Numbat: Abolishing Privileges when Licensing New Constituents in Constraint-oriented Parsing</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The constraint-oriented approaches to language processing step back from the generative theory and make it possible, in theory, to deal with all types of linguistic relationships (e.g. dependency, linear precedence or immediate dominance) with the same importance when parsing an input utterance. Yet in practice, all implemented constraint-oriented parsing strategies still need to discriminate between &amp;quot;important&amp;quot; and &amp;quot;not-so-important&amp;quot; types of relations during the parsing process.</Paragraph>
+<Paragraph position="1"> In this paper we introduce a new constraint-oriented parsing strategy based on Property Grammars, which overcomes this drawback and grants the same importance to all types of relations.</Paragraph>
+</Section>
+</Paper>
+

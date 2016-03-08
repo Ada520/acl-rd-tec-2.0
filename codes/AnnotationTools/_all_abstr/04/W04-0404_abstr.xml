@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-0404">
+<Title>Translation by Machine of Complex Nominals: Getting it Right</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a method for compositionally translating noun-noun (NN) compounds, using a word-level bilingual dictionary and syntactic templates for candidate generation, and corpus and dictionary statistics for selection. We propose a support vector learning-based method employing target language corpus and bilingual dictionary data, and evaluate it over a Englisha0 Japanese machine translation task.</Paragraph>
+<Paragraph position="1"> We show the proposed method to be superior to previous methods and also robust over low-frequency NN compounds.</Paragraph>
+</Section>
+</Paper>
+

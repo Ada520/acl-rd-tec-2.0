@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-1405">
+<Title>DTD-Driven Bilingual Document Generation ...... ,Arantza Casillas ..... Departamento de Automgtica, Universidad de Alcalgt e-mail : arantza@aut, alcaia, es</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Extensively annotated bilingual parallel corpora can be exploited to feed editing tools that integrate the processes of document composition and translation. Here we discuss the architecture of an interactive editing tool that, on top of techniques common to most Translation Memory-based systems, applies the potential of SGML's DTDs to guide the process of bilingual document generation. Rather than employing just simple task-oriented mark-up, we selected a set of TEI's highly complex and versatile collection of tags to help disclose the underlying logical structure of documents in the test-corpus.</Paragraph>
+<Paragraph position="1"> DTDs were automatically induced and later integrated in the editing tool to provide the basic scheme for new documents.</Paragraph>
+</Section>
+</Paper>
+

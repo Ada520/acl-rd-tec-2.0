@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1019">
+<Title>Speech Recogniser Natural Language Semantic Parser Dialogue Manager Natural Language Generator Speech synthesiser Database</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A dialogue manager provides the decision making at the heart of a spoken dialogue system. In an object-oriented approach to dialogue management, generic behaviour, such as confirming new or modified information that has been supplied by the user, is inherited by more specialised classes. These specialised classes either encapsulate behaviour typical of a particular business domain (service agents) or make available dialogue abilities that may be required in many business domains (support agents). In this paper we consider the interplay between the agents' generic and specialised behaviour and consider the manner in which service and support agents collaborate within and across their respective groups.</Paragraph>
+</Section>
+</Paper>
+

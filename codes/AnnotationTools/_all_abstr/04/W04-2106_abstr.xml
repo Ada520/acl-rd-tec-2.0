@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-2106">
+<Title>Building a Graphetic Dictionary f Character Look Up Based on Brush Str the Display of Kanji as P</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Reading and writing Japanese isn't easy for Japanese and foreigners alike. While Japanese learn these skills at school, foreigners should be helped by good teaching material and dictionaries.</Paragraph>
+<Paragraph position="1"> Kanji lexica have to be very different from other dictionaries. Unfortunately existing lexica normally expect that the users already have a lot of information on a character to look it up--the character's stroke count, its radical or its pronunciation. Beginners normally don't have such information.</Paragraph>
+<Paragraph position="2"> This project creates data to allow for easier and more flexible look up of Japanese characters and to build better teaching material. It develops different approaches to make use of this data.</Paragraph>
+<Paragraph position="3">  kanji contains too little information on how kanji are actually written. This concerns for example correct stroke order, stroke directions, possible glyph variations or kanji components. null</Paragraph>
+</Section>
+</Paper>
+

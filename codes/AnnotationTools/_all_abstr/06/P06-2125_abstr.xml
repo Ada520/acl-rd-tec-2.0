@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P06-2125">
+<Title>Sydney, July 2006. c(c)2006 Association for Computational Linguistics An HMM-Based Approach to Automatic Phrasing for Mandarin Textto-Speech Synthesis</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Automatic phrasing is essential to Mandarin text-to-speech synthesis. We select word format as target linguistic feature and propose an HMM-based approach to this issue. Then we define four states of prosodic positions for each word when employing a discrete hidden Markov model. The approach achieves high accuracy of roughly 82%, which is very close to that from manual labeling.</Paragraph>
+<Paragraph position="1"> Our experimental results also demonstrate that this approach has advantages over those part-ofspeech-based ones.</Paragraph>
+</Section>
+</Paper>
+

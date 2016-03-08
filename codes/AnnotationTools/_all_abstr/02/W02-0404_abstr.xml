@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-0404">
+<Title>Revisions that Improve Cohesion in Multi-document Summaries: A Preliminary Study</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Extractive summaries produced from multiple source documents suffer from an array of problems with respect to text cohesion. In this preliminary study, we seek to understand what problems occur in such summaries and how often. We present an analysis of a small corpus of manually revised summaries and discuss the feasibility of making such repairs automatically. Additionally, we present a taxonomy of the problems that occur in the corpus, as well as the operators which, when applied to the summaries, can address these concerns. This study represents a first step toward identifying and automating revision operators that could work with current summarization systems in order to repair cohesion problems in multi-document summaries.</Paragraph>
+</Section>
+</Paper>
+

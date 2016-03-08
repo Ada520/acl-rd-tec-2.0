@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J85-1001">
+<Title>A SURVEY OF MACHINE TRANSLATION: ITS HISTORY, CURRENT STATUS, AND FUTURE PROSPECTS</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+A SURVEY OF MACHINE TRANSLATION:
+ITS HISTORY, CURRENT STATUS,
+AND FUTURE PROSPECTS
+</SectionTitle>
+<Paragraph position="0"></Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+Jonathan Sloculn
+Microelectronics and Computer
+Technology Corporation
+Austin, Texas
+</SectionTitle>
+<Paragraph position="0"> Elements of the history, state of the art, and probable future of Machine Translation (MT) are discussed. The treatment is largely tutorial, based on the assumption that this audience is, for the most part, ignorant of matters pertaining to translation in general, and MT in particular. The paper covers some of the major MT R&amp;D groups, the general techniques they employ(ed), and the roles they play(ed) in the development of the field. The conclusions concern the seeming permanence of the translation problem, and potential re-integration of MT with mainstream Computational Linguistics.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

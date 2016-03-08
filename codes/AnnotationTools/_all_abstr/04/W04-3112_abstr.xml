@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-3112">
+<Title>Mork</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Researchers in the biomedical and molecular biology fields are faced with a wide variety of information sources. These are presented in the form of images, free text, and structured data files that include medical records, gene and protein sequence data, and whole genome microarray data, all gathered from a variety of experimental organisms and clinical subjects.</Paragraph>
+<Paragraph position="1"> The need to organize and relate this information, particularly concerning genes, has motivated the development of resources, such as the Unified Medical Language System, Gene Ontology, LocusLink, and the Online Inheritance In Man (OMIM) database. We describe a natural language processing application to extract information on genes from unstructured text and discuss ways to integrate this information with some of the available online resources.</Paragraph>
+</Section>
+</Paper>
+

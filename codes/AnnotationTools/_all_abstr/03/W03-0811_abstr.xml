@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-0811">
+<Title>ing in Language Generation: An Abstract Reference</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Modern dialog and information systems are increasingly based on distributed component architectures to cope with all kinds of heterogeneity and to enable flexible re-use of existing software components. This contribution presents the MULTIPLATFORM testbed as a powerful framework for the development of integrated multimodal dialog systems. The paper provides a general overview of our approach and explicates its foundations. It describes advanced sample applications that have been realized using the integration platform and compares our approach to related works.</Paragraph>
+</Section>
+</Paper>
+

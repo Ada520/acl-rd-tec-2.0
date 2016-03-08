@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P03-1017">
+<Title>Constructing Semantic Space Models from Parsed Corpora</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Traditional vector-based models use word co-occurrence counts from large corpora to represent lexical meaning. In this paper we present a novel approach for constructing semantic spaces that takes syntactic relations into account. We introduce a formalisation for this class of models and evaluate their adequacy on two modelling tasks: semantic priming and automatic discrimination of lexical relations.</Paragraph>
+</Section>
+</Paper>
+

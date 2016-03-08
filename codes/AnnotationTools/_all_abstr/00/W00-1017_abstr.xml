@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-1017">
+<Title>WIT: A Toolkit for Building Robust and Real-Time Spoken Dialogue Systems</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes WI'I; a toolkit for building spoken dialogue systems.</Paragraph>
+<Paragraph position="1"> WIT features an incremental understanding mechanism that enables robust utterance understanding and real-time responses. WIT's ability to compile domain-dependent system specifications into internal knowledge sources makes building spoken dialogue systems much easier than :it is from scratch.</Paragraph>
+</Section>
+</Paper>
+

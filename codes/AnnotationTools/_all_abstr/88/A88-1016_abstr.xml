@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A88-1016">
+<Title>I \] \[ Generation of LPC frames \] \['Advertising-Style ProsodyJ I LPC Frames</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> In this paper we introduce MULTIVOC, a real-world text-to-speech product geared to the French language.</Paragraph>
+<Paragraph position="1"> Starting from a ordinary French text, MULTIVOC generates in real-time a high quality speech using a synthesis-by-diphone method. The processing is divided into 3 main transformations (phonetization, automatic prosody and rhythm marking, and generation of LPC frames).</Paragraph>
+<Paragraph position="2"> This paper provides a full description of MULTIVOC including not only the technical view but also some applications of the product within the real world.</Paragraph>
+</Section>
+</Paper>
+

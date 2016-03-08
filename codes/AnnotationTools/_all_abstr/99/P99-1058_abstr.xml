@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P99-1058">
+<Title>A semantically-derived subset of English for hardware verification</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> To verify hardware designs by model checking, circuit specifications are commonly expressed in the temporal logic CTL. Automatic conversion of English to CTL requires the definition of an appropriately restricted subset of English. We show how the limited semantic expressibility of CTL can be exploited to derive a hierarchy of subsets. Our strategy avoids potential difficulties with approaches that take existing computational semantic analyses of English as their starting point--such as the need to ensure that all sentences in the subset possess a CTL translation.</Paragraph>
+</Section>
+</Paper>
+

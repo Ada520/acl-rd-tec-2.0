@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P04-3010">
+<Title>Part-of-Speech Tagging Considering Surface Form for an Agglutinative Language</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The previous probabilistic part-of-speech tagging models for agglutinative languages have considered only lexical forms of morphemes, not surface forms of words. This causes an inaccurate calculation of the probability. The proposed model is based on the observation that when there exist words (surface forms) that share the same lexical forms, the probabilities to appear are different from each other. Also, it is designed to consider lexical form of word. By experiments, we show that the proposed model outperforms the bigram Hidden Markov model (HMM)-based tagging model.</Paragraph>
+</Section>
+</Paper>
+

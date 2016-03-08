@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-0730">
+<Title>Use of ',Support Vector Learning for Chunk Identification</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> In this paper, we explore the use of Support Vector Machines (SVMs) for CoNLL-2000 shared task, chunk identification. SVMs are so-called large margin classifiers and are well-known as their good generalization performance. We investigate how SVMs with a very large number of features perform with the classification task of chunk labelling.</Paragraph>
+</Section>
+</Paper>
+

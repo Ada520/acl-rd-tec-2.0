@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-1502">
+<Title>The TreeBanker: a Tool for Supervised Training of Parsed Corpora</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> I describe the TreeBanker, a graphical tool for the supervised training involved in domain customization of the disambiguation component of a speech- or language-understanding system. The TreeBanker presents a user, who need not be a system expert, with a range of properties that distinguish competing analyses for an utterance and that are relatively easy to judge. This allows training on a corpus to be completed in far less time, and with far less expertise, than would be needed if analyses were inspected directly: it becomes possible for a corpus of about 20~000 sentences of the complexity of those in the ATIS corpus to be judged in around three weeks of work by a linguistically aware non-expert.</Paragraph>
+</Section>
+</Paper>
+

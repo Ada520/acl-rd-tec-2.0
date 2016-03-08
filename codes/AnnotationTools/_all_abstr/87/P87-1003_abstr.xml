@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P87-1003">
+<Title>the Report Time): IF Tense=present AND Taxis/non-perfect THEN coincide(Event Time, Report Time) IF Tense=past AND Taxis/non-perfect</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> The PUNDIT system processes natural language descriptions of situations and the intervais over which they hold using an algorithm that integrates ~peet and ~en~e \[ogle. It analyzes the tense and aspect of the real- verb to generate representations of three types of situations-states, processes and events-- and to locate the situations with respect to the time at which the text was produced. Each situation type has a distinct temporal structure, represented in terms of one or more intervals. Further, every interval has two features whose different values capture the aspectual differences between the three different situation types. Capturing these differences makes it possible to represent very precisely the times for which predications are asserted to hold.</Paragraph>
+</Section>
+</Paper>
+

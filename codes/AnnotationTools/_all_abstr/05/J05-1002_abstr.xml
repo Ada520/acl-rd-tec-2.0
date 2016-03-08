@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J05-1002">
+<Title>Squibs and Discussions Real versus Template-Based Natural Language Generation: A False Opposition?</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> Natural language generation (NLG) systems are sometimes partitioned into application-dependent systems which lack a proper theoretical foundation, on the one hand, and theoretically well-founded systems which embody generic linguistic insights, on the other. Template-based systems are often regarded as automatically falling into the first category. We argue against this view. First, we describe the received view of both template-based and ''standard'' NLG systems (section 2). Then we describe a class of recent template-based systems (section 3) that will serve as a basis for a comparison between template-based and other NLG systems with respect to their potential for performing NLG tasks (section 4). We ask what the real difference between template-based and other systems is and argue that the distinction between the two is becoming increasingly blurred (section 5). Finally, we discuss the implications of engineering shortcuts (Mellish 2000) and corpus-based methods (section 6).</Paragraph>
+</Section>
+</Paper>
+

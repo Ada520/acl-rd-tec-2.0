@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W01-1607">
+<Title>Comparing Several Aspects of Human-Computer and Human-Human Dialogues</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> While researchers have many intuitions about the di erences between human-computer and human-human interactions, most of these have not previously been subject to empirical scrutiny. This work presents some initial experiments in this direction, with the ultimate goal being to use what we learn to improve computer dialogue systems. Working with data from the air travel domain, we identi ed a number of striking differences between the human-human and human-computer interactions.</Paragraph>
+</Section>
+</Paper>
+

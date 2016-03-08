@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P04-3024">
+<Title>A New Feature Selection Score for Multinomial Naive Bayes Text Classification Based on KL-Divergence</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We define a new feature selection score for text classification based on the KL-divergence between the distribution of words in training documents and their classes. The score favors words that have a similar distribution in documents of the same class but different distributions in documents of different classes. Experiments on two standard data sets indicate that the new method outperforms mutual information, especially for smaller categories.</Paragraph>
+</Section>
+</Paper>
+

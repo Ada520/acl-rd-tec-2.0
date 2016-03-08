@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A97-1026">
+<Title>An Automatic Scoring System For Advanced Placement Biology Essays</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a prceXype for automatically scoring College Board Advanced Placement (AP) Biology essays. I. The scoring technique used in this study was based on a previous method used to score sentence-length responses (Burstein, et al, 1996). One hundred training essays were used to build an example-based lexicon and concept granunars. The prototype accesses information from the lexicon and concept grammars to score essays by assigning a classification of Excellent or Poor based on the number of points assigned during scoring. Final computer-based essay scores are based on the system's recognition of conceptual information in the essays. Conceptual analysis in essays is essential to provide a classification based on the essay content. In addition, computer-generated information about essay content can be used to produce diagnostic feedback. The set of essays used in this study had been scored by human raters. The results reported in the paper show 94% agreement on exact or adjacent scores between human rater scores and computer-hased scores for 105 test essays. The methods underlying this application could be used in a number of applications involving rapid semantic analysis of textual materials, especially with regard to scientific or other technical text.</Paragraph>
+</Section>
+</Paper>
+

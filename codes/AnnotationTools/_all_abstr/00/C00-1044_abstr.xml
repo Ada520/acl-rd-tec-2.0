@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-1044">
+<Title>Effects of Adjective Orientation and Gradability on Sentence Subjectivity</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Subjectivity is a pragmatic, sentence-level feature that has important implications for texl processing applicalions such as information exlractiou and information iclricwd. We study tile elfeels of dymunic adjectives, semantically oriented adjectives, and gradable ad.ieclivcs on a simple subjectivity classiiicr, and establish lhat lhcy arc strong predictors of subjectivity. A novel trainable mclhod thai statistically combines two indicators of gradability is presented and ewlhlalcd, complementing exisling automatic Icchniques for assigning orientation labels.</Paragraph>
+</Section>
+</Paper>
+

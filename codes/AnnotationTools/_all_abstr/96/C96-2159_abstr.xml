@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-2159">
+<Title>Decision Tree Learning Algorithm with Structured Attributes: Application to Verbal Case Frame Acquisition</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The Decision Tree Learning Algorithms (DTLAs) are getting keen attention from the natural language processing research comlnunity, and there have been a series of attempts to apply them to verbal case frame acquisition. However, a DTLA cannot handle structured attributes like nouns, which are classified under a thesaurus. In this paper, we present a new DTLA that can rationally handle the structured attributes. In the process of tree generation, the algorithm generalizes each attribute optimally using a given thesaurus. We apply this algorithm to a bilingual corpus and show that it successfiflly learned a generalized decision tree for classifying the verb &amp;quot;take&amp;quot; and that the tree was smaller with more prediction power on the open data than the tree learned by the conventional DTLA.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W99-0608">
+<Title>Improving POS Tagging Using Machine-Learning Techniques</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we show how machine learning techniques for constructing and combining several classifiers can be applied to improve the accuracy of an existing English POS tagger (MSxquez and Rodrfguez, 1997). Additionally, the problem of data sparseness is also addressed by applying a technique of generating convez pseudo-data (Breiman, 1998). Experimental results and a comparison to other state-of-the-art tuggers are reported.</Paragraph>
+</Section>
+</Paper>
+

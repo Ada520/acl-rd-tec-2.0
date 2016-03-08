@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-1724">
+<Title>Integrating Ngram Model and Case-based Learning For Chinese Word Segmentation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents our recent work for participation in the First International Chinese Word Segmentation Bakeoff (ICWSB-1). It is based on a general-purpose ngram model for word segmentation and a case-based learning approach to disambiguation. This system excels in identifying in-vocabulary (IV) words, achieving a recall of around 96-98%.</Paragraph>
+<Paragraph position="1"> Here we present our strategies for language model training and disambiguation rule learning, analyze the system's performance, and discuss areas for further improvement, e.g., out-of-vocabulary (OOV) word discovery.</Paragraph>
+</Section>
+</Paper>
+

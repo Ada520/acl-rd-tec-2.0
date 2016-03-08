@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P05-3028">
+<Title>A Flexible Stand-Off Data Model with Query Language for Multi-Level Annotation</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present an implemented XML data model and a new, simplified query language for multi-level annotated corpora. The new query language involves automatic conversion of queries into the underlying, more complicated MMAXQL query language.</Paragraph>
+<Paragraph position="1"> It supports queries for sequential and hierarchical, but also associative (e.g. coreferential) relations.</Paragraph>
+<Paragraph position="2"> The simplified query language has been designed with non-expert users in mind.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="I05-4003">
+<Title>Corpus-oriented Acquisition of Chinese Grammar</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The acquisition of grammar from a corpus is a challenging task in the preparation of a knowledge bank. In this paper, we discuss the extraction of Chinese grammar oriented to a restricted corpus. First, probabilistic context-free grammars (PCFG) are extracted automatically from the Penn Chinese Treebank and are regarded as the baseline rules. Then a corpus-oriented grammar is developed by adding specific information including head information from the restricted corpus.</Paragraph>
+<Paragraph position="1"> Then, we describe the peculiarities and ambiguities, particularly between the phrases &amp;quot;PP&amp;quot; and &amp;quot;VP&amp;quot; in the extracted grammar. Finally, the parsing results of the utterances are used to evaluate the extracted grammar.</Paragraph>
+</Section>
+</Paper>
+

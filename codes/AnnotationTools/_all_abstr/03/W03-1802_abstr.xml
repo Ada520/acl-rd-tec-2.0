@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-1802">
+<Title>Conceptual Structuring through Term Variations</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Term extraction systems are now an integral part of the compiling of specialized dictionaries and updating of term banks.</Paragraph>
+<Paragraph position="1"> In this paper, we present a term detection approach that discovers, structures, and infers conceptual relationships between terms for French. Conceptual relationships are deduced from specific types of term variations, morphological and syntagmatic, and are expressed through lexical functions. The linguistic precision of the conceptual structuring through morphological variations is of 95 %.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-1101">
+<Title>Improving Summarization Performance by Sentence Compression - A Pilot Study</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we study the effectiveness of applying sentence compression on an extraction based multi-document summarization system. Our results show that pure syntactic-based compression does not improve system performance. Topic signature-based reranking of compressed sentences does not help much either.</Paragraph>
+<Paragraph position="1"> However reranking using an oracle showed a significant improvement remains possible.</Paragraph>
+</Section>
+</Paper>
+

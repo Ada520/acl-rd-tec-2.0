@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P05-3026">
+<Title>Multi-Engine Machine Translation Guided by Explicit Word Matching</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe a new approach for synthetically combining the output of several different Machine Translation (MT) engines operating on the same input. The goal is to produce a synthetic combination that surpasses all of the original systems in translation quality. Our approach uses the individual MT engines as &amp;quot;black boxes&amp;quot; and does not require any explicit cooperation from the original MT systems. A decoding algorithm uses explicit word matches, in conjunction with confidence estimates for the various engines and a tri-gram language model in order to score and rank a collection of sentence hypotheses that are synthetic combinations of words from the various original engines.</Paragraph>
+<Paragraph position="1"> The highest scoring sentence hypothesis is selected as the final output of our system. Experiments, using several Arabic-to-English systems of similar quality, show a substantial improvement in the quality of the translation output.</Paragraph>
+</Section>
+</Paper>
+

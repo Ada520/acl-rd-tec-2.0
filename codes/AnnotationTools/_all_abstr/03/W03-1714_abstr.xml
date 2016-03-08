@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-1714">
+<Title></Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+References
+</SectionTitle>
+<Paragraph position="0"> 1 P. Brown , J. Cocke , S. Della Pietra , V. Della Pietra , F. Jelinek , R. Mercer , P. Roossin, A statistical approach to language translation, Proceedings of the 12th conference on Computational linguistics, p.71-76, August 22-27, 1988, Budapest, Hungry 2 Peter F. Brown , Vincent J. Della Pietra , Stephen A. Della Pietra , Robert L. Mercer, The mathematics of statistical machine translation: parameter estimation, Computational Linguistics, v.19 n.2, June 1993 3 Brown, R. D.: Automated dictionary example-based translation, Proceedings of the Seventh International Conference on Theoretical and Methodological Issues in Machine Translation, pp. 111--118, 1997.</Paragraph>
+<Paragraph position="1"> 4 Dagan, I., Church, K. W., Gale, W. A.: Robust bilingual word alignment for machine aided translation, Proceedings of the Workshop on Very Large Corpora, pp. 1--8, 1993.</Paragraph>
+<Paragraph position="2"> 5 Kurohashi, S., Nagao, M: Kyoto University text corpus project, Proc. 3rd Annual Meeting of the Association for Natural Language Processing, pp. 115--118, 1997 (in Japanese).</Paragraph>
+<Paragraph position="3"> 6 Hiroyuki Kaji , Yuuko Kida , Yasutsugu Morimoto, Learning translation templates from bilingual text, Proceedings of the 14th conference on Computational linguistics, August 23-28, 1992, Nantes, France 7 Qing Ma , Min Zhang , Masaki Murata , Ming Zhou , Hitoshi Isahara, Self-organizing Chinese and Japanese semantic maps, Proceedings of the 19th international conference on Computational linguistics, p.1-7, August 24-September 01, 2002, Taipei, Taiwan 8 Yuji Matsumoto , Hiroyuki Ishimoto , Takehito Utsuro, Structural matching of parallel texts, Proceedings of the 31st annual meeting on Association for Computational Linguistics, p.23-30, June 22-26, 1993, Columbus, Ohio 9 Macklovitch, E., Hannan, M. L.: Line 'em up: advances in alignment technology and their impact on translation support tools, in Expanding MT Horizons, Second Conference of the Association for Machine Translation in the Americas, Montreal, pp. 145--156, 1996. 10 Ismael Garca Varea , Franz J. Och , Hermann Ney , Francisco Casacuberta, Improving alignment quality in statistical machine translation using context-dependent maximum entropy models, Proceedings of the 19th international conference on Computational linguistics, p.1-7, August 24-September 01, 2002, Taipei, Taiwan 11 Dekai Wu, An algorithm for simultaneously bracketing parallel texts by aligning words, Proceedings of the 33rd annual meeting on Association for Computational Linguistics, p.244-251, June 26-30, 1995, Cambridge, Massachusetts 12 Imamura, K.: Hierarchical phrase alignment harmonized with parsing, NLPRS2001, pp. 377--384, 2001.</Paragraph>
+<Paragraph position="4"> 13 Teuvo Kohonen, Self-organizing maps, Springer-Verlag New York, Inc., Secaucus, NJ, 1997 14 Zhou, Q. Duan, H.: Segmentation and tagging in modern Chinese corpus, Chinese Journal of Computers, Vol. 85, 1994.</Paragraph>
+</Section>
+</Paper>
+

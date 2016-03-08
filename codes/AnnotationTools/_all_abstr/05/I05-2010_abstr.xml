@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="I05-2010">
+<Title>Applying a Mix Word-Pair Identifier to the Chinese Syllable-to-Word Conversion Problem</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a mix word-pair mix-WP) identifier to resolve homonym/segmentation ambiguities as well as perform STW conversion effectively for Chinese input. The mix-WP identifier includes a specific word-pair (SWP) identifier and a common word-pair (CWP) identifier. It is designed as a supporting processing with Chinese input systems. Our experiments show that by applying the mix-WP identifier, together with the Microsoft input method editor 2003 (MSIME) and an optimized bigram model (BiGram), the tonal and toneless STW performance of the two input systems can be improved.</Paragraph>
+</Section>
+</Paper>
+

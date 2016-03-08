@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E93-1069">
+<Title>Ambiguity resolution in a reductionistic parser *</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> We are concerned with grammar-based surface-syntactic analysis of running text. Morphological and syntactic analysis is here based on tags that express surface-syntactic relations between functional categories such as Subject, Modifier, Main verb etc.; consider the following simple sentence:</Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+2.1 Preprocessor
+</SectionTitle>
+<Paragraph position="0"> The preprocessor normalises the input text, detects sentence boundaries and punctuation marks, and identifies idioms and other fixed syntagms.</Paragraph>
+</Section>
+<Section position="2" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+2.2 Morphological analyser
+</SectionTitle>
+<Paragraph position="0"> The ENGTWOL morphological analyser is a 55,000 entry Koskenniemi-style morphological description of English that assigns all recognised input word forms with all possible morphological readings as a disjunctive list.</Paragraph>
+<Paragraph position="1"> Those words not recognised by the ENGTWOL analyser are analysed by a heuristic module; part-of-speech readings are assigned on the basis of the form of the word (endings etc.).</Paragraph>
+<Paragraph position="2"> The morphologically analysed sentences are enriched with syntactic and word boundary ambiguities and converted into regular expressions by simple awk programs.</Paragraph>
+</Section>
+<Section position="3" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+2.3 Finlte-State parser
+</SectionTitle>
+<Paragraph position="0"> The Finite-State parser transforms sentences and rules into finite-state automata. The parser computes the intersection of the sentence automaton and all rule automata; the intersection is the parse of the sentence.</Paragraph>
+<Paragraph position="1"> The grammar also contains a heuristic section that can be used to rank multiple analyses.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C94-2115">
+<Title>Drawing Pictures with Natural Language and Direct Manipulation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A multimodal user interface allows users to communicate with computers using multiple modalities, such as a mouse, a keyboard or voice, in various combined ways.</Paragraph>
+<Paragraph position="1"> This paper discusses a multimodal drawing tool, whereby the user can use a mouse, a keyboard and voice effectively. Also, it describes an interpretation method, by which the system integrates voice inputs and pointing inputs using context.</Paragraph>
+</Section>
+</Paper>
+

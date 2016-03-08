@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W99-0208">
+<Title>Coreference resolution in dialogues in English and Portuguese</Title>
+<Section position="1" start_page="0" end_page="53" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper introduces a methodology to analyse and resolve cases of coreference in dialogues in English and Portuguese. A four-attribute annotation to analyse cases of anaphora was used to analyse a sample of around three thousand cases in each language collected in dialogue corpora. The information thus gathered was analysed by means of exploratory and model-building statistical procedures. A probabilistic model was then built on the basis of aggregate combinations of categories across the four attributes. This model, in combination with direct observation of cases, was used to build an antecedentqikelihood theory, which is at present being organised as a decision tree for the purpose of testing with a view for automatic annotation and subsequent resolution of coreference cases in dialogues in both languages. It is thought that the findings could be extended to Spanish, Italian and possibly French.</Paragraph>
+<Paragraph position="1"> Introduction The problem of anaphora resolution has received a great deal of attention in theoretical linguistics, psycholinguistics and also in natural language processing. Perhaps as an inevitable consequence of such a large body of work related to the subject, the term anaphora has been used to mean a varying range of phenomena.</Paragraph>
+<Paragraph position="2"> Approaches that build on the concept of cohesion ties (Halliday and Hasan 1976) analyse anaphoric relations within a broad framework of discourse or textual cohesion. As a result, the notion of anaphora, which had been initially linked quite closely to the older concept of pronominalisation, has been expanded to include all referring expressions with some form of antecedent either explicitly introduced in the text or inferable from it.</Paragraph>
+<Paragraph position="3"> In an earlier study, Webber (1979) had already widened the scope of anaphoric relations, by including nonpronominal noun phrases which refer back to antecedents in the discourse; the so-called one-anaphora; and verb-phrase deletions. Gradually, the distinction between anaphoric and coreference relations became less and less relevant in approaches concerned with robust implementation of systems with a capacity for anaphora resolution. The present study follows the same sort of approach.</Paragraph>
+<Paragraph position="4"> Therefore, the term coreference in the present study is used to refer to all pronominal forms, anaphoric nonpronominal noun phrases, one anaphora, numerals when used as heads of noun phrases, prepositional phrases used as responses to questions or statements, responses to questions in general (including yes, no and short answers using auxiliaries), so anaphora, dophrase anaphora and whatever other elements in dialogues were thought to be referring expressions with an identifiable antecedent.</Paragraph>
+<Paragraph position="5"> The next section describes the annotation scheme used to analyse the coreference cases.</Paragraph>
+<Paragraph position="6"> The third section presents the antecedentlikelihood (henceforth, AL) theory, which is the way information collected by means of the annotation was organised so as to be used to resolve new cases of coreference in other dialogues. The decision trees which are to be built on the basis of the AL theory are explained in the subsequent section, whereas the final  section concludes with a discussion of results obtained so far and an analysis of future developments.</Paragraph>
+</Section>
+</Paper>
+

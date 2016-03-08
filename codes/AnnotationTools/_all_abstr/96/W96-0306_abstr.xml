@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W96-0306">
+<Title>Acquisition of Semantic Lexicons: Using Word Sense Disambiguation to Improve Precision</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper addresses the problem of large-scale acquisition of computational-semantic lexicons from machine-readable resources. We describe semantic filters designed to reduce the number of incorrect assignments (i.e., improve precision) made by a purely syntactic technique. We demonstrate that it is possible to use these filters to build broad-coverage lexicons with minimal effort, at a depth of knowledge that lies at the syntax-semantics interface. We report on our results of disambiguating the verbs in the semantic filters by adding WordNet 1 sense annotations. We then show the results of our classification on unknown words and we evaluate these results.</Paragraph>
+</Section>
+</Paper>
+

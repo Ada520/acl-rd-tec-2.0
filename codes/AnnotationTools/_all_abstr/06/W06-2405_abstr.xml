@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-2405">
+<Title>Identifying idiomatic expressions using automatic word-alignment</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> For NLP applications that require some sort of semantic interpretation it would be helpful to know what expressions exhibit an idiomatic meaning and what expressions exhibit a literal meaning. We investigate whether automatic word-alignment in existing parallel corpora facilitates the classification of candidate expressions along a continuum ranging from literal and transparent expressions to idiomatic and opaque expressions. Our method relies on two criteria: (i) meaning predictability that is measured as semantic entropy and (ii), the overlap between the meaning of an expression and the meaning of its component words. We approximate the mentioned overlap as the proportion of default alignments. We obtain a significant improvement over the baseline with both measures. null</Paragraph>
+</Section>
+</Paper>
+

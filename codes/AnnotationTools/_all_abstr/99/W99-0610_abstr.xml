@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W99-0610">
+<Title>Retrieving Collocations From Korean Text</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a statistical methodology ibr automatically retrieving collocations from POS tagged Korean text using interrupted bigrams. The free order of Korean makes it hard to identify collocations. We devised four statistics, 'frequency', 'randomness', 'condensation', and 'correlation' .to account for the more flexible word order properties of Korean collocations.</Paragraph>
+<Paragraph position="1"> We extracted meaningful bigrams using an evaluation ihnction and extended the bigrams to n-gram collocations by generating equivalence sets, a-covers. We view a modeling problem for n-gram collocations as that for clustering of cohesive words.</Paragraph>
+</Section>
+</Paper>
+

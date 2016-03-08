@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J86-2001">
+<Title>INTEGRATED PROCESSING PRODUCES ROBUST UNDERSTANDING</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+INTEGRATED PROCESSING PRODUCES
+ROBUST UNDERSTANDING
+</SectionTitle>
+<Paragraph position="0"> Natural language interfaces to computers must deal with wide variation in real-world input. This paper proposes that, in order to handle real-world input robustly, a natural language interface should be constructed in accord with principles of integrated processing: processing syntax and semantics at the same time, processing syntax and semantics using the same mechanisms, and processing language and memory using the same mechanisms. This paper describes an experimental natural language interface constructed according to these principles which displays the desired robustness. The success of this interface suggests that future real-world interfaces could achieve robustness by performing integrated processing.</Paragraph>
+</Section>
+</Paper>
+

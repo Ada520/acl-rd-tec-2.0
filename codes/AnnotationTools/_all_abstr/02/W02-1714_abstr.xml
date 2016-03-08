@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-1714">
+<Title>XiSTS - XML in Speech Technology Systems</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> The flexibility and portability provided by XML, and its related technologies, result in them being well suited to the development of robust, generic, Natural Language Processing applications. In this paper we describe the use of XML within the context of speech technology software, with a particular focus on speech recognition. We present a framework, based on the model of Time Map Phonology (Carson-Berndsen, 1998), for the development and testing of phonological well-formedness constraints for generic speech technology applications.</Paragraph>
+<Paragraph position="1"> Furthermore, we illustrate how the use of a syllable lexicon, specified in terms of phonological features, and marked-up in XML, contributes to both speech recognition and synthesis. In the following sections three inter-connected systems are discussed.</Paragraph>
+<Paragraph position="2"> The first, the Language Independent Phonotactic System, LIPS, a syllable recognition application based on Time Map Phonology and a significant departure from current ASR technology, is described. The second system, Realising Enforced Feature-based Lexical Entries in XML, REFLEX, is outlined and finally, the third system, Transducing Recognised Entities via XML, T-REX, is discussed. All three systems build on earlier work on generic speech tools (Carson-Berndsen, 1999; Carson-Berndsen &amp; Walsh, 2000a).</Paragraph>
+</Section>
+</Paper>
+

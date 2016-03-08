@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P01-1043">
+<Title>A language-independent shallow-parser Compiler</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a rule-based shallow-parser compiler, which allows to generate a robust shallow-parser for any language, even in the absence of training data, by resorting to a very limited number of rules which aim at identifying constituent boundaries.</Paragraph>
+<Paragraph position="1"> We contrast our approach to other approaches used for shallow-parsing (i.e. finite-state and probabilistic methods). We present an evaluation of our tool for English (Penn Treebank) and for French (newspaper corpus &amp;quot;LeMonde&amp;quot;) for several tasks (NP-chunking &amp; &amp;quot;deeper&amp;quot; parsing) .</Paragraph>
+</Section>
+</Paper>
+

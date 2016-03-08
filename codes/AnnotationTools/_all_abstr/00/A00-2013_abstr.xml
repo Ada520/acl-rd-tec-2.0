@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A00-2013">
+<Title>Language English Czech Estonian Hungarian Romanian Slovene Automatic Baseline Pull</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Part of Speech tagging for English seems to have reached the the human levels of error, but full morphological tagging for inflectionally rich languages, such as Romanian, Czech, or Hungarian, is still an open problem, and the results are far from being satisfactory. This paper presents results obtained by using a universalized exponential feature-based model for five such languages. It focuses on the data sparseness issue, which is especially severe for such languages (the more so that there are no extensive annotated data for those languages). In conclusion, we argue strongly that the use of an independent morphological dictionary is the preferred choice to more annotated data under such circumstances.</Paragraph>
+</Section>
+</Paper>
+

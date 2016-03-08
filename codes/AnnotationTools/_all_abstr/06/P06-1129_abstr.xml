@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P06-1129">
+<Title>Exploring Distributional Similarity Based Models for Query Spelling Correction</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A query speller is crucial to search engine in improving web search relevance.</Paragraph>
+<Paragraph position="1"> This paper describes novel methods for use of distributional similarity estimated from query logs in learning improved query spelling correction models. The key to our methods is the property of distributional similarity between two terms: it is high between a frequently occurring misspelling and its correction, and low between two irrelevant terms only with similar spellings. We present two models that are able to take advantage of this property. Experimental results demonstrate that the distributional similarity based models can significantly outperform their baseline systems in the web query spelling correction task.</Paragraph>
+</Section>
+</Paper>
+

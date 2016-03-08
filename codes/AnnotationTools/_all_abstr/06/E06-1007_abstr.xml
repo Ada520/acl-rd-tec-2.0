@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E06-1007">
+<Title>Automatic Detection of Nonreferential It in Spoken Multi-Party Dialog</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present an implemented machine learning system for the automatic detection of nonreferential it in spoken dialog. The system builds on shallow features extracted from dialog transcripts. Our experiments indicate a level of performance that makes the system usable as a preprocessing filter for a coreference resolution system. We also report results of an annotationstudydealingwiththeclassificationof null it by naive subjects.</Paragraph>
+</Section>
+</Paper>
+

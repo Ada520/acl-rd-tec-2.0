@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-3403">
+<Title>Computational Measures for Language Similarity across Time in Online Communities</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper examines language similarity in messages over time in an online community of adolescents from around the world using three computational measures: Spearman's Correlation Coefficient, Zipping and Latent Semantic Analysis.</Paragraph>
+<Paragraph position="1"> Results suggest that the participants' language diverges over a six-week period, and that divergence is not mediated by demographic variables such as leadership status or gender. This divergence may represent the introduction of more unique words over time, and is influenced by a continual change in subtopics over time, as well as community-wide historical events that introduce new vocabulary at later time periods. Our results highlight both the possibilities and shortcomings of using document similarity measures to assess convergence in language use.</Paragraph>
+</Section>
+</Paper>
+

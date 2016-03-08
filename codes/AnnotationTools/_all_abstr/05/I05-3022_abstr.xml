@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="I05-3022">
+<Title>Chinese Word Segmentation in FTRD Beijing</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a word segmentation system in France Telecom R&amp;D Beijing, which uses a unified approach to word breaking and OOV identification. The output can be customized to meet different segmentation standards through the application of an ordered list of transformation. The system participated in all the tracks of the segmentation bakeoff -- PK-open, PKclosed, AS-open, AS-closed, HK-open, HK-closed, MSR-open and MSRclosed -- and achieved the state-of-the-art performance in MSR-open, MSRclose and PK-open tracks. Analysis of the results shows that each component of the system contributed to the scores.</Paragraph>
+</Section>
+</Paper>
+

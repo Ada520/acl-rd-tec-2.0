@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="M91-1011">
+<Title>26 MAY KIDNAPPING TERRORIST ACT &amp;quot;COLOMBIAN ARMY OF NATIONAL LIBERATION&amp;quot; ARMY OF NATIONAL LIBERATION REPORTED AS FACT*</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+RESULTS
+</SectionTitle>
+<Paragraph position="0"> Table 1 summarizes LSI 's scores for Phase II of MUC-3. In evaluating these scores, which place LSI about two/thirds of the way down in a results-ranked list of MUC-3 participants, it should be noted that our MUC- 3 system reflects a major redevelopment of the key components of the DBG message understanding system, whic h is currently in process . Specifically, innovative development of a parser based on government-binding principle s is under way, 2 with associated revisions of the lexicon, functional parse (recovery of the predicate/argumen t functions representing the underlying semantic structure of the sentence), and DBG template 3 generation and frame hierarchy components (the areas indicated by the heavy lines in the system flow chart shown in Figure 1).</Paragraph>
+<Paragraph position="1"> This innovative development is described more fully in the system summary paper. For the purposes of thi s site report, it is obvious that the &amp;quot;under construction&amp;quot; status of the DBG system had considerable impact upo n our ability to achieve a respectable score. Had we chosen instead to go with the fairly robust previous version o f the DBG system (described in [2] and [3], recently evaluated for Rome Laboratory by KSC, Inc .), our MUC-3 scores would certainly have been substantially better, because all components of the DBG system would have been fully functional (see the discussion on functionality of the DBG version currently under developmen t below).</Paragraph>
+<Paragraph position="2"> However, we felt strongly that the time had come to replace our chart parser with weighted rules by a mor e powerful and generic model that would provide a better foundation for current work, including automated translation and the integration of speech processing with the DBG system, as well as for the complex MUC-3 messages. Once the decision was made to embark upon this major re-development of the key DBG system components, it would have been unproductive to carry out the MUC-3 development in parallel on the older versio n of the DBG system (as well as infeasible given LSI's available resources for MUC-3).</Paragraph>
+</Section>
+</Paper>
+

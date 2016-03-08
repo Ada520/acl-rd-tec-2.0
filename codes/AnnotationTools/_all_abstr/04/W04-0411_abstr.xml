@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-0411">
+<Title>Lexical Encoding of MWEs</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Multiword Expressions present a challenge for language technology, given their flexible nature. Each type of multiword expression has its own characteristics, and providing a uniform lexical encoding for them is a difficult task to undertake. Nonetheless, in this paper we present an architecture for the lexical encoding of these expressions in a database, that takes into account their flexibility. This encoding extends in a straightforward manner the one required for simplex (single) words, and maximises the information contained for them in the description of multiwords.</Paragraph>
+</Section>
+</Paper>
+

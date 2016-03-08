@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C94-2168">
+<Title>Moym Agent Effectif Instrument Non Imtrummlal Agentvolitif Agmtlnitiatif Agent Pcrceptif Agentde~Mouvanenl htsu'ummtl)irect Instrtwnentlndirect Th~me G(:n6ral ThrOne Holistiqtaz Tt~me Incr6mmtal Thhne CatLsal B6n6ficiaire Victimc IxJc',disation Source Position But Direction PositionAbsolue Posilim Relative</Title>
+<Section position="2" start_page="1040" end_page="1041" type="abstr">
+<SectionTitle>
+4. The linguistic level
+</SectionTitle>
+<Paragraph position="0"></Paragraph>
+<Section position="1" start_page="1040" end_page="1040" type="sub_section">
+<SectionTitle>
+4.1 Identification of predicative terms
+</SectionTitle>
+<Paragraph position="0"> Predicative terms characterize states or actions. The goal at this stage is to be able to determine in a way which is as systematic as possible which terms are predicative in the RPD texts. A priori, verbs denoting states or actions and prepositions are considered to be predicative terms.</Paragraph>
+<Paragraph position="1"> Nouns are slightly more difficult to treat. The EDF dictionary includes the specification of nouns derived from verbs. We consider that these nouns are predicative.</Paragraph>
+<Paragraph position="2"> A few nouns, not derived from verbs are also predicative, such as algorithm, sort or departure, these are identified so far by hand. They may be later semantically classified as describing, for example, actions or evenls.</Paragraph>
+</Section>
+<Section position="2" start_page="1040" end_page="1040" type="sub_section">
+<SectionTitle>
+4.2 Identification of relevant predicates and
+</SectionTitle>
+<Paragraph position="0"> arguments in texts The second aspect of the linguistic level is the identification of predicates and related argmnents which arc sufficiently relevant to be extracted. Relevance can be defined a priori and once for all or may depend on the  text. The relevance of a term can be defined according to several criteria: (1) genericity, terms defining a research action, a  realization, or a problem such as: define, improve, implement, test, evaluate and explore are of much interest. At this level, it is most useful to use B. Levin's verb classification to determine relevance. (2) specialization, corresponding to very precise terms describing a material, an equipment, a method or a system. Specialized terms can be defined a priori from the thesaurus by extracting the most stx~cialized terms. (3) localimportance, where importance in a text is explicitly marked, for example, by a construction such as 'it is important to...' or by a negation.</Paragraph>
+</Section>
+<Section position="3" start_page="1040" end_page="1041" type="sub_section">
+<SectionTitle>
+4.3 Representing predicate arguments and
+</SectionTitle>
+<Paragraph position="0"> modifiers by means of thematic roles The relationship between a predicate and one of its arguments can be represented by a thematic role.</Paragraph>
+<Paragraph position="1"> Thematic roles do confer a much stronger meaning to predicate structures, in particular when thenmtic roles have a relatively preci~ meaning. Thematic roles c~m be defined in a more refincd way than the usual definitions. From that perspective, our claim is that thematic roles can form the basis of a good and stable general descriptive semantics of prc~licate-~u'gument relationships. Thematic roles have then a conceptual dimension, and not only a linguistic one. However, they must not be confused with the conceptual labels of the LCS.</Paragraph>
+<Paragraph position="2"> Thematic roles must remain general; they form a bridge between conceptual representations and syntax. Fig. 3 shows the thematic roles we consider.</Paragraph>
+<Paragraph position="3"> We consider here an extended use of thematic roles since they are also assigned to predicate modifiers, realized as prepositional phrases or as propositions, in order to represent in a more explicit and uniform way essential arguments and modifiers, since they all play an important role in the semantics of a proposition.</Paragraph>
+<Paragraph position="4"> The general form of a semantic representation introduces two functions for thematic roles: (1) an argument typing function: predicate_name( .... ~i: {argi } .... ) (2) a predicate mochfier typing function, where a prod icate is marked by a thematic role, if the modifier is a predicate: r_gJg_l j : predicate_name( .... r__0~l k : \[arg k } .... ) The arg i are fragments of texts (NPs and PPs), which may be further analyzed in a similar way, if necessary. }&amp;quot;or exanlple, a sentence such as: John got injured by changing a wheel is represented by: injured h(.t.h.e._m~ : {john}) ^ causal theme : change( itg~_nJ,: {john} , ~ : {wheel}).</Paragraph>
+<Paragraph position="5"> If in an articulation, we only extract an NP, it is represented as an argument as fi)llows: arg( { fragments of text corresponding to the NP }).</Paragraph>
+<Paragraph position="6"> and uo thematic role is assigned to it. The general representation of an articulation is tben: \[articulation_name, \[extracted text from pragmatic level\], partial predicate-arg represenlatkm\] The result of the parse of our sample text is given below. \[\[ t h e m e \[los mesures destructives (ou assimilables)\] arg: {mesures destructives} \], \[ motivations \[optimiser los carnpagnes de mesure pour mieux connaitre, voire ameliorer, los incertitudes de mesure, et, Iorsque cela est possible, reduire les coots</Paragraph>
+<Paragraph position="8"> \[ prob!ems \[\[posent toujours des problemes concernant le faible hombre de donnees disponibles ou encore leur coot qui s'associe generalement gt la necessita d'une bonne precision.\] \[problhmes sent d'autant plus difficiles ~t traiter que les parametres en  jou ont des comportements non-lineaires.\] arg: ( { faible nombre de donnE~s}, {cofit}, {comportements non-lintaires}) \] , \[ realizations \[6tudier los m6thodes permettant de prendre en compte cette nonqin6arite.\] study(_, general theme: {methods} ) \]\].</Paragraph>
+</Section>
+<Section position="4" start_page="1041" end_page="1041" type="sub_section">
+<SectionTitle>
+4.4 Parsing and assigning thematic roles
+</SectionTitle>
+<Paragraph position="0"> Let us now show how our parser works and how thematic roles are concretely assigned to ,arguments. For that purpose, we introduce three main criteria:  (1) the semantic class of the predicative term where thematic grids are given, (2) the semantic type of the preposition, if any, which introduces the argument, we also have defined thematic grids for prepositions, (3) the general semantic type of the head noun of the argument NP. Semantic types are mainly defined from  the semantic fields given in the EDF thesaurus. These criteria are summarized in fig. 4 at the end of this document. These criteria are implemented by means of thematic role assignment rides.</Paragraph>
+<Paragraph position="1"> The parsing of the RPD texts works independently on each fragment of text associated with each articulation (referencial aspects will be considered later). We have the three following stages: (1) Identification of predicates and arguments: due to the complexity of texts, a partial analysis is the only possible and efficient solution. We have a grammar that identifies basic verbal constructions, nominal constructions. The parser works bottom-up and identifies maximal structures which are not ambiguous. (2) Thematic role assignement: The assignment procedure considers each thematic role in a thematic grid and searches for a nominal or propositional structure to which the thematic role can be assigned. This assignment is based on the thematic role assignement rules. The general form of a thematic role assignment rule is the following: assign_role(&lt;name of role&gt;, &lt;grammatical form of predicate&gt;, &lt;grammatical form of argument&gt;) :- &lt;unification or subsumption constraints on semantic features&gt;.</Paragraph>
+<Paragraph position="2"> This is illustrated as follows, where grammatical forms (xp) are given in Login form (A'R-Kaqi and Nasr 86), following the TFS approach: assign_role(effective_agent, xp(syntax =&gt; syn(cat =&gt; v), semantics =&gt; sem( pred =&gt; yes, relevance =&gt; yes)), xp(syntax =&gt; syn(cat =&gt; n), semantics =&gt; sem( pred =&gt; no, sere_type =&gt; tsem( semp =&gt; X )))) :subsumed(X, \[human, technical\]).</Paragraph>
+<Paragraph position="3"> This process can be applied recursively on those arguments which contain predicates. The depth of recursion is a parameter of the system.</Paragraph>
+<Paragraph position="4">  (3) Semantic representation construction. At this level,  deeper representations (such as the LCS) can be used. Conclusion The novelty of our approach with respect to knowledge extraction can be summarized as follows: (1) We have defined three levels of knowledge representation (pragmatic, linguistic and conceptual), which are homogeneous, expressed within a single, incremental formalism, incremental in the sense that knowledge extracted at an outer level is refined at a deeper one, and that representations support partial information. (2) We have defined simple methods for extracting relevant tern~ in texts, using a thesaurus.</Paragraph>
+<Paragraph position="5"> (3) We show that the syntactic alternations given in Levin's work complement the basic syntactic forms generated from thematic roles. These semantic classes of verbs, because of their semautic basis and because of the way they are defined are a very powerful tool for assigning correctly thematic roles to predicate argument in a large number of syntactic forms.</Paragraph>
+<Paragraph position="6"> (4) The different types of data and the level of granularity at which they are considered establishes linguistic levels of descriptions which correspond to a certain descriptive reality anti to a certain autonomous and homogeneous level of semantic representation.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

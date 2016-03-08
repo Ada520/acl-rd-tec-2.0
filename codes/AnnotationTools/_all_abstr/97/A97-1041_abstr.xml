@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A97-1041">
+<Title>Language Generation for Multimedia Healthcare Briefings</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper identifies issues for language generation that arose in developing a multimedia interface to healthcare data that includes coordinated speech, text and graphics. In order to produce brief speech for time-pressured caregivers, the system both combines related information into a single sentence and uses abbreviated references in speech when an unambiguous textual reference is also used. Finally, due to the temporal nature of the speech, the language generation module needs to communicate information about the ordering and duration of references to other temporal media, such as graphics, in order to allow for coordination between media.</Paragraph>
+</Section>
+</Paper>
+

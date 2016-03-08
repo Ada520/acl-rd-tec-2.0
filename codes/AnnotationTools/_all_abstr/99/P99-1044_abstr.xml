@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P99-1044">
+<Title>Syntagmatic and Paradigmatic Representations of Term Variation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A two-tier model for the description of morphological, syntactic and semantic variations of multi-word terms is presented. It is applied to term normalization of French and English corpora in the medical and agricultural domains. Five different sources of morphological and semantic knowledge are exploited (MULTEXT, CELEX, AGROVOC, Word-Netl.6, and Microsoft Word97 thesaurus).</Paragraph>
+</Section>
+</Paper>
+

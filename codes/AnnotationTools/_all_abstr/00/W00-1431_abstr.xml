@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-1431">
+<Title>The.,CLEF= semi-~recursive generation algori:thm</Title>
+<Section position="2" start_page="0" end_page="231" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> GTAG is a multilingual text generation formalism derived from the Tree Adjoining Grammar model ((Joshi and al., 1975), (Shabes and Shieber,1994)). This formalism, which is still evolving, uses slightly enriched TAG grammars as its syntactic back-end.</Paragraph>
+<Paragraph position="1"> GTAG only deals with the &lt;&lt; How to say it ?&gt;&gt; aspect of the generation process. It takes as input a partly computed symbolic representation of the discourse, and defines the processing and the data necessary to produce the final text.GTAG is widely described in (Danlos, 1996), (Danlos, 1998), and (Danlos1999).</Paragraph>
+<Paragraph position="2"> Flaubert was the first GTAG implementation, conducted by Cora SA ((Meunier and Danlos, 1998), (Meunier 1997)). This implementation validated the first versions of the formalism, and yielded a stable version of GTAG. A new implementation has been initiated by Thomson-CSF LCR ((Meunier and Reyes, 1999), (Meunier, 1999)), using the Java language, with a strong emphasis on research and applications.</Paragraph>
+<Paragraph position="3"> We will give firstly a short insight of the GTAG formalism, then introduce the semi-recursive algorithm in comparison with the recursive * approach. Then, we will give a presentation of the CLEF generation algorithm that yields a nearly-surfacic syntactic representation from the conceptual representation (a post-processing phase takes care of the final output).</Paragraph>
+<Paragraph position="4"> as well as the linguistics data and processing necessary to generate texts. GTAG uses a first-order logic formalism for its domain model, and a lexicalized TAG grammar as its syntactic model.</Paragraph>
+<Paragraph position="5"> We introduce hereafter both sub-formalisms, and the manner in which GTAG links them.</Paragraph>
+<Section position="1" start_page="0" end_page="231" type="sub_section">
+<SectionTitle>
+2.1 Domain model
+</SectionTitle>
+<Paragraph position="0"> The Login (Logic and inheritance) formalism ((A'it-Kaci and Nasr, 1986), (Meunier, 1997)) has been used to model the domain knowledge. It takes type constraints into account, thus allowing to validate, to a certain extent, the input structures' coherence.</Paragraph>
+<Paragraph position="1"> GTAG specifies an additional constraint on the model : the existence of three generic concepts used to divide the conceptual domain, as follows. o Entities, representing objects (individuals) of the world.</Paragraph>
+<Paragraph position="2"> o lSt-order relations, representing simple events, between entities, or between entities and relations.</Paragraph>
+<Paragraph position="3"> * 2nO-order relations, representing relations between relations.</Paragraph>
+<Paragraph position="4">  Thus, a typical model will have the following form. as shown in figure I.</Paragraph>
+</Section>
+<Section position="2" start_page="231" end_page="231" type="sub_section">
+<SectionTitle>
+2.2 The grammar
+</SectionTitle>
+<Paragraph position="0"> The syntactic back-end is a Lexicalized Tree Adjoining Grammar, which complies with the</Paragraph>
+</Section>
+<Section position="3" start_page="231" end_page="231" type="sub_section">
+<SectionTitle>
+Predicate-Argument Cooccurrence Principle
+</SectionTitle>
+<Paragraph position="0"> (Abeillr, 1993), enriched with the following : o T-Features, that tag and identify the differences between the syntactic structures (namely the trees). Those atomic tags, such</Paragraph>
+<Paragraph position="2"> T_WITHOUT_ARG2, etc., are used as a compositional selection mechanism of syntactic structures. For instance, the ~ passive without agent &gt;) structure is determined by the following array of  sentences.</Paragraph>
+<Paragraph position="3"> &amp;quot; +P &amp;quot; for either a single sentence or a text.</Paragraph>
+<Paragraph position="4"> o G-derivation structures, which correspond to underspecified derivation trees. The nodes .................. can.be constant (eaohnode, is.equivalent-to an elementary tree, as in standard derivation trees), or variable. In the latter case, the node can be associated with eithera concept attribute name, or with an instantiated concept.</Paragraph>
+<Paragraph position="5"> * Syntactic functions, which are encoded in the grammar.</Paragraph>
+<Paragraph position="6"> - &amp;quot; 2~3 - The semantic-conceptualinterface The semantic-conceptual interface is provided by the lexicai bases (LB), which relate each instantiated concept from the generator input structure with an array of g-derivation trees. This interface associates arguments (from the grammar) with concept attributes (from the conceptual domain).</Paragraph>
+<Paragraph position="7"> A lexical base must be able to give, at any time of the process, a valid lexical choice. When it is created, a lexical base refers to a g-derivation tree, selected by default by the domain creator. This lexical choice can be modified by constraints introduced by the generation process. The GTAG global generation strategy is to modify the lexical base so that the lexical choices be coherent (selected trees can be combined), and that the text be as good as possible.</Paragraph>
+<Paragraph position="8"> The input</Paragraph>
+</Section>
+</Section>
+</Paper>
+

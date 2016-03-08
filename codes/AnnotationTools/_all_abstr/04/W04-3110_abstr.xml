@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-3110">
+<Title>A Large Scale Terminology Resource for Biomedical Text Processing</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we discuss the design, implementation, and use of Termino, a large scale terminological resource for text processing. Dealing with terminology is a difficult but unavoidable task for language processing applications, such as Information Extraction in technical domains.</Paragraph>
+<Paragraph position="1"> Complex, heterogeneous information must be stored about large numbers of terms. At the same time term recognition must be performed in realistic times. Termino attempts to reconcile this tension by maintaining a flexible, extensible relational database for storing terminological information and compiling finite state machines from this database to do term lookup. While Termino has been developed for biomedical applications, its general design allows it to be used for term processing in any domain.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J04-4001">
+<Title>Experiments using stochastic search for</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. Overview
+</SectionTitle>
+<Paragraph position="0"> A central task for natural language generation (NLG) systems is to produce text that is coherent, in the sense in which (1a) is noticeably more coherent than (1b): 1. a. Elixir is a white cream.</Paragraph>
+<Paragraph position="1"> It is used in the treatment of cold sores.</Paragraph>
+<Paragraph position="2"> It contains aliprosan.</Paragraph>
+<Paragraph position="3"> Aliprosan relieves viral skin disorders.</Paragraph>
+<Paragraph position="4"> b. Elixir contains aliprosan.</Paragraph>
+<Paragraph position="5"> Viral skin disorders are relieved by aliprosan.</Paragraph>
+<Paragraph position="6"> Elixir is used in the treatment of cold sores.</Paragraph>
+<Paragraph position="7"> It is a white cream.</Paragraph>
+<Paragraph position="8"> We can observe various ways in which text organization influences coherence: the sequence in which certain facts are presented, the order in which entities are mentioned in a clause, and the possibilities available for identifying the intended reference of pronouns. Generally, (1a) seems to conform better to a reader's expectations of what will be referred to next and of how to resolve underspecified referring expressions, [?] Department of Computing, Goldsmiths College, University of London, London SE14 6NW, U. K. E-mail: r.kibble@gold.ac.uk</Paragraph>
+</Section>
+</Paper>
+

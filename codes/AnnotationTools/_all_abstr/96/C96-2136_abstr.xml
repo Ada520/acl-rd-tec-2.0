@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-2136">
+<Title>Context-Based Spelling Correction for Japanese OCR</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a novel spelling correction method \['or those languages that have no delimiter between words, such ~rs ,lap;mese, (.',hinese, ,~nd ThM. It consists of an al)proximate word matching method and an N-best word seg mental|on Mgorithm using a statistical la.nguage model. For OCR errors, the proposed word-based correction method outperf.ornrs the conventional charactm'b`ased correction method. When the bmselme character recognition accuracy is 90%, it achieves 96.0% character recognition accuracy and 96.3% word segmentation accuracy, while the cilaracter recognition accuracy of cilaracterb,ased correction is</Paragraph>
+</Section>
+</Paper>
+

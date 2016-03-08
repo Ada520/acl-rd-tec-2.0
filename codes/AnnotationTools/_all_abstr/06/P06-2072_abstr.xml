@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P06-2072">
+<Title>Modeling Adjectives in Computational Relational Lexica</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we propose a small set of lexical conceptual relations which allow to encode adjectives in computational relational lexica in a principled and integrated way. Our main motivation comes from the fact that adjectives and certain classes of verbs, related in a way or another with adjectives, do not have a satisfactory representation in this kind of lexica. This is due to a great extent to the heterogeneity of their semantic and syntactic properties. We sustain that such properties are mostly derived from the relations holding between adjectives and other POS. Accordingly, our proposal is mainly concerned with the specification of appropriate cross-POS relations to encode adjectives in lexica of the type considered here.</Paragraph>
+</Section>
+</Paper>
+

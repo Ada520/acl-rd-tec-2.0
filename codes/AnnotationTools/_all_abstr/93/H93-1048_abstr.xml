@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H93-1048">
+<Title>Prediction of Lexicalized Tree Fragments in Text</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> There is a mismatch between the distribution of information in text, and a variety of grammatical formalisms for describing it, including ngrams, context-free grammars, and dependency grammars. Rather than adding probabilities to existing grammars, it is proposed to collect the distributions of flexibly sized partial trees. These can be used to enhance an ngram model, and in analogical parsing.</Paragraph>
+</Section>
+</Paper>
+

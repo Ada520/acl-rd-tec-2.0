@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E85-1022">
+<Title>amp;quot; L e x i f a n i s &amp;quot; A Lexical Analyzer of Modern Greek</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+PROLOGUE
+</SectionTitle>
+<Paragraph position="0"> In Linguistics the systematic identification of the word classes rises several questions in regard to the morphemic analysis. In Computational Linguistics several research areas use fundamental information such as the &amp;quot;word class&amp;quot; of a given wordy isolated or in its context.</Paragraph>
+<Paragraph position="1"> In Computer Science the automatic processing of Greek texts is based on relevant knowledge, at the lexical level.</Paragraph>
+<Paragraph position="2"> In an effort to present a software tool intended to identify the grammatical classes of the words we have designed and implemented Lexifanis. We have used modern greek texts as a test-bed of our system, but Lexifanis, can process any &amp;quot;variant&amp;quot; of modern greek, and even ancient greek language, provided that it is appropriately initialized.</Paragraph>
+<Paragraph position="3"> In this paper s whenever we use the term greek or greek language we refer to the modern greek language (~AnuoTL}::~') in its recent monotonic version (i.e. a single accent is used, instead of three, and there are no breathings --~n~'C/O~,=T,=')</Paragraph>
+</Section>
+</Paper>
+

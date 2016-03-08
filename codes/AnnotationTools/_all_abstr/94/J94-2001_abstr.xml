@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J94-2001">
+<Title>Tagging English Text with a Probabilistic Model</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> A lot of effort has been devoted in the past to the problem of tagging text, i.e. assigning to each word the correct tag (part of speech) in the context of the sentence. Two main approaches have generally been considered: rule-based (Klein and Simmons 1963; Brodda 1982; Paulussen and Martin 1992; Brill et al. 1990) probabilistic (Bahl and Mercer 1976; Debili 1977; Stolz, Tannenbaum, and Carstensen 1965; Marshall 1983; Leech, Garside, and Atwell 1983; Derouault and Merialdo 1986; DeRose 1988; Church 1989; Beale 1988; Marcken 1990; Merialdo 1991; Cutting et al. 1992).</Paragraph>
+<Paragraph position="1"> More recently, some work has been proposed using neural networks (Benello, Mackie, and Anderson 1989; Nakamura and Shikano 1989).</Paragraph>
+<Paragraph position="2"> Multimedia Communications Department, Institut EURECOM, 2229 Route des Cretes, B.P. 193, 06904 Valbonne Cedex France; merialdo@eurecom.fr.</Paragraph>
+<Paragraph position="3"> t This work was carried out while the author was a visitor of the Continuous Speech Recognition group, IBM T. J. Watson Research Center, Yorktown Heights, NY (USA). Part of the material included in this work has been presented at the IEEE International Conference on Acoustics, Speech and Signal Processing, Toronto (Canada), May 1991.</Paragraph>
+<Paragraph position="4"> f~) 1994 Association for Computational Linguistics Computational Linguistics Volume 20, Number 2 Through these different approaches, some common points have emerged: For any given word, only a few tags are possible, a list of which can be found either in the dictionary or through a morphological analysis of the word.</Paragraph>
+<Paragraph position="5"> When a word has several possible tags, the correct tag can generally be chosen from the local context, using contextual rules that define the valid sequences of tags. These rules may be given priorities so that a selection can be made even when several rules apply.</Paragraph>
+<Paragraph position="6"> These kinds of considerations fit nicely inside a probabilistic formulation of the problem (Beale 1985; Garside and Leech 1985), which offers the following advantages: * a sound theoretical framework is provided * the approximations are clear * the probabilities provide a straightforward way to disambiguate * the probabilities can be estimated automatically from data.</Paragraph>
+<Paragraph position="7"> In this paper we present a particular probabilistic model, the triclass model, and results from experiments involving different ways to estimate its parameters, with the intention of maximizing the ability of the model to tag text accurately. In particular, we are interested in a way to make the best use of untagged text in the training of the model.</Paragraph>
+</Section>
+</Paper>
+

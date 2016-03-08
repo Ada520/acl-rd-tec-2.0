@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E99-1028">
+<Title>Word Sense Disambiguation in Untagged Text based on Term Weight Learning</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes unsupervised learning algorithm for disambiguating verbal word senses using term weight learning.</Paragraph>
+<Paragraph position="1"> In our method, collocations which characterise every sense are extracted using similarity-based estimation. For the results, term weight learning is performed.</Paragraph>
+<Paragraph position="2"> Parameters of term weighting are then estimated so as to maximise the collocations which characterise every sense and minimise the other collocations. The resuits of experiment demonstrate the effectiveness of the method.</Paragraph>
+</Section>
+</Paper>
+

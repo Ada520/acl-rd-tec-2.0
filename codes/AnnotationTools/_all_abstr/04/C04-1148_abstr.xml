@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1148">
+<Title>Online Generic Editing of Heterogeneous Dictionary Entries in Papillon Project</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The Papillon project is a collaborative project to establish a multilingual dictionary on the Web. This project started 4 years ago with French and Japanese. The partners are now also working on English, Chinese, Lao, Malay, Thai and Vietnamese.</Paragraph>
+<Paragraph position="1"> It aims to apply the LINUX cooperative construction paradigm to establish a broad-coverage multilingual dictionary. Users can contribute directly on the server by adding newdataorcorrecting existingerrors. Their contributions are stored in the user space until checked by a specialist before being fully integrated into the database. The resulting data is then publicly available and freely distributable. An essential condition for the success of the project is to find a handy solution for all the participants to be able to contribute online by editing dictionary entries.In this paper, we describe our solution for an online generic editor of dictionary entries based on the description of their structure.</Paragraph>
+</Section>
+</Paper>
+

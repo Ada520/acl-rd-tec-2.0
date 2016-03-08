@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-2154">
+<Title>Modeling Topic Coherence for Speech Recognition</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> St, atist,ical langmtge models play a major role in current spee~(:h re.cognition systems. Most of these models have ti)cussed on relatively local interactions between words. R(.'(:ently, however, |her('.</Paragraph>
+<Paragraph position="1"> have been sevcr;d attempts to incorporate other knowlcdg(; source.s, in particular long(x-range word (tet)(;nden(:ies, in order to improve. Sl)(.~ech r(;(:ognize.rs.</Paragraph>
+<Paragraph position="2"> We will 1)rcs(~.nt one. such m('.t;ho(l, which tries to autonmticatly utilize t)rolmri;ics of topic continuity. Whim a l)asc-linc.</Paragraph>
+<Paragraph position="3"> spee.ch re.(x)gnil;ion sysl;em gencra, l;('.s a.\[ternativ(', hypothe.s(~s for a senl;enc( L we will ul~ilize the word prefercn(:(~s based on topic coherence to sele(:t tim b(;st hy~ pothesis. In our experiment, we achi(wed a 0.65% imI)rovenmn|; in the wor(1 eiror rat(', on top of t;h(; base-lin(! sysi;em. It corre.sponds to 10A0% (if tlm possit)le word error improvement.</Paragraph>
+</Section>
+</Paper>
+

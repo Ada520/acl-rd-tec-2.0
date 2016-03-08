@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W01-1309">
+<Title>From Temporal Expressions to Temporal Information: Semantic Tagging of News Messages</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a semantic tagging system for temporal expressions and discuss how the temporal information conveyed by these expressions can be extracted.</Paragraph>
+<Paragraph position="1"> The performance of the system was evaluated wrt. a small hand-annotated corpus of news messages.</Paragraph>
+</Section>
+</Paper>
+

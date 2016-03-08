@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P95-1001">
+<Title>Learning Phonological Rule Probabilities from Speech Corpora with Exploratory Computational Phonology</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents an algorithm for learning the probabilities of optional phonological rules from corpora. The algorithm is based on using a speech recognition system to discover the surface pronunciations of words in spe.ech corpora; using an automatic system obviates expensive phonetic labeling by hand. We describe the details of our algorithm and show the probabilities the system has learned for ten common phonological rules which model reductions and coarticulation effects. These probabilities were derived from a corpus of 7203 sentences of read speech from the Wall Street Journal, and are shown to be a reasonably close match to probabilities from phonetically hand-transcribed data (TIMIT).</Paragraph>
+<Paragraph position="1"> Finally, we analyze the probability differences between rule use in male versus female speech, and suggest that the differences are caused by differing average rates of speech.</Paragraph>
+</Section>
+</Paper>
+

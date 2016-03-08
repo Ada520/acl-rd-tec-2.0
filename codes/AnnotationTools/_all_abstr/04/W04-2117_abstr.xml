@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-2117">
+<Title>Language Resources for a Network-based Dictionary</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In order to facilitate the use of a dictionary for language production and language learning we propose the construction of a new network-based electronic dictionary along the lines of Zock (2002). However, contrary to Zock who proposes just a paradigmatic network with information about the various ways in which words are similar we would like to present several existing language resources (LRs) which will be integrated in such a network resulting in more linguistic levels than one with paradigmatically associated words. We argue that just as the mental lexicon exhibits various, possibly interwoven layers of networks, electronic LRs containing syntagmatic, morphological and phonological information need to be integrated into an associative electronic dictionary.</Paragraph>
+</Section>
+</Paper>
+

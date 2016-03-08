@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P00-1045">
+<Title>Memory-E cient and Thread-Safe Quasi-Destructive Graph Uni cation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In terms of both speed and memory consumption, graph uni cation remains the most expensive component of uni cation-based grammar parsing. We present a technique to reduce the memory usage of uni cation algorithms considerably, without increasing execution times. Also, the proposed algorithm is thread-safe, providing an e cient algorithm for parallel processing as well.</Paragraph>
+</Section>
+</Paper>
+

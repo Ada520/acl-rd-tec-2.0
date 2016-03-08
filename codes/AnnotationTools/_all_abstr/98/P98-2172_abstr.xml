@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-2172">
+<Title>Reference Resolution beyond Coreference: a Conceptual Frame and its Application Andrei POPESCU-BELIS, Isabelle ROBBA and G6rard SABAH Language and Cognition Group, LIMSI-CNRS</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A model for reference use in communication is proposed, from a representationist point of view. Both the sender and the receiver of a message handle representations of their common environment, including mental representations of objects. Reference resolution by a computer is viewed as the construction of object representations using referring expressions from the discourse, whereas often only coreference links between such expressions are looked for. Differences between these two approaches are discussed.</Paragraph>
+<Paragraph position="1"> The model has been implemented with elementary rules, and tested on complex narrative texts (hundreds to thousands of referring expressions). The results support the mental representations paradigm.</Paragraph>
+<Paragraph position="2"> Introduction Most of the natural language understanding methods have been originally developed on domain-specific examples, but more recently several methods have been applied to large corpora, as for instance morpho-syntactic tagging or word-sense disambiguation. These methods contribute only indirectly to text understanding, being far from building a conceptual representation of the processed discourse. Anaphora or pronoun resolution have also reached significant results on unrestricted texts. Coreference resolution is the next step on the way towards discourse understanding. The Message Understanding Conferences (MUC) propose since 1995 a coreference task: coreferring expressions are to be linked using appropriate mark-up.</Paragraph>
+<Paragraph position="3"> Reference resolution goes further: it has to find out which object is referred to by an expression, thus gradually building a representation of the objects with their features and evolution. Coreference resolution is only part of this task, as coreference is only a relation between two expressions that refer to the same object.</Paragraph>
+<Paragraph position="4"> A framework for reference use in human communication is introduced in Section 1, in order to give a coherent and general view of the phenomenon. Consequences for a resolution mechanism are then examined: data structures, operations, selectional constraints and activation. This approach is then compared to others in Section 2. Section 3 describes briefly the implementation of the model, the texts and the scoring methods. Results are given in Section 4, to corroborate the previous assertions and justify the model.</Paragraph>
+</Section>
+</Paper>
+

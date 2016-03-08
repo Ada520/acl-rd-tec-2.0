@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="I05-3029">
+<Title>Maximal Match Chinese Segmentation Augmented by Resources Generated from a Very Large Dictionary for Post-Processing</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We used a production segmentation system, which draws heavily on a large dictionary derived from processing a large amount (over 150 million Chinese characters) of synchronous textual data gathered from various Chinese speech communities, including Beijing, Hong Kong, Taipei, and others. We run this system in two tracks in the Second International Chinese Word Segmentation Bakeoff, with Backward Maximal Matching (right-to-left) as the primary mechanism. We also explored the use of a number of supplementary features offered by the large dictionary in postprocessing, in an attempt to resolve ambiguities and detect unknown words.</Paragraph>
+<Paragraph position="1"> While the results might not have reached their fullest potential, they nevertheless reinforced the importance and usefulness of a large dictionary as a basis for segmentation, and the implication of following a uniform standard on the segmentation performance on data from various sources.</Paragraph>
+</Section>
+</Paper>
+

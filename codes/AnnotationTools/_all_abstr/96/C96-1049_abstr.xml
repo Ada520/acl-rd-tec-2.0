@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-1049">
+<Title>Lean Formalisms~ Linguistic Theory~ and Applications. Grammar Development in ALEP.</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes results achieved in a project which addresses the issue of how the gap between unification-based grammars as a scientific concept and real world applications can be narrowed down 1. Application-oriented grammar development has to take into account the following parameters: Efficiency: The project chose a so called 'lean' formal ism, a term-encodable language providing efficient term unification, ALEP. Coverage: The project adopted a corpus-based approach.</Paragraph>
+<Paragraph position="1"> Completeness: All modules needed from text handling to semantics must be there. The paper reports on a text handling component, Two Level morphology, word structure, phrase structure, semantics and the interfaces between these components. Mainstream approach: The approach claims to be mainstream, very much indebted to HPSG, thus based on the currently most prominent and recent linguistic theory. The relation (and tension) between these parameters are described in this paper.</Paragraph>
+</Section>
+</Paper>
+

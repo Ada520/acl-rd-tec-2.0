@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-1423">
+<Title>Coordination and context-dependence in the generation of embodied conversation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe the generation of communicative actions in an implemented embodied conversational agent. Our agent plans each utterance so that multiple communicative goals may be realized opportunistically by a composite action including not only speech but also coverbal gesture that fits the context and the ongoing speech in ways representative of natural human conversation. We accomplish this by reasoning from a grammar which describes gesture declaratively in terms of its discourse function, semantics and synchrony with speech.</Paragraph>
+</Section>
+</Paper>
+

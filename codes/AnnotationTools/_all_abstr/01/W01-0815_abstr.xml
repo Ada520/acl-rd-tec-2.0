@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W01-0815">
+<Title>Evaluating text quality: judging output texts without a clear source</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We consider how far two attributes of text quality commonly used in MT evaluation - intelligibility and fidelity apply within NLG. While the former appears to transfer directly, the latter needs to be completely re-interpreted.</Paragraph>
+<Paragraph position="1"> We make a crucial distinction between the needs of symbolic authors and those of end-readers. We describe a form of textual feedback, based on a controlled language used for specifying software requirements that appears well suited to authors' needs, and an approach for incrementally improving the fidelity of this feedback text to the content model.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W96-0514">
+<Title>The Computation of the Informational Status of Discourse Entities</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Summary
+</SectionTitle>
+<Paragraph position="0"> During language production, processes of information structuring constitute a relevant part. These processes are regarded as a mapping from a conceptual structure to a perspective semantic structure. I will focus on one aspect of information structuring, namely the verbalization of the current mental representation of entities. For this verbalization, the informational status of the entities is used. This property is expressed by different means in different languages. My approach constitutes a cognitively oriented and highly context-dependent model for computing the informational status embedded in a concept-to-speech model of language production. The processes are illustrated by examples taken from the implementation.</Paragraph>
+</Section>
+</Paper>
+

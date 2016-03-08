@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="I05-2012">
+<Title>Automatic Extraction of English-Korean Translations for Constituents of Technical Terms</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Technical terms are linguistic realization of a domain concept and their constituents are a component used for representing the concept. Many technical terms are usually multi-word terms and their meaning can be inferred from their constituents. Because a term constituent is usually a morphological unit rather than a conceptual unit in Korean technical terms, we need to first identify conceptual units and then to resolve the proper meaning of the conceptual units in order to properly translate technical terms. For natural language applications to properly handle technical terms, it is necessary to give information about conceptual units and their meaning including homonym, synonym and domain dependency. In this paper, we propose a term constituent alignment algorithm, which extracts such information from bilingual technical term pairs. Our algorithm regards English term constituents as a conceptual unit and then finds its Korean counterpart. Our method shows about</Paragraph>
+</Section>
+</Paper>
+

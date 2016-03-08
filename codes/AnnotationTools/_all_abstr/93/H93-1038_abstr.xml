@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H93-1038">
+<Title>An MAT Tool and Its Effectiveness</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> Although automatic machine translation (MT) of unconstrained text is beyond the state of the art today, the need for increased translator productivity is urgent. The PANI3LOSS system addresses this dilemma by integrating MT with machine-aided translation (MAT). The main measure of progress in the development of the PANGLOSS system is a gradual increase in the level of automation. The current PANGLOSS MT system typically generates sub-sentence-length units of the target text. Any remaining gaps are treated by lexicon lookup. A mixture of these two kinds of components is presented to the user using the CMAT (Component Machine-Aided Translation) editor, which was designed to facilitate the transformation of this output into a high-quality text. An experiment evaluating the utility of the CMAT editor demonstrated its usefulness in this task, and provides useful guidance for further development.</Paragraph>
+</Section>
+</Paper>
+

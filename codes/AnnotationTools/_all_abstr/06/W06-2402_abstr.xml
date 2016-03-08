@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-2402">
+<Title>Grouping Multi-word Expressions According to Part-Of-Speech in Statistical Machine Translation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper studies a strategy for identifying and using multi-word expressions in Statistical Machine Translation. The performance of the proposed strategy for various types of multi-word expressions (like nouns or verbs) is evaluated in terms of alignment quality as well as translation accuracy. Evaluations are performed by using real-life data, namely the European Parliament corpus. Results from translation tasks from English-to-Spanish and from Spanish-to-English are presented and discussed.</Paragraph>
+</Section>
+</Paper>
+

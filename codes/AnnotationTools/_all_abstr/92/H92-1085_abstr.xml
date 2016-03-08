@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H92-1085">
+<Title>Automatic Detection and Correction of Repairs in Human-Computer Dialog*</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> We have analyzed 607 sentences of spontaneous human-computer speech data containing repairs (drawn from a corpus of 10,718). We present here criteria and techniques for automatically detecting the presence of a repair, its location, and making the appropriate correction. The criteria involve integration of knowledge from several sources: pattern matching, syntactic and semantic analysis, and acoustics.</Paragraph>
+</Section>
+</Paper>
+

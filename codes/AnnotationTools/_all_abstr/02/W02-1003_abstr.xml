@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-1003">
+<Title>An Incremental Decision List Learner</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We demonstrate a problem with the standard technique for learning probabilistic decision lists. We describe a simple, incremental algorithm that avoids this problem, and show how to implement it efficiently. We also show a variation that adds thresholding to the standard sorting algorithm for decision lists, leading to similar improvements. Experimental results show that the new algorithm produces substantially lower error rates and entropy, while simultaneously learning lists that are over an order of magnitude smaller than those produced by the standard algorithm.</Paragraph>
+</Section>
+</Paper>
+

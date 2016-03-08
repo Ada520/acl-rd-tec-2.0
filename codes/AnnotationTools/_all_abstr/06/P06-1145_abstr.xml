@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P06-1145">
+<Title>Sydney, July 2006. c(c)2006 Association for Computational Linguistics Time Period Identification of Events in Text Taichi Noro + Takashi Inui ++ Hiroya Takamura ++</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This study aims at identifying when an event written in text occurs. In particular, we classify a sentence for an event into four time-slots; morning, daytime, evening, and night. To realize our goal, we focus on expressions associated with time-slot (time-associated words). However, listing up all the time-associated words is impractical, because there are numerous time-associated expressions.</Paragraph>
+<Paragraph position="1"> We therefore use a semi-supervised learning method, the Naive Bayes classifier backed up with the Expectation Maximization algorithm, in order to iteratively extract time-associated words while improving the classifier. We also propose to use Support Vector Machines to filter out noisy instances that indicates no specific time period. As a result of experiments, the proposed method achieved 0.864 of accuracy and outperformed other methods.</Paragraph>
+</Section>
+</Paper>
+

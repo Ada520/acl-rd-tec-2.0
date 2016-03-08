@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-2207">
+<Title>Identifying correspondences between words: an approach based on a bilingual syntactic analysis of French/English parallel corpora</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a word alignment procedure based on a syntactic dependency analysis of French/English parallel corpora called &amp;quot;alignment by syntactic propagation&amp;quot;. Both corpora are analysed with a deep and robust parser. Starting with an anchor pair consisting of two words which are potential translations of one another within aligned sentences, the alignment link is propagated to the syntactically connected words. The method was tested on two corpora and achieved a precision of 94.3 and 93.1% as well as a recall of 58 and 56%, respectively for each corpus.</Paragraph>
+</Section>
+</Paper>
+

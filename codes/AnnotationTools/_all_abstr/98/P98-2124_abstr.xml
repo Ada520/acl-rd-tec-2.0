@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-2124">
+<Title>Word Clustering and Disambiguation Based on Co-occurrence Data</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We address the problem of clustering words (or constructing a thesaurus) based on co-occurrence data, and using the acquired word classes to improve the accuracy of syntactic disambiguation. We view this problem as that of estimating a joint probability distribution specifying the joint probabilities of word pairs, such as noun verb pairs. We propose an efficient algorithm based on the Minimum Description Length (MDL) principle for estimating such a probability distribution. Our method is a natural extension of those proposed in (Brown et al., 1992) and (Li and Abe, 1996), and overcomes their drawbacks while retaining their advantages. We then combined this clustering method with the disambiguation method of (Li and Abe, 1995) to derive a disambiguation method that makes use of both automatically constructed thesauruses and a hand-made thesaurus. The overall disambiguation accuracy achieved by our method is 85.2%, which compares favorably against the accuracy (82.4%) obtained by the state-of-the-art disambiguation method of (Brill and Resnik, 1994).</Paragraph>
+</Section>
+</Paper>
+

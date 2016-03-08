@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-1512">
+<Title>References</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Starting from a clarification concerning the notion of distributed grammar engineering, we present options of distributed grammar engineering as are supported by the ALEP grammar development platform and as were instantiated in the LS-GRAM project. The notion of distributed grammar engineering being grounded in the concepts of grammar modularization and grammar module integration, we focus on ALEP features providing operational support for these two concepts in terms of both data storage and internal classification of grammar code. We conclude with an indication of the major benefits of ALEP facilities for distributed grammar engineering and derive some general desiderata from this.</Paragraph>
+</Section>
+</Paper>
+

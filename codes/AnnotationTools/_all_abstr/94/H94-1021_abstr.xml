@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H94-1021">
+<Title>Whither Written Language Evaluation?</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. EVALUATION GOALS
+</SectionTitle>
+<Paragraph position="0"> Although the group met under the banner of MUC (&amp;quot;Message Understanding Conference&amp;quot;), it examined the issues of the evaluation of written language processing systems more generally, and did not limit itself to the types of evaluations conducted in past MUCs, which had been restricted to &amp;quot;information extraction&amp;quot; (template fillhag). The group began by considering the aims of such evaluations, which include * assessing progress in written language understanding (and in particular, of ARPA's Tipster Phase 2 technology program) * guiding research and pushing the technology (by identifying problems that need to be addressed) * maintaining and increasing the interest and participation of potential users (by demonsl~ating systems which are &amp;quot;relevant&amp;quot; to practical applications) * drawing more research groups into the evaluation process (and thus fostering the exchange of new ideas) * lessening substantially the overhead associated with evaluations null To meet these various goals, the group proposed that MUC-6 consist of a menu of different evaluations. The evaluations would be run on a single test set, but there would be separate evaluation scores measuring different capabilities. Individual sites would be free to participate in any subset of the evaluations. (Of course, for sites which choose- or feel obligated - to participate to the maximum, the richness of the menu which was developed may work against the stated goal of reducing the evaluation overhead.) The group decided that the corpus should consist of business-related articles from American newspapers and wire services. A large corpus of such texts, part of the corpora for the recent TREC (Text Retrieval Evaluation) Conferences, is available through the Linguistic Data Consortium. This includes articles from the Wall Street Journal, the San Jose Mercury News, and the AP newswire.</Paragraph>
+</Section>
+</Paper>
+

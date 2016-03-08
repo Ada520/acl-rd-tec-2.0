@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P04-3006">
+<Title>An Automatic Filter for Non-Parallel Texts</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Numerous cross-lingual applications, including state-of-the-art machine translation systems, require parallel texts aligned at the sentence level. However, collections of such texts are often polluted by pairs of texts that are comparable but not parallel. Bitext maps can help to discriminate between parallel and comparable texts. Bitext mapping algorithms use a larger set of document features than competing approaches to this task, resulting in higher accuracy.</Paragraph>
+<Paragraph position="1"> In addition, good bitext mapping algorithms are not limited to documents with structural mark-up such as web pages. The task of filtering non-parallel text pairs represents a new application of bitext mapping algorithms.</Paragraph>
+</Section>
+</Paper>
+

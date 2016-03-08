@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W99-0805">
+<Title>Interactive Auditory Demonstrations</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The subject matter of speech and hearing is packed full of phenomena and processes which lend themselves to or require auditory demonstration. In the past, this has been achieved through passive media such as tape or CD (e.g.</Paragraph>
+<Paragraph position="1"> Houtsma et ai, 1987; Bregman &amp; Ahad, 1995).</Paragraph>
+<Paragraph position="2"> The advent of languages such as MATLAB which suppor!s sound handling, modern interface elements and powerful signal processing routines, coupled with the availability of fast processors and ubiquitous soundcards allows tbr a more interactive style of demonstration.</Paragraph>
+<Paragraph position="3"> A significant effort is now underway in the speech and hearing community to exploit these favourable conditions (see the MATISSE proceedings (1999), for instance).</Paragraph>
+<Paragraph position="4"> Excitingly, it is now possible to allow exploratory access to part or all of the parameter space underlying each phenomenon. Over the past 18 months, more than 20 interactive auditory demonstrations have been produced at Sheffield as part of an ongoing project to provide teaching material for the diverse disciplines which contribute to speech and hearing. Many of the demonstrations are suitable for undergraduate courses, while others encode phenomena which are primarily of interest to researchers.</Paragraph>
+<Paragraph position="5"> The motivation for and design ethos behind this project has been described previously in Cooke &amp; Brown (1999) and Wrigley, Cooke &amp; Brown (1999). In this extended abstract, a gallery of screenshots which focus on the auditory (as opposed to speech) demonstrations is provided. The aim is to show the breadth of what is possible in a relatively short time and to encourage others to produce similar tools.</Paragraph>
+<Paragraph position="6"> The demonstrations can be freely downloaded via http://www.dcs.shef.ac.uk/-martin.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W01-1407">
+<Title>Toward hierarchical models for statistical machine translation of inflected languages</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In statistical machine translation, correspondences between the words in the source and the target language are learned from bilingual corpora on the basis of so called alignment models.</Paragraph>
+<Paragraph position="1"> Existing statistical systems for MT often treat different derivatives of the same lemma as if they were independent of each other. In this paper we argue that a better exploitation of the bilingual training data can be achieved by explicitly taking into account the interdependencies of the different derivatives. We do this along two directions: Usage of hierarchical lexicon models and the introduction of equivalence classes in order to ignore information not relevant for the translation task. The improvement of the translation results is demonstrated on a German-English corpus.</Paragraph>
+</Section>
+</Paper>
+

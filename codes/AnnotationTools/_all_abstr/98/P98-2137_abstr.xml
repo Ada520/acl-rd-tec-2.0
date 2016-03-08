@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-2137">
+<Title>Babel: A testbed for research in origins of language</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We believe that language is a complex adaptive system that emerges from adaptive interactions between language users and continues to evolve and adapt through repeated interactions. Our research looks at the mechanisms and processes involved in such emergence and adaptation. To provide a basis for our computer simulations, we have implemented an open-ended, extensible testbed called Babel which allows rapid construction of experiments and flexible visualization of results.</Paragraph>
+</Section>
+</Paper>
+

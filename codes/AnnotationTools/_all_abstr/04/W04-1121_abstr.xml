@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-1121">
+<Title>Aligning Bilingual Corpora Using Sentences Location Information*</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Large amounts of bilingual resource on the Internet provide us with the probability of building a large scale of bilingual corpus. The irregular characteristics of the real texts, especially without the strictly aligned paragraph boundaries, bring a challenge to alignment technology. The traditional alignment methods have some difficulties in competency for doing this. This paper describes a new method for aligning real bilingual texts using sentence pair location information. The model was motivated by the observation that the location of a sentence pair with certain length is distributed in the whole text similarly. It uses (1:1) sentence beads instead of high frequency words as the candidate anchors.</Paragraph>
+<Paragraph position="1"> The method was developed and evaluated through many different test data. The results show that it can achieve good aligned performance and be robust and language independent. It can resolve the alignment problem on real bilingual text.</Paragraph>
+</Section>
+</Paper>
+

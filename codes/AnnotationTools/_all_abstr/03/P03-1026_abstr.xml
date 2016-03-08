@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P03-1026">
+<Title>A Tabulation-Based Parsing Method that Reduces Copying</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a new bottom-up chart parsing algorithm for Prolog along with a compilation procedure that reduces the amount of copying at run-time to a constant number (2) per edge. It has applications to unification-based grammars with very large partially ordered categories, in which copying is expensive, and can facilitate the use of more sophisticated indexing strategies for retrieving such categories that may otherwise be overwhelmed by the cost of such copying. It also provides a new perspective on &amp;quot;quick-checking&amp;quot; and related heuristics, which seems to confirm that forcing an early failure (as opposed to seeking an early guarantee of success) is in fact the best approach to use. A preliminary empirical evaluation of its performance is also provided.</Paragraph>
+</Section>
+</Paper>
+

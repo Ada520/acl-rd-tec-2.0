@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E91-1042">
+<Title>Modelling Knowledge for a Natural Language Understanding System</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In the field of knowledge based systems for natural language processing, one of the most challenging aims is to use parts of an existing knowledge base for different domains and/or different tasks. We support the point that this problem can only be solved by using adequate metainformation about the content and structuring principles of the representational systems concerned. One of the prerequisites in this respect is the transparency of modelling decisions.</Paragraph>
+<Paragraph position="1"> After a short introduction to our scenario, we will propose general dimensions for characterizing knowledge in knowledge based systems. These dimensions will be differentiated according to linguistic levels of investigation in order to deduce structuring principles for the modelling process. The resulting criteria will be evaluated in a detailed e~ample taken from our prototypical implementation.</Paragraph>
+<Paragraph position="2"> We hope to contribute some promising steps towards a methodology of knowledge engineering with natural language and common sense orientation.</Paragraph>
+</Section>
+</Paper>
+

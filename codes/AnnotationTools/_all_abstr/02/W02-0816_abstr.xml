@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-0816">
+<Title></Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+References
+1 Eneko Agirre, German Rigau, and J. Atserias. 2000. Combining supervised and unsupervised lexical knowledge methods for word sense disambiguation. Computers and the Humanities. Senseval Special Issue, 34(1--2):103--108.
+</SectionTitle>
+<Paragraph position="0"> 2 Sue Atkins. 1993. Tools for computer-aided lexicography: the Hector project. In Papers in Computational Lexicography: COMPLEX 93, Budapest.</Paragraph>
+<Paragraph position="1"> 3 Michele Banko , Vibhu O. Mittal , Michael J. Witbrock, Headline generation based on statistical translation, Proceedings of the 38th Annual Meeting on Association for Computational Linguistics, p.318-325, October 03-06, 2000, Hong Kong 4 Peter F. Brown , Stephen A. Della Pietra , Vincent J. Della Pietra , Robert L. Mercer, Word-sense disambiguation using statistical methods, Proceedings of the 29th annual meeting on Association for Computational Linguistics, p.264-270, June 18-21, 1991, Berkeley, California 5 John Carroll and Diana McCarthy. 2000. Word sense disambiguation using automatically acquired verbal preferences. Computers and the Humanities. Senseval Special Issue, 34(1--2):109--114.</Paragraph>
+<Paragraph position="2"> 6 Siobhan Devlin and John Tait. 1998. The use of a psycholinguistic database in the simplification of text for aphasic readers. In John Nerbonne, editor, Linguistic Databases, volume CSLI Lecture Notes Number 77, pages 161--173. CSLI Publications, Stanford CA. 7 Adam Kilgarriff and Joseph Rosenzweig. 2000. Framework and results for english SENSEVAL. Computers and the Humanities. Senseval Special Issue, 34(1--2):15--48.</Paragraph>
+<Paragraph position="3"> 8 Adam Kilgarriff. 1997. What is word sense disambiguation good for? In Proceedings of Natural Language Processing in the Pacific Rim, pages 209--214.</Paragraph>
+<Paragraph position="4"> 9 Adam Kilgarriff. 1998. Gold standard datasets for evaluating word sense disambiguation programs. Computer Speech and Language, 12(3):453--472.</Paragraph>
+<Paragraph position="5"> 10 Philip Resnik , David Yarowsky, Distinguishing systems and distinguishing senses: new evaluation methods for Word Sense Disambiguation, Natural Language Engineering, v.5 n.2, p.113-133, June 1999 11 Hinrich Schtze, Automatic word sense discrimination, Computational Linguistics, v.24 n.1, March 1998</Paragraph>
+</Section>
+</Paper>
+

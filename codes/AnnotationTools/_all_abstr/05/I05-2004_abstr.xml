@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="I05-2004">
+<Title>A Language Independent Algorithm for Single and Multiple Document Summarization</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a method for language independent extractive summarization that relies on iterative graph-based ranking algorithms. Through evaluations performed on a single-document summarization task for English and Portuguese, we show that the method performs equally well regardless of the language. Moreover, we show how a meta-summarizer relying on a layered application of techniques for single-document summarization can be turned into an effective method for multi-document summarization. null</Paragraph>
+</Section>
+</Paper>
+

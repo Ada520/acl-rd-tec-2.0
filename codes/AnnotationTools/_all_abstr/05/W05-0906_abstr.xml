@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W05-0906">
+<Title>Proceedings of the ACL Workshop on Intrinsic and Extrinsic Evaluation Measures for Machine Translation and/or Summarization, pages 41-48, Ann Arbor, June 2005. c(c)2005 Association for Computational Linguistics Evaluating Summaries and Answers: Two Sides of the Same Coin?</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper discusses the convergence between question answering and multi-document summarization, pointing out implications and opportunities for knowledge transfer in both directions. As a case study in one direction, we discuss the recent development of an automatic method for evaluating definition questions based on n-gram overlap, a commonly-used technique in summarization evaluation. In the other direction, the move towards topic-oriented summaries requires an understanding of relevance and topicality, issues which have received attention in the question answering literature. It is our opinion that question answering and multi-document summarization representtwocomplementaryapproachestothe null same problem of satisfying complex user information needs. Although this points to many exciting opportunities for systembuilding, here we primarily focus on implications for system evaluation.</Paragraph>
+</Section>
+</Paper>
+

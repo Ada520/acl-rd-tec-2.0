@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H01-1030">
+<Title>First Story Detection using a Composite Document Representation.</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> In this paper, we explore the effects of data fusion on First Story Detection [1] in a broadcast news domain. The data fusion element of this experiment involves the combination of evidence derived from two distinct representations of document content in a single cluster run. Our composite document representation consists of a concept representation (based on the lexical chains derived from a text) and free text representation (using traditional keyword index terms). Using the TDT1 evaluation methodology we evaluate a number of document representation strategies and propose reasons why our data fusion experiment shows performance improvements in the TDT domain.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-1103">
+<Title>Using a Probabilistic Translation Model for Cross-Language Information Retrieval</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> There is an increasing need for document search mechanisms capable of matching a natural language query with documents written in a different language. Recently, we conducted several experiments aimed at comparing various methods of incorporating a cross-linguistic capability to existing information retrieval (IR) systems. Our results indicate that translating queries with off-the-shelf machine translation systems can result in relatively good performance. But the results also indicate that other methods can perfonn even better. More specifically, we tested a probabilistic translation model of the kind proposed by Brown &amp; al. \[2\]. The parameters of that system had been estimated automatically on a different, unrelated, corpus of parallel texts. After we augmented it with a small bilingual dictionary, this probabilistic translation model outperformed machine translation systems on our cross-language IR task.</Paragraph>
+</Section>
+</Paper>
+

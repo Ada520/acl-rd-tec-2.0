@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="I05-6005">
+<Title>Building Dialogue Corpora for Nursing Activity Analysis</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we introduce our corpora under development, which are recorded in a real environment. These corpora comprise dialogues collected in hospitals with the aim of developing a nursing service support system through a comprehensive understanding of nursing activities. We use the corpora to analyze how nurses perform their nursing duties and how they express the performance of their tasks. To understand nursing activities, we investigated nursing services and the relevant medical charts by using the corpora. In the paper, we show features and promising applications of the corpora.</Paragraph>
+</Section>
+</Paper>
+

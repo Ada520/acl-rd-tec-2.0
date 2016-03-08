@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N03-2005">
+<Title>Story Link Detection and New Event Detection are Asymmetric</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Story link detection has been regarded as a core technology for other Topic Detection and Tracking tasks such as new event detection. In this paper we analyze story link detection and new event detection in a retrieval framework and examine the effect of a number of techniques, including part of speech tagging, new similarity measures, and an expanded stop list, on the performance of the two detection tasks.</Paragraph>
+<Paragraph position="1"> We present experimental results that show that the utility of the techniques on the two tasks differs, as is consistent with our analysis.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1028">
+<Title>Generalizing Dimensionality in Combinatory Categorial Grammar</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We extend Combinatory Categorial Grammar (CCG) with a generalized notion of multi-dimensional sign, inspired by the types of representations found in constraint-based frameworks like HPSG or LFG. The generalized sign allows multiple levels to share information, but only in a resource-bounded way through a very restricted indexation mechanism. This improves representational perspicuity without increasing parsing complexity, in contrast to full-blown unification used in HPSG and LFG.</Paragraph>
+<Paragraph position="1"> Well-formedness of a linguistic expressions remains entirely determined by the CCG derivation. We show how the multidimensionality and perspicuity of the generalized signs lead to a simplification of previous CCG accounts of how word order and prosody can realize information structure.</Paragraph>
+</Section>
+</Paper>
+

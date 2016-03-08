@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0813">
+<Title>Inferring Semantic Similarity from Distributional Evidence: an Analogy-based Approach to Word Sense Disambiguation*</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The paper describes an analogy-based measure of word-sense proximity grounded on distributional evidence in typical contexts, and illustrates a computational system which makes use of this measure for purposes of lexical disambiguation. Experimental results show that word-sense analogy based on contexts of use compares favourably with classical word-sense similarity defined in terms of thesaural proximity. null</Paragraph>
+</Section>
+</Paper>
+

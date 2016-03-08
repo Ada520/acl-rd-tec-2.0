@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-2163">
+<Title>Sense Classification of Verbal Polysemy based-on Bilingual Class/Class Association*</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> \[n the field of statistical analysis of natural language data, the measure of word/class association has proved to be quite useful for discovering a meaningtiff sense cluster in an arbitrary level of the thesaurus. In this paper, we apply its idea to the sense classification of Japanese verbal polysemy in case frame acquisition from Japanese-English parallel corpora. Measures of bilingual class~class association and bilingual class/frame association are introduced and used for discovering sense clusters in the sense distribution of English predicates and Japanese case element nouns.</Paragraph>
+<Paragraph position="1"> In a small experiment, 93.3% of the discovered clusters are correct in that none of them contains examples of more than one hand-classified senses.</Paragraph>
+</Section>
+</Paper>
+

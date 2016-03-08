@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-1207">
+<Title>Discovery of Manner Relations and their Applicability to Question Answering</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The discovery of semantic relations from text becomes increasingly important for applications such as Question Answering, Information Extraction, Summarization, Text Understanding and others. This paper presents a method for the automatic discovery of manner relations using a Naive Bayes learning algorithm. The method was tested on the UPenn Treebank2 corpus, and the targeted manner relations were detected with a precision of 64.44% and a recall of 68.67%.</Paragraph>
+</Section>
+</Paper>
+

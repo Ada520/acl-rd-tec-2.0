@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-1807">
+<Title>A Knowledge Based Approach to Identification of Serial Verb Construction in Chinese-to-Korean Machine Translation System</Title>
+<Section position="2" start_page="0" end_page="1" type="abstr">
+<SectionTitle>
+2. Related Works
+</SectionTitle>
+<Paragraph position="0"> A SVC is studied among several researchers as different names. But the general syntactic form is (NP) V1 (NP) V2 (NP)  . The variance of definition for SVC comes from the different scope of interpretation for the sentence pattern. We will introduce three typical researches to clearly outline our definition of SVC. The narrowest view of scope is suggested in (Lu, 1953). In his interpretation, V1 and V2 have the same subject and should be not coordinative, but it is difficult to decide which one is main or additional. Zhu (Zhu, 1981) includes all cases of Lu's and the possibility of adding an adjective to substitute for the second verb position. He also includes the case where an additional verb and a main verb are used, such as V+ Zhao expression in V1 position, which indicates that V1 is additional and V2 is main. The broadest scope is proposed in (Li &amp; Thompson, 1981).</Paragraph>
+<Paragraph position="1"> According to his interpretation, an SVC includes not only all the patterns noted above but also a pivot construction, a subject/object clause, and a coordinate clause, but excludes the pattern with an adjective in the V2 position. In this paper, the scope of SVC is almost same as Li's but the classification of SVCs differs slightly, detailing the categorization in chapter 4.</Paragraph>
+<Paragraph position="2"> A few computational solutions to identifying SVCs have been proposed by some researchers.</Paragraph>
+<Paragraph position="3"> A formal description is shown in (Chan, 1998) using time lapse notation and the related definition. However, her method makes it difficult to computationally detect SVCs without the resources containing the deep level of analysis of each lexical, which is not obtainable in the current stage of language processing.</Paragraph>
+<Paragraph position="4">  V1 : first verb, V2 : second verb, NP : noun phrase. 3. Overview of TOTAL-CK System</Paragraph>
+<Section position="1" start_page="1" end_page="1" type="sub_section">
+<SectionTitle>
+Architecture
+</SectionTitle>
+<Paragraph position="0"> As a typical transfer system, TOTAL-CK consists of three parts: Chinese analysis, dependency tree transfer, and Korean generation. The system architecture of TOTAL-CK is shown in figure 1. The design principles and the detail descriptions are given in (Kim et al., 2002).</Paragraph>
+</Section>
+</Section>
+</Paper>
+

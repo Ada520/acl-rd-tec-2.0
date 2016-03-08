@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C94-1016">
+<Title>THE JaRAP EXPERIMENTAL SYSTEM OF JAPANESE-RUSSIAN AUTOMATIC TRANSLATION</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The paper is the first report on the experimental MT system developed as part of the Japanese-Russian Automatic tra.aslation Project (JaRAP). The system follows the transfer approach to MT. Limited so far to lexico-morphologieal processing, it is seen as a foundation for more ambitious linguistic research.</Paragraph>
+<Paragraph position="1"> The system is implemented on IBM PC, MS DOS, in Arity Prolog (analysis and transfer) and Turbo Pascal (synthesis).</Paragraph>
+</Section>
+</Paper>
+

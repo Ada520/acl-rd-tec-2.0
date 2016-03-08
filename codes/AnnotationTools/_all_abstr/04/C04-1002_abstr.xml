@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1002">
+<Title>Linear-Time Dependency Analysis for Japanese</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a novel algorithm for Japanese dependency analysis. The algorithm allows us to analyze dependency structures of a sentence in linear-time while keeping a state-of-the-art accuracy. In this paper, we show a formal description of the algorithm and discuss it theoretically with respect to time complexity. In addition, we evaluate its efficiency and performance empirically against the Kyoto University Corpus. The proposed algorithm with improved models for dependency yields the best accuracy in the previously published results on the Kyoto University Corpus.</Paragraph>
+</Section>
+</Paper>
+

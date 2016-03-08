@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C02-1010">
+<Title>Structure Alignment Using Bilingual Chunking</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A new statistical method called &amp;quot;bilingual chunking&amp;quot; for structure alignment is proposed. Different with the existing approaches which align hierarchical structures like sub-trees, our method conducts alignment on chunks. The alignment is finished through a simultaneous bilingual chunking algorithm. Using the constrains of chunk correspondence between source language (SL)1 and target language (TL), our algorithm can dramatically reduce search space, support time synchronous DP algorithm, and lead to highly consistent chunking. Furthermore, by unifying the POS tagging and chunking in the search process, our algorithm alleviates effectively the influence of POS tagging deficiency to the chunking result.</Paragraph>
+<Paragraph position="1"> The experimental results with English-Chinese structure alignment show that our model can produce 90% in precision for chunking, and 87% in precision for chunk alignment.</Paragraph>
+<Paragraph position="2"> Introduction We address here the problem of structure alignment, which accepts as input a sentence pair,  as example; it is relatively easy, however, to be extended to other language pairs.</Paragraph>
+<Paragraph position="3"> and produces as output the parsed structures of both sides with correspondences between them. The structure alignment can be used to support machine translation and cross language information retrieval by providing extended phrase translation lexicon and translation templates.</Paragraph>
+<Paragraph position="4"> The popular methods for structure alignment try to align hierarchical structures like sub-trees with parsing technology. However, the alignment accuracy cannot be guaranteed since no parser can handle all authentic sentences very well. Furthermore, the strategies which were usually used for structure alignment suffer from serious shortcomings. For instance, parse-to-parse matching which regards parsing and alignment as separate and successive procedures suffers from the inconsistency between grammars of different languages.</Paragraph>
+<Paragraph position="5"> Bilingual parsing which looks upon parsing and alignment as a simultaneous procedure needs an extra 'bilingual grammar'. It is, however, difficult to write a complex 'bilingual grammar'. In this paper, a new statistical method called &amp;quot;bilingual chunking&amp;quot; for structure alignment is proposed. Different with the existing approaches which align hierarchical structures like sub-trees, our method conducts alignment on chunks. The alignment is finished through a simultaneous bilingual chunking algorithm. Using the constrains of chunk correspondence between source language (SL) and target language (TL), our algorithm can dramatically reduce search space, support time synchronous DP algorithm, and lead to highly consistent chunking.</Paragraph>
+<Paragraph position="6"> Furthermore, by unifying the POS tagging and chunking in the search process, our algorithm alleviates effectively the influence of POS tagging deficiency to the chunking result.</Paragraph>
+<Paragraph position="7"> The experimental results with English- Chinese structure alignment show that our model can produce 90% in precision for chunking, and 87% in precision for chunk alignment.</Paragraph>
+</Section>
+</Paper>
+

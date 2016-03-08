@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H92-1061">
+<Title>Fragment Processing in the DELPHI System</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> This paper presents the fallback understanding component of BBN's DELPHI NL sysystem. This component is invoked when the core DELPHI system is unable to understand an input. It incorporates both syntax- and frame-based fragment combination sub-components, in an attempt to provide a smoother path from accurate but fragile conventional parsers on the one hand to the robust but less accurate schema-based methods on the other. The frame-based sub-component is fully integrated with the DELPHI's core grammar and parser, and represents an advance over previous proposals.</Paragraph>
+<Paragraph position="1"> The complete fallback understanding component, incorporating both sub-components, was used in the February 1992 NL and SLS evaluations of the DELPHI system and we report on its contribution to these results, and those of its two separate sub-components. For SLS, use of the frame-based sub-component alone resulted in a figure 39.2% Weighted Error--signifigantly lower than our lowest official score of 43.7% Weighted Error.</Paragraph>
+</Section>
+</Paper>
+

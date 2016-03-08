@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-1312">
+<Title>Cross-lingual Information Retrieval using Hidden Markov Models</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents empirical results in cross-lingual information retrieval using English queries to access Chinese documents (TREC-5 and TREC-6) and Spanish documents (TREC-4). Since our interest is in languages where resources may be minimal, we use an integrated probabilistic model that requires only a bilingual dictionary as a resource. We explore how a combined probability model of term translation and retrieval can reduce the effect of translation ambiguity. In addition, we estimate an upper bound on performance, if translation ambiguity were a solved problem. We also measure performance as a function of bilingual dictionary size.</Paragraph>
+</Section>
+</Paper>
+

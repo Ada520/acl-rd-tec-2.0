@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-2114">
+<Title>A Dynamic Language Model Based on Individual Word Domains</Title>
+<Section position="1" start_page="0" end_page="789" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a new statistical language model based on a Colnbination of individual word language models. Each word model is built from an individual corpus which is formed by extracting those subsets of the entire training corpus which contain that significant word. We also present a novel way of combining language models called the &amp;quot;union model&amp;quot;, based on a logical union of intersections, and use this to combine the language models obtained for the significant words from a cache. The initial results with the new model provide a 20% reduction in language model perplexity over the standard 3-gram approach.</Paragraph>
+<Paragraph position="1"> Introduction Statistical language models are based on information obtained fiom the analysis of large samples of a target language. Such models estimate the conditional probability of a word given a sequence of preceding words. The conditional probability can be further used to determine the likelihood of a sentence through lhe product of the individual word probabilities. A popular type of statistical language model is lhe dynamic language model, which dynamically modifies conditional probabilities depending on the recent word history. For example the cached-based natural language models (Kuhn R. &amp; De Mori R., 1990) incorporates a cache component into the model, which estimates the probability of a word depending upon its recent usage.</Paragraph>
+<Paragraph position="2"> Trigger based models go a step further by triggering associated words to each content word in a cache giving each associated word a higher probability (Lau et al., 1993).</Paragraph>
+<Paragraph position="3"> Our statistical language model, based upon individual word domains, extends these ideas by creating a new language model for each significant word in the cache. A significant word is hard to define; it is any word that significantly contributes to the content of the text. We define it as any word which is not a stop word, i. e. articles, prepositions and some of the most fiequcntly used words in the language such as &amp;quot;will&amp;quot;, &amp;quot;now&amp;quot;, &amp;quot;very&amp;quot;, etc. Our model combines individual word language models with a standard global n-gram language model.</Paragraph>
+<Paragraph position="4"> A training corpus for each significant word is formed from the amalgamation of the text fiagments taken fiom the global training corpus in which that word appears. As such these corpora are smaller and closely constrained; hence the individual language models are more precise than the global language model and thereby should offer performance gains. One aspect of the performance of this joint model is how the global language model is to be combined with the individual word language models. This is explored later.</Paragraph>
+<Paragraph position="5"> This paper is organised as follows.</Paragraph>
+<Paragraph position="6"> Section 1 explains the basis for this model. The mathematical background and how the models are combined are explained in section 2. In the third section, a novel method of combining the word models, the probabilistic-union model is explained. Finally, results and conclusion are drawn.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W01-1623">
+<Title>Toward a Large Spontaneous Mandarin Dialogue Corpus</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper addresses recent results on Mandarin spoken dialogues and introduces the collection of a large Mandarin conversational dialogue corpus. In the context of data processing, principles of transcription are proposed and accordingly a transcription tool is specifically developed for Mandarin spoken conversations.</Paragraph>
+<Paragraph position="1"> Introduction Large speech corpora have become indispensable for current linguistic research and information science applications dealing with spoken data (Gibbon et al. 1997). Concretely, they provide real phonetic data and empirical data-driven knowledge on linguistic features of spoken language. The corpus presented here is composed of conversational dialogues. Conversations contain a considerable variety of linguistic phenomena as well as phonetic-acoustic variations. Furthermore, they open up a wide range of research issues such as dialogue acts, turn-taking, lexical use of spoken language and prosodic use in conversation. From a diachronic point of view, such a large dialogue corpus archives the contemporary daily conversational use of a given language.</Paragraph>
+<Paragraph position="2"> 1 General Issues on Mandarin Dialogues In the following, issues on Mandarin dialogues relevant to spontaneous dialogue annotation are summarized and discussed. It includes lexical distribution, discourse markers, turn-taking and prosodic characterization.</Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+1.1 Lexical Distribution in Spoken Mandarin
+</SectionTitle>
+<Paragraph position="0"> Results presented by Tseng (2001) show that speakers of Mandarin adopt some 30 words for building core structures of utterances in conversation, independently of individual speakers. All subjects used these words more than three times. The occurrences of these 30 core words make up about 80% of the overall tokens in conversation. Interestingly but also expected in conversational dialogues, the distribution of token frequency across all subjects is highly symmetric (Tseng 2001). For instance, verbs &amp;quot;is located&amp;quot;, &amp;quot;is&amp;quot;, &amp;quot;that is&amp;quot;, &amp;quot;say&amp;quot;, &amp;quot;want&amp;quot; and &amp;quot;have&amp;quot; were frequently used, so were pronouns &amp;quot;s/he&amp;quot;, &amp;quot;you&amp;quot; and &amp;quot;I&amp;quot;. The negation &amp;quot;don't have&amp;quot; was a high-frequency word, so were words &amp;quot;right&amp;quot;, &amp;quot;this/these&amp;quot; and &amp;quot;that/those&amp;quot;. Grammatical particles as well as discourse particles were also among the core words.</Paragraph>
+</Section>
+<Section position="2" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+1.2 Discourse Markers
+</SectionTitle>
+<Paragraph position="0"> It is now well known that what differentiates written texts from spontaneous speech most is the use of discourse particles. Among the core words, eleven words were discourse particles, or they were used as discourse markers. In the literature, there is still no consistent definition for discourse markers (Hirschberg and Litman 1993).</Paragraph>
+<Paragraph position="1"> Discourse markers can be defined as follows: elements whose original semantic meaning tends to decrease and their use in spoken discourse becomes more pragmatic and indicative of discourse structuring are discourse markers. In addition to several adverbs and determiners, discourse particles can also be categorized as discourse markers. They are very often observed in Mandarin spoken conversations as mentioned in Tseng (2001) and Clancy et al. (1996).</Paragraph>
+<Paragraph position="2"> In Tseng (2001), each subject used on average 1.6 discourse particles per turn. This result leads to the consideration, if there is a need to add special categories for discourse particles or particle-like words for spoken Mandarin.</Paragraph>
+<Paragraph position="3"> Discourse particles were found to have different and specific discourse use in conversation.</Paragraph>
+<Paragraph position="4"> Namely, there exist discourse particles appearing preferably in turn-beginning position and some other discourse particles may exclusively mark the location of repairs. Regarding the small size of data used in Tseng (2001), it is one of the reasons why the ongoing project is necessary for research of Mandarin spontaneous conversations.</Paragraph>
+</Section>
+<Section position="3" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+1.3 Taking Turns in Dialogues
+</SectionTitle>
+<Paragraph position="0"> In spontaneous conversation, turn-taking usually takes place arbitrarily to the extent that every individual interacts differently with the others under different circumstances. Thus, how to annotate overlapping sequences is one of the essential tasks in developing annotation systems.</Paragraph>
+<Paragraph position="1"> In Mandarin conversation, there are words preferably used in turn-initial position (Tseng 2001, Chui 2000). They normally have their own discourse-related pragmatic function associated with their positioning in utterances. Similarly, how to mark up turn-initial positions is also directly connected with the annotation convention.</Paragraph>
+</Section>
+<Section position="4" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+1.4 Prosody in Spoken Mandarin
+</SectionTitle>
+<Paragraph position="0"> Lexical tones are typically characteristic of spoken Mandarin. The interaction of lexical tones and the other prosodic means such as stress and intonation are related to a number of research issues, particularly in conversation. Falling tones may not show falling tendency anymore, when the associated words are used for specific discourse functions such as for indicating hesitation or the beginning of a turn (Tseng 2001).</Paragraph>
+</Section>
+</Section>
+</Paper>
+

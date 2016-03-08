@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0808">
+<Title>Word Sense Disambiguation for Acquisition of Selectional Preferences</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The selectional preferences of verbal predicates are an important component of lexical information useful for a number of NLP tasks including disambigliation of word senses. Approaches to selectional preference acquisition without word sense disambiguation are reported to be prone to errors arising from erroneous word senses. Large scale automatic semantic tagging of texts in sufficient quantity for preference acquisition has received little attention as most research in word sense disambiguation has concentrated on quality word sense disambiguation of a handful of target words. The work described here concentrates on adapting semantic tagging methods that do not require a massive overhead of manual semantic tagging and that strike a reasonable compromise between accuracy and cost so that large amounts of text can be tagged relatively quickly.</Paragraph>
+<Paragraph position="1"> The results of some of these adaptations are described here along with a comparison of the selectional preferences acquired with and without one of these methods. Results of a bootstrapping approach are also outlined in which the preferences obtained are used for coarse grained sense disambiguation and then the partially disambiguated data is fed back into the preference acquisition system. 1 1This work was supported by CEC Telematics Applications Programme project LE1-2111 &amp;quot;SPARKLE: Shallow PARsing and Knowledge extraction for Language Engineering&amp;quot;.</Paragraph>
+</Section>
+</Paper>
+

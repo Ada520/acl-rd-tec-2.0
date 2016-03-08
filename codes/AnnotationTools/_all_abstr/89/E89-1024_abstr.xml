@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E89-1024">
+<Title>Expressing generalizations in unification-based grammar formalisms *</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper shows how higher levels of generalization can be introduced into unification grammars by exploiting methods for typing grammatical objects. We discuss the strategy of using global declarations to limit possible linguistic structures, and sketch a few unusual aspects of our type-checking algorithm. We also describe the sort system we use in our semantic representation language and illustrate the expressive power gained by being able to state global constraints over these sorts. Finally, we briefly illustrate the sort system by applying it to some agreement phenomena and to problems of adjunct resolution.</Paragraph>
+</Section>
+</Paper>
+

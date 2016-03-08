@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P99-1043">
+<Title>Mixed Language Query Disambiguation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We propose a mixed language query disambiguation approach by using co-occurrence information from monolingual data only. A mixed language query consists of words in a primary language and a secondary language.</Paragraph>
+<Paragraph position="1"> Our method translates the query into mono-lingual queries in either language. Two novel features for disambiguation, namely contextual word voting and 1-best contextual word, are introduced and compared to a baseline feature, the nearest neighbor. Average query translation accuracy for the two features are 81.37% and 83.72%, compared to the baseline accuracy of 75.50%.</Paragraph>
+</Section>
+</Paper>
+

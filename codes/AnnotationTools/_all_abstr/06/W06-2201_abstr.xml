@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-2201">
+<Title>Learning Effective Surface Text Patterns for Information Extraction</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a novel method to identify effective surface text patterns using an internet search engine. Precision is only one of the criteria to identify the most effective patterns among the candidates found.</Paragraph>
+<Paragraph position="1"> Anotheraspectisfrequencyofoccurrence.</Paragraph>
+<Paragraph position="2"> Also, a pattern has to relate diverse instances if it expresses a non-functional relation. The learned surface text patterns are applied in an ontology population algorithm, which not only learns new instances of classes but also new instance-pairs of relations. We present some PSrst experiments with these methods.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H92-1081">
+<Title>The Lincoln Large-Vocabulary HMM CSR*</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> The work described here focuses on recognition of the Wall Street Journal (WSJ) pilot database \[17\], a new CSR database which supports 5K, 20K, and up to 64K- word CSR tasks. The original Lincoln Tied-Mixture HMM CSR was implemented using a time-synchronous beam-pruned search of a static network\[14\] and does not extend well to this task because the recognition network would be too large for currently practical workstations. Therefore, the recognizer has been converted to a stack decoder-based search strategy\[I,7,16\].</Paragraph>
+<Paragraph position="1"> This decoder has been shown to function effectively on up to 64K-word recognition of continuous speech. This paper describes the acoustic modeling techniques and the implementation of the stack decoder used to obtain these results.</Paragraph>
+</Section>
+</Paper>
+

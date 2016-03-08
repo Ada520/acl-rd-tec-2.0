@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P90-1029">
+<Title>Multiple Underlying Systems: Translating User Requests into Programs to Produce Answers</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> A user may typically need to combine the strengths of more than one system in order to perform a task. In this paper, we describe a component of the Janus natural language interface that translates intensional logic expressions representing the meaning of a request into executable code for each application program, chooses which combination of application systems to use, and designs the transfer of data among them in order to provide an answer. The complete Janus natural language system has been ported to two large command and control decision support aids.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C82-1049">
+<Title>A MESSAGE-PASSING CONTROL STRUCTURE FOR TEXT UNDERSTANDING</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1.0 INTRODUCTION
+</SectionTitle>
+<Paragraph position="0"> As syntactic and conceptual coverage increase to meet the requirements of practical language understanding systems the computational effort to search the larger knowledge spaces tends to grow exponentially in current systems.</Paragraph>
+<Paragraph position="1"> Clearly , this search problem is one of (many) problems that have to be resolved.</Paragraph>
+<Paragraph position="2"> One solution is to eliminate many of the alternatives as they are encountered.</Paragraph>
+<Paragraph position="3"> We are investigating a control structure that allows syntactic and semantic knowledge sources mutual access to allow early selection of appropriate alternatives.</Paragraph>
+<Paragraph position="4"> We wish to include in our system the multiple facets of linguistic structure and to maintain their descriptive autonomy, accordingly other suggestions that have been made to constrai~ searching (e.g., Hendrix (1977), Schank (1975)) do not satisfy this design criterion. We also want the system to simultaneously build a conceptual representation of the text and to be able to feed semantic predictions to syntax. In the Rus system (Bobrow (1978)) the semantic component critiques the constructs of syntax but does not generate predictions.</Paragraph>
+</Section>
+</Paper>
+

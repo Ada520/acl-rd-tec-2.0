@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="M91-1007">
+<Title>Matched Only Matched / Missin g All Template s</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper reports on the GE NLTooLsET customization effort for MUC-3, and analyzes th e results of the TST2 run . Although our own tests had shown steady improvement between TST1 and TST2, our official scores on TST2 were lower than on TST1 . The analysis of this unexpected result explains some of the details of the i1'UC-3 test, and we propose ways of looking at the scores .</Paragraph>
+<Paragraph position="1"> to distinguish different aspects of system performance .</Paragraph>
+</Section>
+</Paper>
+

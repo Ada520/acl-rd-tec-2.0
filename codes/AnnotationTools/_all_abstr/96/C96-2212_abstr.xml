@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-2212">
+<Title>Hierarchical Clustering of Words</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This plq)er (lescril)es a (hit i~-(triven nlet, hod for hiera, rchicM chlstering of words ill whicii a, la, rge vo(:aJ)ul~ry of I,;ii. glis\]'l words is (:histered botl;oln--uf) &gt; with resl)e(:t 1,o (:orpor;~ ranghig in size fi'otn 5 to 50 nlillion wor(ts, using a greedy al gorithm that I;ries I,o nliniluize i~veri~ge lOS8 Of liCllltllal iriforuu:l,l, ion of a, djax:ent classes. The resulting hierar('.hi('al (:illStiers of woMs are then tumirMly 1,ransrorlned to a bit-string representld, ion of (i.e. word bits for) all the words ill the vocabulary, Introducing wor(l bits hito i.he ATI{ I)ecision-Tree DOS Tagger is shown to signific~mt,ly reduce l, he ti~gging error rld;e. PortM)ility of word t)il.s h:om Olle (tonlMn to i~Hotilel: iS ~tlSO diss(:ussed.</Paragraph>
+</Section>
+</Paper>
+

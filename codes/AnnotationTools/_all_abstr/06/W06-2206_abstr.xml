@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-2206">
+<Title>Spotting the 'Odd-one-out': Data-Driven Error Detection and Correction in Textual Databases</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present two methods for semi-automatic detection and correction of errors in textual databases. The first method (horizontal correction) aims at correcting inconsistent values within a database record, while the second (vertical correction) focuses on values which were entered in the wrong column. Both methods are data-driven and language-independent.</Paragraph>
+<Paragraph position="1"> We utilise supervised machine learning, but the training data is obtained automatically from the database; no manual annotation is required. Our experiments show that a significant proportion of errors can be detected by the two methods. Furthermore, both methods were found to lead to a precision that is high enough to make semi-automatic error correction feasible.</Paragraph>
+</Section>
+</Paper>
+

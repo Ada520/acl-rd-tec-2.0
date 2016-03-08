@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W96-0114">
+<Title>Towards Automatic Grammar Acquisition from a Bracketed Corpus Thanaruk Theeramunkong</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we propose a method to group brackets in a bracketed corpus (with lexical tags), according to their local contextual information, as a first step towards the automatic acquisition of a context-free grammar. Using a bracketed corpus, the learning task is reduced to the problem of how to determine the nonterminal label of each bracket in the corpus. In a grouping process, a single nonterminai label is assigned to each group of brackets which are similar. Two techniques, distributional analysis and hierarchical Bayesian clustering, are applied to exploit local contextual information for computing similarity between two brackets. We also show a technique developed for determining the appropriate number of bracket groups based on the concept of entropy analysis.</Paragraph>
+<Paragraph position="1"> Finally, we present a set of experimental results and evaluate the obtained results with a model solution given by humans.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P84-1102">
+<Title>Disambiguating Grammatically Ambiguous Sentences By Asking</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The problem addressed in this paper is to disambiguate grammatically ambiguous input semences by asking the user. who need not be a computer specialist or a linguist, without showing any parse trees or phrase structure rules. Explanation List Comgarison (ELC) is the technique that implements this process. It is applicable to all parsers which are based on phrase structure grammar, regardless of the parser implementation. An experimental system has been implemented at Carnegie-Mellon University, and it has been applied to English-Japanese machine translation at Kyoto University.</Paragraph>
+</Section>
+</Paper>
+

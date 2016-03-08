@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P01-1050">
+<Title>Towards a Unified Approach to Memoryand Statistical-Based Machine Translation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a set of algorithms that enable us to translate natural language sentences by exploiting both a translation memory and a statistical-based translation model. Our results show that an automatically derived translation memory can be used within a statistical framework to often find translations of higher probability than those found using solely a statistical model.</Paragraph>
+<Paragraph position="1"> The translations produced using both the translation memory and the statistical model are significantly better than translations produced by two commercial systems: our hybrid system translated perfectly 58% of the 505 sentences in a test collection, while the commercial systems translated perfectly only 40-42% of them.</Paragraph>
+</Section>
+</Paper>
+

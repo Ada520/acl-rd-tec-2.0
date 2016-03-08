@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-1316">
+<Title>Selecting Text Features for Gene Name Classification: from Documents to Terms</Title>
+<Section position="1" start_page="3" end_page="3" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we discuss the performance of a text-based classification approach by comparing different types of features. We consider the automatic classification of gene names from the molecular biology literature, by using a support-vector machine method. Classification features range from words, lemmas and stems, to automatically extracted terms. Also, simple co-occurrences of genes within documents are considered. The preliminary experiments performed on a set of 3,000 S. cerevisiae gene names and 53,000 Medline abstracts have shown that using domain-specific terms can improve the performance compared to the standard bag-of-words approach, in particular for genes classified with higher confidence, and for under-represented classes.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-3022">
+<Title>A Computational Approach to Binding Theory*</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper is a first step towards a computational account of Binding Theory (BT). Two algorithms that compute, respectively, Principle A and B have been provided. Particular attention has been devoted to possible interactions of BT with other modules of the linguistic theory, such as those ruling argumental chains. Finally, the computational complexity of the algorithms has been studied.</Paragraph>
+</Section>
+</Paper>
+

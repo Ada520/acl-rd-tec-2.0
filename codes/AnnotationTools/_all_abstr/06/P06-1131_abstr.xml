@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P06-1131">
+<Title>Sydney, July 2006. c(c)2006 Association for Computational Linguistics Incremental generation of spatial referring expressions in situated dialog [?]</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents an approach to incrementally generating locative expressions. It addresses the issue of combinatorial explosion inherent in the construction of relational context models by: (a) contextually defining the set of objects in the context that may function as a landmark, and (b) sequencing the order in which spatial relations are considered using a cognitively motivated hierarchy of relations, and visual and discourse salience.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H94-1035">
+<Title>Information Based Intonation Synthesis*</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> This paper presents a model for generating prosodically appropriate synthesized responses to database queries using Combinatory Categorial Grammar (CCG - cf. \[22\]), a formalism which easily integrates the notions of syntactic constituency, prosodic phrasing and information structure. The model determines accent locations within phrases on the basis of contrastive sets derived from the discourse structure and a domain-independent knowledge base.</Paragraph>
+</Section>
+</Paper>
+

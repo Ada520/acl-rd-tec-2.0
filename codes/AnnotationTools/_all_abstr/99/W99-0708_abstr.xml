@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W99-0708">
+<Title>MDL-based DCG Induction for NP Identification</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We introduce a learner capable of automatically extending large, manually written natural language Definite Clause Grammars with missing syntactic rules. It is based upon the Minimum Description Length principle, and can be trained upon either just raw text, or else raw text additionally annotated with parsed corpora. As a demonstration of the learner, we show how full Noun Phrases (NPs that might contain pre or post-modifying phrases and might also be recursively nested) can be identified in raw text. Preliminary results obtained by varying the amount of syntactic information in the training set suggests that raw text is less useful than additional NP bracketing information. However, using all syntactic information in the training set does not produce a significant improvement over just bracketing information.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P06-2010">
+<Title>Sydney, July 2006. c(c)2006 Association for Computational Linguistics A Hybrid Convolution Tree Kernel for Semantic Role Labeling</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A hybrid convolution tree kernel is proposed in this paper to effectively model syntactic structures for semantic role labeling (SRL). The hybrid kernel consists of two individual convolution kernels: a Path kernel, which captures predicate-argument link features, and a Constituent Structure kernel, which captures the syntactic structure features of arguments.</Paragraph>
+<Paragraph position="1"> Evaluation on the datasets of CoNLL-2005 SRL shared task shows that the novel hybrid convolution tree kernel out-performs the previous tree kernels. We also combine our new hybrid tree kernel based method with the standard rich flat feature based method. The experimental results show that the combinational method can get better performance than each of them individually.</Paragraph>
+</Section>
+</Paper>
+

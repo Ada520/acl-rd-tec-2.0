@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N01-1009">
+<Title>A Corpus-based Account of Regular Polysemy: The Case of Context-sensitive Adjectives</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we investigate polysemous adjectives whose meaning varies depending on the nouns they modify (e.g., fast). We acquire the meanings of these adjectives from a large corpus and propose a probabilistic model which provides a ranking on the set of possible interpretations. We identify lexical semantic information automatically by exploiting the consistent correspondences between surface syntactic cues and lexical meaning.</Paragraph>
+<Paragraph position="1"> We evaluate our results against paraphrase judgments elicited experimentally from humans and show that the model's ranking of meanings correlates reliably with human intuitions: meanings that are found highly probable by the model are also rated as plausible by the subjects.</Paragraph>
+</Section>
+</Paper>
+

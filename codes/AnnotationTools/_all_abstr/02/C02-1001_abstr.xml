@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C02-1001">
+<Title>Disambiguation of Finite-State Transducers</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The objective of this work is to disambiguate transducers which have the following form: T = R D and to be able to apply the determinization algorithm described in (Mohri, 1997).</Paragraph>
+<Paragraph position="1"> Our approach to disambiguating</Paragraph>
+<Paragraph position="3"> the composition T and thereafter to disambiguate the transducer T. We will give an important consequence of this result that allows us to compose any number of transducers R with the transducer D, in contrast to the previous approach which consisted in rst disambiguating transducers D and R to produce respectively D0 and R0, then computing T0 = R0 D0 where T0 is unambiguous. We will present results in the case of a transducer D representing a dictionary and R representing phonological rules.</Paragraph>
+<Paragraph position="4"> Keywords: ambiguity, deterministic, dictionary, transducer.</Paragraph>
+</Section>
+</Paper>
+

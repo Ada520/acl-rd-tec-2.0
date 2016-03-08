@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-1103">
+<Title>Semiautomatic creation of taxonomies</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we face the automatic construction of a lexical taxonomy for the Spanish language using as input a taxonomy of English (WordNet)1 and a set of bilingual (English/Spanish) resources.</Paragraph>
+<Paragraph position="1"> Although applied to Spanish/English our method claims to be general enough to be applied in the cases a skeletal taxonomy already exists and we dispose of methods for mapping items to this taxonomy with known confidence scores.</Paragraph>
+</Section>
+</Paper>
+

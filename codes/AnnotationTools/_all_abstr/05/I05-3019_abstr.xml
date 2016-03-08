@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="I05-3019">
+<Title>Unigram Language Model for Chinese Word Segmentation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a Chinese word segmentation system based on unigram language model for resolving segmentation ambiguities. The system is augmented with a set of pre-processors and post-processors to extract new words in the input texts.</Paragraph>
+</Section>
+</Paper>
+

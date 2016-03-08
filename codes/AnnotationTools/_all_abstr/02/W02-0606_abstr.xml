@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-0606">
+<Title>Unsupervised discovery of morphologically related words based on orthographic and semantic similarity</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present an algorithm that takes an unannotated corpus as its input, and returns a ranked list of probable morphologically related pairs as its output. The algorithm tries to discover morphologically related pairs by looking for pairs that are both orthographically and semantically similar, where orthographic similarity is measured in terms of minimum edit distance, and semantic similarity is measured in terms of mutual information.</Paragraph>
+<Paragraph position="1"> The procedure does not rely on a morpheme concatenation model, nor on distributional properties of word substrings (such as affix frequency). Experiments with German and English input give encouraging results, both in terms of precision (proportion of good pairs found at various cutoff points of the ranked list), and in terms of a qualitative analysis of the types of morphological patterns discovered by the algorithm.</Paragraph>
+</Section>
+</Paper>
+

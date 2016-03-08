@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-2004">
+<Title>Improving Name Discrimination: A Language Salad Approach</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a method of discriminating ambiguous names that relies upon features found in corpora of a more abundant language. In particular, we discriminate ambiguous names in Bulgarian, Romanian, and Spanish corpora using information derived from much larger quantities of English data. We also mix together occurrences of the ambiguous name found in English with the occurrences of the name in the language in which we are trying to discriminate. We refer to this as a language salad, and find that it often results in even better performance than when only using English or the language itself as the source of information for discrimination. null</Paragraph>
+</Section>
+</Paper>
+

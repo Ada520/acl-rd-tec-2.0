@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-1111">
+<Title>Very Low-Dimensional Latent Semantic Indexing for Local Query Regions</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we focus on performing LSI on very low SVD dimensions. The results show that there is a nearly linear surface in the local query region. Using low-dimensional LSI on local query region we can capture such a linear surface, obtain much better performance than VSM and come comparably to global LSI. The surprisingly small requirements of the SVD dimension resolve the computation restrictions. Moreover, on the condition that several relevant sample documents are available, application of low-dimensional LSI to these documents yielded comparable IR performance to local RF but in a different manner.</Paragraph>
+</Section>
+</Paper>
+

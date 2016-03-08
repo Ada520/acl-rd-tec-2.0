@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H86-1007">
+<Title>Out of the Laboratory: A Case Study with the IRUS Natural Language Interface I</Title>
+<Section position="1" start_page="0" end_page="44" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> As part of DARPA's Strategic Computing Program, we have moved a large natural language system out of the laboratory. This involved: o Delivery of knowledge acquisition software to the Naval Ocean Systems Center (NOSC) to build linguistic knowledge bases, such as dictionary entries and case frames, o Demonstration of the natural language interface in a naval decision-making setting, and o Delivery of the interface software to Texas Instruments, which has integrated it into the total software package of the Strategic Computing Fleet Command Center Battle Management Program (FCCBMP).</Paragraph>
+<Paragraph position="1"> The resulting natural language interface will be delivered to the Pacific Fleet Command Center in Hawaii.</Paragraph>
+<Paragraph position="2"> This paper is an overview of this effort in technology transfer, indicating the technology features that have made this possible and reflecting upon what the experience illustrates regarding transportability, technology status, and delivery of natural language processing outside of a laboratory setting. The paper will be most valuable to those engaged in applying state-of-the-art techniques to deliver natural language interfaces and to those interested in developing the next generation of complete natural language interfaces.</Paragraph>
+<Paragraph position="3"> 1The work presented here was supported under DARPA contract ~NOOe14.-85-C--e616. The views and conclusions contained in this document ore those of the authors and should not be ~nterpreted as necessarily representing the official policies, either expressed or implied, of the Defense Advanced Research Projects Agency or of the United States Government.</Paragraph>
+</Section>
+</Paper>
+

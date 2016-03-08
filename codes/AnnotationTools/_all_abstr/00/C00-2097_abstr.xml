@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-2097">
+<Title>Compiling Language Models from a Linguistically Motivated Unification Grammar</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Systems now exist which are able to con:pile unification gralmnars into language models that can be included in a speech recognizer, but it is so far unclear whether non-trivial linguistically principled gralnlnars can be used for this purpose. We describe a series of experiments which investigate the question empirica.lly, by incrementally constructing a grammar and discovering what prot)lems emerge when successively larger versions are compiled into finite state graph representations and used as language models for a medium-vocabulary recognition task.</Paragraph>
+</Section>
+</Paper>
+

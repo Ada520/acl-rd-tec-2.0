@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H01-1029">
+<Title>Fine-Grained Hidden Markov Modeling for Broadcast- News Story Segmentation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> We present the design and development of a Hidden Markov Model for the division of news broadcasts into story segments.</Paragraph>
+<Paragraph position="1"> Model topology, and the textual features used, are discussed, together with the non-parametric estimation techniques that were employed for obtaining estimates for both transition and observation probabilities. Visualization methods developed for the analysis of system performance are also presented.</Paragraph>
+</Section>
+</Paper>
+

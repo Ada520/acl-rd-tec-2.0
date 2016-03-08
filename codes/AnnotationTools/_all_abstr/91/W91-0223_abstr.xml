@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W91-0223">
+<Title>The Autonomy of Shallow Lexical Knowledge</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The question of what is &amp;quot;purely linguistic&amp;quot; is considered in relation to the problem of modularity. A model is proposed in which parsing has access to world knowledge, and both contribute to the construction of a discourse model. The lexical semantic theory of naive semantics, which identifies word meanings with naive theories, and its use in computational text interpretation, demonstrate that a shallow, constrained layer of knowledge which is linguistic can be identified.</Paragraph>
+</Section>
+</Paper>
+

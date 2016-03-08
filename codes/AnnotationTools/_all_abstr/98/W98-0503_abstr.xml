@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-0503">
+<Title></Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a class of dependency-based forreal grammars (FODG) which can be parametrized by two different but similar measures of nonprojectivity. The measures allow to formulate constraints on the degree of word-order freedom in a language described by a FODG. We discuss the problem of the degree of word-order freedom which should be allowed ~, a FODG describing the (surface) syntax of Czech.</Paragraph>
+</Section>
+</Paper>
+

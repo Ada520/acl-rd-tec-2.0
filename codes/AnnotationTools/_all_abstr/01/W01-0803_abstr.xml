@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W01-0803">
+<Title>Document Structuring a la SDRT</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, the issue of document structuring is addressed. To achieve this task, we advocate that Segmented Discourse Representation Theory (SDRT) is a most expressive discourse framework. Then we sketch a discourse planning mechanism which aims at producing as many paraphrastic document structures as possible from a set of factual data encoded into a logical form.</Paragraph>
+</Section>
+</Paper>
+

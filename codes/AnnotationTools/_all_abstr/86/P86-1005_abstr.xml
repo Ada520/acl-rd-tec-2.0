@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P86-1005">
+<Title>Semantic Acquisition In TELI: A Transportable, User-Customized Natural Language Processor</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We discuss ways of allowing the users of a natural language processor to define, examine, and modify the definitions of any domain-specific words or phrases known to the system. An implementation of this work forms a critical portion of the knowledge acquisition component of our Transportable English-Language Interface (TELl), which answers English questions about tabular (first normal-form) data files and runs on a Symbolics Lisp Machine. However, our techniques enable the design of customization modules that are largely independent of the syntactic and retrieval components of the specific system they supply information to. In addition to its obvious practical value, this area of research is important because it requires careful attention to the formalisms used by a natural language system and to the interactions among the modules based on those formalisms.</Paragraph>
+</Section>
+</Paper>
+

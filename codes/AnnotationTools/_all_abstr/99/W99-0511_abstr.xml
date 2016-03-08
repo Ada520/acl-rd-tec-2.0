@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W99-0511">
+<Title>A Computational Lexicon of Portuguese for Automatic Text Parsing Ehsabete RANCHHOD FLUL/CAUTL-IST</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Using standard methods and formats established at LADL, and adopted by several European research teams to construct large-coverage electronic dictionaries and grammars, we elaborated for Portuguese a set of lexlcal resources, that were implemented in IN'rEX We describe the main features of such linguistic data, refer to their mmntenance and extension, and gwe different examples of automatic text parsing based on those dictionaries and grammars</Paragraph>
+</Section>
+</Paper>
+

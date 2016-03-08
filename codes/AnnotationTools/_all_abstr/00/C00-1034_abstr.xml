@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-1034">
+<Title>Theory Refinement and Natural Language Learning Hervd Ddjean* Seminar fiir S1)rachwissenschaft</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This 1)aI)er l)resents a learning system for identifying synta(:tie structures. This system relies on the use of backgromld knowledge an(1 default wflues in order to buihl utl an initial grammar and the use of theory retiimlnent in order to iml)rove this granunar.</Paragraph>
+<Paragraph position="1"> This contbilmtion provides a good machine learning fl:amework for Natural Lmlguage Learning. We illustrate this 1)oint with the 1)resentation of ALLiS, a learlfiug system which generates a regular ext)ression grmnmar of non-recursive phrases fi'om bracketed corpora.</Paragraph>
+</Section>
+</Paper>
+

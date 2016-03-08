@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-1220">
+<Title>I Evolution and Evaluation of Document Retrieval Queries</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> This short paper introduces some ideas for the application of Genetic Programming to the task of producing queries for the accurate retrieval of documents on a particular topic of interest. This application will involve expanding the initial query given by the user, using extra words that have various semantic relationships to the words of the original query via the use of a system such as WordNet, and using Genetic Programming to optimize how this expansion is done. The aim is to produce an optimal general template of expansion, that can be used for any particular query a user may make. The method suggested is one that will be used to produce a search enhancer that can be used with existing search engines.</Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+1.1. Definitions
+</SectionTitle>
+<Paragraph position="0"> Firstly, Genetic Programming (Koza, 1992; Koza 1994) is a way of evolving a program that meets some objective criteria, and is closely related to Genetic Algorithms (Goldberg, 1989). With Genetic Programming, the &amp;quot;programs&amp;quot; are represented as expression trees consisting of operators at internal nodes of the tree eg. plus, minus, and values, at the leaf (terminal) nodes of the tree. The Genetic Programming algorithm involves making a population of such expression trees (randomly at first), evaluating the fitness of each of the trees (done with some evaluation function defined by the application), and then creating a new population by crossover or mutation of the fit individuals (crossover would involve choosing a random node and the subtree which starts with it, from tree A, and choosing a random node and the subtree which starts from it, from tree B, and interchanging these two subtrees, to create two new tree expressions).</Paragraph>
+<Paragraph position="1"> Query expansion refers to adding more terms to the original query. For example, if a search engine user made the query 'tree and paper' the query might expand to '(tree or forest) and paper'.</Paragraph>
+<Paragraph position="2"> A semantic net, such as WordNet (Miller et al., 1993), is a database of words and their various relationships. So WordNet, given a particular word, will be able to tell you such things as its synonyms, antonyms, hyponyms and meronyms amongst many other possibilities. This will give the building blocks for query expansion in this application.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

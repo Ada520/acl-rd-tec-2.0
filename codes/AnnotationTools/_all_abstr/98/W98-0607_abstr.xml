@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-0607">
+<Title>Integrating Referring and Informing in NP Planning</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+2 Buccleuch Place, Edinburgh, Scotland, EH8 9LW.
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Two of the functions of an NP are to refer (identify a particular entity) and to inform (provide new information about an entity).</Paragraph>
+<Paragraph position="1"> While many NPs may serve only one of these functions, some NPs conflate the functions, not only referring but also providing new information about the referent. For instance, this delicious apple indicates not only which apple the speaker is referring to, but also provides information as to the speaker's appreciation of the apple.</Paragraph>
+<Paragraph position="2"> This paper describes an implemented NP-planning system which integrates informing into the referring expression generation process. The integration involves allowing informing to influence decisions at each stage of the formation of the referring form, including: the selection of the form of the NP; the choice of the head of a common NP; the choice of the Deictic in common NPs; the choice of restrictive modifiers, and the inclusion of non-referring modifiers. The system is domain-independent, and is presently functioning within a full text generation system.</Paragraph>
+</Section>
+</Paper>
+

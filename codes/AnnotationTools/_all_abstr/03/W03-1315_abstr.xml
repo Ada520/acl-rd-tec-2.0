@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-1315">
+<Title>An Investigation of Various Information Sources for Classifying Biological Names</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The classification task is an integral part of named entity extraction. This task has not received much attention in the biomedical setting, partly due to the fact that protein name recognition has been the focus of the majority of the work in this field.</Paragraph>
+<Paragraph position="1"> We study this problem and focus on different sources of information that can be utilized for the classification task and investigate the extent of their contributions for classification in this domain. However, while developing a specific algorithm for the classification of the names is not our main focus, we make use of some simple techniques to investigate different sources of information and verify our intuitions about their usefulness.</Paragraph>
+</Section>
+</Paper>
+

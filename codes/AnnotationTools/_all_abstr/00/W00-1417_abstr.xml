@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-1417">
+<Title>OLAP context Dimensions</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a new approach to paratactic content aggregation in the context of generating hypertext summaries of OLAP and data mining discoveries. Two key properties make this approach innovative and interesting: (1) it encapsulates aggregation inside the sentence planning component, and (2) it relies on a domain independent algorithm working on a data structure that abstracts from lexical and syntactic knowledge.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H92-1037">
+<Title>Minimizing Speaker Variation Effects for Speaker-Independent Speech Recognition</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> For speaker-independent speech recognition, speaker variation is one of the major error sources. In this paper, a speaker-independentnormalization network is constructed such that speaker variation effects can be minimized. To achieve this goal, multiple speaker clusters are constructed from the speaker-independent training database. A codeword-dependent neural network is associated with each speaker cluster. The cluster that contains the largest number of speakers is designated as the golden cluster. The objective function is to minimize distortions between acoustic data in each cluster and the golden speakercluster. Performanceevaluation showedthat speaker-normalized front-end reduced the error rate by 15% for the DARPA resource management speaker-independent speech recognition task.</Paragraph>
+</Section>
+</Paper>
+

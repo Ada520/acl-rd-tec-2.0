@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C86-1087">
+<Title>PROCESSING CLINICAl NARRAI\]}VES IN IIUNGAR\]:AN G4bor PrGsz~.ky National Lduca Liona\] Library arid Museum Computer Oepar l:hqen</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+IIUNGARY
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> IIHs pape\]' describes a systemU~at extracl:s in1:ormal:ion lrom 14urlgarlan descriptive texLs oPS medical domain.</Paragraph>
+<Paragraph position="1"> lexLs of cZinJca\] nam'atJves defim; a sublanguao e that uses \]imite.d synLax bui: holds the main characteristJcs oPS t:he language, namely #roe word order and r;ich mm'pho\]ogy. We offer a fairly general parsirlo method for :\[ree word ordePS \]anguaoes and the way how to use ~-1: for parsing Hungarian c\]in~ca\] texts, lhe system can hand\]e si.mple cases e\[ el.\]ipses, anaphoT'a, Luqknown woFd8 al/{\] LypJ ca:\[ abbrev:i.at\]ons ef e\] \] n:iea\] practice. lhe system trans\].ates texts {d! anamneses, paLJeet v:isiLs, \]ahoral:ory l:esl:s, medlcai examinations aed discharge sumnlaries Jnl:o an JnJ:ornlaL\]on :\[ormaL u'.~abZI.u for a ined\]ea:l exper I: aystem. Szm:i.\] aKly to Lhis expert system, Uqe :in1:ormal;:i.on formattinO prograln has been wr:il:Len in MPROI OG language and JLs experJmenta\] versj.on \['lllls OIl PROPER-\]6, a tlungarian made (\]BM-XI compatib\]e) m\]c~:ucomputer.</Paragraph>
+<Paragraph position="2"> \]. OVERV\]:I:W .l:n the pasl: :Jew years we Imve deve\]oped a comHutatJona\] system te analyze I lungariar~ I:exLs oeJog a morphologica\] ana:l.yzer (Ih'risx~ky e\[ a\] 1982) and a genre:a\] pars\]no tn:o!jram ca\]led ANAGRAMMA (=ANA\]yt\](: \[;RAMMAr) (Pr6szdky 1984). Ihe who\]e sysLeln for JllJ'Orlllat:Jon fc\]rll\]a L L\] \[1N is hosed on Ltlese modules alld co, isis Ls oY' five coMsoquer/t parts: (i) morpho\]ogJr:ai ana:l.ysJs, (J J ) nornlalizal;ion, (~ i:i ) pak'sJrl!j, (iv) evallJa LJcJN, (v) mappino into the Jflformal:h)n formaL. Ihe lasl: \[\]\]ock JIS all eperaLJon that converts the output o\[ ANAGRAMMA, which Js (\]J)+(JJi)~(Jv), to a :\[OFIIlat Lhal: can be use.d by a ned:lea\] export oystem. \]he approach leads to a structure shown by Figure 1.</Paragraph>
+<Paragraph position="4"></Paragraph>
+</Section>
+</Paper>
+

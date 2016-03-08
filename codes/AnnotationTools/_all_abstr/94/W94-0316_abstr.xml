@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W94-0316">
+<Title>Building Another Bridge over the Generation Gap</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we address one of the central problems in text generation: the missing link (&amp;quot;the generation gap&amp;quot; in Meteer's terms) between the global discourse organization as often provided by text planning modules and the linguistic realization of this organization. We argue that the link should be established by the lexical choice proces s using resources derived from Mel'~uk's Lezical Functions (LFs). In particular, we demonstrate that sequences of LFs may well serve as lexical discourse structure relations which link up to global discourse relations in the output of a Rhetorical Structure Theory style text planner.</Paragraph>
+</Section>
+</Paper>
+

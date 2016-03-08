@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P89-1017">
+<Title>How to cover a grammar Ren6 Leermakers</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Ren6 Leermakers
+Philips Research Laboratories, P.O. Box 80.000
+5600 JA Eindhoven, The Netherlands
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> A novel formalism is presented for Earley-like parsers.</Paragraph>
+<Paragraph position="1"> It accommodates the simulation of non-deterministic pushdown automata. In particular, the theory is applied to non-deterministlc LRoparsers for RTN grammars.</Paragraph>
+</Section>
+</Paper>
+

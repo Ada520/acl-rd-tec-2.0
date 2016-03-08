@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P95-1043">
+<Title>From route descriptions to sketches: a model for a text-to-image translator</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper deals with the automatic translation of route descriptions into graphic sketches. We discuss some general problems implied by such inter-mode transcription. We propose a model for an automatic text-to-image translator with a two-stage intermediate representation in which the linguistic representation of a route description precedes the creation of its conceptual representation.</Paragraph>
+</Section>
+</Paper>
+

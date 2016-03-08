@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-0318">
+<Title>Input Sentence Splitting and Translating</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We propose a method to split and translate input sentences for speech translation in order to overcome the long sentence problem. This approach is based on three criteria used to judge the goodness of translation results.</Paragraph>
+<Paragraph position="1"> The criteria utilize the output of an MT system only and assumes neither a particular language nor a particular MT approach. In an experiment with an EBMT system, in which prior methods cannot work or work badly, the proposed split-and-translate method achieves much better results in translation quality.</Paragraph>
+</Section>
+</Paper>
+

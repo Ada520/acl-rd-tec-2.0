@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-2113">
+<Title>An empirical lnethod for identifying and translating technical terminology</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a. method for retrieving patterns of words a.nd expressions frequently used in a. specific dom a.in and building a. dictionary for ma.chine translatiou(MT). The method uses an untagged text corpus in retrieving word sequences a.nd simplified pa.rt-of-speech ternplates in identifying their synta.ctic ca.tegories. The pa.per presents experimenta.l results for a.pplying the words and expressions to a pattern-based ma.chine translation system.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="M93-1010">
+<Title>Fl : &amp;quot;BRIDGESTONE SPORTS CO . SAID FRIDAY IT HAS SET UP A JOINT VENTURE &amp;quot; (S (NP (N (NAME &amp;quot;BRIDGESTONE SPORTS CO .&amp;quot;))) (VP (AUX )</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+APPROACH
+</SectionTitle>
+<Paragraph position="0"> Traditional approaches to the problem of extracting data from texts have emphasized hand-crafted linguisti c knowledge . In contrast, BBN's PLUM system (Probabilistic Language Understanding Model) was developed as par t of an ARPA-funded research effort on integrating probabilistic language models with more traditional linguisti c techniques. Our research and development goals are : * more rapid development of new applications , * the ability to train (and re-train) systems based on user markings of correct and incorrect output , * more accurate selection among interpretations when more than one is found, an d * more robust partial interpretation when no complete interpretation can be found .</Paragraph>
+<Paragraph position="1"> We began this research agenda approximately three years ago . During the past two years, we have evaluated muc h of our effort in porting our data extraction system (PLUM) to a new language (Japanese) and to two new domains .</Paragraph>
+</Section>
+</Paper>
+

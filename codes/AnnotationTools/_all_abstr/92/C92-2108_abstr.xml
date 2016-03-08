@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C92-2108">
+<Title>Preventing False Temporal Implicatures: Interactive Defaults for Text Generation*</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+2 Buccleuch Place, F, dinburgh Ell8 91,W Scotland
+Introduction
+</SectionTitle>
+<Paragraph position="0"> Given the causal and temporal relations between events in a knowledge base, what are the ways they can be described in text? Elsewhere, we have argued that during interpretation, the reader-hearer H must iufer certain tempe, ra\[ information from knowledge about the world, language use and prugmatics. It is generally agreed that processes of Gricean implicature help determine the interpretation of text in context. But without a notion of logical consequo_nce to underwrite them, the infercnccs~ftcn defea~sib\]e in nature will appear arbitrary, and unprincipled, llence, we have explored the requirements on a formal model of temporal implicature, and outlined one possible nonmonotouic framework for discourse interpretation (La.scarides &amp; Asher \[1991\], Lascarides &amp; Oberlander \[1992a\]).</Paragraph>
+<Paragraph position="1"> ttere, we argue that if the writer-sllcakcr S is to tailor text to H, then discourse generation can be informed by a similar formal model of implicaturc.</Paragraph>
+<Paragraph position="2"> We suggest two ways to do it: a version of \[\[obbs et al's \[1988, 1990\] Generation as Abduction; and the Interactive Defaults strategy introduced by aoshi et al \[1984a, 1984b, 1986\]. In investigating the latter strategy, the basic goal is to determine how notions of temporal reliability, precision and coherence call be used by a nonmonotonic logic to constrain the space of possible utterances. We explore a defea.sible reasoning framework in which the interactions between the relative knowledge bases of S and H helps do this. Finally, we briefly discuss limitations of the strategy: in particular, its apparent marginalisation of discourse structure.</Paragraph>
+<Paragraph position="3"> The paper focuses very specitically on implicatures of a temporal nature. ~lb examine tile relevant exampies in sufficient detail, we have had to exclude discussion of many closely related issues in the theory of discourse structure, rib motivate tbis restriction, let us therefore consider first why we might want to generate discourses with structures which lead to temporal complexities.</Paragraph>
+<Paragraph position="4"> *The ~uthors gratefully acknowledge the support of the Science and Engineering Research Council through project number on/G22077, tIORO is supported by the</Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+Economic and Social Research Council. We thank our
+</SectionTitle>
+<Paragraph position="0"> anonymous reviewer for their helpful comments. Email contact: jonQcogaci.ed, ac.uk Getting Things Out of Order Consider tile following suggestion for generating tex: tuul descril)tions of causal-temporal structures, I)escribe things in exactly the order in which they happened. If textual order is maAe to match eventual order, then perhaps little can go wrong; for the bearer can safely a.ssume that all the texts she bears are narrative. Under these circumstances, the problem of selecting adequate regions in the space of utterances pretty much (lis~solw~s. We do not believe that this suggestion will work, in general, and consider here two 0.rgunlelltS against it.</Paragraph>
+<Paragraph position="1"> Hovy's argument Basically, the generation strategy snggested above fails to emphasise the force of some eventualities over others (cf. the nncleus-satellite distinction in RST). A useful device for emphasis is the topic-couuuent structure: we mention the important event first, and then the others, which till out or give further detail about that important event. These 'comments' on the 'topic' may be elfects, but they could also bc the cause of the topic. If the latter, then textual order and temporal order mismatch; the text is a cmlsal explanation in such cases, and having only narrativc discourse structure available would preclude its gen-era, ion. Compare (1) and (2), modified from Ilovy \[199o\].</Paragraph>
+<Paragraph position="2"> (1) First, Jim bumped Mike once and hurt him.</Paragraph>
+<Paragraph position="3"> Then they fought. Eventually, Mike stabbed him. As a result, aim died.</Paragraph>
+<Paragraph position="4"> (2) aim died in a fight with Mike. After Jim Inunped Mike once, they fought, and eventually Mike stabbed him.</Paragraph>
+<Paragraph position="5"> The textual order in (1) matches temporal order, whereas ill (2) there is mismatctL And yet (2) is nmch better than (1). This is bccause the 'important' event is Jim's death. Everything mentioned in (1) leads up to this. But because, the events are mentioned in their temporal order, the text obscures the fact that all the events led to Jim's death, even though syntactic markers like and then and as a resuR are used.</Paragraph>
+<Paragraph position="6"> The causal groupings are clearer in (2) because it's clear during incremental processing that the text following tile mention of Jim's death is a description of how it came about. This is so even thougtl ,to</Paragraph>
+</Section>
+</Section>
+</Paper>
+

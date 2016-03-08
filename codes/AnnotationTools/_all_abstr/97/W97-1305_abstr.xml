@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-1305">
+<Title>Resolving Anaphoric References on Deficient Syntactic Descriptions</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Syntactic coindexing restrictions are by now known to be of central importance to practical anaphor resolution approaches.</Paragraph>
+<Paragraph position="1"> Since, in particular due to structural ambiguity, the assumption of the availability of a unique syntactic reading proves to be unrealistic, robust anaphor resolution relies on techniques to overcome this deficiency.</Paragraph>
+<Paragraph position="2"> In this paper, two approaches are presented which generalize the verification of coindexing constraints to deficient descriptions. At first, a partly heuristic method is described, which has been implemented. Secondly, a provable complete method is specified. It provides the means to exploit the results of anaphor resolution for a further structural disambiguation. By rendering possible a parallel processing model, this method exhibits, in a general sense, a higher degree of robustness. As a practically optimal solution, a combination of the two approaches is suggested.</Paragraph>
+</Section>
+</Paper>
+

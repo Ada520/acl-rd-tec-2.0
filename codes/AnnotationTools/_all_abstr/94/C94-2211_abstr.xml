@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C94-2211">
+<Title>A Knowledge Acquisition and Management System for Morphological Dictionaries</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A system for the acquisition and management of reusable morphological dictionaries is clearly a useful tool for NLP. As such, most currently popular finite-state morphology systems have a number of drawbacks. In the development of Word Manager, these problems have been taken into account. As a result, its knowledge acquisition component is well-developed, and its knowledge representation enables more flexible use than typical finite-state systems.</Paragraph>
+</Section>
+</Paper>
+

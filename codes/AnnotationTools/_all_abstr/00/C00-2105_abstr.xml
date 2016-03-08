@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-2105">
+<Title>Robust German Noun Chunking With a Probabilistic Context-Free Grammar</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a noun chunker for German which is based on a head-lexicalised probabilistic context-fl'ee grammar. A manually developed grammar was semi-automatically extended with robustness rules in order to allow parsing of unrestricted text.</Paragraph>
+<Paragraph position="1"> Tile model parmncters were learned from unlabellcd training data by a probabilistic context-fl'ee parser.</Paragraph>
+<Paragraph position="2"> For extracting noun chunks, the parser generates all possible noun chunk analyses, scores them with a novel algorithm which maximizes tile best chunk sequence criterion, and chooscs the most probable chunk sequence. An evaluation of the chunker on 2,140 hand-annotated noun chunks yielded 92% recall and 93% precision.</Paragraph>
+</Section>
+</Paper>
+

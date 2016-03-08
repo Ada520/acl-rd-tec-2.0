@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P99-1053">
+<Title>Integrating multiple knowledge sources</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a grammatical and processing framework for handling the repairs, hesitations, and other interruptions in natural human dialog. The proposed framework has proved adequate for a collection of human-human task-oriented dialogs, both in a full manual examination of the corpus, and in tests with a parser capable of parsing some of that corpus. This parser can also correct a pre-parser speech repair identifier resulting in a 4.8% increase in recall.</Paragraph>
+</Section>
+</Paper>
+

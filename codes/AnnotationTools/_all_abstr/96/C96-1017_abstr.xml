@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-1017">
+<Title>Arabic Finite-State Morphological Analysis and Generation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a large-scale system that performs morphological analysis and generation of on-line Arabic words represented in the standard orthography, whether fully voweled, partially voweled or unw)weled. Analyses display the root, pattern and all other affixes together with feature tags indicating part of speech, person, number, mood, voice, aspect, etc. The system is based on lexicons and rules from an earlier KIMMO-style two-level morphological system, reworked extensively using Xerox Finite-State Morphology tools. The result is an Arabic Finite-State Lexical Transducer that is applied with the same runtime code used for English, French, German, Spanish, Portuguese, Dutch and Italian lexical tran~ ducers.</Paragraph>
+</Section>
+</Paper>
+

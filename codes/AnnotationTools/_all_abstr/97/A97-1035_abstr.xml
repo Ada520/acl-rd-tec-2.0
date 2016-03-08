@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A97-1035">
+<Title>Software Infrastructure for Natural Language Processing</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We classify and review current approaches to software infrastructure for research, development and delivery of NLP systems.</Paragraph>
+<Paragraph position="1"> The task is motivated by a discussion of current trends in the field of NLP and Language Engineering. We describe a system called GATE (a General Architecture for Text Engineering) that provides a software infrastructure on top of which heterogeneous NLP processing modules may be evaluated and refined individually, or may be combined into larger application systems. GATE aims to support both researchers and developers working on component technologies (e.g. parsing, tagging, morphological analysis) and those working on developing end-user applications (e.g. information extraction, text summarisation, document generation, machine translation, and second language learning).</Paragraph>
+<Paragraph position="2"> GATE promotes reuse of component technology, permits specialisation and collaboration in large-scale projects, and allows for the comparison and evaluation of alternative technologies. The first release of GATE is now available.</Paragraph>
+</Section>
+</Paper>
+

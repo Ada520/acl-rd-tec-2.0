@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P97-1058">
+<Title>MOD --+ MOD --+ p NP NOM --+ a NOM NOM --+ n NOM --+ NOM MOD NOM --+ NOM S NP --+ NP ~ d NOM VP --+ v NP VP-~ vS VP -~ v VP VP --+v VP --+ VP c VP VP ~ VP MOD S ~ MOD S S-+NP S S~ScS S ~ v NP VP</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Although adequate models of human language for syntactic analysis and semantic interpretation are of at least context-free complexity, for applications such as speech processing in which speed is important finite-state models are often preferred. These requirements may be reconciled by using the more complex grammar to automatically derive a finite-state approximation which can then be used as a filter to guide speech recognition or to reject many hypotheses at an early stage of processing.</Paragraph>
+<Paragraph position="1"> A method is presented here for calculating such finite-state approximations from context-free grammars. It is essentially different from the algorithm introduced by Pereira and Wright (1991; 1996), is faster in some cases, and has the advantage of being open-ended and adaptable.</Paragraph>
+</Section>
+</Paper>
+

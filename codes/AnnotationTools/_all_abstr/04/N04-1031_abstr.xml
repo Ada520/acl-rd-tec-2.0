@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N04-1031">
+<Title>Paraphrasing Predicates from Written Language to Spoken Language Using the Web</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> There are a lot of differences between expressions used in written language and spoken language. It is one of the reasons why speech synthesis applications are prone to produce unnatural speech. This paper represents a method of paraphrasing unsuitable expressions for spoken language into suitable ones. Those two expressions can be distinguished based on the occurrence probability in written and spoken language corpora which are automatically collected from the Web. Experimental results indicated the effectiveness of our method. The precision of the collected corpora was 94%, and the accuracy of learning paraphrases was 76 %.</Paragraph>
+</Section>
+</Paper>
+

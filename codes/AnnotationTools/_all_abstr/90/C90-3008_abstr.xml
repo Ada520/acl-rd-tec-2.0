@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-3008">
+<Title>Human-Computer Interaction for Semantic Disambiguation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe a semi-automatic semantic disambiguator integrated in a knowledge-based machine translation system. It is used to bridge the analysis and generation stages in machine translation. The user interface of the disambiguator is built on mouse-based multiple-selection menus.</Paragraph>
+</Section>
+</Paper>
+

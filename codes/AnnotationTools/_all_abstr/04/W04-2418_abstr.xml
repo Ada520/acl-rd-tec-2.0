@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-2418">
+<Title>A Memory-Based Approach for Semantic Role Labeling</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> This paper presents a system for Semantic Role Labeling (SRL) for the CoNLL 2004 shared task (Carreras and M`arquez, 2004). The task is divided into two sub-tasks, recognition and labeling. These are performed independently with different feature representations. Both modules are based on the principle of memory-based learning.</Paragraph>
+<Paragraph position="1"> For the first module, we use the IOB2 format to determine whether a chunk belongs to an argument or not. Furthermore, we test two different strategies for extracting arguments from the classifier output. The second module labels the extracted arguments with one of the 30 semantic roles.</Paragraph>
+</Section>
+</Paper>
+

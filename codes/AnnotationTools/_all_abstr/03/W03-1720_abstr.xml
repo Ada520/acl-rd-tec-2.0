@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-1720">
+<Title>Combining Segmenter and Chunker for Chinese Word Segmentation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Our proposed method is to use a Hidden Markov Model-based word segmenter and a Support Vector Machine-based chunker for Chinese word segmentation. Firstly, input sentences are analyzed by the Hidden Markov Model-based word segmenter. The word segmenter produces n-best word candidates together with some class information and confidence measures. Secondly, the extracted words are broken into character units and each character is annotated with the possible word class and the position in the word, which are then used as the features for the chunker. Finally, the Support Vector Machine-based chunker brings character units together into words so as to determine the word boundaries.</Paragraph>
+</Section>
+</Paper>
+

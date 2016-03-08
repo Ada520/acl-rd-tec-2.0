@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-1438">
+<Title>An Efficient Text Summarizer Using Lexical Chains</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+* Abstract ........
+</SectionTitle>
+<Paragraph position="0"> We present a system which uses lexical chains as an intermediate representation for automatic text summarization. This system builds on previous research by implementing a lexical chain extraction algorithm in linear time. The system is reasonably domain independent and takes as input any text or HTML document. The system outputs a short summary based on the most salient concepts from the original document. The length of the extracted summary can be either controlled automatically, or manually based on length or percentage of compression. While still under development, the system provides useful summaries which compare well in information content to human generated summaries. Additionally, the system provides a robust test bed for future summary generation research.</Paragraph>
+</Section>
+</Paper>
+

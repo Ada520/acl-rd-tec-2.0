@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E85-1010">
+<Title>A TWO-WAY APPROACH TO STRUCTURAL TRANSFER IN MT</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+USA
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The METAL machine translation project incorporates two methods of structural transfer - direct transfer and transfer by grammar. In this paper I discuss the strengths and weaknesses of these two approaches in general and with respect to the METAL project, and argue that, for many applications, a combination of the two is preferable to either alone.</Paragraph>
+</Section>
+</Paper>
+

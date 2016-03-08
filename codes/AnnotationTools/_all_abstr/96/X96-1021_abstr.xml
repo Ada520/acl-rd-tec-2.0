@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="X96-1021">
+<Title>Search Word Dictionary</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1.0 Abstract
+</SectionTitle>
+<Paragraph position="0"> TIPSTER is an ARPA sponsored program that seeks to develop methods and tools that support analysts in their efforts to filter, process, and analyze ever increasing quantities of text-based information. To this end, government sponsors, contractors, and developers are working to design an architecture specification that makes it possible for natural language processing techniques and tools, from a variety sources, to be integrated, shared, and configured by end-users. The Computing Research Laboratory (CRL) is a longtime contributor to TIPSTER. A significant portion of CRL's research involves work on a variety of natural language processing problems, human-computer interaction, and problems associated with getting technology into the hands of end-users. CRL is using TIPSTER technology to develop OLEADA, which is an integrated set of computer tools designed to support language learners, and instructors. Further, OLEADA has been developed using a task-oriented user-centered design methodology.</Paragraph>
+<Paragraph position="1"> This paper describes the methodology used to develop OLEADA and the current system's capabilities.</Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+2.0 TIPSTER and the Computing
+Research Laboratory
+</SectionTitle>
+<Paragraph position="0"> Information extraction is a relatively new application of natural language processing techniques in which basic information and relationships are found and extracted from text. TIPSTER I was an effort to find electronic methods for information retrieval and information extraction.TIPSTER uses texts from a variety of sources including newspaper articles and wire service reports. The information TIPSTER I extracts resembles a completed form. The contents of a form is intended to be used to automatically generate specialized databases for information analysts. The components developed for TIPSTER I enabled it to function in two languages (Japanese and English).</Paragraph>
+<Paragraph position="1"> TIPSTER II is a joint effort among many sites to develop working systems that integrate information retrieval and information extraction. The core of the project is a joint government/contractor committee whose goal is to specify an architecture for TIPSTER II.</Paragraph>
+<Paragraph position="2"> TIPSTER developers work to provide a variety of specialized software subsystems that support TIPSTER development. These include: * Document managers that provide multi-source document compatibilities.</Paragraph>
+<Paragraph position="3"> * Translation subsystems that support retrieval of documents in many languages, based on a query in one language.</Paragraph>
+<Paragraph position="4"> * Libraries of procedures for user interface support with embedded functionality for Information Retrieval and Information Extraction.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

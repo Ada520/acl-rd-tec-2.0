@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N04-1020">
+<Title>Inferring Sentence-internal Temporal Relations</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we propose a data intensive approach for inferring sentence-internal temporal relations, which relies on a simple probabilistic model and assumes no manual coding. We explore various combinations of features, and evaluate performance against a gold-standard corpus and human subjects performing the same task. The best model achieves 70.7% accuracy in inferring the temporal relation between two clauses and 97.4% accuracy in ordering them, assuming that the temporal relation is known.</Paragraph>
+</Section>
+</Paper>
+

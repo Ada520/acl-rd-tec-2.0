@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E06-2019">
+<Title>Classifying Biological Full-Text Articles for Multi-Database Curation</Title>
+<Section position="2" start_page="1" end_page="1" type="abstr">
+<SectionTitle>
+Abstract MeSH Caption AbstractSEM MeSHSEM CaptionSEM AbstractTM CaptionTM
+</SectionTitle>
+<Paragraph position="0"> 2005). To compare with our performance, we list the best and median results for each subtask on the genomics classification task of TREC 2005 in Table 3.</Paragraph>
+<Paragraph position="1"> Comparing to Tables 2 and 3, it shows our experimental results have overall high performance.</Paragraph>
+<Section position="1" start_page="1" end_page="1" type="sub_section">
+<SectionTitle>
+Conclusions and Further Work
+</SectionTitle>
+<Paragraph position="0"> In this paper, we demonstrate how our system is constructed. Three parts of an article are extracted to represent its content. We incorporate two domain-specific resources, i.e., UMLS and a list of tumor names. For each categorization work, we propose an algorithm to get the best combination of the representations and train an SVM classifier out of this combination. Evaluation results show overall high performance in this study. Except for MeSH terms, we can try other sections in the article, e.g., Results, Discussions and Conclusions as targets of feature extraction besides the abstract and captions in the future. Finally, we will try to make use of other available domain-specific resources in hope of enhancing the performance of this system.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1161">
+<Title>Acquisition of Semantic Classes for Adjectives from Distributional Evidence</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we present a clustering experiment directed at the acquisition of semantic classes for adjectives in Catalan, using only shallow distributional features.</Paragraph>
+<Paragraph position="1"> We define a broad-coverage classification for adjectives based on Ontological Semantics. We classify along two parameters (number of arguments and ontological kind of denotation), achieving reliable agreement results among human judges. The clustering procedure achieves a comparable agreement score for one of the parameters, and a little lower for the other.</Paragraph>
+</Section>
+</Paper>
+

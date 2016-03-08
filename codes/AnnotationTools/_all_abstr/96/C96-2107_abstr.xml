@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-2107">
+<Title>Statistical Method of Recognizing Local Cohesion in Spoken Dialogues</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a method for automatically recognizing local cohesion between utterances, which is one of the discourse structures in task-oriented spoken dialogues. More specifically we can automatically acquire discourse knowledge from an annotated corpus with local cohesion. In this paper we focus on speech act type-based local cohesion. The presented method consists of two steps 1) identifying the speech act expressions in an utterance and 2) calculating the plausibility of local cohesion between the speech act expressions by using the dialogue corpus annotated with local cohesion. We present two methods of interpolating the plausibility of local cohesion based on surface information on utterances. The presented method has obtained a 93% accuracy for closed data and a 78% accuracy for open data in recognizing a pair of utterances with local cohesion. null</Paragraph>
+</Section>
+</Paper>
+

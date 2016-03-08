@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-1030">
+<Title>Extracting the Names of Genes and Gene Products with a Hidden Markov Model</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> \~e report the results of a study into the use of a linear interpolating hidden Marker model (HMM) for the task of extra.('ting lxw\]mi(:al |;erminology fl:om MEDLINE al)stra('ts and texl;s in the molecular-bioh)gy domain. Tiffs is the first stage isl a. system that will exl;ra('l; evenl; information for automatically ut)da.ting 1)ioh)gy databases. We trained the HMM entirely with 1)igrams based (m lexical and character features in a relatively small corpus of 100 MEDLINE abstract;s that were ma.rked-ul) l)y (lomain experts wil;h term (:lasses su(:h as t)rol;eins and DNA. I.Jsing cross-validation methods we a(:\]fieved a,n \].e-score of 0.73 and we (',xmnine the ('ontrilmtion made by each 1)art of the interl)olation model to overconfing (la.ta Sl)arsen('.ss.</Paragraph>
+</Section>
+</Paper>
+

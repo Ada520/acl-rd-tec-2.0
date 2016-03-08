@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-2034">
+<Title></Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+References
+</SectionTitle>
+<Paragraph position="0"> 1 A. Banfield. 1982. Unspeakable Sentences. Routledge and Kegan Paul, Boston.</Paragraph>
+<Paragraph position="1"> 2 Lynn Carlson , Daniel Marcu , Mary Ellen Okurowski, Building a discourse-tagged corpus in the framework of Rhetorical Structure Theory, Proceedings of the Second SIGdial Workshop on Discourse and Dialogue, p.1-10, September 01-02, 2001, Aalborg, Denmark 3 Eduard Hendrik Hovy, Generating natural language under pragmatic constraints, 1987 4 Brett Kessler , Geoffrey Numberg , Hinrich Schtze, Automatic detection of text genre, Proceedings of the 35th annual meeting on Association for Computational Linguistics, p.32-38, July 07-12, 1997, Madrid, Spain 5 Dekang Lin, Automatic retrieval and clustering of similar words, Proceedings of the 17th international conference on Computational linguistics, p.768-774, August 10-14, 1998, Montreal, Quebec, Canada 6 Ellen Riloff , Rosie Jones, Learning dictionaries for information extraction by multi-level bootstrapping, Proceedings of the sixteenth national conference on Artificial intelligence and the eleventh Innovative applications of artificial intelligence conference innovative applications of artificial intelligence, p.474-479, July 18-22, 1999, Orlando, Florida, United States 7 E. Spertus. 1997. Smokey: Automatic recognition of hostile messages. In Proc. IAAI.</Paragraph>
+<Paragraph position="2"> 8 Simone Teufel , Marc Moens, What's yours and what's mine: determining intellectual attribution in scientific text, Proceedings of the 2000 Joint SIGDAT conference on Empirical methods in natural language processing and very large corpora: held in conjunction with the 38th Annual Meeting of the Association for Computational Linguistics, p.9-17, October 07-08, 2000, Hong Kong 9 Janyce M. Wiebe , Rebecca F. Bruce , Thomas P. O'Hara, Development and use of a gold-standard data set for subjectivity classifications, Proceedings of the 37th annual meeting of the Association for Computational Linguistics on Computational Linguistics, p.246-253, June 20-26, 1999, College Park, Maryland 10 Janyce Wiebe , Rebecca Bruce , Matthew Bell , Melanie Martin , Theresa Wilson, A corpus study of evaluative and speculative language, Proceedings of the Second SIGdial Workshop on Discourse and Dialogue, p.1-10, September 01-02, 2001, Aalborg, Denmark 11 J. Wiebe, T. Wilson, and M. Bell. 2001b. Identifying collocations for recognizing opinions. In ACL-01 Workshop on Collocation.</Paragraph>
+<Paragraph position="3"> 12 Janyce M. Wiebe, Tracking point of view in narrative, Computational Linguistics, v.20 n.2, p.233-287, June 1994 13 Janyce Wiebe, Learning Subjective Adjectives from Corpora, Proceedings of the Seventeenth National Conference on Artificial Intelligence and Twelfth Conference on Innovative Applications of Artificial Intelligence, p.735-740, July 30-August 03, 2000</Paragraph>
+</Section>
+</Paper>
+

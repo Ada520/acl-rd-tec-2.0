@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-2014">
+<Title></Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+References
+</SectionTitle>
+<Paragraph position="0"> 4 Thomas M. Cover , Joy A. Thomas, Elements of information theory, Wiley-Interscience, New York, NY, 1991 5 Ido Dagan , Lillian Lee , Fernando C. N. Pereira, Similarity-Based Models of Word Cooccurrence Probabilities, Machine Learning, v.34 n.1-3, p.43-69, Feb. 1999 6 William B. Frakes , Ricardo Baeza-Yates, Information retrieval: data structures and algorithms, Prentice-Hall, Inc., Upper Saddle River, NJ, 1992 7 I. J. Good. 1953. The population frequencies of species and the estimation of population parameters. Biometrika, 40:16--264.</Paragraph>
+<Paragraph position="1"> 8 Slava M. Katz. 1987. Estimation of probabilities from sparse data for the language model component of a speech recogniser. IEEE Transactions on Acoustics, Speech, and Signal Processing, 35(3):400--401. 9 Anna Korhonen, Semantically motivated subcategorization acquisition, Proceedings of the ACL-02 workshop on Unsupervised lexical acquisition, p.51-58, July 12-12, 2002, Philadelphia, Pennsylvania 10 Anna Korhonen. 2002b. Subcategorization Acquisition. Ph.D. thesis, University of Cambridge, UK.</Paragraph>
+<Paragraph position="2"> 11 Maria Lapata, The disambiguation of nominalizations, Computational Linguistics, v.28 n.3, p.357-388, September 2002 12 P. S. Laplace. 1814. Essai philosophique sur les probabilites. Mme. Ve. Courcier.</Paragraph>
+<Paragraph position="3"> 13 Lillian Lee, Measures of distributional similarity, Proceedings of the 37th annual meeting of the Association for Computational Linguistics on Computational Linguistics, p.25-32, June 20-26, 1999, College Park, Maryland 14 Lillian Lee. 2001. On the effectiveness of the skew divergence for statistical language analysis. In Artificial Intelligence and Statistics 2001, pages 65--72.</Paragraph>
+<Paragraph position="4"> 15 Geoff Leech. 1992. 100 million words of English: the British National Corpus. Language Research, 28(1):1--13.</Paragraph>
+<Paragraph position="5"> 16 Beth Levin. 1993. English Verb Classes and Alternations. Chicago University Press, Chicago.</Paragraph>
+<Paragraph position="6"> 17 Jianhua Lin. 1991. Divergence measures based on the Shannon entropy. IEEE Transactions on Information Theory, 37(1):145--151.</Paragraph>
+<Paragraph position="7"> 18 Dekang Lin, Automatic retrieval and clustering of similar words, Proceedings of the 17th international conference on Computational linguistics, p.768-774, August 10-14, 1998, Montreal, Quebec, Canada 19 Christopher D. Manning , Hinrich Schtze, Foundations of statistical natural language processing, MIT Press, Cambridge, MA, 1999 20 Diana McCarthy, Using semantic preferences to identify verbal participation in role switching alternations, Proceedings of the first conference on North American chapter of the Association for Computational Linguistics, p.256-263, April 29-May 04, 2000, Seattle, Washington 21 George A. Miller. 1990. WordNet: An online lexical database. International Journal of Lexicography, 3(4):235--312.</Paragraph>
+<Paragraph position="8"> 22 C. Spearman. 1904. The proof and measurement of association between two things. American Journal of Psychology, 15:72--101.</Paragraph>
+<Paragraph position="9"> 23 I. H. Witten and T. C. Bell. 1991. The zero-frequency problem: Estimating the probabilities of novel events in adaptive text compression. IEEE Transactions on Information Theory, 37(4):1085--1094.</Paragraph>
+</Section>
+</Paper>
+

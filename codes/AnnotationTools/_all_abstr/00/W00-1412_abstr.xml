@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-1412">
+<Title>Incr en ntal, Eventoneeptua fization.:and Natural Language Generation in Monitoring Environments</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we present a psycholinguistically motivated architecture and its prototypical implementation for an incremental conceptualizer, which monitors dynamic changes in the world and simultaneously generates warnings for (possibly) safety-critical developments. It does so by conceptualizing events and building up a hierarchical knowledge representation of the perceived states of affairs. If it detects a safety problem, it selects suitable elements from the representation for a warning, brings them into an appropriate order, and generates incremental preverbal messages (propositional structures) from them, which can be taken by a subsequent component to encode them linguistically.</Paragraph>
+</Section>
+</Paper>
+

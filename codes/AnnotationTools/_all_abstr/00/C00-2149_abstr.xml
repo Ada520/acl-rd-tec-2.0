@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-2149">
+<Title>Context-Free Grammar Rewriting and the Transfer of Packed Linguistic Representations</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We propose an algorithm for the trausfer of packed linguistic structures, that is, finite collections of labelled graphs which share certain subparts. A labelled graph is seen as a word over a vocabulary of description elements (nodes, arcs, labels), and a collection of graphs as a set of such words, that is, as a hmguage over description elements. A packed representation for the collection of graphs is then viewed as a context-free grammar which generates such a language. We present an algorithm that uses a conventional set of transfer rules but is capable of rewriting the CFG representing the source packed structure into a CFG representing the target packed structure that preserves the compaction properties of the source CFG.</Paragraph>
+</Section>
+</Paper>
+

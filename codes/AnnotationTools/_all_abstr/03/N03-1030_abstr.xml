@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N03-1030">
+<Title>Sentence Level Discourse Parsing using Syntactic and Lexical Information</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We introduce two probabilistic models that can be used to identify elementary discourse units and build sentence-level discourse parse trees.</Paragraph>
+<Paragraph position="1"> The models use syntactic and lexical features.</Paragraph>
+<Paragraph position="2"> A discourse parsing algorithm that implements these models derives discourse parse trees with an error reduction of 18.8% over a state-of-the-art decision-based discourse parser. A set of empirical evaluations shows that our discourse parsing model is sophisticated enough to yield discourse trees at an accuracy level that matches near-human levels of performance.</Paragraph>
+</Section>
+</Paper>
+

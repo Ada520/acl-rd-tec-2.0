@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P02-1002">
+<Title>Sequential Conditional Generalized Iterative Scaling</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe a speedup for training conditional maximum entropy models. The algorithm is a simple variation on Generalized Iterative Scaling, but converges roughly an order of magnitude faster, depending on the number of constraints, and the way speed is measured. Rather than attempting to train all model parameters simultaneously, the algorithm trains them sequentially. The algorithm is easy to implement, typically uses only slightly more memory, and will lead to improvements for most maximum entropy problems.</Paragraph>
+</Section>
+</Paper>
+

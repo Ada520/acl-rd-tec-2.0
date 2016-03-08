@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W01-0810">
+<Title>Linear order as higher-level decision: Information Structure in strategic and tactical generation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We propose a multilingual approach to characterizing word order at the clause level as a means to realize information structure. We illustrate the problem with three languages which differ in the degree of word order freedom they exhibit: Czech, a free word order language in which word order variation is pragmatically determined; English, a fixed word order language in which word order is primarily grammatically determined; and German, a language which is between Czech and English on the scale of word order freedom. Our work is theoretically rooted in previous work on information structuring and word order in the Prague School framework as well as on the systemic-functional notion of Theme.</Paragraph>
+<Paragraph position="1"> The approach we present has been implemented in KPML.</Paragraph>
+</Section>
+</Paper>
+

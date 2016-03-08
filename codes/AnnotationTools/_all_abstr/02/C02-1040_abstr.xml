@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C02-1040">
+<Title>Learning Verb Argument Structure from Minimally Annotated Corpora</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we investigate the task of automatically identifying the correct argument structure for a set of verbs. The argument structure of a verb allows us to predict the relationship between the syntactic arguments of a verb and their role in the underlying lexical semantics of the verb. Following the method described in (Merlo and Stevenson, 2001), we exploit the distributions of some selected features from the local context of a verb. These features were extracted from a 23M word WSJ corpus based on part-of-speech tags and phrasal chunks alone. We constructed several decision tree classifiers trained on this data. The best performing classifier achieved an error rate of 33.4%. This work shows that a subcategorization frame (SF) learning algorithm previously applied to Czech (Sarkar and Zeman, 2000) is used to extract SFs in English. The extracted SFs are evaluated by classifying verbs into verb alternation classes.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-1025">
+<Title>Mining Tables from Large Scale HTML Texts</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Table is a very common presentation scheme, but few papers touch on table extraction in text data mining. This paper l'ocuscs on mining tables from large-scale HTML texts. Table filtering, recognition, interpretation, and presentation arc discussed. Heuristic rules and cell similarities arc employed to identify tables. The F-measure ot' table recognition is 86.50%.</Paragraph>
+<Paragraph position="1"> We also propose an algorithm to capture attribute-value relationships alnong table cells. Finally, more structured data is extracted and presented.</Paragraph>
+<Paragraph position="2"> Introduction Tables, which arc simple and easy to use, are very common presentation sclleme for writers to describe schedules, organize statistical data, summarize cxpcrilnental results, and so on, in texts ol' different domains. Because tables provide rich inlbrmation, table acquisition is useful for many applications such as document tmderstauding, question-and-answering, text retrieval, etc. However, most of previous approaches on text data mining focus on text parts, and only few touch on tabular ones (Appelt and Israel, 1997; Gaizauskas and Wilks, 1998; Hurst, 1999a). Of the papers on table extractions (Douglas, Hurst and Quinn, 1995; Douglas and Hurst 1996; Hurst and Douglas, 1997; Ng, Lim and Koo, 1999), plain texts arc their targets.</Paragraph>
+<Paragraph position="3"> I11 plain text, writers often use special symbols, e.g., tabs, blanks, dashes, etc., to inake tables. The following shows an example. It depicts book titles, authors, and prices.</Paragraph>
+<Paragraph position="4"> title author price</Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+Statistical Language Learning E.Chamiak $30
+Cross-Language Inforlnation P.elrieval G. Grefenstette $115
+NaturalLanguage Information Retrieval T.Slrzalkowski $144
+</SectionTitle>
+<Paragraph position="0"> When detecting il' there is a table in free text, we should disambiguatc tile uses of tile special symbols. That is, the special symbol may be a separator or content o1' cells. Previous papers employ grammars (Green and Krishuainoorthy, 1995), string-based cohesion measures (Hurst and Douglas, 1997), and learning methods (Ng, Lim and Koo, 1999) to deal with table recognition.</Paragraph>
+<Paragraph position="1"> Because of the silnplicity of table construction lnethods in free text, the expressive capability is limited. Comparatively, the markup languages like HTML provide very flexible constructs for writers to design tables. The flexibility also shows that table extraction in HTML texts is harder than that iu plain text.</Paragraph>
+<Paragraph position="2"> Because the HTML texts are huge on the web, and they arc important sources o1' knowledge, it is indispensable to deal with table mining on HTML texts. Hurst (1999b) is the first attempt to collect a corpus froln HTML files, LAT~X files and a small number o1' ASCII files for table extraction. This paper focuses on HTML texts.</Paragraph>
+<Paragraph position="3"> We will discuss not only how to recognize tables from HTML texts, but also how to identify the roles of each cell (attribute and/or value), aud how to utilize the extracted tables.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W99-0512">
+<Title>W Peters@dcs shef ac uk</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The Inter-Lingual-Index (ILI) m the EuroWordNet architecture is an mltmlly unstructured fund of concepts whmh functions as the hnk between the vanous language wordnets The ILI concepts originate from WordNetl 5, and have been restructured on the basls of aspects of the internal structure of Word-Net, hnks between WordNet and other resources, and multflmgual mapping between the wordnets This leads to a dtfferentmtlon of the status of ILI concepts, a reductmn of the Wordnet polysemy, and a greater connectivity between the wordnets The restructured ILI represents the first step towards a standardized set of word meanings, ts a worhng platform for further development and testing, and can be put to use m NLP tasks such as (multdmgual) mformatmn remeval</Paragraph>
+</Section>
+</Paper>
+

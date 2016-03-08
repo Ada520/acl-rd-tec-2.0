@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0408">
+<Title>English-to-Mandarin Speech Translation with Head Transducers</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe the head transducer model used in an experimental English-to-Mandarin speech translation system. Head transduction is a translation method in which weighted finite state transducers are associated with source-target word pairs. The method is suitable for speech translation because it allows efficient bottom up processing.</Paragraph>
+<Paragraph position="1"> The head transducers in the experimental system have a wider range of output positions than input positions. This asymmetry is motivated by a tradeoff between model complexity and search efficiency. null</Paragraph>
+</Section>
+</Paper>
+

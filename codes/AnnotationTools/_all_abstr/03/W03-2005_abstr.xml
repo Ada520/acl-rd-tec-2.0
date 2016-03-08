@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-2005">
+<Title>Term Distillation in Patent Retrieval</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In cross-database retrieval, the domain of queries diers from that of the retrieval target in the distribution of term occurrences. This causes incorrect term weighting inthe retrieval system which assigns to each term a retrieval weight based on the distribution of term occurrences. To resolve the problem, we propose \term distillation&amp;quot;, a framework for query term selection in cross-database retrieval.</Paragraph>
+<Paragraph position="1"> The experiments using the NTCIR-3 patent retrieval test collection demonstrate that term distillation is eective for cross-database retrieval.</Paragraph>
+</Section>
+</Paper>
+

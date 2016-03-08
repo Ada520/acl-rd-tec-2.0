@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-0213">
+<Title>Dialogue Act Recognition with Bayesian Networks for Dutch Dialogues</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents work on using Bayesian networks for the dialogue act recognition module of a dialogue system for Dutch dialogues. The Bayesian networks can be constructed from the data in an annotated dialogue corpus.</Paragraph>
+<Paragraph position="1"> For two series of experiments - using different corpora but the same annotation scheme - recognition results are presented and evaluated.</Paragraph>
+</Section>
+</Paper>
+

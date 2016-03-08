@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-2120">
+<Title>Matching a tone-based and tune-based approach to English intonation for concept-to-speech generation</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Tlle paper describes the results of a comparison of two annotation systems for isstoslal;ion, the tone-based ToBI al)proach and the 1;une-based api)roach proposed by Systemic Functi(mal Grammar (SFO). The goal of this comparison is to detine a mapping between the two systems tbr the purpose of concept-to-speech generation of English. Since ToB: is widely used in Sl)eech synthesis and SFG is widely used in nal;ural language generation and oft~rs a linguistically motivated aecollnt of intonation, it; appears a promising step to comt)ine the two approaches for concept-to-speech. A corpus of English utterances has been analysed with both ~\].~()13I and SFG categories; eomparison of the analysis results has lead to the identification of some basic equivalents between the two systems on which a mapping can be based.</Paragraph>
+</Section>
+</Paper>
+

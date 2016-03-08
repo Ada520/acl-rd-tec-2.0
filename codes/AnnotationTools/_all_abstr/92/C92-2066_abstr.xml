@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C92-2066">
+<Title>Stochastic Lexicalized Tree-Adjoining Grammars *</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Grammaires Stochastiques Lexi-
+calis~es d'Arbres Adjoints
+</SectionTitle>
+<Paragraph position="0"> Les grammaires lexicalisdes d'arbres adjoiuts consistent d'un ensemble d'arbres, chacun a.ssoci4 PS un mot. Elles permettent de localiser la plupart des contraiutes syntaxiques (par exemple, sujet-verbe, verbe-objet) tout en ddcrivant la syntaxe sous forme d'arbres.</Paragraph>
+<Paragraph position="1"> Dans cc papicr, la notion de derivation des grammaires lexicalisdes d'arbres adjoints (tree-adjoining grammars) est modifi6e au cas de derivatious stochastiques. Le nouveau formalisme, les grammaires stochastiques lexicalisdes d'arbres adjoints (stochastic lexicalized tree-adjoining grammars ou SLTAG) , a des propridtds uniques car il maintient la notion de distribution cntrc mot tout en manipulant la syntaxe de maniSre hi6rarchique.</Paragraph>
+<Paragraph position="2"> Algorithmes Un algorithme pour calculer la probabilitd d'une phrase est pr4senter dans le papier.</Paragraph>
+<Paragraph position="3"> Ensuite, un algorithme qui permet de r4estimer les param~tres d'une grammaire stochastique lexicalisde d'arbres adjoints est ddcrit. Cette algorithme permet de r~estimer les param~tres de fa~on 5. augmenter apr~s chaque it6ration la probabilit6 du corpus. Cette algorithme peut 6tre utilis6 comme algorithme d'apprentissage. La grammaire initiale d'entrde g4n~re tous les roots de routes les faqons possibles.</Paragraph>
+<Paragraph position="4"> L'algorithme permct ensuite d'inf4rer unc grammaire b. partir du corpus.</Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+Evaluation Expdrimentale
+</SectionTitle>
+<Paragraph position="0"> Nous avons testd l'algorithme de r$estimation sur un corpus artificiel (Figure 1) et aussi sur les sequences de parties du discours (Figure 2) du corpus 'ATIS' (Hemphill, Godfrey, and Doddington, 1990). Dans les deux cas, l'algorithme pour les grammaires stochastiques lexicalis~es d'arbres adjoints converge plus rapidement que celui pour les grammaires hors contexte (Baker, 1979). Ces expdriences confirment le fait que les grammaires stochastiques lexicalisdes d'arbres adjoints permettent de mod~liser des distributions entre roots que les grammaires stochastiques hors contexte ne peuvent pas exprimer.</Paragraph>
+<Paragraph position="1">  schabes@unagi, cis. upenn, edu</Paragraph>
+</Section>
+</Section>
+</Paper>
+

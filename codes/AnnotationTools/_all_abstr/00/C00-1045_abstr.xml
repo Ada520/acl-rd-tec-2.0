@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-1045">
+<Title>Pronominalization revisited*</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Pronolninalization has been related to tile idea of a local focus - a set of discourse entities in the speaker's centre of attention, for exmnple ill Gundel et al. (1993)'s givenness hierarchy or in centering theory. Both accounts say that the determination of tile tbcus depends on syntactic as well as pragmatic factors, but have not been able to pin those factors down. In this paper, we uncover the major factors which determine the focus set in descriptive texts. This new tbcus definition has been ew, luated with respect to two corporm museum exhibit labels, mid newspaper mtieles. It provides an operationalizable basis for pronoun production, and has been implemented as the reusable module gnome-np. The algorithm l)ehind gnome-np is conlpared with the most recent pronoun generation algorithm of McCoy and Strube (1999).</Paragraph>
+</Section>
+</Paper>
+

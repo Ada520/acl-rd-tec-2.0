@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A92-1043">
+<Title>Learning a Scanning Understanding for &amp;quot;Real-world&amp;quot; Library Categorization</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Federal Republic of Germany
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes, compares, and evaluates three different approaches for learning a semantic classification of library titles: 1) syntactically condensed titles, 2) complete titles, and 3) titles without insignificant words are used for learning the classification in connectionist recurrent plausibility networks. In particular, we demonstrate in this paper that automatically derived feature representations and recurrent plausibility networks can scale up to several thousand library titles and reach almost perfect classification accuracy (&gt;98%) compared to a real-world library classification.</Paragraph>
+</Section>
+</Paper>
+

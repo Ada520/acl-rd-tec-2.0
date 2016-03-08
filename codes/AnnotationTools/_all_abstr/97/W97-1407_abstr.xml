@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-1407">
+<Title>Scene Direction Based Reference In Drama Scenes</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Our research target is reference relations between descriptions of script and an actor/actress who actually plays in the drama scene that correspond to the scene direction which is a part of the script. In this paper, first we analyze sentences used as the scene directions, and classify them.</Paragraph>
+<Paragraph position="1"> Then we propose the rules to extract subjects and predicates from those sentences.</Paragraph>
+<Paragraph position="2"> With the extracted subjects and predicates, we build the existence/action map that explains the situations happening on each scene. The existence/action map we build describes scenes very correctly as for whether each player appears in each scene or not. Our experiment shows that the recall is around 80% and the precision is over 90%. This means that our system of inferring reference relations works well for scene directions. Then we develop the scene retrieval system in which this map is used to retrieve scenes from the drama video database according to the input query. We also show some experimental results of our retrieval system.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="I05-5004">
+<Title>A Class-oriented Approach to Building a Paraphrase Corpus</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Towards deep analysis of compositional classes of paraphrases, we have examined a class-oriented framework for collecting paraphrase examples, in which sentential paraphrases are collected for each paraphrase class separately by means of automatic candidate generation and manual judgement. Our preliminary experiments on building a paraphrase corpus have so far been producing promising results, which we have evaluated according to cost-efficiency, exhaustiveness, and reliability. null</Paragraph>
+</Section>
+</Paper>
+

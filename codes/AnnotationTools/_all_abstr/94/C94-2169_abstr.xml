@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C94-2169">
+<Title>hesaurus-based Efficient Example Retrieval</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In example-based NLP, the problem of eoml)utational cost of example retrieval is severe, since the retrieval time increases in proportion to the number of examples in the database. This paper proposes a novel example retrieval method for avoiding ftfll retrieval of examples.</Paragraph>
+<Paragraph position="1"> The proposed method has the following three features, 1) it generates retrieval queries from similarities, 2) efficient example retrieval through the tree structure of a thesaurus, 3) binary search along subsumption ordering of retrieval queries. Example retrieval time drastically decreases with the method.</Paragraph>
+</Section>
+</Paper>
+

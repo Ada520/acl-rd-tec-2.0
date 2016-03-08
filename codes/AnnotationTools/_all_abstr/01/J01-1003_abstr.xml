@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J01-1003">
+<Title>Machine Learning</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> The Expedition project at NMSU Computing Research Laboratory is devoted to the fast &amp;quot;ramp-up&amp;quot; of machine translation systems from less studied, so-called low-density languages, into English. One of the components that must be acquired and built during this process is a morphological analyzer for the source language. Since language informants are not expected or required to be well-versed in computational linguistics in general, or in recent approaches to building morphological analyzers (e.g., Koskenniemi 1983; Antworth 1990; Karttunen, Kaplan, and Zaenen 1992; Karttunen 1994) and the operation of state-of-the-art finite-state tools (e.g., Karttunen 1993; Karttunen and Beesley 1992; Karttunen et al. 1996; Mohri, Pereira, and Riley 1998; van Noord 1999; van Noord and Gerdemann 1999) in particular, the generation of the morphological analyzer component has to be accomplished semiautomatically. The informant will be guided through a knowledge elicitation procedure using the elicitation component of Expedition, the Boas system. As this task is not easy, we expect that the development of the morphological analyzer will be an iterative process, whereby the human informant will revise and/or refine the information previously elicited based on the feedback from test runs of the nascent analyzer.</Paragraph>
+<Paragraph position="1"> * Faculty of Engineering and Natural Sciences, Orhanh, 81474 Tuzla, Istanbul, TURKEY t Computing Research Laboratory, Las Cruces, NM 88003 Computational Linguistics Volume 27, Number 1 The work reported in this paper describes the process of building and refining morphological analyzers using data elicited from human informants and machine learning.</Paragraph>
+<Paragraph position="2"> The main use of machine learning in our current approach is in the automatic learning of formal rewrite or replace rules for morphographemic changes derived from the examples provided by the informant. The subtask of accounting for morphographemic changes is perhaps one of the more complicated aspects of building an analyzer; by automating it, we expect to improve productivity.</Paragraph>
+<Paragraph position="3"> After a review of related work, we very briefly describe the Boas project, of which the current work is a part. Subsequent sections describe the details of the approach, the architecture of the morphological analyzer, the elicited descriptive data, and the computational processes performed on this data, including segmentation and the induction of morphographemic rules. We then provide a detailed example of applying this approach to developing a morphological analyzer for Polish. Finally, we provide some conclusions and ideas for future work.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-0104">
+<Title>Automatic Acquisition of Feature-Based Phonotactic Resources</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Automata induction and typed feature theory are described in a unified framework for the automatic acquisition of feature-based phonotactic resources.</Paragraph>
+<Paragraph position="1"> The viability of this data-driven procedure is illustrated with examples taken from a corpus of syllable-labelled data.</Paragraph>
+</Section>
+</Paper>
+

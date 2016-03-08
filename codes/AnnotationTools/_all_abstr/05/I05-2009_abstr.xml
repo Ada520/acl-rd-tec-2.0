@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="I05-2009">
+<Title>Analysis and modeling of manual summarization of Japanese broadcast news</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe our analysis and modeling of the summarization process of Japanese broadcast news. We have studied the entire manual summarization process of the Japan Broadcasting Corporation (NHK). The staff of NHK has been making manual summarizations of news text on a daily basis since December 2000. We interviewed these professional abstractors and obtained a considerable amount of news summaries. We matched the summary with the original text, investigated the news text structure, and thereby analyzed the manual summarization process. We then developed a summarization model on which we intend to build a summarization system.</Paragraph>
+</Section>
+</Paper>
+

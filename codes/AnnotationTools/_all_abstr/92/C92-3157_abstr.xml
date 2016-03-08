@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C92-3157">
+<Title>From Detection/Correction to Computer Aided Writing</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> Most texts nowadays are produced in an electronic form by the use of systems which provide text processing facilities but also linguistic facilities such as spelling checkers, on-line lexicons and even syntactic checkers.</Paragraph>
+<Paragraph position="1"> We think that a computer-aided writing system must be designed as a complete environment for the production, maintenance, edition and communication of texts. This implies for example the use of an ideas manager and on-line lexicons for production, a text editor and linguistic verifiers for maintenance, a text processor for edition and a standardized form for communication.</Paragraph>
+<Paragraph position="2"> Following our work on detection and correction of errors, we propose an architecture of a system able to integrate in a uniform way our linguistic tools (morphological parsing and generation, lexical correction techniques, syntactic parser and verifier) as well as tools for text processing and document editing and exporting. Tools are designed as specialized modules disposed around a unique data structure, which is the intemal representation of the text. This structure is a multi-dimensional lattice, coding the linearity but also the structure and the ambiguities of the text. It is completed by a lexicon based on typed feature structures encoding morphological, syntactic and semantic information on words.</Paragraph>
+<Paragraph position="3"> The distribution of the competence of the system in specialized modules permits an easier maintenance of the system itself but, moreover, allows competence sharing among the modules, which is very important for the linguistic ones (for example the syntactic verifier needs to use ahnost every linguistic module: morphology, phonetic, syntax).</Paragraph>
+</Section>
+</Paper>
+

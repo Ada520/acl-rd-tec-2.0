@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-0715">
+<Title>I I | I I I I I I I I I I I Semi-automatic Induction of Systematic Polysemy from WordNet</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a semi-automatic method of inducing underspecified semantic classes from WordNet verbs and nouns. An underspecified semantic class is an abstract semantic class which encodes systematic polysem~f, a set of word senses that are related in systematic and predictable ways. We show the usefulness of the induced classes in the semantic interpretations and contextual inferences of real-word texts by applying them to the predicate-argument structures in Brown corpus.</Paragraph>
+</Section>
+</Paper>
+

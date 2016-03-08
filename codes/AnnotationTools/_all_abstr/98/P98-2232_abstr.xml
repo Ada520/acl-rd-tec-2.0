@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-2232">
+<Title>Combination of an Automatic and an Interactive Disambiguation Method</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In natural language processing, many methods have been proposed to solve the ambiguity problems. In this paper, we propose a technique to combine a method of interactive disambiguation and automatic one for alnbiguous words. The characteristic of our method is that the accuracy of the interactive disambiguation is considered. The method solves the two following problems when combining those disambiguation lnethods: (1) when should the interactive disambiguation be executed? (2) which ambiguous word should be disambiguated when more than one ambiguous words exist in a sentence? Our method defines the condition of executing the interaction with users and the order of disambiguation based on the strategy where the accuracy of the result. is maximized, considering the accuracy of the interactive disambiguation and automatic one. Using this lnethod, user interaction can be controlled while holding the accuracy of results.</Paragraph>
+</Section>
+</Paper>
+

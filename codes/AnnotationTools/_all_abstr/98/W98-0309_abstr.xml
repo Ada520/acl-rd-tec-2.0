@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-0309">
+<Title>Similarity and contrast relations and inductive rules</Title>
+<Section position="2" start_page="0" end_page="54" type="abstr">
+<SectionTitle>
+2 Coherence relations and defeasible
+rules
+</SectionTitle>
+<Paragraph position="0"> Several researchers have used defeasible rules in relation definitions. In (Oversteegen, 1995) and (Grote et al., 1995), defeasible rules are used for representing the CONCESSION relation. In (Knott, 1996; Knott and Mellish, 1996), they are used more widely, in the definitions of a whole family of causal and argumentative coherence relations. We will begin by outlining some aspects of this latter account.</Paragraph>
+<Paragraph position="1"> In Knott's account of coherence relations, all relations with a causal or inferential component presuppose a defensible rule. For instance, consider the following case: (2) John was tired, so he went to bed.</Paragraph>
+<Paragraph position="2"> What information does the coherence relation signalled by so contribute to the text? It is implausible to suggest that it informs the hearer of a new rule of inference; in fact it seems necessary that the hearer already have the necessary rule to make sense of the text. A better analysis is that the hearer is being told that this rule of inference succeeds in the situation described. We can summarise this idea by proposing that a relation of the form P, so Q presupposes a defensible rule that has P as part of its left-hand side, and Q on its right.</Paragraph>
+<Paragraph position="3"> The general framework for presupposed rules is given in Figure i. For the present, we interpret the connective ~ as the defeasible implication &gt; in (Asher and Morreau. 1991)'s logic of commonsense entailment. Note that we have abstracted away from The relation holds between two propositions, X and Y.</Paragraph>
+<Paragraph position="4"> It presupposes the existence of a defeasible rule of the form X A P ~ C.</Paragraph>
+<Paragraph position="5">  the simple correspondence between relation and rule assumed above: the mapping between Y, P and C is determined by the values of two further parameters, as explained in Sections 2.1 and 2.2.</Paragraph>
+<Section position="1" start_page="0" end_page="54" type="sub_section">
+<SectionTitle>
+2.1 POSITIVE and NEGATIVE POLARITY
+relations
+</SectionTitle>
+<Paragraph position="0"> One of the parameters we need to speciE' concerns whether the defensible rule succeeds or is defeated.</Paragraph>
+<Paragraph position="1"> In Example 2, the rule succeeds, as we have seen; but there are also similar cases where a defensible rule should be analysed as being defeated. For instance: (3) John was tired, but he stayed awake.</Paragraph>
+<Paragraph position="2"> (We can call this relation a CO~CESSlO.X.) If we treat the success Or failure of the presupposed rule  as a parameter to be specified, we can use the same framework to represent both examples. The parameter can be called POLARITY; The relevant values are given in Figure 2.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

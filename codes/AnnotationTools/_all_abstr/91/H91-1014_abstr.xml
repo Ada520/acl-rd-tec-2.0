@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H91-1014">
+<Title>Development and Preliminary Evaluation of the MIT ATIS System 1</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> This paper represents a status report on the MIT ATIS system. The most significant new achievement is that we now have a speech-input mode. It is based on the MIT SUMMIT system using context independent phone models, and includes a word-pair grammar with perplexity 92 (on the June-90 test set). In addition, we have completely redesigned the back-end component, in order to emphasize portability and extensibility. The parser now produces an intermediate semantic frame representation, which serves as the focal point for all back-end operations, such as history management, text generation, and SQL query generation.</Paragraph>
+<Paragraph position="1"> Most of those aspects of the system that are tied to a particular domain are now entered through a set of tables associated with a small artificial language for decoding them. We have also improved the display of the database table, making it considerably easier for a subject to comprehend the information given. We report here on the results of the official DARPA February-91 evaluation, as well as on results of an evaluation on data collected at MIT, for both speech input and text input.</Paragraph>
+</Section>
+</Paper>
+

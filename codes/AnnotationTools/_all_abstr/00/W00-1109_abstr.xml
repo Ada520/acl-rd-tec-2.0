@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-1109">
+<Title>From Information Retrieval to Information Extraction</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a system which enables users to create on-the-fly queries which involve not just keywords, but also sortal constraints and linguistic constraints. The user can specify how the results should be presented e.g. in terms of links to documents, or as table entries. The aim is to bridge the gap between keyword based Information Retrieval and pattern based Information Extraction.</Paragraph>
+</Section>
+</Paper>
+

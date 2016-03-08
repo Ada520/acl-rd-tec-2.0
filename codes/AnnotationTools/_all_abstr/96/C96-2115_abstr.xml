@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-2115">
+<Title>Arguments desperately seeking Interpretation: Parsing German Infinitives</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we present a GB-parsing system for German and in particular the system's strategy for argument interpretation, which copes with the difficulty that word order is relatively free in German and also that arguments can precede their predicate. In this latter case, the parser makes a provisional interpretation, which is checked when the argument structure of the predicate is available. Moreover, a strategy of argument transfer is used in eases of long-distance scrambling, according to which arguments and adjuncts are attached to the domain of the coherent verb, ECM verb, or raising verb, and transferred to the infinitival complement for interpretation. null</Paragraph>
+</Section>
+</Paper>
+

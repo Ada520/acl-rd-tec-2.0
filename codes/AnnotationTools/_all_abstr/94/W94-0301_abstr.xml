@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W94-0301">
+<Title>Discovery and Format of Input Structures for Tactical Generation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> We are concerned with the proper form for the structures which serve as the output of strategic generation and the input to tactical generation. How should the elements of this structure be discovered and how they should be arranged? In both respects, our proposals will contrast with those of Rhetorical Structure Theory \[Mann and Thompson\]. Major components of the structure are discourse relations and &amp;quot;rhetorical types&amp;quot; (pragmatic objects similar to speech acts) to be discovered via paraphrase relations. We describe a discovery procedure and compare it with similar proposals by Ivir et al and Knott and Dale. We then argue that these and other components, once identified, should be arranged in lattices rather than strictly in hierarchies. As illustration, we list the discourse relations and rhetorical types needed to generate a paragraph-length discourse studied by Mann and Thompson. We present a lattice composed of these, and give one example of an alternate version of the discourse which could be generated from it.</Paragraph>
+</Section>
+</Paper>
+

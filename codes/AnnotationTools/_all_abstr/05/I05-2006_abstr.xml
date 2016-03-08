@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="I05-2006">
+<Title>A Question Answer System Based on Confirmed Knowledge Developed by Using Mails Posted to a Mailing List</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we report a QA system which can answer how type questions based on the confirmed knowledge base which was developed by using mails posted to a mailing list. We first discuss a problem of developing a knowledge base by using natural language documents: wrong information in natural language documents. Then, we describe a method of detecting wrong information in mails posted to a mailing list and developing a knowledge base by using these mails. Finally, we show that question and answer mails posted to a mailing list can be used as a knowledge base for a QA system.</Paragraph>
+</Section>
+</Paper>
+

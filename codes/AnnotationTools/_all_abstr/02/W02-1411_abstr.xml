@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-1411">
+<Title>Acquisition of Lexical Paraphrases from Texts</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Automatic acquisition of paraphrase knowledge for content words is proposed. Using only a non-parallel text corpus, we compute the paraphrasability metrics between two words from their similarity in context. We then filter words such as proper nouns from external knowledge.</Paragraph>
+<Paragraph position="1"> Finally, we use a heuristic in further filtering to improve the accuracy of the automatic acquisition. In this paper, we report the results of acquisition experiments.</Paragraph>
+</Section>
+</Paper>
+

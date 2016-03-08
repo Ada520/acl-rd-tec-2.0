@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-2127">
+<Title>Toward the &amp;quot;At-a-glance&amp;quot; Summary: Phrase-representation Summarization Method YoshihiroUEDA, MamikoOKA, TakahiroKOYAMA and TadanobuMIYAUCHl</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We have developed a summarization method that creates a snmmary suitable for tim p,'ocess of sifting information retrieval results. Unlike conventional methods that extract ilnportant sentences, this method constructs short phrases to reduce the burden of reading long sentences. We have developed a prototype summarization system tbr Japanese. Through a rather large-scale task~ based experiment, the sumnmry this system creates proved to be effective to sift IR results. This summarization method is also applicable to other languages such as English.</Paragraph>
+<Paragraph position="1"> Introduction Sulnmaries are used to select relevant information from information retrieval results. The goal of sunmmrization for such &amp;quot;indicative&amp;quot; use is to provide fast and accurate judgement.</Paragraph>
+<Paragraph position="2"> Most automatic summarization systems adopt the &amp;quot;sentence selection&amp;quot; metho&amp; which gives a score to eve~ sentence on the basis of its charac-.</Paragraph>
+<Paragraph position="3"> teristics, such as word frequency, the position in which it appears, etc. and selects sentences with high scores.</Paragraph>
+<Paragraph position="4"> Tim sentences collected in such a way tend to be so long and complex that the reader must reconstruct tim structure while reading them.</Paragraph>
+<Paragraph position="5"> Reading such sentences involves some annoyante. null Our aim is to reduce this burden by provkling an &amp;quot;at-a-glance&amp;quot; summary.</Paragraph>
+<Paragraph position="6"> Phrase-representation summarization is a method to create the &amp;quot;at-a-glance&amp;quot; summary for the Japanese language, t tere we present the concept, the algorithm, and ewihiation of the efficacy of the summary produced by a prototype based on this method. Extension to English is also discussed.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-0701">
+<Title>Sydney, July 2006. c(c)2006 Association for Computational Linguistics Dimensionality Reduction Aids Term Co-Occurrence Based Multi-Document Summarization</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A key task in an extraction system for query-oriented multi-document summarisation, necessary for computing relevance and redundancy, is modelling text semantics. In the Embra system, we use a representation derived from the singular value decomposition of a term co-occurrence matrix. We present methods to show the reliability of performance improvements.</Paragraph>
+<Paragraph position="1"> We find that Embra performs better with dimensionality reduction.</Paragraph>
+</Section>
+</Paper>
+

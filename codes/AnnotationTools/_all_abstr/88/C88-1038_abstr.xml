@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C88-1038">
+<Title>Sequencing in a Connectionist Model of Language Processing I</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Ret~ ~nt research suggests that human language processing can be profitably viewed in terms of the spread of activation through a network of simple processing units. Decision making in connectionist models such as these is distributed anti consists in selections made from sets of mutually inhibiting candidate items which are activated on the basis of input features. In these models, however, there is the problem, espocially for generation, of obtaining sequential behavior from an essentially parallel process. The thrust of this paper is tlmt sequencing can also be modelled as a process of competition between candidates activated on the basis of input features. In the case of sequencing, the competition concerns which of a set of phrase constituents will appear in a particular output position. This account allows outpu,: ordering to arise out of the interaction of syntactic with semantic anti pragmatic factors, as seems to be the case for human language generation. The paper describes a localized connectionist model of language generation, focusing on the representation and use of sequencing information. We also show how these same sequencing representations and mechanisms are usable in parsing as well.</Paragraph>
+</Section>
+</Paper>
+

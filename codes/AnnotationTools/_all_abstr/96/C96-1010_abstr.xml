@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-1010">
+<Title>Parsing spoken language without syntax</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Parsing spontaneous speech is a difficult task because of the ungrammatical nature of most spoken utterances. To overpass this problem, we propose in this paper to handle the spoken language without considering syntax. We describe thus a microsemantic parser which is uniquely based on an associative network of semantic priming. Experimental results on spontaneous speech show that this parser stands for a robust alternative to standard ones.</Paragraph>
+<Paragraph position="1"> i. Introduction The need of a robust parsing of spontaneous speech is a more and more essential as spoken human - machine communication meets a really impressive development. Now, the extreme structural variability of the spoken language balks seriously the attainment of such an objective. Because of its dynamic and uncontrolled nature, spontaneous speech presents indeed a high rate of ungrammatical constructions (hesitations, repetitious, a.s.o...). As a result, spontaneous speech catch rapidly out most syntactic parsers, in spite of the frequent addition of some ad hoc corrective methods \[Seneff 92\]. Most speech systems exclude therefore a complete syntactic parsing of the sentence. They on the contrary restrict the analysis to a simple keywords extraction \[Appelt 92\]. This selective approach led to significant results in some restricted applications (ATIS...). It seems however unlikely that it is appropriate for higher level tasks, which involve a more complex communication between the user and the computer.</Paragraph>
+<Paragraph position="2"> Thus, neither the syntactic methods nor the selective approaches can fully satisfy the constraints of robustness and of exhaustivity spoken human-machine communication needs.</Paragraph>
+<Paragraph position="3"> This paper presents a detailed semantic parser which masters most spoken utterances. In a first part, we describe the semantic knowledge our parser relies on. We then detail its implementation. Experimental results, which suggest the suitability of this model, are finally provided.</Paragraph>
+</Section>
+</Paper>
+

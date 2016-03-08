@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A00-2027">
+<Title>Evaluating Automatic Dialogue Strategy Adaptation for a Spoken Dialogue System</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we describe an empirical evaluation of an adaptive mixed initiative spoken dialogue system. We conducted two sets of experiments to evaluate the mixed initiative and automatic adaptation aspects of the system, and analyzed the resulting dialogues along three dimensions: performance factors, discourse features, and initiative distribution. Our results show that 1) both the mixed initiative and automatic adaptation aspects led to better system performance in terms of user satisfaction and dialogue efficiency, and 2) the system's adaptation behavior better matched user expectations, more efficiently resolved dialogue anomalies, and resulted in higher overall dialogue quality.</Paragraph>
+</Section>
+</Paper>
+

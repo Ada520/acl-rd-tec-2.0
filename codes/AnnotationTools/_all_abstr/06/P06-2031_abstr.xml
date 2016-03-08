@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P06-2031">
+<Title>Sydney, July 2006. c(c)2006 Association for Computational Linguistics Robust Word Sense Translation by EM Learning of Frame Semantics</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We propose a robust method of automatically constructing a bilingual word sense dictionary from readily available monolingual ontologies by using estimation-maximization, without any annotated training data or manual tuning.</Paragraph>
+<Paragraph position="1"> We demonstrate our method on the English FrameNet and Chinese HowNet structures. Owing to the robustness of EM iterations in improving translation likelihoods, our word sense translation accuracies are very high, at 82% on average, for the 11 most ambiguous words in the English FrameNet with 5 senses or more. We also carried out a pilot study on using this automatically generated bilingual word sense dictionary to choose the best translation candidates and show the first significant evidence that frame semantics are useful for translation disambiguation. Translation disambiguation accuracy using frame semantics is 75%, compared to 15% by using dictionary glossing only. These results demonstrate the great potential for future application of bilingual frame semantics to machine translation tasks.</Paragraph>
+</Section>
+</Paper>
+

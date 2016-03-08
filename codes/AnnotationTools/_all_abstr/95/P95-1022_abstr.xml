@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P95-1022">
+<Title>The intersection of Finite State Automata and Definite Clause Grammars</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Bernard Lang defines parsing as ~ calculation of the intersection of a FSA (the input) and a CFG. Viewing the input for parsing as a FSA rather than as a string combines well with some approaches in speech understanding systems, in which parsing takes a word lattice as input (rather than a word string). Furthermore, certain techniques for robust parsing can be modelled as finite state transducers.</Paragraph>
+<Paragraph position="1"> In this paper we investigate how we can generalize this approach for unification grammars. In particular we will concentrate on how we might the calculation of the intersection of a FSA and a DCG. It is shown that existing parsing algorithms can be easily extended for FSA inputs.</Paragraph>
+<Paragraph position="2"> However, we also show that the termination properties change drastically: we show that it is undecidable whether the intersection of a FSA and a DCG is empty (even if the DCG is off-line parsable).</Paragraph>
+<Paragraph position="3"> Furthermore we discuss approaches to cope with the problem.</Paragraph>
+</Section>
+</Paper>
+

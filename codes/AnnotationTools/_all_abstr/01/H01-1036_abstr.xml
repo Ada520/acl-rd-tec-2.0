@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H01-1036">
+<Title>Information Extraction with Term Frequenciesa0</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. INTRODUCTION
+</SectionTitle>
+<Paragraph position="0"> Every day, millions of people use the internet to answer questions. Unfortunately, at present, there is no simple and successful means to consistently accomplish this goal. One common approach is to enter a few terms from a question into a Web search system and scan the resulting pages for the answer, a laborious process. To address this need, a question answering (QA) system was created to find and extract answers from a corpus. This system contains three parts: a parser for generating question queries and categories, a passage retrieval element, and an information extraction (IE) component. The extraction method was designed to elicit answers from passages collected by the information retrieval engine. The subject of this paper is the information extraction component. It is based on the premise that information related to the answer will be found many times in a large corpus like the Web.</Paragraph>
+<Paragraph position="1"> The system was applied to the Question Answering Track at TREC-9 and achieved the second best results overall[3]. The information extraction and parsing components were new for TREC9; the TREC-8 system solely used passage retrieval[4]. Each new component yielded greater than 10% improvement in mean reciprocal rank, TREC's standard evaluation measure.</Paragraph>
+<Paragraph position="2"> In the sections that follow, the extraction component is described and evaluated according to its contribution to the system's effectiveness. In particular, this paper investigates the contribution of a voting scheme favouring terms found in many candidate passages.</Paragraph>
+</Section>
+</Paper>
+

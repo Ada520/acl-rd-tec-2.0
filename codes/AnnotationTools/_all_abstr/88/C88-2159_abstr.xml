@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C88-2159">
+<Title>Identifying Zero Pronouns in Japanese Dialogue</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Japanese dialogue containing zero pronouns is analyzed for the purpose of automatic Japanese-English conversation translation. Topic-driven Discourse Structure is formalized which identifies mainly non-human zero pronouns as a by-product. Other zero pronouns are handled using cognitive and sociolinguistic information in honorific, deictic, speech-act and mental predicates. These are integrated into the model.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P01-1025">
+<Title>Methods for the Qualitative Evaluation of Lexical Association Measures</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents methods for a qualitative, unbiased comparison of lexical association measures and the results we have obtained for adjective-noun pairs and preposition-noun-verb triples extracted from German corpora. In our approach, we compare the entire list of candidates, sorted according to the particular measures, to a reference set of manually identified &amp;quot;true positives&amp;quot;. We also show how estimates for the very large number of hapaxlegomena and double occurrences can be inferred from random samples.</Paragraph>
+</Section>
+</Paper>
+

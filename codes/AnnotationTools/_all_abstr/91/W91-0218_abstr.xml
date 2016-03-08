@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W91-0218">
+<Title>General Lexical Representation for an Effect Predicate</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper argues that there is no reason to distinguish between lexical information and real-world information on the basis of the formalisms used; that both types of knowledge can be expressed in the same formalism. However, it Mso argues that there is information that is uniquely lexical in content, and this information consists of verb- independent definitions for thematic relations such as cause and effect that alter the representation of a verb depending on the presence or absence of certain verb arguments.</Paragraph>
+</Section>
+</Paper>
+

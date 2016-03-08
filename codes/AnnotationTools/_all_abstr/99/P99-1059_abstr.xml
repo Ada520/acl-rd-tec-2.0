@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P99-1059">
+<Title>Efficient Parsing for Bilexical Context-Free Grammars and Head Automaton Grammars*</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Several recent stochastic parsers use bilexical grammars, where each word type idiosyncratically prefers particular complements with particular head words. We present O(n 4) parsing algorithms for two bilexical formalisms, improving the prior upper bounds of O(n5). For a common special case that was known to allow O(n 3) parsing (Eisner, 1997), we present an O(n 3) algorithm with an improved grammar constant.</Paragraph>
+</Section>
+</Paper>
+

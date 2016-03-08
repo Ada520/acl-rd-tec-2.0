@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1062">
+<Title>Multi-Human Dialogue Understanding for Assisting Artifact-Producing Meetings</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we present the dialogue-understanding components of an architecture for assisting multi-human conversations in artifact-producing meetings: meetings in which tangible products such as project planning charts are created. Novel aspects of our system include multimodal ambiguity resolution, modular ontology-driven artifact manipulation, and a meeting browser for use during and after meetings.</Paragraph>
+<Paragraph position="1"> We describe the software architecture and demonstrate the system using an example multimodal dialogue.</Paragraph>
+</Section>
+</Paper>
+

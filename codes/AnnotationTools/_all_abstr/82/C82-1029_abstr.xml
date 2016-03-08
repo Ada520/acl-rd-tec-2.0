@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C82-1029">
+<Title>CONVERSION OF A FRENCH SURFACE EXPRESSION INTO ITS SEMANTIC REPRESENTATION ACCORDING TO THE RESEDA METALANGUAGE</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+CONVERSION OF A FRENCH SURFACE
+EXPRESSION INTO ITS SEMANTIC REPRESENTATION
+ACCORDING TO THE RESEDA METALANGUAGE
+</SectionTitle>
+<Paragraph position="0"> Centre National de la Recherche Scientifique Laboratoire d'Informatique pour les Sciences de l'Ho~Eae Paris, France The work we describe here is a preliminary study concerning the automatic translation of naturallanguage statements into the RESEDA semantic metalanguage. A first stage of the procedure consists in marking the &amp;quot;triggers&amp;quot;, defined as lexical units which call upon one or more of the predicative patterns allowed for in the metalanquage. The predicative patterns obtained are then merged, and their case slots filled with the elements found in surface structure according to the predictions associated with the slots.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C86-1111">
+<Title>A New Predictive Analyzer of English</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> Aspects of syntactic predictions made during the recognition of English sentences are investigated. We reinforce Kuno's original predictive analyzer\[i\] by introducing five types of predictions. For each type of prediction, we discuss and present its necessity, its description method, and recognition mechanism. We make use of three kinds of stacks whose behavior is specified by grammar rules in an extended version of Greibach normal form. We also investigate other factors that affect the predictive recognition process, i.e., preferences among syntactic ambiguities and necessary amount of lookahead. These factors as well as the proposed handling mechanisms of predictions are tested by analyzing two kinds of articles. In our experiment, more than seventy percent of sentences are recognized and looking two words ahead seems to be the critical length for the predictive recognition.</Paragraph>
+</Section>
+</Paper>
+

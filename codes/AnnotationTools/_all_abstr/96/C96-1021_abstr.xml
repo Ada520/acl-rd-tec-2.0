@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-1021">
+<Title>Anaphora for Everyone: Pronominal Anaphora Resolution without a Parser</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present an algorithm for anaphora resolutkm which is a modified and extended version of that developed by (Lappin and Leass,/994). In contrast to that work, our algorithm does not require in-depth, full, syn.. tactic parsing of text. Instead, with minimal compromise in output quality, the modifications enable the resolution process to work from tile output of a part of speech tagge~; enriched only with annotations of grammatica\] functkm of lexical items in the input text stream. Evaluation of the results of our in-tplementation demonstrates that accurate anaphora resolution can be realized within natural language processing fl'ameworks which do not--~,)r cannot- employ robust and rcqiable parsing components.</Paragraph>
+</Section>
+</Paper>
+

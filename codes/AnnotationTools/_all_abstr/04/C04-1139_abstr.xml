@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1139">
+<Title>Linguistic profiling of texts for the purpose of language verification</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In order to control the quality of internet-based language corpora, we developed a method to verify automatically that texts are of (near-) native quality. For the LOCNESS and ICLE corpora, the method is rather successful in separating native and non-native learner texts.</Paragraph>
+<Paragraph position="1"> The Equal Error Rate is about 10%. However, for other domains, such as internet texts, separate classifiers have to be trained on the basis of suitable seed corpora.</Paragraph>
+</Section>
+</Paper>
+

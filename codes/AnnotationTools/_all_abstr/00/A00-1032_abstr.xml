@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A00-1032">
+<Title>Language Independent Morphological Analysis</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper proposes a framework of language independent morphological analysis and mainly concentrate on tokenization, the first process of morphological analysis. Although tokenization is usually not regarded as a difficult task in most segmented languages such as English, there are a number of problems in achieving precise treatment of lexical entries.</Paragraph>
+<Paragraph position="1"> We first introduce the concept of morpho-fragments, which are intermediate units between characters and lexical entries. We describe our approach to resolve problems arising in tokenization so as to attain a language independent morphological analyzer.</Paragraph>
+</Section>
+</Paper>
+

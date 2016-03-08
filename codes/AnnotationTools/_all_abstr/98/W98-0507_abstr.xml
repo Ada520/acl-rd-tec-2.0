@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-0507">
+<Title>I ! I I</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we propose to introduce syntactic classes in a lexicalized dependency formalism. Sub-categories of words are organized hierarchically from a general, abstract level (syntactic categories) to a word-specific level (single lexical items). The formalism is parsimonious, and useful for processing. We also sketch a parsing model that uses the hierarchical mixed-grain representation to make predictions on the structure of the input.</Paragraph>
+</Section>
+</Paper>
+

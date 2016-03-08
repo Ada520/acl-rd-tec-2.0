@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C86-1031">
+<Title>Parsing in Parallel</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> The paper is a description of a parallel model for natural language parsing, and a design for its implementation on the Hype,'eube multiproeessor. The pm'allel model is based on the Semantic Definite Clause Grammar formalism and integrates syntax and semantics through the commmfication of processes.</Paragraph>
+<Paragraph position="1"> The main proeessess, of which there are six, contain either purely syntactic or purely semantic information, giving the advantage of simple, transparent algorithms dedicated to only one aspect of parsing. Communication between processes is used to hnpose semantic eonst,'aints on the syntactic processes.</Paragraph>
+</Section>
+</Paper>
+

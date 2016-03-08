@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A00-1019">
+<Title>Unit Completion for a Computer-aided Translation System</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This work is in the context of TRANSTYPE, a system that observes its user as he or she types a translation and repeatedly suggests completions for the text already entered. The user may either accept, modify, or ignore these suggestions. We describe the design, implementation, and performance of a prototype which suggests completions of units of texts that are longer than one word.</Paragraph>
+</Section>
+</Paper>
+

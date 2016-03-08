@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P06-2111">
+<Title>Finding Synonyms Using Automatic Word Alignment and Measures of Distributional Similarity</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> There have been many proposals to extract semantically related words using measures of distributional similarity, but these typically are not able to distinguish between synonyms and other types of semantically related words such as antonyms, (co)hyponyms and hypernyms.</Paragraph>
+<Paragraph position="1"> We present a method based on automatic word alignment of parallel corpora consisting of documents translated into multiple languages and compare our method with a monolingual syntax-based method.</Paragraph>
+<Paragraph position="2"> The approach that uses aligned multilingual data to extract synonyms shows much higher precision and recall scores for the task of synonym extraction than the mono-lingual syntax-based approach.</Paragraph>
+</Section>
+</Paper>
+

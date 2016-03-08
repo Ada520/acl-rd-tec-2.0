@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E06-1034">
+<Title>From detecting errors to automatically correcting them</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Faced with the problem of annotation errors in part-of-speech (POS) annotated corpora, we develop a method for automatically correcting such errors. Building on top of a successful error detection method, wefirsttry correcting acorpus using two off-the-shelf POS taggers, based on the idea that they enforce consistency; with this, we find some improvement. After some discussion of the tagging process, we alter the tagging model to better account for problematic tagging distinctions.</Paragraph>
+<Paragraph position="1"> This modification results in significantly improved performance, reducing the error rate of the corpus.</Paragraph>
+</Section>
+</Paper>
+

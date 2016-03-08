@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H91-1019">
+<Title>A Textual processor to handle ATIS queries</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> This paper describes the initial development of a natural language text processor, as the first step in an INRS dialogue-by-voice system.</Paragraph>
+<Paragraph position="1"> The eventual system will accept natural, spontaneous speech from users and produce responses from the databases in the form of synthetic speech. This paper reports results in processing the textual version of ATIS (Air Travel Information System) queries. The current system (programmed in C) accepts as input the cleaned-up text (SNOR) version of the spoken queries, and produces the desired Official Airline Guide (OAG) information as output. It uses only the words in the input text, and not any punctuation marks, on the assumption that such marks are difficult to obtain directly from speech input. Based on the training text data, the system correctly interprets a large majority of the textual queries.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-1011">
+<Title>Unsupervised Learning of a Rule-based Spanish Part of Speech Tagger</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This I)at)cr d(~scrihcs a, SI);ulish l'arl.-ol: Speech (I'()S) l~a.gger which al,i)lies aad extends Ih'ill's a, lguril;hn~ for 'u,.supervised learuing of ruh',- based l, aggcrs (llrill, 1995). First, we discuss our general ;tttproach including extensions we rim(It 1;~) the algorithm in order t,o hamllc ml kllOWl~ w(H'(IH a,l~d pa.ra, ll~(d,crize \[ea.l'llillg; and ta.gging ot)l;ions. Ncx L we rCl)orl, and amdyzc our eXl)cri~mm,al rcsull;s usiug dill'crenl, l)ara~ilel:crs. Thcll, wc (h~ s('ril)e our &amp;quot;hyhri(l&amp;quot; a.t)l)roach which was ll(~C{~Hs;-tl'y ill Ol'(l(w 1,o oV(~l'(:(Hl~l(~ ;1 \['un(la mcni, al li~lit;al, ion in Ih'ill's origiual algoril, hnL Finally, wc cOral)at(&gt; our tagger wil;h Ilid(Icn Mark()v Model (IlMM)-based (,aggers.</Paragraph>
+<Paragraph position="1"> :l Introduction We have develol)ed a. Spanish l'arb-(,l:-HI)('(~ch (I)()S) 'l'a.g:g(~r which al)l)lies and extends Ih'ill's alg(,rilJ~u for unSUl)crvised l('a.rniug (llrill, l.q!),5) to cr(~a.l;e a. set of rules (;hal, r(~(luce the aml)iguil.y of I'()S tags on words. We have ch()scu an unsupervised Ica','ning algori/,hn~ l)(~ca.u,s(~ il, does not require a. larg;(' I)()S-l;agged t,raining (-orl)us. Since there was n() I)()S-t.agged Spanish c(,rt)us availabh' 1;() us and since creating a large hand-l,;tgp;(xl corltus is both cosl, ly aud I)r()ne l,o inconsislamcy, Gc decision was also a l)ra, ci, ical one. Wc have decided 1;o develop a rule-based I\[,;xggcr l}(!causc such a. tagger lea.rus a sel, of declarative rules m~d also because we wautt'd 1,o c(tml)are it, with Ili(Id(:n M arkov M odd (I 1M M)-/)ascd 1;aggers.</Paragraph>
+<Paragraph position="2"> We extcude&lt;l Ih'ill's algol'itlnu in scwwal ways.</Paragraph>
+<Paragraph position="3"> l&amp;quot;irsl,, we cxtcnd(;d it, (,o Imn(Ih~ unknowu words in the training and test texl,s. Scc(m(l, w(., i)aram(~ terized learniug and t;ag,ghw; ol)tions. Finally, wc cxp(;rinmnl, ed wil;h a &amp;quot;hyhrid&amp;quot; solul, io,, where we tls(~d a. v(;ry sinful\[ Iltlllll)cr o\[' hm~(I-(lis:nnhigual,(~d texi;s during training to overcom(~ a tiu~(lan~(ml, a.l limitation in tit(: learning algorithm.</Paragraph>
+</Section>
+</Paper>
+

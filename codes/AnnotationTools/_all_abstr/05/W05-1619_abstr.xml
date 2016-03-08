@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W05-1619">
+<Title>The Types and Distributions of Errors in a Wide Coverage Surface Realizer Evaluation</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Recent empirical experiments on surface realizers have shown that grammars for generation can be effectively evaluated using large corpora. Evaluation metrics are usually reported as single averages across all possible types of errors and syntactic forms. But the causes of these errors are diverse, and the extent to which the accuracy of generation over individual syntactic phenomena is unknown.</Paragraph>
+<Paragraph position="1"> This article explores the types of errors, both computational and linguistic, inherent in the evaluation of a surface realizer when using large corpora. We analyze data from an earlier wide coverage experiment on the FUF/SURGE surface realizer with the Penn TreeBank in order to empirically classify the sources of errors and describe their frequency and distribution. This both provides a baseline for future evaluations and allows designers of NLG applications needing off-the-shelf surface realizers to choose on a quantitative basis.</Paragraph>
+</Section>
+</Paper>
+

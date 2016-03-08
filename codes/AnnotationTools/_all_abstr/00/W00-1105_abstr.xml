@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-1105">
+<Title>Discriminative Power and Retrieval Effectiveness of Phrasal Indexing Terms</Title>
+<Section position="1" start_page="0" end_page="672" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In spite of long controversy, effectiveness of phrasal indexing is not yet clear.</Paragraph>
+<Paragraph position="1"> Recently, correlation between query length and effect of phrasal indexing is reported.</Paragraph>
+<Paragraph position="2"> In this paper, terms extracted from the topic set of the NACSIS test collection 1 are analyzed utilizing statistic tools in order to show distribution characteristics of single word/phrasal terms with regard to relevant/nonrelevant documents. Phrasal terms are found to be very good discriminators in general but not all of them are effective as supplemental phrasal terms. A distinction of informative / neutral / destructive phrasal terms is introduced. Retrieval effectiveness is examined utilizing query weight ratio of these three categories of phrasal terms.</Paragraph>
+<Paragraph position="3"> Introduction Longer queries are not necessarily better than shorter queries in view of retrieval effectiveness, since longer queries may contain so-called noisy terms that hurt the performance.</Paragraph>
+<Paragraph position="4"> Given relevance judgements, we can say which terms are noisy and which are not with regard to a certain topic description and a test collection. We can confwm that a term is good to discriminate subject concepts if relevant documents contain such terms and non-relevant documents do not contain them and that a term is noisy if the situation is the opposite.</Paragraph>
+<Paragraph position="5"> The problem here is that not only noisy terms but also good terms can harm the performance in some cases where term weighting is not adequate or terms are redundant.</Paragraph>
+<Paragraph position="6"> One example of such cases is complex terms like supplemental phrases or overlap bigrams which violate term independence assumption.</Paragraph>
+<Paragraph position="7"> Phrasal terms are utilized either as replacement of single words or as supplemental units for single words, but according to our experience, phrasal terms as replacement of single words do not perform well. Supplemental phrasal terms works better in spite of the violation of term independence assumption.</Paragraph>
+<Paragraph position="8"> Recent studies uncovered the correlation between phrase effectiveness and query length(Fujita, 2000).</Paragraph>
+<Paragraph position="9"> In this paper, we will see the problem of effectiveness of phrasal terms from two different viewpoints utilizing a large test collection for Japanese text retrieval and statistical tools.</Paragraph>
+<Paragraph position="10"> NACSIS test collection I(NTCIR, 1999), which consists of a collection of abstracts of scientific papers ( 330,000 records, 590MB in text ), two sets of topic description ( 30 topics for training and 53 topics for evaluation ) and relevance judgement, provides us of a good opportunity for this purpose.</Paragraph>
+<Paragraph position="11"> Topic description of NACSIS test collection 1 contains four different fields, just like early versions of TREC topics, as follows: &lt;title&gt; fields consist of one ( typically simple ) noun phrase.</Paragraph>
+<Paragraph position="12"> &lt;description&gt; fields consist of one ( typically simple ) sentence.</Paragraph>
+<Paragraph position="13"> &lt;narrative&gt; fields consist of 3 to 12 sentences and contain detailed explanation of the topic, term definition, background knowledge, purpose of the search, preference in text types, criteria of relevance judgement and so on.</Paragraph>
+<Paragraph position="14"> &lt;concepts&gt; fields consist of lists of keywords corresponding to principal concepts in the information need.</Paragraph>
+<Paragraph position="15"> Combining these four fields, different length of query sets for the same topics are prepared.</Paragraph>
+<Paragraph position="16">  For the baseline run experiments, we utilized the engine of Coneeptbase Search 1.2, a commercial based search engine adopting vector space model approach.</Paragraph>
+<Paragraph position="17"> 1.1. Linguistic Phrases as Indexing Units for Japanese Text Retrieval For automatic indexing of Japanese written text, once word boundary is detected by morphological analysis processing, word based approach normally adopted in English IR can be applied. Although computationally more expensive than in English, the accuracy of Japanese morphological analysis is quite high and sufficient for IR purpose.</Paragraph>
+<Paragraph position="18"> Our approach consists of utilizing noun phrases extracted by linguistic processing as supplementary indexing terms in addition to single word terms contained in phrases. Phrases and constituent single word terms are U, eated in the same way, both as independent terms, where the frequency of each term is counted independently based on its occurrences.</Paragraph>
+<Paragraph position="19"> Linguistic phrases are normally contiguous kanji or katakana word sequences and internal phrase structures are ignored.</Paragraph>
+<Paragraph position="20"> 1.2. Query Length and Effectiveness of</Paragraph>
+<Section position="1" start_page="47" end_page="672" type="sub_section">
+<SectionTitle>
+Phrasal Indexing
+</SectionTitle>
+<Paragraph position="0"> Among evaluation experiments of the NTCIR1 workshop, correlation between query length and the effect of phrasal indexing is reported in (Fujita, 1999).</Paragraph>
+<Paragraph position="1"> NTCIR topic description consists of four fields namely &lt;title&gt;, &lt;description&gt;, &lt;narrative&gt; and &lt;concepts&gt; as shown in the previous chapter.</Paragraph>
+<Paragraph position="2"> The combination of these four fields makes 15 different versions of queries for each topic.</Paragraph>
+<Paragraph position="3"> These 15 different versions of queries for 53 topics are examined with phrasal terms and with only single word terms.</Paragraph>
+<Paragraph position="4"> Table 1 shows the performance with 15 versions of queries, where we compared two types of indexing language in question i.e. single words vs. single words + supplemental phrases.</Paragraph>
+<Paragraph position="5"> Performance is indicated as non-interpolated average precision macro averaged for 53 topics. Since this experiment is designed to clarify the effect of different length of queries, the following settings are chosen:  1) no pseudo feedback procedure is processed, 2) no down-weighting coefficient is applied for phrasal terms, 3) no field specific importance coefficient is  applied.</Paragraph>
+<Paragraph position="6"> Consequently, absolute performance is much worse than our best performing runs.</Paragraph>
+<Paragraph position="7"> Out .of 15 versions of query sets, 10 times phrasal indexing performs better than single word only indexing, and 5 times vice versa. This is exactly the situation described in literature that the effect of phrasal indexing is inconsistent and uncertain.</Paragraph>
+<Paragraph position="8"> We found out that there is clear correlation between the difference of average precision and number of terms contained in the query.</Paragraph>
+<Paragraph position="9"> Pearson's correlation coefficient between Avg. pree2 - Avg.precl and average number of terrns accounts for 0.57, while 0.52 between Avg.</Paragraph>
+<Paragraph position="10"> prec2 - Avg.precl and average number of phrases. Eliminating 8 query versions containing &lt;concepts&gt; field, correlation coefficients become 0.96 and 0.95 respectively.</Paragraph>
+<Paragraph position="11"> &lt;concepts&gt; fields containing keywords that are essentially noun phrases, tend to favor phrasal indexing otherwise when using only one of the fields, single word runs perform better.</Paragraph>
+<Paragraph position="12"> The situation is different when more than two fields are combined. Combining &lt;title&gt;, &lt;description&gt; and &lt;narrative&gt; fields, the supplemental phrasal run performs better than the single word run.</Paragraph>
+<Paragraph position="13"> We can see that the length of query, which is number of features in the scoring function, is important factor as well as quality of phrasal terms extracted from topic description, in order to evaluate phrasal indexing.</Paragraph>
+<Paragraph position="14"> Two aspects of characteristics of phrasal terms should be considered:  1) Are the phrasal terms good discriminator of subject domain? 2) Do the supplemental phrasal terms cause  some undesirable influence to original word based queries? In the chapter 2, phrasal terms extracted from the topic set of the NACSIS test collection 1 are examined from the viewpoints of their discriminative power. In the chapter 3, we will see another aspect of retrieval effectiveness.</Paragraph>
+<Paragraph position="16"> Left above: short query single words, Right above: short query phrases Left below: long query single words, Right below: long query phrases</Paragraph>
+</Section>
+</Section>
+</Paper>
+

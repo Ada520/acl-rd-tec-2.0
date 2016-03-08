@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A00-1033">
+<Title>A Divide-and-Conquer Strategy for Shallow Parsing of German Free Texts</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a divide-and-conquer strategy based on finite state technology for shallow parsing of real-world German texts. In a first phase only the topological structure of a sentence (i.e., verb groups, subclauses) are determined. In a second phase the phrasal grammars are applied to the contents of the different fields of the main and sub-clauses. Shallow parsing is supported by suitably configured preprocessing, including: morphological and on-line compound analysis, efficient POS-filtering, and named entity recognition. The whole approach proved to be very useful for processing of free word order languages like German. Especially for the divide-and-conquer parsing strategy we obtained an f-measure of 87.14% on unseen data.</Paragraph>
+</Section>
+</Paper>
+

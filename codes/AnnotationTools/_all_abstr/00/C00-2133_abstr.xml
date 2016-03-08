@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-2133">
+<Title>Prosody and the Resolution of Pronominal Anaphora</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we investigate the acoustic prosodic marking o\[&amp;quot; demonstrative and personal pronouns in task-oriented dialog. Although it has been hypothesized that acouslie marking affects pronoun resolution, we find flint {l~e prosodic information extracted from tile data is not sufficienl to predict antcceden! lype reliably. Inter-speaker variation accottnts for mt, ch of lhe prosodic variation that we find in our data. We conclude that prosodic cues shot, ld be handled with care in robust, speakerindependenl dialog systems.</Paragraph>
+</Section>
+</Paper>
+

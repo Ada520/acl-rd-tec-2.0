@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P06-1118">
+<Title>Francis.Brunet-Manquat@imag.fr</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents the particular use of &amp;quot;Jibiki&amp;quot; (Papillon's web server development platform) for the LexALP1 project.</Paragraph>
+<Paragraph position="1"> LexALP's goal is to harmonise the terminology on spatial planning and sustainable development used within the Alpine Convention2, so that the member states are able to cooperate and communicate efficiently in the four official languages (French, German, Italian and Slovene). To this purpose, LexALP uses the Jibiki platform to build a term bank for the contrastive analysis of the specialised terminology used in six different national legal systems and four different languages. In this paper we present how a generic platform like Jibiki can cope with a new kind of dictionary.</Paragraph>
+</Section>
+</Paper>
+

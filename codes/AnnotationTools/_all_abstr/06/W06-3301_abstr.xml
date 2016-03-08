@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-3301">
+<Title>The Semantics of a Definiendum Constrains both the Lexical Semantics and the Lexicosyntactic Patterns in the Definiens</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Most current definitional question answering systems apply one-size-fits-all lexicosyntactic patterns to identify definitions. By analyzing a large set of online definitions, this study shows that the semantic types of definienda constrain both lexical semantics and lexicosyntactic patterns of the definientia. For example, &amp;quot;heart&amp;quot; has the semantic type [Body Part, Organ, or Organ Component] and its definition (e.g., &amp;quot;heart locates between the lungs&amp;quot;) incorporates semantic-typedependent lexicosyntactic patterns (e.g., &amp;quot;TERM locates ...&amp;quot;) and terms (e.g., &amp;quot;lung&amp;quot; has the same semantic type [Body Part, Organ, or Organ Component]). In contrast, &amp;quot;AIDS&amp;quot; has a different semantic type [Disease or Syndrome]; its definition (e.g., &amp;quot;An infectious disease caused by human immunodeficiency virus&amp;quot;) consists of different lexicosyntactic patterns (e.g., &amp;quot;...causes by...&amp;quot;) and terms (e.g., &amp;quot;infectious disease&amp;quot; has the semantic type [Disease or Syndrome]). The semantic types are defined in the widely used biomedical knowledge resource, the Unified Medical</Paragraph>
+</Section>
+</Paper>
+

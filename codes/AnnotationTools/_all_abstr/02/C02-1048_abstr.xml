@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C02-1048">
+<Title>Answering it with charts -- Dialogue in natural language and charts --</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A methodology is proposed for taking queries and requests expressed in natural language as input and answering them in charts through organizing that interaction into felicitous dialogue. Charts and graphics, as well as languages, are important modes of communication. This is especially true of those which are used frequently when people analyze huge amount of data interactively, in order to find out its characteristics or to resolve questions about it. This paper raises the problem that in such situations the correctness of the charts depends on the context, and proposes a framework to resolve it. The core of the framework is a logical form that includes the specifications of the user's perspective and the proper treatment of the logical form for handling utterance fragments. The framework has been implemented and confirmed to be appropriate.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P95-1020">
+<Title>A Uniform Treatment of Pragmatic Inferences in Simple and Complex Utterances and Sequences of Utterances</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Drawing appropriate defeasible inferences has been proven to be one of the most pervasive puzzles of natural language processing and a recurrent problem in pragmatics. This paper provides a theoretical framework, called stratified logic, that can accommodate defeasible pragmatic inferences. The framework yields an algorithm that computes the conversational, conventional, scalar, clausal, and normal state implicatures; and the presuppositions that are associated with utterances. The algorithm applies equally to simple and complex utterances and sequences of utterances. null</Paragraph>
+</Section>
+</Paper>
+

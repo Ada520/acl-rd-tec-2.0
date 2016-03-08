@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-1017">
+<Title>Probabilistic Parsing and Psychological Plausibility</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Given the recent evidence for prot)abilistic mechanisms in models of hmnan aml)iguity resolution, this paper investigates the plausibility of exl)loiting current wide-coverage, 1)robal)ilistic 1)arsing techniques to model hmnan linguistic t)ert'orman(:e. In l)arl.i(:ulm ', we investigate the, t)crforlnance of stan(tar(l stoclmstic parsers when they arc revis(;(l to el)crate incrementally, and with reduced nlenlory resources. We t)resent techniques for ranking and filtering mlMyses, together with exl)erimental results. Our results confirm that stochastic parsers which a(lhere to these 1)sy('hologically lnotivated constraints achieve goo(l l)erf()rman(:e. Memory cast t)e reduce(t (lown to 1% ((:Oml)are(l to exhausitve search) without reducing recall an(l 1)rox:ision. A(lditionally, thes(; models exhil)it substamtially faster l)ertbrmance.</Paragraph>
+<Paragraph position="1"> FinMly, we ~rgue that this generM result is likely to hold for more sophisticated, nnd i)sycholinguistically plausil)le, probal)ilistic parsing models. null</Paragraph>
+</Section>
+</Paper>
+

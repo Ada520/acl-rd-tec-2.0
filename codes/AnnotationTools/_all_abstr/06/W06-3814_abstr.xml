@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-3814">
+<Title>Evaluating and optimizing the parameters of an unsupervised graph-based WSD algorithm</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> V'eronis (2004) has recently proposed an innovative unsupervised algorithm for word sense disambiguation based on small-world graphs called HyperLex. This paper explores two sides of the algorithm.</Paragraph>
+<Paragraph position="1"> First, we extend V'eronis' work by optimizing the free parameters (on a set of words which is different to the target set).</Paragraph>
+<Paragraph position="2"> Second, given that the empirical comparison among unsupervised systems (and with respect to supervised systems) is seldom made, we used hand-tagged corpora to map the induced senses to a standard lexicon (WordNet) and a publicly available gold standard (Senseval 3 English Lexical Sample). Our results for nouns show that thanks to the optimization of parameters and the mapping method, HyperLex obtains results close to supervised systems using the same kind of bag-of-words features. Given the information loss inherent in any mapping step and the fact that the parameters were tuned for another set of words, these are very interesting results.</Paragraph>
+</Section>
+</Paper>
+

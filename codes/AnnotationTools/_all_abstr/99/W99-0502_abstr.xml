@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W99-0502">
+<Title>A Case Study on Inter-Annotator Agreement for Word Sense Disambiguation Hwee Tou Ng</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> There is a general concern within the field of word sense dusamb~guatmn about the rater-annotator agreement between human annotators. In thus paper, we examine th~s msue by comparing the agreement rate on a large corpus of more than 30,000 sense-tagged instances Thin corpus us the mtersectmn of the WORDNET Semcor corpus and the DSO corpus, which has been independently tagged by two separate groups of human annotators The contribution of this paper us two-fold First, ~t presents a greedy search algorithm that can automatically derive coarser sense classes based on the sense tags assigned by two human annotators The resulting derived coarse sense classes achmve a h~gher agreement rate but we stfl!mamtam as many of the original sense classes as posmble Second, the coarse sense grouping derived by the algorithm, upon verification by human, can potentially serve as a better sense inventory for evaluating automated word sense d~samb~guatmn algorithms Moreover, we examined the derived coarse sense classes and found some interesting groupings of word senses that correspond to human mtmtlve judgment of sense granularity</Paragraph>
+</Section>
+</Paper>
+

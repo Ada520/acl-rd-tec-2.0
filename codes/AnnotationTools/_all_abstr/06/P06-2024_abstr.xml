@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P06-2024">
+<Title>Sydney, July 2006. c(c)2006 Association for Computational Linguistics Towards A Modular Data Model For Multi-Layer Annotated Corpora</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we discuss the current methods in the representation of corpora annotatedatmultiplelevelsoflinguisticorgani- null zation (so-called multi-level or multi-layer corpora). Taking five approaches which are representative of the current practice in this area, we discuss the commonalities and differences between them focusing on the underlying data models. The goal of the paper is to identify the common concerns in multi-layer corpus representation and processing so as to lay a foundation for a unifying, modular data model.</Paragraph>
+</Section>
+</Paper>
+

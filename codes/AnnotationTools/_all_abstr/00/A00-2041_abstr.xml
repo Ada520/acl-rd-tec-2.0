@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A00-2041">
+<Title>A Framework for Robust Semantic Interpretation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes AUTOSEM, a robust semantic interpretation framework that can operate both at parse time and repair time. The evaluation demonstrates that AUTOSEM achieves a high level of robustness efficiently and without requiring any hand coded knowledge dedicated to repair.</Paragraph>
+</Section>
+</Paper>
+

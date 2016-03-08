@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-1717">
+<Title>Learning Verb-Noun Relations to Improve Parsing</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The verb-noun sequence in Chinese often creates ambiguities in parsing. These ambiguities can usually be resolved if we know in advance whether the verb and the noun tend to be in the verb-object relation or the modifier-head relation. In this paper, we describe a learning procedure whereby such knowledge can be automatically acquired.</Paragraph>
+<Paragraph position="1"> Using an existing (imperfect) parser with a chart filter and a tree filter, a large corpus, and the log-likelihood-ratio (LLR) algorithm, we were able to acquire verb-noun pairs which typically occur either in verb-object relations or modifier-head relations. The learned pairs are then used in the parsing process for disambiguation. Evaluation shows that the accuracy of the original parser improves significantly with the use of the automatically acquired knowledge.</Paragraph>
+</Section>
+</Paper>
+

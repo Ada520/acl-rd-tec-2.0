@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C92-2122">
+<Title>A Case Study of Natural Language Customisation: The Practical Effects of World Knowledge</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper proposes a methodology for the eustomisation of natural language interfaces to information retrieval applications. We report a field study in which we tested this methodology by customising a commercially available natural language system to a large database of sales and marketing information. We note that it was difficult to tailor the common sense reasoning capabilities of the particular system we used to our application. This study validates aspects of the suggested methodology as well as providing insights that should inform the design of natural lauguage systems for this class of applications.</Paragraph>
+</Section>
+</Paper>
+

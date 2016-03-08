@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-0405">
+<Title></Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This article presents a novel syntactic parser architecture, in which a linguistic formalism can be enriched with all sorts of constraints, included extra-linguistic ones, thanks to the seamless coupling of the formalism with a programming language. null</Paragraph>
+</Section>
+</Paper>
+

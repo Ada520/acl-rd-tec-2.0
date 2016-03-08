@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J92-4002">
+<Title>Ambiguous Noun Phrases in Logical Form</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> A goal of natural language research is to provide a computer model capable of generating an internal representation for the meaning of each sentence processed. The building of this representation can be approached in two ways.</Paragraph>
+<Paragraph position="1"> The first approach requires the generation of an unambiguous internal representation for each sentence before attempting to represent subsequent sentences. There are, however, several problems with this approach. First, the enumeration and testing of each possible reading of an ambiguous sentence to determine which is correct can require significant computational resources. Second, an application may not require the precise meaning for a sentence; hence, determining a single meaning would be a waste of resources. Third, many times an ambiguous sentence cannot be disambiguated until information contained in subsequent sentences has been processed.</Paragraph>
+<Paragraph position="2"> Another approach, the one adopted in this paper, is to use an intermediate representation called logical form (LF) (Schubert and Pelletier 1984; Allen 1987; Harper 1988) to avoid immediately committing to a single meaning of an ambiguous sentence.</Paragraph>
+<Paragraph position="3"> LF partially specifies the meaning of a sentence based on syntactic and sentence-level information, without considering the effects of pragmatics and context. This partial specification of meaning allows us to process additional sentences before further limiting the meaning of an ambiguous sentence. Later, as relevant information becomes available (from a context processing module), the intermediate representation of the ambiguous sentence can be incrementally updated. This process can continue until all of the ambiguities are resolved and an unambiguous internal representation of the sentence is generated (although this is not a requirement of the approach). The process of mapping a sentence to an unambiguous internal representation is shown in Figure 1.</Paragraph>
+<Paragraph position="4"> Because LF is a component of a computer model for language comprehension, it must be designed with two goals in mind. First, it should accurately model the School of Electrical Engineering, Purdue University, West Lafayette, IN 47907.</Paragraph>
+<Paragraph position="5">  An architecture for language processing.</Paragraph>
+<Paragraph position="6"> linguistic behavior of language. Second, it should be computationally tractable. In fact, we have defined three constraints for using LF in a computational framework (Harper 1988, 1990).</Paragraph>
+<Paragraph position="7">  1. Compactness Constraint: The compactness constraint, which captures  the spirit of LF as presented by Allen (1987), is important in a computer model of language comprehension because of the need to postpone decisions about ambiguity without large storage requirements. LF should compactly represent the underdetermined meaning of a sentence--underdetermined in that ambiguities and anaphora are not resolved. Ideally, LF should only require polynomial (in the number of words in a sentence) space.</Paragraph>
+<Paragraph position="8"> 2, Modularity Constraint: The modularity constraint requires LF to be initially computable from syntax and local (sentence-level) semantics only. In particular, it should not be initially dependent on contextual information, which requires significantly more computational resources to extract.</Paragraph>
+</Section>
+</Paper>
+

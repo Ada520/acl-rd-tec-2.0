@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-1068">
+<Title>Flexible Mixed-Initiative Dialogue Management using Concept-Level Confidence Measures of Speech Recognizer Output</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We i)rcsent a method to r(:aliz(: th:xil)le mix(;(linitiative dialogue, in which the syst(:m can mak(, etti:ctive COlflirmation mad guidmn(:(: using (-oncel)t-leve,1 confidcn('e mcmsur(,s (CMs) derived from st)eech recognizer output in ord(:r to handl(: sl)eech recognition errors. W(: d(:tine two con('et)t-level CMs, which are oil COllt(~,Ilt words and on semantic-attrilmtes, using 10-best outtmts of the Sl)e(:ch r(:cognizt:r and l)arsing with t)hrmse-level grammars. Content-word CM is useflll for s(:lecting 1)\]ausible int(:rl)retati(ms. Less contid(:nt illt(:rl)r(:tmtions arc given to confirmation 1)roc(:ss. The strat(:gy iml)roved the interpr(:tmtion accuracy l)y 11.5(/0. Moreover, th(: semanti(:-mttrilmt(: CM ix us(:d to (:stimmtc user's intention and generates syst(mi-initiative guidances (:v(,,n wh(:n suc(-(:sstSfl int(:rl)r(:tmtiol~ is not o|)tain(:(1.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1012">
+<Title>Restrictions on Monadic Context-Free Tree Grammars</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, subclasses of monadic context-free tree grammars (CFTGs) are compared.</Paragraph>
+<Paragraph position="1"> Since linear, nondeleting, monadic CFTGs generate the same class of string languages as tree adjoining grammars (TAGs), it is examined whether the restrictions of linearity and nondeletion on monadic CFTGs are necessary to generate the same class of languages. Epsilon-freeness on linear, nondeleting, monadic CFTG is also examined.</Paragraph>
+</Section>
+</Paper>
+

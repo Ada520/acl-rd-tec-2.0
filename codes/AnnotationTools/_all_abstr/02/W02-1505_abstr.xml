@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-1505">
+<Title></Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+References
+</SectionTitle>
+<Paragraph position="0"> 1 S. At-Mokhtar. L'analyse prsyntaxique en une seul tape. PhD thesis, Universit Blaise Pascal, 1998.</Paragraph>
+<Paragraph position="1"> 2 S. At-Mokhtar, J-P Chanod, and C. Roux. A multi-input dual-entry dependency parser. In Proceedings of IWPT 2001, Beijing, 2001. 3 G. Bs. La phrase verbale noyau en franais. Recherches sur le franais parl, 15, 1999.</Paragraph>
+<Paragraph position="2"> 4 G Bs and P. Blache. Proprits et analyse d'un langage. In Actes de TALN 99, July Cargse, 1999.</Paragraph>
+<Paragraph position="3"> 5 G Bs and C. Hagge. Properties in 5p. Technical report, Groupe de Recherche dans les Industries de la Langue (GRIL), URL:lgril.univ-bpclermont.fr, 2001. 6 G Bs, C. Hagge, and L. Coheur. Des proprits linguistiques l'analyse d'une langue. In Proceedings of the VEXTAL Conference, November Venice, 1999. 7 Philippe Blache, Constraints, Linguistic Theories and Natural Language Processing, Proceedings of the Second International Conference on Natural Language Processing, p.221-232, June 02-04, 2000 8 Pollard C. and I. Sag. Head-Driven Phrase Structure Grammar. CSLI Lecture Notes. Center for the Study of Language and Information, 1994.</Paragraph>
+<Paragraph position="4"> 9 C. Hagge. Analyse syntaxique automatique du portugais. PhD thesis, Universit Blaise Pascal, 2000.</Paragraph>
+<Paragraph position="5"> 10 C. Hagge and G. Bs. Da observao de propriedades lingusticas sua formalizao numa gramtica do processamento da lngua. In Actas do III Encontro para o Processamento Computacional da Lngua Portuguesa (PROPOR'98), Porto Alegre, 1998. 11 Carl Pollard , Ivan A. Sag, Information-based syntax and semantics: Vol. 1: fundamentals, Center for the Study of Language and Information, Stanford, CA, 1988 12 I. Sag and T. Wasow. Syntactic Theory: A formal Introduction. Center for the Study of Language and Information, Stanford University, 1999.</Paragraph>
+<Paragraph position="6"> 13 L. Tesnire. Elments de syntaxe structurale. Klincksiek, 1969.</Paragraph>
+<Paragraph position="7"> 14 Pasi Tapanainen , Timo Jrvinen, A non-projective dependency parser, Proceedings of the fifth conference on Applied natural language processing, p.64-71, March 31-April 03, 1997, Washington, DC 15 T. Torris and P. Miller. Formalismes syntaxiques pour le traitement automatique du langage naturel. Herms, 1990.</Paragraph>
+</Section>
+</Paper>
+

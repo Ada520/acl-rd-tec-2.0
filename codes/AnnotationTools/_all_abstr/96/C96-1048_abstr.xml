@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-1048">
+<Title>Dealing with Cross-Sentential Anaphora Resolution in ALEP</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The experiments described here have been done in connection with the LS-GRAM project, which is concerned with the development of large scale grammars and thus foreseen the coverage of &amp;quot;real life texts&amp;quot;. But in order to deal with such texts, it is also necessary to process linguistic units which are larger than sentences. The resolution of cross-sentential anaphora is one of the problems we have to deal with, when we switch towards the analysis of such larger linguistic units.</Paragraph>
+<Paragraph position="1"> In order to propose an analysis of the cross-sentential anaphora, one has to be able to refer back to an antecedent, which is to be found in a preceding sentence. This will be done on the basis of an information-passing framework. Using also the simple unification technique a resolution of the pronoun can then be tried out: parts of the content information of the pronoun are going to be compared (unified) with specific parts of the content information of the (possible) antecedent.</Paragraph>
+</Section>
+</Paper>
+

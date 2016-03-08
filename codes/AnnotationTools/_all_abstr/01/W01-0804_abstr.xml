@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W01-0804">
+<Title>then Return Description</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We examine the principle of co-extensivity which underlies current algorithms for the generation of referring expressions, and investigate to what extent the principle allows these algorithms to be generalized. The discussion focusses on the generation of complex Boolean descriptions and sentence aggregation.</Paragraph>
+</Section>
+</Paper>
+

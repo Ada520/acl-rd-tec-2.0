@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N03-2007">
+<Title>Active Learning for Classifying Phone Sequences from Unsupervised Phonotactic Models</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes an application of active learning methods to the classification of phone strings recognized using unsupervised phonotactic models. The only training data required for classification using these recognition methods is assigning class labels to the audio files.</Paragraph>
+<Paragraph position="1"> The work described here demonstrates that substantial savings in this effort can be obtained by actively selecting examples to be labeled using confidence scores from the BoosTexter classifier. The saving in class labeling effort is evaluated on two different spoken language system domains in terms both of the number of utterances to be labeled and the length of the labeled utterances in phones. We show that savings in labeling effort of around 30% can be obtained using active selection of examples.</Paragraph>
+</Section>
+</Paper>
+

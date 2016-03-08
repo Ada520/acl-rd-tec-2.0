@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A97-1011">
+<Title>A non-projective dependency parser</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe a practical parser for unrestricted dependencies. The parser creates links between words and names the links according to their syntactic functions. We first describe the older Constraint Grammar parser where many of the ideas come from. Then we proceed to describe the central ideas of our new parser. Finally, the parser is evaluated.</Paragraph>
+</Section>
+</Paper>
+

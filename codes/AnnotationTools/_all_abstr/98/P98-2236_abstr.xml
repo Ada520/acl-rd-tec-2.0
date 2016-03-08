@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-2236">
+<Title>Automatic Construction of Frame Representations for Spontaneous Speech in Unrestricted Domains</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a system which automatically generates shallow semantic frame structures for conversational speech in unrestricted domains.</Paragraph>
+<Paragraph position="1"> We argue that such shallow semantic representations can indeed be generated with a minimum amount of linguistic knowledge engineering and without having to explicitly construct a semantic knowledge base.</Paragraph>
+<Paragraph position="2"> The system is designed to be robust to deal with the problems of speech dysfluencies, ungrammaticalities, and imperfect speech recognition.</Paragraph>
+<Paragraph position="3"> Initial results on speech transcripts are promising in that correct mappings could be identified in 21% of the clauses of a test set (resp. 44% of this test set where ungrammatical or verb-less clauses were removed).</Paragraph>
+</Section>
+</Paper>
+

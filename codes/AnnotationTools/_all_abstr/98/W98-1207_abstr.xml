@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-1207">
+<Title>B B B Automation of Treebank Annotation</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> The emergence of new statistical NLP methods increases the demand for corpora annotated with syntactic structures. The construction of such a corpus (a treebank) is a time-consuming task that can hardly be carried out unless some annotation work is automated. Purely automatic annotation, however, is not reliable enough to be employed without some form of human supervision and hand-correction.</Paragraph>
+<Paragraph position="1"> This interactive annotation strategy requires tools for error detection and consistency checking.</Paragraph>
+<Paragraph position="2"> The present paper reviews our experience with the development of automatic annotation tools which are currently used for building a corpus of German newspaper text.</Paragraph>
+<Paragraph position="3"> The next section gives an overview of the annotation format. Section 3 describes three applications of statistical NLP methods to treebank annotation.</Paragraph>
+<Paragraph position="4"> Finally, section 4 discusses mechanisms for comparing structures assigned by different annotators.</Paragraph>
+</Section>
+</Paper>
+

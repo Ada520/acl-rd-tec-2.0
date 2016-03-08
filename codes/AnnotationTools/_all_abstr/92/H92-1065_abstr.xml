@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H92-1065">
+<Title>Session 10: Large Vocabulary CSR</Title>
+<Section position="1" start_page="0" end_page="327" type="abstr">
+<SectionTitle>
+OVERVIEW
+</SectionTitle>
+<Paragraph position="0"> This session comprised four papers on various topics in speech recognition, followed by a general discussion. The first two papers covered computational search techniques, while the last two papers addressed phonetic modeling issues.</Paragraph>
+<Paragraph position="1"> The first paper, &amp;quot;Rapid Match Training for Large Vocabularies&amp;quot;, was presented by Larry Gillick of Dragon Systems. This paper described an improved algorithm for building rapid match models for computational efficiency in continuous speech recognition. The technique, designed to accommodate variation in model parameters and phone duration, was demonstrated to provide significant improvement in the miss rate for the correct word. The miss rate remains relatively high however, about 5 percent for a list length of 250 words and a vocabulary size of 5000 words.</Paragraph>
+<Paragraph position="2"> During the discussion on this paper, a question was raised regarding the use of a language model in the rapid match.</Paragraph>
+<Paragraph position="3"> The answer was that, yes, a unigram word probability was used.</Paragraph>
+<Paragraph position="4"> The second paper, &amp;quot;An A* Algorithm for Very Large Vocabulary Continuous Speech Recognition&amp;quot;, was presented by P. Kenny of INRS. This paper described a new A* stack search algorithm that is only about ten times more computationally expensive than isolated word recognition.</Paragraph>
+<Paragraph position="5"> Using a 60,000 word vocabulary, the CPU time required to run a perplexity 700 task was 120 times real time on an HP 720 workstation.</Paragraph>
+<Paragraph position="6"> During the discussion on this paper, a question was raised regarding the manner in which the search path is extended. The answer explained that the phone endpoints were known and were independent of the search path.</Paragraph>
+<Paragraph position="7"> The third paper, &amp;quot;Modeling Spontaneous Speech Effects in Large Vocabulary Speech Recognition Applications&amp;quot;, was presented by John Butzberger of SRI. This paper described an analysis of speech recognition errors on spontaneous speech and concluded that the increased error rate on spontaneous speech is attributable to disfluencies and that fluent spontaneous speech exhibits the same recognition performance as read speech. It was also concluded that the use of spontaneous speech in training the recognition system is important for best performance.</Paragraph>
+<Paragraph position="8"> During the discussion on this paper, a question was raised regarding how 70 percent of all errors could be labeled as disfluencies. The answer was that the notion of disfluency also comprehended natural phenomena such as vowel elongation and spontaneous speech grammatical constructs (low bigram probabilities).</Paragraph>
+<Paragraph position="9">  The last paper, &amp;quot;Speaker-Independent Phone Recognition Using BREF&amp;quot;, was presented by Jean-Luc Gauvain of LIMSI. This paper described a series of experiments on speaker-independent phone recognition using the BREF corpus of read speech as prompted using the French newspaper Le Monde. Phone-level performance of 31 percent error was achieved, which is comparable with results achieved on the English TIMIT corpus.</Paragraph>
+<Paragraph position="10"> During the discussion on this paper, a question was raised regarding the use of a grammar on this task. The answer was that a grammar was tried but that the error rate was very high. (The perplexity of the grammar was about 500.)</Paragraph>
+</Section>
+</Paper>
+

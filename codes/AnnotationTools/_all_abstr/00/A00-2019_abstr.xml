@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A00-2019">
+<Title>An Unsupervised Method for Detecting Grammatical Errors</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present an unsupervised method for detecting grammatical errors by inferring negative evidence from edited textual corpora. The system was developed and tested using essay-length responses to prompts on the Test of English as a Foreign Language (TOEFL). The errorrecognition system, ALEK, performs with about 80% precision and 20% recall.</Paragraph>
+<Paragraph position="1"> Introduction A good indicator of whether a person knows the meaning of a word is the ability to use it appropriately in a sentence (Miller and Gildea, 1987). Much information about usage can be obtained from quite a limited context: Choueka and Lusignan (1985) found that people can typically recognize the intended sense of a polysemous word by looking at a narrow window of one or two words around it.</Paragraph>
+<Paragraph position="2"> Statistically-based computer programs have been able to do the same with a high level of accuracy (Kilgarriff and Palmer, 2000). The goal of our work is to automatically identify inappropriate usage of specific vocabulary words in essays by looking at the local contextual cues around a target word. We have developed a statistical system, ALEK (Assessing Le____xical Knowledge), that uses statistical analysis for this purpose.</Paragraph>
+<Paragraph position="3"> A major objective of this research is to avoid the laborious and costly process of collecting errors (or negative evidence) for each word that we wish to evaluate. Instead, we train ALEK on a general corpus of English and on edited text containing example uses of the target word. The system identifies inappropriate usage based on differences between the word's local context cues in an essay and the models of context it has derived from the corpora of well-formed sentences.</Paragraph>
+<Paragraph position="4"> A requirement for ALEK has been that all steps in the process be automated, beyond choosing the words to be tested and assessing the results. Once a target word is chosen, preprocessing, building a model of the word's appropriate usage, and identifying usage errors in essays is performed without manual intervention.</Paragraph>
+<Paragraph position="5"> ALEK has been developed using the Test of English as a Foreign Language (TOEFL) administered by the Educational Testing Service. TOEFL is taken by foreign students who are applying to US undergraduate and graduate-level programs.</Paragraph>
+</Section>
+</Paper>
+

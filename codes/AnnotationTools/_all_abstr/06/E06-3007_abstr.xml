@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E06-3007">
+<Title>Lexicalising Word Order Constraints for Implemented Linearisation Grammar</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a way in which a lexicalised HPSG grammar can handle word order constraints in a computational parsing system, without invoking an additional layer of representation for word order, such as Reape's Word Order Domain. The key proposal is to incorporate into lexical heads the WOC (Word Order Constraints) feature, which is used to constrain the word order of its projection. We also overview our parsing algorithm.</Paragraph>
+</Section>
+</Paper>
+

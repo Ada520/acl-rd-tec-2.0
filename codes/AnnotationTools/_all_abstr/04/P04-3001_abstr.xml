@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P04-3001">
+<Title>TransType2 - An Innovative Computer-Assisted Translation System</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> TT2 is an innovative tool for speeding up and facilitating the work of translators by automatically suggesting translation completions. Different versions of the system are being developed for English, French, Spanish and German by an international team of researchers from Europe and Canada. Two professional translation agencies are currently evaluating successive prototypes.</Paragraph>
+</Section>
+</Paper>
+

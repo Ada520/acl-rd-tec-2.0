@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P91-1052">
+<Title>Modifying Beliefs in a Plan-Based Dialogue Model</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> Previous models of discourse have inadequately accounted for how beliefs change during a conversation.</Paragraph>
+<Paragraph position="1"> This paper outlines a model of dialogue which maintains and updates a user's multi-level belief model as the discourse proceeds. This belief model is used in a plan-recognition framework to identify communicative goals such as expressing surprise.</Paragraph>
+</Section>
+</Paper>
+

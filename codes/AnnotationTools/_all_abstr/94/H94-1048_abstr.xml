@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H94-1048">
+<Title>A Maximum Entropy Model for Prepositional Phrase Attachment</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> A parser for natural language must often choose between two or more equally grammatical parses for the same sentence.</Paragraph>
+<Paragraph position="1"> Often the correct parse can be determined from the lexical properties of certain key words or from the context in which the sentence occurs. For example in the sentence, In July, the Environmental Protection Agency imposed a gradual ban on virtually all uses of asbestos.</Paragraph>
+<Paragraph position="2"> the prepositional phrase on virtually all uses of asbestos can attach to either the noun phrase a gradual ban, yielding \[vP imposed \[JvP a gradual ban \[pp on virtually all uses of asbestos \] \] \], or the verb phrase imposed, yielding \[vP imposed \[uP a gradual ban \]\[iop on virtually all uses off asbestos \] \].</Paragraph>
+<Paragraph position="3"> For this example, a human annotator's attachment decision, which for our purposes is the &amp;quot;correct&amp;quot; attachment, is to the noun phrase. We present in this paper methods for constructing statistical models for computing the probability of attachment decisions. These models could be then integrated into scoring the probability of an overall parse. We present our methods in the context of prepositional phrase (PP) attachment. null Earlier work \[11 \] on PP-attachment for verb phrases (whether the PP attaches to the preceding noun phrase or to the verb phrase) used statistics on co-occurences of two bigrams: the main verb (V) and preposition (P) bigram and the main noun in the object noun phrase (N1) and preposition bigram. In this paper, we explore the use of more features to help in modeling the distribution of the binary PP-attachment decision. We also describe a search procedure for selecting a &amp;quot;good&amp;quot; subset of features from a much larger pool of features for PP-attachment. Obviously, the feature search cannot be * Jeff Reynar, from University of Pennsylvania, worked on this project as a summer student at I.B.M.</Paragraph>
+<Paragraph position="4"> guaranteed to be optimal but appears experimentally to yield a good subset of features as judged by the accuracy rate in making the PP-attachment decisons. These search strategies can be applied to other attachment decisions.</Paragraph>
+<Paragraph position="5"> We use data from two treebanks: the IBM-Lancaster Treebank of Computer Manuals and the University of Pennsylvania WSJ treebank. We extract the verb phrases which include PP phrases either attached to the verb or to an object noun phrase. Then our model assigns a probability to either of the possible attachments. We consider models of the exponential family that are derived using the Maximum Entropy Principle \[1\].</Paragraph>
+<Paragraph position="6"> We begin by an overview of ME models, then we describe our feature selection method and a method for constructing a larger pool of features from an exisiting set, and then give some of our results and conclusions.</Paragraph>
+</Section>
+</Paper>
+

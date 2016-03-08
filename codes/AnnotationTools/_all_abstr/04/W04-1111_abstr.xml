@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-1111">
+<Title>A Statistical Model for Hangeul-Hanja Conversion in Terminology Domain</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Sino-Korean words, which are historically borrowed from Chinese language, could be represented with both Hanja (Chinese characters) and Hangeul (Korean characters) writings. Previous Korean Input Method Editors (IMEs) provide only a simple dictionary-based approach for Hangeul-Hanja conversion. This paper presents a sentence-based statistical model for Hangeul-Hanja conversion, with word tokenization included as a hidden process. As a result, we reach 91.4% of character accuracy and 81.4% of word accuracy in terminology domain, when only very limited Hanja data is available.</Paragraph>
+</Section>
+</Paper>
+

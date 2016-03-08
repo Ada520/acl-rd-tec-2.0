@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H91-1070">
+<Title>Interactive Problem Solving and Dialogue in the ATIS Domain 1</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> This paper describes the present status of the discourse and dialogue models within the MIT ATIS system, extended to support the notion of booking a flight. The discourse model includes not only the resolution of explicit anaphoric references, but also indirect and direct references to information mentioned earlier in the conversation, such as a direct reference to an entry in a previously displayed table or an indirect reference to a date, as in &amp;quot;the following Thursday.&amp;quot; The system keeps a history table containing objects such as flights and dates, represented as semantic frames, as well as the active ticket, previously booked tickets, and previously displayed tables. During flight reservations scenarios, the system monitors the state of the ticket (which is displayed to the user), making sure that all information is complete (by querying the user) before allowing a booking. It may even initiate calls to the database to provide additional unsolicited information as appropriate. We have collected several dialogues of subjects using the system to make reservations, and from these, we are learning how to design better dialogue models.</Paragraph>
+</Section>
+</Paper>
+

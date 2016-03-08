@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1057">
+<Title>A Formal Model for Information Selection in Multi-Sentence Text Extraction</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Selecting important information while accounting for repetitions is a hard task for both summarization and question answering. We propose a formal model that represents a collection of documents in a two-dimensional space of textual and conceptual units with an associated mapping between these two dimensions.</Paragraph>
+<Paragraph position="1"> This representation is then used to describe the task of selecting textual units for a summary or answer as a formal optimization task. We provide approximation algorithms and empirically validate the performance of the proposed model when used with two very different sets of features, words and atomic events.</Paragraph>
+</Section>
+</Paper>
+

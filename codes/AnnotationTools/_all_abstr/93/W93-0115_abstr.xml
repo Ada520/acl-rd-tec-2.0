@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W93-0115">
+<Title>THE LONG JOURNEY FROM THE CORE TO THE REAL SIZE OF LARGE LDB</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+THE LONG JOURNEY FROM THE CORE TO THE REAL SIZE OF LARGE LDB
+</SectionTitle>
+<Paragraph position="0"> and Computer Technology, Bulgarian Academy of Sciences Acad. G. Bonchev St. 25a, 1113 Sofia, Bulgaria fax:+359-2-707273, e-mail:HELLEN@BGEARN.bitnet 1. Introduction: The Meanings Of &amp;quot;Large&amp;quot;</Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+Large Lexical Data Bases are one of the earliest applications of NLP. The initial stage of their rise,
+</SectionTitle>
+<Paragraph position="0"> with the admiration for the automation of lexicographic work itself, came to an end long ago. In the following stages LexicalData Bases (LDB) began to extend considerably the range of their application and the scope of CL problems put forward by them \[see Calzolari 1991, Calzolari and Zampolli 1988 and Boguraev et a1.1988\].</Paragraph>
+<Paragraph position="1"> It is worth discussing a new version of LDB (for a concrete new language) only in the present-day context of these problems. This does not, however, relieve the creators of LDB for a new language of the solution of the trivial problems standing at the lower foot of the ladder used to &amp;quot;storm&amp;quot; the lexical wealth of language.</Paragraph>
+<Paragraph position="2"> After overcoming these obstacles, there is prototype version available or a core of LDB, which cannot be called large especially when its volume is concerned. Speaking of volume, quite naturally, the following question arises: in what direction should the linguistic knowledge be extended, so that the system could be defined as large? Shall we say &amp;quot;large&amp;quot; in the literal sense, having in mind the number of entries in DB, or does &amp;quot;large&amp;quot; mean &amp;quot;deep&amp;quot;, i.e. the richer linguistic information in the lexical entry means a larger scope of linguistic phenomena included in DB? It is obvious that the researchers who have climbed higher up the ladder mentioned above (in the works quoted above) are interested in the second sense of the attribute &amp;quot;large&amp;quot;, as the first type of expansion of the basis has long been a fact for them.</Paragraph>
+<Paragraph position="3"> This paper is an attempt to share the experience of researchers who have climbed up the first few steps of the ladder, and who are clearly conscious of the height they still have to reach (on account of the fact that they began to build an LDB in the early 90s). This consciousness makes them speed up the process of climbing the first few steps (i.e., to make the base large in physical volume), in order to continue at a higher speed the expansion of the base with regard to the scope of linguistic knowledge (i.e. to build a &amp;quot;deeper&amp;quot; large DB).</Paragraph>
+<Paragraph position="4"> The intellectualization, hence the speeding up of the first type of expansion of the base through the creation of special programming tools for representing, correcting and enriching the linguistic knowledge in a separate entry, is a task we have already confronted with at the Linguistic Modeling Laboratory when working on an LDB for Russian and Bulgarian.</Paragraph>
+<Paragraph position="5"> This paper is about the programming tools accomplishing the interface with the linguist who has at his disposal a nuclear prototype DB and whose task is to turn it into a really large DB.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

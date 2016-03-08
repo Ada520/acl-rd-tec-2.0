@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P84-1085">
+<Title>A SY}~ACTIC APPROACH TO DISCOURSE SEMANTICS</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> A correct structural analysis of a discourse is a prerequisite for understanding it. This paper sketches the outline of a discourse grammar which acknowledges several different levels of structure.</Paragraph>
+<Paragraph position="1"> This gram~nar, the &amp;quot;Dynamic Discourse Model&amp;quot;, uses an Augmented Transition Network parsing mechanism to build a representation of the semantics of a discourse in a stepwise fashion, from left to right, on the basis of the semantic representations of the individual clauses which constitute the discourse.</Paragraph>
+<Paragraph position="2"> The intermediate states of the parser model the intermediate states of the social situation which generates the discourse.</Paragraph>
+<Paragraph position="3"> The paper attempts to demonstrate that a discourse may indeed be viewed as constructed by means of sequencing and recursive nesting of discourse constituents. It gives rather detailed examples of discourse structures at various levels, and shows how these structures are described in the framework proposed here.</Paragraph>
+<Paragraph position="4"> &amp;quot;I DISCOURSE STRUCTURES AT DIFFERE.NT LEVELS If a discourse understanding system is to be able to assemble the meaning of a complex discourse fragment (such as a story or an elaborate description) out of the meanings of the utterances constituting the fragment, it needs a correct structural analysis of it. Such an analysis is also necessary to assign a correct semantic interpretation to clauses as they occur in the discourse; this is seen most easily in cases where this interpretation depends on phenomena such as the discourse scope of temporal and locative adverbials, the movement of the reference time in a narrative, or the interpretation of discourse anaphora.</Paragraph>
+<Paragraph position="5"> The Dynamic Discourse Model, outlined in this paper, is a discourse grammar under development which analyses the structure of a discourse in order to be able to deal adequately with its semantic aspects. It should be emphasized at the outset that this system is a formal model of discourse syntax and semantics, but not a computer implementation of such a model.</Paragraph>
+<Paragraph position="6"> For a system to be able to understand a discourse, it must be able to analyse it at several different levels.</Paragraph>
+<Paragraph position="7"> i. Any piece of talk must be assigned to one Interaction -- i.e., to a socially constructed verbal exchange which has, at any moment, a well-defined set of participants.</Paragraph>
+<Paragraph position="8"> 2. Virtually every interaction is viewed by its participants as belonging to a particular pre-defined genre -- be it a doctor-patient interaction, a religious ceremony, or a casual chat. Depending on the genre, certain participants may have specific roles in the verbal exchange, and there may be a predefined agenda specifying consecutive parts of the interaction. An interaction which is socially &amp;quot;interpreted&amp;quot; in such a fashion is called a Speech  Event (Hymes,1967,1972).</Paragraph>
+<Paragraph position="9"> 3. A stretch of talk within one Speech Event may be characterized as dealing with one Topic.</Paragraph>
+<Paragraph position="10"> 4. Within a Topic, we may find one or more Dis- null course Units (DU's) -- socially acknowledged units of talk which have a recognizable &amp;quot;point&amp;quot; or purpose, while at the same time displaying a specific syntactic/semantic structure. Clear examples are stories, procedures, descriptions, and jokes.</Paragraph>
+<Paragraph position="11"> 5. When consecutive clauses are combined into one syntactic~semantic unit, we call this unit a discourse constituent unit (dcu). Examples are: lists, narrative structures, and various binary structures (&amp;quot;A but B&amp;quot;, &amp;quot;A because B&amp;quot;, etc.).</Paragraph>
+</Section>
+</Paper>
+

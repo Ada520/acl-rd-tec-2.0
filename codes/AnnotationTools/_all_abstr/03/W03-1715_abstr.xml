@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-1715">
+<Title>Abductive Explanation-based Learning Improves Parsing Accuracy and Efficiency</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Natural language parsing has to be accurate and quick. Explanation-based Learning (EBL) is a technique to speed-up parsing. The accuracy however often declines with EBL. The paper shows that this accuracy loss is not due to the EBL framework as such, but to deductive parsing. Abductive EBL allows extending the deductive closure of the parser. We present a Chinese parser based on abduction. Experiments show improvements in accuracy and efficiency.1</Paragraph>
+</Section>
+</Paper>
+

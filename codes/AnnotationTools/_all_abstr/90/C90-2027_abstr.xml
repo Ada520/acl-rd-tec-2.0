@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-2027">
+<Title>A Linguistic Theory of Robustness *</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> Syntactical robustness is a desired design properry of natural language parsers. Within the past decade, several developmental robustness approaches have been %rwarded: Syntax-free semantic passing \[1\] co,~lstraint relaxation after parse failure in a pattern matching \[2\] or ATN framework \[:3,4\], parse tree fittiug \[5\] and several non-formalized case frame approaches (e.g. the parser series in \[6,7\]). Three approaches \[5,8,9\] account for special defectivities by extending grarnmatical coverage. This paper refo,:mulates the so-called weakness approach, first, published in \[I0\], which extends robustness to declarative parsing formalisms.</Paragraph>
+<Paragraph position="1"> There are serious shortcomings in robustness research, emerging fl'om the common view of robustness as a parsing and not as a representation problem. Typically, two distinct representation levels for grammatical and non-grammatical language are assumed. The former is given by the basic fi'amework, the latter by relaxed pattern slots \[2\] or ATN arc re.sis \[3\], by &amp;quot;nongrammatical&amp;quot; meta-rules \[4\], by some construction specific strategies \[6,7\] or by the schema mechanism \[11\]. \Virile formalism syntax is somet;irues specified (e.g. \[4,10\]), ~ semantics of robust grmmnar formalisms, being m'.cessa.ry to define these two representation levels, has not been given vet. Without a well-defined formalism semantics, it is impossible to predict the behaviour of a (robust) grammar fragment when applied to non-grammatical language. Therefore, no robustness methodology has been available until llOW,</Paragraph>
+</Section>
+</Paper>
+

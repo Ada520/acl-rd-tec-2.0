@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E06-1006">
+<Title>Phrase-Based Backoff Models for Machine Translation of Highly Inflected Languages</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We propose a backoff model for phrase-based machine translation that translates unseen word forms in foreign-language text by hierarchical morphological abstractions at the word and the phrase level. The model is evaluated on the Europarl corpus for German-English and Finnish-English translation and shows improvements over state-of-the-art phrase-based models.</Paragraph>
+</Section>
+</Paper>
+

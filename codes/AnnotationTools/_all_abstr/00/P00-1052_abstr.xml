@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P00-1052">
+<Title>The Role of Centering Theory's Rough-Shift in the Teaching and Evaluation of Writing Skills</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Existing software systems for automated essay scoring can provide NLP researchers with opportunities to test certain theoretical hypotheses, including some derived from Centering Theory. In this study we employ ETS's e-rater essay scoring system to examine whether local discourse coherence, as de#0Cned bya measure of Rough-Shift transitions, might be a signi#0Ccant contributor to the evaluation of essays. Our positive results indicate that Rough-Shifts do indeed capture a source of incoherence, one that has not been closely examined in the Centering literature. These results not only justify Rough-Shifts as a valid transition type, but they also support the original formulation of Centering as a measure of discourse continuityeven in pronominal-free text.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P00-1043">
+<Title>Extracting Causal Knowledge from a Medical Database Using Graphical Patterns</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper reports the first part of a project that aims to develop a knowledge extra c tion and knowledge discovery system that extracts causal knowledge from textual d a tabases. In this initial study, we develop a method to identify and extract cause-effect information that is explicitly expressed in medical abstracts in the Medline database.</Paragraph>
+<Paragraph position="1"> A set of graphical patterns were constructed that indicate the presence of a causal rel a tion in sentences, and which part of the sentence represents the cause and which part represents the effect. The patterns are matched with the syntactic parse trees of sentences, and the parts of the parse tree that match with the slots in the patterns are extracted as the cause or the effect.</Paragraph>
+</Section>
+</Paper>
+

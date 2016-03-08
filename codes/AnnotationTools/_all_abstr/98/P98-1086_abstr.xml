@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-1086">
+<Title>Eliminative Parsing with Graded Constraints</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract Resource adaptlvity&amp;quot; Because the sets of struc-
+</SectionTitle>
+<Paragraph position="0"> Natural language parsing is conceived to be a procedure of disambiguation, which successively reduces an initially totally ambiguous structural representation towards a single interpretation. Graded constraints are used as means to express well-formedness conditions of different strength and to decide which partial structures are locally least preferred and, hence, can be deleted. This approach facilitates a higher degree of robustness of the analysis, allows to introduce resource adaptivity into the parsing procedure, and exhibits a high potential for parallelization of the computation.</Paragraph>
+</Section>
+</Paper>
+

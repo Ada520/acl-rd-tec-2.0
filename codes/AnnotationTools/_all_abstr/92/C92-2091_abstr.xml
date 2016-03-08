@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C92-2091">
+<Title>New Museums Site</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A novel approach to Machine Translation (MT), called Shake-and-Bake, is presented, which exploits recent advances iLL Computational Linguistics in terms of tile increased spread of lexicMist unification-based grammar theories. It is argued that it overcomes some difficulties encountered by transfer and interfingual methods.</Paragraph>
+<Paragraph position="1"> It offers a greater modularity of the monolingual components, which can be written with independence of each other, using purely monofinguM considerations. These are put into correspondence by means of a bilingual lexicon.</Paragraph>
+<Paragraph position="2"> The Shake-and-Bake approach for MT consists of parsing the Source Language in any usual way, then looking up the words in the bilinguM lexicon, and finally generating from tile set of translations of these words, but allowing the Target Language grammar to instantiate tile relative word ordering, taking advantage of the fact that the parse produces lexical and phrasal signs which are highly constrained (specifically in the semantics).</Paragraph>
+<Paragraph position="3"> TILe main algorithm presented for generation is a variation on the well-known CKY one used for parsing.</Paragraph>
+<Paragraph position="4"> A toy bidirectional MT system was written to translate between Spanish and Enghsh, and some of the entries are shown.</Paragraph>
+</Section>
+</Paper>
+

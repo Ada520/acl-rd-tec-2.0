@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-3314">
+<Title>BioKI:Enzymes an adaptable system to locate low-frequency information in full-text proteomics articles</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Goals
+</SectionTitle>
+<Paragraph position="0"> BioKI:Enzymes is a literature navigation system that uses a two-step process. First, full-text articles are retrieved from PubMed Central (PMC). Then, for each article, the most relevant passages are identi ed according to a set of user selected keywords, and the articles are ranked according to the pertinence of the representative passages.</Paragraph>
+<Paragraph position="1"> In contrast to most existing systems in information retrieval (IR) and information extraction (IE) for bioinformatics, BioKI:Enzymes processes full-text articles, not abstracts. Full-text articles1 permit to highlight low-frequency information i.e. information that is not redundant, that does not necessarily occur in many articles, and within each article, may be expressed only once (most likely in the body of the article, not the abstract). It contrasts thus with GoPubMed (Doms and Schroeder, 2005), a clustering system that retrieves abstracts using PMC search and clusters them according to terms from the Gene Ontology (GO).</Paragraph>
+<Paragraph position="2"> Scientists face two major obstacles in using IR and IE technology: how to select the best keywords for an intended search and how to assess the validity and relevance of the extracted information.</Paragraph>
+<Paragraph position="3"> To address the latter problem, BioKI provides convenient access to different degrees of context by allowing the user to view the information in three different formats. At the most abstract level, the ranked list of articles provides the rst ve lines of the most pertinent text segment selected by BioKI (similar to the snippets provided by Google). Clicking on the article link will open a new window with a 1Only articles that are available in HTML format can currently be processed.</Paragraph>
+<Paragraph position="4"> side-by-side view of the full-text article as retrieved through PMC on the left and the different text segments2, ordered by their relevance to the user selected keywords, on the right. The user has thus the possibility to assess the information in the context of the text segment rst, and in the original, if desired.</Paragraph>
+</Section>
+</Paper>
+

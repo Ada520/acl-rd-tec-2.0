@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E93-1047">
+<Title>[ Type-Driven Semantic Interpretation of f-Structures \] ?.~,w),(njO)</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The formal architecture of Lexical Functional Grammar offers a particular formal device, the structural correspondence, for modularizing the mapping between the surface forms of a language and representations of their underlying meanings. This approach works well when the structural discrepancies between form and meaning representations are finitely bounded, but there are some phenomena in natural language, e.g. adverbs in English, where this restriction does not hold. In this paper, we describe rule-based type-driven interpretation algorithms which cover cases of such a structural misalignment by exploiting a new descriptive device, the &amp;quot;restriction operator&amp;quot;. The algorithms are set up in such a way that recursive rules can be derived for the interpretation of adjunct sets within a codescripiion approach (see \[Kaplan and Wedekind, 1993\] for details).</Paragraph>
+</Section>
+</Paper>
+

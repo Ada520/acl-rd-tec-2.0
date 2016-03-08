@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P03-2024">
+<Title>A Limited-Domain English to Japanese Medical Speech Translator</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We argue that verbal patient diagnosis is a promising application for limited-domain speech translation, and describe an architecture designed for this type of task which represents a compromise between principled linguistics-based processing on the one hand and efficient phrasal translation on the other. We propose to demonstrate a prototype system instantiating this architecture, which has been built on top of the Open Source REGULUS 2 platform.</Paragraph>
+<Paragraph position="1"> The prototype translates spoken yes-no questions about headache symptoms from English to Japanese, using a vocabulary of about 200 words.</Paragraph>
+</Section>
+</Paper>
+

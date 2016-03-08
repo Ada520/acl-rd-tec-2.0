@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1101">
+<Title>Combining Linguistic Features with Weighted Bayesian Classifier for Temporal Reference Processing</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Temporal reference is an issue of determining how events relate to one another. Determining temporal relations relies on the combination of the information, which is explicit or implicit in a language. This paper reports a computational model for determining temporal relations in Chinese. The model takes into account the effects of linguistic features, such as tense/aspect, temporal connectives, and discourse structures, and makes use of the fact that events are represented in different temporal structures. A machine learning approach, Weighted Bayesian Classifier, is developed to map their combined effects to the corresponding relations. An empirical study is conducted to investigate different combination methods, including lexicalbased, grammatical-based, and role-based methods. When used in combination, the weights of the features may not be equal. Incorporating with an optimization algorithm, the weights are fine tuned and the improvement is remarkable.</Paragraph>
+</Section>
+</Paper>
+

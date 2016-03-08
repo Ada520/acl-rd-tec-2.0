@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-2133">
+<Title>Multiple Discourse Relations on the Sentential Level in Japanese</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In the spoken language machine translation project Verbmobil, the semantic formalism Language for Underspecified Discourse representation structures (LUD) is used. LUD describes a number of DRSs and allows for underspecification of scopal ambiguities. Dealing with Japanese-to-English translation besides German-to-English poses challenging problems. In this paper, a treatment of multiple discourse relation constructions on the sentential level is discussed. These are common in Japanese but cause a problem for the formalism. It is shown that the underspecification is to be represented for them, too. Additionally, it is possible to state a semantic constraint on the resolution of multiple discourse relations which seems to prevail over the syntactic c-command constraint.</Paragraph>
+</Section>
+</Paper>
+

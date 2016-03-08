@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-0215">
+<Title>Visualization by People without Vision</Title>
+<Section position="1" start_page="103" end_page="103" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Prototypes of two direct audio/tactile access methods are demonstrated that allow people with print disabilities to &amp;quot;see&amp;quot; diagrams, maps, charts, and other graphically-displayed information. All methods require that labels or other identifying information be available for each important object in a figure. In web applications, this additional information is accessed by exercising a link associated with an object. People with severe visual disabilities may need a tactile image mounted on a touch screen to access object-related information. It is expected that recently-introduced force feedback &amp;quot;haptic mice&amp;quot; may soon provide easy haptic access to the objects as well. The critical factor that ensures accessibility is availability of information about all important objects, since there is currently no way to transform any but the simplest purely visual graphic information into audio or tactile/haptic information that is easily understandable. These requirements, which also ensure good searchability, should influence development of future data structures and visualization displays.</Paragraph>
+<Paragraph position="1"> Introduction The mission of the Science Access Project (SAP) is to develop technologies that permit non-visual access to more complex electronic information. Until recently this research has concentrated largely on access to tables, math equations and other character-based information. Access is possible if this information is presented in some good mark-up language such as SGML and difficult to impossible when presented as bit-mapped images or visually-formatted text.</Paragraph>
+<Paragraph position="2"> More recently the SAP has begun exploring possible methods that permit good non-visual access to information conventionally presented as graphics.</Paragraph>
+</Section>
+</Paper>
+

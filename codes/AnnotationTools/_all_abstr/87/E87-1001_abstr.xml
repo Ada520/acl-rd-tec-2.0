@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E87-1001">
+<Title>The Linguistic Basis of Text Generation</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> This study presents an original and penetrating analysis of the complex problems surrounding the automatic generaton of natural language text. Laurence Danlos provides a valuable critical review of current research in this important and increasingly active field, and goes on to describe a new theoretical model that is thoroughly grounded in linguistic principles.</Paragraph>
+<Paragraph position="1"> The model emphasizes the semantic, syntactic and lexical constraints that must be dealt with when establishing a relationship between meaning and form, and it is consideration of such linguistic constraints that determines Danlos' generation algorithm. The book concludes with a description of a generation system based on this algorithm which produces texts in several domains and also a system for the synthesis of spoken messages from semantic representations.</Paragraph>
+<Paragraph position="2"> The book is a significant addition to the literature on text generation~ and will be of particular interest to all computational linguists and AI researchers who have wrestled with the problem of vocabulary selection.</Paragraph>
+</Section>
+</Paper>
+

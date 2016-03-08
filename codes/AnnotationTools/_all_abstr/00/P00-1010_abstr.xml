@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P00-1010">
+<Title>Robust Temporal Processing of News</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We introduce an annotation scheme for temporal expressions, and describe a method for resolving temporal expressions in print and broadcast news. The system, which is based on both hand-crafted and machine-learnt rules, achieves an 83.2% accuracy (Fmeasure) against hand-annotated data. Some initial steps towards tagging event chronologies are also described.</Paragraph>
+<Paragraph position="1"> Introduction The extraction of temporal information from news offers many interesting linguistic challenges in the coverage and representation of temporal expressions. It is also of considerable practical importance in a variety of current applications. For example, in question-answering, it is useful to be able to resolve the underlined reference in &amp;quot;the next year, he won the Open&amp;quot; in response to a question like &amp;quot;When did X win the U.S. Open?&amp;quot;. In multi-document summarization, providing fine-grained chronologies of events over time (e.g., for a biography of a person, or a history of a crisis) can be very useful. In information retrieval, being able to index broadcast news stories by event times allows for powerful multimedia browsing capabilities.</Paragraph>
+<Paragraph position="2"> Our focus here, in contrast to previous work such as (MUC 1998), is on resolving time expressions, especially indexical expressions like &amp;quot;now&amp;quot;, &amp;quot;today&amp;quot;, &amp;quot;tomorrow&amp;quot;, &amp;quot;next Tuesday&amp;quot;, &amp;quot;two weeks ago&amp;quot;, &amp;quot;20 mins after the next hour&amp;quot;, etc., which designate times that are dependent on the speaker and some &amp;quot;reference&amp;quot; time1. In this paper, we discuss a temporal annotation scheme for representing dates and times in temporal expressions. This is followed by details and performance measures for a tagger to extract this information from news sources. The tagger uses a variety of hand-crafted and machine-discovered rules, all of which rely on lexical features that are easily recognized. We also report on a preliminary effort towards constructing event chronologies from this data.</Paragraph>
+</Section>
+</Paper>
+

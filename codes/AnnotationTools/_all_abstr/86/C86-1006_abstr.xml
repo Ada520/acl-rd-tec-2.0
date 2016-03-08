@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C86-1006">
+<Title>USER MODELS: THE PROBLEM OF DISPARITY</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+USER MODELS: THE PROBLEM OF DISPARITY
+</SectionTitle>
+<Paragraph position="0"></Paragraph>
+</Section>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> A signific~mt component of a user raodel in au infornration-seeking dialogue is tim task-related plazl motivating the information-seeker's queries. A number of researchers have Irmdeled the plan inference process and used these models to design more robust natural language interfaces. However in each case, it has been assumed that the system's context model and the plan under construction by the information-seeker are never at variance. This paper addre~es the problem of disparate plans. It presents a four phase approach and argues that hmldling disparate plans requires an enriched context model. This model nmst permit tile addition of companents suggested by the information,'~eeker but not fully supported by the system's domain knowledge, and must differentiate mnong its components according to the kind of support accorded each component as a correct part of the information-seeker's overall plan. It is shown how a component's support should affect the system's hypothesis about the source of error once plan disparity is suggested.</Paragraph>
+</Section>
+</Paper>
+

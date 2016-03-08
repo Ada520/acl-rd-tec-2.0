@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-0509">
+<Title>A Comprehensive NLP System for Modern Standard Arabic and Modern Hebrew Morphological analysis, lemmatization, vocalization, disambiguation and text-to-speech</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a comprehensive NLP system by Melingo that has been recently developed for Arabic, based on Morfix</Paragraph>
+</Section>
+</Paper>
+

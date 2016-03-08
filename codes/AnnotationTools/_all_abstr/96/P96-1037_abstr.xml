@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P96-1037">
+<Title>Improving the EJficiency of Human-Machine Dialogue -- A Computational Model of Variable Initiative and Negotiation in Collaborative Problem-</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we examine mechanisms for automatic dialogue initiative setting. We show how to incorporate initiative changing in a task-oriented human-computer dialogue system, and we evaluate the effects of initiative both analytically and via computer-computer dialogue simulation.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P05-3001">
+<Title>An Information-State Approach to Collaborative Reference</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe a dialogue system that works with its interlocutor to identify objects.</Paragraph>
+<Paragraph position="1"> Our contributions include a concise, modular architecture with reversible processes of understanding and generation, an information-state model of reference, and flexible links between semantics and collaborative problem solving.</Paragraph>
+</Section>
+</Paper>
+

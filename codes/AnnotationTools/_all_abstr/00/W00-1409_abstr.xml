@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-1409">
+<Title>An Extended Architecture for Robust Generation*</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Based on our experiences in VERBMOBIL, a large scale speech-to-speech translation system, we identify two types of problems that a generation component must address in a realistic implementation and present relevant examples. As an extension to the architecture of a translation system, we present a module for robustness preprocessing on the interface between translation and generation.</Paragraph>
+</Section>
+</Paper>
+

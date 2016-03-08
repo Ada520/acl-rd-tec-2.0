@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P05-1075">
+<Title>A Nonparametric Method for Extraction of Candidate Phrasal Terms</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper introduces a new method for identifying candidate phrasal terms (also known as multiword units) which applies a nonparametric, rank-based heuristic measure.</Paragraph>
+<Paragraph position="1"> Evaluation of this measure, the mutual rank ratio metric, shows that it produces better results than standard statistical measures when applied to this task.</Paragraph>
+</Section>
+</Paper>
+

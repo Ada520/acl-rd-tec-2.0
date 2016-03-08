@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-1056">
+<Title>Syntactic and Semantic Transfer with F-Structures*</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present two approaches for syntactic and semantic transfer based on LFG f-structures and compare the results with existing co-description and restriction operator based approaches, focusing on aspects of ambiguity preserving transfer, complex cases of syntactic structural mismatches as well as on modularity and reusability. The two transfer approaches are interfaced with an existing, implemented transfer component (Verbmobi1), by translating f-structures into a term language, and by interfacing f-structure representations with an existing semantic based transfer approach, respectively.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-2110">
+<Title>Japanese Dependency Analysis using a Deterministic Finite State Transducer</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A deternfinistic finite state transducer is a fast device fbr analyzing strings. It takes O(n) time to analyze a string of length n. In this 1)al)er, an application of this technique to Japanese dependency analysis will be described. We achieved the speed at; a small cost in accuracy. It takes about 0.1.7 nfillisecond to analyze one sentence (average length is 10 bunsetsu, 1)ased on Pent:tahiti 650MHz PC, Linux) and we actually observed the analysis time to be proportional to the sentence length. Thb accuracy is about; 81% even though very little lexical information is used. This is about 17% and 9% better than the default and a simple system, respectively.</Paragraph>
+<Paragraph position="1"> We believe the gap between our pertbrmm:ce and the best current 1)erforlnm:ce on the stone task, about 7%, can be filled by introducing lexical or sen:antic infornmtion.</Paragraph>
+</Section>
+</Paper>
+

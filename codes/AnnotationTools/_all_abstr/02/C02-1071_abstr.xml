@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C02-1071">
+<Title>Integrating Shallow Linguistic Processing into a Unication{based</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes towhatextentdeep processing may benet from shallow processing techniquesanditpresentsaNLPsystemwhich integrates a linguistic PoS taggerand chunker asapreprocessingmodule ofabroad{coverage unication{based grammarofSpanish. Experiments show that the eciency of the overall  analysisimprovessignicantlyandthatoursystem also provides robustness to the linguistic processing,whilemaintainingboththeaccuracy andtheprecisionofthegrammar.</Paragraph>
+</Section>
+</Paper>
+

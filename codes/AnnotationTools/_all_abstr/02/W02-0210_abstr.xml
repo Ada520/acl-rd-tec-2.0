@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-0210">
+<Title>Adaptive Dialogue Systems - Interaction with Interact</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Technological development has made computer interaction more common and also commercially feasible, and the number of interactive systems has grown rapidly. At the same time, the systems should be able to adapt to various situations and various users, so as to provide the most efficient and helpful mode of interaction. The aim of the Interact project is to explore natural human-computer interaction and to develop dialogue models which will allow users to interact with the computer in a natural and robust way. The paper describes the innovative goals of the project and presents ways that the Interact system supports adaptivity on different system design and interaction management levels.</Paragraph>
+</Section>
+</Paper>
+

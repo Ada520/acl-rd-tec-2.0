@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P02-1061">
+<Title>Teaching a Weaker Classifier: Named Entity Recognition on Upper Case Text</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes how a machine-learning named entity recognizer (NER) on upper case text can be improved by using a mixed case NER and some unlabeled text. The mixed case NER can be used to tag some unlabeled mixed case text, which are then used as additional training material for the upper case NER. We show that this approach reduces the performance gap between the mixed case NER and the upper case NER substantially, by 39% for MUC-6 and 22% for MUC-7 named entity test data. Our method is thus useful in improving the accuracy of NERs on upper case text, such as transcribed text from automatic speech recognizers where case information is missing.</Paragraph>
+</Section>
+</Paper>
+

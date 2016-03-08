@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-2710">
+<Title>The NITE XML Toolkit: Demonstration from ve corpora</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The NITE XML Toolkit (NXT) is open source software for working with multimodal, spoken, or text language corpora. It is speci cally designed to support the tasks of human annotators and analysts of heavily cross-annotated data sets, and has been used successfully on a range of projects with varying needs. In this text to accompany a demonstration, we describe NXT along with four uses on different corpora that together span its most novel features. The examples involve the AMI and ICSI Meeting Corpora; a study of multimodal reference; a syntactic analysis of Genesis in classical Hebrew; and discourse annotation of Switchboard dialogues. null</Paragraph>
+</Section>
+</Paper>
+

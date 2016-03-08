@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-3063">
+<Title>Automatic Processing of Large Corpora fbr the Resolution of Anaphor References</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Manual acquisition of semantic constraints in broad domains is very expensive. This paper presents an automatic scheme for collecting statistics on cooccurrence patterns in a large corpus. To a large extent, these statistics reflect, semantic constraints and thus are used to disambiguate anaphora references and syntactic ambiguities. The scherne was implemented by gathering statistics on the output of other linguistic tools. An experiment was performed to resolve references of the pronoun &amp;quot;it&amp;quot; in sentences that were randomly selected from the corpus. Ttle results of the experiment show that in most of the cases the cooccurrence statistics indeed reflect the semantic constraints and thus provide a basis {'or a useful disambiguat.ion tool.</Paragraph>
+</Section>
+</Paper>
+

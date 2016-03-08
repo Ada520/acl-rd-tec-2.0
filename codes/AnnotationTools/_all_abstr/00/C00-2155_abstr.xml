@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-2155">
+<Title>An HPSG-to-CFG Approximation of Japanese</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a simple approximation method for turning a Head-Driven Phrase Structure Grammar into a context-free grammar. The approximation method can be seen as the construction of the least fixpoint of a certain monotonic hmction. We discuss an experiment with a large HPSG for Japanese.</Paragraph>
+</Section>
+</Paper>
+

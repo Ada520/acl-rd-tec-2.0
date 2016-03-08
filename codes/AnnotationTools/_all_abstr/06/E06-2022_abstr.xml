@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E06-2022">
+<Title>Multilingual Term Extraction from Domain-specific Corpora Using Morphological Structure</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Morphologically complex terms composed from Greek or Latin elements are frequent in scientific and technical texts.</Paragraph>
+<Paragraph position="1"> Word forming units are thus relevant cues for the identification of terms in domain-specific texts. This article describes a method for the automatic extraction of terms relying on the detection of classical prefixes and word-initial combining forms. Word-forming units are identified using a regular expression. The system then extracts terms by selecting words which either begin or coalesce with these elements. Next, terms are grouped in families which are displayed as a weighted list in HTML format.</Paragraph>
+</Section>
+</Paper>
+

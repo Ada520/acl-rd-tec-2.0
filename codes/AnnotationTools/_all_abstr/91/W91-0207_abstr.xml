@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W91-0207">
+<Title>Representation of Semantic Knowledge with Term Subsumption Languages</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> One problem in the design of a lexicon for natural language processing is the representation of semantic knowledge. We examine the adequacy of knowledge representation formalisms developed in artificial intelligence, in particular of term subsumption languages for these issues. In order to derive some basic requirements for a suitable representation language we analyze a number of definitions of a monolingual dictionary. null</Paragraph>
+</Section>
+</Paper>
+

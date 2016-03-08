@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C92-3156">
+<Title>Agent AGT Beneficiary BENF Experiencer EXPR Instrument INST Object OBJ Recipient RECP Direction DIR Location_at LAT Location_from LFRM Location_to LTO Location_through LTRU Orientation ORNT Frequency FREQ Time_at TAT Time_from TFRM Time_to 'ITO Time_through qTRU Cause CAUS Contradiction CNTR Effect EFF Purpose PURP Accompaniment ACMP Content CONT Manner MANR Material MATR Measure MEAS</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> The TANKA project seeks to build a model of a technical domain by semi-automatically processing unedited English text that describes this domain. Each sentence is parsed and conceptual elements are extracted from the parse. Concepts are derived from the Case structure of a sentence, and added to a conceptual network that represents knowledge about the domain. The DIPETr parser has a particularly broad coverage of English syntax; its newest version can also process sentence fragments. The HAIKU subsystem is responsible for user-assisted semantic interpretation. It contains a Case Analyzer module that extracts phrases marking concepts from the parse and uses its past processing experience to derive the most likely Case realizations of each with almost no a priori semantic knowledge. The user must validate these selections. A key issue in our research is minimizing the number of interactions with the user by intelligently generating the alternatives offered.</Paragraph>
+</Section>
+</Paper>
+

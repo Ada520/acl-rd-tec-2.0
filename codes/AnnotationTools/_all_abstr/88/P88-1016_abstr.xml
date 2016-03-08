@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P88-1016">
+<Title>A COMPUTATIONAL THEORY OF PERSPECTIVE AND REFERENCE IN NARRATIVE</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> Narrative passages told from a character's perspective convey the character's thoughts and perceptions. We present a discourse process that recognizes characters' thoughts and perceptions in third-person narrative. An effect of perspective on reference In narrative is addressed: references in passages told from the perspective of a character reflect the character's beliefs. An algorithm that uses the results of our discourse process to understand references with respect to an appropriate set of beliefs is presented.</Paragraph>
+<Paragraph position="1">  1. INTRODUCTION. A narrative is often told from the  perspective of one or more of its characters; it cam also contain passages that are not told from the perspective of any character. We present a computational theory of how readers recognize the current perspective in thixd-person n~rative, end of the effects of perspective on the way readers understand references in third-person narrative. We consider published novels and short stories, rather than m.ificially constructed narratives.</Paragraph>
+<Paragraph position="2"> 2. BANFIELD'S THEORY. Our notion of perspective in narrative is based on Ann Bardield's (1982) c~t_egorization of the sentences of narration into subjective and objective sentences. Subjective sentences include those that portray a character's thoughts (represented thought) or present a scene a~ a character perceives it (represented perception). Objective sentences present the story directly, rather than through the thoughts or perceptions of a character. The language used to convey thoughts and perceptions is replete with linguistic elements that make no sense unless they are interpreted with respect to the thinking or perceiving character's consciousness. Banfield calls them subjective elements; they appear only in subjective sentences and cannot appear within objective sentences. Banfield identifies perspective in narrative with subjectivity, which is expressible via subjective elements. We call the thinking or perceiving character of a subjective sentence the subjective character.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H05-1064">
+<Title>Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing (HLT/EMNLP), pages 507-514, Vancouver, October 2005. c(c)2005 Association for Computational Linguistics Hidden-Variable Models for Discriminative Reranking</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe a new method for the representation of NLP structures within reranking approaches. We make use of a conditional log-linear model, with hidden variables representing the assignment of lexical items to word clusters or word senses.</Paragraph>
+<Paragraph position="1"> The model learns to automatically make these assignments based on a discriminative training criterion. Training and decoding with the model requires summing over an exponential number of hidden-variable assignments: the required summations can be computed efficiently and exactly using dynamic programming. As a case study, we apply the model to parse reranking. The model gives an F-measure improvement of [?] 1.25% beyond the base parser, and an [?] 0.25% improvement beyond the Collins (2000) reranker. Although our experiments are focused on parsing, the techniques described generalize naturally to NLP structures other than parse trees.</Paragraph>
+</Section>
+</Paper>
+

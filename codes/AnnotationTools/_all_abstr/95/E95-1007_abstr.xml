@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E95-1007">
+<Title>Some Remarks on the Decidability of the Generation Problem in LFGand PATR-Style Unification Grammars</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we prove the decidability of the generation problem for those unification grammars which are based on context-free phrase structure rule skeletons, like e.g. LFG and PATR-II. The result shows a perhaps unexpected asymmetry, since it is valid also for those unification grammars whose parsing problem is undecidable, e.g.</Paragraph>
+<Paragraph position="1"> grammars which do not satisfy the off-line parsability constraint. The general proof is achieved by showing that the space of the derivations which have to be considered in order to decide the problem for a given input is always restricted to derivations whose length is limited by some fixed upper bound which is determined relative to the &amp;quot;size&amp;quot; of the input.</Paragraph>
+</Section>
+</Paper>
+

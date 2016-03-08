@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P03-2040">
+<Title>TotalRecall: A Bilingual Concordance for Computer Assisted Translation and Language Learning</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a Web-based English-Chinese concordance system, Total-Recall, developed to promote translation reuse and encourage authentic and idiomatic use in second language writing. We exploited and structured existing high-quality translations from the bilingual Sinorama Magazine to build the concordance of authentic text and translation.</Paragraph>
+<Paragraph position="1"> Novel approaches were taken to provide high-precision bilingual alignment on the sentence, phrase and word levels. A browser-based user interface (UI) is also developed for ease of access over the Internet. Users can search for word, phrase or expression in English or Chinese. The Web-based user interface facilitates the recording of the user actions to provide data for further research.</Paragraph>
+</Section>
+</Paper>
+

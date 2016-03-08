@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H01-1057">
+<Title>Non-Dictionary-Based Thai Word Segmentation Using Decision Trees</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> For languages without word boundary delimiters, dictionaries are needed for segmenting running texts. This figure makes segmentation accuracy depend significantly on the quality of the dictionary used for analysis. If the dictionary is not sufficiently good, it will lead to a great number of unknown or unrecognized words. These unrecognized words certainly reduce segmentation accuracy. To solve such problem, we propose a method based on decision tree models. Without use of a dictionary, specific information, called syntactic attribute, is applied to identify the structure of Thai words. C4.5 is used as a tool for this purpose.</Paragraph>
+<Paragraph position="1"> Using a Thai corpus, experiment results show that our method outperforms some well-known dictionary-dependent techniques, maximum and longest matching methods, in case of no dictionary.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H86-1010">
+<Title>An Equipment Model and Its Role in the Interpretation of Nominal Compounds</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> For natural language understanding systems designed for domains including relatively complex equipment, it is not sufficient to use general knowledge about this equipment.</Paragraph>
+<Paragraph position="1"> We show problems which can be solved only if the system has access to a detailed equipment model. We discuss features of such models, in particular, their ability to simulate the equipment's behavior. As an illustration, we describe a simulation model for an air compressor. Finally, we demonstrate how to find referents in ~is model for nominal compounds.</Paragraph>
+</Section>
+</Paper>
+

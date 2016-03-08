@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0201">
+<Title>Getting Serious about Word Sense Disambiguation</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Recent advances in large-scale, broad coverage part-of-speech tagging and syntactic parsing have been achieved in no small part due to the availability of large amounts of online, human-annotated corpora. In this paper, I argue that a large, human sense-tagged corpus is also critical as well as necessary to achieve broad coverage, high accuracy word sense disambiguation, where the sense distinction is at the level of a good desk-top dictionary such as WORD-NET. Using the sense-tagged corpus of 192,800 word occurrences reported in (Ng and Lee, 1996), I examine the effect of the number of training examples on the accuracy of an exemplar-based classifier versus the base-line, most-frequent-sense classitier. I also estimate the amount of human sense-tagged corpus and the manual annotation effort needed to build a largescale, broad coverage word sense disambiguation program which can significantly out-perform the most-frequent-sense classifier.</Paragraph>
+<Paragraph position="1"> Finally, I suggest that intelligent example selection techniques may significantly reduce the amount of sense-tagged corpus needed and offer this research problem as a fruitful area for word sense disambiguation research.</Paragraph>
+</Section>
+</Paper>
+

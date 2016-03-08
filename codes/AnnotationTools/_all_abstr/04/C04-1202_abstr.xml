@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1202">
+<Title>Using Gene Expression Programming to Construct Sentence Ranking Functions for Text Summarization</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we consider the automatic text summarization as a challenging task of machine learning. We proposed a novel summarization system architecture which employs Gene Expression Programming technique as its learning mechanism. The preliminary experimental results have shown that our prototype system outperforms the baseline systems.</Paragraph>
+</Section>
+</Paper>
+

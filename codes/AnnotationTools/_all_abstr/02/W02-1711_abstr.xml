@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-1711">
+<Title>A Proposal for Screening Inconsistencies in Ontologies based on Query Languages using WSD</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we discuss a method to screen inconsistencies in ontologies by applying a natural language processing (NLP) technique, especially, those used for word sense disambiguation (WSD). In the database research field, it is claimed that queries over target ontologies should play a significant role because they represent every aspect of the terms described in each ontology. According to (Calvanese et al., 2001), considering the global and the local ontologies, the terms in the global ontology can be viewed as the query over the local ontology, and the mapping between the global and the local ontologies is given by associating each term in the global ontology with a view. On the other hand, ontology screening systems should be able to take advantage of some popular techniques for WSD, which is supposed to decide the right sense where the target word is used in a specific context. We present several examples regarding inconsistencies in ontologies with the aid of DAML+OIL notation(DAML+OIL, 2001), and propose that WSD can be one of the promising method to screen such as inconsistencies.</Paragraph>
+</Section>
+</Paper>
+

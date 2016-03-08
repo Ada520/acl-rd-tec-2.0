@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-1018">
+<Title>Consonant Spreading in Arabic Stems</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper examines the phenomenon of consonant spreading in Arabic stems. Each spreading involves a local surface copying of an underlying consonant, and, in certain phonological contexts, spreading alternates productively with consonant lengthening (or gemination).</Paragraph>
+<Paragraph position="1"> The morphophonemic triggers of spreading lie in the patterns or even in the roots themselves, and the combination of a spreading root and a spreading pattern causes a consonant to be copied multiple times. The interdigitation of Arabic stems and the realization of consonant spreading are formalized using finite-state morphotactics and variation rules, and this approach has been successfully implemented in a large-scale Arabic morphological analyzer which is available for testing on the Internet.</Paragraph>
+</Section>
+</Paper>
+

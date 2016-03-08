@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A92-1015">
+<Title>Detecting and Correcting Morpho-syntactic Errors in Real Texts</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a system which detects and corrects morpho-syntactic errors in Dutch texts. It includes a spelling corrector and a shift-reduce parser for Augmented Context-free Grammars.</Paragraph>
+<Paragraph position="1"> The spelling corrector is based on trigram and triphone analysis. The parser is an extension of the well-known Tomita algorithm (Tomita, 1986).</Paragraph>
+<Paragraph position="2"> The parser interacts with the spelling corrector and handles certain types of structural errors.</Paragraph>
+<Paragraph position="3"> Both modules have been integrated with a compound analyzer and a dictionary of 275,000 word forms into a program for stand-alone proof-reading of Dutch texts on a large scale. The system is in its final testing phase and will be commercially available as from 1992.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="I05-3023">
+<Title>Perceptron Learning for Chinese Word Segmentation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Weexplored a simple, fast and effective learning algorithm, the uneven margins Perceptron, for Chinese word segmentation. We adopted the character-based classification framework and transformed the task into several binary classification problems. We participated the close and open tests for all the four corpora. For the open test we only used the utf-8 code knowledge for discrimination among Latin characters, Arabic numbers and all other characters. Our system performed well on the as, cityu and msr corpora but was clearly worse than the best result on the pku corpus.</Paragraph>
+</Section>
+</Paper>
+

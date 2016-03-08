@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P84-1017">
+<Title>Text Axioms: ((COMMAND AGT CORNWALLIS</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Questioning texts represented in semantic relations I requires the recognition that synonyms, instances, and hyponyms may all satisfy a questioned term. A basic procedure for accomplishing such loose matching using inheritance from a taxonomic organization of the dictionary is defined in analogy with the unification a!gorithm used for theorem proving, and the costs of its application are analyzed. It is concluded tl,at inherit,~nce logic can profitably be ixiclu.'ted in the basic questioning procedure.</Paragraph>
+</Section>
+</Paper>
+

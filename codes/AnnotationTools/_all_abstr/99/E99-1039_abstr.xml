@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E99-1039">
+<Title>New Museums Site</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Default inheritance is a useful tool for encoding linguistic generalisations that have exceptions. In this paper we show how the use of an order independent typed default unification operation can provide non-redundant highly structured and concise representation to specify a network of lexical types, that encodes linguistic information about verbal subcategorisation. The system of lexical types is based on the one proposed by Pollard and Sag (1987), but uses the more expressive typed default feature structures, is more succinct, and able to express linguistic sub-regularities more elegantly.</Paragraph>
+</Section>
+</Paper>
+

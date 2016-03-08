@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0406">
+<Title>Dealing with Multilinguality in a Spoken Language Query &amp;quot; Translator</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Robustness is an important issue for multilingual speech interfaces for spoken language translation systems. We have studied three aspects of robustness in such a system: accent differences, mixed language input, and the use of common feature sets for HMM-based speech recognizers for English and Cantonese. The results of our preliminary experiments show that accent differences cause recognizer performance to degrade. A rather surprising finding is that for mixed language input, a straight forward implementation of a mixed language model-based speech recognizer performs less well than the concatenation of pure language recognizers. Our experimental results also show that a common feature set, parameter set, and common algorithm lead to different performance output for Cantonese and English speech recognition modules.</Paragraph>
+</Section>
+</Paper>
+

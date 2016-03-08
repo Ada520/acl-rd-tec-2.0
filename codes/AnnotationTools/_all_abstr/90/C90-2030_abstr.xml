@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-2030">
+<Title>Normal Form Theorem Proving for the Lambek Calculus ~</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The possibility of multiple equivalent proofs presents a problem for efficient parsing of a number of flexible categorial grammar (CG) frameworks. In this paper I outline a normal form system for a sequent formulation of the product-free associative Lambek Calculus. This le,'~ls to a simple parsing approach that yields only normal form proofs. This approach is both ~afe in that all distinct readings for a sentence will be returned, and optimal in ~;hat there is only one normal form proof yielding each distinct meaning.</Paragraph>
+</Section>
+</Paper>
+

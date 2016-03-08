@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P04-1044">
+<Title>Combining Acoustic and Pragmatic Features to Predict Recognition Performance in Spoken Dialogue Systems</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We use machine learners trained on a combination of acoustic confidence and pragmatic plausibility features computed from dialogue context to predict the accuracy of incoming n-best recognition hypotheses to a spoken dialogue system. Our best results show a 25% weighted f-score improvement over a baseline system that implements a &amp;quot;grammar-switching&amp;quot; approach to context-sensitive speech recognition.</Paragraph>
+</Section>
+</Paper>
+

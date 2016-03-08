@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-1023">
+<Title>Using the Web in Machine Learning for Other-Anaphora Resolution</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a machine learning framework for resolving other-anaphora. Besides morpho-syntactic, recency, and semantic features based on existing lexical knowledge resources, our algorithm obtains additional semantic knowledge from the Web. We search the Web via lexico-syntactic patterns that are specific to other-anaphors. Incorporating this innovative feature leads to an 11.4 percentage point improvement in the classifier's BY-measure (25% improvement relative to results without this feature).</Paragraph>
+</Section>
+</Paper>
+

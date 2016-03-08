@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-2502">
+<Title>Answering Questions Using Advanced Semantics and Probabilistic Inference</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we argue that access to rich semantic structures derived from questions and answers will enable both the retrieval of more accurate answers to simple questions and enable inference processes that explain the validity and contextual coverage of answers to complex questions. Processing complex questions involves the identifications of several forms of complex semantic structures. Answer Extraction is performed by recognizing event inter-relationships and by inferring over multiple sentences and texts, using background knowledge.</Paragraph>
+</Section>
+</Paper>
+

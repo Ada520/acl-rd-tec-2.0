@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-1040">
+<Title>Bilingual Knowledge Acquisition from Korean-English Parallel Corpus Using Alignment Method ( Korean-English Alignment at Word and Phrase Level )</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper snggests a method to align Korean-English parallel corpus. '1?he structural dissimilarity between Korean and Indo-European languages requires more flexible measures to evaluate the alignment candidates between the bilingual units than is used to handle the pairs of Indo-European languages. The flexible measure is intended to capture the dependency between bilingual items that can occur in different units according to different ordering rules. The proposed method to accomplish Korean-English aligmnent takes phrases as an alignment unit that is a departure from the existing methods taking words as the unit. Phrasal alignment avoids the problem of alignment units and appease the problem of ordering mismatch. The parameters are estimated using the EM algorithm. The proposed alignment algorithm is based on dynamic programming. In the experimenl, s carried out on 253,000 English words and its Korean translations the proposed method achived 68.7% in accuracy at phrase level and 89.2% in accuracy with the bilingual dictionary induced from the alignment. 'File result of the alignment may lead to richer bilingual data than can be derived from only word-level aligments.</Paragraph>
+</Section>
+</Paper>
+

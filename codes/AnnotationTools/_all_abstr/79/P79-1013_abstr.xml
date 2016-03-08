@@ -1,0 +1,28 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P79-1013">
+<Title>The Use of Ooject-Specl flc Knowledge in Natural Language Processing</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. INTRODUCTION
+</SectionTitle>
+<Paragraph position="0"> it is widely reco~nlzed that the process of understandln~ natural language texts cannot be accomplished without accessin~ mundane Knowledge about the world \[2, 4, 6, 7\]. That is, in order to resolve ambiguities, form expectations, and make causal connections between events, we must make use of all sorts of episodic, stereotypic and factual knowledge.</Paragraph>
+<Paragraph position="1"> In this paper, we are concerned with the way functional knowledge of objects, and associations between objects can be exploited in an understandln~ system.</Paragraph>
+<Paragraph position="2"> Consider the sentence (1) Jonn opened the Oottle so he could pour the wine. Anyone readin~ this sentence makes assumptions about what happened which go far beyond what is stated. For example, we assume without hesitation that the wine beln~ poured came from inside the bottle. Although this seems quite obvious, there are many other interpretations wnlcn are equally valid. Jonn could be fillin~ the bottle rather than emptyln~ the wine out of it. In fact, it need not be true that the wine ever contacted the bottle. There may have been some other reason Jonn had to open the bottle first. Yet, in the absence of a larger context, some causal inference mechanism forces us (as human understanders) to find the common interpretation in the process of connecting these two events causally.</Paragraph>
+<Paragraph position="3"> In interpreting this sentence, we also rely on an understanding of what it means for a bottle to be &amp;quot;open&amp;quot;. Only by usin~ Knowledge of what is possible when a bottle Is open are able we understand why John had to open the Pottle to pour the wine out of It.</Paragraph>
+<Paragraph position="4"> Stron~ associations are at work here nelpin~ us to make these connections. A sentence such as (2) John closed the bottle and poured the wine.</Paragraph>
+<Paragraph position="5"> appears to be self contradictory only because we assume that the wine was in the bottle before applyln~ our knowledge of open and closed bottles to the situation.</Paragraph>
+<Paragraph position="6"> Only then do we realize that closing the bottle makes it impossible to pour the wine.</Paragraph>
+<Paragraph position="7"> Now consider the sentence (3) John turned on the faucet and filled his glass.</Paragraph>
+<Paragraph position="8"> When reading this, we immediately assume that John filled his glass with water from the faucet. Yet, not only is water never mentioned in the sentence, there is nothing there to explicitly relate turning on the faucet and filling the glass. The glass could conceivably be filled with milk from a carton. However, in the absence of some greater context which forces a different interpretation on us, we immediately assume that the glass is being filled with water from the faucet.</Paragraph>
+<Paragraph position="9"> Understanding each of these sentences requires that we make use of associations we have In memory between oPJects and actions commonly InvolvlnE those objects, as * This wore was supported in part by the Advanced</Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+Research Projects Agency of the Department of Defense
+</SectionTitle>
+<Paragraph position="0"> and monitored by the Office of Naval Research under contra:t N0001~-75-C-1111.</Paragraph>
+<Paragraph position="1"> well as relations between several different objects. This paper describes a computer program, OPUS (Object Primitive Understanding System) which constructs a representation of the meanings of sentences such as those above, including assumptions that a human understander would normally make, by accessin~ these types of associative memory structures. This stereotypic knowledge of physical objects Is captured in OPUS using Object Primitives \[5\]. Object Prlmitlves (or) were designed to act in conjunction with Scnank's conceptual dependency representational system \[11\]. The processes developed to perform conceptual analysis in OPUS involved the integration of a conceptual analyzer similar to RlesOec~'s ELl \[g\] with demon-like procedures for memory interaction and the introduction of object-related inferences.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-0841">
+<Title></Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+References
+</SectionTitle>
+<Paragraph position="0"> C. Baker and C. Fillmore and J. Lowe. The berkeley framenet project. COLING ACL.</Paragraph>
+<Paragraph position="1"> Daniel Gildea and Daniel Jurafsky. 2002. Automatic lebeling of semantic roles. Computational Linguistics. P. Kingsbury and M. Palmer and M. Marcus. Adding semantic annotation to the penn treebank. HLT.</Paragraph>
+<Paragraph position="2"> S. Pradhan and K. Hacioglu and V. Krugler and W. Ward and J. Martin and D. Jurafsky. 2003. Semantic role parsing: adding semantic structure to unstructured text. ICDM. M. Surdeanu et al. 2003. PRoceedings of ACL 2003.</Paragraph>
+</Section>
+</Paper>
+

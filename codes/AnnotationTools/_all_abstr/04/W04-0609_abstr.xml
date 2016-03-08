@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-0609">
+<Title>Towards Ontology-Based Natural Language Processing</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Conceptualising a domain has long been recognised as a prerequisite for understanding that domain and processing information about it. Ontologies are explicit specifications of conceptualisations which are now recognised as important components of information systems and information processing. In this paper, we describe a project in which ontologies are part of the reasoning process used for information management and for the presentation of information. Both accessing and presenting information are mediated via natural language and the ontologies are coupled with the lexicon used in the natural language component.</Paragraph>
+</Section>
+</Paper>
+

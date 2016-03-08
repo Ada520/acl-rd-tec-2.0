@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P88-1026">
+<Title>Lexicon and grammar in probabilistic tagging of written English.</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The paper describes the development of software for automatic grammatical ana\]ysi$ of unl~'Ui~, unedited English text at the Unit for Compm= Research on the Ev~li~h Language (UCREL) at the Univet~ of Lancaster. The work is ~n'nmtly funded by IBM and carried out in collaboration with colleagues at IBM UK (W'~) and IBM Yorktown Heights. The paper will focus on the lexicon component of the word raging system, the UCREL grammar, the datal~zlks of parsed sentences, and the tools that have been written to support developmem of these comlm~ems. ~ wozk has applications to speech technology, sl~lfing conectim, end other areas of natural lmlguage pngessil~ ~y, our goal is to provide a language model using transin'ca statistics to di.~.nbigu~ al.:mative 1~ for a speech .:a~nicim device.</Paragraph>
+</Section>
+</Paper>
+

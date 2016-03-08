@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-1814">
+<Title></Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+References
+</SectionTitle>
+<Paragraph position="0"> S. Ananiadou. 1994. A methodology for aotumatic term recognition. COLING.</Paragraph>
+<Paragraph position="1"> Beatrice Daille. 1996. Study and implementation of combined techniques for automatic extraction of terminology. In The balancing act: combining symbolic and statistica application to language. B. Daille. 2003. Terminology mining. In Pazienza, ed., Information extraction in the web era. Springer.</Paragraph>
+<Paragraph position="2">  T. Dunning. 1993. Accurate methods for the statistics of surprise and coincidence. Computational Linguistics. C. Jacquemin. 1996. A symbolic and surgical acquisition of terms through variation. In Riloff, Wermter, and Scheler, eds., In connectionist, statistical and symbolic approaches to learning for NLP. K. Kageura and T. Koyama. 2000. Terminology, vol. 6, no. 2. John Benjamins Publishing.</Paragraph>
+<Paragraph position="3"> K. Kageura and M. Yoshioka and T. Koyama. 2000. Towards a common testbed for corpus-based terminology: lexical units, POS information and their utilisation. 1st International symposium on advanced informatics (AdInfo2000). Y. Matsumoto and A. Kitauchi and T. Yamashita and Y. Hirano. 1999. Japanese morphological analysis system ChaSen 2.0 users manual.</Paragraph>
+<Paragraph position="4"> H. Nakagawa. 2000. Automatic term recognition based on statistics of compound nouns. Terminology.</Paragraph>
+<Paragraph position="5"> A. Savary. 2001. Etude comparative de deux ouils d'acquisition de termes complexes. Terminology and Artifical Intelligence TIA.</Paragraph>
+</Section>
+</Paper>
+

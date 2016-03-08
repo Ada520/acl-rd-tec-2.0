@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W05-1621">
+<Title>Using a Corpus of Sentence Orderings Defined by Many Experts to Evaluate Metrics of Coherence for Text Structuring</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper addresses two previously unresolved issues in the automatic evaluation of Text Structuring (TS) in Natural Language Generation (NLG). First, we describe how to verify the generality of an existing collection of sentence orderings defined by one domain expert using data provided by additional experts. Second, a general evaluation methodology is outlined which investigates the previously unaddressed possibility that there may exist many optimal solutions for TS in the employed domain.</Paragraph>
+<Paragraph position="1"> This methodology is implemented in a set of experiments which identify the most promising candidate for TS among several metrics of coherence previously suggested in the literature.1</Paragraph>
+</Section>
+</Paper>
+

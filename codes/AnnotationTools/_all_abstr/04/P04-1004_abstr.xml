@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P04-1004">
+<Title>Analysis of Mixed Natural and Symbolic Language Input in Mathematical Dialogs</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Discourse in formal domains, such as mathematics, is characterized by a mixture of telegraphic natural language and embedded (semi-)formal symbolic mathematical expressions. We present language phenomena observed in a corpus of dialogs with a simulated tutorial system for proving theorems as evidence for the need for deep syntactic and semantic analysis. We propose an approach to input understanding in this setting. Our goal is a uniform analysis of inputs of different degree of verbalization: ranging from symbolic alone to fully worded mathematical expressions.</Paragraph>
+</Section>
+</Paper>
+

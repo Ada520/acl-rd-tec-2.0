@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1137">
+<Title>Identification of Confusable Drug Names: A New Approach and Evaluation Methodology</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper addresses the mitigation of medical errors due to the confusion of sound-alike and look-alike drug names. Our approach involves application of two new methods-one based on orthographic similarity (&amp;quot;lookalike&amp;quot;) and the other based on phonetic similarity (&amp;quot;sound-alike&amp;quot;). We present a new recall-based evaluation methodology for determining the effectiveness of different similarity measures on drug names. We show that the new orthographic measure (BI-SIM) outperforms other commonly used measures of similarity on a set containing both look-alike and sound-alike pairs, and that the feature-based phonetic approach (ALINE) outperforms orthographic approaches on a test set containing solely sound-alike confusion pairs. However, an approach that combines several different measures achieves the best results on both test sets.</Paragraph>
+</Section>
+</Paper>
+

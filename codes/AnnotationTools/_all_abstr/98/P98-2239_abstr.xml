@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-2239">
+<Title>Word Association and MI-Trigger-based Language Modeling</Title>
+<Section position="1" start_page="0" end_page="1465" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> There exists strong word association in natural language. Based on mutual information, this paper proposes a new MI-Trigger-based modeling approach to capture the preferred relationships between words over a short or long distance. Both the distance-independent(DI) and distancedependent(DD) MI-Trigger-based models are constructed within a window. It is found that proper MI-Trigger modeling is superior to word bigram model and the DD MI-Trigger models have better performance than the DI MI-Trigger models for the same window size. It is also found that the number of the trigger pairs in an MI-Trigger model can be kept to a reasonable size without losing too much of its modeling power.</Paragraph>
+<Paragraph position="1"> Finally, it is concluded that the preferred relationships between words are useful to language disambiguation and can be modeled efficiently by the MI-Trigger-based modeling approach.</Paragraph>
+<Paragraph position="2"> Introduction In natural language there always exist many preferred relationships between words.</Paragraph>
+<Paragraph position="3"> Lexicographers always use the concepts of collocation, co-occurrence and lexis to describe them. Psychologists also have a similar concept: word association. Two highly associated word pairs are &amp;quot;not only/but also&amp;quot; and &amp;quot;doctor/nurse&amp;quot;. Psychological experiments in \[Meyer+75\] indicated that the human's reaction to a highly associated word pair was stronger and faster than that to a poorly associated word pair.</Paragraph>
+<Paragraph position="4"> The strength of word association can be measured by mutual information. By computing mutual information of a word pair, we can get many useful preference information from the corpus, such as the semantic preference between noun and noun(e.g.&amp;quot;doctor/nurse&amp;quot;), the particular preference between adjective and noun(e.g.&amp;quot;strong/currency'), and solid structure (e.g.&amp;quot;pay/attention&amp;quot;)\[Calzolori90\]. These information are useful for automatic sentence disambiguation. Similar research includes  \[Rosenfeld94\].</Paragraph>
+<Paragraph position="5"> In Chinese, a word is made up of one or more characters. Hence, there also exists preferred relationships between Chinese characters.</Paragraph>
+<Paragraph position="6"> \[Sproat+90\] employed a statistical method to group neighboring Chinese characters in a sentence into two-character words by making use of a measure of character association based on mutual information. Here, we will focus instead on the preferred relationships between words.</Paragraph>
+<Paragraph position="7"> The preference relationships between words can expand from a short to long distance. While N-gram models are simple in language modeling and have been successfully used in many tasks, they have obvious deficiencies. For instance, N-gram models can only capture the short-distance dependency within an N-word window where currently the largest practical N for natural language is three and many kinds of dependencies in natural language occur beyond a three-word window. While we can use conventional N-gram models to capture the short-distance dependency, the long-distance dependency should also be exploited properly.</Paragraph>
+<Paragraph position="8"> The purpose of this paper is to study the preferred relationships between words over a short or long distance and propose a new modeling approach to capture such phenomena in the Chinese language.</Paragraph>
+<Paragraph position="9">  This paper is organized as follows: Section 1 defines the concept of trigger pair. The criteria of selecting a trigger pair are described in Section 2 while Section 3 describes how to measure the strength of a trigger pair. Section 4 describes trigger-based language modeling. Section 5 gives one of its applications: PINYIN-to-Character Conversion. Finally, a conclusion is given.</Paragraph>
+</Section>
+</Paper>
+

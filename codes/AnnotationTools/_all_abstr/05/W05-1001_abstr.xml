@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W05-1001">
+<Title>Data Homogeneity and Semantic Role Tagging in Chinese</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper reports on a study of semantic role tagging in Chinese in the absence of a parser. We tackle the task by identifying the relevant headwords in a sentence as a first step to partially locate the corresponding constituents to be labelled. We also explore the effect of data homogeneity by experimenting with a textbook corpus and a news corpus, representing simple data and complex data respectively.</Paragraph>
+<Paragraph position="1"> Results suggest that while the headword location method remains to be improved, the homogeneity between the training and testing data is important especially in view of the characteristic syntax-semantics interface in Chinese. We also plan to explore some class-based techniques for the task with reference to existing semantic lexicons, and to modify the method and augment the feature set with more linguistic input.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A92-1036">
+<Title>Portable Natural Language Generation using SPOKESMAN</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract 1
+</SectionTitle>
+<Paragraph position="0"> This paper reports on the SPOKESMAN natural language generation system, which is a domain independent text generator designed to incrementally produce text for an underlying application program. This work is a direct outgrowth of the work we reported on at the last ACL Applied Conference in 1988, where we connected an application program directly to the linguistic component, Mumble-86. The major addition has been a new component to the system, a text planner that provides the capability to compose the utterance incrementally. The central feature of the text planning component is a new level of representation that both captures more linguistic generalizations and makes the system more portable, so that we can easily interface to different domains and different kinds of application programs. This larger system is called &amp;quot;Spokesman&amp;quot;, as it acts as the mouthpiece for a number of application programs.</Paragraph>
+</Section>
+</Paper>
+

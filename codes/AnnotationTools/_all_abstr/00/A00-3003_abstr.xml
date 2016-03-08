@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A00-3003">
+<Title>Generating Text with a Theorem Prover</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The process of documenting designs is tedious and often error-prone. We discuss a system that automatically generates documentation for the single step transition behavior of Statecharts with particular focus on the correctness of the result in the sense that the document will present all and only the facts corresponding to the design being documented.</Paragraph>
+<Paragraph position="1"> Our approach is to translate the Statechart into a propositional formula, then translate this formula into a natural language report. In the later translation pragmatic effects arise due to the way the information is presented. Whereas such effects can be difficult to quantify, we account for them within an abstract framework by applying a series of transformations on the structure on the report while preserving soundness and completeness of the logical content. The result is an automatically generated hypertext report that is both logically correct and, to a relatively high degree of confidence, free of misleading implicatures.</Paragraph>
+</Section>
+</Paper>
+

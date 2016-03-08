@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-0503">
+<Title>The Problem of Precision in Restricted-Domain Question-Answering. Some Proposed Methods of Improvement</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper discusses some main difficulties of restricted-domain question-answering systems, in particular the problem of precision performance. We propose methods for improving the precision, which can be classified into two main approaches: improving the Information Retrieval module, and improving its results. We present the application of these methods in a real QA system for a large company, which yielded very good results.</Paragraph>
+</Section>
+</Paper>
+

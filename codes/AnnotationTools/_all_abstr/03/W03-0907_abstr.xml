@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-0907">
+<Title>Story understanding through multi-representation model construction</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present an implemented model of story understanding and apply it to the understanding of a children's story. We argue that understanding a story consists of building multi-representation models of the story and that story models are efficiently constructed using a satisfiability solver. We present a computer program that contains multiple representations of commonsense knowledge, takes a narrative as input, transforms the narrative and representations of commonsense knowledge into a satisfiability problem, runs a satisfiability solver, and produces models of the story as output.</Paragraph>
+<Paragraph position="1"> The narrative, models, and representations are expressed in the language of Shanahan's event calculus.</Paragraph>
+</Section>
+</Paper>
+

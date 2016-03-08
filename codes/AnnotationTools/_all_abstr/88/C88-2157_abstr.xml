@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C88-2157">
+<Title>Colloeational Analysis in Japanese Text Input</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+238-03 JAPAN
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper proposes a new disambiguation method for Japanese text input. This method evaluates candidate sentences by measuring the number of Word Co-occurrence Patterns (WCP) included in the candidate sentences. An automatic WCP extraction method is also developed. An extraction experiment using the example sentences from dictionaries confirms that WCP can be collected automaticMly with an accuracy of 98.7% using syntactic analysis and some heuristic rules to eliminate erroneous extraction. Using this method, about 305,000 sets of WCP are collected. A co-occurrence pattern matrix with semantic categories is built based on these WCP. Using this matrix, the mean number of candidate sentences in Kana.-to-Kanji translation is reduced to about 1/10 of those fi-om existing morphological methods.</Paragraph>
+<Paragraph position="1"> 1.Introduction For keyboard input of Japanese, Kana-to-kanji translation method \[Kawada79\] \[Makino80\] \[Abe86\] is the most popular technique. In this method, Kana input sentences are translated automatically into Kanji-Kana sentences. However, non-segmentcd Kana input is highly ambiguous, be..</Paragraph>
+<Paragraph position="2"> cause of the segmentation ambiguities of Kana input into morphemes, and homonym ambiguities. Some research has been carried out mainly to overcome homonym ambiguity using a word usage dictionary \[Makino80\] and by using case grammar \[Abe86\].</Paragraph>
+<Paragraph position="3"> A new technique named collocational analysis method, is proposed to overcome both ambiguities. This evaluates the certainty of candidate sentences by measuring the number of co-occurrence patterns between word paix~. It is used in addition to the usual morphological analysis. To realize this, it is essential to build a dictionary which can reflect Word Co-occurrence Patterns (WCP). In English processing research, there has been an attempt \[Grishman86\] to collect semi-automatically sublanguage selectional patterns. In Japanese processing research, there have been attempts \[Shirai86\] \[Tanaka86\] to collect combinations of words with this kind of relationship, eittmr completely- or semi-automatically. These two attempts did not provide a dictionary for practical use.</Paragraph>
+<Paragraph position="4"> A new method is proposed for building a dictionary which accumulates WCP. The first feature of this method is the collection of WCP from the common combination of two words having a dependency relationship in a sentence, because these common combinations will most likely reoccur in future texts.</Paragraph>
+<Paragraph position="5"> In this method, it is important to identify dependency relationships between word pai~s, instead of identifying, the whole dependency structure of the sentence. For this purpose, Dependency Localization Analysis (DLA) is used. This identifies the word pairs having a definite dependency relationship using syntactic analysis and some heuristic rules. This paper will first describe eoUocational analysis, a new concept in Kana-to-Kanji translation, then the compilation of WCP dictionary, next the translation Mgorithm and finMly translation experimental results.</Paragraph>
+</Section>
+</Paper>
+

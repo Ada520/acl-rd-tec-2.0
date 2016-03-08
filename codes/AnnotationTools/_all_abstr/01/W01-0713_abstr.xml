@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W01-0713">
+<Title>Unsupervised Induction of Stochastic Context-Free Grammars using Distributional Clustering</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> An algorithm is presented for learning a phrase-structure grammar from tagged text. It clusters sequences of tags together based on local distributional information, and selects clusters that satisfy a novel mutual information criterion. This criterion is shown to be related to the entropy of a random variable associated with the tree structures, and it is demonstrated that it selects linguistically plausible constituents. This is incorporated in a Minimum Description Length algorithm. The evaluation of unsupervised models is discussed, and results are presented when the algorithm has been trained on 12 million words of the British National Corpus.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="I05-3004">
+<Title>Chinese Classifier Assignment Using SVMs</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In Chinese, nouns need numeral classifiers to express quantity. In this paper, we explore the relationship between classifiers and nouns. We extract a set of lexical, syntactic and ontological features and the corresponding noun-classifier pairs from a corpus and then train SVMs to assign classifers to nouns. We analyse which features are most important for this task.</Paragraph>
+</Section>
+</Paper>
+

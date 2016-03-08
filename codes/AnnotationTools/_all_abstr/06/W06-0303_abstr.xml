@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-0303">
+<Title>Sydney, July 2006. c(c)2006 Association for Computational Linguistics A System for Summarizing and Visualizing Arguments in Subjective Documents: Toward Supporting Decision Making</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> On the World Wide Web, the volume of subjective information, such as opinions and reviews, has been increasing rapidly.</Paragraph>
+<Paragraph position="1"> The trends and rules latent in a large set of subjective descriptions can potentially be useful for decision-making purposes. In this paper, we propose a method for summarizing subjective descriptions, specifically opinions in Japanese. We visualize the pro and con arguments for a target topic, such as &amp;quot;Should Japan introduce the summertime system?&amp;quot; Users can summarize the arguments about the topic in order to choose a more reasonable standpoint for decision making. We evaluate our system, called &amp;quot;OpinionReader&amp;quot;, experimentally.</Paragraph>
+</Section>
+</Paper>
+

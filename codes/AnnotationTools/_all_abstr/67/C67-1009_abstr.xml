@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C67-1009">
+<Title>EXPERIMENTS WITH A POWERFUL PARSER</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+EXPERIMENTS WITH A POWERFUL PARSER
+</SectionTitle>
+<Paragraph position="0"> This paper describes a sophisticated syntacticanalysis program for the IBM 7040/44 computer and discusses some of the problems which it brings to light. Basically the program is a nondeterministic device which applies unrestricted rewriting rules to a family of symbol strings and delivers as output all the strings that can be derived from members of the initial family by means of the rules provided. A subsidiary mechanism deals with the relation of dominance, in the sense common in linguistics. This makes it possible for rules to refer to complete or partial syntactic structures, or P-markers, so that the program can be used at least to some extent for transformational analysis.</Paragraph>
+<Paragraph position="1"> A program of this kind, which is intended for analysing natural languages, must be capable of operating on a family of strings as a single unit because of the grammatical ambiguity of words. Take, for example, the famous sentence &amp;quot;Time flies like an arrow.&amp;quot; These five words are not, themselves, the primary data on which a parsing program can be expected to operate. Instead, each word is replaced by one or more symbols representing the grammatical categories to which it belongs. The assignments for this example might be somewhat as follows: Wor d Grammatical category  Singular noun, adjective.</Paragraph>
+<Paragraph position="2"> Taking one category symbol for each word, it is possible to form 30 different strings, preserving the order of the original sentence. These 30 strings constitute the family on which the program would operate if set to analyze this sentence.</Paragraph>
+<Paragraph position="3"> The program is said to perform as a non-deterministic device because whenever two mutually incompatible rules are applicable to the same string neither is given any priority; both are applied, and the resulting strings developed independently. Given the string &amp;quot;A B C&amp;quot; and the rules</Paragraph>
+</Section>
+</Paper>
+

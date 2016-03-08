@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H01-1068">
+<Title>A Three-Tiered Evaluation Approach for Interactive Spoken Dialogue Systems</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> We describe a three-tiered approach for evaluation of spoken dialogue systems. The three tiers measure user satisfaction, system support of mission success and component performance.</Paragraph>
+<Paragraph position="1"> We describe our use of this approach in numerous fielded user studies conducted with the U.S. military.</Paragraph>
+</Section>
+</Paper>
+

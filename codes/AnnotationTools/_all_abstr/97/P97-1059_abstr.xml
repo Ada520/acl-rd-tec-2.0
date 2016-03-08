@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P97-1059">
+<Title>Finite State Transducers Approximating Hidden Markov Models</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes the conversion of a Hidden Markov Model into a sequential transducer that closely approximates the behavior of the stochastic model. This transformation is especially advantageous for part-of-speech tagging because the resulting transducer can be composed with other transducers that encode correction rules for the most frequent tagging errors.</Paragraph>
+<Paragraph position="1"> The speed of tagging is also improved. The described methods have been implemented and successfully tested on six languages.</Paragraph>
+</Section>
+</Paper>
+

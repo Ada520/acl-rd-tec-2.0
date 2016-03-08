@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H94-1104">
+<Title>NIST-ARPA Interagency Agreement: Human Language Technology Program</Title>
+<Section position="1" start_page="0" end_page="461" type="abstr">
+<SectionTitle>
+PROJECT GOALS
+</SectionTitle>
+<Paragraph position="0"> 1. To coordinate the design, development and distribution of speech and natural language corpora for the ARPA Spoken Language research community, and the use of these corpora for technology development and evaluation.</Paragraph>
+<Paragraph position="1"> 2. To design, coordinate the implementation of, and analyze the results of performance assessment benchmark tests for ARPA's speech recognition and spoken language understanding systems.</Paragraph>
+<Paragraph position="2"> RECENT RESULTS 1. Participated, with SRI International, in annotation and &amp;quot;bug fixes&amp;quot; for the ATIS MADCOW-colIected corpora. 2. Installed BBN-developed and SRI-developed ATIS technology at NIST, and used this data to collect test and training data using subjects recruited from the Gaithersburg, MD area.</Paragraph>
+<Paragraph position="3"> 3. Produced speech corpora on recordable and pressed CD-ROM media in collaboration with the Linguistic Data Consortium.</Paragraph>
+<Paragraph position="4"> 4. Participated in discussions regarding implementation of the Semantic Evaluation (SemEval) glass box test protocols. 5. Prepared for, and implemented benchmark tests for the Wall Street Journal-based Continuous Speech Recognition (WSJ-CSR) corpus using the Hub-and-Spoke test paradigm and for the 46-city ATIS corpus.</Paragraph>
+<Paragraph position="5"> 2. Participate in the ATIS SemEval effort, probably including the development of detailed test and reporting protocols for a &amp;quot;dry run&amp;quot; of an ATIS SemEval test. 3. Collect additional ATIS data at NIST as appropriate. 4. Continue to participate in the development of improved speech transcription and scoring procedures, in ATIS principles of Interpretation documents, and in cooperation with the annotators at SRI, in &amp;quot;bug-report adjudication&amp;quot;. 5. Review the use of phonologically-motivated string alignment software for use in scoring speech recognition system output.</Paragraph>
+<Paragraph position="6"> 6. Prepare for and implement benchmark tests in the WSJ-CSR and ATIS domains in the November 1994 time frame. 7. Participate in the endeavors of the CCCC and MADCOW communities...</Paragraph>
+<Paragraph position="7"> PLANS 1. Continue to collaborate with the LDC, its data collection  and annotation contractors, and the MADCOW community with regard to data collection, annotation, screening and quality control procedures, and (as appropriate), to produce CD-ROMs for early release within the community of test participants.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E87-1024">
+<Title>e Parsing into Discourse Object Descriptions</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> This paper reports work on the design of a natural language interface with a limited dialogue capability. It is argued that (i) The interpretation of the input is preferably represented as a structure of Discourse Object Descriptions (DODs); (ii) The DODs must be determined on the basis of different types of knowledge such as grammatical knowledge, object type deirmitions and knowledge about existing discourse objects and their discourse status; (iii) The different types of knowledge are stored separately but integrated in the interpretation process which is based on constraints.</Paragraph>
+</Section>
+</Paper>
+

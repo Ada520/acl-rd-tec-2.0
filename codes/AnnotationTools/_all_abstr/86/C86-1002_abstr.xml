@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C86-1002">
+<Title>An Empirically Based Approach Towards a System Of Semantic Features</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A major problem in a~chine translation is the semantic description of lexical units which should be based on a semantic system that is bot\]l coherent and operationalized to the greatest possible degreedeg This is to guarantee consistency between lexical unii~ coded by lexicogral~lers. This article introduces a generating device for achieving well-formed semantic feature expressions.</Paragraph>
+<Paragraph position="1"> I. T ntention and procedure Empirical ~xk with the verbs of the ES~rpus as well as experience in theoretical semantics, and last but not least, the consulting of the semantic feature inventories of other machine translation systems (MII.~AL, JAPAN, SYSTRAN, SUSY) l~ns resulted in the necessity of an elaboration of the proposal for semantic features made in EIB-3 (EUROTRA LIN-GUI~YfC SPECIFICATIONS). These feature inventories as well as a large amount of already existing, partly fairly traditional work on semantic feature systems of linguistics and philosophy (CHAFE, FRIEDRICH, PAIMER, VENDLER) , of information sciences (DAI~BEI~), and work in the field of cog= nitive linguistics and artificial intelligence (G.Ao MI~, G.A. MI~ &amp; P.N. JOHNSON-IAIRD, G.</Paragraph>
+<Paragraph position="2"> LAKOFF, R. LANGACKER, B. COHEN, W.R. GARNER,</Paragraph>
+</Section>
+</Paper>
+

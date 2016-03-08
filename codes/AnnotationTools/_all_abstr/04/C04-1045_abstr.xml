@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1045">
+<Title>Improving Word Alignment Quality using Morpho-syntactic Information</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we present an approach to include morpho-syntactic dependencies into the training of the statistical alignment models. Existing statistical translation systems usually treat different derivations of the same base form as they were independent of each other. We propose a method which explicitly takes into account such interdependencies during the EM training of the statistical alignment models. The evaluation is done by comparing the obtained Viterbi alignments with a manually annotated reference alignment. The improvements of the alignment quality compared to the, to our knowledge, best system are reported on the German-English Verbmobil corpus.</Paragraph>
+</Section>
+</Paper>
+

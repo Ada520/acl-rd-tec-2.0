@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-2312">
+<Title>Resolution of Lexical Ambiguities in Spoken Dialogue Systems</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The development of conversational multi-domain spoken dialogue systems poses new challenges for the reliable processing of less restricted user utterances. Unlike in controlled and restricted dialogue systems a simple one-to-one mapping from words to meanings is no longer feasible here. In this paper two different approaches to the resolution of lexical ambiguities are applied to a multi-domain corpus of speech recognition output produced from spontaneous utterances in a spoken dialogue system. The resulting evaluations show that all approaches yield significant gains over the majority class baseline performance of .68, i.e. f-measures of .79 for the knowledge-driven approach and .86 for the supervised learning approach. null</Paragraph>
+</Section>
+</Paper>
+

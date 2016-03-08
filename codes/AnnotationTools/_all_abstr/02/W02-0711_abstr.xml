@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-0711">
+<Title></Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+References
+</SectionTitle>
+<Paragraph position="0"> 1 Jeffrey Allen and Christopher Hogan. 1998. Expanding lexical coverage of parallel corpora for the ebmt approach. In First Conference on Language Resources and Evaluation (LREC '98), pages 747--754, Granada, Spain, May.</Paragraph>
+<Paragraph position="1"> 2 A. Black and K. Lenzo. 2001. Optimal data selection for unit selection synthesis. In 4rd ESCA Workshop on Speech Synthesis, Scotland.</Paragraph>
+<Paragraph position="2"> 3 A. Black, P. Taylor, and R. Caley. 1998. The Festival Speech Synthesis System. http://festvox.org/festival.</Paragraph>
+<Paragraph position="3"> 4 A. Black, R. Brown, R. Frederking, K. Lenzo, J. Moody, A. Rudnicky, R. Singh, and E. Steinbrecher. 2002a. Rapid devlopement of speech-to-speech translation systems. Submitted to ICSLP2002. 5 A. Black, R. Brown, R. Frederking, R. Singh, J. Moody, and E. Steinbrecher. 2002b. TONGUES: Rapid Development of a Speech-to-Speech Translation System. In Proceedings of HLT-2002, San Diego, CA, USA. 6 R. Brown and R. Frederking. 1995. Applying Statistical English Language Modeling to Symbolic Machine Translation. In Proceedings of the Sixth International Conference on Theoretical and Methodological Issues in Machine Translation (TMI-95), pages 221--239. 7 Ralf D. Brown, Example-Based Machine Translation in the Pangloss system, Proceedings of the 16th conference on Computational linguistics, August 05-09, 1996, Copenhagen, Denmark 8 Robert Frederking , Sergei Nirenburg, Three heads are better than one, Proceedings of the fourth conference on Applied natural language processing, October 13-15, 1994, Stuttgart, Germany 9 Robert Frederking , Alexander Rudnicky , Christopher Hogan , Kevin Lenzo, Interactive Speech Translation in the Diplomat Project, Machine Translation, v.15 n.1-2, p.27-42, June 2000 10 R. Frederking, A. Black, R. Brown, J. Moody, and E. Steinbrecher. 2002. Field Testing the Tongues Speech-to-Speech Machine Translation System. LREC 2002.</Paragraph>
+<Paragraph position="4"> 11 Keiko Horiguchi and Alexander Franz. 1997. A formal basis for spoken language translation by analogy. In Steven Krauwer et al., editors, Proceedings of the Spoken Language Translation Workshop, pages 32--39, Madrid, Spain, July. ELSNET. 12 X. Huang, F. Alleva, H.-W. Hon, K.-F. Hwang, M.-Y. Lee, and R. Rosenfeld. 1992. The SPHINX-II Speech Recognition System: an overview. Computer Speech and Language, 7(2):137--148.</Paragraph>
+</Section>
+</Paper>
+

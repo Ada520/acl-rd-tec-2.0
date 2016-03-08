@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W93-0110">
+<Title>Acquiring Predicate-Argument Mapping Information from Multilingual Texts</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper discusses automatic acquisition of predicate-argument mapping in- formation from multilingual texts. The lexicon of our NLP system abstracts the language-dependent portion of predicate-argument mapping information from the core meaning of verb senses (i.e. semantic concepts as defined in the knowledge base). We represent this mapping information in terms of cross-linguistically generalized mapping types called situation types and word sense-specific idiosyncrasies. This representation has enabled us to automatically acquire predicate-argument map- ping information, specifically situation types and idiosyncrasies, for verbs in English, Spanish, and Japanese texts.</Paragraph>
+</Section>
+</Paper>
+

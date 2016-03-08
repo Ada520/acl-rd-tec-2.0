@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P99-1045">
+<Title>Less is more: Eliminating index terms from subordinate clauses</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We perform a linguistic analysis of documents during indexing for information retrieval. By eliminating index terms that occur only in subordinate clauses, index size is reduced by approximately 30% without adversely affecting precision or recall. These results hold for two corpora: a sample of the world wide web and an electronic encyclopedia.</Paragraph>
+</Section>
+</Paper>
+

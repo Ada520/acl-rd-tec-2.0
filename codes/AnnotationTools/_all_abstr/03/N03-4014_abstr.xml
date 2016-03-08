@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N03-4014">
+<Title>Semi-automatic Composition of Web Services using Semantic Descriptions. Accepted to Web Services: Modeling, Architecture and Infrastructure workshop</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 The IR2P Prototype
+</SectionTitle>
+<Paragraph position="0"> The DARPA IXO mission is to develop &amp;quot;systems for real-time sensing, exploitation, and decision making in a rich tactical environment&amp;quot;. The mission includes the development of individual technologies for sensors, sensor exploitation and command/control as well as the technology of information integration. Our research focuses on how to integrate distributed services in a dynamic networked environment to support IXO applications. This dynamic networked environment should include the following capabilities (DARPA, 2002): * Information users should have scalable dynamically changing subscription services to heterogeneous information services; * Information providers should have scalable publishing services for their dynamically changing information products; * Scalable intelligent middleware to dynamically broker, compose, and manage the intermediate services necessary to connect information users to the right information products at the right time.</Paragraph>
+<Paragraph position="1"> While some of these capabilities can be realized with existing technologies, several challenging problems, particularly in the areas of scalability, semantic interoperability and dynamic extensibility, may need 5 or 10 years basic research efforts to adequately address. The Information Integration Research Prototype (I2RP) we describe is a vehicle for exploring which new paradigms and frameworks are most promising for future investment while calibrating what existing technologies can do today (Jiang et al., 2002). This demonstration illustrates the I2RP architecture and the underlying technology approaches. In six months, we implemented an extensible prototype system with basic capability as a proof-of-concept to show some fundamental new ideas for implementing next generation dynamic information integration systems.</Paragraph>
+</Section>
+</Paper>
+

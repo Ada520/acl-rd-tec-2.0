@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-3016">
+<Title>Structured Meanings in Computational Linguistics</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+22 March 1990
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> Many natural language processing systems employ truth conditional knowledge representations (%ret)resentations' , etc.) to represent meanings of natarm language expressions. T-representations have their strong and their weak sides. A strong side is logic: a relation of logical consequence can be de-.</Paragraph>
+<Paragraph position="1"> fined between such representations. A weak side is expressive power: the capacity of t-representations to convey the subtleties of natural language is limited. For instance, let SL be a sentence that is true on purely logical grounds; then it is predicted ttmt any sentence S is synonymous with &amp;quot;S and SL&amp;quot;. This deficiency comes out clearest in propositional attitude constructions, i.e. constructions of the form 'x V that S'; where V is an epistemic verb ('knows', ~believes') and S a sentence. Truth conditional accounts of nleaning (including intensional ones such an \[Montague 1974\]) predict wrongly ~hat anybody who knows that S is bound to also know that :'S and SL&amp;quot;, since t;he two sentences are t-indistinguishable (\[Peters and Saarinen 1982\]). The same lack of expressive power dooms, for example, automatic translation on the basis of t-representations to failure: t-representations contain only information that is relevant for the truth or falsity of a sentence, dismissing all other information, such an mood, topic-con:merit ,,,tructure, etc. (\[van Deemter-89\]).</Paragraph>
+<Paragraph position="2"> This paper investigates a remedy for the expressive poverty of t-representations, namely to let syntactic structure participate in the notion of meaning. This old and persistent idea (\[Carnap 1947}), \[Lewis 1972\], \[Cresswell 1985\]) was recently taken up in the Rosetta automatic translation program. We -will show how Rosetta's concept of meaning overcomes some weaknesses of earlier proposals and how a relation of logical consequence can be defined on t, op of it.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P90-1018">
+<Title>A SYNTACTIC FILTER ON PRONOMINAL ANAPHORA FOR SLOT GRAMMAR</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. INTRODUCTION
+</SectionTitle>
+<Paragraph position="0"> In this paper we present an implemented algorithm which filters intra-sentential relations of referential dependence between pronouns and putative NP antecedents (both full and pronominal NP's) for the syntactic representations provided by an English Slot Grammar parser (McCord 1989b). For each parse of a sentence, the algorithm provides a list o7 pronoun-NP pairs where referential dependence of the first element on the second is excluded by syntactic constraints. The coverage of the filter has roughly the same extension as conditions B and C Of Chomsky's (1981, 1986) binding theory, tlowever, the formulation of the algorithm is sign!f&amp;quot; icantly different from the conditions of the binding theory, and from proposed implementations of its conditions. In particular, the filter formulates constraints on pronominal anaphora in terms of the head-argument structures provided by Slot Grammar syntactic representations rather than the configurational tree relations, particularly c-command, .on which the binding theory relies. As a result, the statements of the algorithm apply straightforwardly, and without special provision, to a wide variety of constructions which recently proposed implementations of the binding theory do not handle without additional devices.</Paragraph>
+<Paragraph position="1"> Like the Slot Grammar whose input it applies to, the algorithm runs in Prolog, and it is stated in essentially declarative terms.</Paragraph>
+<Paragraph position="2"> In Section 2 we give a brief description of Slot Grammar, and the parser we are employing. The syntactic filter is presented in Section 3, first through a statement of six constraints, each of which is sufficient to rule out coreference, then through a detailed description of the algorithm which implements these constraints. We illustrate the/algorithm with examples of the lists of non-corelerential pairs which it provides for particular parses. In Section 4 we compare our approach to other proposals for syntactic filtering of pronominal anapliora which have appeared in the literature. We discuss Ilobbs algorithm, and we take UP two recent implementations of the binding theory. Finally, in Section 5 we discuss the integration of our filter into other systems of anaphora resolution. We indicate how it can be combined with a VP anaphora algorithm which we have recently completed. We also outline the incorporation of our algorithm into LODUS (Bemth 1989), a system for discourse representation. null</Paragraph>
+</Section>
+</Paper>
+

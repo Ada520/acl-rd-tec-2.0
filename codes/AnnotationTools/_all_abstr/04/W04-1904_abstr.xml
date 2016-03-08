@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-1904">
+<Title>Towards User-Adaptive Annotation Guidelines</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we address the issue of user-adaptivity for annotation guidelines. We show that different user groups have different needs towards these documents, a fact neglected by most of current annotation guidelines. We propose a formal specification of the structure of annotation guidelines, thus suggesting a minimum set of requirements that guidelines should fulfill. Finally, we sketch the use of these specifications by exemplary applications, resulting in user-specific guideline representations.</Paragraph>
+</Section>
+</Paper>
+

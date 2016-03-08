@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W05-1608">
+<Title>Incremental Generation of Multimodal Deixis Referring to Objects</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes an approach for the generation of multimodal deixis to be uttered by an anthropomorphic agent in virtual reality. The proposed algorithm integrates pointing and definite description. Doing so, the context-dependent discriminatory power of the gesture determines the content-selection for the verbal constituent. The concept of a pointing cone is used to model the region singled out by a pointing gesture and to distinguish two referential functions called object-pointing and region-pointing.</Paragraph>
+</Section>
+</Paper>
+

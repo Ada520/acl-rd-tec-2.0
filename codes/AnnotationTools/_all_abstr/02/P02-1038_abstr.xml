@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P02-1038">
+<Title>Discriminative Training and Maximum Entropy Models for Statistical Machine Translation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a framework for statistical machine translation of natural languages based on direct maximum entropy models, which contains the widely used source-channel approach as a special case. All knowledge sources are treated as feature functions, which depend on the source language sentence, the target language sentence and possible hidden variables.</Paragraph>
+<Paragraph position="1"> This approach allows a baseline machine translation system to be extended easily by adding new feature functions. We show that a baseline statistical machine translation system is significantly improved using this approach.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E95-1022">
+<Title>A syntax-based part-of-speech analyser</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> There are two main methodologies for constructing the knowledge base of a natural language analyser: the linguistic and the data-driven. Recent state-of-the-art part-of-speech taggers are based on the data-driven approach. Because of the known feasibility of the linguistic rule-based approach at related levels of description, the success of the data-driven approach in part-of-speech analysis may appear surprising. In this paper, a case is made for the syntactic nature of part-of-speech tagging. A new tagger of English that uses only linguistic distributional rules is outlined and empirically evaluated. Tested against a benchmark corpus of 38,000 words of previously unseen text, this syntax-based system reaches an accuracy of above 99%.</Paragraph>
+<Paragraph position="1"> Compared to the 95-97% accuracy of its best competitors, this result suggests the feasibility of the linguistic approach also in part-of-speech analysis.</Paragraph>
+</Section>
+</Paper>
+

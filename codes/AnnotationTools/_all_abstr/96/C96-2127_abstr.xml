@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-2127">
+<Title>An HPSG-Based Generator for German An Experiment in the Reusability of Linguistic Resources</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe the development of a generator for (\]erman built by reusing and adapting existing linguistic data and software. Reusability is crucial for the successful application of N I,P techniques to real-life problems since it helps to cut down on both development and adaptation effort. Itowever, combining resources not designed to work together is not trivial. We describe the problems arising when integrating three pre-existing resources (FUF, a unification-based generator, an HPS(~ (\]ramrnm' for (~errnan, and X2MorF, 7~ two-level morphology (;omponent) and the adaptat, ions necessary to come up with a wide coverage l;acticM generator for (\]erlnnn.</Paragraph>
+</Section>
+</Paper>
+

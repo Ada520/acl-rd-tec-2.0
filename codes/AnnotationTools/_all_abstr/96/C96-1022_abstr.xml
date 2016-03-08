@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-1022">
+<Title>Theory and practice of ambiguity labelling with a view to interactive disambiguation in text and speech MT</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In many contexts, automatic analyzers cannot fully disambiguate a sentence or an utterance reliably, but can produce ambiguous results containing the correct interpretation. It is useful to study vatious properties of these ambiguities in the view of subsequent total or partial interactive disambiguation. We have proposed a technique for labelling ambiguities in texts and in dialogue transcriptions, and experimented it on multilingual data. It has been first necessary to define formally the very notion of ambiguity relative to a representation system, as well as associated concepts such as ambiguity kernel, ambiguity scope, ambiguity occurrence.</Paragraph>
+<Paragraph position="1"> Keywords: interactive disambiguation, ambiguity labelling, ambiguity occurrence, ambiguity kernel Introduction We are interested in improving the quality of MT systems for monolinguals, where the input can be text or speech, no revision is possible, and the controlled language approach is not usable. In such contexts, the automatic analyzer cannot fully and reliably disambiguate a sentence or an utterance, and the best available heuristics don't select the correct results often enough. Complete or partial interactive disambiguation, foliowing a best possible automatic disambiguation, is an attractive way to raise quality and reliability.</Paragraph>
+<Paragraph position="2"> To develop good strategies for interactive disambiguation, it is useful to study vatious properties of the ambiguities unsolvable by state of the art analyzers.</Paragraph>
+<Paragraph position="3"> To conduct such studies, it is necessary to gather data, that is, to perform &amp;quot;ambiguity labelling&amp;quot; on texts and transcriptions of spoken dialogues. Our motivations and goals are explained in more detail in the first part. As the usual notion of ambiguity is too vague for our purpose, it is necessary to refine it. This is done in the second part, where we define formally the notion of ambiguity relative to a representation system, as well as associated concepts such as kernel, scope, occurrence and type of ambiguity. In the third part, we propose a format for ambiguity labelling, and illustrate it examples from a transcribed dialogue. This format is independent of the exact kind of output produced by any implemented analyzer, essentially because ambiguities are described with a view to generate human-oriented questions.</Paragraph>
+<Paragraph position="4"> We have experimented our technique on various kinds of dialogues and on some texts in several languages. In some cases, analysis results produced by automatic</Paragraph>
+</Section>
+</Paper>
+

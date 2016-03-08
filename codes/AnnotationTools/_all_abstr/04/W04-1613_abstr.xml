@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-1613">
+<Title>Letter-to-Sound Conversion for Urdu Text-to-Speech System</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Urdu is spoken by more than 100 million people across a score countries and is the national language of Pakistan (http://www.</Paragraph>
+<Paragraph position="1"> ethnologue.com). There is a great need for developing a text-to-speech system for Urdu because this population has low literacy rate and therefore speech interface would greatly assist in providing them access to information.</Paragraph>
+<Paragraph position="2"> One of the significant parts of a text-to-speech system is a natural language processor which takes textual input and converts it into an annotated phonetic string. To enable this, it is necessary to develop models which map textual input onto phonetic content. These models may be very complex for various languages having unpredictable behaviour (e.g. English), but Urdu shows a relatively regular behaviour and thus Urdu pronunciation may be modelled from Urdu text by defining fairly regular rules. These rules have been identified and explained in this paper.</Paragraph>
+</Section>
+</Paper>
+

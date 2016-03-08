@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-0713">
+<Title>Sharing Problems and Solutions for Machine Translation of Spoken and Written Interaction</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Examples from chat interaction are presented to demonstrate that machine translation of written interaction shares many problems with translation of spoken interaction. The potential for common solutions to the problems is illustrated by describing operations that normalize and tag input before translation. Segmenting utterances into small translation units and processing short turns separately are also motivated using data from chat.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A92-1014">
+<Title>Automatic Learning for Semantic Collocation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The real difficulty in development of practical NLP systems comes from the fact that we do not have effective means for gathering &amp;quot;knowledge&amp;quot;. In this paper, we propose an algorithm which acquires automatically knowledge of semantic collocations among &amp;quot;words&amp;quot; from sample corpora.</Paragraph>
+<Paragraph position="1"> The algorithm proposed in this paper tries to discover semantic collocations which will be useful for disambiguating structurally ambiguous sentences, by a statistical approach. The algorithm requires a corpus and minimum linguistic knowledge (parts-of-speech of words, simple inflection rules, and a small number of general syntactic rules).</Paragraph>
+<Paragraph position="2"> We conducted two experiments of applying the algorithm to different corpora to extract different types of semantic collocations. Though there are some unsolved problems, the results showed the effectiveness of the proposed algorithm. null</Paragraph>
+</Section>
+</Paper>
+

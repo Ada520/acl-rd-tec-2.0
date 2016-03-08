@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="X93-1013">
+<Title>TASKS, DOMAINS, AND LANGUAGES FOR INFORMATION EXTRACTION</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. TASKS
+</SectionTitle>
+<Paragraph position="0"> The information extraction tasks for the ARPA TIPSTER program center on automatically filling object-oriented data structures, called templates, with information extracted from free text in news stories (for discussion of templates and objects, see &amp;quot;Template Design for Information Extraction&amp;quot; in this volume). With text as input, the TIPSTER systems first detect whether the text contains relevant information. If so, the systems extract specific instances of generic types of information that correspond to each slot in the template and output that information by filling the template slots in an appropriate data representation.</Paragraph>
+<Paragraph position="1"> These slots are then scored by using an automatic scoring program with templates produced by human analysts that serve as answer keys. Human analysts also prepared development set templates for each domain, which served as training models for system developers (for discussion of the data preparation effort, see &amp;quot;Corpora and Data Preparation for Information Extraction&amp;quot; in this volume).</Paragraph>
+<Paragraph position="2"> With the TIPSTER program goal of demonstrating domain and language-independent algorithms, extraction tasks for two domains (joint ventures and microelectronics chip fabrication) for both English and Japanese were identified. The selection criteria for this pair of languages included linguistic diversity, availability of on-line resources, and availability of computer support resources.</Paragraph>
+<Paragraph position="3"> The four pairs include EJV, JJV, EME, and JME, abbreviated to reflect the language (E or J) and the domain (JV or ME). The tasks, domains and languages used for the informarion extraction portion of the TIPSTER program were also used for the Fifth Message Understanding Conference (MUC-5). In MUC-5, non-TIPSTER participants could choose to perform in one of the domains in Japanese and/or English. Of the TIPSTER participants, three performed in all four pairs, and the fourth in both domains but only in English.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,67 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C88-2167">
+<Title>An Efficient Execution Method for Rule-Based Machine Translation</Title>
+<Section position="2" start_page="825" end_page="828" type="abstr">
+<SectionTitle>
+4. Dynamic Rule Activation
+</SectionTitle>
+<Paragraph position="0"></Paragraph>
+<Section position="1" start_page="825" end_page="826" type="sub_section">
+<SectionTitle>
+4.1 Basic idea
+</SectionTitle>
+<Paragraph position="0"> ~ether the condition part of a rule is satisfied or  not ge~nerally depends on the results of preceding rules, q~e logical relationship an~0ng rules can be extracted by static analysis of the grammardeg A considerable application of unfruitful rules will be prevented by using the logical relationship among rules.</Paragraph>
+<Paragraph position="1"> First, we define an ~tecedent set for a condition. The anteoedent set for a condition is such a set of actions as: (i) carrying Out a member action causes the possibility that the condition is satisfied, and (ii) the condition is never satisfied if no men~xe.r action is carried out.</Paragraph>
+<Paragraph position="2"> Then, we define the inverse action for a/l antecedent set. The inverse action for an antecedent set is an action that cancels the effect of any me~ber action of the antecedent setdeg An antecedent set and its inverse action can be used to dynamically change the status of a rule as follows. A rule is activated when a member action of the antecedent set for the condition of the rule is carried out. A rule is deactivated when the inverse action is carried outdeg It is obviously assured that a rule is active whenever its condition may ~e satisfied. Thus~ the application of inactive rt116s can be skipped.</Paragraph>
+<Paragraph position="3"> More than one antecedeat set can usually be obtained for a oondition. The optimal antecedent set is one that minimizes the probability of activating a rule~ The optimal antecedent set is one of min~nal antecedent, sets. The minimal anteoedent set is such an antecede/It set as any subset is not an anteoedent set for the same condition. In order to choose the optimal antecedent set among ,~inimal anteoedent sets, occurrence statistics of actions should be gathered using a corpus of texT.</Paragraph>
+</Section>
+<Section position="2" start_page="826" end_page="827" type="sub_section">
+<SectionTitle>
+4.2 ~s of~ammar
+4.2.1 Amtecedent set for 10rimitive oondition
+</SectionTitle>
+<Paragraph position="0"> We are not interested in all the antecedent sets but the optimal one for the condition of each ruleo q~erefore, we turn our attention to intra-node cenditions. Intra-node conditions usually give us an effective anteoedent set, while inter--node conditions do not.</Paragraph>
+<Paragraph position="1"> %~le minimal antecedent sets for an intra-node condition are as follow. Here, antecedent sets are defined separately for each node (indicated by i below), as the truth value of a oondition varies with nodes. It is necessary to consider two cases. One is that the attribute in the condition is not related to any inter-node action. ~ne other is that the attribute in the condition is related to sQme / nter-node actions.</Paragraph>
+<Paragraph position="2"> (I) When the attribute is not related to any inter-node action, the truth value of a condition at a node i is effected only by actions at the same node i. &amp;quot;therefore, only the actions at the same node i are included in the antecedent set.</Paragraph>
+<Paragraph position="3"> e.g., The minimal antecedent sets for a condition Ti p \[ t, t' \] are \[ T i = T i + It\] \] and Ti=Ti+\[t'\] \] . A comment should be given on cfm~posite actions. For instance, T i = T i + \[ t, t', t&amp;quot; \] is also an antecedent action. However, it is decomposed into</Paragraph>
+<Paragraph position="5"> antecedent sets.</Paragraph>
+<Paragraph position="6"> e.g., The minimal antecedent set for a condition T in \[ t, t' \] % ~ is \[ T i = T i + \[t\] , T i = T i + \[t'\] \] . (2) When the attribute is related to same inter-node actions, the truth value of a condition at a node i may be effected by actions at another node via an inter-node action (See Fig. 3). Therefore, 'the antecedent sets need to include the actions at all the nodes.</Paragraph>
+<Paragraph position="7"> e.g., The minimal antecedent sets for a condition</Paragraph>
+<Paragraph position="9"> In this case, obviously the antecedent sets for a rule are camDn to all the nodes.</Paragraph>
+<Paragraph position="10"> On the other, hand, we cannot obtain effective antecedent sets from an inter-node condition. For instance, the minimal antecedent set for an Jmter-node condition T i = Tj must include actions Tj = T i + \[ t \] (for any t), as T i =</Paragraph>
+<Paragraph position="12"> antecedent set includes a large number of actions and has a rather large occurrence probability.</Paragraph>
+<Paragraph position="13">  A minimal antecedent set for a condition or a rule is synthesized by those for the constituent primitive conditions. For this purpose, 1&amp;quot;/~e cendition )~rt of a rule is transforme~ into con jtu~ctive canonical form. The conjunctive 'canonical form is a logical AkD of terms, each term being a logical OR of one or more primitives. In Fig. 4r the condition part of the rule in Fig. 1 is shown in conjunctive canonical form.</Paragraph>
+<Paragraph position="14"> In the oonj\[mctive canonical form, a term is true if anyone of t/~ primitives is trHe, and it is false if all the pr~nitives are false. Therefore, the union of the minimal antecedent sets of the primitives is that for the term. Here, the detailed procedure is separated J~to two cases. In the case of the term being relat~ to the key node variable in the rule, t/~e minimal antecedent sets for the node concerned should be t~ited. On the contrary, in case the term is related to a node variable other than the key node variable, the minimal antecedent sets for all the nodes should be united, because any node may, as a result of structural change, occupy the location that oorresixgnds to the node variable the term is related to (See Fig. 5).</Paragraph>
+<Paragraph position="15"> The condition, a logical A~) of terms, is totally true if and only if all the terms are true.</Paragraph>
+<Paragraph position="16"> Accordingly, each minimal antecedent set for one of Fig. 3  the terms is that for the condition. As the condition part of a rule usually includes one or more terms comprised of intra-node conditions, it does not matter tlmt effective antecedent sets cannot be obtained from inter-node condJtions~ As an example of the nlinJ/~al antec6~\]ent set for a rule~ those for the rule .in Fig. 1 are given below. \[ T i = T i + \[ t \] \] ,  The inverse of an action can be easily defineddeg e.g., The inverse action of Tj = T i + \[ t \] is T i = T i - \[ t \] .</Paragraph>
+<Paragraph position="17"> The inverse action for an antecedent set is obtained by connecting all the inverse actions in the setdeg The following are the inverse actions corresponding to the antecedent sets shown in 4.2.2.</Paragraph>
+<Paragraph position="19"></Paragraph>
+</Section>
+<Section position="3" start_page="827" end_page="827" type="sub_section">
+<SectionTitle>
+4.3 Modification of .granmmr
+</SectionTitle>
+<Paragraph position="0"> Among tile minJlnal antecedent sets for each rule, the optimal one is selected statistically using a corpus of text. Then, t/he grammatical rules are modified as follow. When the action part of a rule R' includes a member action of the antecedent set for a rule R, the action to activate R is added to the action part of R'. Likewise, when the action part 'of a ~ule R&amp;quot; includes the inverse action of the antecedent set for a rule R, the action to deactivate R is added to the action part of R&amp;quot;.</Paragraph>
+<Paragraph position="1"> We should add a comment on the sPSatus of a ruleo In principle, a status is defined for ead\] node.</Paragraph>
+<Paragraph position="2"> However, when the antecedent set is related to a ncde variable other than the key node variable, or an attribute relating to scme inter-node actions, a status cfmm~n to all the nodes is defined.</Paragraph>
+</Section>
+<Section position="4" start_page="827" end_page="827" type="sub_section">
+<SectionTitle>
+4.4 Improved 9rammar executor
+</SectionTitle>
+<Paragraph position="0"> An .improved grm~m~- executor whid~ exec\[~tes the l~odifJ.ed gran~k~r is il\].ustrate&lt;\] in Figdeg 6. A status table indicating the status of rules is introduceddeg It is updated by both the initializer and the trensformer, and looked up by the contro\]ler~ 'l~ne initializer ac.~ivates the rules in whJ ch the antecedent set includes an action in the process to create the initial object datadeg The transformer performs rule activating/deactivating actions include~\] in the m&lt;x\]ified grammar. The controller looks up the status table whea it selec~.s the rule to apply. While the control is transferred to the pattern matcher if the rule is actJ ve ~ the controller irm~diately selects the next rule to al~ply if the rule is inactivedeg</Paragraph>
+</Section>
+<Section position="5" start_page="827" end_page="828" type="sub_section">
+<SectionTitle>
+5o Effectiveness
+</SectionTitle>
+<Paragraph position="0"> The ~0roveanent of processing efficiency by ~le proposed ~thcx\] is disc~assed frc~t two points of viPS~: ~he probability that rnles are active and the overhead cmused by dynamic ru\]e activationdeg (i} Probability that rules are activedeg The probability t\]mt a rule succeeds in patter~\] matching is a lower lJn/t for the probability that the rule is activated~ However, the \]C/~er limit (~nnot be realized~ because a rule is activated with prerequisite actions for its c~ondition being satisfied~ q~e state ~active' implies just the possibility t/\]at the rule will be applied successfully. The gap between the probabilities of 'active' and ' success' varies with rules. Fig~ 7 illustrates two extreme cases. Fig. 7(a) is a case in which there is a minimal en~tecedent set for which occurrence probability is near the probability of t/~e condition being satisfied. Fig. 7(b) is a case in w~dch there is no such ndnimal antecedent set.</Paragraph>
+<Paragraph position="1"> As a matter of fact~ (a) is a usual case and (b) is s rare case. A rule usually has a key condition featuring its relevant \]ing\[d.stic phenomenon, from which an effective antecedent set can be obtaineddeg ~herefore~ the probability of 'active' is reduced to the same order as the probability of 'success'.</Paragraph>
+<Paragraph position="2"> (2) Overhead of dynamic rule activation.</Paragraph>
+<Paragraph position="3"> No additional conditXons are introduced to the condition parts of rules to judge if an acTXon to activate/deactivate a mile should be performeddeg  Probabilit~ of 'success' Although rather a large number of actions to activate/deactivate a rule are added to action parts of rule~'~, the action parts are infrequently performed. Moreover, although looking up the status of rules occurs frequently, its load is far smaller t/~1 that of pattern matching, which would be repeated if the dynamic rule activation were not used. ~erefore, the overhead caused by dynamic rule activation can be neglected.</Paragraph>
+<Paragraph position="4"> Another effect of the proposed method is that it can be applied to on-d~d loading of rules when the |1~anory a~pacity for a grammar is limited. That is, while rules with a large probability of 'active' are made resident on the main memory, the other rules are loaded when they are to ~ applied. Thus the frequency of loading rules is minimized.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

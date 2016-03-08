@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W99-0111">
+<Title>Reference-based Discourse Structure for Reference Resolution</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The connection between discourse structure and reference is well recognmed. In the system of language understanding described, discourse structure is exploited for the purposes of reference resolution and then continu/ty of reference is exploited to build the discomle ~etructure for the purposes of subsequent reference resohtion.</Paragraph>
+<Paragraph position="1"> The role of discourse structure in dereferencing, pronouns, other NPs, and temporal references is explored, as is the role of these in constraining discourse structure.</Paragraph>
+</Section>
+</Paper>
+

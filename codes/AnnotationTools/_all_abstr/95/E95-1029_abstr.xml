@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E95-1029">
+<Title>Specifying a shallow grammatical representation for parsing purposes</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Is it possible to specify a grammatical representation (descriptors and their application guidelines) to such a degree that it can be consistently applied by different grammarians e.g. for producing a benchmark corpus for p.arser evaluation? Arguments for and against have been given, but very little empirical evidence. In this article we report on a double-blind experiment with a surface-oriented morphosyntactic grammatical representation used in a large-scale English parser. We argue that a consistently applicable representation for morphology and also shallow syntax can be specified. A grammatical representation with a near-100% coverage of running text can be specified with a reasonable effort, especially if the representation is based on structural distinctions (i.e. it is structurally resolvable).</Paragraph>
+</Section>
+</Paper>
+

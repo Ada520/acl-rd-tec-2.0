@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-1505">
+<Title>Maintaining the Forest and Burning out the Underbrush in XTAG</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we report on the recent advancements and current status of the XTAG Project, housed at the University of Pennsylvania. We discuss the current coverage of the system, as evaluated on the TSNLP English sentences, hierarchical organization of the grammar, and the new and more portable implementation of the X-interface to the grammar and all of the supporting tools in CLISP, which is freely available. We also present a methodology for specializing our grammar to a particular domain, and give some results on this effort.</Paragraph>
+</Section>
+</Paper>
+

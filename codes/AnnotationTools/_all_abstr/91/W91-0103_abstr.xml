@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W91-0103">
+<Title>Towards Uniform Processing of Constraint-based Categorial Grammars</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A class of constraint-based categorial grammars is proposed in which the construction of both logical forms and strings is specified completely lexically.</Paragraph>
+<Paragraph position="1"> Such grammars allow the construction of a uniform algorithm for both parsing and generation.</Paragraph>
+<Paragraph position="2"> Termination of the algorithm can be guaranteed if lexical entries adhere to a constraint, that can be seen as a computationally motivated version of GB's projection principle.</Paragraph>
+</Section>
+</Paper>
+

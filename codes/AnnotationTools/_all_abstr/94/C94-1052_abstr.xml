@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C94-1052">
+<Title></Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes the enhancements made, within a unification framework, based on typed feature structures, in order to support linking of lexical entries to their translation equivalents. To help this task we have developed an interactive environment: TGE. Several experiments, corresponding to rather &amp;quot;closed&amp;quot; semantic domains, have been developed in order to generate lexical cross-relations between English and Spanish.</Paragraph>
+</Section>
+</Paper>
+

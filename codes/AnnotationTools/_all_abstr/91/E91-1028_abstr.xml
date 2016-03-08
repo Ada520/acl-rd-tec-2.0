@@ -1,0 +1,77 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E91-1028">
+<Title>Generating Referring Expressions Involving Relations</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we review Dale's \[1989\] algorithm for determining the content of a referring expression. The algorithm, which only permits the use of one-place predicates, is revised and extended to deal with n-ary predicates. We investigate the problem of blocking 'recursion' in complex noun phrases and propose a solution in the context of our algorithm.</Paragraph>
+<Paragraph position="1"> Introduction In very simple language generation systems, there is typically a one-to-one relationship between entities known to the system and the linguistic forms available for describing those entities; in effect, each entity has a canonical name. In such systems, deciding upon the form of reference required in a given context requires at most choosing betwc(,n a pronoun and the canonical name. 1 As soon as a generation system has access to a knowledge base which contains richer knowledge about the entities in the domain, the system has to face the problem of deciding what particular properties of an entity should be used in describing it in a given context? Producing a description which includes all of the known properties of Lhe entity is likely to be both inefficient and t~.Ve do not mean to imply, of course, that the decision as to whether or not to use a pronoun is simple. 2This problem exists quite independently of any considerations of the different perspectives that might be taken upon an entity, where, for examplep one entity can be viewed from the perspective of being a father, a bicyclist and a teacher, with separate clusters of properties in each case. Even if the system is restricted to a single perspective upon each entity (as almost all language generation systems are), in any sophisticated knowledge base there will still be more information available about the entity than it is sensible to include in a description.</Paragraph>
+<Paragraph position="2">  njh@com, hp. hpl. hplb misleading.</Paragraph>
+<Paragraph position="3"> The core of the problem is finding a way of describing the intended referent that distinguishes it from other potential referents with which it might be confused. We refer to this problem as the content determination task. In this paper, we point out some limitations in an earlier solution proposed in Dale \[1988, 1989\], and discuss the possibilites of extending this solution by incorporating a use of constraints motivated by the work of Haddock \[1987, 1988\].</Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+Generating Referring
+Expressions
+The Principles of Reference
+</SectionTitle>
+<Paragraph position="0"> Dale \[1988, 1989\] presents a solution to the content determination task which is motivated by three principles of refcrence. These are cssentinily Gricean conversational maxims rephrased from the perspective of generating referring expressions: null  1. The principle of sensitivity states that the referring expression chosen should take account of the state af the hearer's knowledge.</Paragraph>
+<Paragraph position="1"> 2. The principle of adequacy states that the referring expression chosen should be sufficient to identify the intended referent.</Paragraph>
+<Paragraph position="2"> 3. The principle of efficiency states that the  referring expression chosen should provide no more information than is necessary for the identification of the intended referent.</Paragraph>
+<Paragraph position="3"> The solution proposed in Dale \[1988, 1989\] focuses on the second and third of these principles of reference as constraints on the content determination task.</Paragraph>
+</Section>
+<Section position="2" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+Distinguishing Descriptions
+</SectionTitle>
+<Paragraph position="0"> Other researchers (see, for example, \[Davey 1978; Appclt 1985a\]) have suggested that the process ol: determining the content of a referring expression should be governed by principles like those just described. Detailed algorithms for satisfying these requirements are rarely provided, however.</Paragraph>
+<Paragraph position="1"> Suppose that we have a set of entities C (called the context set) such that C = {al,a2,...,an} and our task is to distinguish from this context set some intended referent r where r E C. Suppose, also, that each entity ak is described in the system's knowledge base by means of a set of propertics, pk~, Pk2, * * *, Pk,,.</Paragraph>
+<Paragraph position="2"> In order to distinguish our intended referent r from the other entities in C, we need to find some set of properties which are together true of r, but of no other entity in C. 3 The linguistic realisation of this set of properties constitutes a distinguishing description (DD) of r with respect to the context C. A minimal distinguishing description is then the linguistic realisation of the smallest such set of properties.</Paragraph>
+</Section>
+<Section position="3" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+An Algorithm to Compute
+Distinguishing Descriptions
+</SectionTitle>
+<Paragraph position="0"> I,eL Lr be the set of properties to be realised in our description; and let t~ be the set of propertics known to be true of our intended referent r (we assume that Dr is non-empty). The initial conditions are thus as follows:</Paragraph>
+<Paragraph position="2"> In order to describe the intended referent r with respect to the context set Cr, we do the following:  1. Check Success if \[Cr I = 1 then return Lr as a DD elseif Pr = 0 then return Lr as a non-DD else goto Step 2.</Paragraph>
+<Paragraph position="3"> &amp;quot;2. Choose Property for each Pi E P~ do: Cr, ~-- C~ f3 {x\]pi(x)} Chosen property is pj, where Crj is the small(;st setf goto Step 3.</Paragraph>
+<Paragraph position="4"> 3A sirnilar approach is being pursued by Leavitt (personal communication) at CMU.</Paragraph>
+<Paragraph position="5"> 4In the terminology of Dale \[1988, 1989\], this is equivalent to finding the property with the greatest discriminatory power.</Paragraph>
+<Paragraph position="6"> . Extend Description (wrt the chosen pj)</Paragraph>
+<Paragraph position="8"> goto Step 1.</Paragraph>
+<Paragraph position="9"> If we have a distinguishing description, a definite determiner can be used, since the intended referent is described uniquely in context. If the result is:a non-distinguishing description, all is not lost: we can realise the description by means of a noun phrase of the form one of the Xs, where X is the realisation of the properties in Lr. 5 For simplicity, the remainder of this paper concentrates on the generation of distinguishing descriptions only; the extended algorithm presented later will simply fail if it is not possible to produce a DD.</Paragraph>
+<Paragraph position="10"> The abstract process described above requires some slight modifications before it can be used effectively for noun phrase generation. In particular, we should note that, in noun phrases, the head noun typically appears even in cases where it does not have any discriminatory power. For example, suppose there are six entities on a table, all of which are cups although only one is red: we are then likely to describe that particular cup as as the red cup rather than simply the red or the red thing. Thus, in order to implement the above algorithm, we always first add to L that property of the entity that would typically be denoted by a head noun. deg In many cases, this means that no further properties need be added.</Paragraph>
+<Paragraph position="11"> Note also that Step 2 of our algorithm is nondeterministic, in that several properties may independently yield a context set of the same minimal size. For simplicity, we assume that one of these equally viable properties is chosen at random.</Paragraph>
+</Section>
+<Section position="4" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+Some Problems
+</SectionTitle>
+<Paragraph position="0"> There are some problems with the algorithm just described.</Paragraph>
+<Paragraph position="1"> As Reiter \[1990:139\] has pointed out, the algorithm does not guarantee to find a minimal distinguishing description: this is equivalent to the minimal set cover problem and is thus intractable as stated.</Paragraph>
+<Paragraph position="2"> Second, the mechanism doesn't necessarily produce a useful description: consider the example SOne might be tempted to suggest that a straight-forward indefinite, as in an X, could be used in such cases; this is typically not what people do, however. SFor simplicity, we can assume that this is that property of the entity that would be denoted by what P~sch \[1978\] calls the entity's basic category.</Paragraph>
+<Paragraph position="3">  offered by Appelt \[1985b:6\], where a speaker tells a hearer (whom she has just met on the bus) which bus stop to get off at by saying Get off one stop before I do. This may be a uniquely identifying description of the intended referent, but it is of little use without a supplementary offer to indicate the stop; ultimately, we require some computational treatment of the Principle of Sensitivity here.</Paragraph>
+<Paragraph position="4"> Third, as has been demonstrated by work in psycholinguistics (for a recent summary, see Levelt \[1989:129-13d\]), the algorithm does not represent what people seem to do when constructing a referring expression: in particular, people typically produce referring expressions which are redundant (over and above the inclusion of the head noun as discussed above). This fact can, of course, be taken to nullify the impact of the first problem described above.</Paragraph>
+<Paragraph position="5"> We do not intend to address any of these problems in the present paper. Instead, we consider an extension of our basic algorithm to deal with relations, and focus on an orthogonal problem which besets any algorithm for generating DDS involving relations.</Paragraph>
+<Paragraph position="6"> Relations and the Problem of 'Recursion' Suppose that our knowledge base consists of a set of facts, as follows: {cup(c\]), cup(c2), cup(c3), bowl(bx), bowl(b2), table(t\]), table(t2), floor(I\] ), in(cl, bl), in(c2, b2), on(c3, fl), on(b\], fl), on(b2, Q), on(t\],fl),on(t~,fl)} Thus we have three cups, two bowls, two tables and a floor: Cup c\] is in bowl bl, and bowl b\] is on the floor, as are the tables and cup ca; and so on. The algorithm described above deals only with one-place predicates, and says nothing about using relations such as on(bl,fl) as part of a distinguishing description. How can we extend tile basic algorithm to handle relations? It turns out that this is not as simple as it might seem: problems arise because of the potential for infinite regress in the construction of the description.</Paragraph>
+<Paragraph position="7"> A natural strategy to adopt for generating exprcssions with relations is that used by Appelt \[1985a:108-112\]. For example, to describe the entity c3, our planner might determine that the predicate to be realized in our referring expression is the abstraction Ax\[cup(x)Aon(x, fl)\], since this complex predicate is true of only one entity, namely ca. In Appelt's TELEGRAM, this results first in the choice of the head noun cup, followed by a recursive call to the planner to determine how fl should be described. The resulting noun phrase is then the cup on the floor.</Paragraph>
+<Paragraph position="8"> In many cases this approach will do what is required. However, in certain situations, it will attempt to describe a referent in terms of itself and generate an infinite description.</Paragraph>
+<Paragraph position="9"> For example, consider a very specific instance of the problem, which arises in a scenario of the kind discussed in Haddock \[1987, 19881 from the perspective of interpretation. Such a scenario is characterised in the above knowledge base: we have two bowls and two tables, and one of the bowls is on one of the tables. Given this situation, it is felicitous to refer to b~ as the bowl on the table. However, the use of the definite article in the embedded NP the table poses a problem for purely compositional approaches to interpretation, which would expect the embedded NP to refer uniquely in isolation.</Paragraph>
+<Paragraph position="10"> Naturally, this same scenario will be problematic for a purely compositional approach to generation of the kind alluded to at the beginning of this section. Taken literally, this algorithm could generate an infinite NP, such as: z the bowl on the table which supports the bowl on the table which supports ...</Paragraph>
+<Paragraph position="11"> Below, we present an algorithm for generating relational descriptions which deals with this specific instance of the problem of repetition. Haddock \[1988\] observes the problem can be solved by giving both determiners scope over the entire NP, thus:</Paragraph>
+<Paragraph position="13"> In Haddock's model of interpretation, this treatment falls out of a scheme of incremental, left-to-right reference evaluation based on an incremental accumulation of constraints. Our generation algorithm follows Haddock \[1988\], and Mellish \[1985\], in using constraint-network consistency to determine the entities relating to a description (see Mackworth \[1977\]). This is not strictly necessary, since any evaluation procedure such as generate-and-test or backtracking, can produce the desired result; however, using network consistency provides a natural evolution of the existing algorithm, since this already models the problem in terms of incremental refinement of context sets.</Paragraph>
+<Paragraph position="14"> ?We Ignore the question of determiner choice in the present paper, and assume for simplicity that definite determiners are chosen here.</Paragraph>
+<Paragraph position="15"> - 163 We conclude the paper by investigating the implications of our approach for the more general problem of recursive repetition.</Paragraph>
+<Paragraph position="16"> A Constraint-Based Algorithm</Paragraph>
+</Section>
+<Section position="5" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+Data Structures
+</SectionTitle>
+<Paragraph position="0"> We assume three global kinds of data structure.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

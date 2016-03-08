@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="I05-2024">
+<Title>Information Retrieval Capable of Visualization and High Precision</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a neural-network based self-organizing approach that enables visualization of the information retrieval while at the same time improving its precision. In computer experiments, two-dimensional documentary maps in which queries and documents were mapped in topological order according to their similarities were created. The ranking of the results retrieved using the maps was better than that of the results obtained using a conventional TFIDF method. Furthermore, the precision of the proposed method was much higher than that of the conventional TFIDF method when the process was focused on retrieving highly relevant documents, suggesting that the proposed method might be especially suited to information retrieval tasks in which precision is more critical than recall. null</Paragraph>
+</Section>
+</Paper>
+

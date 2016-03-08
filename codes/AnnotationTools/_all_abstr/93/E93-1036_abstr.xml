@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E93-1036">
+<Title>Generalized Left-Corner Parsing</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We show how techniques known from generMized LR parsing can be applied to left-corner parsing. The ~esulting parsing algorithm for context-free grammars has some advantages over generalized LR parsing: the sizes and generation times of the parsers are smaller, the produced output is more compact, and the basic parsing technique can more easily be adapted to arbitrary context-free grammars.</Paragraph>
+<Paragraph position="1"> The algorithm can be seen as an optimization of algorithms known from existing literature. A strong advantage of our presentation is that it makes explicit the role of left-corner parsing in these algorithms.</Paragraph>
+<Paragraph position="2"> Keywords: Generalized LR parsing, left-corner parsing, chart parsing, hidden left recursion.</Paragraph>
+</Section>
+</Paper>
+

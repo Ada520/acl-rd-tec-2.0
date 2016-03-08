@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-1410">
+<Title>Reinterpretation of an existing*NLG system in a Generic Generation Architecture</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The RAGS project aims to define a reference architecture for Natural Language Generation (NLG) systems. Currently the major part of this architecture consists of a set of datatype definitions for specifying the input and output formats for modules within NLG systems. In this paper we describe our efforts to reinterpret an existing NLG system in terms of these definitions. The system chosen was  the Caption Generation System.</Paragraph>
+<Paragraph position="1"> 2. Which aspects of the RAGS repertoire would : .... .... - .... -,.= ., ~,~,aemaltybe'requireti~ftrr~strch~a-~reinterpretation;  which would be unnecessary and which additions to the RAGS repertoire would be motivated. null</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="X96-1006">
+<Title>THE MESSAGE UNDERSTANDING CONFERENCES</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+THE MESSAGE UNDERSTANDING CONFERENCES
+</SectionTitle>
+<Paragraph position="0"> sundheim@ nosc.mil The latest in a series of natural language processing system evaluations was concluded in October 1995 and was the topic of the Sixth Message Understanding Conference (MUC-6) in November, co-chaired by Ralph Grishman (NYU) and Beth Sundheim (NRaD). Participants were invited to enter their systems in as many as four different task-oriented evaluations. The Named Entity and Coreference tasks entailed Standard Generalized Markup Language (SGML) annotation of texts and were being conducted for the first time. The other two tasks, Template Element and Scenario Template, were information extraction tasks that followed on from previous MUC evaluations. All except the Scenario Template task are defined independently of any particular domain. The evolution and design of the MUC-6 evaluation are described in the conference proceedings \[1\]. A basic characterization of the challenge presented by each task is as follows: * Named Entity (NE) -- Insert SGML tags into the text to mark each string that represents a person, organization, or location name, or a date or time stamp, or a currency or percentage figure.</Paragraph>
+<Paragraph position="1"> * Coreference (CO) -- Insert SGML tags into the text to link strings that represent coreferring noun phrases.</Paragraph>
+</Section>
+</Paper>
+

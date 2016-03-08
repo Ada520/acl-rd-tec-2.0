@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-0205">
+<Title>(CMU), and the Battelle Pacific Northwest National Laboratories</Title>
+<Section position="1" start_page="0" end_page="33" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Organizations that make use of large amounts of multimedia material (especially images and video) require easy access to such information. Recent developments in computer hardware and algorithm design have made possible content indexing of digital video information and efficient display of 3D data representations. This paper describes collaborative work between  (CMU), and the Battelle Pacific Northwest National Laboratories (PNNL). to integrate media indexing with computer visualization to achieve effective content-based access to video information. Text metadata, representing video content, was extracted from the CMU Informedia system, processed by AR&amp;T's text analysis software, and presented to users via PNNL's Starlight 3D visualization system. This approach shows how to make multimedia information accessible to a text-based visualization system, facilitating a global view of large collections of such data. We evaluated our approach by making several experimental queries against a library of eight hours of video segmented into several hundred &amp;quot;video paragraphs.&amp;quot; We conclude that search performance of Inforrnedia was enhanced in terms of ease of exploration by the integration with Starlight.</Paragraph>
+<Paragraph position="1">  Introduction Boeing uses very large collections of data in the process of engineering and manufacturing commercial jet airplanes and in delivering complex military and space systems. The company also creates large amounts of information in the form of manuals and other documents to be delivered with these products. The need to control the cost of creating and accessing this information is motivation for new methods of indexing and searching computerized digital data.</Paragraph>
+<Paragraph position="2"> In 1996, the Natural Language Processing Group at Boeing AR&amp;T began a collaboration with PNNL to jointly develop the Starlight information visualization system. AR&amp;T developed the Text Processing Toolset (TPT) to perform indexing and querying operations in high-dimensional document spaces, and PNNL developed software for 3D graphics presentations. Although Starlight has a rich visual presentation, it processes only text and static imagery, and lacks any inherent capability for extracting content from multimedia data. Concurrently. as part of ongoing research into digital libraries, the</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P91-1028">
+<Title>Multiple Default Inheritance in a Unification-Based</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A formalism is presented for lexical specification in unification-based grammars which exploits defeasible multiple inheritance to express regularity, subregularity, and exceptions in classifying the properties of words. Such systems are in the general case intractable; the present proposal represents an attempt to reduce complexity while retaining sufficient expressive power for the task at hand. Illustrative examples are given of morphological analyses from English and German.</Paragraph>
+</Section>
+</Paper>
+

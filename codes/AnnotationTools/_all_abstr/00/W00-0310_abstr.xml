@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-0310">
+<Title>Using Dialogue Representations for Concept-to-Speech Generation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present an implemented concept-to-speech (CTS) syst@n'~J tl~at offers original proposals for certain couplings-oi r dialogue computation with prosodic computation. Specifically, the semantic interpretation, task modeling and dialogue strategy modules in a working spoken dialogue system are used to generate prosodic features to better convey the meaning of system replies. The new CTS system embodies and extends theoretical work on intonational meaning in a more general, robust and rigorous way than earlier approaches, by reflecting compositional aspects of both dialogue and intonation interepretation in an original computational framework for prosodic generation.</Paragraph>
+</Section>
+</Paper>
+

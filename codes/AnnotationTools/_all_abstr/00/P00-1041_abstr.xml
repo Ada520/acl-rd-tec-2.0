@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P00-1041">
+<Title>Headline Generation Based on Statistical Translation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Extractive summarization techniques cannot generate document summaries shorter than a single sentence, something that is often required. An ideal summarization system would understand each document and generate an appropriate summary directly from the results of that understanding. A more practical approach to this problem results in the use of an approximation: viewing summarization as a problem analogous to statistical machine translation. The issue then becomes one of generating a target document in a more concise language from a source document in a more verbose language. This paper presents results on experiments using this approach, in which statistical models of the term selection and term ordering are jointly applied to produce summaries in a style learned from a training corpus.</Paragraph>
+</Section>
+</Paper>
+

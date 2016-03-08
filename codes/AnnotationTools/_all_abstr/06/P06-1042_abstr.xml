@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P06-1042">
+<Title>Error mining in parsing results</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We introduce an error mining technique for automatically detecting errors in resources that are used in parsing systems.</Paragraph>
+<Paragraph position="1"> We applied this technique on parsing results produced on several million words by two distinct parsing systems, which share the syntactic lexicon and the pre-parsing processing chain. We were thus able to identify missing and erroneous information in these resources.</Paragraph>
+</Section>
+</Paper>
+

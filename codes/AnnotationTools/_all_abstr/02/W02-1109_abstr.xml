@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-1109">
+<Title></Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+References
+</SectionTitle>
+<Paragraph position="0"> 1 Alonge, A., Calzolari, N., Vossen, P., Bloksma, L., Castellon, I., Marti, M. A., and Peters, W. (1998). The Linguistic Design of the EuroWordNet Database. Computers and the Humanities, pages 91--115.</Paragraph>
+<Paragraph position="1"> 2 Chinchor, N. (1998). Overview of MUC-7. In Proceedings of the 7th Message Understanding Conference (MUC-7).</Paragraph>
+<Paragraph position="2"> 3 Chinchor, N., Robinson, P., and Brown, E. (1998). Hub-4 Named Entity Task Definition (version 4.8). Technical report, SAIC. http ://www.nist.gov/speech/hub4_98.</Paragraph>
+<Paragraph position="3"> 4 Coates-Stephens, S. (1992). The Analysis and Acquisiton of Proper Names for Robust Text Understanding. PhD thesis, Department of Computer Science, City University, London.</Paragraph>
+<Paragraph position="4"> 5 Alessandro Cucchiarelli , Danilo Luzi , Paola Velardi, Automatic semantic tagging of unknown proper names, Proceedings of the 17th international conference on Computational linguistics, August 10-14, 1998, Montreal, Quebec, Canada 6 Fellbaum, C. (1998). WordNet, An Electronic Lexical Database. The MIT Press.</Paragraph>
+<Paragraph position="5"> 7 Gangemi, A., Guarino, N., Oltramari, A., and Borgo, S. (2002). Restructuring WordNet's Top-Level: The OntoClean based Approach. In Proceedings of the LREC 2002 Workshop on Ontologies and Lexical Knowledge Bases (OntoLex 2002), Canary Islands, Spain. 8 David D. McDonald, Internal and external evidence in the identification and semantic categorization of proper names, Corpus processing for lexical acquisition, MIT Press, Cambridge, MA, 1996</Paragraph>
+</Section>
+</Paper>
+

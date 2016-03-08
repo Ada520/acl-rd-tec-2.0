@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C94-2190">
+<Title>Towards a Dynamic Theory of Belief-Sharing in Cooperative Dialogues</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> In this paper, we propose a dynamic theory of belief-sharing which dens with certain processes of forming and revising shared beliefs during cooperative dialogues. null Since Clark &amp; MarshNl(1981) the problem of determination of the referents of referring expressions has been discussed in relation to mutual knowledge. In natural language processing, there haw~ also been several studies treating this problem of referent-determination in terms of mutuN knowledge (Perrault &amp;: Cohen, 1981; Joshi, 1982; Nadathur &amp; Joshi, 1983; Appelt, 1985). In this paper, we conceive referent-determination as a process of belicfsllaring in dialogues, and propose a formal theory of dialogue in which referent-determination can be characterized as part of belief-sharing processes. We use Discourse Representation Theory (DRT) to model the characteristics of referents in discourse (Kamp, 1981, 1990; Asher, 1993), and propose a model of dynamic maintenance of the mutual beliefs of tile participants in diNogues based on Clause Maintenance System (CMS) (Doyle, 1979; Levesquc, 1989; Poole, 1988; Reggia, 1983; de Kleer, 1986; Rciter &amp; de Kleer, 1987). By this nmdel, we characterize the relationships between a diMogue process and its successfulness, which is mainly illustrated by examples of referent-determination but can be applied to any type of belief-sharing.</Paragraph>
+</Section>
+</Paper>
+

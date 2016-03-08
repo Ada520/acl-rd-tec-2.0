@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E93-1025">
+<Title>A Discourse Copying Algorithm for Ellipsis and Anaphora Resolution</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We give an analysis of ellipsis resolution in terms of a straightforward discourse copying algorithm that correctly predicts a wide range of phenomena. The treatment does not suffer from problems inherent in identity-of-relations analyses. Furthermore, in contrast to the approach of Dalrymple et al. \[1991\], the treatment directly encodes the intuitive distinction between full NPs and the referential elements that corefer with them through what we term role linking. The correct predictions for several problematic examples of ellipsis naturally result. Finally, the analysis extends directly to other discourse copying phenomena.</Paragraph>
+</Section>
+</Paper>
+

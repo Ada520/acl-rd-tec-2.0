@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-2142">
+<Title>Rapid Development of Translation Tools: Application to Persian and Turkish</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The Computing Research laboratory (CRL) is developing a machine translation toolkit that allows rapid deployment of translation capabilities. This toolkit has been used to develop several machine translation systems, including a Persian-English and a Turkish-English system, which will be demonstrated. We present the architecture of these systems as well as the development methodology.</Paragraph>
+</Section>
+</Paper>
+

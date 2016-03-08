@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C92-4197">
+<Title>An Analysis of Indonesian Language for Interlingual Machine-Translation System</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> This paper presents BlAS (Bahasa Indonesia Analyzer System), an analysis systemfor lndonesian language suitable for multilingual machine translation system. BIAS is developed with a motivation to contribute to on-going cooperative research project in machine translation between Indonesia andotherAsian countries.In addition,it mayserve tofosterNLPresearchinIndonesia.</Paragraph>
+<Paragraph position="1"> It startwith an overviewofvarious methodologiesforrepresenta lion of linguistic knowledg e atwlplausible strategies of automatic r easoningf or lndonesian language. We examine these methodoiogies from the perspective of their relative advantage and their suitabilityforaninterlingualmochine-translation environment.</Paragraph>
+<Paragraph position="2"> BIAS is a multi-level analyzer which is developed not only to extract the syntactic and semantic structure of sentences but also to provide a unifying method for knowledge reasoning. Each phase of the analyzer is discussed with emphasis on Indonesian morphology andcase-grammaticalconstructians.</Paragraph>
+</Section>
+</Paper>
+

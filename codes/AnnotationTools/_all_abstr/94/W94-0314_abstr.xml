@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W94-0314">
+<Title>Generating Context-Appropriate Word Orders in Turkish</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> Turkish, like Finnish, German, Hindi, Japanese, and Korean, has considerably freer word order than English. In these languages, word order variation is used to convey distinctions in meaning that are not generally captured in the semantic representations that have been developed for English, although these distinctions are also present-in somewhat less obvious ways in English. In the next section, I present a summary of the linguistic data on Turkish word order variations. Section 3 describes the categorial formalism I propose to model the syntax, semantics, and pragmatic information in Turkish sentences. To capture the syntax of free word order languages, I present an adaptation of Combinatory Categorial Grammars, CCGs (Steedman85; Steedman-91), called {}-CCGs (set-CCGs). Then, I integrate a level of information structure, representing pragmatic functions such as topic and focus, with {}-CCGs to allow pragmatic distinctions in meaning to influence the word order of the sentence in a compositional way. In Section 4, I discuss how this strategy is used within a generation system which produces Turkish sentences with word orders appropriate to the context, and include sample runs of the implementation.</Paragraph>
+</Section>
+</Paper>
+

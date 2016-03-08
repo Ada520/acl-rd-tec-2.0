@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-3044">
+<Title>Toward Memory--based Translation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> An essential problem of example-based translation is how to utilize more than one translation example for translating one source sentence.</Paragraph>
+<Paragraph position="1"> This 1)aper proposes a method to solve this problem. We introduce tile representation, called .matching e,,z:pressio~z, which tel)resents the combination of fragments of translation examples. The translation process consists of three steps: (.1) Make the source matching expression from lhe source sentence. (2) TransDr the source matching expression into the target matching expression. (3) Construct the target sentence from the target matching expression.</Paragraph>
+<Paragraph position="2"> This mechanism generates some candidates of translation. To select, the best translation out of them, we define the score of a translation.</Paragraph>
+</Section>
+</Paper>
+

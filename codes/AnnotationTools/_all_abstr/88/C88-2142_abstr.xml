@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C88-2142">
+<Title>Dialogue Translation vs. Text Translation -Interpretation Based Approach-</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The authors discuss the differences of envi~onmeats whexe dialogue translation and textual translation systems might be used. The differences are summarized as clear definition of information and active participations of speakers and hearers in dialogue t~anslation. A new approach to MT, interpretation based approach, is proposed to take the advantages of dialogue translation environments.</Paragraph>
+<Paragraph position="1"> The approach introduces a layer o/ understanding to MT and can produce less structure bound translations than conventional approaches.</Paragraph>
+</Section>
+</Paper>
+

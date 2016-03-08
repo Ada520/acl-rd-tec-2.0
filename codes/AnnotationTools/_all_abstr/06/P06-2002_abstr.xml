@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P06-2002">
+<Title>Enrique.Alfonseca@uam.es enrique@lr.pi.titech.ac.jp Pablo.Castells@uam.es oku@pi.titech.ac.jp</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we describe a rote extractor that learns patterns for finding semantic relationships in unrestricted text, with new procedures for pattern generalization and scoring. These include the use of part-of-speech tags to guide the generalization, Named Entity categories inside the patterns, an edit-distance-based pattern generalization algorithm, and a pattern accuracy calculation procedure based on evaluating the patterns on several test corpora.</Paragraph>
+<Paragraph position="1"> In an evaluation with 14 entities, the systemattainsaprecisionhigherthan50%for null half of the relationships considered.</Paragraph>
+</Section>
+</Paper>
+

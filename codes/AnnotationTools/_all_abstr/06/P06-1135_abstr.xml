@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P06-1135">
+<Title>Improving QA Accuracy by Question Inversion</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper demonstrates a conceptually simple but effective method of increasing the accuracy of QA systems on factoid-style questions. We define the notion of an inverted question, and show that by requiring that the answers to the original and inverted questions be mutually consistent, incorrect answers get demoted in confidence and correct ones promoted. Additionally, we show that lack of validation can be used to assert no-answer (nil) conditions. We demonstrate increases of performance on TREC and other question-sets, and discuss the kinds of future activities that can be particularly beneficial to approaches such as ours.</Paragraph>
+</Section>
+</Paper>
+

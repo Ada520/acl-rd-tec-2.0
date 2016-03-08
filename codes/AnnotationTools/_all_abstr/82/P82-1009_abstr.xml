@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P82-1009">
+<Title>THEORETICAL/TECHNICAL ISSUES IN NATURAL LANGUAGE ACCESS TO DATABASES</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+THEORETICAL/TECHNICAL ISSUES IN NATURAL LANGUAGE ACCESS TO DATABASES
+S. R. Petrick
+IBM T.J. Watson Research Center
+INTRODUCTION
+</SectionTitle>
+<Paragraph position="0"> In responding to the guidelines established by the session chairman of this panel, three of the five topics he set forth will be discussed. These include aggregate functions and quantity questions, querying semantically complex fields, and multi-file queries. As we will make clear in the sequel, the transformational apparatus utilized in the TQA Question Answering System provides a principled basis for handling these and many other problems in natural language access to databases.</Paragraph>
+<Paragraph position="1"> In addition to considering some subset of the chairman's five problems, each of the panelists was invited to propose and choose one issue of his/her own choosing. If time and space permitted, I would have chosen the subject of extensibility of natural language systems to new applications. In light of existing restrictions, however, I have chosen a more tractable problem to which I have given some attention and in whose treatment I am interested; this is the translation of quantified relational calculus expressions to a formal query language such as SQL.</Paragraph>
+</Section>
+</Paper>
+

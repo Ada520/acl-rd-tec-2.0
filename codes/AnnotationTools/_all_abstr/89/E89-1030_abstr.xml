@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E89-1030">
+<Title>A MODULAR APPROACH TO STORY GENERATION</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> One way of characterising texts is in terms of the discourse structures on which they appear to be built. Each type of text, or genre, e.g. the sports report, the recipe, the sermon, the proverb, will have associated with it a characteristic organisation of units. In this paper, a general model of the structure of one text type, the story, is described. This model forms the basis of a program which combines the general story structure principles with rules goveming a particular sub-genre, the Old French epic, in order to generate story summaries.</Paragraph>
+</Section>
+</Paper>
+

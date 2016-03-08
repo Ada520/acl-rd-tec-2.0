@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-3012">
+<Title>Language Without A Central Pushdown Stack</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We will attempt to show how human performance limitations on various types of syntactic embedding constructions in Germanic languages can be modelled in a relational network linguistic framework. After arguing against centralized data stores such as pushdown stacks and queues, we will demonstrate how interconnections among levels of linguistic structure can account for many of the psycholinguistic facts.</Paragraph>
+</Section>
+</Paper>
+

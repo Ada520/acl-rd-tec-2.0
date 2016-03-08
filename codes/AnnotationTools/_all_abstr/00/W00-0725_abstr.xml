@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-0725">
+<Title>A Comparison of PCFG Models*</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we compare three different approaches to build a probabilistic context-free grammar for natural language parsing from a tree bank corpus: 1) a model that simply extracts the rules contained in the corpus and counts the number of occurrences of each rule 2) a model that also stores information about the parent node's category and, 3) a model that estimates the probabilities according to a generalized k-gram scheme with k -- 3. The last one allows for a faster parsing and decreases the perplexity of test samples.</Paragraph>
+</Section>
+</Paper>
+

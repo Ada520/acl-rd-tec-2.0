@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1066">
+<Title>Japanese Unknown Word Identification by Character-based Chunking</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We introduce a character-based chunking for unknown word identification in Japanese text. A major advantage of our method is an ability to detect low frequency unknown words of unrestricted character type patterns. The method is built upon SVM-based chunking, by use of character n-gram and surrounding context of n-best word segmentation candidates from statistical morphological analysis as features.</Paragraph>
+<Paragraph position="1"> It is applied to newspapers and patent texts, achieving 95% precision and 55-70% recall for newspapers and more than 85% precision for patent texts.</Paragraph>
+</Section>
+</Paper>
+

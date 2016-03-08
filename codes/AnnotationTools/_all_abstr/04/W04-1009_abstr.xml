@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-1009">
+<Title>Hybrid Text Summarization: Combining External Relevance Measures with Structural Analysis</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, a novel linguistically advanced text summarization system is described for reducing the minimum size of highly readable variable sized summaries of digitized text documents produced by text summarization methods that use discourse analysis to rank sentences for inclusion in the final summary. The basic algorithm used in FXPAL's PALSUMM text summarization system combines text structure methods that preserve readability and correct reference resolution with statistical methods to reduce overall summary length while promoting the inclusion of important material.</Paragraph>
+</Section>
+</Paper>
+

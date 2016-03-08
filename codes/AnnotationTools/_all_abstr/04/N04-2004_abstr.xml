@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N04-2004">
+<Title>A Computational Framework for Non-Lexicalist Semantics</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Under a lexicalist approach to semantics, a verb completely encodes its syntactic and semantic structures, along with the relevant syntax-tosemantics mapping; polysemy is typically attributed to the existence of different lexical entries. A lexicon organized in this fashion contains much redundant information and is unable to capture cross-categorial morphological derivations. The solution is to spread the &amp;quot;semantic load&amp;quot; of lexical entries to other morphemes not typically taken to bear semantic content. This approach follows current trends in linguistic theory, and more perspicuously accounts for alternations in argument structure.</Paragraph>
+<Paragraph position="1"> I demonstrate how such a framework can be computationally realized with a feature-based, agenda-driven chart parser for the Minimalist Program.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A00-2025">
+<Title>Minimizing Word Error Rate in Textual Summaries of Spoken Language</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Automatic generation of text summaries for spoken language faces the problem of containing incorrect words and passages due to speech recognition errors. This paper describes comparative experiments where passages with higher speech recognizer confidence scores are favored in the ranking process. Results show that a relative word error rate reduction of over 10% can be achieved while at the same time the accuracy of the summary improves markedly.</Paragraph>
+</Section>
+</Paper>
+

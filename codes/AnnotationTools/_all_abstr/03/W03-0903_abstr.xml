@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-0903">
+<Title>Less is More: Using a Single Knowledge Representation in Dialogue Systems</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The approach to knowledge representation taken in a multi-modal multi-domain dialogue system - SMARTKOM - is presented. We focus on the ontological and representational issues and choices helping to construct an ontology, which is shared by multiple components of the system, can be re-used in different projects and applied to various tasks. Finally, examples highlighting the usefulness of our approach are given.</Paragraph>
+</Section>
+</Paper>
+

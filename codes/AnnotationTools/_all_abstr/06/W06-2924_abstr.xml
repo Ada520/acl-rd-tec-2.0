@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-2924">
+<Title>Antal.vdnBosch,J.Geertzen}@uvt.nl</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> As more and more syntactically-annotated corpora become available for a wide variety of languages, machine learning approaches to parsing gain interest as a means of developing parsers without having to repeat some of the labor-intensive and language-specific activities required for traditional parser development, such as manual grammar engineering, for each new language. The CoNLL-X shared task on multi-lingual dependency parsing (Buchholz et al., 2006) aims to evaluate and advance the state-of-the-art in machine learning-based dependency parsing by providing a standard benchmark set comprising thirteen languages1. In this paper, we describe two different machine learning approaches to the CoNLL-X shared task.</Paragraph>
+<Paragraph position="1"> Before introducing the two learning-based approaches, we first describe a number of baselines, which provide simple reference scores giving some sense of the difficulty of each language. Next, we present two machine learning systems: 1) an approachthatdirectlypredictsalldependencyrelations null in a single run over the input sentence, and 2) a cascade of phrase recognizers. The first approach has been found to perform best and was selected for submission to the competition. We conclude this paper with a detailed error analysis of its output for two of the thirteen languages, Dutch and Spanish.</Paragraph>
+<Paragraph position="2">  banks (HajiVc et al., 2004; Simov et al., 2005; Simov and Osenova, 2003; Chen et al., 2003; B&amp;quot;ohmov'a et al., 2003; Kromann, 2003; van der Beek et al., 2002; Brants et al., 2002; Kawata and Bartels, 2000; Afonso et al., 2002; DVzeroski et al., 2006; Civit Torruella and Mart'i Anton'in, 2002; Nilsson et al., 2005; Oflazer et al., 2003; Atalay et al., 2003)</Paragraph>
+</Section>
+</Paper>
+

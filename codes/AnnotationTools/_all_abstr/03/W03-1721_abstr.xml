@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-1721">
+<Title>Chinese Word Segmentation Using Minimal Linguistic Knowledge</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a primarily data-driven Chinese word segmentation system and its performances on the closed track using two corpora at the first international Chinese word segmentation bakeoff. The system consists of a new words recognizer, a base segmentation algorithm, and procedures for combining single characters, suffixes, and checking segmentation consistencies.</Paragraph>
+</Section>
+</Paper>
+

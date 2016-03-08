@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E99-1012">
+<Title>Ambiguous propositions typed</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Ambiguous propositions are analyzed in a type system where disambiguation is effected during assembly (i.e. by coercion). Ambiguity is introduced through a layer of types that are underspecified relative to a pre-existing collection of dependent types, construed as unambiguous propositions. A simple system of reasoning directly with such underspecification is described, and shown to be sound and complete for the full range of disambiguations. Beyond erasing types, the system supports constraints on disambiguations, including co-variation.</Paragraph>
+</Section>
+</Paper>
+

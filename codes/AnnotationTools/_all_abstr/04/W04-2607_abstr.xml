@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-2607">
+<Title>Non-Classical Lexical Semantic Relations</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> NLP methods and applications need to take account not only of &amp;quot;classical&amp;quot; lexical relations, as found in WordNet, but the lessstructural, more context-dependent &amp;quot;non-classical&amp;quot; relations that readers intuit in text. In a reader-based study of lexical relations in text, most were found to be of the latter type.</Paragraph>
+<Paragraph position="1"> The relationships themselves are analyzed, and consequences for NLP are discussed.</Paragraph>
+</Section>
+</Paper>
+

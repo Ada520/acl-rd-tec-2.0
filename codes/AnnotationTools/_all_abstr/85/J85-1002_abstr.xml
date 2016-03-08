@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J85-1002">
+<Title>Tasks MT HT Preparation/input Translation Human Revision Transcription/Proofreading</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+TAUM-AVIATION: ITS TECHNICAL FEATURES
+AND SOME EXPERIMENTAL RESULTS
+</SectionTitle>
+<Paragraph position="0"> C.P. 6128, Succ. A, MontrEal, Qu6, Canada H3C 3J7 Upon the completion of its highly successful TAUM-METEO machine translation system, the TAUM group undertook the construction of TAUM-AVIATION, an experimental system for English to French translation in the sublanguage of technical maintenance manuals. A detailed description of the resulting prototype is offered. In particular, the paper includes: a) some figures on the size of the system; b) a description of the underlying translation model (indirect approach, analysis/transfer/synthesis scheme); c) a presentation of the basic computational techniques (use of a specialized high-level metalanguage for each linguistic component); and d) some results on the evaluation of the prototype.</Paragraph>
+</Section>
+</Paper>
+

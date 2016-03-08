@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-3013">
+<Title>Efficient Disjunctive Unification for Bottom-Up Parsing</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes two novel techniques which, when applied together, in practice significantly reduce the time required for unifying disjunctive feature structures. The first is a safe but fast method for discarding irrelevant disjunctions from newlycreated structures. The second reduces the time required to check the consistency of a structure from exponential to polynomial in the number of disjunctions, except in cases that, it will be argued, should be very unusual in practical systems. The techniques are implemented in an experimental Japanese analyser that uses a large, existing disjunctive Japanese grammar and lexicon. Observations of the time behaviour of this analyser suggest that a significant speed gain is achieved.</Paragraph>
+</Section>
+</Paper>
+

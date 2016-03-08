@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C86-1079">
+<Title>A METRIC FOR COMPUTATIONAL ANALYSIS OF MEANING: TOWARD AN APPLIED THEORY OF LINGUISTIC SEMANTICS</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+SERGEI @COLGATE JHZ@PURDUE-ASC. CSNET
+ABSlRACT
+</SectionTitle>
+<Paragraph position="0"> A metric for assessing the e~mplemlty of mmmntic (and pragmatic) analysis in natural language processing is proposed as part of a general applied theory of linguistic semantics for NLP. The theory is intended as a complete projection of linguistic semantics onto NLP and is designed as sa exhaustive list of possible choices among strategies of aementlc analysis at each level, from the word to the entire text. The alternatives are summarized in a chart, w~ch can be ccmpleted for each existing or projected MLP system. The remaining components of the applied theory are also outlined.</Paragraph>
+<Paragraph position="1"> i. Goal The immediate goal of the paper is to explore the alternative choices in the analysis of meaning in natural lsaguage processing (I~P). Throughout the paper, semantics subsumes pragmatics. The mere an~itioes goal of the paper, however, is to lay ground for an appl~ed theory of ~ti~ for ~2 C/~ST/~2).</Paragraph>
+</Section>
+</Paper>
+

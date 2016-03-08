@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J03-1006">
+<Title>c(c) 2003 Association for Computational Linguistics Squibs and Discussions Weighted Deductive Parsing and Knuth's Algorithm</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> As for algorithms in general, there are significant advantages to specifying parsing algorithms in a modular way (i.e., as the combination of subalgorithms). First, modular specifications often allow simpler implementations. Secondly, if otherwise seemingly distinct types of parser are described in a modular way, the common parts can often be more readily identified, which helps to classify and analyze parsing algorithms.</Paragraph>
+<Paragraph position="1"> In this article we discuss a modular design for weighted deductive parsing by distinguishing between a weighted deduction system, on the one hand, which pertains to the choice of grammatical formalism and parsing strategy, and the algorithm that finds the derivation with the lowest weight, on the other. The latter is Dijkstra's algorithm for the shortest-path problem (Dijkstra 1959) as generalized by Knuth (1977) for a problem on grammars. It has been argued by, for example, Backhouse (2001), that this algorithm can be used to solve a wide range of problems on context-free grammars. A brief presentation of a very similar algorithm for weighted deductive parsing has been given before by Eisner (2000, Figure 3.5e).</Paragraph>
+<Paragraph position="2"> Our presentation contrasts with that of Klein and Manning (2001), who offer an indivisible specification for a small collection of parsing strategies for weighted context-free grammars only, referring to a generalization of Dijkstra's algorithm to hypergraphs by Gallo et al. (1993). This article also addresses the efficiency of Knuth's algorithm for weighted deductive parsing, relative to the more commonly used algorithm by Viterbi.</Paragraph>
+</Section>
+</Paper>
+

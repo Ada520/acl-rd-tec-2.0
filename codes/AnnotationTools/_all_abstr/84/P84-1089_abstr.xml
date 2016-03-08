@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P84-1089">
+<Title>Coping with Extragrarnmaticality</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract 1
+</SectionTitle>
+<Paragraph position="0"> Practical natural language interfaces must exhibit robust bei~aviour in the presence of extragrammaticat user input. This paper classifies different types of grammatical deviations and related phenomena at the lexical and sentential levels, discussing recovery strategies tailored to specific phenomena in the classification. Such strategies constitute a tool chest of computationally tractable methods for coping with extragrammaticality in restricted domain natural language.</Paragraph>
+<Paragraph position="1"> Some of the strategies have been tested and proven viable in existing parsers.</Paragraph>
+</Section>
+</Paper>
+

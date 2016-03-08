@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H91-1044">
+<Title>Parsing the Voyager Domain Using Pearl</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> This paper* describes a .al, ural language p~rsi.g algorithm &amp;)r unresu'icl,ed I,ext which uses a probabilhq-hased scoring funct,iow I,o sele(:l, I,he &amp;quot;besC: parse of ~/ sent,enos acc:ording t,c~ a given gra0nunar.</Paragraph>
+<Paragraph position="1"> The parser~ &amp;quot;Pearl~ ix a i,hne-asynciironous t)ol,l,orn-u 1) chart, parser with Earley-l,ype I,Ol)-dowil t)redic:l,ion which pursues I,he }6gtmsl,-s(:ori.g t,heory in I,he (:|larl,, where I,he set)re of a IJmory represe.l,s I,|le exl,e.l, I,o W|lic:|l L}le ~:on|,exl, ()~ I,|le seutl,euic:e predic:l;s I,}lat, int,erprel,at,ion. This parser {lifters front previous au,eUnl)l,s el, sto(:}la.st,i(: parsers in I,|lal, it, .ses a richer h)rm of condii,ional probabilil, ies |)a.~ed on conl,exl, l,o predict, likelihood. Pearl Mso provides a framework for in(:orporat,ing the resuh,s of previo.s work in part,-of-st)eeeh assig.tnenl,) InlkutowIi word u||odels, and olJher l)rol)abilist,ic models (ff linguistfic feauJres im,o o.e parsi.g U)t)\], inl,erleaving I,}lese I,e(:imiques |.stead of usi.g I, he I,ra~lil,iona\] pipeline archil,eci, ure. In I, esl~ perh~ruvled on I,|ie Voyager (lirecl,io.finding domain, &amp;quot;Pearl has been s.ccessful el, resolvi.g parl,-of-speech aunifiguhq, del,ermiufing cal,egories for umknow, words, and selecl,ing correcl, parses firsl, using a very loosely fil, l,lng covering grammar. ~</Paragraph>
+</Section>
+</Paper>
+

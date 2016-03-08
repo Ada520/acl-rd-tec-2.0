@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A00-2015">
+<Title>Analyzing Dependencies of Japanese Subordinate Clauses based on Statistics of Scope Embedding Preference</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper proposes a statistical method for learning dependency preference of Japanese subordinate clauses, in which scope embedding preference of subordinate clauses is exploited as a useful information source for disambiguating dependencies between subordinate clauses. Estimated dependencies of subordinate clauses successfully increase the precision of an existing statistical dependency analyzer.</Paragraph>
+</Section>
+</Paper>
+

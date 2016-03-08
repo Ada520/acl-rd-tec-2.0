@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E91-1038">
+<Title>The Semantics of Collocational Patterns for Reporting Verbs</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> One of the hardest problems for knowledge extraction from machine readable textual sources is distinguishing entities and events that are part of the main story from those that are part of the narrative structure, hnportantly, however, reported sl)eech in newspaper articles explicitly links these two levels. In this paper, we illustrate what the lexical semantics of reporting verbs must incorporate in order to contribute to the reconstruction of story and context. The lexical structures proposed are derived from the analysis of semantic collocations over large text corpora.</Paragraph>
+<Paragraph position="1"> I Motivation We can distinguish two levels in newspaper articles: the pure information, here called primary informalion, and the meta-informati0n , which embeds the primary information within a perspective, a belief context, or a modality, which we call circumstan.tim information. The distinction is not limited to, but is best illustrated by, reported speech sentences.</Paragraph>
+<Paragraph position="2"> Here the matrix clause or reporting clause corresponds to the circumstantial:information, while the complement (whether realized as a full clause or as a noun phrase) corresponds t'o primary information.</Paragraph>
+<Paragraph position="3"> For tasks such as knowledge extraction it is the primary information that is of interest. For example in the text of Figure 1 the matrix clauses (italicized) give the circumstantial information of the who, when and how of the reporting event, while what is reported (the primary information) is givel~ in tile complements.</Paragraph>
+<Paragraph position="4"> The particular reporting verb also adds important information about the manner of the original utterance, the preciseness of tile quote, the temporal rela-I, iolJship between ,uatrix clause and e(mq~h:me,l,, aml more. In addition, the source of tile original information provides information about the reliability or credibility of the primary information. Because the individual reporting verbs differ slightly but importantly in this respect, it is the lexicai semantics that must account for such knowledge.</Paragraph>
+<Paragraph position="5"> US Advising Third Parties on Hostages (R1) The Bush administration continued to insist ~esterday that (CI) it is not involved in negotiations over the Western hostages in Lebanon, (R2) but acknowledged that (C2) US olliciais have provided advice to and have been kept informed by &amp;quot;people at all levels&amp;quot; who are holding such talks.</Paragraph>
+<Paragraph position="6"> (C3) &amp;quot;There's a lot happening, and I don't want to be discouraging,&amp;quot; (R3) Marlin Fitzwalet, the president's spokesman, told reporters.</Paragraph>
+<Paragraph position="7"> (R4) But Fitzwater stressed that (C4) he was not trying to fuel speculation about any impending release, (R5) and said (C5) there was &amp;quot;no reason to believe&amp;quot; the situation had changed.</Paragraph>
+<Paragraph position="8"> (All Nevertheless, it appears that it has ....</Paragraph>
+<Paragraph position="9">  We describe here a characterization of influences which the reporting clause has on the interpretation of the reported clause without fully analyzing the reported clause. This approach necessarily leaves many questions open, because the two clauses are so intimately linked that no one can be analyzed fully in isolation. Our goal is, however, to show a minimal requirement on the lexical semantics of tile words involved, thereby enabling us to attempt a solution to the larger problems in text analysis.</Paragraph>
+<Paragraph position="10"> The lexicai semantic framework we assume ill this paper is that of the Generative Lexicon introduced hy Pustejovsky \[Pustejovsky89\]. This framework allows o. 216 us to represent explicitly even those semantic cello- Keywords cations which have traditionally been assumed to be insist presupl)ositions and not part of the lexicon itself.</Paragraph>
+<Paragraph position="11"> insist on</Paragraph>
+</Section>
+</Paper>
+

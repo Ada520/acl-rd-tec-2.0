@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P01-1065">
+<Title>A Generic Approach to Parallel Chart Parsing with an Application to LinGO</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Multi-processor systems are becoming more commonplace and a ordable. Based on analyses of actual parsings, we argue that to exploit the capabilities of such machines, uni cation-based grammar parsers should distribute work at the level of individual uni cation operations. We present a generic approach to parallel chart parsing that meets this requirement, and show that an implementation of this technique for LinGO achieves considerable speedups.</Paragraph>
+</Section>
+</Paper>
+

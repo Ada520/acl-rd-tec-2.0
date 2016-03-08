@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-2026">
+<Title>GPSG Parsing, Bidirectional Charts, anti Connection Graphs</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+6. hnplementation
+</SectionTitle>
+<Paragraph position="0"> &amp;quot;Ille method has been implemented as a Como mon Lisp program on a pVAX-II. A core GPSG grannnar of French was developed using this parser.</Paragraph>
+<Paragraph position="1"> In order to assess the interest of the bidirectional chart and its head-driven bottom-up strategy we made a series of tests consisting in parsing a small set of French sentences under three different strategies : strategy I was left-to-right and top-down, strategy 1I was left-to-right and bottom-up, and strategy Iii, the chosen one, is bidirectional, bottom-up ,and head-driven. Table 1 gives the observed performances of the three strategies measured by the total number of edges created and the total CPU time needed to parse all sentences t.</Paragraph>
+</Section>
+</Paper>
+

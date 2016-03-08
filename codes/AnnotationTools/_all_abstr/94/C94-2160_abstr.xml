@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C94-2160">
+<Title>THE PARSODY SYSTEM : AUTOMATIC PREDICTION OF PROSODIC BOUNDARIES FOR TEXT-TO-SPEECH</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+THE PARSODY SYSTEM : AUTOMATIC PREDICTION OF PROSODIC BOUNDARIES
+FOR TEXT-TO-SPEECH
+</SectionTitle>
+<Paragraph position="0"> tel +44-473-645384, e-mail : sminnis@bt-sys.bt.co.uk@unet As commercial text-to-speech systems move above the word level to the sentence level, the prediction of the correct prosodic information becomes a significant factor in the perceived naturalness of the synthesised speech.</Paragraph>
+<Paragraph position="1"> This article reports on &amp;quot;Parsody&amp;quot;, an experimental system which combines a partial parser with a prosodic marking component to predict the location and relative strength of prosodic boundaries in text.</Paragraph>
+</Section>
+</Paper>
+

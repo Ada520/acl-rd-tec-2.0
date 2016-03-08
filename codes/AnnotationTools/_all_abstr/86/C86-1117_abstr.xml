@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C86-1117">
+<Title>Getting Things Out Of Order (Au LFG-Proposal for the Treatment of German Word Order)</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+0. INTRODUCTION 1)
+</SectionTitle>
+<Paragraph position="0"> One of the most characteristic features of German word order seems to be a contrast between fixed ordering rules concerning the order of verbal elements and a much more variable ordering of their corresponding nominal arguments. As a consequence German word order seems to yield a large number of phenomena that may be classified as 'unbounded' or 'long-distance dependencies', without necessarily involving wh-constituents or 'movement' across sentence boundaries. Whereas in traditional LFG long distance dependencies are treated by means of constituent control, we will follow a recent proposal by KAPLAN and ZAENEN (1986) to give up the constraint known as 'functional locality' and instead allow regular expressions to appear as functional schemata annotated to c-structure rules. Exploiting the principles of completeness and coherence we will thus be able to cope even with absolutely free word order without the need of generating empty terminal nodes at all. The empirical assumption, underlying the proposed analysis in its most radical form, is the hypothesis that (with very few exceptions) the nominal arguments have to appear to the left of the verb by which they are assigned case. We will restrict the discussion to sentences with one finite verb as well as to subcategorized nominal arguments, largely ignoring ADJuncts. 2) In chap. 1. we will introduce the mechanism of 'functional incertainty', applied to the example of extraposed infinitival constructions. Chap. 2. will deal with the sentence initial position(s) in verb-second clauses and chap. 3. will discuss some approaches to handle free word order in the topological field between COMP and the clause-final verb complex.</Paragraph>
+</Section>
+</Paper>
+

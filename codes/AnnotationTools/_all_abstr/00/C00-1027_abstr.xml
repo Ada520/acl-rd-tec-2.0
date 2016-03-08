@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-1027">
+<Title>Empirical Estimates of Adaptation: The chance of Two Noriegas is closer to p/2 than p 2</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Repetition is very common. Adaptive language models, which allow probabilities to change or adapt after seeing just a few words of a text, were introduced in speech recognition to account for text cohesion.</Paragraph>
+<Paragraph position="1"> Suppose a document mentions Noriega once. What is the chance that he will be mentioned again? if the first instance has probability p, then under standard (bag-of words) independence assumptions, two instances ought to have probability p2, but we find the probability is actually closer to p/2. The first mention of a word obviously depends on frequency, but surprisingly, the second does not. Adaptation depends more on lexical content than fl'equency; there is more adaptation for content words (proper nouns, technical terminology and good keywords for information retrieval), and less adaptation for function words, cliches and ordinary first names.</Paragraph>
+</Section>
+</Paper>
+

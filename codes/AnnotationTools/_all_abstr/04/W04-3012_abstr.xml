@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-3012">
+<Title>Word level confidence measurement using semantic features. In Proceedings of ICASSP, Hong Kong, April.</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present the results of experiments aimed at assigning domains to speech recognition hypotheses (SRH). The methods rely on high-level linguistic representations of SRHs as sets of ontological concepts. We experimented with two domain models and evaluated their performance against a statistical, word-based model. Our hand-annotated and tf*idf-based models yielded a precision of 88,39% and 82,59% respectively, compared to 93,14% for the word-based base-line model. These results are explained in terms of our experimental setup.</Paragraph>
+</Section>
+</Paper>
+

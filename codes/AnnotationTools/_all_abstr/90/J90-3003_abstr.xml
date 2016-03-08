@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J90-3003">
+<Title>A COMPUTATIONAL GRAMMAR OF DISCOURSE-NEUTRAL PROSODIC PHRASING IN ENGLISH</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+A COMPUTATIONAL GRAMMAR OF DISCOURSE-NEUTRAL PROSODIC
+PHRASING IN ENGLISH
+</SectionTitle>
+<Paragraph position="0"> J. Bachenko and E. Fitzpatrick AT &amp; T Bell Laboratories Murray Hill, NJ 07974 We describe an experimental text-to-speech system that uses information about syntactic constituency, adjacency to a verb, and constituent length to determine prosodic phrasing for synthetic speech. A central goal of our work has been to characterize &amp;quot;discourse neutral&amp;quot; phrasing, i.e. sentence-level phrasing patterns that are independent of discourse semantics. Our account builds on Bachenko et al. (1986), but differs in its treatment of clausal structure and predicate-argument relations. Results so far indicate that the current system performs well when measured against a corpus of judgments of prosodic phrasing.</Paragraph>
+</Section>
+</Paper>
+

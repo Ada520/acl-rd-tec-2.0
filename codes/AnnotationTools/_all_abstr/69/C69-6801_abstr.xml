@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C69-6801">
+<Title>MULTI-INDEX SYNTACTICAL CALCULUS</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+MULTI-INDEX SYNTACTICAL CALCULUS
+</SectionTitle>
+<Paragraph position="0"></Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+Hans Karlgren
+Introduction
+</SectionTitle>
+<Paragraph position="0"> In our work on analyzing Swedish nominal phrases as they appear as document titles - particularly titles of articles in periodicals - we have primarily utilized context-free rules. In an  endeavour to reduce the cumbersomeness of such rules, we have used the notation: (1) a b ~ c for x = p, q, r and y = u, v xy xy xy  as a shorthand for six substantially similar rules. The gain is not merely that of avoiding scrivener's palsy - and puncher's impatience, since the analysis program also accepts this short-hand - but also that of clarifying the parallelism between the rules. The rule schema reads Ha syntagm of type a combines with one of type b to form one of type c, each being respectively of subclass p, q or r and u or v '~. If the subscripts are interpretable as linguistic categories, this notation seems quite natural. We might write a fundamental rule of Latin grammar, by way of illustration, thus adJng c ndegmng c ~ nOmng c which would mean that to a nominal group may be joined an adjective of the respective number gender, and case without changing the syntactical category of the group.</Paragraph>
+<Paragraph position="1"> KVAL, Fack, Stockholm 40.</Paragraph>
+<Paragraph position="2"> The work reported in this paper has been sponsored by The Bank of Sweden Tercentenary Fund and The Swedish Humanistic Research Council This notational little device actually often reduces the intuitive need for-context-sensitive rhles, since it performs what these rules are required to do in the domain where we have a choice, namely to bring out the common pattern and leave aside for later consideration the minor adjustments. Now, in practice, we have for each word or syntagm not one subscript but a set of alternative subscripts. On the initiative of Gunnar Ehrling, who wrote the analyzer, we further reduce the notation by giving a name to all such sets of alternatives and by specifying in a &amp;quot;multiplication table'the name of the set of alternatives forming the intersection between any pair of such sets. Thus, in place of (1) our rules actually read --4/c . (Z) aik bjl iAj , knl where the values of iflj and kN1 are taken from the &amp;quot;multiplication table'.' We now ask what will happen if we generalize this index &amp;quot;multiplication&amp;quot; so that it will represent not intersection of index sets but an arbitrary binary operation on the set of index symbols. Particularly, we are interested in the case where this multiplication is non-associative and the set of index symbols is not closed under multiplication. This would mean that the restrictions imposed by the indexes on the sentence or part thereof could, in their turn, be written as a context-free - not a finite-state - grammar over the index symbols.</Paragraph>
+<Paragraph position="3"> When the subscript multiplication rules are generalized so far, they are of the same kind as the &amp;quot; &amp;quot; ' on multlphcation&amp;quot; the main level, and we prefer to write a filk for aik and we define</Paragraph>
+</Section>
+</Section>
+</Paper>
+

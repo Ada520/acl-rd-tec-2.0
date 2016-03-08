@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-0204">
+<Title>Texplore exploring expository texts via hierarchical representation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Exploring expository texts presents an interesting and important challenge. They are read routinely and extensively in the form of online newspapers, web-based articles, reports, technical and academic papers. We present a system, called Texplore, which assists readers in exploring the content of expository texts. The system provides two mechanisms for text exploration, an expandable outline that represents the hierarchical structure of the text, and a concept index, hot-linked to the concept references in the text. The hierarchical structure is discovered using lexical cohesion methods combined with hierarchical agglomerative clustering. The list of concepts are discovered by n-gram analysis filtered by part-of-speech patterns. Rather than the common presentation of documents by static abstracts, Texplore provides dynamic presentation of the text's content, where the user controls the level of detail.q.</Paragraph>
+</Section>
+</Paper>
+

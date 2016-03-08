@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C80-1071">
+<Title>SPEECH RECOGNITION SYSTEM FOR SPOKEN JAPANESE SENTENCES</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+SPEECH RECOGNITION SYSTEM FOR SPOKEN JAPANESE SENTENCES
+</SectionTitle>
+<Paragraph position="0"> Summary: A speech recognition system for continuously spoken Japanese simple sentences is described. The acoustic analyser based on a psychological assumption for phoneme identification can represent the speech sound by a phoneme string in an expanded sense which contains acoustic features such as buzz and silence as well as ordinary phonemes. Each item of the word dictionary is written in Roman letters of Hepburn system, and the reference phoneme string and the reference characteristic phoneme string necessary for matching procedure of input phoneme sequences are obtained from the word dictionary using a translating routine. In syntax analysis, inflexion of verbs and adjectives and those of some main auxiliary verbs are taken into account.</Paragraph>
+<Paragraph position="1"> The syntax analyser uses a network dealing with state transition among Parts of speech, predicts following words and outputs their syntactic interpretation of the input phoneme string. The semantic knowledge system deals with semantic definition of each verb, semantic nature of each word and the schema of the sentence, and conconstructs a semantic network. The semantic analyser examines semantic validity of the recognized sentence as to whether each word in the sentence meets the definition of the recognized verb or others. The present object of recognition is a Japanese fairy tale composed of simple sentences alone. The syntactic and semantic analysers work well and can recognize simple sentences provided that the acoustic analyser outputs correct phoneme strings. For real speech, though the level of semantic processing is yet low, it can recognize 25 blocks out of 33 blocks (A block means a part of speech sound uttered in a breath.), and 9 sentences out of 16 sentences uttered by an adult male.</Paragraph>
+</Section>
+</Paper>
+

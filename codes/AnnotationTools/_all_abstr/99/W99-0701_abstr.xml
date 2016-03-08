@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W99-0701">
+<Title>Unsupervised Learning of Word Boundary with Description Length Gain</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents an unsupervised approach to lexical acquisition with the goodness measure description length gain (DLG) formulated following classic information theory within the minimum description length (MDL) paradigm. The learning algorithm seeks for an optimal segmentation of an utterance that maximises the description length gain from the individual segments. The resultant segments show a nice correspondence to lexical items (in particular, words) in a natural language like English. Learning experiments on large-scMe corpora (e.g., the Brown corpus) have shown the effectiveness of both the learning algorithm and the goodness measure that guides that learning.</Paragraph>
+</Section>
+</Paper>
+

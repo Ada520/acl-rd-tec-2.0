@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W01-0907">
+<Title>Definition of an Evaluation Grid for Term-</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes the work achieved in the Concerted Research Project ARC A3 supported and coordinated by the AUF1, former Aupelf-Uref2. The project deals with the evaluation of term and semantic relation extraction from corpora in French.</Paragraph>
+<Paragraph position="1"> Eight participants, both from public institutions and industrial corporations were involved in this project and were responsible for producing corpora suitable for extraction tasks and elaborating a protocol in order to evaluate objectively terminology acquisition tools. This expression covers respectively, term extractors, classifiers and semantic relation extractors. The paper also reports on the methodology used for comparing four term extractors, one classifier and three semantic relation extractors during the 2000 evaluation campaign. There are also several by-products of this campaign: first, two corpora which can be used for NLP system development and evaluation as the AUF recommended; and then terminology products: for each corpus a list of terms characterizing the field is available. We are not giving details about the results but rather an assessment of what the evaluation of Terminology Extraction Tools is: how was it done, what were the difficulties, which are the advantages and disadvantages of the adopted protocol, what are the limits and how should we proceed for future testing.</Paragraph>
+<Paragraph position="2">  ARC A3 is a project of the ILEC3 group coordinated and founded by AUF. It was started in 1995 in order to promote research in the field of terminology acquisition. The ARC A3, &amp;quot;Term and Semantic Relation Extraction from Corpora in French&amp;quot; project aim is to test software capabilities in term and semantic relation extraction from corpora in French. Systems submitted to this evaluation are designed by French and Canadian research institutions (National Scientific Research Center and Universities) and/or private businesses. These systems have been extensively described in our previous work (cf. Beguin, et al., 1997, 2000; Jouis et al., 1997; Mustafa El Hadi et al., 1996a, 1996b, 1997 &amp; 1998;). The first phase of the project has been directed towards testing the systems on one corpus4 (trial run) and towards elaborating a workable protocol based on this experience. The first results were presented during the first conference of JST5 (cf. Beguin et al., 1997, 2000). This article reports on the second and final evaluation campaign.</Paragraph>
+</Section>
+</Paper>
+

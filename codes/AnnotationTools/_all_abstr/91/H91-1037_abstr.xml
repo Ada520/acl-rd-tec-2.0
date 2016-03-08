@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H91-1037">
+<Title>Partial Parsing: A Report on Work in Progress</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper reports a handful of experiments designed to test the feasibility of applying well-known partial parsing techniques to the problem of automatic data base update from an open-ended source of messages, and the feasiblity of automatically learning semantic knowledge from annotated examples. The challenges arise from the incompleteness of any lexicon, sentences that average over 20 words in length, and the lack of a complete semantics.</Paragraph>
+<Paragraph position="1"> Introduction Traditionally natural language processing (NLP) has focussed on obtaining complete syntactic analyses of all input and on semantic analysis based on handcrafted knowledge. However, grammars are incomplete; text often contains new words; and there are errors in text. Furthermore, as research activities tackle broader domains and if the research results are to scale up to realistic applications, handcrafting knowledge must give way to automatic knowledge base construction.</Paragraph>
+<Paragraph position="2"> An alternative to traditional parsers is represented in FIDDITCH (Hindle, 1983), MITFP (deMarcken 1990), and CASS (Abney, 1990). Instead of requiring complete parses, a forest is frequently produced, each tree in the forest representing a non-overlapping fragment of the input. However, algorithms for finding the semantics of the whole from the disjoint fragments have not previously been developed nor evaluated.</Paragraph>
+<Paragraph position="3"> We are comparing several differing algorithms from various sites to evaluate both the effectiveness of such a strategy in correctly predicting fragments and the effectiveness of syntactic/semantic algorithms for combining fragments. One question our research is trying to answer is how well the linguistic expression of entities and the relational structures among them can be recovered for data base update without determining global syntactic structure and without full information regarding the vocabulary items. A second question is how well an algorithm to learn lexical semantic knowledge from examples will perform.</Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+Application Context
+</SectionTitle>
+<Paragraph position="0"> For message processing, insistence on complete syntactic analysis is usually unnecessary, since much of the input isn't directly relevant to updating a data base, routing a message, or prioritizing it.</Paragraph>
+<Paragraph position="1"> An example article from the Third Message Understanding Conference (MUC-3), illustrates how complete analysis is unnecessary; the first sixteen paragraphs relate the results of a summit between the presidents of Peru and Bolivia. Those paragraphs would not add anything to the MUC-3 data base on terrorist acts. However, the final two sentences of the article mention, almost incidentally, that a bomb exploded near the summit, and therefore, do provide data to be added to the terrorism data base.</Paragraph>
+<Paragraph position="2"> Even at the sentential level, one is not likely to be able to reliably compute a full semantic interpretation. For instance, in the sentence below from the aforementioned article, only the material in italics actually contributes to the desired, pre-defined data base update.</Paragraph>
+<Paragraph position="3"> A BOMB EXPLODED TODAY AT DAWN IN THE PERUVIAN</Paragraph>
+</Section>
+</Section>
+</Paper>
+

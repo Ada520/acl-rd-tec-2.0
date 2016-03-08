@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-2122">
+<Title>Learning to Select a Good Translation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Within tile machine translation system Verbmobil, translation is 1)ertbrmed simultaneously 1)y four indel)endent translation lnodules. The \['our competing l;ranslatiol~s are coati)|ned 1)y a se,\[e('tion module so as to forln a single optimal outlmt for each intmt utterance. The selection module relies on confidence values that are delivered together with each of the alternative translations. Sin(:e the (:onfidence values are computed t)y four independent modules that are flmdanlentally difl'erent from (me another, they are not dire(:tly (:oml)arat)le and ne, ed to l)e rescaled in order to gain (:onq)arative signiticance. In this pat)er we describe a machine lecturing method tailored to overcome this difficulty l)y using offline hmnan thedback to determine an at)prol)riate confidence res(:aling scheme. Additionally, we des(:rit)e some other sour(:es of information that are used tbr selecting 1)el;ween the comt)eting translations, and describe the way in which the seh',ction t)rocess relates to quality of service specifi('ations.</Paragraph>
+</Section>
+</Paper>
+

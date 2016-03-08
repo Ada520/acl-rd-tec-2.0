@@ -1,0 +1,71 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C02-1074">
+<Title>Text Categorization using Feature Projections</Title>
+<Section position="1" start_page="0" end_page="3211" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper proposes a new approach for text categorization, based on a feature projection technique. In our approach, training data are represented as the projections of training documents on each feature. The voting for a classification is processed on the basis of individual feature projections. The final classification of test documents is determined by a majority voting from the individual classifications of each feature.</Paragraph>
+<Paragraph position="1"> Our empirical results show that the proposed approach, Text Categorization using Feature Projections (TCFP), outperforms k-NN, Rocchio, and Naive Bayes. Most of all, TCFP is about one hundred times faster than k-NN. Since TCFP algorithm is very simple, its implementation and training process can be done very easily. For these reasons, TCFP can be a useful classifier in the areas, which need a fast and high-performance text categorization task.</Paragraph>
+<Paragraph position="2"> Introduction An issue of text categorization is to classify documents into a certain number of pre-defined categories. Text categorization is an active research area in information retrieval and machine learning. A wide range of supervised learning algorithms has been applied to this issue, using a training data set of categorized documents. The Naive Bayes (McCalum et al., 1998; Ko et al., 2000), Nearest Neighbor (Yang et al., 2002), and Rocchio (Lewis et al., 1996) are well-known algorithms.</Paragraph>
+<Paragraph position="3"> Among these learning algorithms, we focus on the Nearest Neighbor algorithm. In particular, the k-Nearest Neighbor (k-NN) classifier in text categorization is one of the state-of-the-art methods including Support Vector Machine (SVM) and Boosting algorithms. Since the Nearest Neighbor algorithm is much simpler than the other algorithms, the k-NN classifier is intuitive and easy to understand, and it learns quickly. But the weak point of k-NN is too slow at running time. The main computation is the on-line scoring of all training documents, in order to find the k nearest neighbors of a test document. In order to reduce the scaling problem in on-line ranking, a number of techniques have been studied in the literature. Techniques such as instance pruning technique (Wilson et al., 2000) and projection (Akkus et al., 1996) are well known.</Paragraph>
+<Paragraph position="4"> The instance pruning technique is one of the most straightforward ways to speed classification in a nearest neighbor system. It reduces time necessary and storage requirements by removing instances from the training set. A large number of such reduction techniques have been proposed, including the Condensed Nearest Neighbor Rule (Hart, 1968), IB2 and IB3 (Aha et al., 1991), and the Typical Instance Based Learning (Zhang, 1992). These and other reduction techniques were surveyed in depth in (Wilson et al., 1999), along with several new reduction techniques called DROP1-DROP5.Of these, DROP4 had the best performance.</Paragraph>
+<Paragraph position="5"> Another trial to overcome this problem exists on feature projections. Akkus and Guvenir presented a new approach to classification based on feature projections (Akkus et al., 1996). They called their resulting algorithm k-Nearest Neighbor on Feature Projections (k-NNFP). In this approach, the classification knowledge is represented as the sets of projections of training data on each feature dimension. The classification of an instance is based on a voting by the k nearest neighbors of each feature in a test instance. The resulting system allowed the classification to be much faster than that of k-NN and its performance were comparable with k-NN.</Paragraph>
+<Paragraph position="6"> In this paper, we present a particular implementation of text categorization using feature projections. When we applied the feature projection technique to text categorization, we found several problems caused by the special properties of text categorization problem. We describe these problems in detail and propose a new approach to solve them. The proposed system shows the better performance than k-NN and it is much faster than k-NN.</Paragraph>
+<Paragraph position="7"> The rest of this paper is organized as follows. Section 1 simply presents k-NN and k-NNFP algorithm. Section 2 explains a new approach using feature projections. In section 3, we discuss empirical results in our experiments.</Paragraph>
+<Paragraph position="8"> Section 4 is devoted to an analysis of time complexity and strong points of the new proposed classifier. The final section presents conclusions.</Paragraph>
+<Paragraph position="9"> 1. k-NN and k-NNFP Algorithm In this section, we simply describe k-NN and k-NNFP algorithm.</Paragraph>
+<Section position="1" start_page="0" end_page="2" type="sub_section">
+<SectionTitle>
+1.1 k-NN Algorithm
+</SectionTitle>
+<Paragraph position="0"> As an instance-based classification method, k-NN has been known as an effective approach to a broad range of pattern recognition and text classification problems (Duda et al., 2001; Yang, 1994). In k-NN algorithm, a new input instance should belong to the same class as their k nearest neighbors in the training data set. After all the training data is stored in memory, a new input instance is classified with the class of k nearest neighbors among all stored training instances.</Paragraph>
+<Paragraph position="1"> For the distance measure and the document representation, we use the conventional vector space model in text categorization; each document is represented as a vector of term weights, and similarity between two documents is measured by the cosine value of the angle between the corresponding vectors (Yang et al., 2002).</Paragraph>
+<Paragraph position="2"> Let a document d with n terms (t)be represented as the feature vector:</Paragraph>
+<Paragraph position="4"> We compute the weight vectors for each document using one of the conventional TF-IDF schemes (Salton et al., 1988). The weight of term t in document d is calculated as follows:</Paragraph>
+<Paragraph position="6"> ),( is the 2-norm of vector d r Given an arbitrary test document d,thek-NN classifier assigns a relevance score to each candidate category c j using the following formula:</Paragraph>
+<Paragraph position="8"> denotes a set of the k nearest neighbors of document d and D j is a set of training documents in class c</Paragraph>
+<Paragraph position="10"> The k-NNFP is a variant of k-NN method. The main difference is that instances are projected on their features in the n-dimensional space (see figure 1) and distance between two instances is calculated according to a single feature. The distance between two instances d</Paragraph>
+<Paragraph position="12"> The classification on a feature is done according to votes of the k-nearest neighbors of that feature in a test instance. The final classification of the test instance is determined by a majority voting from individual classification of each feature. If there are n features, this method returns nx k votes whereas  k-NN method returns k votes.</Paragraph>
+<Paragraph position="13"> 2. A New Approach of Text  Categorization on Feature Projections First of all, we show an example of feature projections in text categorization for more easy understanding. We then enumerate the problems to be duly considered when the feature projection technique is applied to text categorization. Finally, we propose a new approach using feature projections to overcome these problems.</Paragraph>
+</Section>
+<Section position="2" start_page="2" end_page="3211" type="sub_section">
+<SectionTitle>
+2.1 An Example of Feature Projections in
+Text Categorization
+</SectionTitle>
+<Paragraph position="0"> We give a simple example of the feature projections in text categorization. To simplify our description, we suppose that all documents have just two features (f  ). The TF-IDF value by formula (2) is used as the weight of a feautre. Each document is normalized as a unit vector and each category has three instances: {}  ,, dddc = and {} 6542 ,, dddc = . Figure 1  shows how document vectors in conventional vector space are transformed into feature projections and stored on each feature dimension. Theresultoffeatureprojectionsonaterm(or feature) can be seen as a set of weights of documents for the term. Since a term with 0.0 weight is useless, the size of the set equals to the DF value of the term.</Paragraph>
+</Section>
+<Section position="3" start_page="3211" end_page="3211" type="sub_section">
+<SectionTitle>
+2.2 Problems in Applying Feature Projections
+</SectionTitle>
+<Paragraph position="0"> to Text Categorization There are three problems: (1) the diversity of the Document Frequency (DF) values of terms, (2) the property of using TF-IDF value of a term as the weight of the feature, and (3) the lack of contextual information.</Paragraph>
+<Paragraph position="1">  values of terms Table 1 shows a distribution of the DF values of the terms in Newsgroup data set. The numerical values of Table 1 are calculated from training data set with 16,000 documents and 10,000 features chosen by feature selection. The k in fourth column means the number of nearest neighbors selected in k-NNFP; the k in k-NNFP was set to 20 in our experiments.</Paragraph>
+<Paragraph position="2">  features have the DF values less than k (20). This result is also explained by Zipf's law. The problem is that some features have the DF values less than k while other features have the DF values much greater than k. For a feature that has a DF value less than k, all the elements of the feature projections on the feature could and should participate for voting. In this case, the number of elements chosen for voting is less than k. For other features, only maximum k elements among the elements of the feature projections should be chosen for voting.</Paragraph>
+<Paragraph position="3"> Therefore, we need to normalize the voting ratio for each feature. As shown in formula (5), we use a proportional voting method to normalize the voting ratio.</Paragraph>
+<Paragraph position="4">  term as weight of a feature TheTF-IDFvalueofatermistheirpresumed value for identifying the content of a document (Salton et al., 1983). On feature projections, elements with a high TF-IDF value for a feature become more useful classification criterions for the feature than any elements with low TF-IDF values. Thus we use only elements with TF-IDF values above the average TF-IDF value for voting. The selected elements also participate for proportional voting with the same importance as TF-IDF value of each element. The voting ratio of each category c  denotes a set of elements selected for voting and {}1.0))(,( [?]ltcy m j is a function; if the category for a element )(lt m is equal to jc , the output value is 1. Otherwise, the output value is 0.</Paragraph>
+<Paragraph position="5">  Since each feature votes separately on feature projections, contextual information is missed. We use the idea of co-occurrence frequency for applying contextual information to our algorithm.</Paragraph>
+<Paragraph position="6"> To calculate a co-occurrence frequency value between two terms t</Paragraph>
+<Paragraph position="8"> , we count the number of documents that include both terms. It is separately calculated in each category of training data. Finally, the co-occurrence frequency value of two terms is obtained by a maximum value among co-occurrence frequency values in each category as follows:</Paragraph>
+<Paragraph position="10"> ttco denotes a co-occurrence frequency value of t</Paragraph>
+<Paragraph position="12"> occur in a test document d,aremodifiedby reflecting the co-occurrence frequency value.</Paragraph>
+<Paragraph position="13"> That is, the terms with a high co-occurrence frequency value and a low category frequency value could have higher term weights as follows:</Paragraph>
+<Paragraph position="15"> ,d) denotes a modified term weight assigned to term t</Paragraph>
+<Paragraph position="17"> maximum value among all co-occurrence frequency values.</Paragraph>
+<Paragraph position="18"> Finally, in order to apply these improvements (formulae (5) and (7)) to our algorithm, we calculate the voting score of each category jc</Paragraph>
+<Paragraph position="20"> as the following formula:</Paragraph>
+<Paragraph position="22"> Here, since the modified TF-IDF value of a feature in a test document has to be also considered as an important factor, it is used for voting score instead of the simple voting value</Paragraph>
+<Paragraph position="24"></Paragraph>
+</Section>
+<Section position="4" start_page="3211" end_page="3211" type="sub_section">
+<SectionTitle>
+2.3 A New Text Categorization Algorithm
+using Feature Projections
+</SectionTitle>
+<Paragraph position="0"> A new text categorization algorithm using feature projections, named TCFP, is described in the following: In training phase, our algorithm needs only a very simple process; the training documents are projected on their each feature and numerical values for the proportional voting (formula (5)) are calculated.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

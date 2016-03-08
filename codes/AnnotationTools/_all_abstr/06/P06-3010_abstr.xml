@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P06-3010">
+<Title>Sydney, July 2006. c(c)2006 Association for Computational Linguistics A Hybrid Relational Approach for WSD - First Results</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a novel hybrid approach for</Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+Word Sense Disambiguation (WSD)
+</SectionTitle>
+<Paragraph position="0"> which makes use of a relational formalism to represent instances and background knowledge. It is built using Inductive Logic Programming techniques to combine evidence coming from both sources during the learning process, producing a rule-based WSD model. We experimented with this approach to disambiguate 7 highly ambiguous verbs in English-Portuguese translation. Results showed that the approach is promising, achieving an average accuracy of 75%, which out-performs the other machine learning techniques investigated (66%).</Paragraph>
+</Section>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C92-2087">
+<Title>Logical Form of Hierarchical Relation on Verbs and Extracting it from Definition Sentences in a Japanese Dictionary</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> We are studying how to extract hierarchical relation on verbs from definition sentences in a Japanese dictionary. The hierarchical relation on verbs has been dealt with as a binary relation on verbs, but it should be dealt with as logical relation on predicates. We will define the logical form of the hierarchical relation on verbs and then discuss which part of the syntactic structure of the definition sentence represents that relation. We will call the main predicate verb in this part the definition verb. Furthermore we will describe how to semiautomatically select the proper meaning of the definition verb and the proper correspondence between cases of an entry verb and the definition verb in order to extract the hierarchical relation as logical relation.</Paragraph>
+</Section>
+</Paper>
+

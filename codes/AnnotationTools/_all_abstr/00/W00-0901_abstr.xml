@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-0901">
+<Title>Comparing Corpora using Frequency Profiling</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a method of comparing corpora which uses frequency profiling. The method can be used to discover key words in the corpora which differentiate one corpus from another. Using annotated corpora, it can be applied to discover key grammatical or word-sense categories. This can be used as a quick way in to find the differences between the corpora and is shown to have applications in the study of social differentiation in the use of English vocabulary, profiling of learner English and document analysis in the software engineering process.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1146">
+<Title>Characterising Measures of Lexical Distributional Similarity</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This work investigates the variation in a word's distributionally nearest neighbours with respect to the similarity measure used. We identify one type of variation as being the relative frequency of the neighbour words with respect to the frequency of the target word. We then demonstrate a three-way connection between relative frequency of similar words, a concept of distributional gnerality and the semantic relation of hyponymy. Finally, we consider the impact that this has on one application of distributional similarity methods (judging the compositionality of collocations).</Paragraph>
+</Section>
+</Paper>
+

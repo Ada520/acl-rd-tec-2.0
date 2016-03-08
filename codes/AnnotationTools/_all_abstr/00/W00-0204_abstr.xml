@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-0204">
+<Title>An interlingua aiming at communication on the Web: How language-independent can it be? Ronaldo Teixeira Martins ronaIdo @nilc.icmsc.sc.usp.br</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we describe the Universal Networking Language, an interlingua to be plugged in a Web environment aiming at allowing for many-to-many information exchange, 'many' here referring to many natural languages. The interlingua is embedded in a Knowledge-Base MT system whose language-dependent modules comprise an encoder, a decoder, and linguistic resources that have been developed by native speakers of each language involved in the project. Issues concerning both the interlingua formalism and its foundational issues are discussed.</Paragraph>
+</Section>
+</Paper>
+

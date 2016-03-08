@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P02-1012">
+<Title>Pronominalization in Generated Discourse and Dialogue</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Previous approaches to pronominalization have largely been theoretical rather than applied in nature. Frequently, such methods are based on Centering Theory, which deals with the resolution of anaphoric pronouns. But it is not clear that complex theoretical mechanisms, while having satisfying explanatory power, are necessary for the actual generation of pronouns. We first illustrate examples of pronouns from various domains, describe a simple method for generating pronouns in an implemented multi-page generation system, and present an evaluation of its performance.</Paragraph>
+</Section>
+</Paper>
+

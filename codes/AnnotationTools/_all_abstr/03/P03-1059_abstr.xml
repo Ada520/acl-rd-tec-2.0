@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P03-1059">
+<Title>Learning the Countability of English Nouns from Corpus Data</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a method for learning the countability preferences of English nouns from raw text corpora. The method maps the corpus-attested lexico-syntactic properties of each noun onto a feature vector, and uses a suite of memory-based classifiers to predict membership in 4 countability classes. We were able to assign countability to English nouns with a precision of 94.6%.</Paragraph>
+</Section>
+</Paper>
+

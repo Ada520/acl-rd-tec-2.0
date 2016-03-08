@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-2043">
+<Title></Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> When an idiomatic expression is encountered during natural language processing, the ambiguity between its idiomatic ~md non-idiomatic meaning has to be resolved.</Paragraph>
+<Paragraph position="1"> Rather than including both meanings in further processing, a conventionality-principle could be applied. This results in best-first processing of the idiomatic analysis.</Paragraph>
+<Paragraph position="2"> Two models are discussed fot the lexical representation of idioms. One extends the notion continuation class from two-level morphology, the other is a localist, connectionist model. The connectionist model has an important advantage over the continuation class model: the conventionality principle follows naturally from the architecture of the conneetionist model.</Paragraph>
+<Paragraph position="3"> Keywords: idiom processing, ambiguity resulution, two-level morphology, conneetionism.</Paragraph>
+</Section>
+</Paper>
+

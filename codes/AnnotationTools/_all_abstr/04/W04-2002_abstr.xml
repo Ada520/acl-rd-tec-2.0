@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-2002">
+<Title>Robust Models of Human Parsing</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Robustness and Human Parsing
+</SectionTitle>
+<Paragraph position="0"> A striking property of the human parser is its efficiency and robustness. For the vast majority of sentences, the parser will effortlessly and rapidly deliver the correct analysis. In doing so, it is robust to noise, i.e., it can provide an analysis even if the input is distorted, e.g., by ungrammaticalities. Furthermore, the human parser achieves broad coverage: it deals with a wide variety of syntactic constructions, and is not restricted by the domain, genre, or modality of the input.</Paragraph>
+<Paragraph position="1"> Current research on human parsing rarely investigates the issues of efficiency, robustness, and broad coverage, as pointed out by Crocker and Brants (2000). Instead, most researchers have focussed on the difficulties that the human parser has with certain types of sentences. Based on the study of garden path sentences (which involve a local ambiguity that makes the sentence hard to process), theories have been developed that successfully explain how the human parser deals with ambiguities in the input. However, garden path sentences are arguably a pathological case for the parser; garden paths are not representative of naturally occurring text. This means that the corresponding processing theories face a scaling problem: it is not clear how they can explain the normal behavior of the human parser, where sentence processing is highly efficient and very robust (see Crocker and Brants 2000 for details on this scalability argument).</Paragraph>
+<Paragraph position="2"> This criticism applies to most existing theories of human parsing, including the classical garden path model advanced by Frazier and Rayner (1982) and Frazier (1989), and more recent lexicalist parsing frameworks, of which MacDonald et al. (1994) and MacDonald (1994) are representative examples.</Paragraph>
+<Paragraph position="3"> Both the garden path model and the lexicalist model are designed to deal with idealized input, i.e., with input that is (locally) ambiguous, but fully wellformed. A real life parser, however, has to cope with a large amount of noise, which often renders the input ungrammatical or fragmentary, due to errors such as typographical mistakes in the case of text, or slips of the tongue, disfluencies, or repairs in the case of speech. A quick search in the Penn Treebank (Marcus et al., 1993) shows that about 17% of all sentences contain parentheticals or other sentence fragments, interjections, or unbracketable constituents. Note that this figure holds for carefully edited newspaper text; the figure is likely to be much higher for speech. The human parser is robust to such noise, i.e., it is able to assign an (approximate) analysis to a sentence even if it is ungrammatical or fragmentary.</Paragraph>
+</Section>
+</Paper>
+

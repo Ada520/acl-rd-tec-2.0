@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P04-3012">
+<Title>Corpus representativeness for syntactic information acquisition</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper refers to part of our research in the area of automatic acquisition of computational lexicon information from corpus. The present paper reports the ongoing research on corpus representativeness. For the task of inducing information out of text, we wanted to fix a certain degree of confidence on the size and composition of the collection of documents to be observed. The results show that it is possible to work with a relatively small corpus of texts if it is tuned to a particular domain.</Paragraph>
+<Paragraph position="1"> Even more, it seems that a small tuned corpus will be more informative for real parsing than a general corpus.</Paragraph>
+</Section>
+</Paper>
+

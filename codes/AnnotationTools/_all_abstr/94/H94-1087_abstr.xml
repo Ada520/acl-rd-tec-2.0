@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H94-1087">
+<Title>Language Identification via Large Vocabulary Speaker Independent Continuous Speech Recognition</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> The goal of this study is to evaluate the potential for using large vocabulary continuous speech recognition as an engine for automatically classifying utterances according to the language being spoken. The problem of language identification is often thought of as being separate from the problem of speech recognition. But in this paper, as in Dragon's earlier work on topic and speaker identification, we explore a unifying approach to all three message classification problems based on the underlying stochastic process which gives rise to speech. We discuss the theoretical framework upon which our message classification systems are built and report on a series of experiments in which this theory is tested, using large vocabulary continuous speech recognition to distinguish English from Spanish.</Paragraph>
+</Section>
+</Paper>
+

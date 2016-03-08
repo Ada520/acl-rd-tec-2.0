@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-2705">
+<Title>The NomBank Project: An Interim Report</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes NomBank, a project that will provide argument structure for instances of common nouns in the Penn Treebank II corpus.</Paragraph>
+<Paragraph position="1"> NomBank is part of a larger effort to add additional layers of annotation to the Penn Tree-bank II corpus. The University of Pennsylvania's PropBank, NomBank and other annotation projects taken together should lead to the creation of better tools for the automatic analysis of text. This paper describes the NomBank project in detail including its speci cations and the process involved in creating the resource.</Paragraph>
+</Section>
+</Paper>
+

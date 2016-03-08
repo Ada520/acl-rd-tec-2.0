@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1180">
+<Title>Wide-Coverage Semantic Representations from a CCG Parser</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper shows how to construct semantic representations from the derivations produced by a wide-coverage CCG parser. Unlike the dependency structures returned by the parser itself, these can be used directly for semantic interpretation. We demonstrate that well-formed semantic representations can be produced for over 97% of the sentences in unseen WSJ text.</Paragraph>
+<Paragraph position="1"> We believe this is a major step towards wide-coverage semantic interpretation, one of the key objectives of the field of NLP.</Paragraph>
+</Section>
+</Paper>
+

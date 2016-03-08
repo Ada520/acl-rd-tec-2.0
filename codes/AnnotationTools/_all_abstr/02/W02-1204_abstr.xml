@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-1204">
+<Title>in the Ocean. Transatlantic Standards for Multilingual Lexicons (with an eye to Machine Translation). In Proceedings of</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> ISLE is a continuation of the long standing EAGLES initiative and it is supported by EC and NSF under the Human Language Technology (HLT) programme. Its objective is to develop widely agreed and urgently demanded standards and guidelines for infrastructural language resources, tools, and HLT products.</Paragraph>
+<Paragraph position="1"> EAGLES itself is a well-known trademark and point of reference for HLT projects and products and its previous results have already become de facto widely adopted standards. Multilingual computational lexicons, natural interaction and multimodality, and evaluation are the three areas targeted by ISLE. In the first section of the paper we describe the overall goals and methodology of EAGLES/ISLE, in the second section we focus on the work of the Computational Lexicon Working Group, introducing its work strategy and the preliminary guidelines of a standard framework for multilingual computational lexicons, based on a general schema for the &amp;quot;Multilingual ISLE Lexical Entry&amp;quot; (MILE).</Paragraph>
+</Section>
+</Paper>
+

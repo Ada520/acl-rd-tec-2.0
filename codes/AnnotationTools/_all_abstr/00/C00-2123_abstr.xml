@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-2123">
+<Title>Word Re-ordering and DP-based Search in Statistical Machine Translation</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we describe a search procedure for statistical machine translation (MT) based on dynmnic programming (DP). Starting from a DP-based solution to the traveling salesman problem, we present a novel technique to restrict the possible word re-ordering between source and target language in order to achieve an efficient search algorithm. A search restriction especially useful for tile translation direction from German to English is presented. The experimental tests are carried out on the Verbmobil task (Germm&gt;English, 8000-word vocabulary), which is a limited-domain spoken-language task.</Paragraph>
+</Section>
+</Paper>
+

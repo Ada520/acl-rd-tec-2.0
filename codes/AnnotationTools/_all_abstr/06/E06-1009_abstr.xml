@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E06-1009">
+<Title>Information Presentation in Spoken Dialogue Systems</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> To tackle the problem of presenting a large number of options in spoken dialogue systems, we identify compelling optionsbasedonamodelofuserpreferences, null and present tradeoffs between alternative options explicitly. Multiple attractive options are structured such that the user can gradually refine her request to find the optimal tradeoff. We show that our approach presents complex tradeoffs understandably, increases overall user satisfaction, and significantly improves the user's overview of the available options. Moreover, our results suggest that presenting users with a brief summary of the irrelevant options increases users' confidence in having heard about all relevant options.</Paragraph>
+</Section>
+</Paper>
+

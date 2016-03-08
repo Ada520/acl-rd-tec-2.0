@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P00-1022">
+<Title>A Computational Approach to Zero-pronouns in Spanish</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, a computational approach for resolving zero-pronouns in Spanish texts is proposed. Our approach has been evaluated with partial parsing of the text and the results obtained show that these pronouns can be resolved using similar techniques that those used for pronominal anaphora.</Paragraph>
+<Paragraph position="1"> Compared to other well-known baselines on pronominal anaphora resolution, the results obtained with our approach have been consistently better than the rest.</Paragraph>
+<Paragraph position="2"> Introduction In this paper, we focus specifically on the resolution of a linguistic problem for Spanish texts, from the computational point of view: zero-pronouns in the &amp;quot;subject&amp;quot; grammatical position. Therefore, the aim of this paper is not to present a new theory regarding zeropronouns, but to show that other algorithms, which have been previously applied to the computational resolution of other kinds of pronoun, can also be applied to resolve zeropronouns. null The resolution of these pronouns is implemented in the computational system called Slot Unification Parser for Anaphora resolution (SUPAR). This system, which was presented in Ferrandez et al. (1999), resolves anaphora in both English and Spanish texts. It is a modular system and currently it is being used for Machine Translation and Question Answering, in which this kind of pronoun is very important to solve due to its high frequency in Spanish texts as this paper will show.</Paragraph>
+<Paragraph position="3"> We are focussing on zero-pronouns in Spanish texts, although they also appear in other languages, such as Japanese, Italian and Chinese. In English texts, this sort of pronoun occurs far less frequently, as the use of subject pronouns is generally compulsory in the language. While in other languages, zero-pronouns may appear in either the subject's or the object's grammatical position, (e.g.</Paragraph>
+<Paragraph position="4"> Japanese), in Spanish texts, zero-pronouns only appear in the position of the subject.</Paragraph>
+<Paragraph position="5"> In the following section, we present a summary of the present state-of-the-art for zero-pronouns resolution. This is followed by a description of the process for the detection and resolution of zero-pronouns. Finally, we present the results we have obtained with our approach.</Paragraph>
+</Section>
+</Paper>
+

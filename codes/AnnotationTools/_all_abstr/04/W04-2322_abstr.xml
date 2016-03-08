@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-2322">
+<Title>A Rule Based Approach to Discourse Parsing</Title>
+<Section position="1" start_page="1" end_page="1" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we present an overview of recent developments in discourse theory and parsing under the Linguistic Discourse Model (LDM) framework, a semantic theory of discourse structure.</Paragraph>
+<Paragraph position="1"> We give a novel approach to the problem of discourse segmentation based on discourse semantics and sketch a limited but robust approach to symbolic discourse parsing based on syntactic, semantic and lexical rules. To demonstrate the utility of the system in a real application, we briefly describe the architecture of the PALSUMM system, a symbolic summarization system being developed at FX Palo Alto Laboratory that uses discourse structures constructed using the theory outlined to summarize written English prose texts.</Paragraph>
+</Section>
+</Paper>
+

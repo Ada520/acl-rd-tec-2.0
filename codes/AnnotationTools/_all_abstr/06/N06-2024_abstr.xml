@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N06-2024">
+<Title>NER Systems that Suit User's Preferences: Adjusting the Recall-Precision Trade-off for Entity Extraction</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe a method based on &amp;quot;tweaking&amp;quot; an existing learned sequential classifier to change the recall-precision tradeoff, guided by a user-provided performance criterion. This method is evaluated on the task of recognizing personal names in email and newswire text, and proves to be both simple and effective.</Paragraph>
+</Section>
+</Paper>
+

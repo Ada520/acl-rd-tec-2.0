@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-0501">
+<Title>Enriching a formal ontology with a thesaurus: an aplication in the cultural heritage domain</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a pattern-based method to automatically enrich a core ontology with the definitions of a domain glosary. We show an application of our methodology to the cultural heritage domain, using the CIDOC CRM core ontology. To enrich the CIDOC, we use available resources such as the AT art and architecture glosary, WordNet, the Dmoz taxonomy for named entities, and others.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-0838">
+<Title>SenseLearner: Minimally Supervised Word Sense Disambiguation for All Words in Open Text</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper introduces SENSELEARNER - a minimally supervised sense tagger that attempts to disambiguate all content words in a text using the senses from WordNet. SENSELEARNER participated in the SENSEVAL-3 English all words task, and achieved an average accuracy of 64.6%.</Paragraph>
+</Section>
+</Paper>
+

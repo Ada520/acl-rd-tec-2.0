@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="I05-3009">
+<Title>Domain Specific Word Extraction from Hierarchical Web Documents: A First Step Toward Building Lexicon Trees from Web Corpora</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Domain specific words and ontological information among words are important resources for general natural language applications. This paper proposes a statistical model for finding domain specific words (DSWs) in particular domains, and thus building the association among them. When applying this model to the hierarchical structure of the web directories node-by-node, the document tree can potentially be converted into a large semantically annotated lexicon tree. Some preliminary results show that the current approach is better than a conventional TF-IDF approach for measuring domain specificity. An average precision of 65.4% and an average recall of 36.3% are observed if the top-10% candidates are extracted as domain-specific words.</Paragraph>
+</Section>
+</Paper>
+

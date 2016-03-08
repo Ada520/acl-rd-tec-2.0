@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C92-1027">
+<Title>Compiling and Using Finite-State Syntactic Rules</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A language-independent framework for syntactic finlte-state parsing is discussed. The article presents a framework, a formalism, a compiler and a parser for grammars written in this forrealism. As a substantial example, fragments from a nontrivial finite-state grammar of English are discussed.</Paragraph>
+<Paragraph position="1"> The linguistic framework of the present approach is based on a surface syntactic tagging scheme by F. Karlsson. This representation is slightly less powerful than phrase structure tree notation, letUng some ambiguous constructions be described more concisely. The finite-state rule compiler implements what was briefly sketched by Koskenniemi (1990). It is based on the calculus of finite-state machines. The compiler transforms rules into rule-automata. The run-time parser exploits one of certain alternative strategies in performing the effective intersection of the rule automata and the sentence automaton.</Paragraph>
+<Paragraph position="2"> Fragments of a fairly comprehensive finite-state granmmr of English axe presented here, including samples from non-finite constructions as a demonstration of the capacity of the present formalism, which goes far beyond plain disamblguation or part of speech tagging. The grammar itself is directly related to a parser and tagging system for English created as a part of project SIMPR I using Karlsson's CG (Constraint Grammar) formalism.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C94-1059">
+<Title>ENGLISH GENERATION FROM INTERLINGUA</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ENGLISH GENERATION FROM INTERLINGUA
+BY EXAMPI~E-I~ASI~I) METHOI)
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes the experiment of the English generation from interlingua by the example-based method. The generator is implemented by using English Word Dictionary ,and Concept Dictionary developed in EDR. How to construct examples lind how to define the similarities are main problems. The results of experiments are shown.</Paragraph>
+<Paragraph position="1">  1. Introduction Eiji Komatsu*, Jin Cui**, lliroshi Yasuhara** (*) Oki Electric htdustry Co. Ltd. Meltimedia I.aboratory 11-22, Shibaura 4-Chome, Minato-ku, Tokyo 108 Japan e-mail : komatsu @okilab.oki.co.jp (**) Japan Electronic l)ictionary Research Institute l.td. (EDR) 6th Laboratory  Mita-Kokusai-Bldg. 4-28, Mira l-Chome, Minato-kv, Tokyo 108 Japan e-mail : sai@edrrr.edr.co.jp, yasuhara@edr6r.edr.co.jp to mean example data of the example-based method. And the terms &amp;quot;interlingua&amp;quot; and &amp;quot;syntactic tree&amp;quot; are used to mean sets, elements m~d fragments of elentents.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P83-1013">
+<Title>Automatic Recognition of Intonation Patterns</Title>
+<Section position="1" start_page="0" end_page="475" type="abstr">
+<SectionTitle>
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> This paper is a progress report on a project in linguistically based automatic speech recognition, The domain of this project is English intonation. The system I will describe analyzes fundamental frequency contours (F0 contours) of speech in terms of the theory of melody laid out in Pierrehumbert (1980).</Paragraph>
+<Paragraph position="1"> Experiments discussed in Liberman and Pierrehumbert (1983) support the assumptions made about intonational phonetics, and an F0 synthesis program based on a precursor to the present theory is described in Pierrehumbert (1981).</Paragraph>
+<Paragraph position="2"> One aim of the project is to investigate the descriptive adequacy of this theory of English melody. A second motivation is to characterize cases where F0 may provide useful information about stress and phrasing. The third, and to my mind the most important, motivation depends on the observation that English intonation is in itself a small language, complete with a syntax and phonetics. Building a recognizer for this small language is a relatively tractable problem which still presents some of the interesting features of the general speech recognition problem.</Paragraph>
+<Paragraph position="3"> In particular, the F0 contour, like other measurements of speech, is a continuously varying time function without overt segmentation. Its transcription is in terms of a sequence of discrete elements whose relation to the quantitative level of description is not transparent. An analysis of a contour thus relates heterogeneous levels of description, one quantitative and one symbolic. In developing speech recognizers, we wish to exploit achievements in symbolic computation. At the same time, we wish to avoid forcing into a symbolic framework properties which could more insightfully or simply be treated as quantitative. In the case of intonation, our experimental results suggest both a division of labor between these two levels of description, and principles for their interaction.</Paragraph>
+<Paragraph position="4"> The next section of this paper sketches the theory of English intonation on which the recognizer is based. Comparisons to other proposals in the literature are not made here, but can be found in the papers just cited. The third section describes a preliminary implementation. The fourth contains discussion and conclusions.</Paragraph>
+<Paragraph position="5"> 2. Background on intonation</Paragraph>
+<Section position="1" start_page="0" end_page="475" type="sub_section">
+<SectionTitle>
+2.1 Phonology
+</SectionTitle>
+<Paragraph position="0"> The primitives in the theory are two tones, low (L) and high (H). The distinction between L and H is paradigmatic; that is, L is lower than H would be in the same context. It can easily be treated as a distinction in a single binary valued feature.</Paragraph>
+<Paragraph position="1"> Utterances consist of one or more intonation phrases. The melody of an intonation phrase is decomposed into a sequence of elements, each made up of either one or two tones. Some are associated with stressed syllables, and others with the beginning and end of the phrase. Superficially global characteristics of phrasal F0 contours are explicated in terms of the concatenation of these local elements.</Paragraph>
+<Paragraph position="3"> come out as peaks. The alignment of &amp;quot;Elimelech&amp;quot; is indicated.</Paragraph>
+<Paragraph position="4"> *This work was done at MIT under NSF Grant No. IST8012248. null</Paragraph>
+<Paragraph position="6"></Paragraph>
+</Section>
+</Section>
+</Paper>
+

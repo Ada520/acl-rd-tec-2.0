@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-1009">
+<Title>Extracting Nested Collocations</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> growing availability of lm'ge textual cort)ora, and the in(:reasing number of applications of colloeal;ion extra(:tion, has given risc~ 1;o wu.ious apt)roaches on the I;opi(:. In l;his palter, we address the probl(;m of 'ne,stcd collocrd, ions; thai, is, those being l)art of longer colloc;ttions.</Paragraph>
+<Paragraph position="1"> Most approa(:hes till now, tl'(!al;ed subst;rings of collo(:at;ions as eollocal;ions, only if they apl)eared ffequenl;ly enough 1)y l;hemselves in the cor\[)llS. 'Fhese techniques le\['l; ~r lot; of collocations mmxl;ra(:l;ed, in this 1)ai)er, we i)rol)oSe an algoril;hln for a semi-aul;oma|;ic exl;ra(;l;ion of nesl;ed uninl;errupl;ed anti inl;errul)l;ed collo(:al;iolls, paying parl;icular al;l;(~lll;ion to nested collocat;ion.</Paragraph>
+</Section>
+</Paper>
+

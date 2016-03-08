@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E95-1003">
+<Title>Criteria for Measuring Term Recognition</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper qualifies what a true term-recognition systems would have to recognize. The exact bracketing of the maximal termform is then proposed as an achieveable goal upon which current system performance should be measured. How recall and precision metrics are best adapted for measuring term recognition is suggested.</Paragraph>
+</Section>
+</Paper>
+

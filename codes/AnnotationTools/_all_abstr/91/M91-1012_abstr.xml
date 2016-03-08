@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="M91-1012">
+<Title>MCDONNELL DOUGLAS ELECTRONIC SYSTEMS COMPANY : MUC-3 Test Results and Analysi s</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+RESULTS
+</SectionTitle>
+<Paragraph position="0"> INLET scored 25% recall and 35% precision after interactive correction . Non-interactive scores were 22% and 32%, respectively . Relative to other sites, we ranked 7th i n recall and 9th in precision .</Paragraph>
+<Paragraph position="1"> Because we are in transition from one system (VOX) to another (INLET), our scores reflect the performance of a very new and incomplete analyzer, as well as a small vocabulary and knowledge base. To be able to participate in MUC3, we implemented only a skimming capability, rather than a full-fledged syntax-driven language analyzer . Considering the statu s of our project, we feel INLET's performance is highly commendable . We ourselves were surprised by the success of skimming alone in performance on the MUC3 task, especiall y considering the preliminary nature of our work in this area .</Paragraph>
+</Section>
+</Paper>
+

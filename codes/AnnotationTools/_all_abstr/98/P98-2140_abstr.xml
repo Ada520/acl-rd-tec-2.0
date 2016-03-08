@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-2140">
+<Title>Feature Lattices for Maximum Entropy Modelling</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+2 Buccleuch Place, Edinburgh EH8 9LW, Scotland, UK.
+e-mail: Andrei. Mikheev@ed.ac.uk
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Maximum entropy framework proved to be expressive and powerful for the statistical language modelling, but it suffers from the computational expensiveness of the model building. The iterative scaling algorithm that is used for the parameter estimation is computationally expensive while the feature selection process might require to estimate parameters for many candidate features many times. In this paper we present a novel approach for building maximum entropy models. Our approach uses the feature collocation lattice and builds complex candidate features without resorting to iterative scaling.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-1014">
+<Title>Reusing an ontology to generate numeral classifiers</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we present a solution to the problem of generating Japanese nmneral classifiers using semantic classes from an ontology. Most nouns must take a numeral classifier when they are quantiffed in languages such as Chinese, Japanese, Korean, Malay and Thai. In order to select an appropriate classifier, we propose an algorithm which associates classifiers with semantic classes and uses inheritance to list only those classifiers which have to be listed. It generates sortal classifiers with au accuracy of 81%. We reuse the ontology provided by Goi-Taikei -- a Japanese lexicon, and show that it is a reasonable choice for this task, requiring information to be entered for less than 6% of individual nouns.</Paragraph>
+</Section>
+</Paper>
+

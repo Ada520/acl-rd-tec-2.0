@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E91-1032">
+<Title>Multiple Interpreters in a Principle-Based Model of Sentence Processing</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a computational model of human sentence processing based on the principles and parameters paradigm of current linguistic theory. The syntactic processing model posits four modules, recovering phrase structure, long-distance dependencies, coreference, and thematic structure. These four modules are implemented as recta-interpreters over their relevant components of the grammar, permitting variation in the deductive strategies employed by each module. These four interpreters are also 'coroutined' via the freeze directive of constraint logic programruing to achieve incremental interpretation across the modules.</Paragraph>
+</Section>
+</Paper>
+

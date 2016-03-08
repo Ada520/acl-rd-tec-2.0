@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C82-1034">
+<Title>MULTI-LEVEL TRANSLATION AIDS IN A DISTRIBUTED SYSTEM</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+MULTI-LEVEL TRANSLATION AIDS IN A
+DISTRIBUTED SYSTEM
+</SectionTitle>
+<Paragraph position="0"> At COLING80, we reported on an Interactive Translation System called ITS. We will discuss three problems in the design of the first version of ITS: (1) human factors, (2) the &amp;quot;all or nothing&amp;quot; syndrome, and (3) traditional centralized processing. We will also discuss a new version of ITS, which is now being programmed.</Paragraph>
+<Paragraph position="1"> This new version will hopefully overcome these problems by placing the translator in control, providing multiple levels of aid, and distributing the processlng.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P04-1005">
+<Title>A TAG-based noisy channel model of speech repairs</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a noisy channel model of speech repairs, which can identify and correct repairs in speech transcripts. A syntactic parser is used as the source model, and a novel type of TAG-based transducer is the channel model.</Paragraph>
+<Paragraph position="1"> The use of TAG is motivated by the intuition that the reparandum is a \rough copy&amp;quot; of the repair. The model is trained and tested on the Switchboard dis uency-annotated corpus.</Paragraph>
+</Section>
+</Paper>
+

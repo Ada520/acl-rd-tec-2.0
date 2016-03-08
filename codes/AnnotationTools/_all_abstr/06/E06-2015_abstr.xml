@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E06-2015">
+<Title>Semantic Role Labeling for Coreference Resolution</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0">  Extendingamachinelearningbasedcoreference resolution system with a feature capturing automatically generated information about semantic roles improves its performance.</Paragraph>
+</Section>
+</Paper>
+

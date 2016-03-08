@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C88-2129">
+<Title>Understanding of Stories for Animation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> This paper presents the story understanding mechanism for creating computer animation scenarios. The story understanding mechanism reads a natural language story and creates its scenario for realistic graphic animations. This paper presents three types of hidden actions and relations of actions that must be discovered for realistic animations of stories but which are not explicitly described in the stories. They are: 1) causality check among actions; 2) interpolation of a continuous action beyond a sentence; 3) interpolation of hidden actions between neighboring sentences. This paper also describes the inference mechanism which recognizes the need for interpolation of these hidden actions. Multiple TMS is introduced in the mechanism. The knowledge base is action-oriented, hence it is independent of individual stories' domains.</Paragraph>
+</Section>
+</Paper>
+

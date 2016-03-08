@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C94-1067">
+<Title>An HPSG Parser Based on Description l,ogies*</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Ira this paper I present a parser based on Description Logics (I)I.) for a German lll'SG-slyle fragment. The specilied parser relies mainly on the inferential capabilities of the nnderlying DL system. Given a preferential default extension for DL disamhiguation is achieved by choosing the parse containing a qualitatively minimal number of exceptions.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-2804">
+<Title>Ends-based Dialogue Processinga0</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe a reusable and scalable dialogue toolbox and its application in multiple systems.</Paragraph>
+<Paragraph position="1"> Our main claim is that ends-based representation and processing throughout the complete dialogue backbone it essential to our approach.</Paragraph>
+</Section>
+</Paper>
+

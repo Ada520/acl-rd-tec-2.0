@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J85-4001">
+<Title>ON THE COMPLEXITY OF ID/LP PARSING 1</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ON THE COMPLEXITY OF ID/LP PARSING 1
+</SectionTitle>
+<Paragraph position="0"> Modern linguistic theory attributes surface complexity to interacting subsystems of constraints. For instance, the ID/LP grammar formalism separates constraints on immediate dominance from those on linear order. An ID/LP parsing algorithm by Shieber shows how to use ID and LP constraints directly in language processing, without expanding them into an intermediate context-free &amp;quot;object grammar&amp;quot;.</Paragraph>
+<Paragraph position="1"> However, Shieber's purported runtime bound underestimates the difficulty of ID/LP parsing. ID/LP parsing is actually NP-complete, and the worst-case runtime of Shieber's algorithm is actually exponential in grammar size. The growth of parser data structures causes the difficulty. Some computational and linguistic implications follow; in particular, it is important to note that, desplte its potential for combinatorial explosion, Shieber's algorithm remains better than the alternative of parsing an expanded object grammar.</Paragraph>
+</Section>
+</Paper>
+

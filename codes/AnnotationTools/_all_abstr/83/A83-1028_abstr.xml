@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A83-1028">
+<Title>A STATUS REPORT ON THE LRC MACHINE</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> This paper discusses the linguistic and computational techniques employed in the current version of Machine Translation system being developed at the Linguistics Research Center of the University of Texas, under contract to Siemens AG in Munich, West Germany. We pay particular attention to the reasons for our choice of certain techniques over other candidates, based on both objective and subjective criteria. We then report the system's status vis-a-vis its readiness for application in a production environment, as a means of justifying our claims regarding the practical utility of the methods we espouse.</Paragraph>
+</Section>
+</Paper>
+

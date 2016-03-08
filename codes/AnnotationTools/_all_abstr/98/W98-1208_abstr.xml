@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-1208">
+<Title>I! | Implementing a Sense Tagger in a General Architecture for Text Engineering</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe two systems: GATE (General Architecture for Text Engineering), an architecture to aid in the production and delivery of language engineering systems which significantly reduces development time and ease of reuse in such systems. We also describe a sense tagger which we implemented within the GATE architecture, and which achieves high accuracy (92% of all words in text to a broad semantic level). We used the implementation of the sense tagger as a real-world task on which to evaluate the usefulness of the GATE architecture and identified strengths and weaknesses in the architecture.</Paragraph>
+</Section>
+</Paper>
+

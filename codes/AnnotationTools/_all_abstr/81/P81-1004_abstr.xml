@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P81-1004">
+<Title>PERFORMANCE COMPARISON OF COMPONENT ALGORITHMS FOR THE PHONEMICIZATION OF ORTHOGRAPHY</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+PERFORMANCE COMPARISON OF COMPONENT ALGORITHMS
+FOR THE PHONEMICIZATION OF ORTHOGRAPHY
+</SectionTitle>
+<Paragraph position="0"> A system for converting English text into synthetic speech can be divided into two processes that operate in series: I) a text-to-phoneme converter, and 2) a phonemic-input speech synthesizer.</Paragraph>
+<Paragraph position="1"> The conversion of orthographic text into a phonemic form may itself comprise several processes in series, for instance, formatting text to expand abbreviations and non-alphabetic expressions, parsing and word class determination, segmental phonemicization of words, word and clause level stress assignment, word internal and word boundary allophonic adjustments, and duration and fundamental frequency settings for phonological units.</Paragraph>
+<Paragraph position="2"> Comparing the accuracy of different algorithms for text-to-phoneme conversion is often difficult because authors measure and report system performance in incommensurable ways. Furthermore, comparison of the output speech from two complete systems may not always provide a good test of the performance of the corresponding component algorithms in the two systems, because radical performance differences in other components can obscure small differences in the components of interest. The only reported direct comparison of two complete text-to-speech systems (MITALK and TSI's TTS-X) was conducted by Bernsteln and Pisonl (1980). This paper reports one study that compared two algorithms for automatic segmental phonemlcization of words, and a second study that compared two algorithms for automatic assignment of lexical stress. Only three systems for text-to-phoneme conversion have been reported in detail: McIlroy's (197~) Votrax driver, Hunnicutt,s (1976) rules for the MITALK system, and the NRL rules developed by Elovitz and associates (1976). Liberman (1979), Hertz (1981), and Hunnicutt (1980) have described more recent systems, but have not published rule sets.</Paragraph>
+<Paragraph position="3"> One fairly standard approach to automatic phonemiczation of words has the following component parts: input: &amp;quot;whoever&amp;quot; I</Paragraph>
+</Section>
+</Paper>
+

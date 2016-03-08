@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C94-1080">
+<Title>CONCURRENT LEXICALIZED DEPENDENCY PARSING: A BEHAVIORAL VIEW ON ParseTalk EVENTS</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+CONCURRENT LEXICALIZED DEPENDENCY PARSING:
+A BEHAVIORAL VIEW ON ParseTalk EVENTS
+</SectionTitle>
+<Paragraph position="0"> Abstract. The behavioral specification of an obj~t-oricnted grammar model is considered. The model is based on full lexicalization, hcad-oricntation via valency constraints and dependency relations, inhcritancc as a means for non-redundant lexicon specification, and conct, rrcncy of computation. The compntation model relies upon the actor l)aradigm, with concurrency entering throt~gh asyn~:hronous message passing between actors. In pa,ticular, we here elaborate on principlcs of how the global lyzhavior of a lexically distributexl grammar and its corresponding parser can be specified in terms of evcnt type networks and cvent networks, resp.</Paragraph>
+</Section>
+</Paper>
+

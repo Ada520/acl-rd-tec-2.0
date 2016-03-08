@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C88-2113">
+<Title>Parallel Intersection and Serial Composition of Finite State Transducers</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe a linguistically expressive and easy to implement parallel semantics for quasi-deterministic finite state transducers (FSTS) used as acceptors. Algorithms are given for detemaining acceptance of pairs of phoneme strings given a parallel suite of such transducers and for constructing the equivalent single transducer by parallel intersection. An algorithm for constructing the serial composition of a sequence of such transducers is also given. This algorithm can produce generally nondetemlinislic FSTS and an algorithm is presented for eliminating the unacceptable nondeterminism. Finally, the work is discussed in the context of other work on finite state transducers.</Paragraph>
+</Section>
+</Paper>
+

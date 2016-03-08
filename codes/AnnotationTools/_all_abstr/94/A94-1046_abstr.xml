@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A94-1046">
+<Title>Industrial Applications of Unification Morphology GSbor Prdszdky</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Industrial applications of a reversible, string-based, unification approach called Humor (High-speed Unification Morphology) is introduced in the paper. It has been used for creating a variety of proofing tools and dictionaries, like spelling checkers, hyphenators, lemmatizers, inflectional thesauri, intelligent bi-lingual dictionaries and, of course, full morphological analysis and synthesis. The first industrialized versions of all of the above modules work and licensed by well-known software companies for their products' Hungarian versions. Development of the same modules for other agglutinative (e.g. Turkish, Estonian) and other (highly) inflectional languages (e.g.</Paragraph>
+<Paragraph position="1"> Polish, French, German) have also begun.</Paragraph>
+</Section>
+</Paper>
+

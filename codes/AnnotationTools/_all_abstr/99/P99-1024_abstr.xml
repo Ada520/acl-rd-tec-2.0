@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P99-1024">
+<Title>The CommandTalk Spoken Dialogue System*</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> CommandTalk (Moore et al., 1997) is a spoken-language interface to the ModSAF battlefield simulator that allows simulation operators to generate and execute military exercises by creating forces and control measures, assigning missions to forces, and controlling the display (Ceranowicz, 1994). CommandTalk consists of independent, cooperating agents interacting through SRI's Open Agent Architecture (OAA) (Martin et al., 1998). This architecture allows components to be developed independently, and then flexibly and dynamically combined to support distributed computation. Most of the agents that compose CommandTalk have been described elsewhere !for more detail, see (Moore et al., 1997)). This paper describes extensions to CommandTalk to support spoken dialogue.</Paragraph>
+<Paragraph position="1"> While we make no theoretical claims about the nature and structure of dialogue, we are influenced by the theoretical work of (Grosz and Sidner, 1986) and will use terminology from that tradition when appropriate. We also follow (Chu-Carroll and Brown, 1997) in distinguishing task initiative and dialogue initiative. Section 2 demonstrates the dialogue capabilities of CommandTalk by way of an extended example. Section 3 describes how language in CommandTalk is modeled for understanding and generation. Section 4 describes the architecture of the dialogue manager in detail. Section 5 compares CommandTalk with other spo* This research was supported by the Defense Advanced Research Projects Agency under Contract N66001-94-C6046 with the Space and Naval Warfare Systems Center. The views and conclusions contained in this document are those of the authors and should not be interpreted as necessarily representing the official policies, either express or implied, of the Defense Advanced Research Projects Agency of the U.S. Government.</Paragraph>
+<Paragraph position="2"> ken dialogue systems.</Paragraph>
+</Section>
+</Paper>
+

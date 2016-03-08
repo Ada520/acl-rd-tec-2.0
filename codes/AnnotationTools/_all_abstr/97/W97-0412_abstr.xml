@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0412">
+<Title>Six Issues in Speech Translation</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This position paper sketches the author's research in six areas related to speech translation: interactive disambiguation; system architecture; the interface between speech recognition and analysis; the use of natural pauses for segmenting utterances; dialogue acts; and the tracking of lexical co-occurrences.</Paragraph>
+<Paragraph position="1"> Introduction This position paper reviews some aspects of my research in speech translation since 1992. Since the purpose is to prompt discussion, the treatment is informal and speculative, with frequent reference to work in progress.</Paragraph>
+<Paragraph position="2"> The paper sketches work in six areas: interactive disambiguation; system architecture; the interface between speech recognition and analysis; the use of natural pauses for segmenting utterances; dialogue acts; and the tracking of lexical co-occurrences. There is no attempt to provide a balanced survey of the speech translation scene. However, I have touched upon a number of research areas which seem to me of particular interest.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W05-1207">
+<Title>Discovering entailment relations using &amp;quot;textual entailment patterns&amp;quot;</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this work we investigate methods to enable the detection of a specific type of textual entailment (strict entailment), starting from the preliminary assumption that these relations are often clearly expressed in texts. Our method is a statistical approach based on what we call textual entailment patterns, prototypical sentences hiding entailment relations among two activities. We experimented the proposed method using the entailment relations of WordNet as test case and the web as corpus where to estimate the probabilities; obtained results will be shown.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-1410">
+<Title>Macroplanning with a Cognitive Architecture for the Adaptive Explanation of Proofs</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In order to generate high quality explanations in technical or mathematical domains, the presentation must be adapted to the knowledge of the intended audience. Current proof presentation systems only communicate proofs on a fixed degree of abstraction independently of the addressee's knowledge.</Paragraph>
+<Paragraph position="1"> in this paper that describes ongoing research, we propose an architecture for an interactive proof explanation system, called P. rex. Based on the theory of human cognition AcT-R, its dialog planner exploits a cognitive model, in which both the user's knowledge and his cognitive processes are modeled. By this means, his cognitive states are traced during the explanation. The explicit representation of the user's cognitive states in AcT-R allows the dialog planner to choose a degree of abstraction tailored to the user for each proof step to be explained.</Paragraph>
+</Section>
+</Paper>
+

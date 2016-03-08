@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-0717">
+<Title>I- I Incorporating Knowledge in Natural Language Learning: A Case Study</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Incorporating external information during a learning process is expected to improve its efficiency. We study a method for incorporating noun-class information, in the context of learning to resolve Prepositional Phrase Attachment (PPA) disambiguation.</Paragraph>
+<Paragraph position="1"> This is done within a recently introduced architecture, SNOW, a sparse network of threshold gates utilizing the Winnow learning algorithm. That architecture has already been demonstrated to perform remarkably well on a number of natural language learning tasks.</Paragraph>
+<Paragraph position="2"> The knowledge sources used were compiled from the WordNet database for general linguistic purposes, irrespective of the PPA problem, and are being incorporated into the learning algorithm by enriching its feature space. We study two strategies of using enriched features and the effects of using class information at different granularities, as well as randomly-generated knowledge which serves as a control set.</Paragraph>
+<Paragraph position="3"> Incorporating external knowledge sources within SNOW yields a statistically significant performance improvement. In addition, we find an interesting relation between the granularity of the knowledge sources used and the magnitude of the improvement.</Paragraph>
+<Paragraph position="4"> The encouraging results with noun-class data provide a motivation for carrying out more work on generating better linguistic knowledge sources.</Paragraph>
+</Section>
+</Paper>
+

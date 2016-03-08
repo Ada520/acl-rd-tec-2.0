@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-0416">
+<Title>An Efficient Clustering Algorithm for Class-based Language Models</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Jun'ichi TsujiiDDDE
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper defines a general form for class-based probabilistic language models and proposes an efficient algorithm for clustering based on this. Our evaluation experiments revealed that our method decreased computation time drastically, while retaining accuracy.</Paragraph>
+</Section>
+</Paper>
+

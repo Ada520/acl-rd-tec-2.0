@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H91-1079">
+<Title>Adaptive Natural Language Processing</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+OBJECTIVES
+</SectionTitle>
+<Paragraph position="0"> improvement in error rate resulted. Therefore, much less training data than theoretically required proved adequate.</Paragraph>
+<Paragraph position="1"> The objective of this project is a pilot study of several new 3. ideas for the automatic adaptation and improvement of natural language processing (NLP) systems. The effort focuses particularly on automatically inferring the meaning of new words in context and on developing partial interpretations of language that is either fragmentary or beyond the capability of the NLP system to understand.</Paragraph>
+<Paragraph position="2"> The techniques are being evaluated in a message processing domain, such as automatic data base update based on articles from The Wall Street Journal on corporate takeover bids. 4.</Paragraph>
+<Paragraph position="3"> The NLP system uses large annotated corpora, such as those being developed under the DARPA-funded TREE-BANK project at the University of Pennsylvania, to adapt by acquiring syntactic and semantic information from the annotated examples. Statistical language modeling, based on probability estimates derived from the large corpora, will provide a means of ranking alternative interpretations 5. of fragments.</Paragraph>
+<Paragraph position="4"> This pilot study, running from March, 1990 through March, 1991, is designed to test the feasibility of such a new approach.</Paragraph>
+</Section>
+</Paper>
+

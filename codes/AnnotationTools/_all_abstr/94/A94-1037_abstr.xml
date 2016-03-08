@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A94-1037">
+<Title>Spelling Correction in Agglutinative Languages</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> Spelling correction is an important component of any system for processing text. Agglutinative languages such as Turkish or Finnish, differ from languages like English in the way lexical forms are generated. Typical nominal or a verbal root may generate thousands (or even millions) of valid forms which never appear in the dictionary. For instance, we can give the following (rather exaggerated) example from Turkish: uygarla~tzramayabileceklerimizdenmi~sinizcesine 1 whose morpheme breakdown is: uygar -lag -tzr -area civilized +BECOME CAUS +NEG -yabil -ecek -let -irniz +POT +FUT +3PL +POSS-1SG -den -mi~ -siniz -cesine +ABL +NARR +2PL +AS-IF Methods developed for spelling correction for languages like English (see the review by Kukich (Kukich, 1992)) are not readily applicable to agglutinative languages. This poster presents an approach to spelling correction in agglutinative languages that is based on two-level morphology and a dynamic-programming based search algorithm. After an overview of our approach, we present results from experiments with spelling correction in Turkish.</Paragraph>
+</Section>
+</Paper>
+

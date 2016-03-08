@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E06-1047">
+<Title>Parsing Arabic Dialects</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The Arabic language is a collection of spoken dialects with important phonological, morphological, lexical, and syntactic differences, along with a standard written language, Modern Standard Arabic (MSA). Since the spoken dialects are not officially written, it is very costly to obtain adequate corpora touse fortraining dialect NLP tools such as parsers. In this paper, we address the problem of parsing transcribed spoken LevantineArabic(LA).We do not assume the existence of any annotated LA corpus (except for development and testing), nor of a parallel corpus LA-MSA. Instead, we use explicit knowledge about the relation between LA and MSA.</Paragraph>
+</Section>
+</Paper>
+

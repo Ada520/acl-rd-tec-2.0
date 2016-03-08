@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E06-2030">
+<Title>Developments in Affect Detection in E-drama</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We report work1 in progress on adding affect-detection to an existing program for virtual dramatic improvisation, monitored by a human director. To partially automate the directors' functions, we have partially implemented the detection of emotions, etc. in users' text input, by means of pattern-matching, robust parsing and some semantic analysis. The work also involves basic research into how affect is conveyed by metaphor.</Paragraph>
+</Section>
+</Paper>
+

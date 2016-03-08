@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-1011">
+<Title>Towards a linguistically motivated computational grammar for Hebrew</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> While the morphology of Modem Hebrew is well accounted for computationally, there are few computational grammars describing the syntax of the language. Existing grammars are scarcely based on solid linguistic grounds: they do not conform to any particular linguistic theory and do not provide a linguistically plausible analysis for the data they cover. This paper presents a first attempt towards the construction of a formal grammar for a fragment of Hebrew that is both linguistically motivated and computationaUy implementable. The grammar, concentrating on the structure of noun phrases, is designed in accordance with HPSG, a linguistic theory that lends itself most naturally to computational implementation. It is the first application of HPSG to any Semitic language. Several theoretical issues are addressed, including the status of the definite article, the application of the DP hypothesis to Hebrew, definiteness agreement in the noun phrase as well as definiteness inheritance in constructs. All the analyses presented in the paper were tested and their predictions were verified. This is a work in progress, and the results described herein are preliminary.</Paragraph>
+</Section>
+</Paper>
+

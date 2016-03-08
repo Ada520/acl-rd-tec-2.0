@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C02-1064">
+<Title>Text Generation from Keywords Kiyotaka Uchimoto + Satoshi Sekine ++</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe a method for generating sentences from &amp;quot;keywords&amp;quot; or &amp;quot;headwords&amp;quot;. This method consists of two main parts, candidate-text construction and evaluation. The construction part generates text sentences in the form of dependency trees by using complementary information to replace information that is missing because of a &amp;quot;knowledge gap&amp;quot; and other missing function words to generate natural text sentences based on a particular monolingual corpus. The evaluation part consists of a model for generating an appropriate text when given keywords. This model considers not only word n-gram information, but also dependency information between words. Furthermore, it considers both string information and morphological information.</Paragraph>
+</Section>
+</Paper>
+

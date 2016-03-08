@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C02-2005">
+<Title>Scaled log likelihood ratios for the detection of abbreviations in text corpora</Title>
+<Section position="1" start_page="0" end_page="2" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe a language-independent, flexible, and accurate method for the detection of abbreviations in text corpora. It is based on the idea that an abbreviation can be viewed as a collocation, and can be identified by using methods for collocation detection such as the log likelihood ratio. Although the log likelihood ratio is known to show a good recall, its precision is poor. We employ scaling factors which lead to a strong improvement of precision. Experiments with English and German corpora show that abbreviations can be detected with high accuracy.</Paragraph>
+<Paragraph position="1"> Introduction The detection of abbreviations in a text corpus forms one of the initial steps in tokenization (cf. Liberman/Church 1992). This is not a trivial task, since a tokenizer is confronted with ambiguous tokens. For English, e.g., Palmer/Hearst (1997:241) report that periods (*) can be used as decimal points, abbreviation marks, end-of-sentence marks, and as abbreviation marks at the end of a sentence. In this paper, we will concentrate on the classification of the period as either an abbreviation mark or a punctuation mark. We assume that an abbreviation can be viewed as a collocation consisting of the abbreviated word itself and the following *. In case of an abbreviation, we expect the occurrence of * following the previous 'word' to be more likely than in a case of an end-of-sentence punctation. The starting point is the log likelihood ratio (log l, Dunning 1993).</Paragraph>
+<Paragraph position="2"> If the null hypothesis (H  ) - as given in (1) expresses that the occurrence of a period is independent of the preceeding word, the alternative hypothesis (H A ) in (2) assumes that the occurrence of a period is not independent of the occurrence of the word preceeding it.</Paragraph>
+<Paragraph position="3">  distribution and can hence be used as a test statistic (Dunning 1993).</Paragraph>
+<Paragraph position="4">  Although log l identifies collocations much better than competing approaches (Dunning 1993) in terms of its recall, it suffers from its relatively poor precision rates. As is reported in Evert et al. (2000), log l is very likely to detect all collocations contained in a corpus, but as more collocations are detected with decreasing log l, the number of wrongly classified items increases. The table in (4) is a sample from the  distribution all the pairs given in (4) count as candidates for abbreviations. Some of the 'true' abbreviations are either ranked lower than non-abbreviations or receive the same log l values as non-abbreviations. Candidates which should not be analyzed as abbreviations are indicated in boldface.</Paragraph>
+<Paragraph position="5">  (4) Candidates for abbreviations from WSJ  As distributed by ACL/DCI. We have removed all annotations from the corpora before processing them.  In the present sample, the likelihood of a period being dependent on the word preceeding it should be 99.99 % if its log l is higher than 7.88.</Paragraph>
+<Paragraph position="6">  But, as has been illustrated in (4), even this figure leads to a problematic classification of the candidates, since many non-abbreviations are wrongly classified as being abbreviations. This means that an unmodified log l approach to the detection of abbreviations will produce many errors and thus cannot be employed.</Paragraph>
+</Section>
+</Paper>
+

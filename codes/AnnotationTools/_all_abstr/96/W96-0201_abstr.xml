@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W96-0201">
+<Title>A Geometric Approach to Mapping Bitext Correspondence</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The first step in most corpus-based multilingual NLP work is to construct a detailed map of the correspondence between a text and its translation. Several automatic methods for this task have been proposed in recent years. &amp;quot;Yet even the best of these methods can err by several typeset pages. The Smooth Injective Map Recognizer (SIMR) is a new bitext mapping algorithm. SIMR's errors are smaller than those of the previous front-runner by more than a factor of 4. Its robustness has enabled new commercial-quality applications.</Paragraph>
+<Paragraph position="1"> The greedy nature of the algorithm makes it independent of memory resources. Unlike other bitext mapping algorithms, SIMR allows crossing correspondences to account for word order differences. Its output can be converted quickly and easily into a sentence alignment. SIMR's output has been used to align more than 200 megabytes of the Canadian Hansards for publication by the Linguistic Data Consortium.</Paragraph>
+</Section>
+</Paper>
+

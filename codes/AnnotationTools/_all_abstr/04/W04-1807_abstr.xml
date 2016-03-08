@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-1807">
+<Title>Detecting semantic relations between terms in definitions</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Terminology structuring aims to elicit semantic relations between the terms of a domain. We propose here to exploit definitions found in corpora to obtain such semantic relations. Definition typologies show that definitions can be introduced by different semantic relations, some of these relations being likely to structure terminologies. Our aim is therefore to mine &amp;quot;defining expressions&amp;quot; in domain-specific corpora, and to detect the semantic relations they involve between their main terms. We use lexico-syntactic markers and patterns to detect at the same time both a definition and its main semantic relation. 46 markers and 74 patterns have been designed and tuned on a first corpus in the field of anthropology. We report on their evaluation on a second corpus in the field of dietetics, where they obtained 4% to 36% recall and from 61 to 66% precision, and discuss the relative accuracy of different subclasses of markers for this task.</Paragraph>
+</Section>
+</Paper>
+

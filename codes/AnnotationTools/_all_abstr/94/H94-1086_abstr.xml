@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H94-1086">
+<Title>On-Line Cursive Handwriting Recognition Using Hidden Markov Models and Statistical Grammars</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> The BYBLOS continuous speech recognition system is applied to on-line cursive handwriting recognition. By exploiting similarities between on-line cursive handwriting and continuous speech recognition, we can use the same base system adapted to handwriting feature vectors instead of speech. The use of hidden Markov models obviates the need for segmentation of the handwritten script sentences before recognition. To test our system, we collected handwritten sentences using text from the ARPA Airline Travel Information Service (ATIS) and the ARPA Wall Street Journal (WSJ) corpora. In an initial experiment on the ATIS data, a word error rate of 1.1% was achieved with a 3050-word lexicon, 52-character set, collected from one writer. In a subsequent writer-dependent test on the WSJ data, error rates ranging between 2%-5% were obtained with a 25,595word lexicon, 86-character set, collected from six different writers. Details of the recognition system, the data collection process, and analysis of the experiments are presented.</Paragraph>
+</Section>
+</Paper>
+

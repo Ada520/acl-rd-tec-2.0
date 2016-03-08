@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-3102">
+<Title>A Mechanism for ellipsis resolution in dialogued systems.</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+2. Dialogue management
+</SectionTitle>
+<Paragraph position="0"> NL-Dialogue systems are usually based on three data structures \[Grosz,Sidner,86\]: Dialogue Structure, to represent the organization of the interactions between the speakers, the Intentional Structure to organize the intentions of the speakers, core of the comnmnicative process during the dialogue, and the Attentional Structure where topics of tile Dialogue are represented.</Paragraph>
+<Paragraph position="1"> !'he Dialogue Structure The Dialogue Structure is a modelization of the communication process. This structure is dynamically built and is represented by a tree. Conversation is the root of the tree. A conversation takes place between several participants and it is composed by one or more Dialogues. Dialogues are units of communication characterized by a specific topic. A Dialogue is composed by one or more Interchanges. Diaalogues are tied to the Attentional Structure.</Paragraph>
+<Paragraph position="2"> An Interchange has an Objective which must be filled.</Paragraph>
+<Paragraph position="3"> An Interchange has information about its goal, level of satisfaction and its evolution.</Paragraph>
+<Paragraph position="4"> The Intervention is the elemental component of the.</Paragraph>
+<Paragraph position="5">  specific time, and implies that a message has been sent by a speaker to a hearer. The content of the message is represented in different linguistic levels.</Paragraph>
+<Paragraph position="6"> The Attentional StNcture The Attentional Structure is used as a search-space in the resolution of some types of References. In our system, definite reference, direct and anaphoric, and, specially, pronominal and elliptical reference use the Attentional Structure. In our system, the Attentional Structure is mainly conceptual.</Paragraph>
+<Paragraph position="7"> .Th.e organization of the analysis l~rocess.</Paragraph>
+<Paragraph position="8"> In our approach the linguistic de3cription follows a stratified model; however, parsing is a cooperative process between different Knowledge Sources. These KS generate partial interpretations, interrupt each other, ask for information to other components, ete.</Paragraph>
+<Paragraph position="9"> In order to describe and implement different parsing strategies, our system is based on the use of a multilevel Blackboard Architecture.</Paragraph>
+<Paragraph position="10"> In a descriptive level, at any moment, there will be a collection of concepts, already built in the parsing process, called Realizations, and another collection of virtual concepts, objects we wait for, called Expectations. The core of the process consists of obtaining some new realizations satisfying current expectations. Realizations and Expecte4ions are created at different levels and implemented in a frame-like formalism.</Paragraph>
+</Section>
+</Paper>
+

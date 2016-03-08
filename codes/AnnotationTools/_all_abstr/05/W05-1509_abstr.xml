@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W05-1509">
+<Title>Lexical and Structural Biases for Function Parsing</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we explore two extensions to an existing statistical parsing model to produce richer parse trees, annotated with function labels. We achieve significant improvements in parsing by modelling directly the specific nature of function labels, as both expressions of the lexical semantics properties of a constituent and as syntactic elements whose distribution is subject to structural locality constraints.</Paragraph>
+<Paragraph position="1"> We also reach state-of-the-art accuracy on function labelling. Our results suggest that current statistical parsing methods are sufficiently robust to produce accurate shallow functional or semantic annotation, if appropriately biased.</Paragraph>
+</Section>
+</Paper>
+

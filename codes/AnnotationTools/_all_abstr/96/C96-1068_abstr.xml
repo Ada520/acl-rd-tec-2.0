@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-1068">
+<Title>A CD-ROM Retrieval System with Multiple Dialogue Agents</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we proposed a new diMogue system with multiple dialogue agents. In our new system, three types of agents: a) domain agents, b) strategy agents, and c) context agents were realized.</Paragraph>
+<Paragraph position="1"> They give the follmving advantages to the user: * the domain age.nts make the user aware of the boundary between the domains.</Paragraph>
+<Paragraph position="2"> * the strategy agents make the user aware of the difference between the strategies.</Paragraph>
+<Paragraph position="3"> * the context agents help the user to deal with multiple goals.</Paragraph>
+<Paragraph position="4"> We expect that the complex behaviors of the system will become more visible to the user in different situations. The experimental results show that the user can retrieve effectively and obtain the expected goals easily by using these multiple agents.</Paragraph>
+</Section>
+</Paper>
+

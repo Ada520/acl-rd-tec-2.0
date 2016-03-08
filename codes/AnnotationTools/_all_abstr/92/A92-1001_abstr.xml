@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A92-1001">
+<Title>Deriving Database Queries from Logical Forms by Abductive Definition Expansion</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The paper describes a principled approach to the problem of deriving database queries from logical forms produced by a general NL interface. Our method attempts to construct a database query and a set of plausible assumptions, such that the logical form is equivalent to the query given the assumptions. The domain information needed is provided as declarative meaning postulates, including &amp;quot;definitional equivalences&amp;quot;. The technical basis for the approach is that a &amp;quot;definition&amp;quot; of the form Head A Conditions ~ Body can be read procedurally as &amp;quot;Expand Head to Body if it occurs in an environment where Conditions can be inferred&amp;quot;. The &amp;quot;environment&amp;quot; is provided by the other conjuncts occurring together with Head in the original logical form, together with other meaning postulates and the contents of the database. The method has been implemented in CLARE, a language and reasoning system whose linguistic component is the SRI Core Language Engine.</Paragraph>
+</Section>
+</Paper>
+

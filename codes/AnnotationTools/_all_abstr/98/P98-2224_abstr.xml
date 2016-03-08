@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-2224">
+<Title>Diagram Understanding Using Integration of Layout Information and Textual Information</Title>
+<Section position="1" start_page="0" end_page="1374" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> Pattern information and natural language information used together can complement and reinforce each other to enable more effective communication than can either medium alone (Feiner 91) (Nakamura 93). One of the good examples is a pictorial book of flora (PBF). In the PBF, readable explanations which combine texts, pictures, and diagrams are achieved, as shown in Figure 1 and 2. Taking advantage of this, we propose here a new method for analyzing the PBF diagrams by using natural language information.</Paragraph>
+<Paragraph position="1"> In the PBF, many kinds of information about plants are generally stored in the following media:  diagrams describe very clearly the following kinds of information: * correspondence between each part of the plant and its name * part-whole relationship and synonymous words As a result, diagrams are quite important in order to understand the explanation of each plant. For example, pictures and explanation texts cannot convey the information which is necessary to answer the following questions: * which part of plant is &amp;quot;takuyou (stipules)&amp;quot;? * what shape is &amp;quot;hishinkei (lanceolate shape)&amp;quot;? Consequently, we have to investigate the method for understanding diagrams.</Paragraph>
+<Paragraph position="2"> It is certain that diagrams are effective means of communication. However, it is also true that we feel difficulties when we try to understand diagrams without the explanation by natural language. From this, we conclude that natural language information is important to understand diagrams. Corn sequently, we propose a new framework for the inspiraea cantoniensis ~:--~, ~ 1.5m ~'~2-5cm, W 6-20mm~ ~a~j,  tegration of pattern (layout) information and natural language information for semantic understanding the PBF diagrams. In this study, for the observation and experiments, we use a PBF (in Japanese) the subject of which are wild flowers of Japan.</Paragraph>
+</Section>
+</Paper>
+

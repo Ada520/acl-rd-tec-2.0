@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-1034">
+<Title>Error-Driven Pruning of Treebank Grammars for Base Noun Phrase Identification</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Finding simple, non-recursive, base noun phrases is an important subtask for many natural language processing applications. While previous empirical methods for base NP identification have been rather complex, this paper instead proposes a very simple algorithm that is tailored to the relative simplicity of the task. In particular, we present a corpus-based approach for finding base NPs by matching part-of-speech tag sequences. The training phase of the algorithm is based on two successful techniques: first the base NP grammar is read from a &amp;quot;treebank&amp;quot; corpus; then the grammar is improved by selecting rules with high &amp;quot;benefit&amp;quot; scores. Using this simple algorithm with a naive heuristic for matching rules, we achieve surprising accuracy in an evaluation on the Penn Treebank Wall Street Journal.</Paragraph>
+</Section>
+</Paper>
+

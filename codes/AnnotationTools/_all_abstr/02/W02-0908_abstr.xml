@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-0908">
+<Title>Improvements in Automatic Thesaurus Extraction</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The use of semantic resources is common in modern NLP systems, but methods to extract lexical semantics have only recently begun to perform well enough for practical use. We evaluate existing and new similarity metrics for thesaurus extraction, and experiment with the trade-off between extraction performance and ef ciency. We propose an approximation algorithm, based on canonical attributes and coarse- and ne-grained matching, that reduces the time complexity and execution time of thesaurus extraction with only a marginal performance penalty.</Paragraph>
+</Section>
+</Paper>
+

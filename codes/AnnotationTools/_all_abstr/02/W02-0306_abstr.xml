@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-0306">
+<Title>A Transformational-based Learner for Dependency Grammars in Discharge Summaries</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> NLP systems will be more portable among medical domains if acquisition of semantic lexicons can be facilitated. We are pursuing lexical acquisition through the syntactic relationships of words in medical corpora. Therefore we require a syntactic parser which is flexible, portable, captures head-modifier pairs and does not require a large training set. We have designed a dependency grammar parser that learns through a transformational-based algorithm.</Paragraph>
+<Paragraph position="1"> We propose a novel design for templates and transformations which capitalize on the dependency structure directly and produces human-readable rules. Our parser achieved a 77% accurate parse training on only 830 sentences. Further work will evaluate the usefulness of this parse for lexical acquisition.</Paragraph>
+</Section>
+</Paper>
+

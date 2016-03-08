@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-1208">
+<Title>Looking for the presence of linguistic concepts in the prosody of spoken utterances</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes an experimental method for detecting prosodic functions.</Paragraph>
+<Paragraph position="1"> We assume that the first step towards content driven synthetic prosody generation (Concept-to-speech) is invariably to determine the perceptually relevant prosodic features. The proposed method has been applied to the detection of syntactic structure: dialogue acts and given/new distinction. First results are being discussed.</Paragraph>
+</Section>
+</Paper>
+

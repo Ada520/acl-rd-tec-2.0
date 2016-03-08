@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P97-1073">
+<Title>Compositional Semantics of German Prefix Verbs</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A compositional account of the semantics of German prefix verbs in HPSG is outlined. We consider only those verbs that are formed by productive synchronic rules.</Paragraph>
+<Paragraph position="1"> Rules are fully productive if they apply to all base verbs which satisfy a common description. Prefixes can be polysemous and have separate, highly underspecified lexical entries. Adequate bases are determined via selection restrictions.</Paragraph>
+</Section>
+</Paper>
+

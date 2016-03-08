@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-2023">
+<Title>Named Entity Learning and Verification: Expectation Maximization in Large Co r pora</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The regularity of named entities is used to learn names and to extract named entities. Having only a few name elements and a set of patterns the a l gorithm learns new names and its elements. A verification step assures quality using a large background corpus. Further improvement is reached through classifying the newly learnt elements on character level. Moreover, unsupe r vised rule learning is discussed.</Paragraph>
+</Section>
+</Paper>
+

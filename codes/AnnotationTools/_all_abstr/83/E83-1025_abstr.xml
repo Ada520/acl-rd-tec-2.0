@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E83-1025">
+<Title>References</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Rigorous interpretation of pronouns is possible when syntax, semantics, and pragmatics of a discourse can be reasonably controlled. Interaction with a database provides such an environment. In the framework of the User Specialty Languages system and Discourse Representation Theory, we formulate strict and preferential rules for pronominalization and outline a procedure to find proper assignments of referents to pronouns.</Paragraph>
+<Paragraph position="1"> 1 Overview: Relation to previous work One of the main obstacles of the automated processing of natural language sentences (and a forteriori texts) is the proper treatment of anaphoric relations. Even though there is a plethora of research attempting to specify (both on the theoretical level as well as in connection with implementations) &amp;quot;strategies&amp;quot; for &amp;quot;pronoun resolution&amp;quot;, it is fair to say a) that no uniform and comprehensive treatment of anaphora has yet been attained b) that surprisingly little effort has been spent in applying the results of research in linguistics and formal semantics in actual implemented systems. null A quick glance at Hirst (1981) will confirm that there is a large gap between the kinds of theoretical issues and puzzling cases that have been considered on the one hand in the setting of computational linguistics and on the other in recent semantically oriented approaches to the formal analysis of natural languages.</Paragraph>
+<Paragraph position="2"> One of the main aims of this paper is to bridge this gap by combining recent efforts forthcoming in formal semantics (based on Montague grammar and Discourse Representation Theory) with existing and relatively comprehensive grammars of German and English constructed in connection with the User Specialty Languages (USL) system, a natural language database query system briefly described below.</Paragraph>
+<Paragraph position="3"> We have drawn extensively -- as far as insights, examples, puzzles and adequacy conditions are concerned -- on the various &amp;quot;variable binding&amp;quot; approaches to pronouns (e. 9, work in the Montague tradition, the illuminating discussion by Evans (1980) and Webber (1978), as well as recent transformational accounts). Our approach has however been most deeply influenced by those who have (like Smaby (1979), (1981) and Kamp (1981)) advocated dispensing with pronoun indexing on the one hand and by those (like Chastain (1973), Evans (1980), and Kamp (1981)) who have emphasized the &amp;quot;referential&amp;quot; function of certain uses of indefinite noun phrases.</Paragraph>
+</Section>
+</Paper>
+

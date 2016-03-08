@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-0507">
+<Title>TransType: a Computer--Aided Translation Typing System</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes the embedding of a statistical translation system within a text editor to produce TRANSTYPE, a system that watches over the user as he or she types a translation and repeatedly suggests completions for the text already entered. This innovative Embedded Machine Translation system is thus a specialized means of helping produce high quality translations. null</Paragraph>
+</Section>
+</Paper>
+

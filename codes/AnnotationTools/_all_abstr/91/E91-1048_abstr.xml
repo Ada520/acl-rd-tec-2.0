@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E91-1048">
+<Title>Lexical Transfer based on bilingual signs: Towards interaction during transfer</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The lexical transfer phase is the most crucial step in MT because most of difficult problems are caused by lexical differences between two languages. In order to treat lexical issues systematically in transfer-based MT systems, we introduce the concept of bilingual-sings which are defined by pairs of equivalent monolingual signs. The bilingual signs not only relate the local linguistic structures of two languages but also play a central role in connecting the linguistic processes of translation with knowledge based inferences. We also show that they can be effectively used to formulate appropriate questions for disambiguating &amp;quot;transfer ambiguities&amp;quot;, which is crucial in interactive MT systems. null</Paragraph>
+</Section>
+</Paper>
+

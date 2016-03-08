@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W94-0307">
+<Title>Content and Rhetorical Status Selection in Instructional Texts</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper discusses an approach to planning the content of instructional texts. The research is based on a corpus study of 15 French procedural texts ranging from step--bystep device manuals to general artistic procedures. The approach taken starts from an AI task planner building a task representation, from which semantic carriers are selected. The most appropriate RST relations to communicate these carriers are then chosen according to heuristics developed during the corpus analysis.</Paragraph>
+</Section>
+</Paper>
+

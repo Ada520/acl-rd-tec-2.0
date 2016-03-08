@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-1001">
+<Title>Japanese Dialogue Corpus of Multi-Level Annotation The Japanese Discourse Research Initiative</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a Japanese dialogue corpus annotated with multi-level information built by the Japanese Discourse Research Initiative, Japanese Society for Artificial Intelligence. The annotation information consists of speech, transcription delimited by slash units, prosodic, part of speech, dialogue acts and dialogue segmentation. In the project, we used the corpus for obtaining new findings by examining the relationship between linguistic information and dialogue acts, that between prosodic information and dialogue segment, and the characteristics of agreement/disagreement expressions and non-sentence elements. null</Paragraph>
+</Section>
+</Paper>
+

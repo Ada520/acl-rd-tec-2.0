@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-1321">
+<Title>Discourse and Dialogue Processing in Spoken Intelligent Tutoring Systems</Title>
+<Section position="2" start_page="0" end_page="152" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In recent years, the development of intelligent tutoring dialogue systems has become more prevalent, in an attempt to close the performance gap between human and computer tutors. Tutoring applications differ in many ways, however, from the types of applications for which spoken dialogue systems are typically developed. This talk will illustrate some of the opportunities and challenges in this area, focusing on issues such as affective reasoning, discourse and dialogue analysis, and performance evaluation.</Paragraph>
+</Section>
+</Paper>
+

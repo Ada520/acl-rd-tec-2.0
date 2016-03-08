@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E03-1062">
+<Title>A Flexible Pragmatics-driven Language Generator for Animated Agents</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes the NECA MNLG; a fully implemented Multimodal Natural Language Generation module. The MNLG is deployed as part of the NECA system which generates dialogues between animated agents. The generation module supports the seamless integration of full grammar rules, templates and canned text. The generator takes input which allows for the specification of syntactic, semantic and pragmatic constraints on the output.</Paragraph>
+</Section>
+</Paper>
+

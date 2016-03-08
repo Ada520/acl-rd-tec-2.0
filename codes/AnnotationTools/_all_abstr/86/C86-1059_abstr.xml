@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C86-1059">
+<Title>l)isambiguation and Language Acquisition through the Phrasal Lexicon * Abst,'act</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> The phras:d approach to language processing \[Beckcr75, Searle79, Pawley83, Filhnore86\] emphasizes tile role of tile lexi .~ con as a knowledge source. Rather than maintaining a single generic lexical entry for each word e.g., take, |110 lexicon con-tains many phrases, e.g., take on, take to the streets, take to swirmaing, take over, etc. Ahhough this approach proves effective in parsing and in generation \[Wilensky84\], there are three acute problems which still require solutions. First, due to the huge size of the phrasal lexicon, especially when considering subtle meanings and idiosyncratic behavior of phrases, encoding of lexical entries cannot be done manually. Thus, phrase acquisition must be employed to construct tile lexicon. Second, parsing require,'; phrase disambiguation (resolving ambiguity).</Paragraph>
+<Paragraph position="1"> When a set of phrases is morpho-syntactically equivalent, disambignation must be perfonned by semantic lncans.</Paragraph>
+<Paragraph position="2"> In previous papers we have reported strategies for acquiring phrases in context, which include creating syntactic patterns \[Zernik85a\], attd attaching semanlic concepts for these patterns \[Zernik85b\]. In this paper we discuss how acquisition and parsing processes interact with one another.</Paragraph>
+<Paragraph position="3"> Parsing involves reading chmses in text and instantiating \[CharniakS0\] their corresponding concepts in tile context. The phrasal lexicon provides the linguistic database 1&amp;quot;o1&amp;quot; parsing. A lexical entry, a phrase, is a triple associating a linguistic pattern with its concept and a situation. The basic parsing cycle is demonstrated in 1)recessing the following paragral)la.</Paragraph>
+<Paragraph position="4"> SI: vet years \]: tried to \].ocate my high school teacher, when \]~ranJllto her ill the street.</Paragraph>
+<Paragraph position="5"> The phrase ran into is parsed relative to the contcxt established by the first clause. Assume that the lexicon contains at single phrase described inform.'dly as: phrase patterll: Personl run into Person2  sltllll\[\[01n Personl did not plan to see Person2 COIICel)t: Personl meets Person2 accJdo.rltal\]y.</Paragraph>
+<Paragraph position="6"> Tim clause is parsed in four stcps: (1) The lmttern is matched succcssft, lly against the text. Con-. scquently, Personl and Person2 arc bound to the speaker and the teacher respectively.</Paragraph>
+<Paragraph position="7"> (2) The situation associated with tile pattern is validated using  the context. After reading the first phrase the context contains two concepts: (a) the speaker has a goal to sce tile teacher, but (b) he has no feasible plan to accomplish the  goal.</Paragraph>
+<Paragraph position="8"> (3) Since both (1) and (2) are successful, then the pattern itself is instantiatcd, adding to the context: the ,s'pea/cer met the teacher accidentally.</Paragraph>
+<Paragraph position="9"> (4) Steps (1)-(3) are repeated for each lexical entry. If more  titan one entry is instantiated, then the concept with the best match is selected.</Paragraph>
+<Paragraph position="10"> Phrase situation, distinguished form phrase concept, is JntlOduced in our representation since it solves two problems: (a) in dLvambiguation it provides a discrimination condition for phrase selection, and (b) in acquisition it allows the incorporation of the context of the exanlple as part of the phrase.</Paragraph>
+</Section>
+</Paper>
+

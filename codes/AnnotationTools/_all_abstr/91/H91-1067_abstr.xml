@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H91-1067">
+<Title>Automatic Acquisition of Subcategorization Frames from Tagged Text</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> This paper describes an implemented program that takes a tagged text corpus and generates a partial list of the subcategorization frames in wtfich each verb occurs. The completeness of the output list increases monotonically with the total occurrences of each verb in the training corpus. False positive rates are one to three percent. Five subeategorization frames are currently detected and we foresee no impediment to detecting many more. Ultimately, we expect to provide a large subcategorization dictionary to the NLP community and to train dictionaries for specific corpora.</Paragraph>
+</Section>
+</Paper>
+

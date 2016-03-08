@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-2136">
+<Title>Confirmation in Multimodal Systems</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> Systems that attempt to understand natural human input make mistakes, even humans. However, humans avoid misunderstandings by confirming doubtful input.</Paragraph>
+<Paragraph position="1"> Multimodal systems--those that combine simultaneous input from more than one modality, for example speech and gesture--have historically been designed so that they either request confwmation of speech, their primary modality, or not at all. Instead, we experimented with delaying confirmation until after the speech and gesture were combined into a complete multimodal command.</Paragraph>
+<Paragraph position="2"> In controlled experiments, subjects achieved more commands per minute at a lower error rate when the system delayed confirmation, than compared to when subjects confirmed only speech. In addition, this style of late confirmation meets the user's expectation that confirmed commands should be executable.</Paragraph>
+<Paragraph position="3"> KEYWORDS: multimodal, confirmation, uncertainty, disambiguation &amp;quot;Mistakes are inevitable in dialog...In practice, conversation breaks down almost instantly in the absence of a facility to recognize and repair errors, ask clarification questions, give confinnatior~ and perform disambiguatimt \[ 1 \]&amp;quot;</Paragraph>
+</Section>
+</Paper>
+

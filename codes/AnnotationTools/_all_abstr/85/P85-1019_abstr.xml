@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P85-1019">
+<Title>Semantic Caseframe Parsing and Syntactic Generality</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We nave implemented a restricted .:lommn parser called Plume &amp;quot;M Building on previous work at Carneg=e-Mellon Unfvers=ty e.g. \[4, 5. 81. Plume s approacn to oars=ng ~s based on semantic caseframe mstant~a~on Th~s nas the advantages of effic=ency on grin ~atical ,nput. and robustness in the face of ungrammatmcal tnput Wh~le Plume ~s well adapted to s=mpte ,:;~ectaratwe and ~mperat=ve utterances, it handles 0ass=yes relatmve clauses anti =nterrogatives in an act noc manner leading to patciny syntact=c coverage Th~s paOe, oulhnes Plume as =t Currently exfsts and descr,Oes our detaded des=gn for extending Plume to handle passives rela|~ve clauses, and =nterrogatlves ~n a general manner</Paragraph>
+</Section>
+</Paper>
+

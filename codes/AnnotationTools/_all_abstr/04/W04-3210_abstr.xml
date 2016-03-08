@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-3210">
+<Title>Automatic Paragraph Identification: A Study across Languages and Domains</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we investigate whether paragraphs can be identified automatically in different languages and domains. We propose a machine learning approach which exploits textual and discourse cues and we assess how well humans perform on this task. Our best models achieve an accuracy that is significantly higher than the best baseline and, for most data sets, comes to within 6% of human performance. null</Paragraph>
+</Section>
+</Paper>
+

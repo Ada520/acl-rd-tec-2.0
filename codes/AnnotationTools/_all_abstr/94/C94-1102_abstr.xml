@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C94-1102">
+<Title>Non-directionality and Self-Assessment in an Example-based System Using Genetic Algorithms</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We show the application of an optimisation technique to natural language processing: genetic algorithms, thanks to the definition of a data structure called board and a formal distance. The system hms two interesting features: non-directionality, whict~ Ls more than hidirectionality, and self-assessment, independently of the inner knowledge. Results of experiments are presented and discussed.</Paragraph>
+<Paragraph position="1"> Topleal paper: Software for NLP Introduction The purpose of this article is to show that an engine b~ed on an optimisation teclmique, namely genetic algorlthras, can perform NLP t~usks: analysis and generation in the frame of example-based approaches. But more than that, the system we have built has interesting properties: * it is truly non-directional, i.e. it performs more than bi-directional tasks; * it evaluates its results relatively to tile input, and not relatively to its internal knowledge.</Paragraph>
+<Paragraph position="2"> Two original facts make this possible:  Our mMn motivation was to design a system where not only the formalism but also the system engine is bidirectional. In \[Lepage 91\], we sketched such an engine tbr a rule-based al)proach.</Paragraph>
+<Paragraph position="3"> From a theoretical point of view, such a system is also more interesting than a system where, although the formalism would be bi-directional, analysis and genera-Lion would be separate modules resulting from different compilations.</Paragraph>
+<Paragraph position="4"> In our sketch, a more general property than bi-direct:ionality mue,'go,C/: ,ro,&gt;direclioTJagil!l. IGdirectionality is just the property of executing analysis and generation with the same set of specifications, whereas noudirectionality allows more: a complete sentence and its complete analysis can be built from a partial specification of the sentence and a partial description of tile associated structure.</Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+1.2 Self-assessment
+</SectionTitle>
+<Paragraph position="0"> A second motivation lles in a flaw of rule-based systems using context-flee parsers, which is that they often fail to deliver a solution for trivia\[ reasons such ~ a word missing in a dictionary. On the contrary, our system al.ways delivers an output for any input, would the solution be &amp;quot;bad&amp;quot;. O\[&amp;quot; course, this woukl be of no meaning if the quality of outputs wotfid not be evahtated. IIence, when delivering a solution, the system scores it.</Paragraph>
+<Paragraph position="1"> Some machine translation systems viewed as expert systems may return an evaluation of their work in terms of their knowledge (grammar) \[Tong 89\], some other may evaluate the result according to thesaurus cl~ssificatlon and statistical frequencies \[Furuse and lida 92b1, but all these methods are specific. Ifere, on the contrary, the system delivers a score which is a formal distance between the input and the output. Thus, it is independent of the linguistic representation chosen (dependency or constituency). '\[Fhis is not the case of a proposal such as \[llarrison el al. 91\].</Paragraph>
+<Paragraph position="2"> '1?his score is a possible answer to the serious lack of assessment in natural language processing, ~m it, may apply to any other system, leading to reliable comparisons of inl;rinsic performances</Paragraph>
+</Section>
+</Section>
+</Paper>
+

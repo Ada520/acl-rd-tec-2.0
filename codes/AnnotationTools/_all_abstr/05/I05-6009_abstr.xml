@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="I05-6009">
+<Title>Error Annotation for Corpus of Japanese Learner English</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we discuss how error annotation for learner corpora should be done by explaining the state of the art of error tagging schemes in learner corpus research. Several learner corpora, including the NICT JLE (Japanese Learner English) Corpus that we have compiled are annotated with error tagsets designed by categorizing &amp;quot;likely&amp;quot; errors implied from the existing canonical grammar rules or POS (part-of-speech) system in advance. Such error tagging can help to successfully assess to what extent learners can command the basic language system, especially grammar, but is insufficient for describing learners' communicative competence.</Paragraph>
+<Paragraph position="1"> To overcome this limitation, we re-examined learner language in the NICT JLE Corpus by focusing on &amp;quot;intelligibility&amp;quot; and &amp;quot;naturalness&amp;quot;, and determined how the current error tagset should be revised.</Paragraph>
+</Section>
+</Paper>
+

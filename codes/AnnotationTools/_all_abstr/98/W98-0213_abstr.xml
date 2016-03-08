@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-0213">
+<Title>Multimodal Visualization of Geometrical Constructions</Title>
+<Section position="2" start_page="0" end_page="91" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> In this paper, we present an environment for multimodal (graphical and textual) visualization of geometrical constructions. We first present CabriII, the program on which this work is based. In the second section, we elaborate on the definition of macro-constructions using this software. Some of the reasons for introducing such a textual view in a geometry program are explained in section three. The next section focuses on the choices that have guided de:velopment. The last section discusses results and perspectives.</Paragraph>
+<Paragraph position="1"> CabriII (or Cabri-g~om~tre II) is a direct manipulation program for interactive &amp;quot;exploration&amp;quot; of geometrical diagrams (Laborde, 85). Many mathematics teachers and mathematicians use it for teaching or for their own work. It is the result of a tight collaboration between mathematicians, software researchers, educators, and teachers in everyday contact with pupils.</Paragraph>
+<Paragraph position="2"> Using this software, the user is immersed in an intelligent microworld. CabriII is an excellent learning environment for geometry (Laborde, 89), (Laborde, 95). Users construct geometrical diagrams and create new tools with macro-constructions. A teacher can profile the environment for specific learning tasks by embedding macro-constructions in his or her own tools. Through interactive manipulation of geometrical constructions, a pupil may for instance observe invariant properties and recognize them as constraints. All objects (for example, geometric objects and interface elements) are manipulated directly.</Paragraph>
+<Paragraph position="4"> Figure 1 shows a geometrical diagram drawing in CabriII. The diagram represents a point A, a line D and some other geometrical objects used to construct the symmetrical point (called B) of point A with respect to the line.</Paragraph>
+</Section>
+</Paper>
+

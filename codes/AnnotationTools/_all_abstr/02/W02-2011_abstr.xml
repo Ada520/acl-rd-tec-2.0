@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-2011">
+<Title>Combining labelled and unlabelled data: a case study on Fisher kernels and transductive inference for biological entity recognition</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We address the problem of using partially labelled data, eg large collections were only little data is annotated, for extracting biological entities. Our approach relies on a combination of probabilistic models, whichwe use to model the generation ofentities and their context, and kernel machines, which implementpowerful categorisers based on a similarity measure and some labelled data. This combination takes the form of the so-called Fisher kernels which implement asimilarity based on an underlying probabilistic model. Suchkernels are compared with transductive inference, an alternative approachto combining labelled and unlabelled data, again coupled with Support Vector Machines. Experiments are performed on a database of abstracts extracted from Medline.</Paragraph>
+</Section>
+</Paper>
+

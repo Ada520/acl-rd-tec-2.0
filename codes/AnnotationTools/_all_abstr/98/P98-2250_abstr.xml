@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-2250">
+<Title>Tree-based Analysis of Simple Recurrent Network Learning</Title>
+<Section position="2" start_page="1502" end_page="1503" type="abstr">
+<SectionTitle>
+3 Tree-based evaluation of SRN learning.
+</SectionTitle>
+<Paragraph position="0"> During the training of a word, only one output neuron is forced to be active in response to the context presented so far. But usually, in the entire corpus there are several successors following a given context. Therefore, the training should result in output neurons, reproducing the successors' probability distn'bufion. Following this reasoning, we can derive a test procedure that verifies whether the SRN output activations correspond to these local distributions. Another approach related to the practical implementation of a trained SRN is to search for a cue, giving an answer to the question whether given symbol can follow the context provirtea to the input layer so far. As in the optimal threshold method we can search for a threshold that distinguishes these neurons.</Paragraph>
+<Paragraph position="1"> The tree-based learning examination methods are recursive procedures that process each tree node, performing an in-order (or depth-first) tree traversal. This kind of traversal algorithms start from the root and process each sub-tree completely.</Paragraph>
+<Paragraph position="2"> At each node~ a comparison between the SRNs reaction to the input, and the empirical characters distribution is made. Apart from this evaluation, the SRN state, that is, the context layer, has to be kept before moving to one of the sub-trees, in order for it to be reused after traversing this sub-tree.</Paragraph>
+<Paragraph position="3"> On the basis of above ideas, two methods for network evaluation are performed at each tree node c. The first one computes an error function if(t) dependent on a threshold t. This fimction gives the error rate for each threshold t. that is, the ratio of erroneous predictions given t. The values of if(t) are high for close to zero and close to one thresholds, since almost all neurons would permit the correspondent symbols to be successors in the first case, and would not allow any successor in the second case. The minimum will occur somewhere in the middle, where only a few neurons would have an activation higher than this threshold. The training adjusts the weights of the network so that only neurons corresponding to actual successors are active. The SRN evaluation is-based on the mean F(t) of these local error functions (Fig.2a).</Paragraph>
+<Paragraph position="4"> The second evaluation method computes the proximity D c ffi \[ N~(.) ,T'(.) \[ between the network response NC(.) and the local empirical distributions vector TC/(.) at each tree node. The final evaluation of the SRN training is the mean D of D e for all tree nodes. Two measures are used to compute D (c). The first one is L~ norm (I):</Paragraph>
+<Paragraph position="6"> The second is a vector nmltipfication, normalised with respect to the vector's length (cosine) (2): (2) I,=(veF(.), ITC(.)I) &amp;quot;I~'.M(I~CCi)TC(I)) where M is the vector size, that is, the number of possible successors (e.g. 27) (see Fig. 2b).</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C94-2134">
+<Title>Hypothesis Selection in Grammar Acquisition</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This pat)er t)resents some techniques for selecting linguistically adequate hypol;heses of new grammat.foal knowledge to be used as resources of gralmnatical knowledge acquisition. In our framework of liuguistic knowledge acquisition, a rule-based hypothesis generator is inw)ked in case of parsing failures and all the possible hypotheses of Llew graliLlnar rules or lexical entries are generated ffOln partial parsing results. Although each hypothesis could recover the (lef&gt;cl, s of the existing grammar, the greater part of hypotheses are linguistically unnatural. The techniques we propose here prevent such unnatural hypotheses Dont being gene,'ated without discarding plausible ones and make the following corpus-based acquisition l)rocess In(ire ellieien(, and more reliable.</Paragraph>
+</Section>
+</Paper>
+

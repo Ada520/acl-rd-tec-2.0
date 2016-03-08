@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-0903">
+<Title>Boosting automatic lexical acquisition with morphological informationa0</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we investigate the impact of morphological features on the task of automatically extending a dictionary. We approach the problem as a pattern classification task and compare the performance of several models in classifying nouns that are unknown to a broad coverage dictionary. We used a boosting classifier to compare the performance of models that use different sets of features. We show how adding simple morphological features to a model greatly improves the classification performance.</Paragraph>
+</Section>
+</Paper>
+

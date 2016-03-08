@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C86-1060">
+<Title>Linguistic Knowledge Extraction from Real Language Behavior</Title>
+<Section position="2" start_page="0" end_page="253" type="abstr">
+<SectionTitle>
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> In natural language processing, one of the major problems to be solved is how to describe linguistic and semantic knowledge in the sye\]tem. If we nse no particular technique and capture the behavior in real I anguage as i t i s, the number of FU\]es.</Paragraph>
+<Paragraph position="1"> concepts and relations to be arranged may expand so muchdeg But those things contain all essential and primitive elements of language that we want to find out at \]east. In this Paper, it is considered to extract primitive elements from real linguistic behavior, and apply the elements to analysis sentence. As the above-mentioned elements, we use a relation between words. (lt is called  The process of the word classification based on the pattern of relations is done as follows. First, numbers of sentences are provided and Kakari-Uke relations are given to them. We call those sentences text data.</Paragraph>
+<Paragraph position="2"> Next we get the source side and the sink side pattern of relations for each word appearing in the text data. Then we calculate a distance between words. The d i s lance i s defi ned as a correspondence between the patterns themselves and the frequency of each relation making the patterns. Words are classified by a clustering algorithm using this distance.</Paragraph>
+<Paragraph position="3"> The distance has two types; one for the source side patterns and the other for' the sink side patterns. For each word, two clustering processes are applied corresponding to those two types ot distances. In this paper, the dependency strt.lcture is called as the knowledge base.</Paragraph>
+<Section position="1" start_page="0" end_page="253" type="sub_section">
+<SectionTitle>
+2.2. Re.sul {s
+</SectionTitle>
+<Paragraph position="0"> We made an experi ment of word clustering on the 4178 sentences of text data quoted from computer manuals. In this experiment, a special treatment was taken for compound words to ensure information.</Paragraph>
+<Paragraph position="1"> There are many compound words in Japanese sentences which are made by combining words and act as one word. They are called Fuku9ogo in Japanese. If we great them all as different from each other, many words appear rarely, so that the relating pat.terns of each word cannot be captured sufficiently.</Paragraph>
+<Paragraph position="2"> Because of this reason, we adopled a mechanism that replaces compound words by a normal one including the same meaning grammatical roles in grammar as the former.</Paragraph>
+<Paragraph position="3"> This mechanism can work automatically as a part of the system.</Paragraph>
+<Paragraph position="4"> As tile result of this experiment, it was observed as expected that semantically related words tend to be combined, ttowever, some words which have different meaning are combined with a well classified word group, and several well classified groups are combined. Not only synonyms, but also the words similar in some parts as the extension of tile words, and also the words which have a common part in the upper concept tend to be combined. It is interesting that antonyms tend to be combined with each other. It was also found that words contained in the same group belong to the same part of speech almost always.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-2904">
+<Title>Scoring Algorithms for Wordspotting Systems</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> When evaluating wordspotting systems, one normally compares receiver operating characteristic curves and different measures of accuracy. However, there are many other factors that are relevant to the system's usability for searching speech. In this paper, we discuss both measures of quality for confidence scores and propose algorithms for producing scores that are optimal with respect to these criteria.</Paragraph>
+</Section>
+</Paper>
+

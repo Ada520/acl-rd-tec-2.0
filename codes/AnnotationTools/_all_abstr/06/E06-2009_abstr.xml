@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E06-2009">
+<Title>An ISU Dialogue System Exhibiting Reinforcement Learning of Dialogue Policies: Generic Slot-filling in the TALK In-car System</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+Wedemonstrateamultimodaldialoguesystem
+</SectionTitle>
+<Paragraph position="0"> using reinforcement learning for in-car scenarios, developed at EdinburghUniversity and Cambridge University for the TALK project1.</Paragraph>
+<Paragraph position="1"> This prototype is the first &amp;quot;Information State Update&amp;quot;(ISU) dialoguesystemto exhibitreinforcement learning of dialogue strategies, and also has a fragmentary clarification feature.</Paragraph>
+<Paragraph position="2"> Thispaperdescribesthemaincomponentsand functionality of the system, as well as the purposesandfutureuseofthesystem,andsurveys null theresearchissuesinvolvedin itsconstruction.</Paragraph>
+<Paragraph position="3"> Evaluation of this system (i.e. comparing the baselinesystem with handcodedvs. learntdialogue policies) is ongoing, and the demonstration will show both.</Paragraph>
+</Section>
+</Paper>
+

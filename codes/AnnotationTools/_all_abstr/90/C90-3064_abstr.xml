@@ -1,0 +1,31 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-3064">
+<Title>A message processing system with object-centered semantics</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a report processing method with ohjcct-centered semantics. The syntactic analysis is performed along classical generative principles, though with a deliberately simple output as a list of index-value doublets, which the semantic module pr(messes using methods in an object-oriented framework. The final representation is made of two types of object-centered structures : llrst, case-like, event level dated structures corresponding to the Input clauses; second, detailed representation of the culTent state of an agent of the reference world, plus rccords tbr tile follow-up of a task over time. Uncertainty, imprecision and prevision are handled using specialized fields. This framework is applied to the processing of daily naval reports in English.</Paragraph>
+<Paragraph position="1"> I. Introduction The objective of the project is the processing of messages in English reporting the daily evolution of naval situation in the Mediterranean. The information extracted is exploited for situation monitoring, maintenance of a historical database, formulation of previsions, and detection of highlights and anomalies.</Paragraph>
+<Paragraph position="2"> A report typically gives information on the activity of one ship during the past 24 hours; for example: &amp;quot;La Belle Poulc is performing oceanographical measurement in the northern Mediterranean, while moving south at a speed of 5 knots. La Belle Poule was approxinlately 40 nautical miles south of Ma.rseille at 10:00, April 14.&amp;quot; This example exhibits discursive information on the c.urrcnt activity and movement of the ship and a spatio-temporal plotting relative to a reference  location.</Paragraph>
+<Paragraph position="3"> 2. Representation 2. I. The taxonomy of '~ermanent objects&amp;quot;  The permanent objects (Figure 1) are relatively perennial, non-event-based entities which make up the fixed knowledge background or reference world.</Paragraph>
+<Paragraph position="4"> They ,are : - ships: instances of known ships; - spatial items : instances of zones and places, plus geographical directions; action types, down to preterminal class level (action instances are created upon parsing, as detailed Imreunder). Actions subclassit~ into activities and</Paragraph>
+<Paragraph position="6"> Unlike action types, which arc not expectcd to be modified, new instances of ships and locations can be added intcractively to the taxonorny.</Paragraph>
+<Paragraph position="7">  ~ dircctim! A proper ~ I civilian mllliarY /I 7gtralt movenlent  |patr~ oceanographical IntC/lll ince etc. etc. Oklt~lCle - / \,.,.&amp;.,,&amp;quot;&lt;~ po,/~ l'-.,,oa t \ ............ , C 0 ~ ~ll cnog~iIlg llmlde Med facility reference rl,t}:|~l~:hlp~ ~k ~ port&amp;quot; atid&amp;quot;h~A)rage ,:::':,!p\\ \ Bclentlfl\[ m~lta y , nt! :! corn'bat O~ guxlllaly mllle cruiser ~rtn~weeper amphlb! destroyer' ~ ~ ~lnlng frlgat@ ~ amdstance &amp;quot;~ ship patrol ohlp Intelligence collector Figm'e 1 : The t,~..gnomy (if permanent objects</Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+2.2. Sh~ame
+</SectionTitle>
+<Paragraph position="0"> The ship frame indicates both the current state of a ship and indications on its activity.</Paragraph>
+<Paragraph position="1"> The general structure of a ship frame is : - status, a boolean (active/inactive) - ongoing tasks -completed tasks. This and the preceding field contain pointers to instances of the class &amp;quot;task&amp;quot;, whose fields are : type (an activity}, start date, intermediate {last recorded) date, end date and  location.</Paragraph>
+<Paragraph position="2"> -temporary information : current location, and, when available : goal, destination, geographical direction, companion ship, and speed; - list of spatio-temporal plottings.</Paragraph>
+<Paragraph position="3"> 1 333 2.3. Action frame Actions {event-level representation) are instances of the subclasses of the class &amp;quot;action&amp;quot;. Modality values are attached : - to the action itself : -temporal aspect : &amp;quot;previsional&amp;quot;, &amp;quot;under-way&amp;quot;, &amp;quot;completed&amp;quot;.</Paragraph>
+<Paragraph position="4"> -degree of certainty : &amp;quot;observed&amp;quot;, &amp;quot;certain&amp;quot; (meaning given as certain; this is the default value), &amp;quot;probable&amp;quot;, &amp;quot;possible&amp;quot;, ordered by decreasing cert~nty.</Paragraph>
+<Paragraph position="5"> - to the action parameters : - certainty, as above - precision : &amp;quot;exact&amp;quot;, &amp;quot;approximate&amp;quot; 2.4, lr~ference procedures  The inference procedures, implemented as methods and demons, perform the following tasks :  - check and complete new information - manage correspondence between fields (e.g, between the &amp;quot;goal&amp;quot; and &amp;quot;ongoing tasks&amp;quot; fields), taking modality values into account - look for better modalities (uncertainty, imprecision) - launch previsions - try to confirm active previsions - signal salient and anomalous points.</Paragraph>
+<Paragraph position="6"> Previsions can be explicit in the text (future action; goal or destination), or scenario-related.</Paragraph>
+<Paragraph position="8"></Paragraph>
+</Section>
+</Section>
+</Paper>
+

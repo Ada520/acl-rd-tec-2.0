@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W93-0311">
+<Title>Corpus-based Adaptation Mechanisms for Chinese Homophone Disambiguation</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Based on the concepts of bzd~rectwnal converswn and automahc evaluatzon, we propose two user.</Paragraph>
+<Paragraph position="1"> adaptation mechanzsms, character-preference learn.</Paragraph>
+<Paragraph position="2"> in9 and pseudo-word learning, for resolving Chinese homophone ambiguities in syllable-to.character conversion. The 1991 Umted Daily corpus of approximately 10 million Chinese characters ts used for extraction of 10 reporter-specific article databases and .\[or computat,on of word frequencies and character higrams. Ezpemments show that ~0.5 percent (testing sets) to 71.8 percent (trammg sets) of conversion er.</Paragraph>
+<Paragraph position="3"> rots can be eliminated through the proposed mechanisms. These concepts are thus very useful tn apphcattons such as Chinese znput methods and speech recognition systems.</Paragraph>
+</Section>
+</Paper>
+

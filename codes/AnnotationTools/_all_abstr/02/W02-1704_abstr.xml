@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-1704">
+<Title>Web References</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe our ongoing work on an application of XML/XSL technology to a dictionary, from whose source representation various views for the human reader as well as for automatic text generation and understanding are derived. Our case study is a dictionary of discourse markers, the words (often, but not always, conjunctions) that signal the presence of a disocurse relation between adjacent spans of text.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-1104">
+<Title>Using Suffix Arrays to Compute Term Frequency and Document Frequency for All Substrings in a Corpus</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Mutual Information (MI) and similar measures are often used in corpus-based linguistics to find interesting ngrams. MI looks for bigrams whose term frequency (~ is larger than chance. Residual Inverse Document Frequency (RIDF) is similar, but it looks for ngrams whose document frequency (df) is larger than chance. Previous studies have tended to focus on relatively short ngrams, typically bigrams and trigrams. In this paper, we will show that this approach can be extended to arbitrarily long ngrams.</Paragraph>
+<Paragraph position="1"> Using suffix arrays, we were able to compute tf, df and RIDF for all ngrams in two large corpora, an English corpus of 50 million words of Wall Street Journal news articles and a Japanese corpus of 216 million characters of Mainichi Shimbun news articles.</Paragraph>
+</Section>
+</Paper>
+

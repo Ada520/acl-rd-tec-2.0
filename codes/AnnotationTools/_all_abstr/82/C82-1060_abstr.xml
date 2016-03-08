@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C82-1060">
+<Title>COMPUTATIONAL ANALYSIS OF MANDARIN SOUNDS WITH REFERENCE TO THE ENGLISH LANGUAGE</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+COMPUTATIONAL ANALYSIS OF MANDARIN SOUNDS
+WITH REFERENCE TO THE ENGLISH LANGUAGE
+</SectionTitle>
+<Paragraph position="0"> In the analysis of Mandarin, the author used a corpus composed of over 750,000 samples transcribed automatically from Chinese characters by the computer through the sequential application of a set of phonetic rules developed by the author. The result is a classification and rank distribution of all speech sounds, the phonetic properties, frequency distribution of symbols, phonemes, syllables, tones, and their combinations. These statistical properties are compared with those of the English language.</Paragraph>
+</Section>
+</Paper>
+

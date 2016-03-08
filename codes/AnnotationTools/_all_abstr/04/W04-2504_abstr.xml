@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-2504">
+<Title>Discourse Structure for Context Question Answering</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In a real-world setting, questions are not asked in isolation, but rather in a cohesive manner that involves a sequence of related questions to meet user's information needs.</Paragraph>
+<Paragraph position="1"> The capability to interpret and answer questions based on context is important. In this paper, we discuss the role of discourse modeling in context question answering. In particular, we motivate a semantic-rich discourse representation and discuss the impact of refined discourse structure on question answering.</Paragraph>
+</Section>
+</Paper>
+

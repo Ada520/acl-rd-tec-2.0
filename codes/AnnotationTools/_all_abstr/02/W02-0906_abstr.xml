@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-0906">
+<Title>Learning Argument/Adjunct Distinction for Basque</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents experiments performed on lexical knowledge acquisition in the form of verbal argumental information. The system obtains the data from raw corpora after the application of a partial parser and statistical filters. We used two different statistical filters to acquire the argumental information: Mutual Information, and Fisher's Exact test.</Paragraph>
+<Paragraph position="1"> Due to the characteristics of agglutinative languages like Basque, the usual classification of arguments in terms of their syntactic category (such as NP or PP) is not suitable.</Paragraph>
+<Paragraph position="2"> For that reason, the arguments will be classified in 48 different kinds of case markers, which makes the system fine grained if compared to equivalent systems that have been developed for other languages.</Paragraph>
+<Paragraph position="3"> This work addresses the problem of distinguishing arguments from adjuncts, this being one of the most significant sources of noise in subcategorization frame acquisition.</Paragraph>
+<Paragraph position="4"> Introduction In recent years a considerable effort has been done on the acquisition of lexical information. As several authors point out, this information is useful for a wide range of applications. For example, J. Carroll et al. (1998) show how adding subcategorization information improves the performance of a parser.</Paragraph>
+<Paragraph position="5"> With this in mind our aim is to obtain a system that automatically discriminates between subcategorized elements of verbs (arguments) and non-subcategorized ones (adjuncts).</Paragraph>
+<Paragraph position="6"> We have evaluated our system in two ways: comparing the results to a gold standard and estimating the coverage over sentences in the corpus. The purpose was to find out which was the impact of each approach on this particular task. The two methods of evaluation yield significantly different results.</Paragraph>
+<Paragraph position="7"> Basque is the subject of this study. A language that, in contrast to languages like English, has limited resources in the form of digital corpora, computational lexicons, grammars or annotated treebanks. Therefore, any effort like the one presented here, oriented to create lexical resources, has to be driven to do as much automatic work as possible, minimizing development costs.</Paragraph>
+<Paragraph position="8"> The paper is divided into 4 sections. The first section is devoted to explain the theoretical motivations underlying the process. The second section is a description of the different stages of the system. The third section presents the results obtained. The fourth section is a review of previous work on automatic subcategorization acquisition. Finally, we present the main conclusions.</Paragraph>
+</Section>
+</Paper>
+

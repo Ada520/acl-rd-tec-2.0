@@ -1,0 +1,28 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C88-1053">
+<Title>CI%X T~'EI~ : a translation: syst~ fo~' agricultural market ~epo~:'t s</Title>
+<Section position="2" start_page="0" end_page="262" type="abstr">
+<SectionTitle>
+2. Representations
+</SectionTitle>
+<Paragraph position="0"> The CRITTER system assigns each textual unit a representation that describes both its form (graphological, morphological, syntactic) and its semantic content.</Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+2.1 Syntactic Representations
+</SectionTitle>
+<Paragraph position="0"> The syntactic representation associated with a textual object is a fairly standard surface structnre tree which may include traces in places where a (long-distance) dependency holds between some displaced phrase and a gap. Since we adopt a monostratal view of syntax, no other level of syntactic representation is tn'ovided for.</Paragraph>
+<Paragraph position="1"> The representation scheme is based on a variant of the feature structure approach (Sag &amp; al., 1986). Each node of the sm fi~ce tree is represented as a feature structure which includes, among others, cat ~md daughters attributes.</Paragraph>
+<Paragraph position="2"> Using familiar tree notation, our current grammars would  This structure is more or less in line with current syntactic theories. Note that it reflects a three-level X-bar convention. Occasionally, idiosyncratic features are adopted so as to account for the peculiarities of the sublanguage we are dealing with. This is the case for the complements measw and pp under v', which do not correspond to the usual subcategorization pattern for the verb 'increase'.</Paragraph>
+</Section>
+<Section position="2" start_page="0" end_page="262" type="sub_section">
+<SectionTitle>
+2.2 Semantic representations
+</SectionTitle>
+<Paragraph position="0"> Formally, our semantic representations are trees -- or more exactly, directed acyclic graphs, for structure-sharing is allowed in cases of coreference -- in which nodes are labelled with semantic units that often, but need not, correspond to the lexemes of the language represented. We introduce abstract semantic units to account for some lexical gaps, morphologically marked semantic notions, etc. The arcs are labelled either by argument numbers (1), (2), (3) ..... or by &amp;quot;inverse&amp;quot; argument numbers (inv-1), (inv-2) .... The interpretation of this notation is made easier if one considers as an example the semantic structure in Figure (a), which is associated with sentence (2.a): &amp;quot;Last week, hog prices in  In this structure: - 'At', '5%', '695' are abstract semantic units; - 'lastweek' is treated as a single unit, which is justified by the fact that it plays the role of a frozen indexical in our sublanguage (as 'yesterday' does in the standard language); - the (1), (2), (3) labels correspond to argument positions, either of predicates (like 'increase', treated as; a 3-place predicate) or of functions (such as 'price', which takes a commodity as first argumen0; the (inv- 1) labels correspond to &amp;quot;inverted&amp;quot; argument relations, which implies that 'increase' is in first argument position relative to 'lastweek', and that 'price' is in first argument position relative to 'At', ('Saskatchewan' being the second argument of 'At').</Paragraph>
+<Paragraph position="1"> Labels of the &amp;quot;inv&amp;quot; kind are a notational device which makes it possible to simultaneously read two representational levels off a single semantic structure: a first level which expresses predicate-argument relations; and a second level which is reminiscent of the subordination of syntactic groups. Thus 'lastweek' is a syntactic dependent of 'increased', and 'in Saskatchewan' is a syntactic dependent of 'prices'. There are two reasons for choosing to reflect subordination in the semantic structure: first, we want to maintain a treelike character for the semantic structure (unique root, no cycles). This is technically related to the fact that transfer o'ucially depends on a root-to-leaves recursive traversal of semantic structures. Second and much more important is the fact that subordination does have semantical import, although in a way which is not eun'ently very well understood.</Paragraph>
+<Paragraph position="2"> Semantic structures have to obey a well-formedness criterion, which consists of the checking of semantic type agreement between a predicate (or functional) node in the stractnr(~ and its argument nodes. Defining semantic well-formedness involves a semantic lexicon, a semantic type subsumption hierarchy, and semantic well-Jbrmedness rules. These ax~ briefly described in sections 3.3 and 4.3 below.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E85-1024">
+<Title>A PROBABILISTIC PARSER</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> The UCREL team at the University of Lancaster is engaged in the development of a robust parsing mechanism, which will assign the appropriate grammatical structure to sentences in unconstrained English text. The techniques used involve the calculation of probabilities for competing structures, and are based on the techniques successfully used in tagging (i.e. assigning grammatical word classes) to the LOB (Lancaster-Oslo/Bergen) corpus.</Paragraph>
+<Paragraph position="1"> The first step in the parsing process involves dictionary lookup of successive pairs of grammatically tagged words, to give a number of possible continuations to the current parse.</Paragraph>
+<Paragraph position="2"> Since this lookup will often not be able unambiguously to distinguish the point at which a grammatical constituent should be closed, the second step of the parsing process will have to insert closures and distinguish between alternative parses. It will generate trees representing these possible alternatives, insert closure points for the constituents, and compute a probability for each parse tree from the probability of each constituent within the tree. It will then be able to select a preferred parse or parses for output.</Paragraph>
+<Paragraph position="3"> The probability of a grammatical constituent is derived from a bank of manually parsed sentences.</Paragraph>
+</Section>
+</Paper>
+

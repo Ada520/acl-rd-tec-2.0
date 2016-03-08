@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P84-1104">
+<Title>Conceptual Analysis of Garden-Path Sentences</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> By integrating syntactic and semantic processing, our parser (LAZY) is able to deterministically parse sentences which syntactically appear to be garden path sentences although native speakers do not need conscious reanalysis to understand them.</Paragraph>
+<Paragraph position="1"> LAZY comprises an extension to conceptual analysis which yields an explicit representation of syntactic information and a flexible interaction between semantic and syntactic knowledge.</Paragraph>
+</Section>
+</Paper>
+

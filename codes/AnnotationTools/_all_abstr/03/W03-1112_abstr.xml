@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-1112">
+<Title>AnyQ: Answer Set based Information Retrieval System</Title>
+<Section position="1" start_page="0" end_page="1" type="abstr">
+<SectionTitle>
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> The goal of Information Retrieval (IR) is finding answer suited to user question from massive document collections with satisfied response time.</Paragraph>
+<Paragraph position="1"> With the exponential growth of information on the Web, user is expecting to find answer more fast with less effort. Current IR systems especially focus on improving precision the result rather than recall. A notable trend in IR is to provide more accurate, immediately usable information as in Question Answering systems(Q/A) [1] or in some systems using pre-constructed question/answer document pairs [2, 3], known answer set driven system.</Paragraph>
+<Paragraph position="2"> While traditional search engine uses term indexing, i.e. tf*idf, answer approaches use syntactic, semantic and pragmatic knowledge provided expert, i.e.</Paragraph>
+<Paragraph position="3"> WordNet[4]. Another difference comes from the fact that answer approach returns answer set distilled information need of user as retrieval result, not just document appeared query terms.</Paragraph>
+<Paragraph position="4"> The TREC Q/A track [1, 5, 6] which has motivated much of the recent work in the field focuses on fact-based, short-answer question type, e.g. Who is Barbara Jordan?orWhat is Mardi Gras?.</Paragraph>
+<Paragraph position="5"> The Q/A runs find an actual answer in TREC collection, rather than a ranked list of documents, in response to a question. On the other hand, user queries in answer set driven system, like AskJeeves[2], are more implicit and conceptual.</Paragraph>
+<Paragraph position="6"> These system was developed targeting the Web [7, 8], is larger than the TREC Q/A document collection.</Paragraph>
+<Paragraph position="7"> Whereas the user gives incomplete query to system, they need not only answers but related information.</Paragraph>
+<Paragraph position="8"> Sometimes the user even has uncertainty what exactly they need. For example, the user query just Paris is answered by gathering information including Paris city guide, photographs of Paris, and so on. To catch information need of user, these system have pre-defined query pattern and prepared correct answers belonging to each question. Since it is still considered difficult, if not impossible, to capture semantics and pragmatics of sentences in user queries and documents, such systems require knowledge bases built manually so that a certain level of quality can be guaranteed. Needless to say, this knowledge base construction process is laborintensive, typically requiring significant and continuous human efforts [9].</Paragraph>
+<Paragraph position="9"> This paper rests on the both directions: a new type of IR and its operational experience. Our system, named AnyQ  , attempts to provide high quality answer documents to user queries by maintaining a knowledge base consisting of expected queries and corresponding answer document. We defined the semantic category of the answer as attributes and the</Paragraph>
+</Section>
+</Paper>
+

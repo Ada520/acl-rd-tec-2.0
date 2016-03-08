@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N03-2033">
+<Title>Library and Information Studies, Queens</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+du
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We report here empirical results of a series of studies aimed at automatically predicting information quality in news documents. Multiple research methods and data analysis techniques enabled a good level of machine prediction of information quality. Procedures regarding user experiments and statistical analysis are described. null  ing), we worked on developing an extended model for classifying information by quality, in addition to, and as an extension of the traditional notion of relevance. The project involves Computer and Information Science researchers from University at Albany and Rutgers University. Our serving clientele are intelligent analysts, and the documents that we targeted were news articles.</Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+Research Approach
+</SectionTitle>
+<Paragraph position="0"> The term &amp;quot;Quality&amp;quot; is defined by International Organization of Standards (1986) as &amp;quot;the totality of characteristics of an entity that bear on its ability to satisfy stated and implied need&amp;quot; (Standard 8402, 3.1).</Paragraph>
+<Paragraph position="1"> Among numerous study on classification of information quality, Wang and Strong (1996) proposed four dimensions of qualities as detailed in Table 1: intrinsic, contextual, representational, and accessibility.</Paragraph>
+<Paragraph position="2">  Strong, Lee, Wang, 1997, p.39) Empirical attempts to assess quality have primarily focused on counting hyperlinks in a networked environment. Representative studies include the work by Amento and his colleagues (Amento, Terveen, &amp; Hills, 2000), Price and Hersh (1999), and Zhu and Gauch (2000). However, as a whole, previous studies were only able to produce algorithmic measures for Web documents based on link counts and with a limited number of quality aspects such as popularity. Our approach is to record actual users' quality assessments of news articles and conduct advanced statistical models of association between users' quality scoring and occurrence and prevalence of certain textual features.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

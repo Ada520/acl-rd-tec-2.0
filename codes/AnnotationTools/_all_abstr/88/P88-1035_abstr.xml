@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P88-1035">
+<Title>Unification of Disjunctive Feature Descriptions</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The paper describes a new implementation of feature structures containing disjunctive values, which can be characterized by the following main points: Local representation of embedded disjunctions, avoidance of expansion to disjunctive normal form and of repeated test-unifications for checking consistence. The method is based on a modification of Kasper and Rounds' calculus of feature descriptions and its correctness therefore is easy to see. It can handle cyclic structures and has been incorporated successfully into an environment for grammar development.</Paragraph>
+</Section>
+</Paper>
+

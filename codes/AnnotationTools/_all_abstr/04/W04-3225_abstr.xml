@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-3225">
+<Title>Adaptive Language and Translation Models for Interactive Machine Translation</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe experiments carried out with adaptive language and translation models in the context of an interactive computer-assisted translation program.</Paragraph>
+<Paragraph position="1"> We developed cache-based language models which were then extended to the bilingual case for a cache-based translation model. We present the improvements we obtained in two contexts: in a theoretical setting, we achieved a drop in perplexity for the new models and, in a more practical situation simulating a user working with the system, we showed that fewer keystrokes would be needed to enter a translation. null</Paragraph>
+</Section>
+</Paper>
+

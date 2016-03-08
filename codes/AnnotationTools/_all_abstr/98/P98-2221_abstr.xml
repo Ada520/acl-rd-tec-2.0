@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-2221">
+<Title>Modeling with Structures in Statistical Machine Translation</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Most statistical machine translation systems employ a word-based alignment model. In this paper we demonstrate that word-based alignment is a major cause of translation errors. We propose a new alignment model based on shallow phrase structures, and the structures can be automatically acquired from parallel corpus.</Paragraph>
+<Paragraph position="1"> This new model achieved over 10% error reduction for our spoken language translation task.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P87-1010">
+<Title>Constituent-Based Morphological Parsing: A New Approach to the Problem of Word-Recognition.</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a model of morphological processing which directly encodes prosodic constituency, a notion which is clearly crucial in many widespread morphological processes.</Paragraph>
+<Paragraph position="1"> The model has been implemented for the Australian language Warlpiri and has been successfully interfaced with a syntactic parser for that language (Brunson, 1986). We contrast our approach with approaches to morphological parsing in the KIMMO framework.</Paragraph>
+</Section>
+</Paper>
+

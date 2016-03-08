@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-1308">
+<Title>Bio-Medical Entity Extraction using Support Vector Machines</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Support Vector Machines have achieved state of the art performance in several classification tasks. In this article we apply them to the identification and semantic annotation of scientific and technical terminology in the domain of molecular biology. This illustrates the extensibility of the traditional named entity task to special domains with extensive terminologies such as those in medicine and related disciplines. We illustrate SVM's capabilities using a sample of 100 journal abstracts texts taken from the fhuman, blood cell, transcription factorg domain of MED-LINE. Approximately 3400 terms are annotated and the model performs at about 74% F-score on cross-validation tests. A detailed analysis based on empirical evidence shows the contribution of various feature sets to performance.</Paragraph>
+</Section>
+</Paper>
+

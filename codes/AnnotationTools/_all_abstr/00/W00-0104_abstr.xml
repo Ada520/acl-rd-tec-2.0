@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-0104">
+<Title>Automatic Extraction of Systematic Polysemy Using Tree-cut</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes an automatic method for extracting systematic polysemy from a hierarchically organized semantic lexicon (WordNet).</Paragraph>
+<Paragraph position="1"> Systematic polysemy is a set of word senses that are related in systematic and predictable ways. Our method uses a modification of a tree generalization technique used in (Li and Abe, 1998), and generates a tree-cut, which is a list of clusters that partition a tree. We compare the systematic relations extracted by our automatic method to manually extracted WordNet cousins.</Paragraph>
+</Section>
+</Paper>
+

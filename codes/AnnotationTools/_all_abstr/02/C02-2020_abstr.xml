@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C02-2020">
+<Title>Looking for candidate translational equivalents in specialized, comparable corpora</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Previous attempts at identifying translational equivalents in comparable corpora have dealt with very large 'general language' corpora and words. We address this task in a specialized domain, medicine, starting from smaller non-parallel, comparable corpora and an initial bilingual medical lexicon. We compare the distributional contexts of source and target words, testing several weighting factors and similarity measures. On a test set of frequently occurring words, for the best combination (the Jaccard similarity measure with or without tf:idf weighting), the correct translation is ranked first for 20% of our test words, and is found in the top 10 candidates for 50% of them. An additional reverse-translation filtering step improves the precision of the top candidate translation up to 74%, with a 33% recall.</Paragraph>
+</Section>
+</Paper>
+

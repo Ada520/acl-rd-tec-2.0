@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-0309">
+<Title>The information-processing difficulty of incremental parsing</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> When an incremental parser gets the next word, its expectations about upcoming grammatical structures can change. When a word greatly constrains these grammatical expectations, uncertainty is reduced. This elimination of possibilities constitutes information processing work. Formalizing this notion of information processing work yields a complexity metric that predicts human repetition accuracy scores across a systematic class of linguistic phenomena, the Accessibility Hierarchy of relativizable grammatical relations.</Paragraph>
+</Section>
+</Paper>
+

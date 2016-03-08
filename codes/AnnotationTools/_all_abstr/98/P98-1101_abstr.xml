@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-1101">
+<Title>Finite-state Approximation of Constraint-based Grammars using Left-corner Grammar Transforms</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes how to construct a finite-state machine (FSM) approximating a 'unification-based' grammar using a left-corner grammar transform.</Paragraph>
+<Paragraph position="1"> The approximation is presented as a series of grammar transforms, and is exact for left-linear and right-linear CFGs, and for trees up to a user-specified depth of center-embedding.</Paragraph>
+</Section>
+</Paper>
+

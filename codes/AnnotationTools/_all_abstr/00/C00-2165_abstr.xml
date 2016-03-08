@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-2165">
+<Title>KCAT : A Korean Corpus Annotating Tool Minimizing Human Intervention</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> While large POS(part-of-speech) annotated corpora play an important role in natural language processing, the annotated corpus requires very high accuracy and consistency.</Paragraph>
+<Paragraph position="1"> To build such an accurate and consistent corpus, we often use a manual tagging method. But the manual tagging is very labor intensive and expensive. Furthernaore, it is not easy to get consistent results from the humari experts. In this paper, we present an efficient tool lbr building large accurate and consistent corpora with minimal human labor. The proposed tool supports semi-automatic tagging. Using disambiguation rules acquired from human experts, it minimizes the human intervention in both the manual tagging and post-editing steps.</Paragraph>
+</Section>
+</Paper>
+

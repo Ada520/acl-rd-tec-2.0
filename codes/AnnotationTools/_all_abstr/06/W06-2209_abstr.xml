@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-2209">
+<Title>Active Annotation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper introduces a semi-supervised learning framework for creating training material, namely active annotation. The main intuition is that an unsupervised method is used to initially annotate imperfectly the data and then the errors made are detected automatically and corrected by a human annotator. We applied active annotation to named entity recognition in the biomedical domain and encouraging results were obtained. The main advantages over the popular active learning framework are that no seed annotated data is needed and that the reusability of the data is maintained. In addition to the framework, an efficient uncertainty estimation for Hidden Markov Models is presented. null</Paragraph>
+</Section>
+</Paper>
+

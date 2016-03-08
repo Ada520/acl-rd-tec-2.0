@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W99-0906">
+<Title>A Computational Approach to Deciphering Unknown Scripts</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We propose and evaluate computational techniques for deciphering unknown scripts. We focus on the case in which an unfamiliar script encodes a known language. The decipherment of a brief document or inscription is driven by data about the spoken language. We consider which scripts are easy or hard to decipher, how much data is required, and whether the techniques are robust against language change over time.</Paragraph>
+</Section>
+</Paper>
+

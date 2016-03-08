@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-1609">
+<Title></Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+References
+</SectionTitle>
+<Paragraph position="0"> 1 N. Bohan, E. Breidt, and M. Volk. 2000. Evaluating translation quality as input to product development. In Proceedings of 2nd International Conference on Language Resources and Evaluation, Athens, Greece.</Paragraph>
+<Paragraph position="1"> 2 J.B. Carroll. 1966. An experiment in evaluating the quality of translations. Mechanical Translation, 9(3--4):55--66.</Paragraph>
+<Paragraph position="2"> 3 B. Dorr, P. W. Jordan, and J. W. Benoit. 1999. A Survey of Current Research in Machine Translation. Advances in Computers, M. Zelkowitz (ed), 49:1--68.</Paragraph>
+<Paragraph position="3"> 4 EAGLES, 1994. Interim Report. Obtainable from Center for Language Technology, Njalsgade 80, DK 2300 Copenhagen.</Paragraph>
+<Paragraph position="4"> 5 T. Hirao, Y. Sasaki, and H. Isozaki. 2001. An Extrinsic Evaluation for Question-Biased Text Summarization on QA Tasks. In NAACL Workshop on Automatic Summarization, pages 61--68. 6 E. Hovy and D. Marcu, 1998. Automated Text Summarization: Tutorial Notes. COLING-ACL'98, Montral, Canada.</Paragraph>
+<Paragraph position="5"> 7 E. Hovy. 1999. Toward Finely Differentiated Evaluation Metrics for Machine Translation. In EAGLES Workshop on Standards and Evaluation, Pisa, Italy.</Paragraph>
+<Paragraph position="6"> 8 Bowen Hui , Eric S. K. Yu, Extracting Conceptual Relationships from Specialized Documents, Proceedings of the 21st International Conference on Conceptual Modeling, p.232-246, October 07-11, 2002 9 H. Jing, R. Barzilay, K. McKeown, and M. Elhadad. 1998. Summarization Evaluation Methods: Experiments and Analysis. In AAAI Intelligent Text Summarization Workshop, pages 60--68. 10 Margaret King , Kirsten Falkedal, Using test suites in evaluation of machine translation systems, Proceedings of the 13th conference on Computational linguistics, p.211-216, August 20-25, 1990, Helsinki, Finland 11 M. King. 1997. Evaluating translation. In C. Hauenschild &amp; S. Heizmann (eds.), Machine Translation and Translation Theory. Walter de Gruyter &amp; Co.: Berlin.</Paragraph>
+<Paragraph position="7"> 12 J.C. Loehlin. 1992. Latent Variable Models. Erlbaum Associates, Hillsdale NJ.</Paragraph>
+<Paragraph position="8"> 13 Keith J. Miller , Catherine Ball, The lexical choice of prepositions in machine translation, 2000 14 Jakob Nielsen, Usability Engineering, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1993 15 Eric H. Nyberg , Teruko Mitamura , Jaime G. Carbonell, Evaluation metrics for knowledge-based machine translation, Proceedings of the 15th conference on Computational linguistics, August 05-09, 1994, Kyoto, Japan 16 F. Reeder and E. Hovy, 2000. Workshop on Machine Translation Evaluation. AMTA-00, October.</Paragraph>
+<Paragraph position="9"> 17 Karen Sparck Jones , Julia R. Galliers , J. R. Galliers, Evaluating Natural Language Processing Systems: An Analysis and Review, Springer-Verlag New York, Inc., Secaucus, NJ, 1996 18 K. Sparck-Jones. 1996. Towards Better NLP System Evaluation. In Proceedings of the Human Language Technology Workshop, pages 102--107. ARPA.</Paragraph>
+<Paragraph position="10"> 19 S. Teufel. 2001. Task-Based Evaluation of Summary Quality: Describing Relationships Between Scientific Papers. In NAACL Workshop on Automatic Summarization.</Paragraph>
+<Paragraph position="11"> 20 J. S. White, T. O'Connell, and F. E. O'Mara. 1994. The ARPA MT evaluation methodologies: Evolution, lessons and further approaches. In Technology partnerships for corssing the language barrier: Proceedings of the first conference of the Association for Machine Translation in the Americas, pages 193--205, Columbia, USA.</Paragraph>
+</Section>
+</Paper>
+

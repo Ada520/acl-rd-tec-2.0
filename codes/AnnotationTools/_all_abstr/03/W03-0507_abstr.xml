@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-0507">
+<Title>Text Summarization Challenge 2 Text summarization evaluation at NTCIR Workshop 3</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe the outline of Text Summarization Challenge 2 (TSC2 hereafter), a sequel text summarization evaluation conducted as one of the tasks at the NTCIR Workshop 3. First, we describe briefly the previous evaluation, Text Summarization Challenge (TSC1) as introduction to TSC2. Then we explain TSC2 including the participants, the two tasks in TSC2, data used, evaluation methods for each task, and brief report on the results.</Paragraph>
+<Paragraph position="1"> Keywords: automatic text summarization, summarization evaluation  Introduction As research on automatic text summarization is being a hot topic in NLP, we also see the needs to discuss and clarify the issues on how to evaluate text summarization systems. SUMMAC in May 1998 as a part of TIPSTER (Phase III) project ([1], [2]) and Document Understanding Conference (DUC) ([3]) in the United States show the need and importance of the evaluation for text summarization.</Paragraph>
+<Paragraph position="2"> In Japan, Text Summarization Challenge (TSC1), a text summarization evaluation, the first of its kind, was conducted in the years of 1999 to 2000 as a part of the NTCIR Workshop 2. It was realized in order for the researchers in the field to collect and share text data for summarization, and to make clearer the issues of evaluation measures for summarization of Japanese texts ([4],[5],[6]). TSC1 used newspaper articles and had two tasks for a set of single articles with intrinsic and extrinsic evaluations. The first task (task A) was to produce summaries (extracts and free summaries) for intrinsic evaluations. We used recall, precision and F-measure for the evaluation of the extracts, and content-based as well as subjective methods for the evaluation of the free summaries.</Paragraph>
+<Paragraph position="3"> The summarization rates for task A were as follows: 10, 30, 50% for extracts and 20, 40% for free summaries.</Paragraph>
+<Paragraph position="4"> The second task (task B) was to produce summaries for information retrieval (relevance judgment) task. The measures for evaluation were recall, precision and F-measure to indicate the accuracy of the task, as well as the time to indicate how long it takes to carry out the task.</Paragraph>
+<Paragraph position="5"> We also prepared human-produced summaries including key data for the evaluation. In terms of genre, we used editorials and business news articles at TSC1's dryrun, and editorials and articles on social issues at the formal run evaluation.</Paragraph>
+<Paragraph position="6"> As sharable data, we had summaries for 180 newspaper articles by spring 2001. For each article, we had the following seven types of summaries: important sentences (10, 30, 50%), important parts specified (20, 40%), and free summaries (20, 40%).</Paragraph>
+<Paragraph position="7"> In comparison, TSC2 uses newspaper articles and has two tasks (single- and multi-document summarization) for two types of intrinsic evaluations. In the following sections, we describe TSC2 in detail. Two Tasks in TSC2 and its Schedule TSC2 has two tasks. They are single document summarization (task A) and multi-document summarization (task B).</Paragraph>
+<Paragraph position="8"> Task A: We ask the participants to produce summaries in plain text to be compared with humanprepared summaries from single documents.</Paragraph>
+<Paragraph position="9"> Summarization rate is a rate between the number of characters in the summary and the total number of characters in the original article. The rates are about 20% and 40%. This task is the same as task A-2 in TSC1.</Paragraph>
+<Paragraph position="10"> Task B: In this task, more than two (multiple) documents are summarized for the task. Given a set of documents, which has been gathered for a pre-defined topic, the participants produce summaries of the set in plain text format. The information that was used to produce the document set, such as queries, as well as summarization lengths are given to the participants. Two summarization lengths are specified, short and long summaries for one set of documents.</Paragraph>
+<Paragraph position="11"> The schedule of evaluations at TSC2 was as follows: dryrun was conducted in December 2001 and formal run was in May 2002. The final evaluation results were reported to the participants by early July 2002.</Paragraph>
+</Section>
+</Paper>
+

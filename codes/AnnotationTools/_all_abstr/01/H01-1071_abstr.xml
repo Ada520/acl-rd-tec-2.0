@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H01-1071">
+<Title>Towards Automatic Sign Translation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> Signs are everywhere in our lives. They make our lives easier when we are familiar with them. But sometimes they also pose problems. For example, a tourist might not be able to understand signs in a foreign country. In this paper, we present our efforts towards automatic sign translation. We discuss methods for automatic sign detection. We describe sign translation using example based machine translation technology. We use a user-centered approach in developing an automatic sign translation system. The approach takes advantage of human intelligence in selecting an area of interest and domain for translation if needed.</Paragraph>
+<Paragraph position="1"> A user can determine which sign is to be translated if multiple signs have been detected within the image. The selected part of the image is then processed, recognized, and translated. We have developed a prototype system that can recognize Chinese signs input from a video camera which is a common gadget for a tourist, and translate them into English text or voice stream.</Paragraph>
+</Section>
+</Paper>
+

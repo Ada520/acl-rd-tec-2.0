@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C88-2135">
+<Title>A Computer Readability Formula of Japanese Texts for Machine Scoring</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A readability formula is obtained that can be used by computer programs for style checking of Japanese texts and need not syntactic or semantic information. The formula is derived as a linear combination of tile surface characteristics of the text that are related to its readability: (1) the average number of characters per sentence, (2) for each type of characters (Roman alphabets, kanzis, hiraganas, katakanas), relative frequencies of rims (maximal swings) that ,:onsists only of that type of characters, (3) the average number of characters per each type of runs, and (4) tooten (comma) to kuten (period) ratio.</Paragraph>
+<Paragraph position="1"> To find the proper weighting, principal component analysis (PCA) was appliedto these characteristics taken from 77 sample texts.</Paragraph>
+<Paragraph position="2"> We have found a component which is related to the readability. Its scores match to the empirical knowledges of reading ease. We have also obtained experimental confirmation that the component is an adequate measure for stylistic ease of reading, by the cloze procedure and by the examination on the average lime taken to fill out one blank of the cloze texts.</Paragraph>
+</Section>
+</Paper>
+

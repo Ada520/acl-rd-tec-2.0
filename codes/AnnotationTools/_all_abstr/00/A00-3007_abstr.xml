@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A00-3007">
+<Title>Word Sense Disambiguation for Cross-Language Information Retrieval</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We have developed a word sense disambiguation algorithm, following Cheng and Wilensky (1997), to disambiguate among WordNet synsets. This algorithm is to be used in a cross-language information retrieval system, CINDOR, which indexes queries and documents in a language-neutral concept representation based on WordNet synsets. Our goal is to improve retrieval precision through word sense disambiguation. An evaluation against human disambiguation judgements suggests promise for our approach.</Paragraph>
+</Section>
+</Paper>
+

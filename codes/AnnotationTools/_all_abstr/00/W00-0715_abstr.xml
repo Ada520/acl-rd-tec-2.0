@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-0715">
+<Title>Experiments on Unsupervised Learning for Extracting Relevant Fragments from Spoken Dialog Corpus</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper are described experiments on unsupervised learning of the domain lexicon and relevant phrase fragments from a dialog corpus. Suggested approach is based on using domain independent words for chunking and using semantical predictional power of such words for clustering and automatic extraction phrase fragments relevant to dialog topics.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-0212">
+<Title>Conditional Responses in Information-Seeking Dialogues</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The paper deals with conditional responses of the form &amp;quot;Not if c/Yes if c&amp;quot; in reply to a question &amp;quot;?q&amp;quot; in the context of information-seeking dialogues. A conditional response is triggered if the obtainability of q depends on whether c holds: The response indicates a possible need to find alternative solutions, opening a negotiation in the dialogue. The paper discusses the conditions under which conditional responses are appropriate, and proposes a uniform approach to their generation and interpretation.</Paragraph>
+</Section>
+</Paper>
+

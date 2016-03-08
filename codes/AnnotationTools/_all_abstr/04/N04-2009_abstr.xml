@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N04-2009">
+<Title>Construction of Conceptual Graph representation of texts</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a system for constructing conceptual graph representation of text by using a combination of existing linguistic resources (VerbNet and WordNet). We use a two-step approach, by firstly identifying the semantic roles in a sentence, and then using these roles, together with semi-automatically compiled domain-specific knowledge to construct the conceptual graph representation.</Paragraph>
+</Section>
+</Paper>
+

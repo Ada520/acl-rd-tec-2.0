@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-1103">
+<Title>Self Organisation in Vowel Systems through Imitation</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper an artificial life approach to the explanation of the shape of vowel systems is presented. A population of artificial agents (small independent computer programs) that are each able to produce and perceive vowels in a human-like way, engages in imitation games. In these imitation games one agent makes a sound and another agent tries to imitate it. Both agents use their list of phonemes for analysing and producing the sounds.</Paragraph>
+<Paragraph position="1"> Depending on the outcome of the language game, the agents update their phoneme .lists, using only local information. It is demonstrated that in this way vowel systems that look remarkably like human vowel systems emerge. The process is insensitive to factors such as noise level, initial conditions and number of agents. It is argued that this could be a useful way of explaining the universal characteristics of human vowel systems.</Paragraph>
+</Section>
+</Paper>
+

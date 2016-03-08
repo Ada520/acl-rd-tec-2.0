@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C88-1006">
+<Title>Morphology with Two-Level Rules and Negative Rule Features</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+SRI International
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Two-level phonology, as currently practiced, has two severe limitations. One is that phonological generalizations are generally expressed in terms of transition tables of finite-state automata, and these tables are cumbersome to develop and refine. The other is that lexical idiosyncrasy is encoded by introducing arbitrary diacritics into the spelling of a morpheme. This paper explains how phonological rules may be employed instead of transition tables and describes a more elegant way of expressing phonological irregularity than with arbitrary diacritics, making use of the fact that generalizations are expressed with rules instead of automata.</Paragraph>
+</Section>
+</Paper>
+

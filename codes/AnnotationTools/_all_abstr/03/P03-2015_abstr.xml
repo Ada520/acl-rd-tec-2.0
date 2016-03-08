@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P03-2015">
+<Title>Noriyoshi</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The development of multi-channel digital broadcasting has generated a demand not only for new services but also for smart and highly functional capabilities in all broadcast-related devices. This is especially true of the television receivers on the viewer's side. With the aim of achieving a friendly interface that anybody can use with ease, we built a prototype interface system that operates a television through voice interactions using natural language. At the current stage of our research, we are using this system to investigate the usefulness and problem areas of the spoken dialogue interface for television operations.</Paragraph>
+</Section>
+</Paper>
+

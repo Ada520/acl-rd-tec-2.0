@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H86-1019">
+<Title>Adapting MUMBLE: Experience with Natural Language Generation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes the construction of a MUMBLE-based \[McDonald 83b\] tactical component for the TEXT text generation system \[McKeown 85\]. This new component, which produces fluent English sentences from the sequence of structured message units output from TEXT's strategic component, has produced a 60-fold speed-up in sentence production. Adapting MUMBLE required work on each of the three parts of the MUMBLE framework: the interpreter, the grammar, and the dictionary. It also provided some insight into the organization of the generation process and the consequences of MUMBLE's commitment to a deterministic model.</Paragraph>
+<Paragraph position="1">  The TEXT system \[McKeown 85\] is designed to answer questions about the structure of a database. It is organized into two relatively independent components: a strategic component which selects and organizes the relevant information into a discourse structure, and a tactical component which produces actual English sentences from the strategic component's output. The original tactical component \[Bossie 81\] used a functional grammar \[Kay 79\]; it is this component that has been replaced. 1 A tactical component for TEXT must be tailored to the form in which TEXT's strategic component organizes information. The strategic component responds to a query with a list of rhetorical propositions. A rhetorical proposition indicates some information about the database and the rhetorical function the information TEXT intends it to perform. For example, the rhetorical proposition:</Paragraph>
+</Section>
+</Paper>
+

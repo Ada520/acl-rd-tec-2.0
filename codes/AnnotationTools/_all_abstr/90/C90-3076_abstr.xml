@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-3076">
+<Title>Three Typed Pragmatics for Dialogue Structure Analysis</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> An experimental system for dialogue structure analysis based on a new type plan recognition model for spoken dialogues has been implemented. This model is realized by using four typed plans which are categorized into three kinds of universal pragmatics and a ldnd of task-dependent knowledge related to common action hierarchies. The experimental system is characterized by higher modularity and computational efficiency through defining a hierarchical usage order between these knowledges. The system can grasp a dialogue structure making it possible to solve problems related to spoken dialogue interpretation.</Paragraph>
+</Section>
+</Paper>
+

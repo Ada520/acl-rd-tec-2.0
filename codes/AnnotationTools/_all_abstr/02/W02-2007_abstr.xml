@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-2007">
+<Title>Language Independent NER using a Unified Model of Internal and Contextual Evidence</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper investigates the use of a language independent model for named entity recognition based on iterative learning in a co-training fashion, using word-internal and contextual information as independent evidence sources. Its bootstrapping process begins with only seed entities and seed contexts extracted from the provided annotated corpus.</Paragraph>
+<Paragraph position="1"> F-measure exceeds 77 in Spanish and 72 in Dutch.</Paragraph>
+</Section>
+</Paper>
+

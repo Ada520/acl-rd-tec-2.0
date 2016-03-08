@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J97-4002">
+<Title>An Empirical Approach to VP Ellipsis</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> Ellipsis is a pervasive phenomenon in natural language, and it has been a major topic of study in theoretical linguistics and computational linguistics in the past several decades (Ross 1967; Sag 1976; Williams 1997; Hankamer and Sag 1976; Webber 1978; Lappin 1984; Sag and Hankamer 1984; Chao 1987; Ristad 1990; Harper 1990; Kitagawa 1991; Dalrymple, Shieber, and Pereira 1991; Lappin 1992; Hardt 1993; Kehler 1993; Fiengo and May 1994). While previous work provides important insight into the abstract syntactic and semantic representations that underlie ellipsis phenomena, there has been little empirically oriented work on ellipsis. The availability of parsed corpora such as the Penn Treebank (Marcus, Santorini, and Marcinkiewicz 1993) makes it possible to empirically investigate elliptical phenomena in a way not possible before.</Paragraph>
+<Paragraph position="1"> This paper reports on an empirically based system that automatically resolves VP ellipsis in the 644 examples identified in the parsed Penn Treebank. This work builds on structural constraints and discourse heuristics first proposed in Hardt (1992) and further developed in Hardt (1995). The results reported here represent the first systematic corpus-based study of VP ellipsis resolution, and the performance of the system is comparable to the best existing systems for pronoun resolution.</Paragraph>
+<Paragraph position="2"> The VP elipsis resolution system (VPE-RES) operates on Penn Treebank parse trees to determine the antecedent for VPE occurrences. The system, implemented in Common LISP, uses a Syntactic Filter to eliminate candidate antecedents in impossible</Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+Department of Computing Science, Villanova University, Villanova, PA 19085
+</SectionTitle>
+<Paragraph position="0"> Q 1997 Association for Computational Linguistics Computational Linguistics Volume 23, Number 4 syntactic configurations, and then ranks remaining candidates using Preference Factors involving recency, parallelism, clausal relations, and quotation structure. All the examples of VPE in the Treebank were coded for the correct antecedent by two coders. Also, a baseline scheme is implemented, which always selects the most recent full VP. Both the system and the baseline are evaluated by comparison with the coder output, with respect to three different definitions of success: .</Paragraph>
+<Paragraph position="1"> .</Paragraph>
+<Paragraph position="2"> .</Paragraph>
+<Paragraph position="3"> Head Overlap: either the head verb of the system choice is contained in the coder choice, or the head verb of the coder choice is contained in the system choice Head Match: the system choice and coder choice have the same head verb.</Paragraph>
+<Paragraph position="4"> Exact Match: the system choice and coder choice match word-for-word. Using the Head Overlap measure, the system achieves a success rate of 94.8% on a blind test of 96 Wall Street Journal examples, while the baseline recency scheme achieves a success rate of 75.0% by this measure. Using the Exact Match measure, the system performs with 76.0% accuracy, and the baseline approach achieves 14.6% accuracy.</Paragraph>
+<Paragraph position="5"> In what follows, we first present background on the data set and the coding of that data. Next, we describe the VPE-RES system, examining the Syntactic Filter, the Preference Factors, and the Post-Filter. There follows an empirical analysis of the system, in which we compare the system output to coder choice, based on our three success criteria. Also, the subparts of the system are analyzed individually, in three different ways. Finally, we briefly discuss related work.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

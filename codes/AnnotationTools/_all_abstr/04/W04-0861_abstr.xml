@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-0861">
+<Title>The &amp;quot;Meaning&amp;quot; System on the English Allwords Task</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> The &amp;quot;Meaning&amp;quot; system has been developed within the framework of the Meaning European research project1. It is a combined system, which integrates several supervised machine learning word sense disambiguation modules, and several knowledge-based (unsupervised) modules. See section 2 for details. The supervised modules have been trained exclusively on the SemCor corpus, while the unsupervised modules use WordNet-based lexico-semantic resources integrated in the Multilingual Central Repository (MCR) of the Meaning project (Atserias et al., 2004).</Paragraph>
+<Paragraph position="1"> The architecture of the system is quite simple.</Paragraph>
+<Paragraph position="2"> Raw text is passed through a pipeline of linguistic processors (tokenizers, POS tagging, named entity extraction, and parsing) and then a Feature Extraction module codifies examples with features extracted from the linguistic annotation and MCR.</Paragraph>
+<Paragraph position="3"> The supervised modules have priority over the unsupervised and they are combined using a weighted voting scheme. For the words lacking training examples, the unsupervised modules are applied in a cascade sorted by decreasing precision. The tuning of the combination setting has been performed on the Senseval-2 allwords corpus.</Paragraph>
+<Paragraph position="4"> Several research groups have been providers of resources and tools, namely: IXA group from the University of the Basque Country, ITC-irst (&amp;quot;Istituto per la Ricerca Scientifica e Tecnologica&amp;quot;), University of Sussex (UoS), University of Alicante (UoA), and TALP research center at the Technical University of Catalonia. The integration was carried out by the TALP group.</Paragraph>
+</Section>
+</Paper>
+

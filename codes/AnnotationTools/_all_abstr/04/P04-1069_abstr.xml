@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P04-1069">
+<Title>Probabilistic Parsing Strategies</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present new results on the relation between context-free parsing strategies and their probabilistic counter-parts. We provide a necessary condition and a sufficient condition for the probabilistic extension of parsing strategies. These results generalize existing results in the literature that were obtained by considering parsing strategies in isolation.</Paragraph>
+</Section>
+</Paper>
+

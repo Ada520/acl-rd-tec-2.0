@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-0905">
+<Title>Evaluating Knowledge-based Approaches to the Multilingual Extension of a Temporal Expression Normalizer</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The extension to new languages is a well known bottleneck for rule-based systems.</Paragraph>
+<Paragraph position="1"> Considerable human effort, which typically consists in re-writing from scratch huge amounts of rules, is in fact required to transfer the knowledge available to the system from one language to a new one.</Paragraph>
+<Paragraph position="2"> Provided sufficient annotated data, machine learning algorithms allow to minimize the costs of such knowledge transfer but, up to date, proved to be ineffective for some specific tasks. Among these, the recognition and normalization of temporal expressions still remains out of their reach. Focusing on this task, and still adhering to the rule-based framework, this paper presents a bunch of experiments on the automatic porting to Italian of a system originally developed for Spanish. Different automatic rule translation strategies are evaluated and discussed, providing a comprehensive overview of the challenge.</Paragraph>
+</Section>
+</Paper>
+

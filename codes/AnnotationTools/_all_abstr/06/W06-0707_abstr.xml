@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-0707">
+<Title>Sydney, July 2006. c(c)2006 Association for Computational Linguistics DUC 2005: Evaluation of Question-Focused Summarization Systems</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"></Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+The Document Understanding Conference
+</SectionTitle>
+<Paragraph position="0"> (DUC) 2005 evaluation had a single useroriented, question-focused summarization task, which was to synthesize from a set of 25-50 documents a well-organized, fluent answer to a complex question. The evaluation shows that the best summarization systems have difficulty extracting relevant sentences in response to complex questions (as opposed to representative sentences that might be appropriate to a generic summary). The relatively generous allowance of 250 words for each answer also reveals how difficult it is for current summarization systems to produce fluent text from multiple documents.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

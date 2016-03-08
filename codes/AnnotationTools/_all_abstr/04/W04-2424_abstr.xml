@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-2424">
+<Title>Putting Meaning into Your Trees</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ACE (Automatic Content Extraction) program, we
+</SectionTitle>
+<Paragraph position="0"> have developed a Proposition Bank, or PropBank, which provides semantic role labels for verbs and participial modifiers for the 1M word Penn Treebank II corpus (Marcus, 1994). VerbNet classes have proved invaluable for defining the appropriate semantic roles in this endeavor (Dang, et. al., 1998). For example, John is the Agent or Arg0 of John broke the window, IBM is the Theme or Arg1 of IBM rose 1.2 points. In addition, for just over 700 of the most polysemous verbs in the Penn TreeBank, we have defined two or more Framesets - major sense distinctions based on differing sets of semantic roles (Palmer, et al, submitted). These Framesets overlap closely (95%) with our manual groupings of the SENSEVAL2 verb senses, and thus they can be combined to provide an hierarchical set of sense distinctions. The PropBank is complete and a beta-release version was made publicly available through LDC in February for use in the CoNLL-04 shared task. There is a complementary lexicography project at Berkeley, Chuck Fillmore's FRAMENET, which provides representative annotated samples rather than broad-coverage annotation, and there are current plans to combine these resources and train automatic labelers for English and Chinese. The automatic semantic role labelers we are building use features that are very similar to our WSD system features, and we find that semantic role label features improve WSD while sense tag features improve semantic role labeling (Gildea &amp; Palmer, 2002).</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A00-3006">
+<Title>The use of error tags in ARTFL's Encyclopgdie: Does good error identification lead to good error correction?</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Many corpora which are prime candidates for automatic error correction, such as the output of OCR software, and electronic texts incorporating markup tags, include information on which portions of the text are most likely to contain errors.</Paragraph>
+<Paragraph position="1"> This paper describes how the error markup tag &lt;?&gt; is being incorporated in the spell-checking of an electronic version of Diderot's Encyclopddie, and evaluates whether the presence of this tag has significantly aided in correcting the errors which it marks. Although the usefulness of error tagging may vary from project to project, even as the precise way in which the tagging is done varies, error tagging does not necessarily confer any benefit in attempting to correct a given word. It may, of course, nevertheless be useful in marking errors to be fixed manually at a later stage of processing the text.</Paragraph>
+</Section>
+</Paper>
+

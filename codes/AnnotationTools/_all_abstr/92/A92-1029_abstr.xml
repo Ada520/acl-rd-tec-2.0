@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A92-1029">
+<Title>References</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes an approach to the treatment of nominal compounds in a machine translation project employing a modern unification-based system.</Paragraph>
+<Paragraph position="1"> General problems connected with the analysis of compounds are briefly reviewed, and the project, for the automatic translation of Swiss avalanche bulletins, is introduced. Avalanche bulletins deal with a limited semantic domain and employ a sublanguage in which nominal compounds occur frequently. These and other properties of the texts affect the treatment of compounds, permitting certain simplifications, while leaving a number of possible alternative analyses.</Paragraph>
+<Paragraph position="2"> We discuss the different problems involving the translation of compounds between German and French, and show how the computational environment in use permits two different approaches to the problem: an interlingua-based approach and a transfer-based approach. Finally, wc evaluate these approaches with respect to linguistic and computational considerations applicable in a MT-system dealing with a limited semantic domain and describe the solution that has actually been implemented.</Paragraph>
+</Section>
+</Paper>
+

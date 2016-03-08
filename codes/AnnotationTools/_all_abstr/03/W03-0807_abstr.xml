@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-0807">
+<Title>Current Issues in Software Engineering for Natural Language Processing</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In Natural Language Processing (NLP), research results from software engineering and software technology have often been neglected.</Paragraph>
+<Paragraph position="1"> This paper describes some factors that add complexity to the task of engineering reusable NLP systems (beyond conventional software systems). Current work in the area of design patterns and composition languages is described and claimed relevant for natural language processing. The benefits of NLP componentware and barriers to reuse are outlined, and the dichotomies &amp;quot;system versus experiment&amp;quot; and &amp;quot;toolkit versus framework&amp;quot; are discussed.</Paragraph>
+<Paragraph position="2"> It is argued that in order to live up to its name language engineering must not neglect component quality and architectural evaluation when reporting new NLP research.</Paragraph>
+</Section>
+</Paper>
+

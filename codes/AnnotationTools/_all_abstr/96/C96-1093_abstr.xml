@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-1093">
+<Title>D B'~Z~A * D D BL?cA * D D B~'LT~A * D D B~-/'cA * D D * A.~3 ~ i~'B * D ~ D * AL g - D 1.6 D * B,t~ J: LFA * D D'B~A'D D * A~Zo~'~cCo')B * D' 1.7 D * A~,~-1~-9~ ~ B - D / D * B~:_o~,~Z'09A * D D. B~Y-I~-~A * D</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper aims to analyze word dependency structure in compound nouns appearing in Japanese newspaper articles. The analysis is a dil't:icult problem because such compound nouns can be quite long, have no word boundaries between contained nouns, and often contain nnregistered words such as abbreviations. The nonsegmentation property and unregistered words cause initial segmentation errors which result in erroneous analysis.</Paragraph>
+<Paragraph position="1"> This paper presents a corpus-based approach which scans a corpus with a set of pattern matchers and gathers co-occurrence examples to analyze compound nouns. It employs boot-strapping search to cope with unregistered words: if an unregistered word is lound in the process of searching the examples, it is recorded and invokes additional searches to gather the examples containing it.</Paragraph>
+<Paragraph position="2"> This makes it possible to correct initial over-segmentation errors, and leads to higher accuracy. The accuracy of the method is evaluated using the compound nouns of length 5, 6, 7, and 8. A baseline is also inmxlueed and compared.</Paragraph>
+</Section>
+</Paper>
+

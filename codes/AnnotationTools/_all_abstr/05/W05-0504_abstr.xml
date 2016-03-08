@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W05-0504">
+<Title>The SED heuristic for morpheme discovery: a look at Swahili</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a heuristic for morpheme- and morphology-learning based on string edit distance.</Paragraph>
+<Paragraph position="1"> Experiments with a 7,000 word corpus of Swahili, a language with a rich morphology, support the effectiveness of this approach.</Paragraph>
+</Section>
+</Paper>
+

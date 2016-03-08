@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-3042">
+<Title>Bi-directional LR Parsing fi'om an Anchor Word for Speech Recognition</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper introduces a new technique of parsing sentences from an arbitrary word which is highly reliable or semantically important. This technique adopts an efficient LR parsing method and uses a reverse LR table constructed besides a standard LR table. This technique is particularly suitable in parsing a lattice of words hypothesized by a speech recognition module. If we choose anchor symbols in mlch a way that they art almost always acoustically reliable, the bi-directional LR parsing performs better against misrecognized words than the regular left-to-right LR lmrser, while most of the LR efficiency is preserved. A pilot implementation shows a 43 % reduction of the en'or rate against the left-to-right LR method in parsing the speech input.</Paragraph>
+</Section>
+</Paper>
+

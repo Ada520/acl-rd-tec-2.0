@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A97-1021">
+<Title>Large-Scale Acquisition of LCS-Based Lexicons for Foreign Language Tutoring</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We focus on the probleln of building large repositories of le.rical coJtceplual structure (LCS) representations for verbs in multiple languages. One of the main results of this work is the definition of a relat, ion between broad semantic classes and LCS meaniug components. Our acquisition program--LEXICALL--takes, as input, the result of previous work on verb classification and thematic grid tagging, and outputs LCS representations for different. languages. These representations have been ported into English, Arabic and Spanish lexicons, each containing approximately 9000 verbs. We are currently using these lexicons in an operational foreign language tutoring and machine translation.</Paragraph>
+</Section>
+</Paper>
+

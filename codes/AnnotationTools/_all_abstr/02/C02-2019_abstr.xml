@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C02-2019">
+<Title>Morphological Analysis of The Spontaneous Speech Corpus</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a project tagging a spontaneous speech corpus with morphological information such as word segmentation and parts-ofspeech. We use a morphological analysis system basedonamaximumentropymodel,whichis independent of the domain of corpora. In this paper we show the tagging accuracy achieved by using the model and discuss problems in tagging the spontaneous speech corpus. We also show that a dictionary developed for a corpus on a certain domain is helpful for improving accuracy in analyzing a corpus on another domain.</Paragraph>
+</Section>
+</Paper>
+

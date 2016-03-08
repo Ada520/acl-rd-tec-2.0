@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1191">
+<Title>Inferring parts of speech for lexical mappings via the Cyc KB</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present an automatic approach to learning criteria for classifying the parts-of-speech used in lexical mappings. This will further automate our knowledge acquisition system for non-technical users. The criteria for the speech parts are based on the types of the denoted terms along with morphological and corpus-based clues. Associations among these and the parts-of-speech are learned using the lexical mappings contained in the Cyc knowledge base as training data. With over 30 speech parts to choose from, the classifier achieves good results (77.8% correct). Accurate results (93.0%) are achieved in the special case of the mass-count distinction for nouns. Comparable results are also obtained using OpenCyc (73.1% general and 88.4% mass-count).</Paragraph>
+</Section>
+</Paper>
+

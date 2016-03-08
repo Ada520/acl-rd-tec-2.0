@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C86-1083">
+<Title>TEMPORAL RELATIONS IN TEXTS AND TIME LOGICAL INFERENCES</Title>
+<Section position="1" start_page="0" end_page="350" type="abstr">
+<SectionTitle>
+TEMPORAL RELATIONS IN TEXTS AND TIME LOGICAL INFERENCES
+</SectionTitle>
+<Paragraph position="0"> Abstract: A calculus is presented which allows an efficient treatment of the following components: Tenses, temporal conjunctions, temporal adverbials (of &amp;quot;definite&amp;quot; type), temporal quantifications and phases.</Paragraph>
+<Paragraph position="1"> The phases are a means for structuring the set of time-points t where a certain proposition is valid. For one proposition there may exist several &amp;quot;phase&amp;quot;-perspectives. The calculus has integrative properties, i. e.</Paragraph>
+<Paragraph position="2"> all five components are represented by the same formal means. This renders possible a rather easy combination of all informations and conditions coming from the aforesaid components.</Paragraph>
+<Paragraph position="3"> I. Prerequisits We assume that propositions are replaced by phase-sets: A proposition R is something which is true or false at each point t of the time axis U:</Paragraph>
+<Paragraph position="5"> A phase is an interval (span or moment) p on the time axis, which a truth value (denoted by q(p)) is assigned to: q(p) = T: p is an affirmative (main-)phase. q(p) = F: p is a declining (secondary) phase. A phase-set P is a pair \[P~,q\]: P~ is a set of intervals p and q is an evaluation function assigning a truth value to each p6 P~. The substitution of propositions R by phase-sets P is not unequivocal, but also not arbitrary. Some necessary conditions for the relationship between R and its &amp;quot;surrogate&amp;quot; P have been introduced and discussed elsewhere (Kunze 1986). One essential point is that the simple &amp;quot;moment logic&amp;quot; becomes an &amp;quot;interval logic&amp;quot;. This is also connected with questions as expressed by the different definitions of HOLD, OCCUR and OCCURING in Allen 1984.</Paragraph>
+<Paragraph position="6"> Another fact connected with phases is the unsymmetry in the case of a negation: (I) The museum is open today.</Paragraph>
+<Paragraph position="7"> + The museum is open all day today.</Paragraph>
+<Paragraph position="8"> (2) The museum is closed today.</Paragraph>
+<Paragraph position="9"> = The museum is closed all day today.</Paragraph>
+<Paragraph position="10"> The proposition R is supposed to be fixed and given. P is considered as variable and provides a formal counterpart of different phase-perspectives for a certain proposition. The German sentence (3) Thomas raucht.</Paragraph>
+<Paragraph position="11"> has at least two of them (and consequently two meanings): &amp;quot;Thomas is a smoker&amp;quot; and &amp;quot;Thomas is smoking&amp;quot;. Furthermore the use of phases enables us to consider some parts of T(R) as unimportant, accidental or exceptional. These parts form declining phases of R. The affirmative phases of R need not be disjunct, and they need not be contained in T(R). It is also possible to introduce nested phases, so that rather complicated  courses may be rcpresented.</Paragraph>
+<Paragraph position="12"> 2. Some formal definitions</Paragraph>
+<Paragraph position="14"> sets with P~ : P~. Then PI and P2 may be connected by means of sentential logic: For any functor &amp;quot;o&amp;quot; (e. g. &amp;quot;... and ...&amp;quot; and &amp;quot;if , then . &amp;quot;) ....... one defines</Paragraph>
+<Paragraph position="16"> Phase-operators connect arbitrary phasesets. As an example we take the phase-</Paragraph>
+<Paragraph position="18"> one gets the definition of P = PER(PI,P2) .</Paragraph>
+<Paragraph position="20"> The important point is that these relationships between PI and P2 are not represented by a Yes-No-decision, but again by a phase-set P: OCC(PI,P2) selects from the T-phases of the first argument those p for which the characteristic condition (= there is a P2  with q2(P2 ) = T and p ~ P2 % @) is fulfilled. The phase-operator OCC is not the same thing as OCCUR or OCCURING in Allen 1984.</Paragraph>
+<Paragraph position="21"> There are at least three differences: OCCUR is a Yes-No-predicate, has as first argument an event and as second an intervalland the arguments are no sets as in our case. It makes at any rate difficulties to generalize such a Yes-No-property for sets as arguments. This is one reason for our definitions. More important is that e. g. OCC(PI,P 2) may be used as argument in another phase-operator.</Paragraph>
+<Paragraph position="22"> This enables us to express quite easily the essential time relation in &amp;quot;In July there are evening-planes on Tuesday and Friday.&amp;quot;.</Paragraph>
+<Paragraph position="23"> One needs some other operations: Given P = \[P~,q\], then alt(P) contains exactly those phases which one gets by joining all phases of P which are not seperated from each other and have the same q-value (inductively understood).</Paragraph>
+<Paragraph position="24"> If one designates by U deg the phase-set consisting only of U as interval (with q(U) : T) , then alt(P) = U O means that the union of all T-phases of P covers the time axis U, i. e. &amp;quot;P is always true&amp;quot;. In sectdeg I. we already sketched how to represent propositions R by phase-sets P.</Paragraph>
+<Paragraph position="25"> We write P = &lt;R&gt;. Now we have to explain the same for temporal adverbials: &lt;tuesday&gt; is a phase--set P, whose intervals p are the days, and exactly the Tuesdays have the q-value T. In &lt;day&gt; all intervals (: day) have the q-value T. &lt;1982&gt; is a phase-set with years as intervals, but only one (:&amp;quot;1982&amp;quot;) has the q-value T. Obviously x&lt;tuesday&gt; is a single unspecified Tuesday, x&lt;day&gt; an unspecified day.</Paragraph>
+</Section>
+</Paper>
+

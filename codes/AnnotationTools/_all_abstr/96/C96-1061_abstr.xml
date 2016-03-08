@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-1061">
+<Title>Using Discourse Predictions for Ambiguity Resolution</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we discuss how we allply discourse predictions along with non context-based predictions to the problem of parse disambiguation in Enthusiast, a Spanish-to-English translation system (Woszcyna et al., 1993; Snhm et al., 1994; Levin el; al., 1995). We discuss extensions to our plan-based discourse processor in order to make this possible. We evaluate those extensions and demonstrate the advantage of exploiting context-based predictions over a purely non context-based approach.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H93-1019">
+<Title>Identification of Non-Linguistic Speech Features</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> Over the last decade technological advances have been made which enable us to envision real-world applications of speech technologies. It is possible to foresee applications where the spoken query is to be recognized without even prior knowledge of the language being spoken, for exanapie, information centers in public places such as train stations and airports. Other applications may require accurate identification of the speaker for security reasons, including control of access to confidential information or for telephone-based transactions. Ideally, the speaker's identity can be verified continually during the transaction, in a manner completely transparent to the user. With these views in mind, this paper presents a unified approach to identifying non-linguistic speech features from the recorded signal using phone-based acoustic likelihoods.</Paragraph>
+<Paragraph position="1"> This technique is shown to be effective for text-independent language, sex, and speaker identification and can enable better and more friendly human-machine interaction. With 2s of speech, the language can be identified with better than 99% accuracy. Error in sexddentification is about 1% on a per-sentence basis, and speaker identification accuracies of 98.5% on 'lIMIT (168 speakers) and 99.2% on BREF (65 speakers), were obtained with one utterance per speaker, and 100% with 2 utterances for both corpora.</Paragraph>
+<Paragraph position="2"> An experiment using unsupervised adaptation for speaker identification on the 168 TIMIT speakers had the same identification accuracies obtained with supervised adaptation.</Paragraph>
+</Section>
+</Paper>
+

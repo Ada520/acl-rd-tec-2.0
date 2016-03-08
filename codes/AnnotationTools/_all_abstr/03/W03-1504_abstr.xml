@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-1504">
+<Title>Low-cost Named Entity Classification for Catalan: Exploiting Multilingual Resources and Unlabeled Data</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This work studies Named Entity Classification (NEC) for Catalan without making use of large annotated resources of this language. Two views are explored and compared, namely exploiting solely the Catalan resources, and a direct training of bilingual classification models (Spanish and Catalan), given that a large collection of annotated examples is available for Spanish. The empirical results obtained on real data point out that multi-lingual models clearly outperform mono-lingual ones, and that the resulting Catalan NEC models are easier to improve by bootstrapping on unlabelled data.</Paragraph>
+</Section>
+</Paper>
+

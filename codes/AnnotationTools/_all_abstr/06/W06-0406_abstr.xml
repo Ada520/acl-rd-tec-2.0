@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-0406">
+<Title>Capturing Disjunction in Lexicalization with Extensible Dependency Grammar</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In spite of its potential for bidirectionality, Extensible Dependency Grammar (XDG) has so far been used almost exclusively for parsing. This paper represents one of the first steps towards an XDG-based integrated generation architecture by tackling what is arguably the most basic among generation tasks: lexicalization. Herein we present a constraint-based account of disjunction in lexicalization, i.e. a way to enable an XDG grammar to generate all paraphrases -- along the lexicalization axis, of course -- realizing a given input semantics. Our model is (i) efficient, yielding strong propagation, (ii) modular and (iii) favourable to synergy inasmuch as it allows collaboration between modules, notably semantics and syntax.</Paragraph>
+<Paragraph position="1"> We focus on constraints ensuring well-formedness and completeness and avoiding over-redundancy.</Paragraph>
+</Section>
+</Paper>
+

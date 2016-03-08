@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="I05-4006">
+<Title>Construction of Structurally Annotated Spoken Dialogue Corpus</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes the structural annotation of a spoken dialogue corpus.</Paragraph>
+<Paragraph position="1"> By statistically dealing with the corpus, the automatic acquisition of dialogue-structural rules is achieved. The dialogue structure is expressed as a binary tree and 789 dialogues consisting of 8150 utterances in the CIAIR speech corpus are annotated. To evaluate the scalability of the corpus for creating dialogue-structural rules, a dialogue parsing experiment was conducted. null</Paragraph>
+</Section>
+</Paper>
+

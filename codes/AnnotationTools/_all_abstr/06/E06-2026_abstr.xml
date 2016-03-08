@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E06-2026">
+<Title>Grammatical Role Labeling with Integer Linear Programming</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we present a formalization of grammatical role labeling within the frameworkofInteger Linear Programming (ILP). We focus on the integration of sub-categorization information into the decision making process. We present a first empirical evaluation that achieves competitive precision and recall rates.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-0905">
+<Title>Front Back Consistency Overgeneration</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a formal approach and a practical learning method for automatically acquiring phonotactic constraints encoded as finite automata. It is proposed that the use of different classes of syllables with class-specific intra-syl\]abic phonotactics results in a more accurate hypothesis of a language's phonological grammar than the single syllable class traditionally used. Intra-syllabic constraints are encoded as acyclic finite automata with input alphabets of phonemic symbols. These automata in turn form the transitions in cyclic finite automata that encode the inter-syllabic constraints of word-level phonology. A genetic algorithm is used to automatically construct finite automata from training sets of symbol strings.</Paragraph>
+<Paragraph position="1"> Results are reported for a set of German syllables and a set of Russian bisyllabic feminine nouns.</Paragraph>
+</Section>
+</Paper>
+

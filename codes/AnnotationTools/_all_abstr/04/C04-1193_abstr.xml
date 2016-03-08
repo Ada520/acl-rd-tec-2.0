@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1193">
+<Title>Acquiring an Ontology for a Fundamental Vocabulary</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we describe the extraction of thesaurus information from parsed dictionary de nition sentences. The main data for our experiments comes from Lexeed, a Japanese semantic dictionary, and the Hinoki treebank built on it. The dictionary is parsed using a head-driven phrase structure grammar of Japanese. Knowledge is extracted from the semantic representation (Minimal Recursion Semantics). This makes the extraction process language independent. null</Paragraph>
+</Section>
+</Paper>
+

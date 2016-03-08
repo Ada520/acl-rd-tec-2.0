@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C88-1063">
+<Title>An Experimental Parser for Systemic Grammars</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We descrlbe a general parsing method for systemic grammars. Systemic grammars contain a paradigmatic analysis of language in addition to structural information, so a parser must assign a set of grammatical features and functions to each constituent in addition to producing a constituent structure. Our method constructs a parser by compiling systemic grammars into the notation of Functional Unification Grammar. The existing methods for parsing with unification grammars hace been extended to handle a fuller range of paradigmatic descriptions. In particular, the PATR-II system has been extended by using disjunctive and conditional information in functional descriptions that are attached to phrase structure rules. The method has been tested with a large grammar of English w:hich was originally developed for text generation. This testing is the basis for some observations about the bidirectional m~e of a grammar.</Paragraph>
+</Section>
+</Paper>
+

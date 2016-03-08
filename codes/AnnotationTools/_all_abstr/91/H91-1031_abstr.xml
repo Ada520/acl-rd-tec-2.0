@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H91-1031">
+<Title>Signal Representation Attribute Extraction and the Use Distinctive Features for Phonetic Classification 1</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> The study reported in this paper addresses three issues related to phonetic classification: 1) whether it is important to choose an appropriate signal representation, 2) whether there are any advantages in extracting acoustic attributes over directly using the spectral information, and 3) whether it is advantageous to introduce an intermediate set of linguistic units, i.e. distinctive features. To restrict the scope of our study, we focused on 16 vowels in American English, and investigated classification performance using an artificial neural network with nearly 22,000 vowels tokens from 550 speakers excised from the TIMIT corpus. Our results indicate that 1) the combined outputs of Seneff's auditory model outperforms five other representations with both undegraded and noisy speech, 2) acoustic attributes give similar performance to raw spectral information, but at potentially considerable computational savings, and 3) the distinctive feature representation gives similar performance to direct vowel classification, but potentially offers a more flexible mechanism for describing context dependency.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P03-1027">
+<Title>Machine Learning Tools and Techniques with Java</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Many applications of natural language processing technologies involve analyzing texts that concern the psychological states and processes of people, including their beliefs, goals, predictions, explanations, and plans. In this paper, we describe our efforts to create a robust, large-scale lexical-semantic resource for the recognition and classification of expressions of commonsense psychology in English Text.</Paragraph>
+<Paragraph position="1"> We achieve high levels of precision and recall by hand-authoring sets of local grammars for commonsense psychology concepts, and show that this approach can achieve classification performance greater than that obtained by using machine learning techniques. We demonstrate the utility of this resource for large-scale corpus analysis by identifying references to adversarial and competitive goals in political speeches throughout U.S. history.</Paragraph>
+</Section>
+</Paper>
+

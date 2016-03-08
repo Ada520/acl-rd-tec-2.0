@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-0606">
+<Title>Learning Word Meaning and Grammatical Constructions from Narrated Video Events</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The objective of this research is to develop a system for miniature language learning based on a minimum of pre-wired language-specific functionality, that is compatible with observations of perceptual and language capabilities in human development. In the proposed system, meaning is extracted from video images based on detection of physical contact and its parameters. Mapping of sentence form to meaning is performed by learning grammatical constructions that are retrieved from a construction inventory based on the constellation of closed class items uniquely identifying the target sentence structure. The resulting system displays robust acquisition behavior that reproduces certain observations from developmental studies, with very modest &amp;quot;innate&amp;quot; language specificity.</Paragraph>
+</Section>
+</Paper>
+

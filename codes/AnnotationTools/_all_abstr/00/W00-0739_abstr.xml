@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-0739">
+<Title>Learning from a Substructural Perspective</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we study learning from a logical perspective. We show that there is a strong relationship between a learning strategy, its formal learning framework and its logical representational theory. This relationship enables one to translate learnability results from one theory to another. Moreover if we go from a classical logic theory to a substructural logic theory, we can transform learnability results of logical concepts to results for string languages. In this paper we will demonstrate such a translation by transforming the Valiant learnability result for boolean concepts to a learnability :result for a class of string pattern languages.</Paragraph>
+</Section>
+</Paper>
+

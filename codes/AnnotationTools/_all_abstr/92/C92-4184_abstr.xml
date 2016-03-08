@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C92-4184">
+<Title>JAUNT: A Constraint Solver for Disjunctive Feature Structures</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> To represent a conlblnatorial nulnber nf ambigu ous interpretatioas of a natural la'nguage sentence efficiently, a &amp;quot;packed&amp;quot; or &amp;quot;factorized&amp;quot; represeutath)n is necessary. We propose a representatitm that comprises a set of explicit value disjunctltms and constraints hnposed on them. New constraints are successively added for disambiguation, dnrhtg which local consistencies are maintained by an underlying mechanism. We have developed a constraint solver called JAUNT that em bodies this idea. The latest techniques, including con straint propagation and forwa,vl checking, are employed ms constraint satisfaction mechauisms. JAUNT also allows an external recta-inference program tn intervene in the constraint satisfaction process in order to control the application of the constraints.</Paragraph>
+</Section>
+</Paper>
+

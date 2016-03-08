@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E06-1020">
+<Title>Improved Lexical Alignment by Combining Multiple Reified Alignments</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe a word alignment platform which ensures text pre-processing (tokenization, POS-tagging, lemmatization, chunking, sentence alignment) as required by an accurate word alignment.</Paragraph>
+<Paragraph position="1"> The platform combines two different methods, producing distinct alignments.</Paragraph>
+<Paragraph position="2"> The basic word aligners are described in some details and are individually evaluated. The union of the individual alignments is subject to a filtering post-processing phase. Two different filtering methods are also presented. The evaluation shows that the combined word alignment contains 10.75% less errors than the best individual aligner.</Paragraph>
+</Section>
+</Paper>
+

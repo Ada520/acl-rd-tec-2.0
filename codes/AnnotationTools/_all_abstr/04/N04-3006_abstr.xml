@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N04-3006">
+<Title>Open Text Semantic Parsing Using FrameNet and WordNet</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a rule-based semantic parser that relies on a frame dataset (FrameNet), and a semantic network (WordNet), to identify semantic relations between words in open text, as well as shallow semantic features associated with concepts in the text. Parsing semantic structures allows semantic units and constituents to be accessed and processed in a more meaningful way than syntactic parsing, moving the automation of understanding natural language text to a higher level.</Paragraph>
+</Section>
+</Paper>
+

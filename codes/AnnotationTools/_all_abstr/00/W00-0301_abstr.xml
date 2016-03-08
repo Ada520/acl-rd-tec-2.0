@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-0301">
+<Title>3 A Collaborative Agent for Planning Meetings</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper reports on the development of two spoken language collaborative interface agents built with the Collagen system. It presents sample dialogues with the agents working with email applications and meeting planning applications, and discusses how these applications were created. It also discusses limitations and benefits of this approach.</Paragraph>
+</Section>
+</Paper>
+

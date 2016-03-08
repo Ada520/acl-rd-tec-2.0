@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H92-1008">
+<Title>Spontaneous Speech Collection for the ATIS Domain with an Aural User Feedback Paradigm</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> This paper describes the AT&amp;T ATIS data collection system, with emphasis on the development of the speech-in, speech-out interaction paradigm. The ATIS task involves providing air travel information to a user in the context of a interactive dialogue. Under the AT&amp;T interaction paradigm, information retrieved from a travel information database in tabular form is automatically transformed into sentences, which are spoken to a user by a speech synthesizer. To date, we have collected over 1800 sentences from subjects who used the system to solve travel planning scenarios. We present a comparison of the ATIS data collected at AT&amp;T with the ATIS data collected at other sites (BBN, CMU, MIT, and SRI), and discuss what we have learned in this prehminary effort.</Paragraph>
+</Section>
+</Paper>
+

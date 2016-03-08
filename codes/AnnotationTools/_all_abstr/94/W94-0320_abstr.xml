@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W94-0320">
+<Title>The Role of Cognitive Modeling in Achieving Communicative Intentions</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A discourse planner for (task-oriented) dialogue must be able to make choices about whether relevant, but optional information (for example, the &amp;quot;satellites&amp;quot; in an RST-based planner) Should be communicated. We claim that effective text planners must explicitly model aspects of the Hearer's cognitive state, such as what the hearer is attending to and what inferences the hearer can draw, in ord@r to make these choices. We argue that a mere representation of the Hearer's knowledge is inadequate. We support this claim by (1) an analysis of naturally occurring dialogue, and (2) by simulating the generation of discourses in a situation in which we can vary the cognitive parameters of the hearer. Our results show that modeling cognitive state can lead to more effective discourses (measured with respect to a simple task).</Paragraph>
+</Section>
+</Paper>
+

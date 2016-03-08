@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E99-1031">
+<Title>A Flexible Architecture for Reference Resolution</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes an architecture for performing anaphora resolution in a flexible way. Systems which conform to these guidelines are wellencapsulated and portable, and can be used to compare anaphora resolution techniques for new language understanding applications. Our implementation of the architecture in a pronoun resolution testing platform demonstrates the flexibility of the approach. null</Paragraph>
+</Section>
+</Paper>
+

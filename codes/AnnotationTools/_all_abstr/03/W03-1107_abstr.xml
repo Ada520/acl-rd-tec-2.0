@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-1107">
+<Title>Feature Selection in Categorizing Procedural Expressions</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Text categorization, as an essential component of applications for user navigation on the World Wide Web using Question-Answering in Japanese, requires more effective features for the categorization of documents and the efficient acquisition of knowledge. In the questions addressed by such navigation, we focus on those questions for procedures and intend to clarify specification of the answers.</Paragraph>
+</Section>
+</Paper>
+

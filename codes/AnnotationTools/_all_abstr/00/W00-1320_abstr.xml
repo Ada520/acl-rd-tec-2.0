@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-1320">
+<Title>A Statistical Model for Parsing and Word-Sense Disambiguation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a first attempt at a statistical model for simultaneous syntactic parsing and generalized word-sense disambignation. On a new data set we have constructed for the task, while we were disappointed not to find parsing improvement over a traditional parsing model, our model achieves a recall of 84.0% and a precision of 67.3% of exact synset matches on our test corpus, where the gold standard has a reported inter-annotator agreement of 78.6%.</Paragraph>
+</Section>
+</Paper>
+

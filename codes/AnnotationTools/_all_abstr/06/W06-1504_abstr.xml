@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-1504">
+<Title>The weak generative capacity of linear tree-adjoining grammars</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> Linear tree-adjoining grammars (TAGs), by analogy with linear context-free grammars, are tree-adjoining grammars in which at most one symbol in each elementary tree can be rewritten (adjoined or substituted at). Uemura et al. (1999), calling these grammars simple linear TAGs (SL-TAGs), show that they generate a class of languages incommensurate with the context-free languages, and can be recognized in O(n4) time.</Paragraph>
+<Paragraph position="1"> Working within the application domain of modeling of RNA secondary structures, they nd that SL-TAGs are too restrictive they can model RNA pseudoknots but because they cannot generate all the context-free languages, they cannot model even some very simple RNA secondary structures. Therefore they propose a more powerful version of linear TAGs, extended simple linear TAGs (ESL-TAGs), which generate a class of languages that include the context-free languages and can be recognized in O(n5) time.</Paragraph>
+<Paragraph position="2"> Satta and Schuler (1998), working within the application domain of natural language syntax, dene another restriction on TAG which is also recognizable in O(n5) time. Despite being less powerful than full TAG, it is still able to generate languages like the copy language {ww} and Dutch cross-serial dependencies (Joshi, 1985). Kato et al. (2004) conjecture that this restricted TAG is in fact equivalent to ESL-TAG.</Paragraph>
+<Paragraph position="3"> In this paper we prove their conjecture, and also prove that adding substitution to ESL-TAG does not increase its weak generative capacity, whereas adding substitution to SL-TAG makes it weakly equivalent to ESL-TAG. Thus these four for[?]This research was primarily carried out while the author was at the University of Pennsylvania.</Paragraph>
+<Paragraph position="4"> malisms converge to the same weak-equivalence class, the intuition being that the hardest operation in TAG, namely, adjunction of a wrapping auxiliary tree in the middle of the spine of another wrapping auxiliary tree, is subjected to the linearity constraint, but most other operations are unrestricted.1 Kato et al. (2004) show that these formalisms are more powerful than SL-TAG or general CFG or their union and conjecture, on the other hand, that they are less powerful than TAG.</Paragraph>
+<Paragraph position="5"> We prove this conjecture as well.</Paragraph>
+</Section>
+</Paper>
+

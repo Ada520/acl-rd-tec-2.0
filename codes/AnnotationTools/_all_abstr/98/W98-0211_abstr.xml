@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-0211">
+<Title>How to build a (quite general) linguistic</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We propose a design for an editor, Thistle, which allows the construction and manipulation of a wide variety of linguistic (and other) diagrams and a general method for attaching semantics to such diagrams.</Paragraph>
+<Paragraph position="1"> This design represents a generalization of all systems proposed in the computational linguistic literature of which we are aware. We discuss theoretical and practical problems which have hindered the development of such systems to date and then indicate how our approach deals with those problems. We offer an illustrative range of applications for this design.</Paragraph>
+<Paragraph position="2"> The current implementation permits instances of the editor for linguistic theories such as HPSG, varieties of CCG, DRT, and various kinds of tree diagram.</Paragraph>
+<Paragraph position="3"> The display engine may be used to deliver diagrams via the World Wide Web..An appendix gives an almost complete specification for a significant class of diagrams.</Paragraph>
+<Paragraph position="4"> All of the classes of diagram described or mentioned here are available as on-line demonstrations via: http ://www. itg. ed. ac. uk/software/ thistle/demos/index, html</Paragraph>
+</Section>
+</Paper>
+

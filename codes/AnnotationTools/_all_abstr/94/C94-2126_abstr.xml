@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C94-2126">
+<Title>A TREATMENT OF FUNCTIONAL DEFINITE DESCRIPTIONS</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. INTRODUCTION
+</SectionTitle>
+<Paragraph position="0"> Functional anaphoric expressions are referring expressions whose references are identified with respect to references of other objects in a discourse. Among a few types of functional anaphoric expressions such as Wh expressions and pronouns (Cooper 1979, Engdahl 1984, Kamp 1984, Chierchia 1993), definite descriptions provide a locution for  functional expressions. A typical example is as follows: (1) Every book about Picasso made the author rich.</Paragraph>
+<Paragraph position="1">  In (1), 'the author' does not have its usual sense of the antecedent, such as 'an author', anywhere in the discourse. Instead, the reference of 'the author' is detomined with respect to the reference of 'book'. In other words, the description, 'author', works as a function that takes a referent for 'book' as an argument and returns a value that is the referent for 'author'. Kamp (1984) calls this kind of expressions Functional Definite Descriptions (hence, we follow him here, mid call them FDD for short, and DD for definite descriptions). In this paper, I will call 'book' a functional antecedent of FDD 'author' and its resulting anaphoric link between 'book' and 'author' a functional anaphoric link.</Paragraph>
+<Paragraph position="2"> This paper describes a classification of Functional Definite Descriptions and proposes an analysis of FDD based on a claim that FDD behave more like pronominais than definite descriptions. This paper also reports an implemcnu~tion of the U'eatment described here in an English text understanding system, Interprctext, at ITI J.</Paragraph>
+</Section>
+</Paper>
+

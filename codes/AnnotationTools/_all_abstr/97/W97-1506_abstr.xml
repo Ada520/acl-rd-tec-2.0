@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-1506">
+<Title>The ConTroll System as Large Grammar Development Platform</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> ConTroll is a grammar development system which supports the implementation of current constraint-based theories. It uses strongly typed feature structures as its principal data structure and offers definite relations, universal constraints, and lexical rules to express grammar constraints. The aspects of ConTroll of relevance to the development of large grammars are discussed in detail. The system is fully implemented and has been used as workbench to develop and test a large HPSG grammar.</Paragraph>
+</Section>
+</Paper>
+

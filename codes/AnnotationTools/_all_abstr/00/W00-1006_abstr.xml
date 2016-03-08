@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-1006">
+<Title>From Elementary Discourse Units to Complex Ones</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Coherence relations have usually been taken to link clauses and larger units. After arguing that some phrases can be seen as discourse units, a computational account for such phrases is presented that integrates surface-based criteria with inferential ones. This approach can be generalized to treat intra-sentential cue-phrases. Since cue-phrases are not always present, referential relations between nominal expressions are additionally used to derive a text's discourse structure.</Paragraph>
+</Section>
+</Paper>
+

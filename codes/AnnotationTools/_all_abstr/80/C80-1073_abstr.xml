@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C80-1073">
+<Title>ATNS USED AS A PROCEDURAL DIALOG MODEL</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ATNS USED AS A PROCEDURAL DIALOG MODEL
+</SectionTitle>
+<Paragraph position="0"> D. Metzing, University of Bielefeld, Germany Summary An attempt has been made to use an Augmented Transition Network IO as a 'procedural dialog model'. The development of such a model appears to be important in several respects: - as a device to represent and to use different dialog schemata proposed in empirical conversation analysis; - as a device to represent and to use models of verbal interaction; - as a device combining knowledge about dialog schemata and about verbal interaction with knowledge about task-oriented and goal-directed dialogs. A standard ATN should be further developed in order to account for the verbal interactions of task-oriented dialogs.</Paragraph>
+</Section>
+</Paper>
+

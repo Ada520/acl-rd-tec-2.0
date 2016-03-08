@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P04-3021">
+<Title>Compiling Boostexter Rules into a Finite-state Transducer</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A number of NLP tasks have been effectively modeled as classi cation tasks using a variety of classication techniques. Most of these tasks have been pursued in isolation with the classi er assuming un-ambiguous input. In order for these techniques to be more broadly applicable, they need to be extended to apply on weighted packed representations of ambiguous input. One approach for achieving this is to represent the classi cation model as a weighted nite-state transducer (WFST). In this paper, we present a compilation procedure to convert the rules resulting from an AdaBoost classi er into an WFST.</Paragraph>
+<Paragraph position="1"> We validate the compilation technique by applying the resulting WFST on a call-routing application.</Paragraph>
+</Section>
+</Paper>
+

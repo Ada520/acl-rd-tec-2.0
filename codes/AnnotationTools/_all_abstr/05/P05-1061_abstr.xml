@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P05-1061">
+<Title>Simple Algorithms for Complex Relation Extraction with Applications to Biomedical IE</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A complex relation is any n-ary relation in which some of the arguments may be be unspecified. We present here a simple two-stage method for extracting complex relations between named entities in text.</Paragraph>
+<Paragraph position="1"> The first stage creates a graph from pairs of entities that are likely to be related, and the second stage scores maximal cliques in that graph as potential complex relation instances. We evaluate the new method against a standard baseline for extracting genomic variation relations from biomedical text.</Paragraph>
+</Section>
+</Paper>
+

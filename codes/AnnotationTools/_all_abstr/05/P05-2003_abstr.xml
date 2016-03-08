@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P05-2003">
+<Title>An Extensive Empirical Study of Collocation Extraction Methods</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a status quo of an ongoing research study of collocations an essential linguistic phenomenon having a wide spectrum of applications in the field of natural language processing.</Paragraph>
+<Paragraph position="1"> The core of the work is an empirical evaluation of a comprehensive list of automatic collocation extraction methods using precision-recall measures and a proposal of a new approach integrating multiple basic methods and statistical classification. We demonstrate that combining multiple independent techniques leads to a significant performance improvement in comparisonwith individualbasic methods.</Paragraph>
+</Section>
+</Paper>
+

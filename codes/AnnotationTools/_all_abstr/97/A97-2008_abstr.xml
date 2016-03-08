@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A97-2008">
+<Title>NetOwl TM Server</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> NetOwl TM Server is a powerful text analysis software product developed by IsoQuest, Inc. It supports business intelligence by providing fast and easy access to information stored on local Intranets and the global Internet. It organizes, analyzes, and summarizes data extracted by NameTag TM and any Full-Text search engine. It then presents the data for either searching or browsing. NameTag is a data extraction and indexing tool that finds proper names and other defined entities within an input text stream.</Paragraph>
+<Paragraph position="1"> NetOwl is the total application built on the NameTag core engine. NetOwl tags each desired document or Web page by person, organization, location, relationship and description giving you a browsable &amp;quot;back-of-the-book index.'&amp;quot; This allows for targeting exactly key information that is sought. With NetOwl it is no longer necessary to scroll through massive amounts of text to find exacdy what is useful.</Paragraph>
+</Section>
+</Paper>
+

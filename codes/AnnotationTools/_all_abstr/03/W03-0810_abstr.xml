@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-0810">
+<Title>veloping Reusable and Robust Language Processing Components for Information Systems using GATE.&amp;quot;</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> IBM Research has over 200 people working on Unstructured Information Management (UIM) technologies with a strong focus on HLT. Spread out over the globe they are engaged in activities ranging from natural language dialog to machine translation to bioinformatics to open-domain question answering. An analysis of these activities strongly suggested that improving the organization's ability to quickly discover each other's results and rapidly combine different technologies and approaches would accelerate scientific advance. Furthermore, the ability to reuse and combine results through a common architecture and a robust software framework would accelerate the transfer of research results in HLT into IBM's product platforms.</Paragraph>
+<Paragraph position="1"> Market analyses indicating a growing need to process unstructured information, specifically multi-lingual, natural language text, coupled with IBM Research's investment in HLT, led to the development of middleware architecture for processing unstructured information dubbed UIMA. At the heart of UIMA are powerful search capabilities and a data-driven framework for the development, composition and distributed deployment of analysis engines. In this paper we give a general introduction to UIMA focusing on the design points of its analysis engine architecture and we discuss how UIMA is helping to accelerate research and technology transfer.</Paragraph>
+</Section>
+</Paper>
+

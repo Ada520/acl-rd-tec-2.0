@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C92-1030">
+<Title>An Empirical Study on Rule Granularity and Unification Interleaving Toward an Efficient Unification-Based Parsing System</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+nagat a@atr-la.atr.co.jp
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes an empirical study on the optimal granularity of the phrase structure rules and the optimal strategy for interleaving CFG parsing with unification in order to implement an eltlcient unification-based parsing system. We claim that using &amp;quot;medium-grained&amp;quot; CFG phrase structure rules, which balance tile computational cost of CI?G parsing and unification, are a cost-effective solution for making unification-based grammar both efficicnt and easy to maintain. We also claim that &amp;quot;late unification&amp;quot;, which delays unification until a complete CI&amp;quot;G parse is found, saves unnecessary copies of DAGs for irrelevant subparses and improves performance significantly. The effectiveness of these methods was proved in an extensive experiment. The results show that, on average, the proposed system parses 3.5 times faster than our previous one. The grammar and the parser described in this paper are fully implemented and ased as the .lapmmse analysis module in SL-TRANS, the speech-to-speech translation system of ATR.</Paragraph>
+</Section>
+</Paper>
+

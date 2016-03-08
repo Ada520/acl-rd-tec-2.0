@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E93-1035">
+<Title>On Abstract Finite-State Morphology</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+UK
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Aspects of abstract finite-state morphology are introduced and demonstrated. The use of two-way finite automata for Arabic noun stem and verb root inflection leads to abstractions based on finite-state transition network topology as well as the form and content of network arcs. Nonconcatenative morphology is distinguished from concatenative morphology by its use of movement on the output tape rather than the input tape. The idea of specific automata for classes of inflection inheriting some or all of the nodes, arc form and arc content of the abstract automaton is also introduced.</Paragraph>
+<Paragraph position="1"> This can lead to novel linguistic generalities and applications, as well as advantages in terms of procedural efficiency and representation. null</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P04-1083">
+<Title>Statistical Machine Translation by Parsing</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In an ordinary syntactic parser, the input is a string, and the grammar ranges over strings. This paper explores generalizations of ordinary parsing algorithms that allow the input to consist of string tuples and/or the grammar to range over string tuples. Such algorithms can infer the synchronous structures hidden in parallel texts. It turns out that these generalized parsers can do most of the work required to train and apply a syntax-aware statistical machine translation system.</Paragraph>
+</Section>
+</Paper>
+

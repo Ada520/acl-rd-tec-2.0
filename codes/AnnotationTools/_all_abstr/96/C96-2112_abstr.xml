@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-2112">
+<Title>Computing Prosodic Morphology</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper establishes a framework under which various aspects of prosodic morphology, such as templatic morphology and infixation, can be handled under two-level theory using an implemented multi-tape two-level model. The paper provides a new computational analysis of root-and-pattern morphology based on prosody.</Paragraph>
+</Section>
+</Paper>
+

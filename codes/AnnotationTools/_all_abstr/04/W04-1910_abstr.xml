@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-1910">
+<Title>Bootstrapping Parallel Treebanks</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper argues for the development of parallel treebanks. It summarizes the work done in this area and reports on experiments for building a Swedish-German treebank. And it describes our approach for reusing resources from one language while annotating another language.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A92-1042">
+<Title>Acquiring and Exploiting the User's Knowledge in Guidance Interactions</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> This paper presents a model for Flexible Interactive Guidance System (FIGS) that provides people with instructions about natural tasks. The model is developed on the basis of a phenomenological analysis of human guidance and illustrated by a system that gives directions in geographical domains. The instructions are provided through a dialog adapted both in form and content to user's needs. The main problem addressed is how to provide a user-adapted guidance during the normal course of the guidance dialog, without introducing a special time consuming sub-dialog to gain information about the user's state of knowledge.</Paragraph>
+<Paragraph position="1"> A user-adapted guidance system must collect information about the user's knowledge of the guidance domain and build a User Model (UM). It is known that a UM can improve the behavior of dialog systems and contribute to the ease of their usage and the naturalness of their response ( (Rich, 1979)). However, a UM may also have negative effects on the system's behavior, since the process of its acquisition may increase both the time and the effort the user must invest in the interaction. The model suggested here addresses this problem by weighing the effort required to acquire the UM against the benefits of its usage.</Paragraph>
+</Section>
+</Paper>
+

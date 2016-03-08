@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-1078">
+<Title>Chart-Based Transfer Rule Application in Machine Translation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+35&amp;quot;ansfer-based Machine Translation systems re-
+</SectionTitle>
+<Paragraph position="0"> quire a procedure for choosing the set; of transfer rules for generating a target language translation from a given source language sentence. In an MT system with many comI)eting transfer rules, choosing t;he best, set of transfer rules for translation may involve the evaluation of an explosive number of competing wets. We propose a sohltion t;o this problem l)ased on current best-first chart parsing algorithms.</Paragraph>
+</Section>
+</Paper>
+

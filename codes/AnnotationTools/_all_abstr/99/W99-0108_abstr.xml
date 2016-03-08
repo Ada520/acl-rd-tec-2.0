@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W99-0108">
+<Title>Q @ @ @ O O O @ @ O @ O O @ @ 0 @ @ O @ O @ O O O @ @ @ O @ O O @ @ O O @ @ O @ O O O O Generating Anaphoric Expressions: Pronoun or Definite Description?</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In order to produce coherent text. natural language generation systems must have the ability to generate pronouns in the appropriate places.</Paragraph>
+<Paragraph position="1"> In the past, pronoun usage was primarily investigated with respect to the accessibility of referents. We.argue that generating appropriate referring expressions requires looking at factors beyond accessibility. Also important are sentence boundaries, distance from last mention, discourse structure and ambiguity. We present an algorithm for generating appropriate anaphoric expressions which takes the tent+ poral structure of texts and knowledge about ambiguous contexts into account. We back up our hypotheses with some empirical results indicating that our algorithm chooses the right referring expression in 85% of the cases.</Paragraph>
+</Section>
+</Paper>
+

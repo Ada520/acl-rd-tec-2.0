@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P01-1003">
+<Title>Improvement of a Whole Sentence Maximum Entropy Language Model Using Grammatical Featuresa0</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we propose adding long-term grammatical information in a Whole Sentence Maximun Entropy Language Model (WSME) in order to improve the performance of the model. The grammatical information was added to the WSME model as features and were obtained from a Stochastic Context-Free grammar. Finally, experiments using a part of the Penn Tree-bank corpus were carried out and significant improvements were acheived.</Paragraph>
+</Section>
+</Paper>
+

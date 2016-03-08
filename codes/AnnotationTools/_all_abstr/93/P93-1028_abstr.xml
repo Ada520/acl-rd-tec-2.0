@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P93-1028">
+<Title>A LOGICAL SEMANTICS FOR NONMONOTONIC SORTS</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+A LOGICAL SEMANTICS
+FOR NONMONOTONIC SORTS
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Suppose we have a feature system, and we wish to add default values in a well-defined way. We might start with Kasper-Rounds logic, and use Reiter's example to form it into a default logic.</Paragraph>
+<Paragraph position="1"> Giving a node a default value would be equivalent to saying &amp;quot;if it is consistent for this node to have that value, then it does.&amp;quot; Then we could use default theories to describe feature structures. The particular feature structure described would be the structure that supports the extension of the default theory. This is, in effect, what the theory of nonmonotonic sorts gives you. This paper describes how that theory derives from what is described above.</Paragraph>
+<Paragraph position="2">  marky, rounds(c)engin, umich, edu The original presentation of nonmonotonic sorts provided only a description of their operation and an informal description of their meaning. In this paper, we present a logical basis for NSs and non-monotonically sorted feature structures (NSFSs). NSFSs are shown to be equivalent to default theories of default logic (Reiter 1980). In particular, we show how nonmonotonic sort unification is equivalent to finding the smallest default theory that describes both NSFSs; and also how taking a solution for a NSFS is the same as finding an extension for that theory.</Paragraph>
+</Section>
+</Paper>
+

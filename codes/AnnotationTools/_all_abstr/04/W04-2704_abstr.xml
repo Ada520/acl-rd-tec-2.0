@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-2704">
+<Title>Proposition Bank II: Delving Deeper</Title>
+<Section position="2" start_page="1" end_page="1" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The PropBank project is creating a corpus of text annotated with information about basic semantic propositions. PropBank I (Kingsbury &amp; Palmer, 2002) added a layer of predicate-argument information, or semantic roles, to the syntactic structures of the English Penn Treebank. This paper presents an overview of the second phase of PropBank Annotation, PropBank II, which is being applied to English and Chinese, and includes (Neodavidsonian) eventuality variables, nominal references, sense tagging, and connections to the Penn Discourse Treebank (PDTB), a project for annotating discourse connectives and their arguments.</Paragraph>
+</Section>
+</Paper>
+

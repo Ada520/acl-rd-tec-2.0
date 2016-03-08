@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W94-0322">
+<Title>Generating Indirect Answers to Yes-No Questions</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> An indirect answer to! a Yes-No question conversationally implicates the speaker's evaluation of the truth of the questioned proposition. We present the approach to generation used in our implemented system for generating and interpret~ing indirect answers to Yes-No questions in English. Generation of a discourse plan is performed in two phases: content planning and plan pruning. During content planning, stimulus conditions are used to trigger speaker goals to include appropriate extra information wit h the direct answer. Plan pruning determines what parts of this full response do not need to be stated explicitly - resulting in, in appropriate discourse contexts, the generation of an indirect answer.</Paragraph>
+</Section>
+</Paper>
+

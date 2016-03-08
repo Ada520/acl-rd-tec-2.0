@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-1401">
+<Title>Disambiguating Noun Compounds with Latent Semantic Indexing</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Technical terms in text often appear as noun compounds, a frequently occurring yet highly ambiguous construction whose interpretation relies on extra-syntactic information. Several statistical methods for disambiguating compounds have been reported in the literature, often with quite impressive results. However, a striking feature of all these approaches is that they rely on the existence of previously seen un-ambiguous compounds, meaning they are prone to the problem of sparse data. This difficulty has been overcome somewhat through the use of hand-crafted knowledge resources to collect statistics on &amp;quot;concepts&amp;quot; rather than noun tokens, but domain-independence has been sacrificed by doing so. We report here on work investigating the application of Latent Semantic Indexing to provide a robust domain-independent source of the extra-syntactic knowledge necessary for noun compound disambiguation.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-1030">
+<Title>Terminology Finite-State Preprocessing for Computational LFG</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a technique to deal with multiword nominal terminology in a computational Lexical Functional Grammar. This method treats multiword terms as single tokens by modifying the preprocessing stage of the grammar (tokenization and morphological analysis), which consists of a cascade of two-level finite-state automata (transducers). We present here how we build the transducers to take terminology into account. We tested the method by parsing a small corpus with and without this treatment of multiword terms. The number of parses and parsing time decrease without affecting the relevance of the results. Moreover, the method improves the perspicuity of the analyses. null</Paragraph>
+</Section>
+</Paper>
+

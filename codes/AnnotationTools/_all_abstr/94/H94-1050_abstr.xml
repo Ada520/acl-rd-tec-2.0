@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H94-1050">
+<Title>Weighted Rational Transductions and their Application to Human Language Processing</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> We present the concepts of weighted language, ~ansduction and automaton from algebraic automata theory as a general framework for describing and implementing decoding cascades in speech and language processing. This generality allows us to represent uniformly such information sources as pronunciation dictionaries, language models artd lattices, and to use uniform algorithms for building decoding stages and for optimizing and combining them. In particular, a single automata join algorithm can be used either to combine information sources such as a pronunciation dictionary and a context-dependency model during the construction of a decoder, or dynamically during the operation of the decoder. Applications to speech recognition and to Chinese text segmentation will be discussed.</Paragraph>
+</Section>
+</Paper>
+

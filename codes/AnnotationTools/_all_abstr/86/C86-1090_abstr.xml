@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C86-1090">
+<Title>On the Use of Term Associations in Automatic Information Retrieval</Title>
+<Section position="1" start_page="0" end_page="380" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> It has been recognized that single words extracted from natural language texts are not always useful for the representation of information content. Associated or related terms, and complex content identifiers derived from thesauruses and knowledge bases, or constructed by automatic word grouping techniques, have therefore been proposed for text identification purposes.</Paragraph>
+<Paragraph position="1"> The area of associative content analysis and information retrieval is reviewed in this study. The available experimental evidence shows that none of the existing or proposed methodologies are guaranteed to improve retrieval performance in a replicable manner for document collections in different subject areas. The associative techniques are most valuable for restricted environments covering narrow subject areas, or in iterative search situations where user inputs are available to refine previously available query formulations and search output.</Paragraph>
+<Paragraph position="2"> I. Introduction Computers were first used for the processing of natural language texts over 30 years ago.</Paragraph>
+<Paragraph position="3"> From the beginning it has been recognized that the individual words contained in the texts of written documents could be used in part to provide a representation of document content. At the same time it was generally accepted that certain words, or word sets, would not produce meaningful content identifiers. In particular, some quite broad words, such as the term &amp;quot;computer&amp;quot; used to identify computer science literature, would be useless for distinguishing one document from another. Other very specific terms would be so rare that no single item in a collection might reasonably be described by such a very rare term.</Paragraph>
+<Paragraph position="4"> To improve the operations of text processing systems, it has been suggested that the original document vocabulary be expanded by adding related or associated terms not originally present in the available text samples. Two main types of vocabulary relationships can be recognized in this connection, known respectively as and ~ relations. \[I\] The paradigmetric relations cover term associations, such as synonyms and hierarchical inclusion, that always exist between particular terms regardless of the context in which these terms are used. For example, a paradigmatic relation exists between the name of a country (say, France) and the capital city (Paris). Syntag.matie relations, on the other hand, are relations which are not valid outside some specified context. For example, a cause-effect relation may be detected in certain circumstances between &amp;quot;poison&amp;quot; and &amp;quot;death H.</Paragraph>
+<Paragraph position="5"> Department of Computer Science, Cornell University, Ithaca, NY 14853.</Paragraph>
+<Paragraph position="6"> This study was supported in part by the National Science Foundation under grants IST 83-16166 and IST 85-44189,  The paradigmatic relations may be identified by using precoustructed dictionaries, or thesauruses, containing schedules or groupings of related terms or concepts. The syntagmatic relations, on the other hand, must be derived by analyzing particular text samples and extracting the term relationships specified in these texts.</Paragraph>
+<Paragraph position="7"> Various methods are outlined in the next section for utilizing paradigmatic and syntagmatic term associations in text processing systems, and the effectiveness of the methods is assessed using available experimental output.</Paragraph>
+</Section>
+</Paper>
+

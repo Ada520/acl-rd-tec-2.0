@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A00-2001">
+<Title>and Discourse Obligations Using Update Rules</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes an implementation of some key aspects of a theory of dialogue processing whose main concerns are to provide models of GROUNDING and of the role of DISCOURSE OBLIGATIONS in an agent's deliberation processes. Our system uses the TrindiKit dialogue move engine toolkit, which assumes a model of dialogue in which a participan.</Paragraph>
+<Paragraph position="1"> t's knowledge is characterised in terms of INFORMATION STATES which are subject to various kinds of updating mechanisms.</Paragraph>
+</Section>
+</Paper>
+

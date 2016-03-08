@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-1511">
+<Title>Exploiting Contextual Information in Hypothesis Selection for Grammar Refinement</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we propose a new framework of grammar development and some techniques for exploiting contextual information in a process of grammar refinement. The proposed framework involves two processes, partial grammar acquisition and grammar refinement. In the former process, a rough grammar is constructed from a bracketed corpus. The grammar is later refined by the latter process where a combination of rule-based and corpus-based approaches is applied. Since there may be more than one rules introduced as alternative hypotheses to recover the analysis of sentences which cannot be parsed by the current grammar, we propose a method to give priority to these hypotheses based on local contextual information. By experiments, our hypothesis selection is evaluated and its effectiveness is shown.</Paragraph>
+</Section>
+</Paper>
+

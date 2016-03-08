@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-2102">
+<Title>Towards a Syntactic Account of Punctuation</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Little notice has been taken of punctuation in the field of natural language processing, chiefly due to the lack of any coherent theory on which to base implementations. Some work has been carried out concerning punctuation and parsing, but much of it seems to have been rather ad-hoc and performance-motivated. This paper describes the first step towards the construction of a theoretically-motivated account of punctuation. Parsed corpora are processed to extract punctuation patterns, which are then checked and generalised to a small set of General Punctuation Rules. Their usage is discussed, and suggestions are made for possible methods of including punctuation information in grammars.</Paragraph>
+</Section>
+</Paper>
+

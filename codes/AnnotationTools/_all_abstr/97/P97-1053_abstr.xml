@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P97-1053">
+<Title>A Uniform Approach to Underspecification and Parallelism</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We propose a unified framework in which to treat semantic underspecification and parallelism phenomena in discourse. The framework employs a constraint language that can express equality and subtree relations between finite trees. In addition, our constraint language can express the equality up-to relation over trees which captures parallelism between them. The constraints are solved by context unification.</Paragraph>
+<Paragraph position="1"> We demonstrate the use of our framework at the examples of quantifier scope, ellipsis, and their interaction. 1</Paragraph>
+</Section>
+</Paper>
+

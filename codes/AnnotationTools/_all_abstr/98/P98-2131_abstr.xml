@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-2131">
+<Title>An Architecture for Dialogue Management, Context Tracking, and Pragmatic Adaptation in Spoken Dialogue Systems</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper details a software architecture for discourse processing in spoken dialogue systems, where the three component tasks of discourse processing are (1) Dialogue Management, (2) Context Tracking, and (3) Pragmatic Adaptation. We define these three component tasks and describe their roles in a complex, near-future scenario in which multiple humans interact with each other and with computers in multiple, simultaneous dialogue exchanges. This paper reports on the software modules that accomplish the three component tasks of discourse processing, and an architecture for the interaction among these modules and with other modules of the spoken dialogue system. A motivation of this work is reusable discourse processing software for integration with non-discourse modules in spoken dialogue systems. We document the use of this architecture and its components in several prototypes, and also discuss its potential application to spoken dialogue systems defined in the near-future scenario.</Paragraph>
+<Paragraph position="1"> Introduction We present an architecture for spoken dialogue systems for both human-computer interaction and computer mediation or analysis of human dialogue. The architecture shares many components with those of existing spoken dialogue systems, such as CommandTalk (Moore et al.</Paragraph>
+<Paragraph position="2"> 1997), Galaxy (Goddeau et al. 1994), TRAINS (Allen et al. 1995), Verbmobil (Wahlster 1993), Waxholm (Carlson 1996), and others. Our architecture is distinguished from these in its treatment of discourse-level processing.</Paragraph>
+<Paragraph position="3"> Most architectures, including ours, contain modules for speech recognition and natural language interpretation (such as morphology, syntax, and sentential semantics). Many include a module for interfacing with the back-end application. If the dialogue is two-way, the architectures also include modules for natural language generation and speech synthesis.</Paragraph>
+<Paragraph position="4"> Architectures differ in how they handle discourse. Some have a single, separate module labeled &amp;quot;discourse processor&amp;quot;, &amp;quot;dialogue component&amp;quot;, or perhaps &amp;quot;contextual interpretation&amp;quot;. Others, including earlier versions of our system, bury discourse functions inside other modules, such as natural language interpretation or the back-end interface.</Paragraph>
+<Paragraph position="5"> An innovation of this work is the compartmentalization of discourse processing into three generically definable components--Dialogue Management, Context Tracking, and Pragmatic Adaptation (described in Section 1 below)--and the software control structure for interaction between these and other components of a spoken dialogue system (Section 2).</Paragraph>
+<Paragraph position="6"> In Section 3, we examine the dialogue processing requirement in a complex scenario involving multiple users and multiple simultaneous dialogues of diverse types. We describe how our architecture supports implementations of such a scenario. Finally, we describe two implemented spoken dialogue systems that embody this architecture (Section 4).</Paragraph>
+</Section>
+</Paper>
+

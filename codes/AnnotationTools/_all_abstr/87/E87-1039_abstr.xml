@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E87-1039">
+<Title>Acquisition of Conceptual Data Models from Natural Language Descriptions</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Acquiring information systems specifications from natural language description is presented as a problem class that requires a different treatment of semantics when compared with other applied NL systems such as database and operating system interfaces. Within this problem class, the specific task of obtaining explicit conceptual data models from natural language text or dialogue is being investigated. The knowledge brought to bear on this task is classified into syntactic, semantic and systems analysis knowledge. Investigations with a simple syntactic parse and with a semantic analysis using McCorcl's Slot Grammar are reported, and the structure of the systems analysis knowledge is considered.</Paragraph>
+</Section>
+</Paper>
+

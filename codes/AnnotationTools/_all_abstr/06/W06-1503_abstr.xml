@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-1503">
+<Title>CAT V I +</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present an initial investigation into the use of a metagrammar for explicitly sharing abstract grammatical specifications among languages. We define a single class hierarchy for a metagrammar which allows us to automatically generate grammars for different languages from a single compact metagrammar hierarchy.</Paragraph>
+<Paragraph position="1"> We use as our linguistic example the verb-second phenomenon, which shows considerable variation while retaining a basic property, namely the fact that the verb can appear in one of two positions in the clause.</Paragraph>
+</Section>
+</Paper>
+

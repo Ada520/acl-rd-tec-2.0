@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-1308">
+<Title>Enriching the Knowledge Sources Used in a Maximum Entropy Part-of-Speech Tagger</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents results for a maximumentropy-based part of speech tagger, which achieves superior performance principally by enriching the information sources used for tagging. In particular, we get improved results by incorporating these features: (i) more extensive treatment of capitalization for unknown words; (ii) features for the disambiguation of the tense forms of verbs; (iii) features for disambiguating particles from prepositions and adverbs. The best resulting accuracy for the tagger on the Penn Treebank is 96.86% overall, and 86.91% on previously unseen words.</Paragraph>
+<Paragraph position="1"> Introduction I There are now numerous systems for automatic assignment of parts of speech (&amp;quot;tagging&amp;quot;), employing many different machine learning methods. Among recent top performing methods are Hidden Markov Models (Brants 2000), maximum entropy approaches (Ratnaparkhi 1996), and transformation-based learning (Brill 1994). An overview of these and other approaches can be found in Manning and Schiitze (1999, ch. 10). However, all these methods use largely the same information sources for tagging, and often almost the same features as well, and as a consequence they also offer very similar levels of performance. This stands in contrast to the (manually-built) EngCG tagger, which achieves better performance by using lexical and contextual information sources and generalizations beyond those available to such statistical taggers, as Samuelsson and Voutilainen (1997) demonstrate.</Paragraph>
+<Paragraph position="2"> i We thank Dan Klein and Michael Saunders for useful discussions, and the anonymous reviewers for many helpful comments.</Paragraph>
+<Paragraph position="3"> This paper explores the notion that automatically built tagger performance can be further improved by expanding the knowledge sources available to the tagger. We pay special attention to unknown words, because the markedly lower accuracy on unknown word tagging means that this is an area where significant performance gains seem possible.</Paragraph>
+<Paragraph position="4"> We adopt a maximum entropy approach because it allows the inclusion of diverse sources of information without causing fragmentation and without necessarily assuming independence between the predictors. A maximum entropy approach has been applied to part-of-speech tagging before (Ratnaparkhi 1996), but the approach's ability to incorporate non-local and non-HMM-tagger-type evidence has not been fully explored. This paper describes the models that we developed and the experiments we performed to evaluate them.</Paragraph>
+</Section>
+</Paper>
+

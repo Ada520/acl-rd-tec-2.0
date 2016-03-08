@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A94-1004">
+<Title>Modeling Content Identification from Document Images</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A new technique to locate content-representing words for a given document image using abstract representation of character shapes is described. A character shape code representation defined by the location of a character in a text line has been developed. Character shape code generation avoids the computational expense of conventional optical character recognition (OCR). Because character shape codes are an abstraction of standard character code (e.g., ASCII), the mapping is ambiguous.</Paragraph>
+<Paragraph position="1"> In this paper, the ambiguity is shown to be practically limited to an acceptable level. It is illustrated that: first, punctuation marks are clearly distinguished from the other characters; second, stop words are generally distinguishable from other words, because the permutations of character shape codes in function words are characteristically different from those in content words; and third, numerals and acronyms in capital letters are distinguishable from other words. With these clAssifications, potential content-representing words are identified, and an analysis of their distribution yields their rank. Consequently, introducing character shape codes makes it possible to inexpensively and robustly bridge the gap between electronic documents and hard-copy documents for the purpose of content identification. null</Paragraph>
+</Section>
+</Paper>
+

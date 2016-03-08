@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A00-2022">
+<Title>O~ Proand Retroactive Packing I \] o passive edges \</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe a novel approach to 'packing' of local ambiguity in parsing with a wide-coverage HPSG grammar, and provide an empirical assessment of the interaction between various packing and parsing strategies. We present a linear-time, bidirectional subsumption test for typed feature structures and demonstrate that (a) subsumption- and equivalence-based packing is applicable to large HPSG grammars and (b) average parse complexity can be greatly reduced in bottom-up chart parsing with comprehensive HPSG implementations.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-1101">
+<Title>Adapting a synonym database to specific domains</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a method for adapting a general purpose synonym database, like WordNet, to a specific domain, where only a sub-set of the synonymy relations defined in the general database hold.</Paragraph>
+<Paragraph position="1"> The method adopts an eliminative approach, based on incrementally pruning the original database. The method is based on a preliminary manual pruning phase and an algorithm for automatically pruning the database. This method has been implemented and used for an Information Retrieval system in the aviation domain.</Paragraph>
+</Section>
+</Paper>
+

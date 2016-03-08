@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-0705">
+<Title>Using Scenario Knowledge in Automatic Question Answering</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a novel framework for using scenario knowledge in open-domain Question Answering (Q/A) applications that uses a state-of-the-art textual entailment system (Hickl et al., 2006b) in order to discover textual information relevant to the set of topics associated with a scenario description. An intrinsic and an extrinsic evaluation of this method is presented in the context of an automatic Q/A system and results from several user scenarios are discussed.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H91-1045">
+<Title>Calculating the Probability of a Partial Parse of a Sentence</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> A standard problem in parsing algorithms is Lhe organizaLion o~ branched searches to deal with an~iguous sentences. We discuss shift-reduce parsing oPS stochastic context-Gee granlnmrs and show how Lo construct a probabilistic score for tanking compeLing parse hypotheses.</Paragraph>
+<Paragraph position="1"> The score we use is the likelihood Lhag the collection of subtrees can be completed into a l~ull parse tree by means of the steps the parser is constrained to \[oUow.</Paragraph>
+</Section>
+</Paper>
+

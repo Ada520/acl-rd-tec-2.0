@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-0203">
+<Title>Coreference as the Foundations for Link Analysis over Free Text Databases</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Coreference annotated data has the potential to substantially increase the domain over which link analysis can be applied. We have developed coreference technologies which relate individuals and events within and across text documents. This in turn leverages the first step in mapping the information in those texts into a more data-base like format suitable for visualization with link driven software.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W96-0210">
+<Title>The Measure of a Model *</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes measures for evaluating the three determinants of how well a probabilistic elassifter performs on a given test set. These determinants are the appropriateness, for the test set, of the results of (1)feature selection, (2) formulation of the parametric form of the model, and (3) parameter estimation. These are part of any model formulation procedure, even if not broken out as separate steps, so the tradeoffs explored in this paper are relevant to a wide variety of methods.</Paragraph>
+<Paragraph position="1"> The measures are demonstrated in a large experiment, in which they are used to analyze the results of roughly 300 classifiers that perform word-sense disambiguation.</Paragraph>
+<Paragraph position="2"> Introduction This paper presents techniques that can be used to analyze the formulation of a probabilistic classifter. As part of this presentation, we apply these techniques to the results of a large number of classifiers, developed using the methodology presented in (2), (3), (4), (5), (12) and (16), which tag words according to their meanings (i.e., that perform word-sense disambiguation).</Paragraph>
+<Paragraph position="3"> Other NLP tasks that have been performed using probabilistic classifiers include part-of-speech tagging (11), assignment of semantic classes (8), cue phrase identification (9), prepositional phrase attachment (15), other grammatical disambiguation tasks (6), anaphora resolution (7) and even translation equivalence (1). In fact, it could be argued that any problem with a known set of possible solutions can be cast as a classification problem.</Paragraph>
+<Paragraph position="4"> A probabilistic classifier assigns, out of a set of possible classes, the one that is most probable according to a probabilistic model. The model expresses the relationships among the classification variable (the variable representing the classification tag) and var\]ables that correspond to prop*This research Was supported by the Office of Naval Research under grant number N00014-95-1-0776.</Paragraph>
+<Paragraph position="5"> erties of the ambiguous object and the context in which it occurs (the non-classification variables).</Paragraph>
+<Paragraph position="6"> Each model uniquely defines a classifier.</Paragraph>
+<Paragraph position="7"> The basic premise of a probabilistic approach to classification is that the process of assigning object classes is non-deterministic, i.e., there is no infallible indicator of the correct classification. The purpose of a probabilistic model is to characterize the uncertainty in the classification process. The probabilistie model defines, for each class and each ambiguous object, the probability that the object belongs to that class, given the values of the non-classification variables.</Paragraph>
+<Paragraph position="8"> The main steps in developing a probabilistic classifier and performing classification on the basis of a probability model are the following. 1</Paragraph>
+</Section>
+</Paper>
+

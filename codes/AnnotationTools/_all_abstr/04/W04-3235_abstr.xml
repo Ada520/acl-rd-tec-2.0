@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-3235">
+<Title>Error Measures and Bayes Decision Rules Revisited with Applications to POS Tagging</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Starting from first principles, we re-visit the statistical approach and study two forms of the Bayes decision rule: the common rule for minimizing the number of string errors and a novel rule for minimizing the number of symbols errors. The Bayes decision rule for minimizing the number of string errors is widely used, e.g.</Paragraph>
+<Paragraph position="1"> in speech recognition, POS tagging and machine translation, but its justification is rarely questioned. To minimize the number of symbol errors as is more suitable for a task like POS tagging, we show that another form of the Bayes decision rule can be derived. The major purpose of this paper is to show that the form of the Bayes decision rule should not be taken for granted (as it is done in virtually all statistical NLP work), but should be adapted to the error measure being used. We present first experimental results for POS tagging tasks.</Paragraph>
+</Section>
+</Paper>
+

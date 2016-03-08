@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H91-1021">
+<Title>Augmented Role Filling Capabilities for Semantic Interpretation of Spoken Language</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> This paper describes recent work on the Unisys ATIS Spoken Language System, and reports benchmark results on natural language, spoken language, and speech recognition. We describe enhancements to the system's semantic processing for handling non.transparent argument structure and enhancements to the system's pragmatic processing of material in art. swers displayed to the user. We found that the system's score on the natural language benchmark test decreased from ~8~o to 36~ without these enhancements. We also report results for three spoken language systems, Unisys natural language coupled with MIT-Summit speech recognition, Unisys natural language coupled wish MIT-Lincoln Labs speech recognition and Unisys natural language coupled with BBN speech recognition.</Paragraph>
+<Paragraph position="1"> Speech recognition results are reported on the results of the Unisys natural language selecting a candidate from the MIT-Summit N-best (N=16).</Paragraph>
+</Section>
+</Paper>
+

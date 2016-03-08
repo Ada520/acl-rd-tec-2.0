@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-1217">
+<Title>Exploiting Context for Biomedical Entity Recognition: From Syntax to the Web</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe a machine learning system for the recognition of names in biomedical texts. The system makes extensive use of local and syntactic features within the text, as well as external resources including the web and gazetteers. It achieves an F-score of 70% on the Coling 2004 NLPBA/BioNLP shared task of identifying five biomedical named entities in the GENIA corpus.</Paragraph>
+</Section>
+</Paper>
+

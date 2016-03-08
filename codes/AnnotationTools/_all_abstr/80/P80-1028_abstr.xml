@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P80-1028">
+<Title>On Parsing Strategies and Closure'</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+MIT
+</SectionTitle>
+<Paragraph position="0"> Cambridge. MA 02139 This paper proposes a welcome hypothesis: a computationally simple device z is sufficient for processing natural language. Traditionally it has been argued that processing natural language syntax requires very powerful machinery. Many engineers have come to this rather grim conclusion; almost all working parers are actually Turing Machines (TM), For example, Woods believed that a parser should have TM complexity and specifically designed his Augmented Transition Networks (ATNs) to be Turing Equivalent.</Paragraph>
+<Paragraph position="1"> (1) &amp;quot;It is well known (cf. \[Chomsky64\]) that the strict context-free grammar model is not an adequate mechanism for characterizing the subtleties of natural languages.&amp;quot; \[WoodsTO\] If the problem is really as hard as it appears, then the only solution is to grin and bear it. Our own position is that parsing acceptable sentences is simpler because there are constraints on human performance that drastically reduce the computational complexity. Although Woods correctly observes that competence models are very complex, this observation may not apply directly to a performance problem such as parsing) The claim is that performance limitations actually reduce parsing complexity. This suggests two interesting questions: (a) How is the performance model constrained so as to reduce its complexit?, and (b) How can the constrained performance model naturally approximate competence idealizations?</Paragraph>
+</Section>
+</Paper>
+

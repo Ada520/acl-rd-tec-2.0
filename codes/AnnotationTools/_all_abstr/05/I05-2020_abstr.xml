@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="I05-2020">
+<Title>Effect of Domain-Specific Corpus in Compositional Translation Estimation for Technical Terms</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper studies issues on compiling a bilingual lexicon for technical terms.</Paragraph>
+<Paragraph position="1"> In the task of estimating bilingual term correspondences of technical terms, it is usually quite difficult to find an existing corpus for the domain of such technical terms. In this paper, we take an approach of collecting a corpus for the domain of such technical terms from the Web. As a method of translation estimation for technical terms, we propose a compositional translation estimation technique. Through experimental evaluation, we show that the domain/topic specific corpus contributes to improving the performance of the compositional translation estimation.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P85-1032">
+<Title>Structure-Sharing in Lexical Representation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The lexicon now plays a central role in our implementation of a Head-driven Phrase Structure Grammar (HPSG), given the massive relocation into the lexicon of linguistic information that was carried by the phrase structure rules in the old GPSG system. HPSG's grammax contains fewer tha4z twenty (very general) rules; its predecessor required over 350 to achieve roughly the same coverage. This simplification of the grammax is made possible by an enrichment of the structure and content of lexical entries, using both inhcrit~nce mechanisms and lexical rules to represent thc linguistic information in a general and efficient form. We will argue that our mechanisms for structure-sharing not only provide the ability to express important linguistic generalizations about the lexicon, but also make possible an efficient, readily modifiable implementation that we find quite adequate for continuing development of a large natural language system.</Paragraph>
+</Section>
+</Paper>
+

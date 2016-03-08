@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P95-1046">
+<Title>Knowledge-based Automatic Topic Identification</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> As the first step in an automated text summarization algorithm, this work presents a new method for automatically identifying the central ideas in a text based on a knowledge-based concept counting paradigm. To represent and generalize concepts, we use the hierarchical concept taxonomy WordNet. By setting appropriate cutoff values for such parameters as concept generality and child-to-parent frequency ratio, we control the amount and level of generality of concepts extracted from the text. 1</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-3216">
+<Title>A Phrase-Based HMM Approach to Document/Abstract Alignment</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe a model for creating word-to-word and phrase-to-phrase alignments between documents and their human written abstracts. Such alignments are critical for the development of statistical summarization systems that can be trained on large corpora of document/abstract pairs. Our model, which is based on a novel Phrase-Based HMM, outperforms both the Cut &amp; Paste alignment model (Jing, 2002) and models developed in the context of machine translation (Brown et al., 1993).</Paragraph>
+</Section>
+</Paper>
+

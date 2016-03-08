@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N04-3011">
+<Title>Use and Acquisition of Semantic Language Model</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Semantic language model is a technique that utilizes the semantic structure of an utterance to better rank the likelihood of words composing the sentence. When used in a conversational system, one can dynamically integrate the dialog state and domain semantics into the semantic language model to better guide the speech recognizer executing the decoding process. We describe one such application that employs semantic language model to cope with spontaneous speech in a robust manner.</Paragraph>
+<Paragraph position="1"> The semantic language model, though can be manually crafted without data, can benefit significantly from data driven machine learning techniques. An example based approach is also described here to demonstrate a viable approach.</Paragraph>
+</Section>
+</Paper>
+

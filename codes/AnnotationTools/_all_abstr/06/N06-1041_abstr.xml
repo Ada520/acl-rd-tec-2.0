@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N06-1041">
+<Title></Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We investigate prototype-driven learning for primarily unsupervised sequence modeling. Prior knowledge is specified declaratively, by providing a few canonical examples of each target annotation label. This sparse prototype information is then propagated across a corpus using distributional similarity features in a log-linear generative model. On part-of-speech induction in EnglishandChinese,aswellasaninformationextrac- null tion task, prototypefeaturesprovide substantialerror rate reductions over competitive baselines and outperform previous work. For example, we can achieveanEnglishpart-of-speechtaggingaccuracy of 80.5% using only three examples of each tag and no dictionaryconstraints. We also compareto semi-supervisedlearning and discuss the system's errortrends.</Paragraph>
+</Section>
+</Paper>
+

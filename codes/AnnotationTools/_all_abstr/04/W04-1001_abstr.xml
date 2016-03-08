@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-1001">
+<Title>INVITED LECTURE Narrative Summarization</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The understanding and summarization of stories remains a challenge, in part because of the inability to adequately capture the 'aboutness' of information content. This can result in inappropriate content selection as well as summary incoherence. This talk sketches a general framework for narrative summarization that relies in part on explo itation of temporal information. I will show how this framework can help address the above problems. I go on to discuss how different levels of narrative structure can provide useful information for summarization.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C02-1016">
+<Title>Determining Recurrent Sound Correspondences by Inducing Translation Models</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> I present a novel approach to the determination of recurrent sound correspondences in bilingual wordlists. The idea is to relate correspondences between sounds in wordlists to translational equivalences between words in bitexts (bilingual corpora). My method induces models of sound correspondence that are similar to models developed for statistical machine translation. The experiments show that the method is able to determine recurrent sound correspondences in bilingual wordlists in which less than 30% of the pairs are cognates. By employing the discovered correspondences, the method can identify cognates with higher accuracy than the previously reported algorithms.</Paragraph>
+</Section>
+</Paper>
+

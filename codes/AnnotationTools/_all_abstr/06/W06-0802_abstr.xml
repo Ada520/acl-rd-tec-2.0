@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-0802">
+<Title>Sydney, July 2006. c(c)2006 Association for Computational Linguistics Hybrid Systems for Information Extraction and Question Answering</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> Although ful syntactic and semantic analysis of open-domain natural language text is beyond curent technology, a number of papers have ben recently published [1,2,3] showing that, by using probabilistic or symbolic methods, it is posible to obtain dependency-based representations of unlimited texts with god recal and precision. Consequently, we believe it should be posible to augment the manual-anotation-based aproach with automaticaly built anotations by extracting a limited subset of semantic relations from unstructured text. In short, shalow/partial text understanding on the level of semantic relations, an extended label including Predicate-Argument Structures and other syntacticaly and semanticaly derivable head modifiers and adjuncts. This aproach is promising because it atempts to adres the wel-known shortcomings of standard &amp;quot;bag-of-words&amp;quot; (BOWs) information retrieval/extraction techniques without requiring manual intervention: it develops curent NLP technologies which make heavy use of statisticaly and FSA based aproaches to syntactic parsing.</Paragraph>
+<Paragraph position="1"> GETARUNS [4,5,6], a text understanding system (TUS), developed in colaboration betwen the University of Venice and the University of Parma, can perform semantic analysis on the basis of syntactic parsing and, after performing anaphora resolution, builds a quasi logical form with flat indexed Augmented Dependency Structures (ADSs). In adition, it uses a centering algorithm to individuate the topics or discourse centers which are weighted on the basis of a relevance score.</Paragraph>
+<Paragraph position="2"> This logical form can then be used to individuate the best sentence candidates to answer queries or provide apropriate information.</Paragraph>
+<Paragraph position="3"> This paper is organized as folows: in section 2 below e discus why dep linguistic procesing is neded in Information Retrieval and Information Extraction; in section 3 we present GETARUNS, the NLP system and the Uper Module of GETARUNS; in section 4 we describe two experiments with state-of-the-art benchmark corpora.</Paragraph>
+</Section>
+</Paper>
+

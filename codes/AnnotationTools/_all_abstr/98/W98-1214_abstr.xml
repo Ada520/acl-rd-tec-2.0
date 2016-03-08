@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-1214">
+<Title>CHOOSING A DISTANCE METRIC FOR AUTOMATIC WORD CATEGORIZATION</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper analyzes the functionality of different distance metrics that can be used in a bottom-up unsupervised algorithm for automatic word categorization. The proposed method uses a modified greedy-type algorithm.</Paragraph>
+<Paragraph position="1"> The formulations of fuzzy theory are also used to calculate the degree of membership for the elements in the linguistic clusters formed. The unigram and the bigram statistics of a corpus of about two million words are used. Empirical comparisons are made in order to support the discussions proposed for the type of distance metric that would be most suitable for measuring the similarity between linguistic elements. null</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-1109">
+<Title>Know When to Hold 'Em: Shuffling Deterministically in a Parser for Nonconcatenative Grammars*</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Nonconcatenative constraints, such as the shuffle relation, are frequently employed in grammatical analyses of languages that have more flexible ordering of constituents than English. We show how it is possible to avoid searching the large space of permutations that results from a nondeterministic application of shuffle constraints. The results of our implementation demonstrate that deterministic application of shuffle constraints yields a dramatic improvement in the overall performance of a head-corner parser for German using an HPSG-style grammar.</Paragraph>
+</Section>
+</Paper>
+

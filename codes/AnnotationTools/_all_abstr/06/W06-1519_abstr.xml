@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-1519">
+<Title>Extracting Syntactic Features from a Korean Treebank</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we present a system which can extract syntactic feature structures from a Korean Treebank (Sejong Treebank) to develop a Feature-based Lexicalized Tree Adjoining Grammars.</Paragraph>
+</Section>
+</Paper>
+

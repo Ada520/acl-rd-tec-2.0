@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-0701">
+<Title>Learning in Natural Language: Theory and Algorithmic Approaches*</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This article summarizes work on developing a learning theory account for the major learning and statistics based approaches used in natural language processing. It shows that these approaches can all be explained using a single distribution free inductive principle related to the pac model of learning. Furthermore, they all make predictions using the same simple knowledge representation - a linear representation over a common feature space. This is significant both to explaining the generalization and robustness properties of these methods and to understanding how these methods might be extended to learn from more structured, knowledge intensive examples, as part of a learning centered approach to higher level natural language inferences.</Paragraph>
+</Section>
+</Paper>
+

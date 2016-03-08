@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W05-0307">
+<Title>A Framework for Annotating Information Structure in Discourse</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a framework for the integrated analysis of the textual and prosodic characteristics of information structure in the Switchboard corpus of conversational English. Information structure describes the availability, organisation and salience of entities in a discourse model. We present standards for the annotation of information status (old, mediated and new), and give guidelines for annotating information structure, i.e. theme/rheme and background/kontrast. We show that information structure in English can only be analysed concurrently with prosodic prominence and phrasing. This annotation, using stand-off XML in NXT, can help establish standards for the annotation of information structure in discourse.</Paragraph>
+</Section>
+</Paper>
+

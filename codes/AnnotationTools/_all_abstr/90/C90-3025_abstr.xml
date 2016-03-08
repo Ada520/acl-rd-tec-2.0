@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-3025">
+<Title>Is there content in empty heads?*</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> We describe a technique for automatically constructing a taxonomy of word senses from a machine readable dictionary. Previous taxonomies developed from dictionaries have two properties in common. First, they are based on a somewhat loosely defined notion of the IS-A relation. Second, they require human intervention to identify the sense of the genus term being used. We believe that for taxonomies of this type to serve a useful role in subsequent natural language proce,sing tasks, the taxonomy must be based on a consistent use of the IS-A relation which allows inheritance and transitivity. We show that hierarchies of this type can be automatical!y constructed, by using the semantic category codes and the subject codes of the Longman Dictionary of Contemporary English (LDOCE) to disambiguate the genus terms in noun definitkms. In addition, we discuss how certain genus terms give rise to other semantic relations between definitions.</Paragraph>
+</Section>
+</Paper>
+

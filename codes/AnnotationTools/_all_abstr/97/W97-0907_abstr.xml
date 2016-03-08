@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0907">
+<Title>A Language Identification Application Built on the Java Client/Server Platform</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe an experimental system implemented using the Java(TM) programming language which demonstrates a variety of application-level tradeoffs available to distributed natural language processing (NLP) applications. In the context of the World Wide Web (WWW), it is possible to provide value added functionality to legacy documents in a client side browser, a document server or an intermediary agent. Using a well-known ngram-based algorithm for automatic language identification, we have constructed a system to dynamically add language labels for whole documents and text fragments. We have experimented with several client/server configurations, and present the results of tradeoffs made between labelling accuracy and the size/completeness of the language models.</Paragraph>
+</Section>
+</Paper>
+

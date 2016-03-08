@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P86-1036">
+<Title>A Terminological Simplification Transformation for Natural Language Question-Answering Systems</Title>
+<Section position="1" start_page="2238" end_page="2238" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A new method is presented for simplifying the logical expressions used to represent utterance meaning in a natural language system. 1 This simplification method utilizes the encoded knowledge and the limited inference-making capability of a taxonomic knowledge representation system to reduce the constituent structure of logical expressions. The specific application is to the problem of mapping expressions of the meaning representation language to a database language capable of retrieving actual responses.</Paragraph>
+<Paragraph position="1"> Particular account is taken of the model-theoretic aspects of this problem.</Paragraph>
+</Section>
+</Paper>
+

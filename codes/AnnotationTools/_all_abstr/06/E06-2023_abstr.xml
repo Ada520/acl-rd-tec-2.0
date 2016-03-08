@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E06-2023">
+<Title>Unsupervised Discovery of Persian Morphemes</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper reports the present results of a research on unsupervised Persian morpheme discovery. In this paper we present a method for discovering the morphemes of Persian language through automatic analysis of corpora. We utilized a Minimum Description Length (MDL) based algorithm with some improvements and applied it to Persian corpus. Our improvements include enhancing the cost function using some heuristics, preventing the split of high frequency chunks, exploiting penalty for first and last letters and distinguishing pre-parts and post-parts. Our improved approach has raised the precision, recall and f-measure of discovery by respectively %32, %17 and %23.</Paragraph>
+</Section>
+</Paper>
+

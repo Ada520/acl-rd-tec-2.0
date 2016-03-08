@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C86-1067">
+<Title>A Kana-Kanji Translation System for Non-Segmented Input Sentences Based on Syntactic and Semantic Analysis</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a disambiguation approach for translating non-segmented-Kana into Kanji. The method consists of two steps. In the first step, an input sentence is analyzed morphologically and ambiguous morphemes are stored in a network form. In the second step, the best path, which is a string of morphemes, is selected by syntactic and semantic analysis based on case grammar.</Paragraph>
+<Paragraph position="1"> In order to avoid the combinatorial explosion of possible paths, the following heuristic search method is adopted.</Paragraph>
+<Paragraph position="2"> First, a path that contains the smallest number of weighted-morphemes is chosen as the quasi-best path by a best-first-search technique. Next, the restricted range of morphemes near the quasi-best path is extracted from the morpheme network to construct preferential paths.</Paragraph>
+<Paragraph position="3"> An experimental system incorporating large dictionaries has been developed and evaluated. A translation accracy of 90.5% was obtained. This can be improved to about 95% by optimizing the dictionaries.</Paragraph>
+</Section>
+</Paper>
+

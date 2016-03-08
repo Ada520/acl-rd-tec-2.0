@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A88-1002">
+<Title>A News Story Categorization System</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a pilot version of a commercial application of natural language processing techniques to the problem of categorizing news stories into broad topic categories. The system does not perform a complete semantic or syntactic analyses of the input stories. Its categorizations are dependent on fragmentary recognition using pattern-matching techniques. The fragments it looks for are determined by a set of knowledge-based rules. The accuracy of the system is only slightly lower than that of human categorizers.</Paragraph>
+</Section>
+</Paper>
+

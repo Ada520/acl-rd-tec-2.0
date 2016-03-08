@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C82-1012">
+<Title>TREE DIRECTED GRAMMARS</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+FR Germany
+</SectionTitle>
+<Paragraph position="0"> Tree directed grammars as a special kind of translation grammars are defined. It is shown that a loop-free tree directed grammar can be transformed into an equivalent top-down tree transducer, and from this fact it follows that given an arbitrary context-free language as input, a tree directed grammar produces an output language which is at most context-sensitive.</Paragraph>
+</Section>
+</Paper>
+

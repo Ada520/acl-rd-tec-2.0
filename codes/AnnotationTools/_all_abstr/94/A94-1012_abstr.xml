@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A94-1012">
+<Title>Combination of Symbolic and Statistical Approaches for Grammatical Knowledge Acquisition</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The framework we adopted for customizing linguistic knowledge to individual application domains is an integration of symbolic and statistical approaches. In order to acquire domain specific knowledge, we have previously proposed a rule-based mechanism to hypothesize missing knowledge from partial parsing results of unsuccessfully parsed sentences. In this paper, we focus on the statistical process which selects plausible knowledge from a set of hypotheses generated from the whole corpus.</Paragraph>
+<Paragraph position="1"> In particular, we introduce two statistical measures of hypotheses, Local Plausibility and Global Plausibility, and describe how these measures are determined iteratively.</Paragraph>
+<Paragraph position="2"> The proposed method will be incorporated into the tool kit for linguistic knowledge acquisition which we are now developing.</Paragraph>
+</Section>
+</Paper>
+

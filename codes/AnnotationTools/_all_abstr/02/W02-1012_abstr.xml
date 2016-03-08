@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-1012">
+<Title>Extensions to HMM-based Statistical Word Alignment Models</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes improved HMM-based word level alignment models for statistical machine translation. We present a method for using part of speech tag information to improve alignment accuracy, and an approach to modeling fertility and correspondence to the empty word in an HMM alignment model. We present accuracy results from evaluating Viterbi alignments against human-judged alignments on the Canadian Hansards corpus, as compared to a bigram HMM, and IBM model 4.</Paragraph>
+<Paragraph position="1"> The results show up to 16% alignment error reduction. null</Paragraph>
+</Section>
+</Paper>
+

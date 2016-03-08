@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P95-1011">
+<Title>Encoding Lexicalized Tree Adjoining Grammars with a Nonmonotonic Inheritance Hierarchy</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper shows how DATR, a widely used formal language for lexical knowledge representation, can be used to define an I_TAG lexicon as an inheritance hierarchy with internal lexical rules. A bottom-up featural encoding is used for LTAG trees and this allows lexical rules to be implemented as covariation constraints within feature structures. Such an approach eliminates the considerable redundancy otherwise associated with an LTAG lexicon.</Paragraph>
+</Section>
+</Paper>
+

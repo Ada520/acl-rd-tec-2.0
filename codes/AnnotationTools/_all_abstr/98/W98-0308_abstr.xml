@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-0308">
+<Title></Title>
+<Section position="2" start_page="52" end_page="52" type="abstr">
+<SectionTitle>
+5 Conclusion
+</SectionTitle>
+<Paragraph position="0"> This paper has shown that an atomic event is expressed in a ~ or s (Section 2), a non atomic event in a I'~t:,, S or with an item lexicatizing it (Section 3) or not (Section 4). The consequences for text generation are twofold: * The conceptual representation of a text should be a tree structure whose non terminal nodes are non atomic relations, and whose leaves are conceptual representations of atomic events (based on atomic relations). These leaves do not correspond to the conceptual representations of the sentences or clauses of the text.</Paragraph>
+<Paragraph position="1"> * From such a conceptual representation (enriched with pragmatic information), the generation process should not be modularized into &amp;quot;text planning&amp;quot; and &amp;quot;sentence planning&amp;quot;, as generally admitted (Reiter t994). The only possible modularization is a component for non atomic events and another one for atomic events. In a lexicalized system, the generation of atomic and non atomic events can be based on the same process, i.e. recursive lexicalization.</Paragraph>
+<Paragraph position="2"> Formalism and implementation. A formalism for a lexicalized generation system must obviously be inspired from a formalism designed for lexicalized grammar in analysis. Among other advantages, this make it possible to use an already existing grammar for the syntactic level. Among the existing lexicalized grammars, TAG has long been seen as especially well suited for text generation (Joshi 1987). Hence my choice of designing a generation formalism inspired by TAGand called G-T&gt;~3(Danlos 1995, 1998). GT,,K3has been first implemented in ADA(Meunier 1997) and used in three technical domains (chemical, software, and aeronautic). The T3t3grammar used for French is the one written by (Abeill6 1991), The elementary tree families are automatically generated out of a hierarchical representation (Candito 1996). G-T, zK3is currently re-implemented in Java in a multi-agent structure (Meunier &amp; Reyes 1998).</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W91-0202">
+<Title>Syntax-Driven and Ontology-Driven Lexical Semantics</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this position paper we describe the scopes of two schools in lexicM semantics, which we call syntax-driven lexical semantics and ontology-driven lexical semantics, respectively. Both approaches arc used in various applications at The Center for Machine Translation. We believe that a comparative analysis of these positions and clarification of claims and coverage is essential for the field as a whole.</Paragraph>
+<Paragraph position="1"> There are different traditions in the study of lexical semantics. Two of them seem to be the most current in computational linguistics and its applications -- the one based on syntactic theory studies and the other, on the artificial intelligence approaches. The former seeks to discover semantic properties of lexical items from which syntactic behavior (such as subcategorization and participation in transitivity alternations) is predictable.</Paragraph>
+<Paragraph position="2"> (See Grimshaw, 1990; B. Levin &amp; Rappaport Hovav, 1990.) The latter tries to establish the meaning of natural language texts with the help of an independently constructed &amp;quot;world model&amp;quot; (often called &amp;quot;ontology&amp;quot;) which explicates relations among entities in the world rather than lexical units.</Paragraph>
+<Paragraph position="3"> It is customary to pitch the two approaches as competing. And in practice, researchers typically develop lexical-semantic theories and computer systems based on them using only one of the two. We would like to argue, however, that these approaches to semantics are much closer to one another in their aims and research methodologies than to any other schools of semantics (&amp;quot;logical,&amp;quot; &amp;quot;philosophical,&amp;quot; &amp;quot;formal,&amp;quot; etc.) From a practical standpoint, we also have a different experience to report. We believe that neither on theoretical grounds nor with respect to computational applications is there a necessity to make one of the approaches prominent at the expense of the other. We have carried out both theoretical and practical work in which the approaches seem to coexist. The central role of the syntax-driven lexical semantics in the process of NLP is to decode the nature of the dependency between heads of phrases and their arguments in a particular language. This knowledge is then used in ontology-driven lexical semantics as a necessary set of heuristics which allow us to represent the meaning of a text in terms of a language-independent conceptual model. Thus, we believe that a comprehensive approach should combine the benefits of both approaches and that neither will on its own be sufficient for realistic NLP.</Paragraph>
+</Section>
+</Paper>
+

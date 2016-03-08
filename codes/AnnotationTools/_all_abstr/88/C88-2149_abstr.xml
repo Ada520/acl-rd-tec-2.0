@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C88-2149">
+<Title>Issues in Word Choice</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper discusses word choice for natural language generation.</Paragraph>
+<Paragraph position="1"> It examines 11 issues, the solutions that have been proposed for them, and their implications for design. The issues are: o How are appropriate words chosen~ o How is conciseness ensured7 o When does choice stop? o How are patterns of lexicalization respected? o How are interactions among choices handled? o How are the correct parts of speech chosen?  o How are words chosen to satisfy constituency? o What ensures that a word stands in the correct relation to its neighbors? o How is word order determined? o Are all words chosen in the same way? o In what order are the factors considered?  This paper also discusses FIG, a generator which incorporates novel solutions to many of these issues. FIG violates common assumptions about the roles of modularity and grammar in generator design. Analysis of FIG leads to 4 Principles for generator design, as follows: o Have an explicit representation of the status of the generation process at each point in time.</Paragraph>
+<Paragraph position="2">  o Use a single, unified representation.</Paragraph>
+<Paragraph position="3"> o Do not rely on the details of the structure of the input. o Treat most choices as emergent.</Paragraph>
+<Paragraph position="4"> 1. Word Choice and Generator Design  An important task in the generation of natural language is choosing words. This paper presents issues in word choice. A generator must handle these issues or risk producing output which is inappropriate, unnatural, confusing, unreadable, or ungrammatical. Choice has been called the key problem in natural language generation/McDonald 1983/. However, most research so far has focused on syntactic choice; word choice has received little attention/Pustejovsky and Nirenburg 1987/. This paper focuses on basic issues in word choice and their implications for generator design.</Paragraph>
+</Section>
+</Paper>
+

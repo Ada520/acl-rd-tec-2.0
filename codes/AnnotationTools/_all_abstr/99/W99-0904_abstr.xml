@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W99-0904">
+<Title></Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present in this paper an unsupervised method to learn suffixes and suffixation operations from an inflectional lexicon of a language. The elements acquired with our method are used to build stemming procedures and can assist lexicographers in the development of new lexical resources.</Paragraph>
+</Section>
+</Paper>
+

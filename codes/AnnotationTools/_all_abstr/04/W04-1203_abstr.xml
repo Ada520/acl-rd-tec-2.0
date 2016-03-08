@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-1203">
+<Title>Analysis of Link Grammar on Biomedical Dependency Corpus Targeted at Protein-Protein Interactions</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we present an evaluation of the Link Grammar parser on a corpus consisting of sentences describing protein-protein interactions. We introduce the notion of an interaction subgraph, which is the subgraph of a dependencygraphexpressingaprotein-proteinin- null teraction. We measure the performance of the parserforrecoveryofdependencies,fullycorrect linkages and interaction subgraphs. We analyze the causes of parser failure and report speciflc causes of error, and identify potential modiflcations to the grammar to address the identifled issues. We also report and discuss the efiect of an extension to the dictionary of the parser.</Paragraph>
+</Section>
+</Paper>
+

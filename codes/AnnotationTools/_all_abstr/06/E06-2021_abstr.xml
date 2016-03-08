@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E06-2021">
+<Title>Automatic Acronym Recognition</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper deals with the problem of recognizing and extracting acronym-definition pairs in Swedish medical texts. This project applies a rule-based method to solve the acronym recognition task and compares and evaluates the results of different machine learning algorithms on the same task. The method proposed is based on the approach that acronym-definition pairs follow a set of patterns and other regularities that can be usefully applied for the acronym identification task. Supervised machine learning was applied to monitor the performance of the rule-based method, using Memory Based Learning (MBL). The rule-based algorithm was evaluated on a hand tagged acronym corpus and performance was measured using standard measures recall, precision and fscore. The results show that performance could further improve by increasing the training set and modifying the input settings for the machine learning algorithms. An analysis of the errors produced indicates that further improvement of the rule-based method requires the use of syntactic information and textual pre-processing.</Paragraph>
+</Section>
+</Paper>
+

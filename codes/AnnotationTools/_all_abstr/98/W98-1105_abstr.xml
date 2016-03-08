@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-1105">
+<Title>Semantic Tagging using a Probabilistic Context Free Grammar *</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a statistical model for extraction of events at the sentence level, or &amp;quot;semantic tagging&amp;quot;, typically the first level of processing in Information Extraction systems. We illustrate the approach using a management succession task, tagging sentences with three slots involved in each succession event: the post, person coming into the post, and person leaving the post. The approach requires very limited resources: a part-of-speech tagger; a morphological analyzer; and a set of training examples that have been labeled with the three slots and the indicator (verb or noun) used to express the event.</Paragraph>
+<Paragraph position="1"> Training on 560 sentences, and testing on 356 sentences, shows the accuracy of the approach is 77.5% (if partial slot matches are deemed incorrect) or 87.8% (if partial slot matches are deemed correct).</Paragraph>
+</Section>
+</Paper>
+

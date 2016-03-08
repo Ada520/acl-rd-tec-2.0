@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0810">
+<Title>Subject and Object Dependency Extraction Using Finite-State Transducers</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe and evaluate an approach for fast automatic recognition and extraction of subject and object dependency relations from large French corpora, using a sequence of finite-state transducers. The extraction is performed in two major steps: incremental finite-state parsing and extraction of subject/verb and object/verb relations. Our incremental and cautious approach during the first phase allows the system to deal successfully with complex phenomena such as embeddings, coordination of VPs and NPs or non-standard word order. The extraction requires no subcategorisation information. It relies on POS information only. After describing the two steps, we give the results of an evaluation on various types of unrestricted corpora. Precision is around 90-97% for subjects (84-88% for objects) and recall around 86-92% for subjects (80-90% for objects). We also provide some error analysis; in particular, we evaluate the impact of POS tagging errors on subject/object dependency extraction.</Paragraph>
+</Section>
+</Paper>
+

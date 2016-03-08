@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C86-1018">
+<Title>CondiLioned UnificaLiou for Natural l,an~uage Processinp,</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> A currcr'd, major t.rcrY.t of naturul la~/guage processing is ehara.cterized by Lhc overall use o\[ unification (Sttiebc~r (198'l), Kay (1985), Proudir:~ and Pollard (1,985), Percira (198b), Shicbcr (1985), etc) reflecLing lhe recent develop merits in nonLra.nsformaLJonal linguistic \[ormalisrns, such as Lexical FuncUonal Grammar (}lrcsnan (198E)), Generalizcd Phrase St.r'tJcl.ur( (\]rarnrnar (GPS(\]) (Gazdar, Klein, Pulhlm and Sag (I 985)), i Icad Grammar (Pol}ard (19f1,1)), and tIcadl)riven Phrase Structure Grammar (lIPS(;) (Pc\]lard (1985a.,b)). These formalisnls dispense wiLt ,qlobal opcra-Lioits sueh as t.ransfornlaLion, alld instead cxp!oit h~cal operations each C'Ollf'lrled wttJ/i\[l a local tree Such local operations ar'c forunulatcd in Lcrms of uni~caLion \]Iowevcr, Lhe ordinary unification as in Prolog is insufficient, seeu rrorn both scientific (here, alias liriguJsl,ic) and cngin(.'ering poilfl'.C/ of vicw '\['he F, robh-'trl is that p,t tc\]~\[\]s Lo bc tl\[li(ie({ wiL\]l each other lack the cape.city rot carrying irfforrnaLion In Lhis papcr we \[)rcscnl a new mcLhod of unificaLion which we (call conditioned unification. The essence of the method is t.o deal wit.h paLLcrns aimoLated by seine sort of condit, ioils. These eondiLioi&lt;ls are so cortsl, raincd /-Is Lo 'oe cfficicntly operated on, and yet to be able to carry rich enough informaLion t.o caDLure linguistic gcneralizations.</Paragraph>
+</Section>
+</Paper>
+

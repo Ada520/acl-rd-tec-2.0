@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A00-2030">
+<Title>A Novel Use of Statistical Parsing to Extract Information from Text</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Since 1995, a few statistical parsing algorithms have demonstrated a breakthrough in parsing accuracy, as measured against the UPenn TREEBANK as a gold standard. In this paper we report adapting a lexicalized, probabilistic context-free parser to information extraction and evaluate this new technique on MUC-7 template elements and template relations.</Paragraph>
+</Section>
+</Paper>
+

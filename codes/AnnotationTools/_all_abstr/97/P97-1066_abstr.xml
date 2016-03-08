@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P97-1066">
+<Title>Knowledge Acquisition from Texts : Using an Automatic Clustering Method Based on Noun-Modifier Relationship</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe the early stage of our methodology of knowledge acquisition from technical texts. First, a partial morpho-syntactic analysis is performed to extract &amp;quot;candidate terms&amp;quot;. Then, the knowledge engineer, assisted by an automatic clustering tool, builds the &amp;quot;conceptual fields&amp;quot; of the domain. We focus on this conceptual analysis stage, describe the data prepared from the results of the morpho-syntactic analysis and show the results of the clustering module and their interpretation. We found that syntactic links represent good descriptors for candidate terms clustering since the clusters are often easily interpreted as &amp;quot;conceptual fields&amp;quot;.</Paragraph>
+</Section>
+</Paper>
+

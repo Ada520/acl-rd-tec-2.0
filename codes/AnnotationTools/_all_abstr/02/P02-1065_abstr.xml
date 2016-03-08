@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P02-1065">
+<Title>Memory-Based Learning of Morphology with Stochastic Transducers</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper discusses the supervised learning of morphology using stochastic transducers, trained using the Expectation-Maximization (EM) algorithm. Two approaches are presented: first, using the transducers directly to model the process, and secondly using them to define a similarity measure, related to the Fisher kernel method (Jaakkola and Haussler, 1998), and then using a Memory-Based Learning (MBL) technique. These are evaluated and compared on data sets from English, German, Slovene and Arabic.</Paragraph>
+</Section>
+</Paper>
+

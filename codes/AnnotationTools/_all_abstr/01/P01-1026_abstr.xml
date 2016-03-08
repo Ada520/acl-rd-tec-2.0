@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P01-1026">
+<Title>Organizing Encyclopedic Knowledge based on the Web and its Application to Question Answering</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We propose a method to generate large-scale encyclopedic knowledge, which is valuable for much NLP research, based on the Web.</Paragraph>
+<Paragraph position="1"> We first search the Web for pages containing a term in question. Then we use linguistic patterns and HTML structures to extract text fragments describing the term. Finally, we organize extracted term descriptions based on word senses and domains. In addition, we apply an automatically generated encyclopedia to a question answering system targeting the Japanese Information-Technology Engineers Examination.</Paragraph>
+</Section>
+</Paper>
+

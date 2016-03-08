@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W05-1512">
+<Title></Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Although state-of-the-art parsers for natural language are lexicalized, it was recently shown that an accurate unlexicalized parser for the Penn tree-bank can be simply read off a manually refined treebank. While lexicalized parsers often suffer from sparse data, manual mark-up is costly and largely based on individual linguistic intuition. Thus, across domains, languages, and tree-bank annotations, a fundamental question arises: Is it possible to automatically induce an accurate parser from a tree-bank without resorting to full lexicalization? In this paper, we show how to induce head-driven probabilistic parsers with latent heads from a tree-bank. Our automatically trained parser has a performance of 85.7% (LP/LR F1), which is already better than that of early lexicalized ones.</Paragraph>
+</Section>
+</Paper>
+

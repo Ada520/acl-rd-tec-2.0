@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E89-1012">
+<Title>Programming in Logic with Constraints for Natural Language Processing</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we present a logic-based computational model for movement theory in Government and Binding Theory. For that purpose, we have designed a language called DISLOG.</Paragraph>
+<Paragraph position="1"> DISLOG stands for programming in logic with discontinuities and permits to express in a simple, concise and declarative way relations or constraints between non-contiguous elements in a structure.</Paragraph>
+<Paragraph position="2"> DISLOG is also weel adapted to model other types of linguistic phenomena like Quantifier Raising involving long-distance relations or constraints.</Paragraph>
+</Section>
+</Paper>
+

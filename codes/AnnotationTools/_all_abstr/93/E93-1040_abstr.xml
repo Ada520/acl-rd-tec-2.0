@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E93-1040">
+<Title>Parsing the Wall Street Journal with the Inside-Outside Algorithm</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We report grammar inference experiments on partially parsed sentences taken from the Wall Street Journal corpus using the inside-outside algorithm for stochastic context-free grammars.</Paragraph>
+<Paragraph position="1"> The initial grammar for the inference process makes no ,assumption of the kinds of structures and their distributions. The inferred grammar is evaluated by its predicting power and by comparing the bracketing of held out sentences imposed by the inferred grammar with the partial bracketings of these sentences given in the corpus. Using part-of-speech tags as the only source of lexical information, high bracketing accuracy is achieved even with a small subset of the available training material (1045 sentences): 94.4% for test sentences shorter than 10 words and 90.2% for sentences shorter than 15 words.</Paragraph>
+</Section>
+</Paper>
+

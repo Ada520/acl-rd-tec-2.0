@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0117">
+<Title>A Natural Language Correction Model for Continuous Speech Recognition 1</Title>
+<Section position="2" start_page="0" end_page="168" type="abstr">
+<SectionTitle>
+1. INTRODUCTION
+</SectionTitle>
+<Paragraph position="0"> In this paper we describe a method of improving the accuracy of automated speech recognition through text-based linguistic post-processing. The basic assumption of our approach is that a majority of transcription errors can be attributed to either some inherent limitations of the language model employed by a speech recognition system, or else to the specific speech patterns of a speaker or a group of speakers. Many advanced speech recognition systems use trainable language models that can be optimized for a particular speaker (speaker-adaptable, or speaker-independent) as well as for a specific sublanguge usage (e.g., radiology). This optimization is necessary to achieve a respectable level of recognition accuracy, however, it may not guarantee consistently high-accuracy performance due to the limited capabilities of the underlying language model, usually a 2- or 3-gram HMMs. Our method is to take a reasonably accurate transcription (perhaps 70-90% word accuracy) and automatically develop a correction filter that would assure I. This research is based upon work supported in part under a cooperative agreement between the National Institute of Standards and Technology Advanced Technology Program (under the HITECC contract, number 70NANB5Hl195) and the Healthcare Open Systems and Trials, Inc. consortium.</Paragraph>
+<Paragraph position="1">  consistently the highest possible performance. Unlike other approaches (e.g., Sekine &amp; Grishman, 1996) that attempt to choose from among alternative transcriptions based on syntactic and/or lexieal well-formedness, our method is to actually identify and correct transcription errors in the SRS output.</Paragraph>
+<Paragraph position="2"> We would like to stress that while the experiments described in this paper are relatively modest and preliminary, the system we designed is robust and fully automatic: there is no human intervention involved.</Paragraph>
+</Section>
+</Paper>
+

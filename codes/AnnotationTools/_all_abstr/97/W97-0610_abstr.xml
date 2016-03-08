@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0610">
+<Title>Context Modeling for Language and Speech Generation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> It is well known that some of the most important issues in the design of a dialogue system involve the modeling of linguistic context. The present paper highlights a number of these issues, focusing on the language and speech generation components of such systems, and discusses their implications for the way in which context has to be modeled in a spoken dialogue system. We will compare the 'dedicated' context models that have been proposed in theoretical and computational linguistics with the more general models proposed in artificial intelligence. Our main examples of a 'dedicated' context model will be the context model of the 'Dial Your Disc' (DYD) music information system (Collier and Landsbergen, 1995), (van Deemter and Odijk, 1997) and the better-known Discourse Representation Theory (e.g.</Paragraph>
+<Paragraph position="1"> (Kamp and Reyle, 1993)) of which this model is a variant. Our main example of a 'general' context model is provided by the so-called 'Ist' formalism (McCarthy, 1993).</Paragraph>
+</Section>
+</Paper>
+

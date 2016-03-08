@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C80-1076">
+<Title>Institute for Informatics</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+6 The State of the Implementation
+</SectionTitle>
+<Paragraph position="0"> In order to make the present task procedures of the human experts consistent to the machine support, we are fo\]\]owing the expert's task process by using the same data and becoming ourselves a bit experts of our world.</Paragraph>
+<Paragraph position="1"> For standardization of terminologies to identify the corresponding concepts we bind together those terminologies in different reports which have the same meaning. This is the first step to understand the world in view of a machine but we find out this is not an easy task. Beside this, there are many contradictions and mistakes as it is well known to our experts.</Paragraph>
+<Paragraph position="2"> Paralle\] to thJ. s sort of the world analysis, we now examine our frame-like language BBJTA\[K which is avai\]able in our computer at the moment beside FRt, to decide whether it gives us a sound base for our approach and if not exactly, what should be done to tailor the language for it. From our test example we experience what additional features we need (see section 3).</Paragraph>
+<Paragraph position="3"> Without having a high resolutation bit-map-display our implementation of the multiple window system is restricted to the display terminals available to our computer. Hoping to get such a terminal in the near future a multiple window system has been simu\]ated on the HDS-terminals in lOGO (14).</Paragraph>
+<Paragraph position="4"> --510--</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-1051">
+<Title>Segmentation and Labelling of Slovenian Diphone Inventories*</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Preparation, recording, segmentation and pitch labelling of Slovenian diphone inventories are described. A special user friendly intert'ace package was developed in order to facilitate these operations. As acquisition of a labelled diphone inventory or adaptation of a speech synthesis system to synthesise further voices is manually intensive, an automatic procedure is required. A speech recogniser, based on Hidden Markov Models in forced segmentation mode is used to outline phone boundaries within spoken logatoms. A statistical evaluation of manual and automatic segmentation discrepancies is performed so as to estinmte the reliability of automatically derived labels. Finally, diphone boundaries are determined and pitch markers are assigned to voiced sections of the speech signal.</Paragraph>
+</Section>
+</Paper>
+

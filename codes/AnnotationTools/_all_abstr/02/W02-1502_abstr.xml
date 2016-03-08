@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-1502">
+<Title>The Grammar Matrix: An Open-Source Starter-Kit for the Rapid Development of Cross-Linguistically Consistent Broad-Coverage Precision Grammars</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The grammar matrix is an open-source starter-kit for the development of broad-coverage HPSGs. By using a type hierarchy to represent cross-linguistic generalizations and providing compatibility with other open-source tools for grammar engineering, evaluation, parsing and generation, it facilitates not only quick start-up but also rapid growth towards the wide coverage necessary for robust natural language processing and the precision parses and semantic representations necessary for natural language understanding. null</Paragraph>
+</Section>
+</Paper>
+

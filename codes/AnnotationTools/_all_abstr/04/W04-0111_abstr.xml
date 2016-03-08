@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-0111">
+<Title>Vi-xfst: A Visual Regular Expression Development Environment for Xerox Finite State Tool</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes Vi-xfst, a visual interface and a development environment, for developing nite state language processing applications using the Xerox Finite State Tool, xfst. Vi-xfst lets a user construct complex regular expressions via a drag-and-drop visual interface, treating simpler regular expressions as Lego Blocks. It also enables the visualization of the structure of the regular expression components, providing a bird's eye view of the overall system, enabling a user to easily understand and track the structural and functional relationships among the components involved. Since the structure of a large regular expression (built in terms of other regular expressions) is now transparent, users can also interact with regular expressions at any level of detail, easily navigating among them for testing. Vi-xfst also keeps track of dependencies among the regular expressions at a very ne-grained level. So when a certain regular expression is modi ed as a result of testing, only the dependent regular expressions are recompiled resulting in an improvement in development process time, by avoiding le level recompiles which usually causes redundant regular expression compilations.</Paragraph>
+</Section>
+</Paper>
+

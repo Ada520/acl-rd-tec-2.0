@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-1806">
+<Title>Natural Language Understanding using Temporal Action Logic</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We consider a logicist approach to natural language understanding based on the translation of a quasi-logical form into a temporal logic, explicitly constructed for the representation of action and change, and the subsequent reasoning about this semantic structure in the context of a background knowledge theory using automated theorem proving techniques. The approach is substantiated through a proof-of-concept question answering system implementation that uses a head-driven phrase structure grammar developed in the Linguistic Knowledge Builder to construct minimal recursion semantics structures which are translated into a Temporal Action Logic where both the SNARK automated theorem prover and the Allegro Prolog logic programming environment can be used for reasoning through an interchangeable compilation into first-order logic or logic programs respectively.</Paragraph>
+</Section>
+</Paper>
+

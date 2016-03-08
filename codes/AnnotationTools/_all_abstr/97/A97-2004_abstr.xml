@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A97-2004">
+<Title>Duke's Trainable Information and Meaning Extraction System</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction and Background
+</SectionTitle>
+<Paragraph position="0"> The explosion in the amount of free text materials on the Internet, and the use of this information by .~ people from all walks of life, has made the issue of generalized information extraction a central one in Natural Language Processing. Many systems includ- o ..~,  ing ones from NYU, BBN, SRI, SRA, and MITRE have taken steps to make the process of customizing a system for a particular domain an easy one.</Paragraph>
+<Paragraph position="1"> We have built a system that attempts to provide any user with the ability to efficiently create and customize, for his or her own application, an information extraction system with competitive precision and recall statistics.</Paragraph>
+<Paragraph position="2"> More details about the system can be found in (Bagga, 1997).</Paragraph>
+</Section>
+</Paper>
+

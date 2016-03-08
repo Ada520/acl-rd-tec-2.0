@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-0844">
+<Title>Structural Semantic Interconnection: a knowledge-based approach to Word Sense Disambiguation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we describe the SSI algorithm, a structural pattern matching algorithm for WSD. The algorithm has been applied to the gloss disambiguation task of Senseval-3.</Paragraph>
+</Section>
+</Paper>
+

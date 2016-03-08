@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C86-1065">
+<Title>A MORPHOLOGICAL RECOGNIZER WITH SYNTACTIC AND PHONOLOGICAL RULES</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a morphological analyzer which, when parsing a word, uses two sets of rules: rnles describing the syntax of words, and rules describing facts about orthography.</Paragraph>
+</Section>
+</Paper>
+

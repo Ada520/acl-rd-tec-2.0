@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H94-1071">
+<Title>Learning from Relevant Documents in Large Scale Routing Retrieval</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> The normal practice of selecting relevant documents for training routing queries is to either use all relevants or the 'best n' of them after a (retrieval) ranking operation with respect to each query. Using all relevants can introduce noise and ambiguities in training because documents can be long with many irrelevant portions. Using only the 'best n' risks leaving out documents that do not resemble a query.</Paragraph>
+<Paragraph position="1"> Based on a method of segmenting documents into more uniform size subdocuments, a better approach is to use the top ranked subdocument of every relevant. An alternative selection strategy is based on document properties without ranking. We found experimentally that short relevant documents are the quality items for training. Beginning portions of longer relevants are also useful. Using both types provides a strategy that is effective and efficient.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-0853">
+<Title>A Gloss-centered Algorithm for Disambiguation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The task of word sense disambiguation is to assign a sense label to a word in a passage. We report our algorithms and experiments for the two tasks that we participated in viz. the task of WSD of Word-Net glosses and the task of WSD of English lexical sample. For both the tasks, we explore a method of sense disambiguation through a process of &amp;quot;comparing&amp;quot; the current context for a word against a repository of contextual clues or glosses for each sense of each word. We compile these glosses in two different ways for the two tasks. For the first task, these glosses are all compiled using WordNet and are of various types viz. hypernymy glosses, holonymy mixture, descriptive glosses and some hybrid mixtures of these glosses. The &amp;quot;comparison&amp;quot; could be done in a variety of ways that could include/exclude stemming, expansion of one gloss type with another gloss type, etc. The results show that the system does best when stemming is used and glosses are expanded. However, it appears that the evidence for word-senses ,accumulated through WordNet, in the form of glosses, are quite sparse. Generating dense glosses for all WordNet senses requires a massive sense tagged corpus - which is currently unavailable. Hence, as part of the English lexical sample task, we try the same approach on densely populated glosses accumulated from the training data for this task.</Paragraph>
+</Section>
+</Paper>
+

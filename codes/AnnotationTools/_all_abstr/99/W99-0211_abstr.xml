@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W99-0211">
+<Title>Using Coreference Chains for Text Summarization</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe the use of coreference chains for the production of text summaries, using a variety of criteria to select a 'best' chain to represent the main topic of a text. The approach has been implemented within an existing MUC coreference system, which constructs a full discourse model of texts, including information about changes of focus, which can be used in the selection of chains. Some preliminary experiments on the automatic evaluation of summaries are also described, using existing tools to attempt to replicate some of the recent SUMMAC manual evaluations.</Paragraph>
+</Section>
+</Paper>
+

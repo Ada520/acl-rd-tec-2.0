@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C02-2006">
+<Title>An Annotation System for Enhancing Quality of Natural Language Processing</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Naturallanguageprocessing#28NLP#29programsare confronted with various di#0Eculties in processing HTML and XML documents, and have the potential to produce better results if linguistic information is annotated in the source texts. Wehave therefore developed the Linguistic Annotation Language #28orLAL#29, which is an XML-compliant tagset for assisting natural language processing programs, and NLP tools such as parsers and machine translation programs which can accept LAL-annotated input. In addition, we have developed a LAL-annotation editor which allows users to annotate documents graphically without seeing tags. Further, we have conducted an experiment to check the translation quality improvementby using LAL annotation.</Paragraph>
+</Section>
+</Paper>
+

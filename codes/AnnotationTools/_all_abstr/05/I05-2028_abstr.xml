@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="I05-2028">
+<Title>Modelling of a Gazetteer Look-up Component</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper compares two storage models for gazetteers, nameley the standard one based on numbered indexing automata associated with an auxiliary storage device against a pure finite-state model, the latter being superior in terms of space and time complexity.1</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P06-1141">
+<Title>Sydney, July 2006. c(c)2006 Association for Computational Linguistics An Effective Two-Stage Model for Exploiting Non-Local Dependencies in Named Entity Recognition</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper shows that a simple two-stage approach to handle non-local dependencies in Named Entity Recognition (NER) can outperform existing approaches that handle non-local dependencies, while being much more computationally efficient.</Paragraph>
+<Paragraph position="1"> NER systems typically use sequence models for tractable inference, but this makes them unable to capture the long distance structure present in text. We use a Conditional Random Field (CRF) based NER system using local features to make predictions and then train another CRF which uses both local information and features extracted from the output of the first CRF.</Paragraph>
+<Paragraph position="2"> Using features capturing non-local dependencies from the same document, our approach yields a 12.6% relative error reduction on the F1 score, over state-of-the-art NER systems using local-information alone, when compared to the 9.3% relative error reduction offered by the best systems that exploit non-local information. Our approach also makes it easy to incorporate non-local information from other documents in the test corpus, and this gives us a 13.3% error reduction over NER systems using local-information alone. Additionally, our running time for inference is just the inference time of two sequential CRFs, which is much less than that of other more complicated approaches that directly model the dependencies and do approximate inference.</Paragraph>
+</Section>
+</Paper>
+

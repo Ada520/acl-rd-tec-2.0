@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-0904">
+<Title>Building a hyponymy lexicon with hierarchical structure</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+GSLT
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Many lexical semantic relations, such as the hyponymy relation, can be extracted from text as they occur in detectable syntactic constructions. This paper shows how a hypernym-hyponym based lexicon for Swedish can be created directly from a news paper corpus. An algorithm is presented for building partial hierarchical structures from non domain-specific texts.</Paragraph>
+</Section>
+</Paper>
+

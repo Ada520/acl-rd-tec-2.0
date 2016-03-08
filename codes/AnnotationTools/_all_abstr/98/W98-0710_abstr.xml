@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-0710">
+<Title>Aligning WordNet with Additional Lexical Resources</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper explores the relationship between Word-Net and other conventional linguistically-based lexical resources. We introduce an algorithm for aligning word senses from different resources, and use it in our exper~nent to sketch the role played by WordNet, as far as sense discrimination is concerned, when put in the context of other lexical databases.</Paragraph>
+<Paragraph position="1"> The results show how and where the resources systematically differ from one another with respect to the degree of polysemy, and suggest how we can (i) overcome the inadequacy of individual resources to achieve an overall balanced degree of sense discrimination, and (ii) use a combination of semantic classification schemes to enrich lexical information for NLP.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J79-1003">
+<Title>kmerican Journal of Computational Linguir tics Microfiche 3</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> This papar discu~see human semantic knowledge and proceesing in terms of the SCHOLAR system. In one major section we discuss the imprecision, the incompleteness, the open-endedness, and the uncertainty of psopl,eqs knowledge. In the other major section we diecuss strategies people use to make different types of deductive, negative, and functional inferences, and the way uncertainties combine in these inferences.</Paragraph>
+<Paragraph position="1"> Irapreeision can occur either in memory or in camunication.</Paragraph>
+<Paragraph position="2"> SCHOLAR can have precf ae values or fuzzy values stored, and its procedures can, to eome extent, deal with fuzzy questions when precise valtues are stored, and with precise queltions, when fuzzy values are stored. Embedding allows info tion to be specified in the data base to any level of detail or preci sfon. But SCHOLAR only camunicatea the nwst important info tion on any topic (as rneasured by importmce tags), unless more info tion is requested.</Paragraph>
+<Paragraph position="3"> 1.t should also be possible by using importance tags to adjust what +jon SCHOLAR communicates, in accord with the sophistication and, interests of the listener.</Paragraph>
+<Paragraph position="4"> Inference atrategiee that are appropriate when the complete set of object attributes, or values, is known (i .em, in a closed world) do not apply when knowledge is incomplete e, in an open wrld) . There are a variety of uncert~in inf ercnces that people use to circumvent the hales in their knowledge, which are being progr ed in SCHOLAR.</Paragraph>
+<Paragraph position="5"> There is a set of transitive relations -- superordinate, superpart, s larity, praimity , subordinate, and subpart relations -- that people frequently use to make deductive inferences, Currently SCHO only handles superordinate inferences (em g . , the Llanos has a rainy season because it is a savanna) and superpart inferences (e .g, , the language in Rio is Portuguese because Rio is part of Brazil).</Paragraph>
+<Paragraph position="6"> ~eductive inferences can be more or leas certain (similarity inferences are like suptordinate inferences. but leas certain) and can have restrictions on their use (only certain attributes transfer an superpart).</Paragraph>
+<Paragraph position="7"> ~bn knowledge is incomplete, it is not safe to assume that something is not true just because it is not stored.</Paragraph>
+<Paragraph position="8"> Thus an inference is necessary to decide when to say 'Now and when to say 'I donBt know,@ There is a eamp1Pcated set sf strategies in SCHOLAR to find vatious kinds of contradictions that people case to say *NO, &amp;quot; If a contradiction cannot be found, another nega8ive inference, called the Wlack-aF-knawledgea inference, f s tried* When enough is known abut an abjech it is possible to conclude that someaing is not true ut mat object ow the ground8 that if it were true, it muld be stared, another class of wcertain inferences depends an ill-def ined knovledge of functional datenainants , e .g. , that climate depends OR latitude and altitude. D%f ferent ways that pople use fmctional knowledge irnm1ve fmctianal ealeulatisms (a.g,, if a place has a particular latitude, it probably has a particular elihate), functional analogies (e,g,, if a place is like another place in latitude and altitude, it probably has the sme chimte) , and ts answer Why questions (egg,, a place hg a particular elfmte because of its latitude and altitude), Different inf erenees can esIwBine in different ways, Somtims one strategy may call another strategy to hind an anewer, men different inferences independently reach the sme or differmt con-elusions, aey coItnbiwe to increase or dsreass certainty, The pming sf uncertain Bnfermces is wecessqw to make cawutars as clever and aa fuzzy-thinking as pmple.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W99-0631">
+<Title>An Iterative Approach to Estimating Frequencies over a Semantic Hierarchy</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper is concerned with using a semantic hierarchy to estimate the frequency with which a word sense appears as a given argument of a verb, assuming the data is not sense disambiguated. The standard approach is to split the count for any noun appearing in the data equally among the alternative senses of the noun. This can lead to inaccurate estimates. We describe a re-estimation process which uses the accumulated counts of hypernyms of the alternative senses in order to redistribute the count. In order to choose a hypernym for each alternative sense, we employ a novel technique which uses a X 2 test to measure the homogeneity of sets of concepts in the hierarchy.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="I05-2016">
+<Title>Controlling Animated Agents in Natural Language</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a prototype dialogue system, K3, in which a user can instruct agents through speech input to manipulate various objects in a 3-D virtual world. In this paper, we focus on two distinctive features of the K3 system: plan-based anaphora resolution and handling vagueness in spatial expressions. After an overview of the system architecture, each of these features is described. We also look at the future research agenda of this system.</Paragraph>
+</Section>
+</Paper>
+

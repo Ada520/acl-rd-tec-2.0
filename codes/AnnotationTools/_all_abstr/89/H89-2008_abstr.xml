@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H89-2008">
+<Title>THE VOYAGER SPEECH UNDERSTANDING SYSTEM: A PROGRESS REPORT*</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> As part of the DARPA Spoken Language System program, we recently initiated an effort in spoken language understanding. A spoken language system addresses applications in which speech is used for interactive problem solving between a person and a computer. In these applications, not only must the system convert the speech signal into text, it must also understand the linguistic structure of a sentence in order to generate the correct response. This paper describes our early experience with the development of the MIT VOYAGER spoken language system.</Paragraph>
+</Section>
+</Paper>
+

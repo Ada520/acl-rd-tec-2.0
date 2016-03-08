@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-0212">
+<Title>Visualization of Protocols of the Parsing and Semantic Interpretation Steps in a Machine Translation System</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we describe a tool for the visualization of process protocols produced by the parsing and semantic interpretation modules in a complex machine translation system.</Paragraph>
+<Paragraph position="1"> These protocols tend to reach considerable sizes, and error tracking in them is tedious and timeconsuming. We show how the data in the protocols can be made more easily accessible by extracting a procedural trace, by splitting the protocols into a collection of cross-linked hyper-text files, by indexing the files, and by using simple text formatting and sorting of structural elements.</Paragraph>
+</Section>
+</Paper>
+

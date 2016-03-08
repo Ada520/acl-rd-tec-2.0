@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-2207">
+<Title>Keyword Extraction using Term-Domain Interdependence for Dictation of Radio News</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we propose keyword extraction method for dictation of radio news which consists of several domains. In our method, newspaper articles which are automatically classified into suitable domains are used in order to calculate feature vectors. The feature vectors shows term-domain interdependence and are used for selecting a suitable domain of each part of radio news. Keywords are extracted by using the selected domain. The results of keyword extraction experiments showed that our methods are robust and effective for dictation of radio news.</Paragraph>
+</Section>
+</Paper>
+

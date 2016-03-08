@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-0306">
+<Title>Stochastic Language Generation for Spoken Dialogue Systems</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The two current approaches to language generation, Template-based and rule-based (linguistic) NLG, have limitations when applied to spoken dialogue systems, in part because they were developed for text generation. In this paper, we propose a new corpus-based approach to natural language generation, specifically designed for spoken dialogue systems.</Paragraph>
+<Paragraph position="1"> Introduction Several general-purpose rule-based generation systems have been developed, some of which are available publicly (cf. Elhadad, 1992). Unfortunately these systems, because of their generality, can be difficult to adapt to small, task-oriented applications. Bateman and Henschel (1999) have described a lower cost and more efficient generation system for a specific application using an automatically customized subgrammar. Busemann and Horacek (1998) describe a system that mixes templates and rule-based generation. This approach takes advantages of templates and rule-based generation as needed by specific sentences or utterances. Stent (1999) has proposed a similar approach for a spoken dialogue system.</Paragraph>
+<Paragraph position="2"> However, there is still the burden of writing and maintaining grammar rules, and processing time is probably too slow for sentences using grammar rules (only the average time for templates and rule-based sentences combined is reported in Busemann and Horacek, 1998), for use in spoken dialogue systems.</Paragraph>
+<Paragraph position="3"> Because comparatively less effort is needed, many current dialogue systems use template-based generation. But there is one obvious disadvantage: the quality of the output depends entirely on the set of templates. Even in a relatively simple domain, such as travel reservations, the number of templates necessary for reasonable quality can become quite large that maintenance becomes a serious problem.</Paragraph>
+<Paragraph position="4"> There is an unavoidfible trade-off between the amount of time and effort in creating and maintaining templates and the variety and quality of the output utterances.</Paragraph>
+<Paragraph position="5"> Given these shortcomings of the above approaches, we developed a corpus-based generation system, in which we model language spoken by domain experts performing the task of interest, and use that model to stochastically generate system utterances. We have applied this technique to sentence realization and content planning, and have incorporated the resulting generation component into a working natural dialogue system (see Figure 1). In this paper, we describe the technique and report the results of two evaluations.</Paragraph>
+<Paragraph position="6"> We used two corpora in the travel reservations domain to build n-gram language models. One corpus (henceforth, the CMU corpus) consists of 39 dialogues between a travel agent and clients (Eskenazi, et al. 1999).</Paragraph>
+<Paragraph position="7">  Another corpus (henceforth, the SRI corpus) consists of 68 dialogues between a travel agent and users in the SRI community (Kowtko and Price 1989).</Paragraph>
+<Paragraph position="8"> The utterances in the two corpora were tagged with utterance classes and word classes (see Figure 2 and Figure 3). The CMU corpus was manually tagged, and back-off trigram models built (using Clarkson and Rosenfeld, 1997). These language models were used to automatically tag the SRI corpus; the tags were manually checked.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N03-2001">
+<Title>Ronan.Reilly@may.ie</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a novel system for automatically marking up text documents into XML and discuss the benefits of XML markup for intelligent information retrieval. The system uses the Self-Organizing Map (SOM) algorithm to arrange XML marked-up documents on a two-dimensional map so that similar documents appear closer to each other. It then employs an inductive learning algorithm C5 to automatically extract and apply markup rules from the nearest SOM neighbours of an unmarked document. The system is designed to be adaptive, so that once a document is marked-up; its behaviour is modified to improve accuracy.</Paragraph>
+<Paragraph position="1"> The automatically marked-up documents are again categorized on the Self-Organizing Map.</Paragraph>
+</Section>
+</Paper>
+

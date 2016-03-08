@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A92-1030">
+<Title>XTAG - A Graphical Workbench for Developing Tree-Adjoining Grammars*</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe a workbench (XTAG) for the development of tree-adjoining grammars and their parsers, and discuss some issues that arise in the design of the graphical interface.</Paragraph>
+<Paragraph position="1"> Contrary to string rewriting grammars generating trees, the elementary objects manipulated by a tree-adjoining grammar are extended trees (i.e. trees of depth one or more) which capture syntactic information of lexical items. The unique characteristics of tree-adjoining grammars, its elementary objects found in the ~ lexicon (extended trees) and the derivational history of derived trees (also a tree), require a specially crafted interface in which the perspective has Shifted from a string-based to a tree-based system. XTAG provides such a graphical interface in which the elementary objects are trees (or tree sets) and not symbols (or strings).</Paragraph>
+<Paragraph position="2"> The kernel of XTA G is a predictive left to right parser for unification-based tree-adjoining grammar \[Schabes, 1991\]. XTAG includes a graphical editor for trees, a graphical tree printer, utilities for manipulating and displaying feature structures for unification-based tree-adjoining grammar, facilities for keeping track of the derivational history of TAG trees combined with adjoining and substitution, a parser for unification based tree-adjoining grammars, utilities for defining grammars and lexicons for tree-adjoining grammars, a morphological recognizer for English (75 000 stems deriving 280 000 inflected forms) and a tree-adjoining grammar for English that covers a large range of linguistic phenomena.</Paragraph>
+<Paragraph position="3"> Considerations of portability, efficiency, homogeneity and ease of maintenance, lead us to the use of Common Lisp without its object language addition and to the use of the X Window interface to Common Lisp (CLX) for the implementation of XTAG.</Paragraph>
+<Paragraph position="4"> XTA G without the large morphological and syntactic lexicons is public domain software. The large morphological and syntactic lexicons can be obtained through an agreement with ACL's Data Collection Initiative.</Paragraph>
+<Paragraph position="5"> *This work was partially supported by NSF grants DCR84-10413, ARO Grant DAAL03-87-0031, and DARPA Grant N0014-85-K0018.</Paragraph>
+<Paragraph position="6"> **Visiting from the L aboratoire Informatique Th~orique et</Paragraph>
+</Section>
+</Paper>
+

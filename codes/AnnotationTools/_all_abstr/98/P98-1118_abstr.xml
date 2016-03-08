@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-1118">
+<Title>A Framework for Customizable Generation of Hypertext Presentations</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we present a framework, PRE-SENTOR, for the development and customization of hypertext presentation generators. PRESENTOR offers intuitive and powerful declarative languages specifying the presentation at different levels: macro-planning, micro-planning , realization, and formatting. PRESENTOR is implemented and is portable cross-platform and cross-domain. It has been used with success in several application domains including weather forecasting, object modeling, system description and requirements summarization.</Paragraph>
+</Section>
+</Paper>
+

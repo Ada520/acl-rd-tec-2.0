@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W01-1200">
+<Title>OPEN DOMAIN QUESTION ANSWERING INVITED SPEAKER:</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+OPEN DOMAIN QUESTION ANSWERING
+INVITED SPEAKER:
+</SectionTitle>
+<Paragraph position="0"> and academic research. When users have specific questions, such as &amp;quot;What countries did Clinton visit in 1999?&amp;quot; or &amp;quot;How much does a ThinkPad cost?&amp;quot;, they would like to see one (or a few) succinct answer(s). This workshop focuses on technical issues that directly apply to this challenge, and, in particular, on theoretical and pragmatic issues involved in the creation, evaluation and implementation of QA techniques. We concentrate on QA that is automatic and either domain independent or working within a large open domain, such as news or technical support.</Paragraph>
+<Paragraph position="1"> To accommodate this need for automatically finding answers to open-domain questions, several different fields of research come together - information retrieval, natural-language processing and knowledge representation. This workshop provides a forum for discussions of QA as the combination and integration of techniques from these three fields. The papers in this volume discuss QA topics such as question analysis and answer selection; logical formalisms for representing QA semantics; new sources of knowledge, such as the Web; and tools for evaluating the results of QA.</Paragraph>
+<Paragraph position="2"> The invited talk, represented here by its abstract, examines future directions in this field.</Paragraph>
+</Section>
+</Paper>
+

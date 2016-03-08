@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1153">
+<Title>Learning Greek Verb Complements: Addressing the Class Imbalance</Title>
+<Section position="1" start_page="0" end_page="1" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Imbalanced training sets, where one class is heavily underrepresented compared to the others, have a bad effect on the classification of rare class instances. We apply One-sided Sampling for the first time to a lexical acquisition task (learning verb complements from Modern Greek corpora) to remove redundant and misleading training examples of verb non-dependents and thereby balance our training set. We experiment with well-known learning algorithms to classify new examples. Performance improves up to 22% in recall and 15% in precision after balancing the dataset  .</Paragraph>
+</Section>
+</Paper>
+

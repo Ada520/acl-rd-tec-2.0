@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H89-1042">
+<Title>SRI's DECIPHER System</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> SRI has developed a speaker-independent continuous speech, large vocabulary speech recognition system, DECIPHER, that provides state-of-the-art performance on the DARPA standard speaker-independent resource management training and testing materials. SRI's approach is to integrate speech and linguistic knowledge into the HMM framework.</Paragraph>
+<Paragraph position="1"> This paper describes performance improvements arising from detailed phonological modeling and from the incorporation of cross-word coarticulatory constraints.</Paragraph>
+</Section>
+</Paper>
+

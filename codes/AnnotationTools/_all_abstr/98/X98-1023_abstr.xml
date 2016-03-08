@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="X98-1023">
+<Title>Improving Robust Domain Independent Summarization</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We discuss those techniques which, in the opinion of the authors, are needed to support robust automatic summarization. Many of these methods are already incorporated in a multi-lingual summarization system, MINDS, developed at CRL. The approach is sentence selection, but includes techniques to improve coherence and also to perform sentence reduction. Our methods are in distinct contrast to those approaches to summarization by deep analysis of a document followed by text generation. null</Paragraph>
+</Section>
+</Paper>
+

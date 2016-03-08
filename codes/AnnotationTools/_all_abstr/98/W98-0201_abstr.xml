@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-0201">
+<Title>The Pausanian Notation: a method for representing the structure and the content of a hyperdocument</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> This paper introduces a new approach for improving hypermedia design, by providing the author with a tool to visualise, examine, and analyse the structure of documents containing hypermedia links. Our proposal is a new representation method the purpose of which is not to show the document structure in graphical form in order to enable the users to know where they are, where they can go next, or to give an overview of their environlncnt \[12\]. The purpose of our representation method is to depict what options the users are about to be offered, so that the author can examine the structure in order to better guide theln around the information space. Our representation is shown in the tbl'm of a map consisting of a proposed classification of elements that define the composition of a hyperdocument. To extract and classify those attributes we have analysed in detail all three dimensions of the hypermcdia cube: internal dynamics, external visual appearance and content synthesis.</Paragraph>
+<Paragraph position="1"> After introducing our diagrammatic notation we give a brief example of how it could be applied to an existing hyperlnedia application. In the boundaries of this paper, we include the part of the method which represents the structure of just one hypermedia document and its linked branches. The paper concludes with. a brief description of how the lnethod is applied to represent groups of hyperlnedia documents, and a discussion of our plans for future work.</Paragraph>
+<Paragraph position="2"> KEYWORDS: Hypermedia design, authoring tools, representation methods, hyperlnedia maps. navigation, hypermedia writing.</Paragraph>
+</Section>
+</Paper>
+

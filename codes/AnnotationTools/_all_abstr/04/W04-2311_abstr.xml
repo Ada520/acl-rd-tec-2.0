@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-2311">
+<Title>The Importance of Discourse Context for Statistical Natural Language Generation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Surface realization in statistical natural language generation is based on the idea that when there are many ways to say the same thing, the most frequent option based on corpus counts is the best. Based on data from English and Finnish, we argue instead that all options are not equivalent, and the most frequent one can be incoherent in some contexts. A statistical NLG system where word order choice is based only on frequency counts of forms cannot capture the contextually-appropriate use of word order. We describe an alternative method for word order selection and show how it outperforms a frequency-only approach.</Paragraph>
+</Section>
+</Paper>
+

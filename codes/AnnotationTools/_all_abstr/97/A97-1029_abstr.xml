@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A97-1029">
+<Title>Nymble: a High-Performance Learning Name-finder</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a statistical, learned approach to finding names and other non-recursive entities in text (as per the MUC-6 definition of the NE task), using a variant of the standard hidden Markov model. We present our justification for the problem and our approach, a detailed discussion of the model itself and finally the successful results of this new approach.</Paragraph>
+</Section>
+</Paper>
+

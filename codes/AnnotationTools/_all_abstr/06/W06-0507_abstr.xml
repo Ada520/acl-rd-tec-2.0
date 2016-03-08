@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-0507">
+<Title>Sydney, July 2006. c(c)2006 Association for Computational Linguistics Towards Large-scale Non-taxonomic Relation Extraction: Estimating the Precision of Rote Extractors[?]</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we describe a rote extractor that learns patterns for finding semantic relations in unrestricted text, with new procedures for pattern generalisation and scoring. An improved method for estimating the precision of the extracted patterns is presented. We show that our method approximates the precision values as evaluated by hand much better than the procedure traditionally used in rote extractors.</Paragraph>
+</Section>
+</Paper>
+

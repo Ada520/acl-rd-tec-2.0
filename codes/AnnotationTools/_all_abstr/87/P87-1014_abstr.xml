@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P87-1014">
+<Title>Functional Unification Grammar Revisited</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we show that one benefit of FUG, the ability to state global conslralnts on choice separately from syntactic rules, is difficult in generation systems based on augmented context free grammars (e.g., Def'mite Clause Cn'anmm~). They require that such constraints be expressed locally as part of syntactic rules and therefore, duplicated in the grammar. Finally, we discuss a reimplementation of lUg that achieves the similar levels of efficiency as Rubinoff's adaptation of MUMBLE, a detcrministc language generator.</Paragraph>
+</Section>
+</Paper>
+

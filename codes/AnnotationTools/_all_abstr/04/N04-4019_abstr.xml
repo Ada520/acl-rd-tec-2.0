@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N04-4019">
+<Title>Speech Graffiti vs. Natural Language: Assessing the User Experience</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Speech-based interfaces have great potential but are hampered by problems related to spoken language such as variability, noise and ambiguity. Speech Graffiti was designed to address these issues via a structured, universal interface protocol for interacting with simple machines. Since Speech Graffiti requires that users speak to the system in a certain way, we were interested in how users might respond to such a system when compared with a natural language system. We conducted a user study and found that 74% of users preferred the Speech Graffiti system to a natural language interface in the same domain. User satisfaction scores were higher for Speech Graffiti and task completion rates were roughly equal.</Paragraph>
+</Section>
+</Paper>
+

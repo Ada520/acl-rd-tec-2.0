@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C86-1142">
+<Title>The procedure to construct a word predictor in a speech understanding system from a task-specific grammar defined ill a CFG or a DCG</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a method for converting a task-dependent grammar into a word predictor of a speech understanding system, Since tile word prediction is a top-down operation, left recursive rules induces an infinite looping. We have solved this problem by applying an algorithm for bottom-up parsing,</Paragraph>
+</Section>
+</Paper>
+

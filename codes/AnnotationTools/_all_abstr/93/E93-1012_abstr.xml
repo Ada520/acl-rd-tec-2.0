@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E93-1012">
+<Title>Morphonology in the Lexicon</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we present a means of defining morphonological phenomena in an inheritance based lexicon. We make use of the theory behind the formal language MOLUSC, in which morphological alternations were defined as mappings between sequences of tree-structured syllables. We discuss how the alternations can be defined in the inheritance-based lexical representation language DATR, and how the phonological aspects can be built upon to bring it closer to an integrated lexicon with representations which can be used by both the morphology and phonology of a language.</Paragraph>
+</Section>
+</Paper>
+

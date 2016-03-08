@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-0125">
+<Title>on a context-dependent Mutual Information Independence Model</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper briefly describes our system in the third SIGHAN bakeoff on Chinese word segmentation and named entity recognition.</Paragraph>
+<Paragraph position="1"> This is done via a word chunking strategy using a context-dependent Mutual Information Independence Model.</Paragraph>
+<Paragraph position="2"> Evaluation shows that our system performs well on all the word segmentation closed tracks and achieves very good scalability across different corpora. It also shows that the use of the same strategy in named entity recognition shows promising performance given the fact that we only spend less than three days in total on extending the system in word segmentation to incorporate named entity recognition, including training and formal testing.</Paragraph>
+</Section>
+</Paper>
+

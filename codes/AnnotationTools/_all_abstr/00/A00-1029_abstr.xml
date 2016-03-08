@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A00-1029">
+<Title>A Tool for Automated Revision of Grammars for NLP Systems</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present an algorithm and a tool for automatically revising grammars for natural language processing (NLP) systems to disallow specifically identified sentences or sets of sentences. We also outline an approach for automatically revising attribute value grammars using counter-examples.</Paragraph>
+<Paragraph position="1"> Developing grammars for NLP systems that are both general enough to accept most sentences about a domain, but constrained enough to disallow other sentences is very tedious. Our approach of revising grammars automatically using counter-examples greatly simplifies the development and revision of tightly constrained grammars.</Paragraph>
+<Paragraph position="2"> We have successfully used our tool to constrain over-generalizing grammars of speech understanding systems and obtained higher recognition accuracy.</Paragraph>
+</Section>
+</Paper>
+

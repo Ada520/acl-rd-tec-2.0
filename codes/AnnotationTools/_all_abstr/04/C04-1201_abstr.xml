@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1201">
+<Title>A Language Independent Method for Question Classification</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Previous works on question classification are based on complex natural language processing techniques: named entity extractors, parsers, chunkers, etc. While these approaches have proven to be effective they have the disadvantage of being targeted to a particular language. We present here a simple approach that exploits lexical features and the Internet to train a classifier, namely a Support Vector Machine. The main feature of this method is that it can be applied to different languages without requiring major modifications. Experimental results of this method on English, Italian and Spanish show that this approach can be a practical tool for question answering systems, reaching a classification accuracy as high as 88.92%.</Paragraph>
+</Section>
+</Paper>
+

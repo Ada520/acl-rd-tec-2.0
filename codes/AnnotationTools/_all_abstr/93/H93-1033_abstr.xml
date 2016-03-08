@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H93-1033">
+<Title>Generic Plan Recognition for Dialogue Systems</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> We describe a general framework for encoding rich domain models and sophisticated plan reasoning capabilities. The approach uses graph-basedreasoning to address a wide range of tasks that typically arise in dialogue systems. The graphical plan representation is independent of but connected to the underlying representation of action and time. We describe types of plan recognition that are needed, illustrating these with examples from dialogues collected as part of the TRAINS project. The algorithms for the tasks are presented, and issues in the formalization of the reasoning processes are discussed.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P93-1015">
+<Title>Parsing Free Word Order Languages in the Paninian Framework</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> There is a need to develop a suitable computational grammar formalism for free word order languages for two reasons: First, a suitably designed formalism is likely to be more efficient. Second, such a formalism is also likely to be linguistically more elegant and satisfying. In this paper, we describe such a formalism, called the Paninian framework, that has been successfully applied to Indian languages.</Paragraph>
+<Paragraph position="1"> This paper shows that the Paninian framework applied to modern Indian languages gives an elegant account of the relation between surface form (vibhakti) and semantic (karaka) roles. The mapping is elegant and compact. The same basic account also explains active-passives and complex sentences.</Paragraph>
+<Paragraph position="2"> This suggests that the solution is not just adhoc but has a deeper underlying unity.</Paragraph>
+<Paragraph position="3"> A constraint based parser is described for the framework. The constraints problem reduces to bipartite graph matching problem because of the nature of constraints. Efficient solutions are known for these problems.</Paragraph>
+<Paragraph position="4"> It is interesting to observe that such a parser (designed for free word order languages) compares well in asymptotic time complexity with the parser for context free grammars (CFGs) which are basically designed for positional languages.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-2179">
+<Title>The implementation of a computational grammar of French using the Grammar Development Environment</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The design and implementation of a large-coverage computational grammar of French is described. This grammar is compared to a comprehensive computational grammar of English which was implemented using the same computer workbench. Although many similarities may be observed in the two grammars, there are important structural dif ferences which can be traced back to features specific to the F~'ench language, notably agreement and cliticization.</Paragraph>
+</Section>
+</Paper>
+

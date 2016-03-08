@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C88-2084">
+<Title>Lexical Transfer: Between a Source Rock and a Hard Target</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+USA
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Lexical transfer is the point of transition between an unchangeable source text (a rook) and an infinite array of target texts (a hard place to find an acceptable one). The author's Coling86 paper (pp. 104-106) described a new methodology for testing lexical transfer in machine translation. This paper reports on the application of that methodology to a test of the DLT system and describes a synchronized bilingual data base by-product. Further use of the methodology is encouraged.</Paragraph>
+<Paragraph position="1"> Topic: Evaluation of machine translation Additional Topic: Text data bases I. DEFINITION OF LEXICAL TRANSFER Although the term lexical transfer applies most directly to machine translation systems based on a linguistic model of analysis, transfer, and generation, it can also be applied to systems in which there is no direct correspondance between source and target words (f~uch as interlingual systems) by defining lexieal transfer as the point in processing where the target lexical forms first appear. It is the crucial point aL which all the information available in the system must be brought to bear on the problem of choosing lexical forms. The ehoiees must be appropriate, or all the sophistication of the system in other areas such as word order and discourse markers will be of no avail in producing acceptable output.</Paragraph>
+<Paragraph position="2"> Lexical transfer must be based on the source text, which is generally a given. That is, one cannot come back during the evaluation of the output and suggest that the source text be changed to better match the target text. Thus the source text can be compared to a reck or to a text carved in stone. The target text, on the other' hand, is supposedly somewhere in an infinite collection of texts composed of members of an infinite set of sentences generated from a large finite set of lexical items. Even if one could list in advance all the possible translations for each word, which one cannot, the task is daunting. Thus the space of all target language texts is a hard place in which to find an appropriate one. For those readers not familiar with the saying &amp;quot;between a rock and a hard place&amp;quot; on which the title of this paper is based, I mention that it refers to a difficult situation in which all apparent options present problems. Of course, the title twists the saying in several ways. Its purpose is both to emphasize the difficulty of lexica\] transfer and to illustrate it. The illustration is this: Please translate the title into some other language, basing it on an equivalent target language saying adjusted to describe lexical transfer. It is novel situations that make \]exica\] transfer truly difficult to program for.</Paragraph>
+</Section>
+</Paper>
+

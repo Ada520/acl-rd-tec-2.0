@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N04-4002">
+<Title>MMR-based feature selection for text categorization</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We introduce a new method of feature selection for text categorization. Our MMR-based feature selection method strives to reduce redundancy between features while maintaining information gain in selecting appropriate features for text categorization. Empirical results show that MMR-based feature selection is more effective than Koller &amp; Sahami's method, which is one of greedy feature selection methods, and conventional information gain which is commonly used in feature selection for text categorization. Moreover, MMR-based feature selection sometimes produces some improvements of conventional machine learning algorithms over SVM which is known to give the best classification accuracy.</Paragraph>
+</Section>
+</Paper>
+

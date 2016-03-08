@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-2117">
+<Title>Honorific Forms of Compound Verbals in Korean.&amp;quot;</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a way to compute relative social status of the individuals involved in Korean dialogue. Every Korean sentence indicates whether honorification occurs in it.</Paragraph>
+<Paragraph position="1"> The occurrence of honorification in a sentence is constrained by relative social status of the individuals involved in the sentence.</Paragraph>
+<Paragraph position="2"> By using the intbrmation about social status and the information about sentence-external individuals such as speaker and addressee, we can explain why a sentence is felicitous in a restricted context and whether a dialogue is coherent or not. Since it is possible and easy to include such contextual intormation in the IfPSG formalism, that formalism is adopted here. The implementation of Korean dialogue processing and the computation of social status is made based on ALE system.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-0712">
+<Title>I I I I I I I I I I I I I I I Augmenting WordNet-like lexical resources with distributional evidence. An application-oriented perspective&amp;quot;</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The paper deals with the issue of how and to what extent WordNet-like resources provide the necessary information for an assessment of semantic similarity which is useful for practical applications. The general point is made that taxonomical information should be complemented with distributional evidence. The claim is substantiated through experimental a~t8 and an illustration of a word sense disambiguation system (SENSE) capable of using contextually-relevant semantic similarity.</Paragraph>
+</Section>
+</Paper>
+

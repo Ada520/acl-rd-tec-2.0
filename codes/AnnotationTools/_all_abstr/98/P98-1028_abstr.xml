@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-1028">
+<Title>Beyond N-Grams: Can Linguistic Sophistication Improve Language Modeling?</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> It seems obvious that a successful model of natural language would incorporate a great deal of both linguistic and world knowledge.</Paragraph>
+<Paragraph position="1"> Interestingly, state of the art language models for speech recognition are based on a very crude linguistic model, namely conditioning the probability of a word on a small fixed number of preceding words.</Paragraph>
+<Paragraph position="2"> Despite many attempts to incorporate more sophisticated information into the models, the n-gram model remains the state of the art, used in virtually all speech recognition systems. In this paper we address the question of whether there is hope in improving language modeling by incorporating more sophisticated linguistic and world knowledge, or whether the n-grams are already capturing the majority of the information that can be employed.</Paragraph>
+<Paragraph position="3"> Introduction N-gram language models are very crude linguistic models that attempt to capture the constraints of language by simply conditioning the probability of a word on a small fixed number of predecessors. It is rather frustrating to language engineers that the n-gram model is the workhorse of virtually every speech recognition system. Over the years, there have been many attempts to improve language models by utilizing linguistic information, but these methods have not been able to achieve significant improvements over the n-gram.</Paragraph>
+<Paragraph position="4"> The insufficiency of Markov models has been known for many years (see Chomsky (1956)). It is easy to construct examples where a trigram model fails and a more sophisticated model could succeed. For instance, in the sentence : The dog on the hill barked, the word barked would be assigned a low probability by a trigram model. However, a linguistic model could determine that dog is the head of the noun phrase preceding barked and therefore assign barked a high probability, since P(barkedldog) is high.</Paragraph>
+<Paragraph position="5"> Using different sources of rich linguistic information will help speech recognition if the phenomena they capture are prevalent and they involve instances where the recognizer makes errors. ~ In this paper we first give a brief overview of some recent attempts at incorporating linguistic information into language models. Then we discuss experiments which give some insight into what aspects of language hold most promise for improving the accuracy of speech recognizers.</Paragraph>
+</Section>
+</Paper>
+

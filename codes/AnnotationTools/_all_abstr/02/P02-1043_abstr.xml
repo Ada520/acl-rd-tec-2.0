@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P02-1043">
+<Title>Generative Models for Statistical Parsing with Combinatory Categorial Grammar</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper compares a number of generative probability models for a wide-coverage Combinatory Categorial Grammar (CCG) parser. These models are trained and tested on a corpus obtained by translating the Penn Treebank trees into CCG normal-form derivations. According to an evaluation of unlabeled word-word dependencies, our best model achieves a performance of 89.9%, comparable to the figures given by Collins (1999) for a linguistically less expressive grammar. In contrast to Gildea (2001), we find a significant improvement from modeling word-word dependencies.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-1083">
+<Title>Taking Account of the User's View in 3D Multimodal Instruction Dialogue</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> While recent advancements in virtual reality technology have created a rich communication interface linking humans and computers, there has beefl little work on building dialogue systems for 3D virtual worlds. This paper proposes a method for altering the instruction dialogue to match the user's view in a virtual enviromnent. -\~re illustrate the method with the system MID-aD, which interactively instructs the user on dismantling some parts of a car. First, in order to change the content of ~he instruction dialogue to match the user's view, we extend the refinement-driven plmming algorithm by using the user's view as a l)lan constraint. Second, to manage the dialogue smoothly, the systeln keeps track of the user's viewpoint as part of the dialogue skate and uses this information for coping with interruptive sul)dialogues.</Paragraph>
+<Paragraph position="1"> These mechanisms enable MID-3D to set instruction dialogues in an incremental way; it takes account of the user's view even when it changes frequently.</Paragraph>
+</Section>
+</Paper>
+

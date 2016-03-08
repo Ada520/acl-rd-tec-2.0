@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W94-0311">
+<Title>Semantic Lexicons: the Cornerstone for Lexical Choice in Natural Language Generation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we address the issue of integrating semantic lexicons into NLG systems and argue that the problem of lexical choice in generation can be approached only by such an integration. We take the approach of Generative Lexicon Theory (GLT) (Pnstejovsky, 1991, 1994c) which provides a system involving four levels of representation connected by a set of generative devices accounting for a compositional interpretation of words in context. We are interested in showing that we can reduce the set of collocations listed in the lexicon by introducing the notion of &amp;quot;semantic collofations&amp;quot; which can be predicted within GLT framework. We argue that the lack of semantic well-defined calculi in previous approaches, whether linguistic or conceptual, renders them unable to account for semantic collocations.</Paragraph>
+</Section>
+</Paper>
+

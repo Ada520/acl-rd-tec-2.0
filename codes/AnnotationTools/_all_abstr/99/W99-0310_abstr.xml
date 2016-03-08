@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W99-0310">
+<Title>A recognition-based meta-scheme for dialogue acts annotation</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The paper describes a new formal framework for comparison, design and standardization of annotation schemes for dialogue acts. The framework takes a recognition-based approach to dialogue tagging and defines four independent taxonomies of tags, one for each orthogonal dimension of linguistic and contextual analysis assumed to have a bearing on identification of illocutionary acts. The advantages and limitations of this proposal over other previous attempts are discussed and concretely exemplified.</Paragraph>
+</Section>
+</Paper>
+

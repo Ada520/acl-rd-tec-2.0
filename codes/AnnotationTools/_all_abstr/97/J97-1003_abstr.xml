@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J97-1003">
+<Title>TextTiling: Segmenting Text into Multi-paragraph Subtopic Passages</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> Most work in discourse processing, both theoretical and computational, has focused on analysis of interclausal or intersentential phenomena. This level of analysis is important for many discourse-processing tasks, such as anaphor resolution and dialogue generation. However, important and interesting discourse phenomena also occur at the level of the paragraph. This article describes a paragraph-level model of discourse structure based on the notion of subtopic shift, and an algorithm for subdividing expository texts into multi-paragraph &amp;quot;passages&amp;quot; or subtopic segments.</Paragraph>
+<Paragraph position="1"> In this work, the structure of an expository text is characterized as a sequence of subtopical discussions that occur in the context of one or more main topic discussions.</Paragraph>
+<Paragraph position="2"> Consider a 21-paragraph science news article, called Stargazers, whose main topic is the existence of life on earth and other planets. Its contents can be described as consisting of the following subtopic discussions (numbers indicate paragraphs):</Paragraph>
+</Section>
+</Paper>
+

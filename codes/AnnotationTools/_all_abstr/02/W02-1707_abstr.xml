@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-1707">
+<Title>Towards a web-based centre on Swedish Language Technology</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present an upcoming web-based centre for information and documentation on language technology (LT) in Sweden and/or in Swedish.</Paragraph>
+<Paragraph position="1"> Some ways to collect and represent data using data harvesting and XML are suggested. Users providing data may choose one of four input modes, two of which will allow the user to edit existing documents at her own site. Thus we hope to facilitate data entry and inter-site communication, and reduce the amount of stale data. The entry modes use annotated HTML and an emerging XML-application, respectively.</Paragraph>
+<Paragraph position="2"> In conclusion, we propose that an XML-application in the field of LT would facilitate for the LT community to share information, and that automatic data harvesting will emerge as an important technique for building information centres in the future.</Paragraph>
+<Paragraph position="3"> Introduction The website Slate is an information centre on language technology (LT) developed in Sweden and/or for the Swedish language. It is the technical/academic part of a collaborative effort between the National Graduate School of Language Technology in Sweden (GSLT) and Svenska spraknamnden (the official organization for matters concerning the Swedish language).</Paragraph>
+<Paragraph position="4"> Spraknamnden will provide the second part, containing popular information. Some material for the popular part will be taken over from the project Svenska.se at the Swedish Institute for Computer Science, SICS. The two parts will as far as possible have the same structure and cross-reference each other. We will inform on the following matters, in both areas:  * Research projects.</Paragraph>
+<Paragraph position="5"> * Industrial projects.</Paragraph>
+<Paragraph position="6"> * Educational programmes.</Paragraph>
+<Paragraph position="7"> * Software.</Paragraph>
+<Paragraph position="8"> * LT developed in Sweden for other languages than Swedish.</Paragraph>
+<Paragraph position="9"> * Swedish organizations and individuals  who have an interest in LT.</Paragraph>
+<Paragraph position="10"> * Employment oppurtunities in the area of LT.</Paragraph>
+<Paragraph position="11"> Information will be provided in both English and Swedish, depending on whether translated documents exist.</Paragraph>
+<Paragraph position="12"> We cooperate via NorDokNet with centra in Denmark, Finland, Iceland and Norway. We also have contact with COLLATE at DFKI and follow their way of organizing information on LT in LT-World. Several more Language Technologists and LT-projects will contribute with information, notably the Ph. D. students in GSLT who have agreed to participate in software tests.</Paragraph>
+</Section>
+</Paper>
+

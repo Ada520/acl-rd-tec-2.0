@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-1211">
+<Title>Statistics Based Hybrid Approach to Chinese Base Phrase Identification</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> This paper extends the base noun phrase(BNP) identification into a research on Chinese base phrase identification. ARer briefly introducing some basic concepts on Chinese base phrase, this paper presents a statistics based hybrid model for identifying 7 types of Chinese base phrases in view.</Paragraph>
+<Paragraph position="1"> Experiments show the efficiency of the proposed method in simplifying sentence structure. Significance of the research hes in it provides a solid foundation for the Chinese parser.</Paragraph>
+<Paragraph position="2"> Keywords: Chinese base phrase identification, parsing, statistical model</Paragraph>
+</Section>
+</Paper>
+

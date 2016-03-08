@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1074">
+<Title>Optimizing Algorithms for Pronoun Resolution</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The paper aims at a deeper understanding of several well-known algorithms and proposes ways to optimize them. It describes and discusses factors and strategies of factor interaction used in the algorithms. The factors used in the algorithms and the algorithms themselves are evaluated on a German corpus annotated with syntactic and coreference information (Negra) (Skut et al., 1997). A common format for pronoun resolution algorithms with several open parameters is proposed, and the parameter settings optimal on the evaluation data are given.</Paragraph>
+</Section>
+</Paper>
+

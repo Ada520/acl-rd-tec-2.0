@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-0506">
+<Title>A Study for Documents Summarization based on Personal Annotation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> For one document, current summarization systems produce a uniform version of summary for all users. Personalized summarizations are necessary in order to represent users' preferences and interests. Annotation is getting important for document sharing and collaborative filtering, which in fact record users' dynamic behaviors compared to traditional steady profiles. In this paper we introduce a new summarization system based on users' annotations. Annotations and their contexts are extracted to represent features of sentences, which are given different weights for representation of the document. Our system produces two versions of summaries for each document: generic summary without considering annotations and annotation-based summary. Since annotation is a kind of personal data, annotation-based summary is tailored to user's interests to some extent. We show by experiments that annotations can help a lot in improving summarization performance compared to no annotation consideration. At the same time, we make an extensive study on users' annotating behaviors and annotations distribution, and propose a variety of techniques to evaluate the relationships between annotations and summaries, such as how the number of annotations affects the summarizing performance. A study about collaborative filteringisalsomadetoevaluatethe null summarization based on annotations of similar users.</Paragraph>
+</Section>
+</Paper>
+

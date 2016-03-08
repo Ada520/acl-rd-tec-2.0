@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N04-3002">
+<Title>ITSPOKE: An Intelligent Tutoring Spoken Dialogue System</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> ITSPOKE is a spoken dialogue system that uses the Why2-Atlas text-based tutoring system as its back-end . A student rst types a natural language answer to a qualitative physics problem. ITSPOKE then engages the student in a spoken dialogue to provide feedback and correct misconceptions, and to elicit more complete explanations. We are using ITSPOKE to generate an empirically-based understanding of the rami cations of adding spoken language capabilities to text-based dialogue tutors.</Paragraph>
+</Section>
+</Paper>
+

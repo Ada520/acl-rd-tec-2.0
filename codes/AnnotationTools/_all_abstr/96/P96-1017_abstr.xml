@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P96-1017">
+<Title>Coordination as a Direct Process</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We propose a treatment of coordination based on the concepts of functor, argument and subcategorization. Its formalization comprises two parts which are conceptually independent. On one hand, we have extended the feature structure unification to disjunctive and set values in order to check the compatibility and the satisfiability of subcategorization requirements by structured complements. On the other hand, we have considered the conjunction e$ (and) as the head of the coordinate structure, so that coordinate structures stem simply from the subcategorization specifications of et and the general schemata of a head saturation. Both parts have been encoded within HPSG using the same resource that is the subcategorization and its principle which we have just extended.</Paragraph>
+<Paragraph position="1">  (1) Jean danse la vMse et le tango (Jean dances the waltz and the tango.) (2) Je sais son gge et qu'elle est venue ici. (I know her age and that she came here.) (3) Un livre int4ressant et que j'aurai du plaisir &amp; lire.</Paragraph>
+<Paragraph position="2"> (An interesting book and which I will enjoy to read.) (4) Je demande &amp; Pierre son v61o et &amp; Marie sa canne &amp; p~che.</Paragraph>
+<Paragraph position="3"> (I ask Peter for his bike and Mary for her fishing rod.) (5) Pierre vend un v61o et donne une canne k p~che g Marie.</Paragraph>
+<Paragraph position="4">  (Peter sells a bike and gives a fishing rod to Mary.) We claim here that the &amp;quot;local combinatory potential&amp;quot; of lexical heads, encoded in the subcategorization feature, explains the previous linguistic facts: conjuncts may be of different categories as well as of more than one constituent, they just have to satisfy the subcategorization constraints.</Paragraph>
+</Section>
+</Paper>
+

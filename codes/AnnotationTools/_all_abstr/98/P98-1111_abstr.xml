@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-1111">
+<Title>Unlimited Vocabulary Grapheme to Phoneme Conversion for Korean TTS</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a grapheme-to-phoneme conversion method using phoneme connectivity and CCV conversion rules. The method consists of mainly four modules including morpheme normalization, phrase-break detection, morpheme to phoneme conversion and phoneme connectivity check.</Paragraph>
+<Paragraph position="1"> The morpheme normalization is to replace non-Korean symbols into standard Korean graphemes. The phrase-break detector assigns phrase breaks using part-of-speech (POS) information. In the morpheme-to-phoneme conversion module, each morpheme in the phrase is converted into phonetic patterns by looking up the morpheme phonetic pattern dictionary which contains candidate phonological changes in boundaries of the morphemes. Graphemes within a morpheme are grouped into CCV patterns and converted into phonemes by the CCV conversion rules.</Paragraph>
+<Paragraph position="2"> The phoneme connectivity table supports grammaticality checking of the adjacent two phonetic morphemes.</Paragraph>
+<Paragraph position="3"> In the experiments with a corpus of 4,973 sentences, we achieved 99.9% of the grapheme-to-phoneme conversion performance and 97.5% of the sentence conversion performance. The full Korean TTS system is now being implemented using this conversion method.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P04-1057">
+<Title>Error Mining for Wide-Coverage Grammar Engineering</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Parsing systems which rely on hand-coded linguistic descriptions can only perform adequately in as far as these descriptions are correct and complete.</Paragraph>
+<Paragraph position="1"> The paper describes an error mining technique to discover problems in hand-coded linguistic descriptions for parsing such as grammars and lexicons. By analysing parse results for very large unannotated corpora, the technique discovers missing, incorrect or incomplete linguistic descriptions.</Paragraph>
+<Paragraph position="2"> The technique uses the frequency of n-grams of words for arbitrary values of n. It is shown how a new combination of suffix arrays and perfect hash finite automata allows an efficient implementation.</Paragraph>
+</Section>
+</Paper>
+

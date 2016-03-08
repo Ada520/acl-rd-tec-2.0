@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="I05-2035">
+<Title>Rapid Prototyping of Scalable Grammars: Towards Modularity in Extensions to a Language-Independent Core</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a new way to simplify the construction of precise broad-coverage grammars, employing typologicallymotivated, customizable extensions to a language-independent core grammar.</Paragraph>
+<Paragraph position="1"> Each 'module' represents a salient dimension of cross-linguistic variation, and presents the grammar developer with simple choices that result in automatically generated language-specific software. We illustrate the approach for several phenomena and explore the interdependence of the modules.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,34 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W99-0406">
+<Title>Dual Use of Linguistic Resources: Evaluation of MT Systems and Language Learners</Title>
+<Section position="2" start_page="0" end_page="33" type="abstr">
+<SectionTitle>
+1. Identifying Linguistic Issues for
+Evaluation
+</SectionTitle>
+<Paragraph position="0"> English and French are known to &amp;quot;diverge&amp;quot; 4 in their expression of spatial relations: that is, given a spatial expression in one of these languages, the process of translating it will fail if a simple word-for-word replacement strategy is used, whether translated by an MT system or by language learners.</Paragraph>
+<Section position="1" start_page="0" end_page="32" type="sub_section">
+<SectionTitle>
+1.1 Directional Particles &amp; Prepositions
+</SectionTitle>
+<Paragraph position="0"> Klipple (1992) documents a divergence between English and French in the semantics of direction. In English, directional particles, such as up and down, may appear following a verb of motion, giving the verb's event a directed motion reading. In French, however, there are no equivalent lexical items corresponding to these English directional particles. Instead, the semantics of direction is expressed elsewhere. Klipple also observes more generally, following Talmy (1983), that  directions are typically incorporated within the French motion verb. Example 1 below shows one such case, where the English verb-plus-preposition went up translates into the French verb est montd without a preposition.</Paragraph>
+<Paragraph position="1">  1. E: 5 The child went up the stairs.</Paragraph>
+<Paragraph position="2"> F: L'enfant est mont6 l'escalier.</Paragraph>
+<Paragraph position="3"> g: The child ascended the stairs.</Paragraph>
+</Section>
+<Section position="2" start_page="32" end_page="33" type="sub_section">
+<SectionTitle>
+1.2 Loeational Prepositions
+</SectionTitle>
+<Paragraph position="0"> English and French also diverge in their expression of spatial relations with respect to a second group of prepositions. As noted by Jackendoff (1983), English locational (or Place-type) prepositions may be ambiguous because they may also have a directional (or Path-type) reading. 6 For example, sentence 2 below, is ambiguous in English. In the 2a reading, the bottle moves along a path as it floats, starting away from the bridge and ending up under the bridge. In the 2b reading, the bottle remains under the bridge as it floats: no path is specified, only the general location where the floating took place. In French, however, the equivalent preposition typically has only the 2b locational reading, not the 2a directional reading.</Paragraph>
+<Paragraph position="1">  2. E: The bottle floated under the bridge. 2a. p: the bottle floated to a place under the bridge. 2b. p: the bottle floated while under the bridge.  F: La bouteille a flott6 sous le pont. (sense 2b) g: The bottle floated under the bridge.</Paragraph>
+<Paragraph position="2"> We selected the domain of spatial expressions for evaluation in part because, as example 3 shows, the ambiguity of English spatial prepositions may significantly interfere with the task of accurate message understanding--whether by MT systems or second language learners. As Taylor and White (1998) point out, in a real-world, task-based evaluation of MT systems or language learners, the measure of interest is the correct and incorrect consequences of our users' actions based on their understanding of a foreign language text document. Such measures of effectiveness are difficult to obtain, and researchers, outside of the field, must rely instead on linguistically based measures of performance. Thus, our approach has been to build our test suite relying on extensive pre-existing, linguistically motivated spatial language research (e.g., Bloom et al., 1996, Herskovits, 1986; Jackendoff, 1983; Lindstromberg, 1998; Olivier and Gapp, 1998; Vandeloise, 1992).</Paragraph>
+<Paragraph position="3"> Example 3 is a linguistically simple variation on example 2: both have manner of motion verbs (float, march) and locational prepositions (under, in). In each case, the prepositional phrase (PP) may be an argument to the verb (the 2a and 3a paraphrases) or an adjunct (the 2b and 3b paraphrases). Notice that, if the exact location of the troops were mission-critical information, this ambiguity should not go undetected. In one case, the troops have changed locations by moving into the canyon, while in the other, the troops are remaining in the canyon.</Paragraph>
+<Paragraph position="4"> 5 In the examples, E = English, F = French,</Paragraph>
+<Paragraph position="6"> In a pilot study, three native English speakers whom we tested consistently identified 35 locational prepositions in English with this form of ambiguity.</Paragraph>
+<Paragraph position="7">  3. E: The troops marched in the canyon. 3a. p: The troops entered the canyon marching. 3b. p: The troops were marching about in the canyon.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

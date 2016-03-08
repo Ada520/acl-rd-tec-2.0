@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A92-1006">
+<Title>Applied Text Generation*</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> This paper presents the Joyce system as an example of a fully-implemented, application-oriented text generation system. Joyce covers the whole range of tasks associated with text generation, from content selection to morphological processing. It was developped as part of the interface of the software design environment Ulysses. The following design goals were set for it: * The generated text must be of sufficiently high quality so that the user community of the underlying application accepts it as part of the documentation of software designs.</Paragraph>
+<Paragraph position="1"> * The generation must be fast enough so that the system can be used as a tool during the design process.</Paragraph>
+<Paragraph position="2"> * The system must be adaptable to new needs as they arise during further development of the underlying system, and it must be portable to completely new applications.</Paragraph>
+<Paragraph position="3"> While we were able to exploit existing research for many of the design issues, it turned out that we needed to develop our own approach to text planning (Rambow 1990).</Paragraph>
+<Paragraph position="4"> This paper will present the system and attempt to show how these design objectives led to particular design decisions. The structure of the paper is as follows. In Section 2, we will present the underlying application and give examples of the output of the System. In Section 3, we will discuss the overall structure of Joyce. We then discuss the three main components in turn: the text planner in Section 4, the sentence planner in Section 5 and the realizer in Section 6. We will discuss the text planner in some detail since it represents a new approach to the problem. Section 7 traces the generation of a short text. In Section 8, we address the problem of portability, and wind up by discussing some shortcomings of Joyce in the conclusion.</Paragraph>
+<Paragraph position="5"> &amp;quot;Research on the original Joyce system (described in this paper) was supported by the AFSC at Rome Laboratory under grant no. F30602-85-C-0098 to Odyssey Research Associates. A successor system to Joyce has been under development at CoGenTex since early 1991. We would like to thank Richard Kittredge, Robert Rubinoff and two anonymous reviewers for helpful comments on earlier versions of this paper.</Paragraph>
+</Section>
+</Paper>
+

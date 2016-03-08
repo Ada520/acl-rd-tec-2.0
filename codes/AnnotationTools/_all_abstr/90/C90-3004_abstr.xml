@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-3004">
+<Title>Phonological Processing of Speech Variants</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. Inffoduc~on
+</SectionTitle>
+<Paragraph position="0"> This paper is concerned with a particular aspect of computational phonology, namely the processing of non-standard forms which may arise in fast speech.</Paragraph>
+<Paragraph position="1"> Since no native speaker of a language consistently adheres to a given standard pronunciation in normal conversation, it is an important attribute of any speech recognition system from a robustness point of view that it be able to process such non-standard forms. These non-standard forms will be referred to in this paper as speech variants. Speech variants are systematic, and may arise as a result of a phonological process (e.g.</Paragraph>
+<Paragraph position="2"> assimilation) or may express some dialect characteristic of the speaker. In the proposal presented below, the standard form Is taken to be the phonemic representation in the lexicon and speech variants are taken to be systematically learned and lexicalised. It is shown that variants of a standard form may be learned on the basis of a metarule describing a particular phonological process. This avoids the necessity for a lookup-table of the variants belonging to particular forms since these are generated according to the restrictions given in the metarule. Thus, during analysis, both standard and non-standard forms may be processed.</Paragraph>
+</Section>
+</Paper>
+

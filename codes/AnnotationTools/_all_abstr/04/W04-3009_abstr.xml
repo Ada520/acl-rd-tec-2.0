@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-3009">
+<Title>Using Higher-level Linguistic Knowledge for Speech Recognition Error Correction in a Spoken Q/A Dialog</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Speech interface is often required in many application environments such as telephone-based information retrieval, car navigation systems, and user-friendly interfaces, but the low speech recognition rate makes it difficult to extend its application to new fields. Several approaches to increase the accuracy of the recognition rate have been researched by error correction of the recognition results, but previous approaches were mainly lexical-oriented ones in post error correction. We suggest an improved syllable-based model and a new semantic-oriented approach to correct both semantic and lexical errors, which is also more accurate for especially domain-specific speech error correction. Through extensive experiments using a speech-driven in-vehicle telematics information retrieval, we demonstrate the superior performance of our approach and some advantages over previous lexical-oriented approaches.</Paragraph>
+</Section>
+</Paper>
+

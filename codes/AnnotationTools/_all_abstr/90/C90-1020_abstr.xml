@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-1020">
+<Title>AN INTEGRATED SYSTEM FOR MORPHOLOGICAL ANALYSIS OF THE SLOVENE LANGUAGE</Title>
+<Section position="2" start_page="85" end_page="85" type="abstr">
+<SectionTitle>
+AN INTEGRATED SYSTEM FOR MORPHOLOGICAL ANALYSIS OF THE SLOVENE
+LANGUAGE
+</SectionTitle>
+<Paragraph position="0"> environment for morphological analysis of word-forms of the Slovene language. The system consists of a lexicon input and maintenance module, a lexicon output module for accessing lexical word forms, a two-level rule compiler and a two-level morphological analysis/synthesis unit. The basic paradigms and lexical alternations of word forms are handled by the lexicon system, while the two-level component takes care of phonologically induced alternations.</Paragraph>
+</Section>
+</Paper>
+

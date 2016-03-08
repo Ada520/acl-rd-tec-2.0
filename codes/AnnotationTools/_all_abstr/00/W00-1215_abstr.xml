@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-1215">
+<Title>Semantic Annotation of Chinese Phrases Using Recursive-Graph</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we propose a recursive graph based scheme for semantic annotation of Chinese phrases. Compared with others, this scheme can fully differentiate those Chinese phrases that comprise the same content words but hold different meanings due to their different word order or some involved function words, and capture the hierarchical conceptual structure of Chinese phrases, which underlies their main semantic information. We also give the guidelines for annotating various commonly used types of Chinese phrases.</Paragraph>
+</Section>
+</Paper>
+

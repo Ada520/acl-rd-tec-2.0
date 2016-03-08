@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E06-3009">
+<Title>Example-Based Metonymy Recognition for Proper Nouns</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Metonymy recognition is generally approached with complex algorithms that rely heavily on the manual annotation of training and test data. This paper will relieve this complexity in two ways. First, it will show that the results of the current learning algorithms can be replicated by the 'lazy' algorithm of Memory-Based Learning. This approach simply stores all training instances to its memory and classifies a test instance by comparing it to all training examples. Second, this paper will argue that the number of labelled training examples that is currently used in the literature can be reduced drastically. This finding can help relieve the knowledge acquisition bottleneck in metonymy recognition, and allow the algorithms to be applied on a wider scale.</Paragraph>
+</Section>
+</Paper>
+

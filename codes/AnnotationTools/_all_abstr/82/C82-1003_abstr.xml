@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C82-1003">
+<Title>KNOWLEDGE REPRESENTATION METHOD BASED ON pREDICATE CALCULUS IN AN INTELLIGENT CAI SYSTEM</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+KNOWLEDGE REPRESENTATION METHOD
+BASED ON pREDICATE CALCULUS
+IN AN INTELLIGENT CAI SYSTEM
+</SectionTitle>
+<Paragraph position="0"></Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+Barbara Belier
+Regional Computer Center
+Technical University of Pozna~
+Poland
+</SectionTitle>
+<Paragraph position="0"> The knowledge representation method is introduced to be applied in the ICAI system to teach prog~min~ languagedeg Knowledge about syntax and semanties of that language is represented by a set of axioms w~itten in the predicate calculus language, The directed graph of concepts is mentioned as a method to represent an instr~ctlonal structure of the domain knowledge. The pros\[ procedure to answer student's questions is described.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-1012">
+<Title>Generating Determiners and Quantifiers in Hebrew</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a specific part of HUGG, a generation grammar for Hebrew. This part deals with determiners and quantifiers. Our main goal is to determine which set of features must be present in the input to the generation grammar to control the generation of complex determiners and quantifiers.</Paragraph>
+<Paragraph position="1"> Hebrew determiners are characterized by two properties: (1) definiteness is marked in several places in the NP and it interacts with compound constructs; (2) the order of appearance of determiners and quantifiers within a complex NP is flexible but still restricted.</Paragraph>
+<Paragraph position="2"> HUGG is developed with the goal to design an input specification language for syntactic realization as close as possible for English and Hebrew, to allow easy development of bilingual generation applications. We show in this paper how the original set of features controlling the generation of determiners in SURGE, a large generation grammar for English, has been enriched to account for the specificities of Hebrew determiners and how, in the process, SURGE has been modified and improved.</Paragraph>
+<Paragraph position="3"> We present a set of functional features - organized around the categories of amount, partitive and identity - and show how these features determine a variety of syntactic constructs.</Paragraph>
+</Section>
+</Paper>
+

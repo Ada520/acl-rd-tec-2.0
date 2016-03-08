@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H89-2027">
+<Title>An The N-Best Algorithm: Efficient Procedure for Finding Top N Sentence Hypotheses</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> In this paper we introduce a new search algorithm that provides a simple, clean, and efficient interface between the speech and natural language components of a spoken language system. The N-Best algorithm is a time-synchronous Viterbi-style beam search algorithm that can be made to find the most likely N whole sentence alternatives that are within a given a &amp;quot;beam&amp;quot; of the most likely sentence. The algorithm can be shown to be exact under some reasonable constraints. That is, it guarantees that the answers it finds are, in fact, the most likely sentence hypotheses. The computation is linear with the length of the utterance, and faster than linear in N.</Paragraph>
+<Paragraph position="1"> When used together with a first-order statistical grammar, the correct sentence is usually within the first few sentence choices. The output of the algorithm, which is an ordered set of sentence hypotheses with acoustic and language model scores can easily be processed by natural language knowledge sources. Thus, this method of integrating speech recognition and natural language avoids the huge expansion of the search space that would be needed to include all possible knowledge sources in a top-down search. The algorithm has also been used to generate alternative sentence hypotheses for discriminative training. Finally, the alternative sentences generated are useful for testing overgeneration of syntax and semantics. null</Paragraph>
+</Section>
+</Paper>
+

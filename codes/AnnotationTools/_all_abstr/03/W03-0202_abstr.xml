@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-0202">
+<Title>Learning to Identify Student Preconceptions from Texta0</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Automatic classification of short textual answers by students to questions about topics in physics, computing, etc., is an attractive approach to diagnostic assessment of learning.</Paragraph>
+<Paragraph position="1"> We present a language for expressing rules that can classify text based on the presence and relative positions of words, lists of synonyms and other abstractions of a single word. We also describe a system, based on Mitchell's version spaces algorithm, that learns rules in this language. These rules can be used to categorize student responses to short-answer questions. The system is trained on written responses captured by an online assessment system that poses multiple choice questions and asks the student to justify their answers with textual explanations of their reasoning. Several experiments are described that examine the effects of the use of negative data and tagging students explanations with their answer to the original multiple choice question.</Paragraph>
+</Section>
+</Paper>
+

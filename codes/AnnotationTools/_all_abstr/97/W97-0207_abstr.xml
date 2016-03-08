@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0207">
+<Title>Measuring Semantic Entropy Dept.</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Semantic entropy is a measure of semantic -mbiguity and uninformativehess. It is a graded lexical feature which may play a role anywhere lexical semantics plays a role. This paper presents a method for measuring semantic entropy using translational distributions of words in parallel text corpora. The measurement method is well-defined for all words, including function words, and even for punctuation. null</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C86-1152">
+<Title>A Prototype English-Japanese Machine Translation System for Translating IBM Computer Manuals</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> This paper describes a prototype English-Japanese machine translation (MT) system developed at the Science Institute of IBM Japan, Ltd. This MT system currently aims at the translation of IBM computer manuals.</Paragraph>
+<Paragraph position="1"> It is based on a transfer approach in which the transfer phase is divided into two sub-phases: English transformation and Engllsh-Japanese conversion. An outline of the system and a detailed description of the English-Japanese transfer method are presented.</Paragraph>
+</Section>
+</Paper>
+

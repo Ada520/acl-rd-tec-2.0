@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P06-2081">
+<Title>Whose thumb is it anyway? Classifying author personality from weblog text</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We report initial results on the relatively novel task of automatic classification of author personality. Using a corpus of personal weblogs, or 'blogs', we investigate the accuracy that can be achieved when classifying authors on four important personality traits. We explore both binary and multiple classification, using differing sets of n-gram features. Results are promising for all four traits examined.</Paragraph>
+</Section>
+</Paper>
+

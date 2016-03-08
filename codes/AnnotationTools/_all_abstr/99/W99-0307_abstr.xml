@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W99-0307">
+<Title>Experiments in Constructing a Corpus of Discourse Trees</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We discuss a tagging schema and a tagging tool for labeling the rhetorical structure of texts. We also propose a statistical method for measuring agreement of hierarchical structure annotations and we discuss its strengths and weaknesses. The statistical measure we use suggests that annotators can achieve good levels of agreement on the task of determining the high-level, rhetorical structure of texts. Our empirical experiments also suggest that building discourse parsers that incrementally derive correct rhetorical structures of unrestricted texts without applying any form of backtracking is unfeasible. null</Paragraph>
+</Section>
+</Paper>
+

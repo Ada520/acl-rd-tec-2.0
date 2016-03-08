@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E93-1052">
+<Title>Object clitics and clitic climbing in Italian HPSG</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> Italian object clitics can be involved in nonlocal dependencies in the sense that they must/may appear on a verbal head of which they are not an argument.</Paragraph>
+<Paragraph position="1"> Two cases where this situation arises will be discussed: the first is due to the presence of an auxiliary verb and the second is triggered by the presence of a certain class of verbs that allows clitic climbing.</Paragraph>
+<Paragraph position="2"> An analysis will be proposed within the framework of Head-driven Phrase Structure Grammar \[Pollard and Sag, 1987; Pollard and Sag, 1993\]; it can be shown that an analysis in terms of nonlocal features and the Nonlocal Feature Principle, which is the mechanism provided by HPSG to deal with non-local dependencies, does not provide a satisfactory account of the phenomenon; it is too powerful. An alternative approach will be proposed; it is based on the idea that the arguments of a verb which is governed by an auxiliary or clitic climbing trigger verb can be raised to become arguments of the governor by a mechanism that achieves an effect similar to functional composition as developed within the tradition of Categorial Grammar. This approach is able to capture the right generalizations, to account for the relevant data and can be easily extended to account for long NP-movement which is another prop-erty of clitic climbing trigger verbs.</Paragraph>
+</Section>
+</Paper>
+

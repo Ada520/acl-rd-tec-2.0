@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1017">
+<Title>Splitting Input Sentence for Machine Translation Using Language Model with Sentence Similarity</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In order to boost the translation quality of corpus-based MT systems for speech translation, the technique of splitting an input sentence appears promising. In previous research, many methods used N-gram clues to split sentences. In this paper, to supplement N-gram based splitting methods, we introduce another clue using sentence similarity based on edit-distance. In our splitting method, we generate candidates for sentence splitting based on N-grams, and select the best one by measuring sentence similarity. We conducted experiments using two EBMT systems, one of which uses a phrase and the other of which uses a sentence as a translation unit. The translation results on various conditions were evaluated by objective measures and a subjective measure. The experimental results show that the proposed method is valuable for both systems.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C92-4175">
+<Title>Embedding DRT in a Situation Theoretic Frmnework</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper proposes the use of situation theory as a basic semantic formalism for defining general semantic theories. ASTL, a computational situation theoretic language, is described which goes some way to offering such a system. After a general description of Discourse Representation Theory an encoding of DRT in ASTL is given. Advantages and disadvantages of this method are then discussed.</Paragraph>
+<Paragraph position="1"> Topie: computational formalisms in semantics and discourse null Introduction Tbe pnrpose of this paper is to show how a computational language based on situation theory can be used as a basic formalism ill which genera\] semantic theories can be implemented. There are many different semantic theories which, because of their different notations, are difficult to compare. A general language which allows those theories to be implemented within it would offer an envirolnnent where similar semantic theories could be more easily evaluated. null Situation Theory (ST) has been developed over the last ten years \[2\]. Much work has been done in both tlle formal aspects of situation theory and its use in natural language semantics (situation semantics), however so far little work has been dram ill its computational aspects. It is the eventual goal of tile work presented here to show how situation theory can be used computationally and how a computational situation theoretic language call provide an enviromnent ill which different semantic theories call I)e easily compared.</Paragraph>
+<Paragraph position="2"> Because there are so many variants of ST we must define our own here. The language ASTL \[3\] has been defined. Althongb it uses surprisingly few features of situation theory, it seems powerful enough to act as a basic language for semantics. It has been considered that somc extension to &amp;quot;classical&amp;quot; feature structures be made and use those to encode semantic forms. Features systems augmented with set vahms, eyclicity and other extensions may be powerful enough but the method described here takes an existing semantic theory and refines it rather than building a new one.</Paragraph>
+<Paragraph position="3"> This paper is ba.sically split into two sections.</Paragraph>
+<Paragraph position="4"> Tlw first discusses how ST can be used in a computational system, and introduces the language ASTL. The second half of this paper discusses Discourse Representation Theory (DRT) as a theory in itself and shows how it can be encoded with ASTL.</Paragraph>
+</Section>
+</Paper>
+

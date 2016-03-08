@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-0214">
+<Title>Topic Identification In Natural Language Dialogues Using Neural Networks</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In human-computer interaction systems using natural language, the recognition of the topic from user's utterances is an important task. We examine two different perspectives to the problem of topic analysis needed for carrying out a successful dialogue. First, we apply self-organized document maps for modeling the broader subject of discourse based on the occurrence of content words in the dialogue context. On a Finnish corpus of 57 dialogues the method is shown to work well for recognizing subjects of longer dialogue segments, whereas for individual utterances the sub-ject recognition history should perhaps be taken into account. Second, we attempt to identify topically relevant words in the utterances and thus locate the old information ('topic words') and new information ('focus words'). For this we define a probabilistic model and compare different methods for model parameter estimation on a corpus of 189 dialogues. Moreover, the utilization of information regarding the position of the word in the utterance is found to improve the results.</Paragraph>
+</Section>
+</Paper>
+

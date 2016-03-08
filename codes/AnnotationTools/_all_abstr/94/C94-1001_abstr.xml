@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C94-1001">
+<Title>Machine Translation IMPROVEMENT IN CUSTOMIZABII,ITY USING TRANSI~ATION TEMPLATES</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper outlines customization of a machine translation system using translation templates, which enable usm~ to represent the bilingual knowledge needed for complex translation. To evaluate their effectiveness, we analyzed a bilingual text to estimate tire improvement in eustomizability. The result shows that about 60% of mistranslated sentences can be translated as nrodel translations by combining the proposed fra,nework with the conventional customizing functions.</Paragraph>
+</Section>
+</Paper>
+

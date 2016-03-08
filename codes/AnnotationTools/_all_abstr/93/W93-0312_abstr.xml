@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W93-0312">
+<Title>Example-Based Sense Tagging of Running Chinese Text Xiang Tong Chang-ning Huang</Title>
+<Section position="2" start_page="0" end_page="102" type="abstr">
+<SectionTitle>
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> If the 1980's were characterized by the surge of efforts on Machine Readable/Tractable Dictionary (MRD/MTD) research, the 1990's would be a time of massive efforts on constructing annotated text corpora. Properly annotated text corpora could form, at least, the bases for the following: a. the core of commercial information systems; b. the kernel engine of 'Cognitive Agents' ; c. the essentials of systems vital to national security.</Paragraph>
+<Paragraph position="1"> Sense tagging of large text corpora has been on the back-burner for too  long. The preparation of large annotated text corpora, especially those with word sense disambiguated, has always been brushed aside for some piteous 'smart' approaches to prevail. However, it is just this kind of hopeless cleverness that handicapped the speedy growth of the language enterprise. Fortunately, more and more researchers have come to realize the importance, as well as the necessity, of being earnest in annotating large text corpora of all major languages. null The present discussion presents a system for the automatic sense tagging of running Chinese text -- a necessary mechanism for the construction of annotated 'Monitor Corpora ~ (Sinclare, 1991) that do not degrade over time. The system takes as input running Chinese text, and outputs sense disambiguated text. Whereas previous work (Yarowsky, 1992; Gale, et al. , 1992, 1993) relies heavily on the role of statistics, the present system makes use of Machine Readable/Tractable Dictionaries (Wilks, et al., 1990; Guo, in press) and an example-based reasoning technique (Nagao, 1984; Sumita, et al., 1990) to treat novel words, compound words, and phrases found in the input text. The focus of this discussion is on the example-based reasoning technique. The examples that support the tagging operation come from the system MTD.</Paragraph>
+<Paragraph position="2"> The sense tagging system assigns a unique number for every Chinese characters occurred in the text. In most cases, the senses tagged are word senses. This is due to the fact that most Chinese characters are words. For example, '~\]&amp;quot; (beat) has 26 senses. '~' (drum) has 6 senses. The phrase '~\]'\]~l~' (beat drums) becomes '~\]'-B02 \]lYE_A01' after sense tagging. However, not all Chinese characters are words. Sometimes they are bound morphemes. In these cases, the senses tagged are the meanings of the morphemes as given in the dictionary. For example, '~\]'~ as in '~IB\]'&amp;quot;~.~ ~ , '\]~\]'~' is tagged 'A01', which is the number of '~' as given in the MTD when 'II~ ~ is used as a prefix, i. e. , a bound morpheme.</Paragraph>
+</Section>
+</Paper>
+

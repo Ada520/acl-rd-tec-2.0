@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P02-1046">
+<Title>Bootstrapping</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper refines the analysis of cotraining, defines and evaluates a new co-training algorithm that has theoretical justification, gives a theoretical justification for the Yarowsky algorithm, and shows that co-training and the Yarowsky algorithm are based on different independence assumptions.</Paragraph>
+</Section>
+</Paper>
+

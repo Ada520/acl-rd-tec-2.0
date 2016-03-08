@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-1013">
+<Title>Log-Linear Models for Wide-Coverage CCG Parsing</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes log-linear parsing models for Combinatory Categorial Grammar (CCG). Log-linear models can easily encode the long-range dependencies inherent in coordination and extraction phenomena, which CCG was designed to handle. Log-linear models have previously been applied to statistical parsing, under the assumption that all possible parses for a sentence can be enumerated.</Paragraph>
+<Paragraph position="1"> Enumerating all parses is infeasible for large grammars; however, dynamic programming over a packed chart can be used to efficiently estimate the model parameters. We describe a parellelised implementation which runs on a Beowulf cluster and allows the complete WSJ Penn Treebank to be used for estimation.</Paragraph>
+</Section>
+</Paper>
+

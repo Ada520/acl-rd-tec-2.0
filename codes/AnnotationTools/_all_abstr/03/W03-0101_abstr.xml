@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-0101">
+<Title>Experiments with geographic knowledge for information extraction Dimitar Manov,</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Here we present work on using spatial knowledge in conjunction with information extraction (IE). Considerable volume of location data was imported in a knowledge base (KB) with entities of general importance used for semantic annotation, indexing, and retrieval of text. The Semantic Web knowledge representation standards are used, namely RDF(S). An extensive upper-level ontology with more than two hundred classes is designed. With respect to the locations, the goal was to include the most important categories considering public and tasks not specially related to geography or related areas. The locations data is derived from number of publicly available resources and combined to assure best performance for domain-independent named-entity recognition in text.</Paragraph>
+<Paragraph position="1"> An evaluation and comparison to high performance IE application is given.</Paragraph>
+</Section>
+</Paper>
+

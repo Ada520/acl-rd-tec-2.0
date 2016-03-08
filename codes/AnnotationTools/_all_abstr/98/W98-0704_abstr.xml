@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-0704">
+<Title>The Use of WordNet in Information Retrieval</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> WordNet has been used in information retrieval research by many researchers, but failed to improve the performance of their retrieval system.</Paragraph>
+<Paragraph position="1"> Thereby in this paper we investigate why the use of WordNet has not been successful. Based on this analysis we propose a method of making WordNet more useful in information retrieval applications. Experiments using several standard information retrieval test collections show that our method results in a significant improvement of information retrieval performance.</Paragraph>
+</Section>
+</Paper>
+

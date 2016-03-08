@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P05-1031">
+<Title>Towards Finding and Fixing Fragments: Using ML to Identify Non-Sentential Utterances and their Antecedents in Multi-Party Dialogue</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Non-sentential utterances (e.g., short-answers as in &amp;quot;Who came to the party?&amp;quot;-&amp;quot;Peter.&amp;quot;) are pervasive in dialogue. As with other forms of ellipsis, the elided material is typically present in the context (e.g., the question that a short answer answers). We present a machine learning approach to the novel task of identifying fragments and their antecedents in multi-party dialogue. We compare the performance of several learning algorithms, using a mixture of structural and lexical features, and show that the task of identifying antecedents given a fragment can be learnt successfully (f(0.5) = .76); we discuss why the task of identifying fragments is harder (f(0.5) = .41) and finally report on a combined task (f(0.5) = .38).</Paragraph>
+</Section>
+</Paper>
+

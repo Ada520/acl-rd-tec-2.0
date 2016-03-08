@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-0717">
+<Title>A Multi-Perspective Evaluation of the NESPOLE! Speech-to-Speech Translation System</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Performance and usability of real-world speech-to-speech translation systems, like the one developed within the Nespole! project, are a ected by several aspects that go beyond the pure translation quality provided by the underlying components of the system. In this paper we describe these aspects as perspectives along which we have evaluated the Nespole! system. Four main issues are investigated:  (1) assessing system performance under various network tra c conditions; (2) a study on the usage and utility of  multi-modality in the context of multi-lingual communication; (3) a comparison of the features of the individual speech recognition engines, and (4) an end-to-end evaluation of the system.</Paragraph>
+</Section>
+</Paper>
+

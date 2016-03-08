@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C73-2025">
+<Title>NICOLAS NEDOBEJKINE APPLICATION DU SYSTEME A.T.E.F. A L'ANALYSE MOI~PHOLOGIQUE DE TEXTES P,.USSES</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+NICOLAS NEDOBEJKINE
+APPLICATION DU SYSTEME A.T.E.F. A L'ANALYSE
+MOI~PHOLOGIQUE DE TEXTES P,.USSES
+INTRODUCTION
+</SectionTitle>
+<Paragraph position="0"> Le but de cette communication est de proposer une application concr~te du syst~me d'analyse de textes en 6tats finis (A.T.F.r.) (j. CnAucnv., P. GUmZAUM~, M. Qtmz~-AMZRUNAZ, 1972) ~ la langue russe.</Paragraph>
+<Paragraph position="1"> Le support linguistique de cette application a 6t6 fourni par les importants travaux effectu~s au c.,~.T.A, durant les ann6es pr6c6dentes sur l'ordinateur IBM 7044 et conceme plus particuli~rement le module d'analyse morphologique d6crit clans B. VAUQUOIS, J. V~YaUNFS (1962) et N. N~DOB~JraNn, L. Tom~z (1964).</Paragraph>
+<Paragraph position="2"> Le nouveau module morphologique, ~ la diff&amp;ence du pr6cddent, a l'avantage de poss6der, ~ c6t6 d'un dictionnaire mieux organis6, une grammaire ind~pendante des programmes et algorithmes pouvant &amp;re 6crite, modifi6e sans perturber la partie software.</Paragraph>
+<Paragraph position="3"> Pour des raisons de commodit6 de travail, nous nous servons uniquement de caract~res romains dans la repr&amp;entation d'un texte russe. La table de transcription utilisde est la suivante:</Paragraph>
+</Section>
+</Paper>
+

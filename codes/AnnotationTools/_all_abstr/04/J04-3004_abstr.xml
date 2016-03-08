@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J04-3004">
+<Title>Understanding the Yarowsky Algorithm</Title>
+<Section position="2" start_page="0" end_page="366" type="abstr">
+<SectionTitle>
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> Bootstrapping, or semisupervised learning, has become an important topic in computational linguistics. For many language-processing tasks, there are an abundance of unlabeled data, but labeled data are lacking and too expensive to create in large quantities, making bootstrapping techniques desirable.</Paragraph>
+<Paragraph position="1"> The Yarowsky (1995) algorithm was one of the first bootstrapping algorithms to become widely known in computational linguistics. In brief, it consists of two loops. The &amp;quot;inner loop&amp;quot; or base learner is a supervised learning algorithm. Specifically, Yarowsky uses a simple decision list learner that considers rules of the form &amp;quot;If instance x contains feature f , then predict label j&amp;quot; and selects those rules whose precision on the training data is highest.</Paragraph>
+<Paragraph position="2"> The &amp;quot;outer loop&amp;quot; is given a seed set of rules to start with. In each iteration, it uses the current set of rules to assign labels to unlabeled data. It selects those instances regarding which the base learner's predictions are most confident and constructs a labeled training set from them. It then calls the inner loop to construct a new classifier (that is, a new set of rules), and the cycle repeats.</Paragraph>
+<Paragraph position="3"> An alternative algorithm, co-training (Blum and Mitchell 1998), has subsequently become more popular, perhaps in part because it has proven amenable to theoretical analysis (Dasgupta, Littman, and McAllester 2001), in contrast to the Yarowsky algorithm, which is as yet mathematically poorly understood. The current article aims to rectify this lack of understanding, increasing the attractiveness of the Yarowsky algorithm as an alternative to co-training. The Yarowsky algorithm does have the advantage of placing less of a restriction on the data sets it can be applied to. Co-training requires data attributes to be separable into two views that are conditionally independent given the target label; the Yarowsky algorithm makes no such assumption about its data.</Paragraph>
+<Paragraph position="4"> In previous work, I did propose an assumption about the data called precision independence, under which the Yarowsky algorithm could be shown effective (Abney 2002). That assumption is ultimately unsatisfactory, however, not only because it [?] 4080 Frieze Bldg., 105 S. State Street, Ann Arbor, MI 48109-1285. E-mail: abney.umich.edu. Submission received: 26 August 2003; Revised submission received: 21 December 2003; Accepted for publication: 10 February 2004  Computational Linguistics Volume 30, Number 3 Table 1 The Yarowsky algorithm variants. Y-1/DL-EM reduces H; the others</Paragraph>
+</Section>
+</Paper>
+

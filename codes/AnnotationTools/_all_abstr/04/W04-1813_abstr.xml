@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-1813">
+<Title>Determining the Specificity of Terms based on Information Theoretic Measures</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper introduces new specificity determining methods for terms based on information theoretic measures. The specificity of terms represents the quantity of domain specific information that is contained in the terms. Compositional and contextual information of terms are used in proposed methods. As the methods don't rely on domain dependent information, they can be applied to other domains without extra processes.</Paragraph>
+<Paragraph position="1"> Experiments showed very promising results with the precision 82.0% when applied to the terms in MeSH thesaurus.</Paragraph>
+</Section>
+</Paper>
+

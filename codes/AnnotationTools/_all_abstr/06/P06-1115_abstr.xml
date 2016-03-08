@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P06-1115">
+<Title>Using String-Kernels for Learning Semantic Parsers</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a new approach for mapping natural language sentences to their formal meaning representations using stringkernel-basedclassifiers. Oursystemlearns theseclassifiersforeveryproductioninthe formallanguagegrammar. Meaningrepresentations for novel natural language sentences are obtained by finding the most probable semantic parse using these string classifiers. Our experiments on two real-world data sets show that this approach compares favorably to other existing systems and is particularly robust to noise.</Paragraph>
+</Section>
+</Paper>
+

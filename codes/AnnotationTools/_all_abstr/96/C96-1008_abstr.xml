@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-1008">
+<Title>Communication in large distributed AI Systems for Natural Language Processing</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We. are going to describe the design and implementatior, of a connnuniealion system l.or large AI projects, capable of supporting various software components in a heterogeneous hardware and programming-language environment. The system is based on a roodification of the channel approach introduced by Hoare (1978). It is a three-layered approach with a de facto standard network layer (PVM), core routines, and interfaces to live different programming languages together with SUl)port l.or the transparent exchange of complex data types. A special component takes over: name service functiorrs. It also records the actual configuration of the modules present in the application and the created channels.</Paragraph>
+<Paragraph position="1"> We describe the integration of this communication facility in two versions of a speech-to-speech translation system, which ditfer with regard to quality and quantity of data. distributed within tire applications and with regard to the degree of interactivity involved in processing. null</Paragraph>
+</Section>
+</Paper>
+

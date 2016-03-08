@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A97-2006">
+<Title>An Improvement in the Selection Process of Machine Translation Using Inductive Learning with Genetic Algorithms</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We proposed a method of machine translation using inductive learning with genetic algorithms, and confirmed the effectiveness of applying genetic algorithms. However, the system based on this method produces many erroneous translation rules that cannot be completely removed from the dictionary. Therefore, we need to improve how to apply genetic algorithms to be able to remove erroneous translation rules from the dictionary. In this paper, we describe this improvement in the selection process and the results of evaluation experiments.</Paragraph>
+</Section>
+</Paper>
+

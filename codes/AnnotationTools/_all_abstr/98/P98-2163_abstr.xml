@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-2163">
+<Title>Recognition of the Coherence Relation between Te-linked Clauses</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a method for recognizing coherence relations between clauses which are linked by te in Japanese -- a translational equivalent of English and. We consider that the coherence relations are categories each of which has a prototype structure as well as the relationships among them. By utilizing this organization of the relations, we can infer an appropriate relation from the semantic structures of the clauses between which that relation holds. We carried out an experiment and obtained the correct recognition ratio of 82% for the 280 sentences.</Paragraph>
+</Section>
+</Paper>
+

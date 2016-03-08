@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C02-1053">
+<Title>Extracting Important Sentences with Support Vector Machines</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0">  Extractingsentencesthatcontainimportantinformation from a document is a form of text summarization. The technique is the key tothe automatic generation of summaries similar to those written by humans. To achieve such extraction, it is important to be able to integrate heterogeneous pieces of information. One approach, parameter tuning by machine learning, has been attracting a lot of attention. This paper proposes a method of sentence extraction based on Support Vector Machines (SVMs). To confirm the method's performance, we conduct experiments that compare our method to three existing methods. Results on the Text Summarization Challenge (TSC) corpus show that our method offers the highest accuracy. Moreover, we clarify the different features effective for extracting different document genres.</Paragraph>
+</Section>
+</Paper>
+

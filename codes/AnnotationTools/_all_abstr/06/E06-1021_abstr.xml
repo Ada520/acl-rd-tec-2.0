@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E06-1021">
+<Title>Towards Robust Context-Sensitive Sentence Alignment for Monolingual Corpora</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Aligning sentences belonging to comparable monolingual corpora has been suggested as a first step towards training text rewriting algorithms, for tasks such as summarization or paraphrasing. We present here a new monolingual sentence alignment algorithm, combining a sentence-based TF*IDF score, turned into a probability distribution using logistic regression, with a global alignment dynamic programming algorithm. Our approach provides a simpler and more robust solution achieving a substantial improvement in accuracy over existing systems.</Paragraph>
+</Section>
+</Paper>
+

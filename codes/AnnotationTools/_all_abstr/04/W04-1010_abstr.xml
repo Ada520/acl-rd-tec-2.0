@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-1010">
+<Title>Template-Filtered Headline Summarization</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Headline summarization is a difficult task because it requires maximizing text content in short summary length while maintaining grammaticality. This paper describes our first attempt toward solving this problem with a system that generates key headline clusters and fine-tunes them using templates.</Paragraph>
+</Section>
+</Paper>
+

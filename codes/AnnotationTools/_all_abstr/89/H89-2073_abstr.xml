@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H89-2073">
+<Title>Integration of Speech and Natural Language Understanding for Spoken Language Systems (SLS)</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+SRI International
+OBJECTIVES
+</SectionTitle>
+<Paragraph position="0"> SRI is developing a multi-modal interface to an air travel database that will permit cooperative planning via interactive human-machine problem solving. The project goals are real-time, large vocabulary (3000 words), high semantic accuracy (90%), speaker-independent understanding of spontaneously spoken natural language in a restricted domain. The grammar should be shown to be habitable and the system should be robust to individual differences in dialect and speaking style. The design should be easily portable to a variety of applications.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P95-1036">
+<Title>Some Novel Applications of Explanation-Based Learning to Parsing Lexicalized Tree-Adjoining Grammars&amp;quot;</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we present some novel applications of Explanation-Based Learning (EBL) technique to parsing Lexicalized Tree-Adjoining grammars. The novel aspects are (a) immediate generalization of parses in the training set, (b) generalization over recursive structures and (c) representation of generalized parses as Finite State Transducers. A highly impoverished parser called a &amp;quot;stapler&amp;quot; has also been introduced. We present experimental results using EBL for different corpora and architectures to show the effectiveness of our approach. null</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-0828">
+<Title>TALP System for the English Lexical Sample Task</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> This paper describes the TALP system on the English Lexical Sample task of the Senseval-31 event.</Paragraph>
+<Paragraph position="1"> The system is fully supervised and relies on a particular Machine Learning algorithm, namely Support Vector Machines. It does not use extra examples than those provided by Senseval-3 organisers, though it uses external tools and ontologies to extract part of the representation features.</Paragraph>
+<Paragraph position="2"> Three main characteristics have to be pointed out from the system architecture. The first thing is the way in which the multiclass classification problem posed by WSD is addressed using the binary SVM classifiers. Two different approaches for binarizing multiclass problems have been tested: one-vs-all and constraint classification. In a cross-validation experimental setting the best strategy has been selected at word level. Section 2 is devoted to explain this issue in detail.</Paragraph>
+<Paragraph position="3"> The second characteristic is the rich set of features used to represent training and test examples.</Paragraph>
+<Paragraph position="4"> Topical and local context features are used as usual, but also syntactic relations and semantic features indicating the predominant semantic classes in the example context are taken into account. A detailed description of the features is presented in section 3.</Paragraph>
+<Paragraph position="5"> And finally, since each word represents a learning problem with different characteristics, a per-word feature selection has been applied. This tuning process is explained in detail in section 4.</Paragraph>
+<Paragraph position="6"> The last two sections discuss the experimental results (section 5) and present the main conclusions of the work performed (section 6).</Paragraph>
+</Section>
+</Paper>
+

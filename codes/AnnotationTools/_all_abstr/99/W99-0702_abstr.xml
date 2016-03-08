@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W99-0702">
+<Title>Experiments in Unsupervised Entropy-Based Corpus Segmentation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The paper presents an entropy-based approach to segment a corpus into words, when no additional information about the corpus or the language, and no other resources such as a lexicon or grammar are available. To segment the corpus, the algorithm searches for separators, without knowing a priory by which symbols they are constituted. Good results can be obtained with corpora containing &amp;quot;clearly perceptible&amp;quot; separators such as blank or new-line.</Paragraph>
+</Section>
+</Paper>
+

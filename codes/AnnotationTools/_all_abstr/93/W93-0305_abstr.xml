@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W93-0305">
+<Title>HMM-based Part-of-Speech Tagging for Chinese Corpora</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Chinese part-of-speech tagging is more difficult than its English counterpart because it needs to be solved together wgh the problem of word identification. In this paper, we present our work on Chinese part-of-speech tagging based on a first-order, fully-connected hsdden Markov model. Part of the 1991 United Daily corpus of approzimately 10 million Chinese characters zs used for training and testing. A news article is first segmented into clauses, then into words by a Viterbi-based word identification system. The (untagged} segmented corpus is then used to train the HMM for tagging using the Bantu. Welch reestimation procedure. We also adopt Kupiec's concept of word equivalence classes in the tagger. Modeling higher or.</Paragraph>
+<Paragraph position="1"> der local constraints, a pattern.driven tag corrector is designed to postprocess the tag output of the Vgerbi decoder based on ~rained HMM parameters. Experimental results for various testing conditions are re. ported: The system is able to correctly tag approzimately 96~ of all words in the testing data.</Paragraph>
+</Section>
+</Paper>
+

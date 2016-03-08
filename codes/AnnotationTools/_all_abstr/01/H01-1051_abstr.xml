@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H01-1051">
+<Title>The Meeting Project at ICSI</Title>
+<Section position="1" start_page="4" end_page="4" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> In collaboration with colleagues at UW, OGI, IBM, and SRI, we are developing technology to process spoken language from informal meetings. The work includes a substantial data collection and transcription effort, and has required a nontrivial degree of infrastructure development. We are undertaking this because the new task area provides a significant challenge to current HLT capabilities, while offering the promise of a wide range of potential applications. In this paper, we give our vision of the task, the challenges it represents, and the current state of our development, with particular attention to automatic transcription.</Paragraph>
+</Section>
+</Paper>
+

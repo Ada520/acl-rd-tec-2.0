@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-0305">
+<Title>Annotating Attribution in the Penn Discourse TreeBank</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> An emerging task in text understanding and generation is to categorize information as fact or opinion and to further attribute it to the appropriate source. Corpus annotation schemes aim to encode such distinctions for NLP applications concerned with such tasks, such as information extraction, question answering, summarization, and generation. We describe an annotation scheme for marking the attribution of abstract objects such as propositions, facts and eventualities associated with discourse relations and their arguments annotated in the Penn Discourse TreeBank.</Paragraph>
+<Paragraph position="1"> The scheme aims to capture the source and degrees of factuality of the abstract objects. Key aspects of the scheme are annotation of the text spans signalling the attribution, and annotation of features recording the source, type, scopal polarity, and determinacy of attribution.</Paragraph>
+</Section>
+</Paper>
+

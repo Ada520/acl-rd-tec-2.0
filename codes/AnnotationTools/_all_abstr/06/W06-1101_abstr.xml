@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-1101">
+<Title>Linguistic Distances</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In many theoretical and applied areas of computational linguistics researchers operate with a notion of linguistic distance or, conversely, linguistic similarity, which is the focus of the present workshop.</Paragraph>
+<Paragraph position="1"> While many CL areas make frequent use of such notions, it has received little focused attention, an honorable exception being Lebart &amp; Rajman (2000). This workshop brings a number of these strands together, highlighting a number of common issues.</Paragraph>
+</Section>
+</Paper>
+

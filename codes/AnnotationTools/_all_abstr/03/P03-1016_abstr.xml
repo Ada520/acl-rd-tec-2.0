@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P03-1016">
+<Title>Synonymous Collocation Extraction Using Translation Information</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Automatically acquiring synonymous collocation pairs such as &lt;turn on, OBJ, light&gt; and &lt;switch on, OBJ, light&gt; from corpora is a challenging task. For this task, we can, in general, have a large monolingual corpus and/or a very limited bilingual corpus.</Paragraph>
+<Paragraph position="1"> Methods that use monolingual corpora alone or use bilingual corpora alone are apparently inadequate because of low precision or low coverage. In this paper, we propose a method that uses both these resources to get an optimal compromise of precision and coverage. This method first gets candidates of synonymous collocation pairs based on a monolingual corpus and a word thesaurus, and then selects the appropriate pairs from the candidates using their translations in a second language. The translations of the candidates are obtained with a statistical translation model which is trained with a small bilingual corpus and a large monolingual corpus. The translation information is proved as effective to select synonymous collocation pairs. Experimental results indicate that the average precision and recall of our approach are 74% and 64% respectively, which outperform those methods that only use mono-lingual corpora and those that only use bi-lingual corpora.</Paragraph>
+</Section>
+</Paper>
+

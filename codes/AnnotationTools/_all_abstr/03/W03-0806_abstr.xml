@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-0806">
+<Title>Blueprint for a High Performance NLP Infrastructure</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Natural Language Processing (NLP) system developers face a number of new challenges. Interest is increasing for real-world systems that use NLP tools and techniques. The quantity of text now available for training and processing is increasing dramatically. Also, the range of languages and tasks being researched continues to grow rapidly. Thus it is an ideal time to consider the development of new experimental frameworks. We describe the requirements, initial design and exploratory implementation of a high performance NLP infrastructure.</Paragraph>
+</Section>
+</Paper>
+

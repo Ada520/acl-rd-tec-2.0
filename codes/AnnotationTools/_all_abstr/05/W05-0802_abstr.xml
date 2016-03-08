@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W05-0802">
+<Title>Cross language Text Categorization by acquiring Multilingual Domain Models from Comparable Corpora</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In a multilingual scenario, the classical monolingual text categorization problem can be reformulated as a cross language TC task, in which we have to cope with two or more languages (e.g. English and Italian). In this setting, the system is trained using labeled examples in a source language (e.g. English), and it classi es documents in a different target language (e.g. Italian).</Paragraph>
+<Paragraph position="1"> In this paper we propose a novel approach to solve the cross language text categorization problem based on acquiring Multilingual Domain Models from comparable corpora in a totally unsupervised way and without using any external knowledge source (e.g. bilingual dictionaries). These Multilingual Domain Models are exploited to de ne a generalized similarity function (i.e. a kernel function) among documents in different languages, which is used inside a Support Vector Machines classi cation framework. The results show that our approach is a feasible and cheap solution that largely outperforms a baseline.</Paragraph>
+</Section>
+</Paper>
+

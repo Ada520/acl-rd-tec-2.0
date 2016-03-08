@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C02-1069">
+<Title>E ective Structural Inference for Large XML Documents</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper investigates methods to automatically infer structural information from large XML documents. Using XML as a reference format, we approach the schema generation problem by application of inductive inference theory. In doing so, we review and extend results relating to the search spaces of grammatical inferences for large data set. We evaluate the result of an inference process using the concept of Minimum Message Length. Comprehensive experimentation reveals our new hybrid method to be the most e ective for large documents. Finally tractability issues, including scalability analysis, are discussed.</Paragraph>
+</Section>
+</Paper>
+

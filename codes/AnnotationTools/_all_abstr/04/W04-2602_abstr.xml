@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-2602">
+<Title>Towards Full Automation of Lexicon Construction</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe work in progress aimed at developing methods for automatically constructing a lexicon using only statistical data derived from analysis of corpora, a problem we call lexical optimization. Speci cally, we use statistical methods alone to obtain information equivalent to syntactic categories, and to discover the semantically meaningful units of text, which may be multi-word units or polysemous terms-incontext. Our guiding principle is to employ a notion of meaningfulness that can be quantied information-theoretically, so that plausible variants of a lexicon can be judged relative to each other. We describe a technique of this nature called information theoretic co-clustering and give results of a series of experiments built around it that demonstrate the main ingredients of lexical optimization. We conclude by describing our plans for further improvements, and for applying the same mathematical principles to other problems in natural language processing. null</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H90-1018">
+<Title>Hardware for Hidden Markov-Model-Based, Large-Vocabulary Real-Time Speech Recognition</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> SRI and U.C. Berkeley have begun a cooperative effort to develop a new architecture for real-time implementation of spoken language systems (SLS). Our goal is to develop fast speech recognition algorithms, and supporting hardware capable of recognizing continuous speech from a bigram- or trigram-based 20,000-word vocabulary or a 1,000- to 5,000word SLS.</Paragraph>
+</Section>
+</Paper>
+

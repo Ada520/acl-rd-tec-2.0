@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-0705">
+<Title>Increasing our Ignorance of Language: Identifying Language Structure in an Unknown 'Signal'</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes algorithms and software developed to characterise and detect generic intelligent language-like features in an input signal, using natural language learning techniques: looking for characteristic statistical &amp;quot;language-signatures&amp;quot; in test corpora. As a first step towards such species-independent language-detection, we present a suite of programs to analyse digital representations of a range of data, and use the results to extrapolate whether or not there are language-like structures which distinguish this data from other sources, such as music, images, and white noise. Outside our own immediate NLP sphere, generic communication techniques are of particular interest in the astronautical community, where two sessions are dedicated to SETI at their annual International conference with topics ranging from detecting ET technology to the ethics and logistics of message construction (E1liott and Atwell, 1999; Ollongren, 2000; Vakoch, 2000).</Paragraph>
+</Section>
+</Paper>
+

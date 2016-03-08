@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-1011">
+<Title>Dynamic User Level and Utility Measurement for Adaptive Dialog in a Help-Desk System</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The learning and self-adaptive capability in dialog systems has become increasingly important with the advances in a wide range of applications. For any application, particularly the one dealing with a technical domain, the system should pay attention to not only the user experience level and dialog goals, but more importantly, the mechanism to adapt the system behavior to the evolving state of the user. This paper describes a methodology that first identifies the user experience level and utility metrics of the goal and sub-goals, then automatically adjusts those parameters based on discourse history and thus directs adaptive dialog management.</Paragraph>
+<Paragraph position="1"> Introduction A new generation of dialog systems should be viewed as learning systems rather than static models (Jokinen, 2000). Close-world and static approaches have tremendous limitations and often fail when the task becomes complex and the application environment and knowledge changes. Thus, the learning capability of a dialog system has become an important issue. It has been addressed in many different aspects including dynamic construction of mutual knowledge (Andersen et al, 1999), learning of speech acts (Stolcker et al, 1998), learning optimal strategies (Litman et al, 1998; Litman et al, 1999; Walker et al, 1998), collaborative agent in plan recognition (Lesh et al, 1999), etc. This paper addresses the dynamic user modeling and dialog-goal utility measurement to facilitate adaptive dialog behavior.</Paragraph>
+<Paragraph position="2"> For any dialog system dealing with a technical domain, such as repair support (Weis, 1997), help-desk support, etc, it is crucial for the system not only to pay attention to the user knowledge and experience level and dialog goals, but more important, to have certain mechanisms that adapt the system behavior in terms of action planning, content selection, and content realization to user cognitive limitations. Dialog strategies and management should be adjusted to the evolving state of the user. Thus a better understanding and modeling of user cognitive process and human perception is desirable.</Paragraph>
+<Paragraph position="3"> In this paper, we propose a methodology that automatically learns user experience levels based on sub-goal utilities and characteristics observed during the interaction. Those user levels will further feedback to update utility metrics and direct different dialog strategies at each level of dialog management: action planning, content selection and content realization. The Help-Desk is our application domain. This is a work in progress. We have built a prototype system and are currently in the process of evaluation of our methodology and hypotheses.</Paragraph>
+</Section>
+</Paper>
+

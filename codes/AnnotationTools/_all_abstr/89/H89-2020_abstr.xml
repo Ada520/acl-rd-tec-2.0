@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H89-2020">
+<Title>A Simple Statistical Class Grammar for Measuring Speech Recognition Performance</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> In this paper we will discuss our development of a new grammar that is to be used for evaluation of speech recognition systems. The grammar is a statistical first-order class grammar and has been developed for for two different task domains (the DARPA 1000-word Resource Management domain and a 2000-word personnel database domain). We will first motivate the development of this grammar, next describe the grammar and its development, and finally present results and conclusions. null</Paragraph>
+</Section>
+</Paper>
+

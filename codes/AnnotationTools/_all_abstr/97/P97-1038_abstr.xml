@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P97-1038">
+<Title>An Alignment Method for Noisy Parallel Corpora based on Image Processing Techniques</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a new approach to bitext correspondence problem (BCP) of noisy bilingual corpora based on image processing (IP) techniques.</Paragraph>
+<Paragraph position="1"> By using one of several ways of estimating the lexical translation probability (LTP) between pairs of source and target words, we can turn a bitext into a discrete gray-level image. We contend that the BCP, when seen in this light, bears a striking resemblance to the line detection problem in IP.</Paragraph>
+<Paragraph position="2"> Therefore, BCPs, including sentence and word alignment, can benefit from a wealth of effective, well established IP techniques, including convolution-based filters, texture analysis and Hough transform. This paper describes a new program, PlotAlign that produces a word-level bitext map for noisy or non-literal bitext, based on these techniques.</Paragraph>
+<Paragraph position="3"> Keywords: alignment, bilingual corpus, image processing</Paragraph>
+</Section>
+</Paper>
+

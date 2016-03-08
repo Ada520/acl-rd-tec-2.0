@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W01-1016">
+<Title>Component-based multimodal dialog interfaces for mobile knowledge creation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper addresses two related topics: Firstly, it presents building-blocks for flexible multimodal dialog interfaces based on standardized components (VoiceXML, XML) to indicate that thanks to well-supported standardizations, mobile multimodal interfaces to heterogeneous data sources are becoming ready for mass-market deployment, provided that adequate modularization is respected. Secondly, this is put in the perspective of a discussion of knowledge management in firms, and the paper argues that multimodal dialog systems and the naturalized mobile access to company data they offer will trigger a new knowledge management practice of importance for knowledge-intensive companies.</Paragraph>
+</Section>
+</Paper>
+

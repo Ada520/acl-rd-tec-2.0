@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1091">
+<Title>An Algorithmic Framework for the Decoding Problem in Statistical Machine Translation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The decoding problem in Statistical Machine Translation (SMT) is a computationally hard combinatorial optimization problem. In this paper, we propose a new algorithmic framework for solving the decoding problem and demonstrate its utility. In the new algorithmic framework, the decoding problem can be solved both exactly and approximately. The key idea behind the framework is the modeling of the decoding problem as one that involves alternating maximization of two relatively simpler subproblems. We show how the subproblems can be solved efficiently and how their solutions can be combined to arrive at a solution for the decoding problem. A family of provably fast decoding algorithms can be derived from the basic techniques underlying the framework and we present a few illustrations. Our first algorithm is a provably linear time search algorithm. We use this algorithm as a subroutine in the other algorithms. We believe that decoding algorithms derived from our framework can be of practical significance.</Paragraph>
+</Section>
+</Paper>
+

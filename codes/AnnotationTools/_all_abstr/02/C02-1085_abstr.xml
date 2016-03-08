@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C02-1085">
+<Title>Detecting Shifts in News Stories for Paragraph Extraction</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> For multi-document summarization where documents are collected over an extended period of time, the subject in a document changes over time. This paper focuses onsubject shiftandpresents amethod for extracting key paragraphs from documents that discuss the same event. Our extraction method uses the results of event tracking which starts from a few sample documents and finds all subsequent documents that discuss the same event. The method was tested on the TDT1corpus, andthe result shows the effectiveness of the method.</Paragraph>
+</Section>
+</Paper>
+

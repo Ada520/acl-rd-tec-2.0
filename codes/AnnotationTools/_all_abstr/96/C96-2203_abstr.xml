@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-2203">
+<Title>PSfx -&gt; +nk\[PersSuffPlurFirst\]</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 INTROI)UCTION
+</SectionTitle>
+<Paragraph position="0"> \[,exical entries in a morphology-lmsed system are words.</Paragraph>
+<Paragraph position="1"> Because of tile similarity, syntactic constructions occurring as entries in a mctaqcxicon can be called recta-words.</Paragraph>
+<Paragraph position="2"> Mcta-letters, that is, letters o1&amp;quot; a recta-word arc morpho-syntactic categories having an internal structure that describes syntaelic behavior of the entry in higher level condeg structions. The system called Hum0rE,~K (Humor l';nhanced with Syntactic Knowledge, where Humor stands lbr I lighspeed Unification Morphology) to be shown here consists el: nulnerous recta-lexicons. Each o1: them has a name: lhe syntactic category it describes. Categories like S', S, NP, VI&lt; etc. are described in separate lexicons. Meta-lexicons l'ornl a hierarchy, that is, letters in a lnetadexicon can refer to other (but only lower level) lexicons. Parsing on each level, therefore, can be realized as lexical h)ok-up. Neither backtracking, look-ahcad, tier other tilnc-consuming parsing steps arc needed in order to get the analysis of a sentence. The only on-line Ol)eratitm is a unit\]ability check for each possible lexical entry that matches lhe sentence in question.</Paragraph>
+<Paragraph position="3"> I This work was partially supported by the Ihmgm tan National Scientific Fund (()TKA).</Paragraph>
+<Paragraph position="4"> Gramnmrs are compiled into a nmtti-lcvel pattern slrttchtrc. ()n a lower level, parsing a word results in a recta-letter, that is, part of a recta-word on a higher level.</Paragraph>
+<Paragraph position="5"> Such structures, lbr example, NI' and VP, are recta-letters coming from lower levels and form a recta-word that can be parsed as a sentence, because of the existence of a rule S -~ NP VP in the original gratltlllar. A COtlIpIcx setliellce gratllt/lar can be broken up into non-rectlrsivc, gralnttlars describing smaller grammatical units on different levels.</Paragraph>
+<Paragraph position="6"> These granlmars are, of course, nmch simpler than the original one. Recursive transition networks (P, TN) can also be made according to similar principles, but their recursivc nattu'e cannot be Ionnd in our method. In other words: the output symbol of any level does not occur in the actual or lowcr level dictionaries.</Paragraph>
+<Paragraph position="7"> Tile whole lexicon cascade can be generated front arbitrary grmnmars writ/en in any usual (for the time being, CI:, but in tile near furore any fcahne-based) tbrnmlism.</Paragraph>
+<Paragraph position="8"> We call this step grammar learninL&lt; The sotl\wue tool we have developed for this reason lakes tile grallllllar ~ts inpttt, creates the largest regular subset of tile language it describes regarding the string-completion limit of Kornai (1985), then lbrms it finite pattern structure by depth limit and length limit fronl the above I'egtliar description.</Paragraph>
+</Section>
+</Paper>
+

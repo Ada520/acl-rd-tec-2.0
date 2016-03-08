@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-1511">
+<Title>From a Surface Analysis to a Dependency Structure</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes how we use the arrows properties from the 5P Paradigm to generate a dependency structure from a surface analysis. Besides the arrows properties, two modules, Algas and Ogre, are presented. Moreover, we show how we express linguistic descriptions away from parsing decisions.</Paragraph>
+</Section>
+</Paper>
+

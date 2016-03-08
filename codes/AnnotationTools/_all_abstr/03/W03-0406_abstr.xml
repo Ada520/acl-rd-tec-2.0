@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-0406">
+<Title>Unsupervised learning of word sense disambiguation rules by estimating an optimum iteration number in the EM algorithm</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we improve an unsupervised learning method using the Expectation-Maximization (EM) algorithm proposed by Nigam et al. for text classification problems in order to apply it to word sense disambiguation (WSD) problems. The improved method stops the EM algorithm at the optimum iteration number. To estimate that number, we propose two methods. In experiments, we solved 50 noun WSD problems in the Japanese Dictionary Task in SENSEVAL2. The score of our method is a match for the best public score of this task. Furthermore, our methods were confirmed to be effective also for verb WSD problems. null</Paragraph>
+</Section>
+</Paper>
+

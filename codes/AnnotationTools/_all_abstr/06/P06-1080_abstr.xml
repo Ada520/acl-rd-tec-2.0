@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P06-1080">
+<Title>Self-Organizing D2-gram Model for Automatic Word Spacing</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> An automatic word spacing is one of the important tasks in Korean language processing and information retrieval. Since there are a number of confusing cases in word spacing of Korean, there are some mistakes in many texts including news articles. This paper presents a high-accurate method for automatic word spacing based on self-organizing D2-gram model. This method is basically a variant of D2-gram model, but achieves high accuracy by automatically adapting context size.</Paragraph>
+<Paragraph position="1"> In order to find the optimal context size, the proposed method automatically increases the context size when the contextual distribution after increasing it dose not agree with that of the current context.</Paragraph>
+<Paragraph position="2"> It also decreases the context size when the distribution of reduced context is similar to that of the current context. This approach achieves high accuracy by considering higher dimensional data in case of necessity, and the increased computational cost are compensated by the reduced context size. The experimental results show that the self-organizing structure of D2-gram model enhances the basic model.</Paragraph>
+</Section>
+</Paper>
+

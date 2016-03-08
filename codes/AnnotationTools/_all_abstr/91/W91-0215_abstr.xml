@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W91-0215">
+<Title>A model for the interaction of lexical and non-lexical knowledge in the determination of word meaning</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The lexicon of a natural language understanding system that is not restricted to one single application but should be adaptable to a whole range of different tasks has to provide a flexible mechanism for the determination of word meaning. The reason for such a mechanism is the semantic variability of words, i.e. their potential to denote different things in different contexts. The goal of our project is a model that makes these phenomena explicit. We approach this goal by defining word meaning as a complex function resulting from the interaction of processes operating on knowledge elements. In the following we characterize the range of phenomena our model is intended to describe and give an outline of the way in which the interpretation process may determine the referential potential of words by the integration and evaluation of a variety of factors.</Paragraph>
+</Section>
+</Paper>
+

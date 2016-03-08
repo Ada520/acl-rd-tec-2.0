@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-1057">
+<Title>Disambiguation by Information Structure in DRT</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> ~i%xt understanding and high quality machine translation often necessitate the disambiguation of ambigous structures or lexical elements. Drawing inferences from the context can be a means for resolving semantic ambiguities. However, often, this is an ex-. pensive strategy that, in addition, not always comes up with a clear preference for one of the alternatives. In this paper, we argue that in a number of cases deep semantic analyses can be avoided by taking into account the constraints that the alternative readings impose onto the information structure.</Paragraph>
+<Paragraph position="1"> To this end, we present a study of the arnbigous German adverb erst and point out the particular circumstances under which the given information structure disambiguates the adverb without further semantic analysis.</Paragraph>
+</Section>
+</Paper>
+

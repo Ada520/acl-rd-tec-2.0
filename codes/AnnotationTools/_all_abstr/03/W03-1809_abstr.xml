@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-1809">
+<Title>A Statistical Approach to the Semantics of Verb-Particles</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a distributional approach to the semantics of verb-particle constructions (e.g. put up, make off ). We report first on a framework for implementing and evaluating such models. We then go on to report on the implementation of some techniques for using statistical models acquired from corpus data to infer the meaning of verb-particle constructions.</Paragraph>
+</Section>
+</Paper>
+

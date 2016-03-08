@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W96-0404">
+<Title>Approximate Generation from Non-Hierarchical Representations</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a technique for sentence generation. We argue that the input to generators should have a non-hierarchical nature. This allows us to investigate a more general version of the sentence generation problem where one is not pre-committed to a choice of the syntactically prominent elements in the initial semantics. We also consider that a generator can happen to convey more (or less) information than is originally specified in its semantic input. In order to constrain this approximate matching of the input we impose additional restrictions on the semantics of the generated sentence. Our technique provides flexibility to address cases where the entire input cannot be precisely expressed in a single sentence. Thus the generator does not rely on the strategic component having linguistic knowledge. We show clearly how the semantic structure is declaratively related to linguistically motivated syntactic representation.</Paragraph>
+</Section>
+</Paper>
+

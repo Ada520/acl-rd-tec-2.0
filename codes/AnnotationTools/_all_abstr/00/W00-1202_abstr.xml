@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-1202">
+<Title>Sense-Tagging Chinese Corpus</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Contextual information and the mapping from WordNet synsets to Cilin sense tags deal with word sense disambiguation. The average performance is 63.36% when small categories are used, and 1, 2 and 3 candidates are proposed for low, middle and high ambiguous words. The performance of tagging unknown words is 34.35%, which is much better than that of baseline mode.</Paragraph>
+<Paragraph position="1"> The sense tagger achieves the performance of 76.04%, when unambiguous, ambiguous, and unknown words are tagged.</Paragraph>
+</Section>
+</Paper>
+

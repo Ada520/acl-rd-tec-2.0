@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C02-1004">
+<Title>Combining unsupervised and supervised methods for PP attachment disambiguation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Statistical methods for PP attachment fall into two classes according to the training material used: first, unsupervised methods trained on raw text corpora and second, supervised methods trained on manually disambiguated examples. Usually supervised methods win over unsupervised methods with regard to attachment accuracy. But what if only small sets of manually disambiguated material are available? We show that in this case it is advantageous to intertwine unsupervised and supervised methods into one disambiguation algorithm that outperforms both methods used alone.1</Paragraph>
+</Section>
+</Paper>
+

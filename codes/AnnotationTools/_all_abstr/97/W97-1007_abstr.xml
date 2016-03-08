@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-1007">
+<Title>From Psycholinguistic Modelling of Interlanguage in Second Language Acquisition to a Computational Model</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The present article demostrates the implementation of a psycholinguistic model of second language learners' interlanguage in an Intelligent Computer Assisted Language Learning (ICALL) system for studying second language acquisition. We have focused our work on the common interlanguage structures of students at the same language level. The Interlanguage Level Model (ILM) is made up of these structures. null In this paper we explain the conceptual model of ILMs, we present the experimental method followed for collecting written materiM, we describe the output of the modelling tool, and finally some conclusions and future work are outlined.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C69-5501">
+<Title>UNFORTIINATELYJ</Title>
+<Section position="2" start_page="0" end_page="2" type="abstr">
+<SectionTitle>
+II - GRAMMAIRES-W
+</SectionTitle>
+<Paragraph position="0"> Nous ne donnerons ni une histoire ni une description formelle du syst~me-W; nos coll~gues informaticiens le font dans une communication au Congr~s de I'A.C.M., San Francisco, Aoflt 1969 \[DE CHASTELLIER et COLMERAUER (1969) \]. Nous voulons plutOt expliquer rapidement l'usage linguistique que nous raisons des caract~ristiques de ce syst~me.</Paragraph>
+<Paragraph position="1"> Celui-ci consiste en un parseur-interpr6teur (P.I.) et un synth6tiseur, tous deux de puissance transformationnelle, Le synth6tiseur est l'inverse du P.I. ~ quelques d~tails pros, et nous ne consider rons que le P.I. dans ce qui suit. Les entr~es de dictionnaire sont 6crites darts le m~me format et avec le m~me st@tut que les autres r~ gles, et jusqu'ici il n'y a pas de traitement s~par~ pour le dictionnaire \[cf. section V\].</Paragraph>
+<Paragraph position="2">  Le syst~me est essentiellement destin~ ~ tra~ter des cha~nes, quoiqu'il permette aussi, comme nous le verrons, de traiter des arbres. La donn~e d'entr~e pour le P.I. est constitute d'une cha~ne et d'une gram~aire; la sortie est une (ou des) chaSne(s) &amp;quot;interpr~t6e(s)&amp;quot;. La difference entre chaSne et cha~ne interpr~t6e est la suivante: la premiere est une s~quence non concat~n~e, que l'on peut concat~ner par la suite en lui appliquant des r~gles appropri~es; la seconde a subi la concat6nation et forme un symbole complexe unique.</Paragraph>
+<Paragraph position="3"> La consequence, parfois g6nante, en est que le P.I. ne peut traiter une chalne interpr6t6e que dans sa totalitY. Par exemple, si on a appliqu6 une r~gle: THE MAN . SPOKE --~ THE~MAN~POKE il sera impossible d'appliquer des r~gles subs~quentes ~ SPOKE, moins que la r~gle ne sp~cifie THE'~IAN aussi.</Paragraph>
+<Paragraph position="4"> Les structures d'arbre peuvent 8tre indiqu6es par des cha~nes parenth6s6es. De m6me on peut introduire des 6tiquettes de noeuds ou de fonctiens dans les cha~nes; il n'y a pas d'indices souscrits.</Paragraph>
+<Paragraph position="5"> Dans la description formelle, les chaYnes interpr6t~es finales sont appel6es &amp;quot;chaines axiomatiques&amp;quot;. (Le synth6tiseur commence sa d6rivation ~ partir de ces &amp;quot;chalnes axiomatiques&amp;quot;.) Dans notre syst~me de traduction, la donn6e de P.l. comporte une chaine anglaise \[cf. section VI\]; les &amp;quot;chaines axiomatiques&amp;quot; sont des chalnes de notre langage pivot \[cf. section IV\]; la sortie du synth6tiseur est une traduction en un franSSais &amp;quot;restreint&amp;quot; \[cf. section VII\]. Le P.l. et le synth6tiseur peuvent 6tre enchaln6s pour passage direct de l'anglais au fran~ais.</Paragraph>
+<Paragraph position="6"> Une grammaire West faite de deux parties, i.e. deux ensembles de r~gles disjoints, qui sont d6crits ci-dessous. Le syst~me applique chacune des deux parties l'une apr~s l'autre, ~ chaque 6tape du traitement. Cette alternance continuelle est peut 6tre le trait le plus inhahituel de la grammaire W, pour un linguiste, et les commen~ qants prennent en g6n6ral quelques semaines pour s'y faire.</Paragraph>
+<Paragraph position="7"> Le P.l. avance de gauche ~ droite sur la chaTne d'entr6e, ajoutant un symhole ~ la lois (s6par6 par des blancs de part et d'autre) au segment d6j~ interpr6t6. Pour chaque segment, il 6tablit un r6seau de noeuds 6tiquet6s, que nous pouvons repr6senter comme un demi treillis \[el. fig. lJ.</Paragraph>
+</Section>
+</Paper>
+

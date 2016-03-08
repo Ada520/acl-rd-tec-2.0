@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-1024">
+<Title>A Multilingual News Summarizer</Title>
+<Section position="1" start_page="0" end_page="160" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Huge multilingual news articles are reported and disseminated on the Internet. ltow to extract the kcy information and savc the reading time is a crucial issue. This paper proposes architecture of multilingual news sumlnarizer, including monolingual and multilingual clustering, similarity measure among lneaningful ullits, and presentation of summarization results. Translation anlong news stories, idiosyncrasy among languages, itnplicit information, and user preference are addressed.</Paragraph>
+<Paragraph position="1"> Introduction Today many web sites on the lnternet provide online news services. Multilingual news articles are reported periodically, and across geographic barrier to disseminate to readers. Readers can access the news stories conveniently, but it takes much time l'or people to read all tile news. This paper will present a personal news secretariat that helps on-line readers absorb news information from multiple sources in different languages.</Paragraph>
+<Paragraph position="2"> Such a news secretariat eliminates the redundant information in tile news articles, reorganizes tile news for readers, and helps them resolve the language barriers.</Paragraph>
+<Paragraph position="3"> Reorganization of news is sonic sort of document summarization, which creates a short version of original document. Recently, many papers touch on single document summarization (ltovy and Marcu, 1998a). Only a few touch on multiple document sulnmarization (Chen and Huang, 1999; Mani and Bloedorn, 1997; Radev and McKeown, 1998) and multilingual document summarization (Hovy and Marcu, 1998b). For multilingual multiple news summarization, several issues have to be addressed: (1) Translation among news stories in different languages The basic idea in multiple doculnent sulnmarizations is to identify which paris of news articles present similar reports. Because the news stories are in different languages, seine kind of Iranslation is required, e.g., term translation. Besides the problem of translation ambiguity, different news sites often use difl'erent names to refer tile same entity. The translation o1' named entities, which are usually ttnknown words, is another probleln.</Paragraph>
+<Paragraph position="4"> (2) Idiosyncrasy among languages 1)ifferent languages have their own specific features. For example, a Chinese sentence is composed of characters without word boundary.</Paragraph>
+<Paragraph position="5"> Word segmentation is indispensable for Chinese. Besides, Chinese writers often assign l~unctuation ntarks at randonl, how to determine a mealfingful unit for similarity checking is a crucial issue. Thus seine tasks may be done for specific languages during SUlnmarization.</Paragraph>
+<Paragraph position="6"> (3) hnplicit information in news reports Some information is ilnplicit in news stories. For example, the name of a country is usually not mentioned in a news article reporting an event that happened in that country. On the contrary, the country name is important in foreign news.</Paragraph>
+<Paragraph position="7"> Besides, time zone is used to specify date/time implicitly in the news.</Paragraph>
+<Paragraph position="8"> (4) User preference When users want to read documents in their familiar languages, news fragments in some</Paragraph>
+<Section position="1" start_page="159" end_page="159" type="sub_section">
+<SectionTitle>
+Our Multilingual Sunmmrization System
+</SectionTitle>
+<Paragraph position="0"> languages are preferred to those in other languages.</Paragraph>
+<Paragraph position="1"> Even machine translation should be introduced to translate news fragments. Besides, if a user prefers the news from tile view of his country, or more precisely, of some news sites, we should meet his need.</Paragraph>
+<Paragraph position="2"> Figure 1 shows the architecture of a multilingual summarization system, which is used to sulnmarize the news from multiple sources in different languages. It is composed of three m~tior components: several monolingual news clusterers, a multilingual news clusterer, and a news summarizer. Tile monolingual news clusterer receives a news stream from multiple on.line newspapers in its respective language, and directs them into several output news streams by using events. The multilingual news clusterer then matches and merges the news streams of the same event but in different languages in a cluster. The news summarizer summarizes the news stories for each event.</Paragraph>
+<Paragraph position="3"> The possible tasks for each component depend on the languages used. Some major tasks of a monolingual clusterer are listed below.</Paragraph>
+<Paragraph position="4">  (1) identifying word boundaries for Chinese and Japanese sentences, (2) Extracting named entities like people, place, organization, time, date and monetary expressions, (3) Clustering news streams based on  predefined topic set and named entities.</Paragraph>
+<Paragraph position="5"> The task for the multilingual clusterer is to align the news clusters in the same topic set, but in different languages. It is similar to document alignment in comparable corpus. Named entities are also useful cues.</Paragraph>
+<Paragraph position="6"> The major tasks for the news summarizer are shown as follows.</Paragraph>
+<Paragraph position="7">  (1) Partitioning a news story into several meaningful units (MUs), (2) Linking the lneaningful units, denoting the salne thing, from different news reports, (3) Displaying the summarization results under the consideration of language type users prefer, information decay and views of reporters. 1. Clustering</Paragraph>
+</Section>
+<Section position="2" start_page="159" end_page="160" type="sub_section">
+<SectionTitle>
+1.1 Monolingual Clustering
+</SectionTitle>
+<Paragraph position="0"> We adopt a two-level approach to cluster the news t)o111 multiple sources. At first, news is classified on the basis of a predefined topic set.</Paragraph>
+<Paragraph position="1"> Then, tile news articles in the same topic set are partitioned into several clusters according to named emities. Classification is necessary. Oil tile one hand, a famous person may appear in many kinds of news stories. For example, President Clinton may make a public speech (political news), join an international meeting (international news), or even just show up in the opening of a baseball game (sports news). On the other hand, a common name is flequently seen but denotes different persons. Classification reduces the ambiguity introduced by famous persons and/or common names.</Paragraph>
+<Paragraph position="2"> An event in a news story is characterized by five basic entities such as people, affairs, time, places and things. These entities form important cues during clustering. Systems for named entity extraction in a famous lnessage understanding competition (MUC, 1998) demonstrate promising performances for English, Japanese and Chinese.</Paragraph>
+<Paragraph position="3"> In our multilingual summarization system, we focus on English and Chinese. Gazetteer approach is adopted to deal with English news articles. Comparatively, Chinese news articles are segmented at first. Then, several types of inforlnation fiom character, sentence and text levels are employed to extract Chinese named  entities. These tasks are similar to tile approaches ill tile papers (Chen and Lee, 1996; Chen, el al., 1998a).</Paragraph>
+</Section>
+<Section position="3" start_page="160" end_page="160" type="sub_section">
+<SectionTitle>
+1.2 Multilingual Clustering
+</SectionTitle>
+<Paragraph position="0"> Tile multilingual clusterer takes input from the lnonolingual clusterers, and determines which news clusters ill which languages talk about tile same story. Recall that a news cluster consists of several news articles reporting tile same event, and one news cluster exists lbr one event ariel monolingual clustering. Ill this way, there is at most one corresponding news cluster ill another language. Therefore, the main task of the multilingual news clusterer is to lind tile matchings among tile clusters ill different languages. Figure 2 shows an example, ill Topic !, cluster cHl is aligned to c itr, and cluster Cil 2 is aligned to c.ili. Clusters cii~z arid cjl 2 are left unaligned. That means the denoted events arc reported ill only one language.</Paragraph>
+<Paragraph position="1"> Similarity of two clusters is measured based on verbs, named entities, and the other nouns.</Paragraph>
+<Paragraph position="2"> Because Chinese words are less anibiguolls tMn English ones (Chen, Bian anti Lin, 1999), we translate nouns and verbs in the Chinese news articles into English. If a word Ms more than one translation, we select high fl-equent English translation. For tile named enlities not listed ill tile lexicon, name transliteration similar to tile algoritlnn (Chen, el al., 1998b) is introduced for matching in non-alpMbetic (e.g., Clfinese) and alphabetic languages (e.g., English).</Paragraph>
+<Paragraph position="3"> Alignment is made under the same topic. A news chlster c i is aligried to another cluster cj if their similarity is above a threshold, and is tile highest between q and the other clusters. If tile similarity of q and the other clusters is less than a given threshold, c i is not aligned. It is possible because local news is reported only ill tile restricted areas.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

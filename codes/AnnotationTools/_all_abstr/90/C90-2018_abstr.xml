@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-2018">
+<Title>Feature Logic with Disjunctive Unification</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Universit~tt Stuttgart
+Abstract
+</SectionTitle>
+<Paragraph position="0"> \Ve introduce lea.tare terms containing sorts, vztriables, negation and named disjunction for the specification of feature structures. We show that the possibility to label di@mctions with names has m~tjor advantages both for the 'use of feature logic in computationaJ linguistics and its implementation. We give an open world semantics for feature terms, where the denotation of a term is determined in dependence on the disjunctive conte:rt, i.e. the choices taken for the disjunctions. We define conte:ct-unique feature description.% a relational, constraint-based rcpresentation language and give a normMization procedure that allows to test consistency of feature terms. This procedure does not only avoid expansion 1o disjunctive normal fbrm but maintains also structure sharing between information contained in dii:ferent disjuncts as much as possible. Context-unique feature descriptions can be easily implemented in environments that support ordinary unification (such as I?UOLOG).</Paragraph>
+</Section>
+</Paper>
+

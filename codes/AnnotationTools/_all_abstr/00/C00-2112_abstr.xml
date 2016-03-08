@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-2112">
+<Title>Making Sense of Reference to the Unfamiliar</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> C, omi)utational ai)proaches to reference resolution, like Centering Theory, are best at resolving referring expressions which denote familiar reD.rents. We demonstrate how, by t~king a proof-theoretic approach to reference resolution within a Centering-type framework, we are able to make sense of reti;rring expressions tbr unfamiliar referents. These include, in addition to bridging descriptions, definite descripl;ions like &amp;quot;the first man&amp;quot; and &amp;quot;the first snowdrops of Spring&amp;quot;. We claim that the first of these denotes a unique subset of a iflural discourse antecedent.</Paragraph>
+<Paragraph position="1"> While the second has no discourse antecedent, we similarly treat it as denoting a mfi(lue subset of a t'~nniliar referent.</Paragraph>
+</Section>
+</Paper>
+

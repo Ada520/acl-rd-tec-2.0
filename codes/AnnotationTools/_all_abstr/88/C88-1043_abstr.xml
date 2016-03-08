@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C88-1043">
+<Title>A Finite State Approach to German Verb Morphology</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a new, language independent model for analysis and generation of word forms based on Finite State Transducers (FSTs). It has been completely implemented on a PC and successfully tested with lexicons and rules covering all of German verb morphology and the most interesting subsets of French and Spanish verbs as well. The linguistic databases consist of a'letter-tree structured lexicon with annc~ tated feature lists and a FST which is constructed from a set of morphophonological rules. These rewriting rules operate on complete words unlike other FST-based systems.</Paragraph>
+</Section>
+</Paper>
+

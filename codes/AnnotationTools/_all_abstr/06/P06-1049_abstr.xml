@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P06-1049">
+<Title>Sydney, July 2006. c(c)2006 Association for Computational Linguistics A Bottom-up Approach to Sentence Ordering for Multi-document Summarization</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Mitsuru Ishizuka
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Ordering information is a difficult but important task for applications generating natural-language text. We present a bottom-up approach to arranging sentences extracted for multi-document summarization. To capture the association and order of two textual segments (eg, sentences), we define four criteria, chronology, topical-closeness, precedence, and succession. These criteria are integrated into a criterion by a supervised learning approach. We repeatedly concatenate two textual segments into one segment based on the criterion until we obtain the overall segment with all sentences arranged. Our experimental results show a significant improvement over existing sentence ordering strategies.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-1509">
+<Title>Binding of Anaphors in LTAG</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents an LTAG account for binding of reflexives and reciprocals in English. For these anaphors, a multi-component lexical entry is proposed, whose first component is a degenerate NP-tree that adjoins into the anaphor's binder. This establishes the local structural relationship needed to ensure coreference and agreement. The analysis also allows a parallel treatment of reflexives and reciprocals, which is desirable because their behavior is very similar.</Paragraph>
+<Paragraph position="1"> In order to account for non-local binding phenomena, as in raising and ECM cases, we employ flexible composition, constrained by a subject intervention constraint between the two components of the anaphor's lexical entry. Finally, the paper discusses further data such as extraction and picture-NP examples.</Paragraph>
+</Section>
+</Paper>
+

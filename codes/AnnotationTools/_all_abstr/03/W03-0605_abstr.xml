@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-0605">
+<Title>An Architecture for Word Learning using Bidirectional Multimodal Structural Alignment</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Learning of new words is assisted by contextual information. This context can come in several forms, including observations in non-linguistic semantic domains, as well as the linguistic context in which the new word was presented. We outline a general architecture for word learning, in which structural alignment coordinates this contextual information in order to restrict the possible interpretations of unknown words. We identify spatial relations as an applicable semantic domain, and describe a system-in-progress for implementing the general architecture using video sequences as our non-linguistic input. For example, when the complete system is presented with &amp;quot;The bird dove to the rock,&amp;quot; with a video sequence of a bird flying from a tree to a rock, and with the meanings for all the words except the preposition &amp;quot;to,&amp;quot; the system will register the unknown &amp;quot;to&amp;quot; with the corresponding aspect of the bird's trajectory.</Paragraph>
+</Section>
+</Paper>
+

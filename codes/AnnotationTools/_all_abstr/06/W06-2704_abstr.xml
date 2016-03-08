@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-2704">
+<Title>Towards an Alternative Implementation of NXT's Query Language via XQuery</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The NITE Query Language (NQL) has been used successfully for analysis of a number of heavily cross-annotated data sets, and users especially value its elegance and flexibility. However, when using the current implementation, many of the more complicated queries that users have formulated must be run in batch mode. For a re-implementation, we require the query processor to be capable of handling large amounts of data at once, and work quickly enough for on-line data analysis even when used on complete corpora. Early results suggest that the most promising implementation strategy is one that involves the use of XQuery on a multiple file data representation that uses the structure of individual XML files to mirror tree structures in the data, with redundancy where a data node has multiple parents in the underlying data object model.</Paragraph>
+</Section>
+</Paper>
+

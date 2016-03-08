@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P92-1024">
+<Title>Development and Evaluation of a Broad-Coverage Probabilistic Grammar of English-Language Computer Manuals</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> We present an approach to grammar development where the task is decomposed into two separate subtasks. The first task is hnguistic, with the goal of producing a set of rules that have a large coverage (in the sense that the correct parse is among the proposed parses) on a bhnd test set of sentences.</Paragraph>
+<Paragraph position="1"> The second task is statistical, with the goal of developing a model of the grammar which assigns maximum probability for the correct parse. We give parsing results on text from computer manuals.</Paragraph>
+</Section>
+</Paper>
+

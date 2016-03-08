@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-1906">
+<Title>BRUJA: Question Classification for Spanish. Using Machine Translation and an English Classifier.</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Question Classification is an important task in Question Answering Systems. This paper presents a Spanish Question Classifier based on machine learning, automatic online translators and different language features. Our system works with English collections and bilingual questions (English/Spanish). We have tested two Spanish-English online translators to identify the lost of precision. We have made experiments using lexical, syntactic and semantic features to test which ones made a better performance. The obtained results show that our system makes good classifications, over a 80% in terms of accuracy using the original English questions and over a 65% using Spanish questions and machine translation systems. Our conclusion about the features is that a lexical, syntactic and semantic features combination obtains the best result.</Paragraph>
+</Section>
+</Paper>
+

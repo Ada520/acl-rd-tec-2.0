@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-0206">
+<Title>Discourse-Level Annotation for Investigating Information Structure</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present discourse-level annotation of newspaper texts in German and English, as part of an ongoing project aimed at investigating information structure from a cross-linguistic perspective. Rather than annotating some specific notion of information structure, we propose a theory-neutral annotation of basic features at the levels of syntax, prosody and discourse, using treebank data as a starting point. Our discourse-level annotation scheme covers properties of discourse referents (e.g., semantic sort, delimitation, quantification, familiarity status) and anaphoric links (coreference and bridging). We illustrate what investigations this data serves and discuss some integration issues involved in combining different levels of stand-off annotations, created by using different tools.</Paragraph>
+</Section>
+</Paper>
+

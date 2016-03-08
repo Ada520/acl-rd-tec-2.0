@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-1429">
+<Title>Knowledge Acquisition for Natural Language.Generation</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe the knowledge acquisition (KA) techniques used to build the STOP system, especially sorting and think-aloud protocols. That is, we describe the ways in which we interacted with domain experts to determine appropriate user categories, schemas, detailed content rules, and so forth for STOP. Informal evaluations of these techniques suggest that they had some benefit, but perhaps were most successful as a source of insight and hypotheses, and should ideally have been supplemented by other techniques when deciding on the specific rules and knowledge incorporated into STOP.</Paragraph>
+</Section>
+</Paper>
+

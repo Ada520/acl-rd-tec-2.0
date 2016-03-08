@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-2406">
+<Title>Collocation Extraction: Needs, Feeds and Results of an Extraction System for German</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper provides a speci cation of requirements for collocation extraction systems, taking as an example the extraction of noun + verb collocations from German texts. A hybrid approach to the extraction of habitual collocations and idioms is presented, aiming at a detailed description of collocations and their morphosyntax for natural language generation systems as well as to support learner lexicography. null</Paragraph>
+</Section>
+</Paper>
+

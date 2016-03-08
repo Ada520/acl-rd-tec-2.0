@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W01-1406">
+<Title>A best-first alignment algorithm for automatic extraction of transfer mappings from bilingual corpora</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Translation systems that automatically extract transfer mappings (rules or examples) from bilingual corpora have been hampered by the difficulty of achieving accurate alignment and acquiring high quality mappings. We describe an algorithm that uses a best-first strategy and a small alignment grammar to significantly improve the quality of the transfer mappings extracted. For each mapping, frequencies are computed and sufficient context is retained to distinguish competing mappings during translation.</Paragraph>
+<Paragraph position="1"> Variants of the algorithm are run against a corpus containing 200K sentence pairs and evaluated based on the quality of resulting translations.</Paragraph>
+</Section>
+</Paper>
+

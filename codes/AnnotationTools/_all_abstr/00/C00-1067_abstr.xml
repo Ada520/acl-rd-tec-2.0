@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-1067">
+<Title>On Underspecified Processing of Dynamic Semantics</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We propose a new inference system which operales on underspecified semantic representations of scope and anaphora. This system exploits anaphoric accessibility conditions from dynamic selnantics to disambiguate scope ambiguities if possible. The main feature of the system is that it deals with underspecified descriptions directly, i.e. without enumeratlng readings.</Paragraph>
+</Section>
+</Paper>
+

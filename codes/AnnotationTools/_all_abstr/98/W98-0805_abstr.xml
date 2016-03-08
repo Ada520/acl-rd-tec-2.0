@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-0805">
+<Title>The value of minimal prosodic information in spoken language</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper reports on an investigation into representing tone unit boundaries (pauses) as well as words in a corpus of spoken English. An analysis of data from MARSEC (Machine Readable Spoken English Corpus) shows that, for professional speakers, the inclusion of this nfinimal prosodic information will lower the perplexity of a language model. The analysis is based on information theoretic techniques, and an objective method of evaluation is provided by entropy indicators, which are explained. This result is of general interest, and supports the development of improved language models for many applications. The automated capture of pauses seems to be technically feasible, and warrants further investigation. The specific issue which prompted this investigation is a task in broadcasting technology: the semi-autonmted production of online subtitles for live television programmes. This task is described, and an approach to it using speech recognition technology is explained.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P06-4014">
+<Title>Re-Usable Tools for Precision Machine Translation[?]</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The LOGON MT demonstrator assembles independently valuable general-purpose NLP components into a machine translation pipeline that capitalizes on output quality. The demonstrator embodies an interesting combination of hand-built, symbolic resources and stochastic processes.</Paragraph>
+</Section>
+</Paper>
+

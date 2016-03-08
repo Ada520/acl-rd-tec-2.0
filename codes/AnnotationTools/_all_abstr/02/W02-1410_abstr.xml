@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-1410">
+<Title>Question Terminology and Representation for Question Type Classication</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Question terminology isasetoftermswhichappear in keywords, idioms and xed expressions commonly observed in questions. This paper  investigateswaystoautomaticallyextractquestionterminologyfromacorpusofquestionsand null represent them for the purposeof classifyingby question type. Ourkeyinterestistoseewhether or not semantic features can enhance the representation of strongly lexical nature of question sentences. We compare two feature sets: one with lexical features only, and another with a mixture of lexical and semantic features. For evaluation, we measure the classication accuracy made bytwomachine learning algorithms, C5.0 and PEBLS, by using a procedure called domain cross-validation, which eectively measures the domain transferability of features.</Paragraph>
+</Section>
+</Paper>
+

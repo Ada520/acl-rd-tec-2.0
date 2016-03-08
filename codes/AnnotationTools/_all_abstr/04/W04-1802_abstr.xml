@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-1802">
+<Title>Metalinguistic Information Extraction for Terminology</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes and evaluates the Metalinguistic Operation Processor (MOP) system for automatic compilation of metalinguistic information from technical and scientific documents. This system is designed to extract non-standard terminological resources that we have called Metalinguistic Information Databases (or MIDs), in order to help update changing glossaries, knowledge bases and ontologies, as well as to reflect the metastable dynamics of special-domain knowledge.</Paragraph>
+</Section>
+</Paper>
+

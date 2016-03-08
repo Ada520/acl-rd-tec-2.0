@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-0803">
+<Title>OLLIE: On-Line Learning for Information Extraction</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper reports work aimed at developing an open, distributed learning environment, OLLIE, where researchers can experiment with different Machine Learning (ML) methods for Information Extraction.</Paragraph>
+<Paragraph position="1"> Once the required level of performance is reached, the ML algorithms can be used to speed up the manual annotation process.</Paragraph>
+<Paragraph position="2"> OLLIE uses a browser client while data storage and ML training is performed on servers. The different ML algorithms use a unified programming interface; the integration of new ones is straightforward.</Paragraph>
+</Section>
+</Paper>
+

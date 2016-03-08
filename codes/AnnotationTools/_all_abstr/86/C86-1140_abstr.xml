@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C86-1140">
+<Title>TItE ROLE OF SEMANTIC PROCESSING IN AN AUTOMATIC SPEECH UNDERSTANDING SYSTEM</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+TItE ROLE OF SEMANTIC PROCESSING
+IN AN AUTOMATIC SPEECH UNDERSTANDING SYSTEM
+</SectionTitle>
+<Paragraph position="0"> Astrid Brietzmann and Ute Ehrlich Lehrstuhl fuer Informatik 5 (Mustererkennung) Universitaet Erlangen-Nuernberg Martensstr. 3, 8520 Erlangen, F. R. Germany Abstract We present the semantics component of a speech understanding and dialogue system that is developed at our institute. Due to pronunciation variabilities and vagueness of the word recognition process, semantics in a speech understanding system has to resolve additional problems. Its main task is not only to build up a representation structure for the meaning of an utterance, as in a system for written input, semantic knowledge is also employed to decide between alternative word hypotheses, to judge the plausibility of syntactic structures, and to guide the word recognition process by expectations resulting from partial analyses.</Paragraph>
+</Section>
+</Paper>
+

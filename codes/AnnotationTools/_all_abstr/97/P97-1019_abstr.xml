@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P97-1019">
+<Title>Language and Information.</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Recent work on the syntax-semantics interface (see e.g. (Dalrymple et al., 1994)) uses a fragment of linear logic as a 'glue language' for assembling meanings compositionally. This paper presents a glue language account of how negative polarity items (e.g. ever, any) get licensed within the scope of negative or downward-entailing contexts (Ladusaw, 1979), e.g. Nobody ever left. This treatment of licensing operates precisely at the syntax-semantics interface, since it is carried out entirely within the interface glue language (linear logic). In addition to the account of negative polarity licensing, we show in detail how linear-logic proof nets (Girard, 1987; Gallier, 1992) can be used for efficient meaning deduction within this 'glue language' framework.</Paragraph>
+</Section>
+</Paper>
+

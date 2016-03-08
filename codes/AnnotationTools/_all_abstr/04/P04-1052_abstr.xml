@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P04-1052">
+<Title>Generating Referring Expressions in Open Domains</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present an algorithm for generating referring expressions in open domains. Existing algorithms work at the semantic level and assume the availability of a classi cation for attributes, which is only feasible for restricted domains. Our alternative works at the realisation level, relies on Word-Net synonym and antonym sets, and gives equivalent results on the examples cited in the literature and improved results for examples that prior approaches cannot handle. We believe that ours is also the rst algorithm that allows for the incremental incorporation of relations. We present a novel corpus-evaluation using referring expressions from the Penn Wall Street Journal Treebank.</Paragraph>
+</Section>
+</Paper>
+

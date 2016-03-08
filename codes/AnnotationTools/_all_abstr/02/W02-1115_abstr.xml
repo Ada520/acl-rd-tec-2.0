@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-1115">
+<Title>Selecting the Most Highly Correlated Pairs within a Large Vocabulary</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Occurence patterns of words in documents can be expressed as binary vectors. When two vectors are similar, the two words corresponding to the vectors may have some implicit relationship with each other. We call these two words a correlated pair.</Paragraph>
+<Paragraph position="1"> This report describes a method for obtaining the most highly correlated pairs of a given size. In practice, the method requires a0a2a1a4a3a6a5a8a7a10a9a12a11a13a1a4a3a15a14a16a14 computation time, and a0a2a1a4a3a17a14 memory space, where a3 is the number of documents or records. Since this does not depend on the size of the vocabulary under analysis, it is possible to compute correlations between all the words in a corpus.</Paragraph>
+</Section>
+</Paper>
+

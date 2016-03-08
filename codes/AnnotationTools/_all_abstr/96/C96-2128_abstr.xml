@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-2128">
+<Title>Reversible delayed lexical choice in a bidirectional framework</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe a bidirectional framework for natural language parsing and generation, using a typed feature formalism and an HPSG-based grammar with a parser and generator derived from parallel processing algorithms. We present an approach to delayed lexical choice in generation, based on subsumption within the sort hierarchy, using a lexicon of nnderinstantiated signs which at'(; derived fi'om the normal lexicon by lexical rules. We then show how delayed lexical choice can be used in parsing, so that some types of ill-formed inputs can be parsed, but well-formed outputs are generated, using the same shared linguistic information.</Paragraph>
+</Section>
+</Paper>
+

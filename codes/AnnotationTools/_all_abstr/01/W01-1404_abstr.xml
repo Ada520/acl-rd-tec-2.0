@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W01-1404">
+<Title>Approximating Context-Free by Rational Transduction for Example-Based MT</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Existing studies show that a weighted context-free transduction of reasonable quality can be effectively learned from examples. This paper investigates the approximation of such transduction by means of weighted rational transduction. The advantage is increased processing speed, which benefits real-time applications involving spoken language. null</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P99-1048">
+<Title>Corpus-Based Identification of Non-Anaphoric Noun Phrases</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Coreference resolution involves finding antecedents for anaphoric discourse entities, such as definite noun phrases. But many definite noun phrases are not anaphoric because their meaning can be understood from general world knowledge (e.g., &amp;quot;the White House&amp;quot; or &amp;quot;the news media&amp;quot;). We have developed a corpus-based algorithm for automatically identifying definite noun phrases that are non-anaphoric, which has the potential to improve the efficiency and accuracy of coreference resolution systems. Our algorithm generates lists of non-anaphoric noun phrases and noun phrase patterns from a training corpus and uses them to recognize non-anaphoric noun phrases in new texts. Using 1600 MUC-4 terrorism news articles as the training corpus, our approach achieved 78% recall and 87% precision at identifying such noun phrases in 50 test documents.</Paragraph>
+</Section>
+</Paper>
+

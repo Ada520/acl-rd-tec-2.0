@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-1305">
+<Title>Two-Phase Biomedical NE Recognition based on SVMs</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Using SVMs for named entity recognition, we are often confronted with the multi-class problem. Larger as the number of classes is, more severe the multi-class problem is. Especially, one-vs-rest method is apt to drop the performance by generating severe unbalanced class distribution. In this study, to tackle the problem, we take a two-phase named entity recognition method based on SVMs and dictionary; at the first phase, we try to identify each entity by a SVM classifier and post-process the identified entities by a simple dictionary look-up; at the second phase, we try to classify the semantic class of the identified entity by SVMs. By dividing the task into two subtasks, i.e.</Paragraph>
+<Paragraph position="1"> the entity identification and the semantic classification, the unbalanced class distribution problem can be alleviated. Furthermore, we can select the features relevant to each task and take an alternative classification method according to the task. The experimental results on the GENIA corpus show that the proposed method is effective not only in the reduction of training cost but also in performance improvement: the identification performance is about 79:9(Ffl = 1), the semantic classification accuracy is about 66:5(Ffl = 1).</Paragraph>
+</Section>
+</Paper>
+

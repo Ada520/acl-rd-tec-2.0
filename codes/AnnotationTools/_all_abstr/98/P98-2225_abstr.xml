@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-2225">
+<Title>Aligning Articles in TV Newscasts and Newspapers</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> It is important to use pattern information (e.g. TV newscasts) and textual information (e.g. newspapers) together. For this purpose, we describe a method for aligning articles in TV newscasts and newspapers. In order to align articles, the alignment system uses words extracted from telops in TV newscasts. The recall and the precision of the alignment process are 97% and 89%, respectively.</Paragraph>
+<Paragraph position="1"> In addition, using the results of the alignment process, we develop a browsing and retrieval system for articles in TV newscasts and newspapers.</Paragraph>
+</Section>
+</Paper>
+

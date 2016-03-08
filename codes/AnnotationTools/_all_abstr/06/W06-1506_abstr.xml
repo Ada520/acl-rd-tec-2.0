@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-1506">
+<Title>Pied-Piping in Relative Clauses: Syntax and Compositional Semantics based on Synchronous Tree Adjoining Grammar</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In relative clauses, the wh relative pronoun can be embedded in a larger phrase, as in a boy [whose brother] Mary hit.</Paragraph>
+<Paragraph position="1"> In such examples, we say that the larger phrase has pied-piped along with the whword. In this paper, using a similar syntactic analysis for wh pied-piping as in Han (2002) and further developed in Kallmeyer and Scheffler (2004), I propose a compositional semantics for relative clauses based on Synchronous Tree Adjoining Grammar. It will be shown that (i) the elementary tree representing the logical form of a wh-word provides a generalized quantifier, and (ii) the semantic composition of the pied-piped material and the wh-word is achieved through adjoining in the semantics of the former onto the latter.</Paragraph>
+</Section>
+</Paper>
+

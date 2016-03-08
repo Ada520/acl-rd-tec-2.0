@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-1209">
+<Title>Knowledge Extraction and Recurrent Neural Networks: An Analysis of an Elman Network trained on a Natural Language Learning Task</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present results of experiments with Elman recurrent neural networks (Elman, 1990) trained on a natural language processing task. The task was to learn sequences of word categories in a text derived from a primary school reader. The grammar induced by the network was made explicit by cluster analysis which revealed both the representations formed during learning and enabled the construction of state-transition diagrams representing the grammar. A network initialised with weights based on a prior knowledge of the text's statistics, learned slightly faster than the original network.</Paragraph>
+<Paragraph position="1"> In this paper we focus on the extraction of grammatical rules from trained Artificial Neural Networks and, in particular, Elman-type recurrent networks (Elman, 1990). Unlike Giles &amp; Omlin (1993 a,b) who used an ANN to simulate a deterministic Finite State Automaton (FSA) representing a regular grammar, we have extracted FSA's from a network trained on a natural language corpus. The output of k-means cluster analysis is converted to state-transition diagrams which represent the grammar learned by the network. We analyse the prediction and generalisation performance of the grammar.</Paragraph>
+</Section>
+</Paper>
+

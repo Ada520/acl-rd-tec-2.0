@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-1002">
+<Title>TAGARAB: A Fast, Accurate Arabic Name Recognizer Using High-Precision Morphological Analysis</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe a fast, high-performance name recognizer for Arabic texts. It combines a pattern-matching engine and supporting data with a morphological analysis component. The role of the morphological analysis in accurate name recognition is discussed. VCe also provide evaluations of both morphological analysis and name recognition.</Paragraph>
+</Section>
+</Paper>
+

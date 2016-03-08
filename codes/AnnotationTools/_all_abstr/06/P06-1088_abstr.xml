@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P06-1088">
+<Title>Wolfson Building Parks Road</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Withperformanceabove97%accuracyfor newspaper text, part of speech (POS) tagging might be considered a solved problem. Previous studies have shown that allowing the parser to resolve POS tag ambiguity does not improve performance.</Paragraph>
+<Paragraph position="1"> However, for grammar formalisms which use more fine-grained grammatical categories, for example TAG and CCG, tagging accuracy is much lower. In fact, for these formalisms, premature ambiguity resolution makes parsing infeasible.</Paragraph>
+<Paragraph position="2"> We describe a multi-tagging approach which maintains a suitable level of lexical category ambiguity for accurate and efficient CCG parsing. We extend this multi-tagging approach to the POS level to overcome errors introduced by automatically assigned POS tags. Although POS tagging accuracy seems high, maintaining some POS tag ambiguity in the language processing pipeline results in more accurate CCG supertagging.</Paragraph>
+</Section>
+</Paper>
+

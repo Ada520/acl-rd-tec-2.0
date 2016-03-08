@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C94-2152">
+<Title>Hypothesis Scoring over Theta Grids Information in Parsing Chinese Sentences with Serial Verb Constructions</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Serial verb constructions (SVCs) h~ Chinese are popular structural ambiguities which make parsing difficult, bl this paper, we propose a quantitative model, ~-model', based on theta grids hJfo~Tnation, that can systematically resolve ambiguities of SVCs to arbitrate competence between verbs h~ parsing SVCs sentences. S-model has three major characteristics.&amp;quot; (1) it can resolve SVCs without relying on ,~Tecific types of SVCs classified by linguists; (2) it can handle long SVCs, i.e., SVCs with more than two verbs; (3) it can simultaneously determine whether a verb candidate is really acts as a verb in the sentence.</Paragraph>
+</Section>
+</Paper>
+

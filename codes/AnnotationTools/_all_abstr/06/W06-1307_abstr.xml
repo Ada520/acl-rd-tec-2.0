@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-1307">
+<Title>DRT Representation of Degrees of Belief</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper investigates the problems facing modelling agents' beliefs in Discourse Representation Theory (DRT) and presents a viable solution in the form of a dialogue-based DRT representation of beliefs. Integrating modelling dialogue interaction into DRT allows modelling agents' beliefs, intentions and mutual beliefs. Furthermore, it is one of the aims of the paper to account for the important notion of agents' varying degrees of belief in different contexts.1</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P95-1033">
+<Title>An Algorithm for Simultaneously Bracketing Parallel Texts by Aligning Words</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe a grammarless method for simultaneously bracketing both halves of a parallel text and giving word alignments, assuming only a translation lexicon for the language pair. We introduce inversion-invariant transduction grammars which serve as generative models for parallel bilingual sentences with weak order constraints. Focusing on Wansduction grammars for bracketing, we formulate a normal form, and a stochastic version amenable to a maximum-likelihood bracketing algorithm. Several extensions and experiments are discussed.</Paragraph>
+</Section>
+</Paper>
+

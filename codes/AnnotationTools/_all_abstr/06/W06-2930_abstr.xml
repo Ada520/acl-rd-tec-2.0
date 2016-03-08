@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-2930">
+<Title>First Workshop on Treebanks and Linguistic Theories</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we describe a system for the CoNLL-X shared task of multilingual dependency parsing. It uses a base-line Nivre's parser (Nivre, 2003) that first identifies the parse actions and then labels the dependency arcs. These two steps are implemented as SVM classifiers using LIBSVM. Features take into account the static context as well as relations dynamically built during parsing.</Paragraph>
+<Paragraph position="1"> We experimented two main additions to our implementation of Nivre's parser: N-best search and bidirectional parsing. We trained the parser in both left-right and right-left directions and we combined the results. Toconstruct a single-head, rooted, and cycle-free tree, we applied the Chu-Liu/Edmonds optimization algorithm. We ran the same algorithm with the same parameters on all the languages.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W99-0207">
+<Title>Corpus-Based Anaphora Resolution Towards Antecedent Preference</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we propose a corpus-based approach to anaphora resolution combining a machine learning method and statistical information. First, a decision tree trained on an annotated corpus determines the coreference relation of a given anaphor and antecedent candidates and is utilized as a filter in order to reduce the number of potential candidates. In the second step, preference selection is achieved by taking into account the frequency information of coreferential and non-referential pairs tagged in the training corpus as well as distance features within the current discourse. Preliminary experiments concerning the resolution of Japanese pronouns in spoken-language dialogs result in a success rate of 80.6%.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-1002">
+<Title>Learning Word Clusters from Data Types</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The paper illustrates a linguistic knowledge acquisition model making use of data types, infinite nlenlory, and an inferential mechanism tbr inducing new intbrmation Dora known data.</Paragraph>
+<Paragraph position="1"> The mode\] is colnpared with standard stochastic lnethods applied to data tokens, and tested on a task of lexico semantic classification.</Paragraph>
+</Section>
+</Paper>
+

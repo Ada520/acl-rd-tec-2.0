@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N06-1004">
+<Title>Segment Choice Models: Feature-Rich Models for Global Distortion in Statistical Machine Translation</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a new approach to distortion (phrase reordering) in phrase-based machine translation (MT). Distortion is modeled as a sequence of choices during translation. The approach yields trainable, probabilistic distortion models that are global: they assign a probability to each possible phrase reordering. These &amp;quot;segment choice&amp;quot; models (SCMs) can be trained on &amp;quot;segment-aligned&amp;quot; sentence pairs; they can be applied during decoding or rescoring. The approach yields a metric called &amp;quot;distortion perplexity&amp;quot; (&amp;quot;disperp&amp;quot;) for comparing SCMs offline on test data, analogous to perplexity for language models. A decision-tree-based SCM is tested on Chinese-to-English translation, and outperforms a baseline distortion penalty approach at the 99% confidence level.</Paragraph>
+</Section>
+</Paper>
+

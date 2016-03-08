@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-2193">
+<Title>Senses of Polysemous Nouns: Building a Computational Lexicon of Basic Japanese Nouns</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We have constructed the IPA Lexicon of Basic Japanese Nouns (IPAL-BN), which has a hierarchical structure based on the syntactic and semantic properties of no,ms. In our lexicon, each lexical entry consists of subentries, and subentries have semantic property information. Among these elements, we focus here on the subentry description.</Paragraph>
+<Paragraph position="1"> Conventional Japanese dictionaries only enmnerate various usages. But it is also important to clarify the semantic relations between subentries. Thus we have developed a method for specifying the kind of relationship between subentries, using special cognitiw~ devices such as metaphor, metonymy, and synecdoche.</Paragraph>
+<Paragraph position="2"> After a brief review of the structure of our lexicon, we discuss how the nlethod can be applied to the lexical description. null</Paragraph>
+</Section>
+</Paper>
+

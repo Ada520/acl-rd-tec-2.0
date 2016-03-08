@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C86-1135">
+<Title>Generating Natural Language Text in a Dialog System</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> Several problem domains can be named where the task of automatic generation of natural language texts, not sentences, has become the&amp;quot;hot topic&amp;quot;, e.g. machine translation, dialog between the user and the computer in a dialog systam~ etc. Given the two centraI ~ roblems of natural language generation, hat of what to s.ay and that of how to say it, we discuss shortly the main components oF s dialog system which should enable the system to solve the problem of how to decide what to say, and then proceed to a more detailed treatment of the second task. The present approach draws heavily from the dialog system TARLUS being developed at Tartu State University, Estonia, USSR. Several modules of the system have been working independently for some time already, and experiments are under way in merging these modules into a unified dialog system. Though the surface generation is carried out in the Estonian language the authors hope that a number of ideas which have found their way into this system will be of more general interest.</Paragraph>
+</Section>
+</Paper>
+

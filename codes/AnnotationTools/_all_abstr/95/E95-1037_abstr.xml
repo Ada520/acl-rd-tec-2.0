@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E95-1037">
+<Title>Topic Identification in Discourse</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper proposes a corpus-based language model for topic identification. We analyze the association of noun-noun and noun-verb pairs in LOB Corpus. The word association norms are based on three factors: 1) word importance, 2) pair co-occurrence, and 3) distance. They are trained on the paragraph and sentence levels for noun-noun and noun-verb pairs, respectively. Under the topic coherence postulation, the nouns that have the strongest connectivities with the other nouns and verbs in the discourse form the preferred topic set. The collocational semantics then is used to identify the topics from paragraphs and to discuss the topic shift phenomenon among paragraphs.</Paragraph>
+</Section>
+</Paper>
+

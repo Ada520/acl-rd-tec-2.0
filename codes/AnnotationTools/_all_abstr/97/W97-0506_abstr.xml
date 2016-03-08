@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0506">
+<Title>Augmented and alternative NLP techniques for augmentative and alternative communication</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Current communication devices designed for non-speaking users are inadequate to support conversation because the speed with which a user can input information is typically very limited. We describe some practical work on word prediction, and discuss its limitations as a technique for speeding up free text entry. We then outline an alternative approach, currently under development, which combines prediction with a constrained technique for natural language generation.</Paragraph>
+</Section>
+</Paper>
+

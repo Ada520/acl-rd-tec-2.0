@@ -1,0 +1,40 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E83-1027">
+<Title>SYSTEMIC GRAMMAR IN COMPUTATION: THE NIGEL CASE</Title>
+<Section position="1" start_page="0" end_page="155" type="abstr">
+<SectionTitle>
+SYSTEMIC GRAMMAR IN COMPUTATION:
+THE NIGEL CASE
+Christian M.I.M. Matthiessen,
+USC/Information Sciences Institute
+1 INTRODUCTION
+</SectionTitle>
+<Paragraph position="0"> Computational linguistics needs grammars for several different tasks such as comprehension of text, machine translation, and text generation. 1 Clearly, any approach to grammar 2 has potentially something to offer computational linguistics, say for parsing or text generation (and, by the same token, there is a potential benefit from an application within computational linguistics for each approach, cf. \[Fawcett 80\]). However, it is equally clear that some approaches have much more to offer than others. Here I will take a look at Systemic Linguistics 3 in the service of computational linguistics tasks, concentrating on a  Contract NO. F49620-79.C.0181. The views, and conclusions contained in this document are those of the authors and should not be interpreted as necessarily representing the official policies or endorsements, either expressed or implied, of the Air Force Office of Scientific Research of the U.S. Government. I am very grateful to William Mann for many helpful comments on various versions of this paper; much of the discussion builds on work by him. f am also deeply indebted to Michael A.K. Hallida~'; I have profited from and drawn heavily on his insights about English grammar and semantics and the systemic framework. I am solely responsible for all errors.</Paragraph>
+<Paragraph position="1"> 2There are now in the early 80s a great number of grammatical mechanisms around -- witness for example the 1979 Milwaukee conference on current alternative approaches to syntax where around fourteen alternatives were presented (see \[Moravcsik &amp; Wirth 80\]). a collecbon which is only a sample, leaving out many current approaches. The term grammar is used in its traditional sense in systemic linguistics: it subsumes both syntax and morphology. This use contrasts with the more recent one where grammar subsumes semantics, syntax, morphology, and phonology.</Paragraph>
+<Paragraph position="2"> 3There are few grammatical mechanisms that have been developed within a framework with as impressive a tradition as Systemic Linguistics and with as wide a scope. The systemic framework is not just a non.transformational alternative to Chomsky's transformational grammar. It is different from Chomskyan work at the level of framework, not only at-the level of mechanism and notation. Systemic linguists ask questions like &amp;quot;How does communication succeed?&amp;quot;, &amp;quot;What are the relations between context and language use?&amp;quot;. &amp;quot;What can a speaker of English do grammatically to achieve a particular purpose?&amp;quot;. &amp;quot;What are the options for expressing grammatically a particular range of meanings?&amp;quot;, &amp;quot;What functions does language serve?&amp;quot; and so on. These are questions that are crucial to the success ot for example a text generation system. One consequence of questions of this type has been in Systemic Linguistics that text as a communicative unit is taken to be the basic linguistic unit rather than the sentences that are used to express texts, see \[Hasan 78\] and \[Hasan 79\]. Obviously, this view has far-reaching effects on the .',)nception of grammar. The systemic conception of language draws on continental European work, the British tradition started by Firth, and American anthropological linguistics. It has much to offer at a time when communication is beginning to assert itself as a central organizing notion in linguistic research instead of the much more limited notion of (primarily syntactic) competence that received so much attention for a long time in the CoOs. but began to lose its ap~,arent attractiveness in the 70s. For discussion of systemic grammar, see e.g. \[Ha!liday 69\], \[Halliday 76a\]. \[Hudson 76}. \[Davey 79\], \[Berry 77\], \[Fawcett 80\], and \[Matthiessen 83\].</Paragraph>
+<Paragraph position="3"> large computational systemic grammar for text generation (Nigel) that is currently being developed.</Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+1.1 What can systemic linguistics offer?
+</SectionTitle>
+<Paragraph position="0"> The question I will try to answer in this paper is what systemic linguistics can offer computational linguistics. Since the answer is, I think, far too long for a short discussion, I will let a more specific question represent the general question here: What can systemic linguistic accounts of grammar and semantics offer computational linguistics in the area of text generation? This question excludes for example the use of systemic grammar in parsing -- see \[Winograd 72\] -- and the large systemic body of work on discourse organization (see in particular \[Halliday &amp; Hasan 76\], \[Hasan 78\], \[Hasan 79\], \[Halliday &amp; Hasan 80\], \[Martin 83\], and \[Butler 83\]).</Paragraph>
+<Paragraph position="1"> The text generation task raises a number of demands on the grammatical component, Very roughly and generally stated, they amount to generating in conformity with diverse needs, such as the need for denotational appropriateness and the need for fluent text. There is no published general solution to the problem of controlling the grammar to generate in conformity with diverse needs. The discussion here continues and elaborates parts of \[Matthiessen 81\],</Paragraph>
+</Section>
+<Section position="2" start_page="0" end_page="155" type="sub_section">
+<SectionTitle>
+1.2 Systemic functionalism as a contribution
+</SectionTitle>
+<Paragraph position="0"> A cornerstone in systemic linguistics as developed by M.A.K.</Paragraph>
+<Paragraph position="1"> Halliday and others is systemic functionalism. 4 Grammar is to be investigated and interpreted in terms of the purposes it fulfills. Its organization is a function of these higher-level considerations.</Paragraph>
+<Paragraph position="2"> Apart from guiding research in systemic linguistics, this functionalism has been important in the design of systemic grammar. I will identify two design properties characteristic of systemic grammars that make them well suited to deal with the demands, better than grammars that are not designed to reflect the functionalism that the two ProPerties stem from. The two  properties have to do with the organization of grammar and with the process of sentence generation; they constitute factorings of the sentence generation task. One is a factoring into a process of controlled choice and a process of structure specification as a consequence of choices made. This factoring is due to the need to represent the organization of grammar in its role as a resource for communicative needs. The other is a {'actoring of the grammatical resources into domains that serve different purposes (what will be called the mete-functional factoring). I will use Nigel to illustrate how they work and what their value is in text generation Systems. I will also present a completely new addition to systemic grammar, the so-called chooser framework, developed in the context of the text generation task. 5</Paragraph>
+</Section>
+<Section position="3" start_page="155" end_page="155" type="sub_section">
+<SectionTitle>
+1.3 Organization of the discussion
+</SectionTitle>
+<Paragraph position="0"> First, I will sketch the steps in the process of text generation so that the role grammar has to play can be identified (section 2). The rest of the paper illustrates how systemic functionalism enables grammar to cope with tasks its role in the text generation process entails. I will use the generation of a particular text realized by a single sentence, Had Sir Christopher Wren been going to build a cathedra/ ever since his youth?, as a way of illustrating and organizing the discussion.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

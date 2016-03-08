@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C88-1037">
+<Title>Expressing quantifier scope in French generation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we propose a new method to express quantification and especially quantifier scope in French generation. Our approach is based on two points: the identification of the sentence components between which quantifier scope can indeed be expressed and a mechanism to reinforce the expression of quantifier scope. This approach is being integrated in a written French generator , called Hermes, which will become the generator of a portable natural language interface.</Paragraph>
+</Section>
+</Paper>
+

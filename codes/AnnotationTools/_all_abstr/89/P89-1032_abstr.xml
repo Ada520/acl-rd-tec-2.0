@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P89-1032">
+<Title>A COMPUTATIONAL MECHANISM FOR PRONOMINAL REFERENCE</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. INTRODUCTION
+</SectionTitle>
+<Paragraph position="0"> This paper describes an implemented mechanism for assigning antecedents to bound anaphors and personal pronouns, and for establishing disjoint reference between Noun Phrases. This mechanism is part of the BBN Spoken Language System (Boissn, et al.</Paragraph>
+<Paragraph position="1"> (1989)). The algorithm used is inspired by the indexing scheme of Chomsky (1960), augmented by tables analogous to the &amp;quot;Table of Coreference&amp;quot; of Jackendoff (1972). This mechanism handles only intrassntentJal phenomena and only selects the syntactically and semantically possible antecedents. Ultimately, it is meant to be used in conjunction with an extra-sentential reference mechanism like that described in Ayuso (1989) to include antecedents from other utterances and to utilize discourse factors in its final selection of an antecedent.</Paragraph>
+<Paragraph position="2"> In Section 2 the empirical and theoretical background to this treatment is sketched out. In Section 3, the actual algorithm used is described in detail. In Section 4, the associated semantic interpretation mechanism is presented. In Section 5, we compare the algorithm with related work. Finally, in Section 6, remaining theoretical and implementational issues are discussed.</Paragraph>
+</Section>
+</Paper>
+

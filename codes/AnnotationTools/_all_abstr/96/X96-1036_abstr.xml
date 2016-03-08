@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="X96-1036">
+<Title>Integration of Document Detection and Information Extraction</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> We have conducted a number of experiments to evaluate various modes of building an integrated detection/extraction system. The experiments were performed using SMART system as baseline. The goal was to determine if advanced information extraction methods can improve recall and precision of document detection. We identified the following two modes of integration: I. Extraction to Detection:broad-coverage extraction  1. Extraction step: identify concepts for indexing 2. Detection step 1: low recall, high initial precision 3. Detection step 2: automatic relevance  feedback using top N retrieved documents to regain recall.</Paragraph>
+<Paragraph position="1"> I1. Detection to Extraction: query-specific extraction 1.Detection step 1: high recall, low precision run 2.Extraction step: learn concept(s) from query and retrieved subcollection 3.Detection step 2: re-rank the subcollection to increase precision Our integration effort concentrated on mode I, and the following issues: 1.use of shallow but fast NLP for phrase extractions and disambiguation in place of a full syntactic parser</Paragraph>
+</Section>
+</Paper>
+

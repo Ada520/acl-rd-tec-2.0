@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E93-1063">
+<Title>A Constraint-based Representation Scheme of Collocational Structures</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> The main aim of the ET-10/?5 project, 'Collocations and the Lexicalisation of Semantic Operations '1, is to evaluate the use of Mel'~uk's analysis of collocations in terms of lexical functions 2, as an interlingun device in a machine translation system. In this poster we only point out the main design issues involved in encoding the essential parts of this analysis in an HPSG-style framework. Other aspects of the project, such as the definition of collocations, or the evaluation of the analysis as such, will not be dealt with. The linguistic analysis of collocations (as far as it is dealt with in this poster) involves two major issues.</Paragraph>
+<Paragraph position="1"> * Coding the Mel'~ukian analysis in an HPSG-Iike grammar.</Paragraph>
+<Paragraph position="2"> * Designing the architecture of the lexicon.</Paragraph>
+</Section>
+</Paper>
+

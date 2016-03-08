@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H89-1025">
+<Title>Acoustic-Phonetics Based Speech Recognition</Title>
+<Section position="1" start_page="0" end_page="167" type="abstr">
+<SectionTitle>
+OBJECTIVE:
+</SectionTitle>
+<Paragraph position="0"> The objective of this project is to develop a robust and high-performance speech recognitiotl system using a segment-based approach to phonetic recognition. The recognition system will eventually be integrated with natural language processing to achieve spoken lallguagc understanding.</Paragraph>
+<Paragraph position="1"> SUMMA R Y OF ACCOMPLISHMENTS: Developed a phonetic recognition front-end and achieved 77% and 71% classiilcatiou accuracy under speaker-dependent and -independent conditions, respectively, using a set of 38 context-independent models.</Paragraph>
+<Paragraph position="2"> Collaborated with researchers at SRI in the development of the MISTRI system, making explicit use of acoustic-phonetic and phonological knowledge.</Paragraph>
+<Paragraph position="3"> Developed the SUMMIT speech recognition system that incorporates auditory modelling and explicit segmentation, and achieved a speaker-independent accuracy of 87% on the DARPA 1000-word Resource Management task using 75 phoneme models.</Paragraph>
+<Paragraph position="4"> Developed probabilistic natural language system, TINA, and achieved a test-set coverage of 78% with perplexity of 42 for the Resource Management task.</Paragraph>
+<Paragraph position="5"> * Transcribed all 6300 sentences for the TIMIT database.</Paragraph>
+<Paragraph position="6"> Developed a set of research tools for the DARPA speech research community in ot'dcr to facilitate data collection, parameter computation, statistical analysis, and speech synthesis.</Paragraph>
+<Paragraph position="7"> PLANS: Improve the speech recognition performance by incorporating context-dependency ia phoneme modelling.</Paragraph>
+<Paragraph position="8"> Integrate TINA into SUMMIT in order to develop spoken language understanding capabilities.</Paragraph>
+<Paragraph position="9"> Develop a back-end on the task of a Knowledgeable Navigator, and integrate it with the spoken language system.</Paragraph>
+<Paragraph position="10"> Begin hardware development, such that the system will soon be able to execute in near real-time.</Paragraph>
+</Section>
+</Paper>
+

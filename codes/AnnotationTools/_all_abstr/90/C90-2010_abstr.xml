@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-2010">
+<Title>I Icad Pbrasc V S, VI' N NP Prcp pp</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+3. 77ze Formal Definition for hzformation.based Case
+</SectionTitle>
+<Paragraph position="0"> Grwnmar: The Lexicon and Principles rl'be ICG is composed of two major components. One is the lexicon which is the set of feature structures ms described in section 2. The other is the principles. Each feature structure can be viewed as a set of interpretable representations of syntactic and semantic information governed by a formal synt~. A parser or generator interpretes feature structures while parsing or generating sentences. The interpretation processes are guided by the principles of the grammar, qhe principles define well-formedness conditions and the rules for infommtion management for sentences and phrases. The parser or generator takes lexical information and unify it in such a way that changes of lexical information woukl not affect the phr,'ksing or generating process.</Paragraph>
+<Paragraph position="1"> Therefore we claim that ICG is declarative, qlm major principles of ICG are summarized below:</Paragraph>
+</Section>
+</Paper>
+

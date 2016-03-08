@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E83-1020">
+<Title>A FLEXIBLE NATURAL LANGUAGE PARSER BASED ON A TWO-LEVEL REPRESENTATION OF SYNTAX</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> In this paper we present a parser which al lows to make explicit the interconnections between syntax and semantics, to analyze the sentences in a quasi-deterministic fashion and, in many cases, to identify the roles of the various constituents even if the sentance is ill-formed. The main fea ture of the approach on which the parser is based consists in a two-level representation of the sy_n tactic knowledge: a first set of rules emits h~ potheses about the constituents of the sentence and their functional role and another set of rules verifies whether a hypothesis satisfies the con straints about the well-formedness of sentences.</Paragraph>
+<Paragraph position="1"> However, the application of the second set of rules is delayed until the semantic knowledge con firms the acceptability of the hypothesis. If the semantics reject it, a new hypothesis is obtained by applying a simple and relatively unexpensive &amp;quot;natural&amp;quot; modification; a set of these modifica tions is predefined and only when none of them is applicable a real backup is performed: in most cases this situation corresponds to a case where people would normally garden path.</Paragraph>
+</Section>
+</Paper>
+

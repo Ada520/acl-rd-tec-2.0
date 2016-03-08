@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-2208">
+<Title>The Automatic Extraction of Open Compounds from Text Corpora</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a new method for extracting open compounds (uninterrupted sequences of words) from text corpora of languages, such as Thai, Japanese and Korea that exhibit unexplicit word segmentation. Without applying word segmentation techniques to the inputted plain text, we generate n-gram data from it. We then count the occurrence of each string and sort them in alphabetical order. It is significant that the frequency of occurrence of strings de, creases when the window size of observation is extended. From the statistical point of view, a word is a string with a fixed pattern that is used repeatedly, meaning that it; shouht occur with a higher frequency than a string that is not a word. We observe the variation of frequency of the sorted n-gram data and extract the strings that experience a significant (:hange in frequency of oc(:urrence when their length is extended. We apply this occurrence test to both the right and left hand sides of all strings to ensure the accurate detection of both boundaries of the string. The method returned satisfying results regardless of the size of the input file.</Paragraph>
+</Section>
+</Paper>
+

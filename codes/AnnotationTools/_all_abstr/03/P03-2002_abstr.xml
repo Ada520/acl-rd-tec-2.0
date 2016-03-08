@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P03-2002">
+<Title>An Ontology-based Semantic Tagger for IE system</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we present a method for the semantic tagging of word chunks extracted from a written transcription of conversations. This work is part of an ongoing project for an information extraction system in the field of maritime Search And Rescue (SAR). Our purpose is to automatically annotate parts of texts with concepts from a SAR ontology. Our approach combines two knowledge sources a SAR ontology and the Wordsmyth dictionarythesaurus, and it uses a similarity measure for the classification. Evaluation is carried out by comparing the output of the system with key answers of predefined extraction templates.</Paragraph>
+</Section>
+</Paper>
+

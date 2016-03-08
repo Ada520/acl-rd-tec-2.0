@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P06-2085">
+<Title>Using Machine Learning to Explore Human Multimodal Clarification Strategies</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We investigate the use of machine learning in combination with feature engineering techniques to explore human multi-modal clarification strategies and the use of those strategies for dialogue systems.</Paragraph>
+<Paragraph position="1"> We learn from data collected in a Wizard-of-Oz study where different wizards could decide whether to ask a clarification request in a multimodal manner or else use speech alone. We show that there is a uniform strategy across wizards which is based on multiple features in the context.</Paragraph>
+<Paragraph position="2"> These are generic runtime features which can be implemented in dialogue systems.</Paragraph>
+<Paragraph position="3"> Our prediction models achieve a weighted f-score of 85.3% (which is a 25.5% improvement over a one-rule baseline). To assess the effects of models, feature discretisation, and selection, we also conduct a regression analysis. We then interpret and discuss the use of the learnt strategy for dialogue systems. Throughout the investigation we discuss the issues arising from using small initial Wizard-of-Oz data sets, and we show that feature engineering is an essential step when learning from such limited data.</Paragraph>
+</Section>
+</Paper>
+

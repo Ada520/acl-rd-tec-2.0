@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W91-0114">
+<Title>SHARED PREFERENCES</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+!Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper attempts to develop a theory of heuristics or preferences that can be shared between understanding and generation systems. We first develop a formal analysis of preferences and consider the relation between their uses in generation and understanding. We then present a bi-directional algorithm for applying them and examine typical heuristics for lexical choice, scope and anaphora in:, more detail.</Paragraph>
+</Section>
+</Paper>
+

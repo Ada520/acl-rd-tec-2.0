@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-1019">
+<Title>Connectivity in Bag Generation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> 'Fhis l)aper presents a pruning technique which can bc used to reduce the number of paths searched in rule-based b~g generators of the type proposed by (Poznafiski el; al., 1!)95) and (l'opowMl, 1995). Pruning the search space in these generators is important given the. computational cost of bag generation. 'rhe technique relies on a connectivity constraint between the semantic indices associated with each lexical sign in a ba R.</Paragraph>
+<Paragraph position="1"> Testing the algorithm on a range of sentences shows reductions in the~ generation time and the nmnber of edges constru cl.cd.</Paragraph>
+</Section>
+</Paper>
+

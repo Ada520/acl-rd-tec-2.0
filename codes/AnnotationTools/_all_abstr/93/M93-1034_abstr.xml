@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="M93-1034">
+<Title></Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+APPENDIX B:
+MUC-5 TEST SCORES
+</SectionTitle>
+<Paragraph position="0"> This appendix contains the summary score reports for each system on the MUC-5 evaluation . The reports are ordered by language/domain (EJV, JJV, EME, JME) and secondarily by site (in alphabetical order).</Paragraph>
+<Paragraph position="1"> Deeper investigation into system performance may be done on the basis of template-by-template scor e reports, which detail the performance of the system on each article in the test set . The template-by-template score reports are not included in this appendix .</Paragraph>
+<Paragraph position="2"> A brief introduction to reading the score reports is presented here . Some information on the performance metrics may also be found in the paper, &amp;quot;Tipster/MUC-5 Information Extraction System Evaluation&amp;quot; by B . Sundheim in this volume . Further description of the score report and further definition and explanation of the scoring categories and performance metrics may be found in this volume in the paper titled &amp;quot;MUC-5 Evaluatio n Metrics&amp;quot; by N. Chinchor and B. Sundheim .</Paragraph>
+<Paragraph position="3"> The first column in the report, SLOT, contains one of the following three types of label: A slot name, e.g., content An object name, e.g., &lt;template&gt; The word &amp;quot;subtotals&amp;quot; Of the three types of rows, the one of primary interest is the one labeled with a slot name . The rows labeled with an object name may be disregarded. The rows containing subtotals may be of interest to those interested in performance on the various types of objects in the template .</Paragraph>
+<Paragraph position="4"> The following tallies for the test set are presented in columns in the score reports :</Paragraph>
+</Section>
+</Paper>
+

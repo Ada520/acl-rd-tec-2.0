@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H94-1003">
+<Title>The Comlex Syntax Project: The First Year</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> We describe the design of Comlex Syntax, a computational lexicon providing detailed syntactic information for approximately 38,000 EnglJish headwords. We consider the types of errors which arise in creagng such a lexicon, and how such errors can be measured and controlled.</Paragraph>
+</Section>
+</Paper>
+

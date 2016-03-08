@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C92-4177">
+<Title>A System for Simpler Construction of Practi-</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> L'acqnisition automatique de connaissance lexicale h partir de larges corpus s'est essentiellement oceup&amp; des phfinom~nes de co-occurrence, aux dfipens des traits lexicaux inh~rents. Nous prfisentons ici une m&amp;hodologie qui permet d'obtenir l'information sfimantique sur l'aspect du verbe en analysa~t automatiquement un corpus et en appliquant des tests linguistiques h l'aide d'une stifle d'outils d'anrdyse structura\]e. Lorsque ces deux t~:hes sont accomplies, nous proposons une rfipresentation de l'aspect du verbe qni associe une valeur de mesure pour les difffirents types d'fiv~nements. Les mesures zefl~tent l'usage typique du verbe, et par consfiquent une mesure de rfisistance ou de non-r~sistance h la coercion dans le eontexte de la phrase. Les rfisultats que nous rapportons ici ont fitfi obtenus de deux mani~res: en extrayant l'information n&amp;essrSre h partir du corpus &amp;iquetfi de Francis and Ku~era (1982), et en fais~nt tourner un analyseur syntaxlque (MeCord 1980, 1990) sur le corpus du Reader's Digest afin d'extraire une information plus pr&amp;ise sur l'usage du verbe dans le texte.</Paragraph>
+<Paragraph position="1"> Notre travail iUustre deux aspects:  1. Les ptopri6t6s lexicales inh6rentes  peuvent fitre dfitermin&amp;s en appliqurmt aux textes une s&amp;ie de tests llngnistiques bien &amp;ablis. Cela donne l'analyse de corpus une dimension suppl~mentaire qui va au-delh des ph~nom~nes de coocurrence (eomme par example information mutuelle, substitutabilitfi).</Paragraph>
+<Paragraph position="2"> 2. Une propri~t~ lexieale n'a pas besoin d'etre discrete mats peut &amp;re repr~sent~e en tant que valeur ~ interprdter comme une tendance ou probabilitY; de cette mani~re, \]e oh.jet lexieal exprime la propri~t~ donn~e darts un contexte non-marqu&amp; Les valeurs der/v~es du corpus sont variables, e'est-h-dire des valeurs h degr~s. Des tests linguistiques ont &amp;~ automatiquement appliques aux corpus analys~s de mani~re k d&amp;erminer la valeur initiale de l'aspect pour la stativit~, et ce, pour un ensenble de verbes frequents, repr~sentant plus de 90% des occurrences de verbes dans un corpus d'un million de roots.</Paragraph>
+<Paragraph position="3"> ACTES DE COLING-92, NArTr~. 23-28 AOl~r 1992 1 1 2 6 PROC. OF COLING-92. NANTES, AUG. 23-28, 1992 Degrees of Stativity: The Lexical Representation of Verb Aspect Judith L. Klavans and Martin Chodorow t</Paragraph>
+</Section>
+</Paper>
+

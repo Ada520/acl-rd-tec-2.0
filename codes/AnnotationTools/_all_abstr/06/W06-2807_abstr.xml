@@ -1,0 +1,31 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-2807">
+<Title>Novelle,acollaborativeopensourcewritingtoolsoftware</Title>
+<Section position="2" start_page="0" end_page="40" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> Computationallinguistsare facingthe explosion of new formsof writingas a massphenomenon.</Paragraph>
+<Paragraph position="1"> Tellingpersonalandcollaborativestoriesthrought webtechnologiesisknownundertheetiquettesof 'blog'and 'wiki'. It thereforebringsnew challengestothefieldofnaturallanguageprocessing. null  Wearetryingtoaddressthembyrenderingexplicitly the structureof thesenew formsof text in a way suitableforlinguisticcomputation.In order to do so, wearebuildingan opensourcewriting toolsoftware,calledNovelle.</Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+1.1 HypertextasaNewWritingSpace
+</SectionTitle>
+<Paragraph position="0"> Bolter(1991)was the first scholarwhostressed theimpactofthedigitalrevolutiontothemedium of writing. Termsas 'chapter','page'or 'footnote'simplybecomemeaninglessinthenewtexts, null or they highly change their meaning. When Gutenberg inventedthe printingpressand Aldo Manuzioinventedthe bookas we know it, new formsofwritingsarose.Forexample,whenbooks shouldn't be copiedby handany longer, authors tooktheadvantageandstartwritingoriginalbooks andevaluation- i.e. literarycriticism- unlike in theprevioustimes(Eisenstein,1983).Nowadays the use of computersfor writinghas drammaticallychanged,expeciallyaftertheirinterconnec- null tionviatheinternet,sinceat leastthefoundation of the web(Berners-Lee,1999). For example,a 'webpage'is moresimilarto an infinite canvas thana writtenpage(McCloud,2001).Moreover, whatseemstobelostistherelations,like thetextureunderpinningthetext itself. Froma positive  pointofviewthesenewformsofwritingmayrealizethepostmodernistanddecostructionistdreams null of an 'operaaperta'(openwork), as Eco would defineit (1962).Froma morepessimisticone,an authormayfeelto have lostpowerin thisopenness. Henceforththe collaborative traitsof blogs andwikis(McNeill,2005)emphasizeannotation, comment,and strongediting. They give more powerto readers,eventuallyfillingthe gap - the so-calledactive readersbecomeauthorsas well.</Paragraph>
+<Paragraph position="1"> Thissituationcouldmake new problemsriseup:  Whoownsthetext?Whichroleissuitableforauthors?We have toanalysethembeforepresenting thearchitectureofNovelle.</Paragraph>
+</Section>
+<Section position="2" start_page="0" end_page="40" type="sub_section">
+<SectionTitle>
+1.2 Knownproblems
+</SectionTitle>
+<Paragraph position="0"> It is certainlytrue that wikisand blogsare new formsof text. It is alsotruethatwehave already  mettheseproblemsinthefirstformofpurelydigital texts - hypertexts. Now we are facingthe samequestionduringprocessingtextsinblogsand wikis.We considerhypertextsasparentsofblogs  andwikis.Ouraimistousetheanalysisofhypertextsforinterestinginsights,usefulforblogsand null wikistoo.</Paragraph>
+<Paragraph position="1">  Followingthe exampleof Landow (1994),we willcalltheautonomousunits of a hypertext lexias (from 'lexicon'),a word coinedby Roland Barthes(1970).Consequently, a hypertextisa set oflexias. Inhypertextstransitionsfromonelexia  toanotherarenotnecessarilysequential,butnavigational. Themainproblemsof hypertexts, acknowledgedsincethebeginning,havebeentraced null asfollows(Nelson,1992): * Theframingproblem, i.e. creatingarbitrary closedcontexts of verylarge documentcollections. When extractingsub-collections, somelinksmaybecutoff.</Paragraph>
+<Paragraph position="2"> * Comparingcomplex alternatives, i.e. to get  paralleloralternateversionsofthesamedocumentin a simpleandeffective way, oneof themaingoalofXanadu,theultimate&amp;quot;global hypertext&amp;quot;dreamtbyNelson.</Paragraph>
+<Paragraph position="3"> * Typologyoflinks, i.e.whenlinksbecometoo many, weneedatypologyforlinks,avoiding confusiontothereader/author.</Paragraph>
+<Paragraph position="4"> * Version control, as the systemshouldkeep trackof thehistoryof every document,saving differencesand pointingout correspondencies. null We take fromwikisthe conceptof document historyanditsconsequences.We considerit as a goodapproximationof the'versioncontrol'conceptasshownabove. null Inwikiseverydocumentkeepstrackofitsown history:creatinga documentmeanstostarta history, editinga documenttomove ahead,restoring tomovebackontothehistorytimeline,destroying a documentto stopthe historyitself. Moreover, a sandboxis a temporaryview of a documentitself- i.e. a sandboxcannotcausea changeinthe history(CunninghamandLeuf,2001). Figure1 showsthemodel.</Paragraph>
+<Paragraph position="5">  sideredas permanentviews, i.e. views with a timestamp. Consequently, exceptin the caseof sandboxes, everychangein thedocumentcannot be erased. Thismodelwillhave a strongimpact  ontheroleoflinksandontheunderpinningstructureofNovelleitself. null</Paragraph>
+</Section>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P06-3007">
+<Title>Sydney, July 2006. c(c)2006 Association for Computational Linguistics Investigations on Event-Based Summarization</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We investigate independent and relevant event-based extractive mutli-document summarization approaches. In this paper, events are defined as event terms and associated event elements. With independent approach, we identify important contents by frequency of events. With relevant approach, we identify important contents by PageRank algorithm on the event map constructed from documents.</Paragraph>
+<Paragraph position="1"> Experimental results are encouraging.</Paragraph>
+</Section>
+</Paper>
+

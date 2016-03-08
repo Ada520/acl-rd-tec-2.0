@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P99-1072">
+<Title>Improving Summaries by Revising Them</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a program which revises a draft text by aggregating together descriptions of discourse entities, in addition to deleting extraneous information. In contrast to knowledge-rich sentence aggregation approaches explored in the past, this approach exploits statistical parsing and robust coreference detection. In an evaluation involving revision of topic-related summaries using informativeness measures from the TIPSTER SUMMAC evaluation, the results show gains in informativeness without compromising readability.</Paragraph>
+</Section>
+</Paper>
+

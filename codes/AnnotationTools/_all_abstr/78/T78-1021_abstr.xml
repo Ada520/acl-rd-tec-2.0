@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="T78-1021">
+<Title>The Problem of Naming Shapes: Vision-Language Interface</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+i. Introduction
+</SectionTitle>
+<Paragraph position="0"> In this paper, we willpose more questions than present solutions. We want to raise some questions in the context of the representation of shapes of 3-D objects. One way to get a handle on this problem is to investigate whether labels of shapes and their acquisition reveals any structure of attributes or components of shapes that might be used for representation purposes. Another aspect of the puzzle of representation is the question whether the information is to be stored in analog or propositional form, and at what level this transformation from analog to propositional form takes place.</Paragraph>
+<Paragraph position="1"> In general, shape of a 3-D compact object has two aspects: the surface aspect, and the volume &amp;quot; The surface aspect includes properties ncavity, convexity, planarity of surfaces, edges, and corners. The volume aspect distinguishes objects with holes from those without (topological properties), and describes objects with respect to their sy~netry planes and axes, relative proportions, etc.</Paragraph>
+<Paragraph position="2"> We will discuss some questions pertinent to representation of a shape of a 3-D compact object, without holes, for example: Is the surface aspect more important than the volume aspect? Are there any shape primitives? In what form are shape attributes stored?, etc. We shall extensively draw from psychological and psycho-linguistic literature, as well as from the recent AI activities in this area.</Paragraph>
+</Section>
+</Paper>
+

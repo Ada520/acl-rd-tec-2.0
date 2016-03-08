@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A00-1040">
+<Title>Using Corpus-derived Name Lists for Named Entity Recognition</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes experiments to establish the performance of a named entity recognition system which builds categorized lists of names from manually annotated training data. Names in text are then identified using only these lists. This approach does not perform as well as state-of-the-art named entity recognition systems. However, we then show that by using simple filtering techniques for improving the automatically acquired lists, substantial performance benefits can be achieved, with resulting F-measure scores of 87% on a standard test set. These results provide a baseline against which the contribution of more sophisticated supervised learning techniques for NE recognition should be measured.</Paragraph>
+</Section>
+</Paper>
+

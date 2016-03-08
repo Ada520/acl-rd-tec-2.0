@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P05-1050">
+<Title>Domain Kernels for Word Sense Disambiguation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we present a supervised Word Sense Disambiguation methodology, that exploits kernel methods to model sense distinctions. In particular a combination of kernel functions is adopted to estimate independently both syntagmatic and domain similarity. We de ned a kernel function, namely the Domain Kernel, that allowed us to plug external knowledge into the supervised learning process. External knowledge is acquired from unlabeled data in a totally unsupervised way, and it is represented by means of Domain Models. We evaluated our methodology on several lexical sample tasks in different languages, outperforming signi cantly the state-of-the-art for each of them, while reducing the amount of labeled training data required for learning.</Paragraph>
+</Section>
+</Paper>
+

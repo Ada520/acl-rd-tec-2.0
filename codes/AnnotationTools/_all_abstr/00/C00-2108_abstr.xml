@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-2108">
+<Title>Chlstering Verbs Semantically According to their Alternation Behaviour</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Verbs were clustered seInantically on the basis of their alternation behaviom:, as characterised I)y their syut;actic sul)caI;e.gorisation franms extrael:ed from lllllXillllllll proba.bili(;y parses of a robu,st sI;atisl;ical pa.rser, aald eOml~leted by assigning \'VordNe(; classes as se\]ecl, ional preferences (;o the fl:ame arl~uments.</Paragraph>
+<Paragraph position="1"> The clustering was achieved (a) iteratively by measu):ing the lelal;ive enl;rol)y b(,tween (;he verbs' l)rOl)ability dis(;ribut, ions ()vet' the. franle (,yl)eS, and (1)) l)y ul;ilising a lateni; (:lass m/a.lysis t)ased on the joint frequencies of verbs and flmne. (,yl)eS.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-0401">
+<Title>A model of syntactic disambiguation based on lexicalized grammars</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a new approach to syntactic disambiguation based on lexicalized grammars. While existing disambiguation models decompose the probability of parsing results into that of primitive dependencies of two words, our model selects the most probable parsing result from a set of candidates allowed by a lexicalized grammar. Since parsing results given by the lexicalized grammar cannot be decomposed into independent sub-events, we apply a maximum entropy model for feature forests, which allows probabilistic modeling without the independence assumption. Our approach provides a general method of producing a consistent probabilistic model of parsing results given by lexicalized grammars.</Paragraph>
+</Section>
+</Paper>
+

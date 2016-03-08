@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1188">
+<Title>Information Extraction for Question Answering: Improving Recall Through Syntactic Patterns</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We investigate the impact of the precision/recall trade-off of information extraction on the performance of an offline corpus-based question answering (QA) system. One of our findings is that, because of the robust final answer selection mechanism of the QA system, recall is more important. We show that the recall of the extraction component can be improved using syntactic parsing instead of more common surface text patterns, substantially increasing the number of factoid questions answered by the QA system.</Paragraph>
+</Section>
+</Paper>
+

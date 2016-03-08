@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H91-1101">
+<Title>Linguistic Knowledge Sources for Spoken Language Understanding</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+PROJECT GOALS
+</SectionTitle>
+<Paragraph position="0"> The objective of the Unisys Spoken Language Systems effort is to develop and demonstrate technology for the understanding of goal-directed spontaneous speech. The Unisys spoken language architecture couples speech recognition systems with the Unisys discourse understanding system, PUNDIT. PUNDIT is a broad-coverage language understanding system used in a variety of message understanding applications and has been extended to handle spoken input. Its power comes from the integration of syntax, semantics, and pragmatics processing, the ability to port rapidly to new task donudns, and from an open, modula,r a~chitecture. PUNDIT is unique in its ability to handle connected discourse; it includes a reference resolution module that tracks discom~se entities and distinguishes references to previously mentioned entities from the introduction of new entities. The PUNDIT front-end supports tunt-taking dialogue and permits the system to include both questions and answers in hnilding an integrated discourse context, required for the handling of interactive communication. PUNDIT has been interfaced to several speech recognition systems (MIT SUMMIT and ITT VRS-1280) to perform applications in dixection-finding assistance, all travel planning and air traffic control.</Paragraph>
+</Section>
+</Paper>
+

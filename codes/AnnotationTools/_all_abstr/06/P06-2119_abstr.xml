@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P06-2119">
+<Title>Word Sense Disambiguation using lexical cohesion in the context</Title>
+<Section position="2" start_page="0" end_page="1" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper designs a novel lexical hub to disambiguate word sense, using both syntagmatic and paradigmatic relations of words. It only employs the semantic network of WordNet to calculate word similarity, and the Edinburgh Association Thesaurus (EAT) to transform contextual space for computing syntagmatic and other domain relations with the target word. Without any back-off policy the result on the English lexical sample of SENSEVAL-2  shows that lexical cohesion based on edge-counting techniques is a good way of unsupervisedly disambiguating senses.</Paragraph>
+</Section>
+</Paper>
+

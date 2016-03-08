@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N03-1010">
+<Title>Greedy Decoding for Statistical Machine Translation in Almost Linear Time</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present improvements to a greedy decoding algorithm for statistical machine translation that reduce its time complexity from at least cubic (a0a2a1a4a3a6a5a8a7 when applied na&amp;quot;ively) to practically linear time1 without sacrificing translation quality. We achieve this by integrating hypothesis evaluation into hypothesis creation, tiling improvements over the translation hypothesis at the end of each search iteration, and by imposing restrictions on the amount of word reordering during decoding.</Paragraph>
+</Section>
+</Paper>
+

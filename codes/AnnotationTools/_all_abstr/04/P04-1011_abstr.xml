@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P04-1011">
+<Title>Trainable Sentence Planning for Complex Information Presentation in Spoken Dialog Systems</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A challenging problem for spoken dialog systems is the design of utterance generation modules that are fast, exible and general, yet produce high quality output in particular domains.</Paragraph>
+<Paragraph position="1"> A promising approach is trainable generation, which uses general-purpose linguistic knowledge automatically adapted to the application domain. This paper presents a trainable sentence planner for the MATCH dialog system. We show that trainable sentence planning can produce output comparable to that of MATCH's template-based generator even for quite complex information presentations.</Paragraph>
+</Section>
+</Paper>
+

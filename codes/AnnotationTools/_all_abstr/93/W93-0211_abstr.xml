@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W93-0211">
+<Title>Observations and Directions in Text Structure</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> Early work in text, structuring, such as \[McK85\] and \[MTSS\] showed tha,t texts of all types and genres seem to be COml)osed of a small mHnl)er of simple, intuitive units, wl.riously referred to as rhetorical relations and rhetorical predicates. These two bodies of work dii\[hred in whether these units were best viewed as the bricks or the mortar of text structure, hut in either case a small set of primitives seemed to suffice for all texts.</Paragraph>
+<Paragraph position="1"> McKeown showed how a text generation system can make use of these sorts of primitives to produce coherent, informative texts. However, not: long after that, it became obvious that McKeown's schematized 1)lock-sta.cking apl~roach to generation compiled out too much information about a speaker's intentional goals in choosing the blocks s/he did, and that more of this information should he recorded in the process of text structuring to a.llow for such niceties as flexibility in * auswering follow up questions or requests for elaboration. Following this l'ea.sonillg, \[MS91\] instead utilized the more &amp;quot;mortar-centered&amp;quot; al)I)roach of RST for text gener:L, tion.</Paragraph>
+</Section>
+</Paper>
+

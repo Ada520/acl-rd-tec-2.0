@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P86-1023">
+<Title>Morph~lo~leal Decomposition and 5tress Assignment for Speech Synthesis</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. Background
+</SectionTitle>
+<Paragraph position="0"> A speech synthesizer is a machine that inputs a stream of text and outputs a speech signal. This paper will discuss a small piece of how words are converted to phonemes.</Paragraph>
+<Paragraph position="1">  Typically words are converted to phonemes in one of two ways: either by looking the words up in a dictionary (with possibly some limited morphological analysis), or by sounding the words out from their spelling using basic principles.</Paragraph>
+</Section>
+</Paper>
+

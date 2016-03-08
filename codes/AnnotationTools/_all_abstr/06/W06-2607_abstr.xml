@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-2607">
+<Title>Tree Kernel Engineering in Semantic Role Labeling Systems</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Recent work on the design of automatic systems for semantic role labeling has shown that feature engineering is a complex task from a modeling and implementation point of view. Tree kernels alleviate  suchcomplexityaskernelfunctionsgenerate features automatically and require less software development for data extraction.</Paragraph>
+<Paragraph position="1"> In this paper, we study several tree kernel approaches for both boundary detection and argument classification. The comparative experiments on Support Vector Machines with such kernels on the CoNLL 2005 dataset show that very simple tree manipulations trigger automatic feature engineering that highly improves accuracy and efficiency in both phases. Moreover, the use of different classifiers for internal andpre-terminalnodesmaintainsthesame accuracy and highly improves efficiency.</Paragraph>
+</Section>
+</Paper>
+

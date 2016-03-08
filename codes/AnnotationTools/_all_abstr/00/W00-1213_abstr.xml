@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-1213">
+<Title>Annotating information structures in Chinese texts using HowNet</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+wongpw @ cs.ust.hk
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper reported our work on annotating Chinese texts with information structures derived from HowNet. An information structure consists of two components: HowNet definitions and dependency relations. It is the unit of representation of the meaning of texts. This work is part of a multi-sentential approach to Chinese text understanding. An overview of HowNet and information structure are described in this paper.</Paragraph>
+</Section>
+</Paper>
+

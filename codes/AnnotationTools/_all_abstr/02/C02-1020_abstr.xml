@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C02-1020">
+<Title>Extracting Word Sequence Correspondences with Support Vector Machines</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper proposes a learning and extracting method of word sequence correspondences from non-aligned parallel corpora with Support Vector Machines, which have high ability of the generalization, rarely cause over-fit for training samples and can learn dependencies of features by using a kernel function. Our method uses features for the translation model which use the translation dictionary, the number of words, part-of-speech, constituent words and neighbor words. Experiment results in which Japanese and English parallel corpora are used archived 81.1 % precision rate and 69.0 % recall rate of the extracted word sequence correspondences. This demonstrates that our method could reduce the cost for making translation dictionaries.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-1207">
+<Title>Semantic and Discourse Information for Text-to-Speech Intonation</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Concept-to-Speech (CTS) systems, which aim to synthesize speech from semantic information and discourse context, have succeeded in producing more appropriate and natural-sounding prosody than text-to-speech (TTS) systems, which rely mostly on syntactic and orthographic information. In this paper, we show how recent advances in CTS systems can be used to improve intonation in text reading systems for English. Specifically, following (Prevost, 1995; Prevost, 1996), we show how information structure is used by our program to produce intonational patterns with context-appropriate variation in pitch accent type and prominence. Following (Cahn, 1994; Cahn, 1997), we also show how some of the semantic information used by such CTS systems can be drawn from WordNet (Miller et al., 1993), a large-scale semantic lexicon.</Paragraph>
+</Section>
+</Paper>
+

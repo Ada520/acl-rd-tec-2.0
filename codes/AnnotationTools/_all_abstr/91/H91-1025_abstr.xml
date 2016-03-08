@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H91-1025">
+<Title>A Statistical Approach to Sense Disambiguation in Machine Translation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> We describe ~ statisticM technique for assigning senses to words. An instance of ~ word is assigned ;~ sense by asking a question about the context in which the word ~tppears. The qttestlou is constructed to ha, re high mutua,1 i~fformation with the word's translations.</Paragraph>
+</Section>
+</Paper>
+

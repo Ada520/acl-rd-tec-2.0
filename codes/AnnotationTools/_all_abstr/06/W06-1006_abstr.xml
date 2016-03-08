@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-1006">
+<Title>Violeta.Seretan@latl.unige.ch</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Althoughtraditionallyseenasa languageindependenttask, collocation extraction relies nowadays more and more on the linguistic preprocessing of texts (e.g., lemmatization,POStagging,chunkingor parsing) prior to the applicationof statistical measures. This paper provides a language-orientedreview of the existing extraction work. It points out severallanguage-specificissuesrelatedtoex- null tractionand proposesa strategy for coping withthem. It thendescribesa hybrid extractionsystembasedon a multilingual parser. Finally, it presentsa case-studyon theperformanceofanassociationmeasure acrossa numberoflanguages.</Paragraph>
+</Section>
+</Paper>
+

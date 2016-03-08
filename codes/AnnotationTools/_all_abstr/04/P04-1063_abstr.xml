@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P04-1063">
+<Title>Multi-Engine Machine Translation with Voted Language Model</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The paper describes a particular approach to multi-engine machine translation (MEMT), where we make use of voted language models to selectively combine translation outputs from multiple off-the-shelf MT systems. Experiments are done using large corpora from three distinct domains. The study found that the use of voted language models leads to an improved performance of MEMT systems. null</Paragraph>
+</Section>
+</Paper>
+

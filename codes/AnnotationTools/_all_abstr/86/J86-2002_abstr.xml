@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J86-2002">
+<Title>SUMMARIZING NATURAL LANGUAGE DATABASE RESPONSES</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+SUMMARIZING NATURAL LANGUAGE DATABASE RESPONSES
+</SectionTitle>
+<Paragraph position="0"> In a human dialogue it is usually considered inappropriate if one conversant monopolizes the conversation. Similarly it can be inappropriate for a natural language database interface to respond with a lengthy list of data. A non-enumerative &amp;quot;summary&amp;quot; response is less verbose and often avoids misleading the user where an extensional response might.</Paragraph>
+<Paragraph position="1"> In this paper we investigate the problem of generating such discourse-oriented concise responses.</Paragraph>
+<Paragraph position="2"> We present details of the design and implementation of a system that produces summary responses to queries of a relational data base. The system employs a set of heuristics that work in conjunction with a knowledge base to discover underlying regularities that form the basis of summary responses. The system is largely domain-independent, and hence can be ported relatively easily from one data base to another. It can handle a wide variety of situations requiring a summary response and can be readily extended. It also has a number of shortcomings which are discussed thoroughly and which form the basis for a number of suggested research directions.</Paragraph>
+</Section>
+</Paper>
+

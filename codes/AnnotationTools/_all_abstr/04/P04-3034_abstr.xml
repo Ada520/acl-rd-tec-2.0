@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P04-3034">
+<Title>Fragments and Text Categorization</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We introduce two novel methods of text categorization in which documents are split into fragments.</Paragraph>
+<Paragraph position="1"> We conducted experiments on English, French and Czech. In all cases, the problems referred to a binary document classification. We find that both methods increase the accuracy of text categorization. For the Na&amp;quot;ive Bayes classifier this increase is significant.</Paragraph>
+</Section>
+</Paper>
+

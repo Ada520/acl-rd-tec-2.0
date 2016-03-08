@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0122">
+<Title>Using Word Frequency Lists to Measure Corpus Homogeneity and Similarity between Corpora.</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+email: Adam.Kilgarriff@i~ri.bton. ac.uk
+Abstract
+</SectionTitle>
+<Paragraph position="0"> How similar are two corpora? A measure of corpus similarity would be very useful for lexicography and language engineering. Word frequency lists are cheap and easy to generate so a measure based on them would be of use as a quick guide in many circumstances; for example, to judge how a newly available corpus related to existing resources, or how easy it might be to port an NLP system designed to work with one text type to work with another.</Paragraph>
+<Paragraph position="1"> We show that corpus similarity can only be interpreted in the light of corpus homogeneity.</Paragraph>
+<Paragraph position="2"> The paper presents a measure, based on the XX 2 statistic, for measuring both corpus similarity and corpus homogeneity. The measure is compared with a rank-based measure and shown to outperform it. Some results are presented. A method for evaluating the accuracy of the measure is introduced and some results of using the measure are presented.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A97-2005">
+<Title>Dependency parser demo</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> We are concerned with surface-syntactic parsing of running text. Our main goal is to describe a syntactic analysis of sentences using dependency links that show the head-dependent relations between words.</Paragraph>
+<Paragraph position="1"> The new dependency parser 1 (Tapanainen and J~irvinen, 1997; J~rvinen and Tapanainen, 1997) belongs to a continuous effort to apply rule-based methods to natural languages. It can been seen as a relative of the Constraint Grammar framework (Karlsson et al., 1995), for many features of the system have been derived from it. The syntactic description in the English Constraint Grammar (ENG-CG) is implicitly dependency oriented; it contains tags for heads and modifiers but not explicit links between them (see Figure 2).</Paragraph>
+<Paragraph position="2"> Although, the new syntactic formalism differs much from the Constraint Grammar's formalisms, the basic rule types of the older formalism have been preserved among the new ones. Also, the rules are independent, and they describe syntax in a piecemeal fashion. The new dependency parser creates explicit links between the elements of the sentence (in Figure 1) while still retaining the shallower representation similar to ENGCG (in Figure 2). The parser applies the ENGTWOL lexicon designed originally by Juha HeikkilPS and Atro Voutilainen. Also, the reliable parts of the ENGCG's morphological disambiguator by Atro Voutilainen are applied.</Paragraph>
+<Paragraph position="3"> The parser has been tested in Sun workstation and in PCs under Linux. The syntactic analysis is modest in time and space requirements: the size of the process (the syntactic analysis only) is less than 2 MB and it runs in a Pentium 90 MHz machine at the speed of 200 words per second. We have tested the parser on bigger texts to test its usability in corpus linguistic and lexicographic work. By now, some 30 million words have been parsed.</Paragraph>
+<Paragraph position="4"> , http://www.ling.helsinki.fi/~tapanain/dg/</Paragraph>
+</Section>
+</Paper>
+

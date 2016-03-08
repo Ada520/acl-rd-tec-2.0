@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P02-1064">
+<Title>An Empirical Study of Active Learning with Support Vector Machines for Japanese Word Segmentation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We explore how active learning with Support Vector Machines works well for a non-trivial task in natural language processing. We use Japanese word segmentation as a test case. In particular, we discuss how the size of a pool affects the learning curve. It is found that in the early stage of training with a larger pool, more labeled examples are required to achieve a given level of accuracy than those with a smaller pool. In addition, we propose a novel technique to use a large number of unlabeled examples effectively by adding them gradually to a pool. The experimental results show that our technique requires less labeled examples than those with the technique in previous research. To achieve 97.0 % accuracy, the proposed technique needs 59.3 % of labeled examples that are required when using the previous technique and only 17.4 % of labeled examples with random sampling.</Paragraph>
+</Section>
+</Paper>
+

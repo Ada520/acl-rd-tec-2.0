@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P04-1018">
+<Title>A Mention-Synchronous Coreference Resolution Algorithm Based on the Bell Tree Xiaoqiang Luo and Abe Ittycheriah</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper proposes a new approach for coreference resolution which uses the Bell tree to represent the search space and casts the coreference resolution problem as finding the best path from the root of the Bell tree to the leaf nodes. A Maximum Entropy model is used to rank these paths. The coreference performance on the 2002 and 2003 Automatic Content Extraction (ACE) data will be reported. We also train a coreference system using the MUC6 data and competitive results are obtained.</Paragraph>
+</Section>
+</Paper>
+

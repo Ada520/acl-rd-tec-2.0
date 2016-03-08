@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="I05-3015">
+<Title>Some Studies on Chinese Domain Knowledge Dictionary and Its Application to Text Classification</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we study some issues on Chinese domain knowledge dictionary and its application to text classification task. First a domain knowledge hierarchy description framework and our Chinese domain knowledge dictionary named NEUKD are introduced. Second, to alleviate the cost of construction of domain knowledge dictionary by hand, we use a boostrapping-based algorithm to learn new domain associated terms from a large amount of unlabeled data.</Paragraph>
+<Paragraph position="1"> Third, we propose two models (BOTW and BOF) which use domain knowledge as textual features for text categorization. But due to limitation of size of domain knowledge dictionary, we further study machine learning technique to solve the problem, and propose a BOL model which could be considered as the extended version of BOF model.</Paragraph>
+<Paragraph position="2"> Naive Bayes classifier based on BOW model is used as baseline system in the comparison experiments. Experimental results show that domain knowledge is very useful for text categorization, and BOL model performs better than other three models, including BOW, BOTW and BOF models.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H01-1016">
+<Title>Development of the HRL Route Navigation Dialogue System</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> In this paper we report on our work on a prototype route navigation dialogue system for use in a vehicle. The system delivers spoken turn-by-turn directions, and has been developed to accept naturally phrased navigation queries, as part of our overall effort to create an in-vehicle information system which delivers information as requested while placing minimal cognitive load on the driver.</Paragraph>
+</Section>
+</Paper>
+

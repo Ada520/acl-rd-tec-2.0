@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W99-0626">
+<Title>Automatic Construction of Weighted String Similarity Measures</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> String similarity metrics are used for several purposes in text-processing. One task is the extraction of cognates from bilingual text. In this paper three approaches to the automatic generation of language dependent string matching functions are presented.</Paragraph>
+</Section>
+</Paper>
+

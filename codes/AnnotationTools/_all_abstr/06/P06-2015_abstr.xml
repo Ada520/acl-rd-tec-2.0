@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P06-2015">
+<Title>Sydney, July 2006. c(c)2006 Association for Computational Linguistics An Account for Compound Prepositions in Farsi</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> There are some sorts of 'Preposition + Noun' combinations in Farsi that apparently a Prepositional Phrase almost behaves as Compound Prepositions. As they are not completely behaving as compounds, it is doubtful that the process of word formation is a morphological one.</Paragraph>
+<Paragraph position="1"> The analysis put forward by this paper proposes &amp;quot;incorporation&amp;quot; by which an N o is incorporated to a P o constructing a compound preposition. In this way tagging prepositions and parsing texts in Natural Language Processing is defined in a proper manner.</Paragraph>
+</Section>
+</Paper>
+

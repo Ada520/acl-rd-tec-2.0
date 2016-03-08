@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H01-1053">
+<Title>Monitoring the News: a TDT demonstration system</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> We describe a demonstration system built upon Topic Detection and Tracking (TDT) technology. The demonstration system monitors a stream of news stories, organizes them into clusters that represent topics, presents the clusters to a user, and visually describes the changes that occur in those clusters over time. A user may also mark certain clusters as interesting, so that they can be &amp;quot;tracked&amp;quot; more easily.</Paragraph>
+</Section>
+</Paper>
+

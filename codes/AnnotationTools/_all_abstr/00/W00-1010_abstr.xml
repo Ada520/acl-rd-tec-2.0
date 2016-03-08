@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-1010">
+<Title>Social Goals in Conversational Cooperation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We propose a model where dialog obligations arise from the interplay of social goals and intentions of the participants: when an agent is addressed with a request, t:he agent's decision to commit to the requester's linguistic and domain goals is motivated by a trade-off between the preference for preventing a negative reaction of the requester and the cost of the actions needed to satisfy the goals.</Paragraph>
+</Section>
+</Paper>
+

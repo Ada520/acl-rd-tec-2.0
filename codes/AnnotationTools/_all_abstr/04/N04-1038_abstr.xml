@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N04-1038">
+<Title>Unsupervised Learning of Contextual Role Knowledge for Coreference Resolution</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a coreference resolver called BABAR that uses contextual role knowledge to evaluate possible antecedents for an anaphor.</Paragraph>
+<Paragraph position="1"> BABAR uses information extraction patterns to identify contextual roles and creates four contextual role knowledge sources using unsupervised learning. These knowledge sources determine whether the contexts surrounding an anaphor and antecedent are compatible.</Paragraph>
+<Paragraph position="2"> BABAR applies a Dempster-Shafer probabilistic model to make resolutions based on evidence from the contextual role knowledge sources as well as general knowledge sources.</Paragraph>
+<Paragraph position="3"> Experiments in two domains showed that the contextual role knowledge improved coreference performance, especially on pronouns.</Paragraph>
+</Section>
+</Paper>
+

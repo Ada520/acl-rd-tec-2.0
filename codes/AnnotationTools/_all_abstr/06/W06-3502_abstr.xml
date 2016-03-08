@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-3502">
+<Title>Backbone Extraction and Pruning for Speeding Up a Deep Parser for Dialogue Systems</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we discuss issues related to speeding up parsing with wide-coverage uni cation grammars. We demonstrate that state-of-the-art optimisation techniques based on backbone parsing before uni cation do not provide a general solution, because they depend on speci c properties of the grammar formalism that do not hold for all uni cation based grammars. As an alternative, we describe an optimisation technique that combines ambiguity packing at the constituent structure level with pruning based on local features.</Paragraph>
+</Section>
+</Paper>
+

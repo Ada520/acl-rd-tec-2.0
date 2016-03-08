@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-2104">
+<Title>A Portable &amp; Quick Japanese Parser : QJP</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> QJP is a portable and quick softwaxe module for Japanese processing. QJP analyzes a Japanese sentence into segmented morphemes/words with tags and a syntactic bunsetsu kakari-uke structure based on the two strategies, a) Morphological analysis based on character-types and functional-words and b) Syntactic analysis by simple treatment of structural ambiguities and ignoring semantic information. QJP is small, fast and robust, because 1) dictionary size (less than1 100KB) and required memory size(260KB) are very small, 2) analysis speed is fast (more than 100 words/see on 80486-PC), and 3) even a 100-word long sentence containing unknown words is easily processed.</Paragraph>
+<Paragraph position="1"> Using QJP and its ana\]ysis results as a base and adding other functions for processing Japanese documents, a valqety of applications can be developed on UNIX workstations or even on PCs.</Paragraph>
+</Section>
+</Paper>
+

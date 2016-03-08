@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C92-2068">
+<Title>Quasi-Destructive Graph Unification with Structure-Sharing*</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Graph unifi(:ation remains the nlost expensive part of unificatiou-b~Lsed grammar l)arsing. We fl)cus on (Hie 81}ee(l-u 1) elelltellt ill the design of llllifieation algorithms: avoidance of copying of umao(lifled sul)graph.s. We propose a method of attaining snch a design through a nlethod of structnre-sharing which avoids log(d) overheads often associated with structure-sharillg of graphs without any use of costly dependency pointers. The proposed scheme eliminates redundant copying whih~ maintaining the qua.sidc,qtructive scheme's ability to avoid over copying and early copying eomlfined with its ability to handle cyclk: structures without algorithnfie additions.</Paragraph>
+</Section>
+</Paper>
+

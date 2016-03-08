@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E06-1001">
+<Title>pl RES ARG NPsbj &gt;T RES RES S RES S SLASH f ARG RES S ARG ARG Nompl ARG SLASH b &gt;B RES S ARG NPobj SLASH f &gt;S Figure 5: An I-CCG derivation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> I propose a uniform approach to the elimination of redundancy in CCG lexicons, where grammars incorporate inheritance hierarchies of lexical types, defined over a simple, feature-based category description language. The resulting formalism is partially 'constraint-based', in that the category notationis interpreted againstan underlying set of tree-like feature structures.</Paragraph>
+<Paragraph position="1"> I argue that this version of CCG subsumes a number of other proposed category notations devised to allow for the construction of more efficient lexicons. The formalism retains desirable properties such as tractability and strong competence, and provides a way of approaching the problem of how to generalise CCG lexicons which have been automatically induced from treebanks.</Paragraph>
+</Section>
+</Paper>
+

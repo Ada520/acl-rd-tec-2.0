@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P86-1038">
+<Title>A LOGICAL SEMANTICS FOR FEATURE STRUCTURES</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Unification-based grammar formalisms use structures containing sets of features to describe linguistic objects. Although computational algorithms for unification of feature structures have been worked out in experimental research, these algcwithms become quite complicated, and a more precise description of feature structures is desirable. We have developed a model in which descriptions of feature structures can be regarded as logical formulas, and interpreted by sets of directed graphs which satisfy them. These graphs are, in fact, transition graphs for a special type of deterministic finite automaton.</Paragraph>
+<Paragraph position="1"> This semantics for feature structures extends the ideas of Pereira and Shieber \[11\], by providing an interpretation for values which are specified by disjunctions and path values embedded within disjunctions. Our interpretati6n differs from that of Pereira and Shieber by using a logical model in place of a denotational semantics. This logical model yields a calculus of equivalences, which can be used to simplify formulas.</Paragraph>
+<Paragraph position="2"> Unification is attractive, because of its generality, but it is often computations/\]), inefficient. Our mode\] allows a careful examination of the computational complexity of unification. We have shown that the consistency problem for formulas with disjunctive values is NP-complete. To deal with this complexity, we describe how disjunctive values can be specified in a way which delays expansion to disjunctive normal form.</Paragraph>
+</Section>
+</Paper>
+

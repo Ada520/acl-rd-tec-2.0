@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P89-1033">
+<Title>PARSING AS NATURAL DEDUCTION</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The logic behind parsers for categorial grammars can be formalized in several different ways. Lambek Calculus (LC) constitutes an example for a natural deduction 1 style parsing method.</Paragraph>
+<Paragraph position="1"> In natural language processing, the task of a parser usually consists in finding derivations for all different readings of a sentence. The original Lambek Calculus, when it is used as a parser/theorem prover, has the undesirable property of allowing for the derivation of more than one proof for a reading of a sentence, in the general case.</Paragraph>
+<Paragraph position="2"> In order to overcome this inconvenience and to turn Lambek Calculus into a reasonable parsing method, we show the existence of &amp;quot;relative&amp;quot; normal form proof trees and make use of their properties to constrain the proof procedure in the desired way.</Paragraph>
+</Section>
+</Paper>
+

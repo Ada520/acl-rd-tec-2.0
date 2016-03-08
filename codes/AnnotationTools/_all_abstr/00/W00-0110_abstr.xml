@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-0110">
+<Title>Similarities and Differences among Semantic Behaviors of Japanese Adnominal Constituents</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper treats the classification of the semantic functions performed by adnominal constituents in Japanese, where many parts of speech act as adnominal constituents. In order to establish a formal treatment of the semantic roles, the similarities and differences among adnominal constituents, i.e. adjectives and &amp;quot;noun + NO (in English &amp;quot;of + noun&amp;quot;)&amp;quot; structures, which have a broad range of semantic functions, are discussed. This paper also proposes an objective method of classifying these constructs using a large amount of linguistic data.</Paragraph>
+<Paragraph position="1"> The feasibility of this was verified with a self-organizing semantic map based on a neural network model.</Paragraph>
+</Section>
+</Paper>
+

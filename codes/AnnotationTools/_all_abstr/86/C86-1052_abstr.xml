@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C86-1052">
+<Title>DCKR -- Knowledge Representation in Prol0g and Its Application to Natural Language Processing</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> Relationships between knowledge represented in predicate logic formulas and knowledge represented in Frames or ~Kt~i~K~ fihi~i~ are clarified by \[Hayes 80\], \[Nilsson 80\], \[Goebel 85\],\[Bowen 85\], et al, but their methods requires separately an interpreter for their representation.</Paragraph>
+<Paragraph position="1"> The authors have developed a knowledge representation form called DCKR (Definite Clause Knowledge Representation) \[Koyama 85\]. In DCKR, each of the ~i~%~ composing of a Structured Object (hereinafter simply called an ~hJ~Gi) is represented by a Horn clause (a Prolog statement) with the &amp;quot;sem&amp;quot; predicate (to be explained in Section 2) as its head.</Paragraph>
+<Paragraph position="2"> Therefore, an Object can he regarded as a set of Horn clauses (slots) headed by the sem predicate with the same first argument. From the foregoing it follows that almost all of a program for performing semantic intepretations relative to lexical items described in DCKR can be replaced by functions built in Prolog.</Paragraph>
+<Paragraph position="3"> That is, most of programming efforts of semantic processing can be left to the functions built in Prolog.</Paragraph>
+<Paragraph position="4"> DCKR will be described in detail in Section 2.</Paragraph>
+<Paragraph position="5"> Section 3 will discuss applications of DCKR to semantic processing of natural languages.</Paragraph>
+</Section>
+</Paper>
+

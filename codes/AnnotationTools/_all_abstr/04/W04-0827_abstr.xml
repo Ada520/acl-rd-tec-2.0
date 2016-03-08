@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-0827">
+<Title>GAMBL, Genetic Algorithm Optimization of Memory-Based WSD</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> GAMBL is a word expert approach to WSD in which each word expert is trained using memory-based learning. Joint feature selection and algorithm parameter optimization are achieved with a genetic algorithm (GA). We use a cascaded classifier approach in which the GA optimizes local context features and the output of a separate keyword classifier (rather than also optimizing the keyword features together with the local context features). A further innovation on earlier versions of memory-based WSD is the use of grammatical relation and chunk features. This paper presents the architecture of the system briefly, and discusses its performance on the English lexical sample and all words tasks in SENSEVAL-3.</Paragraph>
+</Section>
+</Paper>
+

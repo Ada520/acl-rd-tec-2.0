@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W99-0501">
+<Title>WordNet 2 - A Morphologically and Semantically Enhanced Resource</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Th~s paper presents an on-going project mtended to enhance WordNet molpholog~cally and semanttcally The mottvatmn for th~s work steams from the current hm~tat~ons of WordNet when used as a hngmst~c knowledge base We enwmon a software tool that automatically parses the conceptual defining glosses, attributing part-of-speech tags and phrasal brackets The nouns, verbs, adjectives and adverbs from every defimtmn are then d~samb~guated and hnked to the corresponding synsets Th~s increases the connectlv~ty between synsets allowing the ~etneval of topically ~elated concepts Furthermore, the tool t~ansforms the glosses, first into logical forms and then into semantm fo~ms Usmg der~vatmnal morphology new hnks are added between the synsets</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H94-1025">
+<Title>Building Japanese-English Dictionary based on Ontology for Machine Translation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> This paper describes a semi-automatic method for associating a Japanese lexicon with a semantic concept taxonomy called an ontology, using a Japanese-English bilingual dictionary as a &amp;quot;bridge&amp;quot;. The ontology supports semantic processing in a knowledge-based machine translation system by providing a set of language-neutral symbols and semantic information.</Paragraph>
+<Paragraph position="1"> To put the ontology to practical use, lexical items of each language of interest must be linked to appropriate ontology items. The association of ontology items with lexical items of various languages is a process fraught with difficulty: since much of this work depends on the subjective decisions of human workers, large MT dictionaries tend to be subject to some dispersion and inconsistency. The problem we focus on here is how to associate concepts in the ontology with Japanese lexical entities by automatic methods, since it is too difficult to define adequately many concepts manually.</Paragraph>
+<Paragraph position="2"> We have designed three algorithms to associate a Japanese lexicon with the concepts of the ontology automatically: the equivalent-word match, the argument match, and the example match. We simulated these algorithms for 980 nouns, 860 verbs and 520 adjectives as preliminary experiments. The algorithms axe found to be effective for more than 80% of the words.</Paragraph>
+</Section>
+</Paper>
+

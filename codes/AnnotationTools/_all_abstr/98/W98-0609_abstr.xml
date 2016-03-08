@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-0609">
+<Title>Automatic Collection and Analysis of GermanCompounds</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> This project began with both a general and a very specific goalJ One of the authors is currently developing a morphological analyzer that takes a large corpus as its input and returns a morphological analysis based on that corpus (see Goldsmith (in prep.)). Most of. the morphological activity in European languages I This paper was written while Goldsmith was a visitor at Microsoft Research. The authors may be contacted at ja-goldsmith @ uchicago.edu or treutter@microsoft.cora. We would like to thank the members of the World Languages Research group at Microsoft Research for their contributions. Special thanks go to Michael Gamon for his comments and review of this report.</Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+Tom Reutter
+Microsoft Research
+</SectionTitle>
+<Paragraph position="0"> involves suffix-attachment to stems, but languages such as German and Dutch require that serious attention be paid to the prefix system, and an even wider range of languages (including both German and Dutch, but also such varied languages as English and Finnish) require an analysis of compounds.</Paragraph>
+<Paragraph position="1"> The general goal, then, was to implement a compound-analyzer in the context of the unsupervised acquisition of morphology. The specific goal was to use this analysis to determine the linking element (see below) used by each member of the German lexicon that engages in compound formation as a Left Element.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

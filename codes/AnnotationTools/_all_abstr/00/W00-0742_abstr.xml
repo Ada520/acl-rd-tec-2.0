@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-0742">
+<Title>Inductive Logic Programming for Corpus-Based Acquisition of Semantic Lexicons</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we propose an Inductive Logic Programming learning method which aims at automatically extracting special Noun-Verb (N-V) pairs from a corpus in order to build up semantic lexicons based on Pustejovsky's Generative Lexicon (GL) principles (Pustejovsky, 1995). In one of the components of this lexical model, called the qualia structure, words are described in terms of semantic roles. For example, the relic role indicates the purpose or function of an item (cut for knife), the agentive role its creation mode (build for house), etc. The qualia structure of a noun is mainly made up of verbal associations, encoding relational information. The Inductive Logic Programming learning method that we have developed enables us to automatically extract from a corpus N-V pairs whose elements axe linked by one of the semantic relations defined in the qualia structure in GL, and to distinguish them, in terms of surrounding categorial context from N-V pairs also present in sentences of the corpus but not relevant. This method has been theoretically and empirically validated, on a technical corpus. The N-V pairs that have been extracted will further be used in information retrieval applications for index expansion 1.</Paragraph>
+</Section>
+</Paper>
+

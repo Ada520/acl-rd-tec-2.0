@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-1074">
+<Title>Distributedness and Non-Linearity of LOLITA's Semantic Network</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> 'Phis paper describes SemNet the internal Knowledge t{epresentation lbr LOLI'I'A I . LOMTA is a large scale Natural Language Engineering (NLE) system. As such the internal representatiou must be richly expressive, mttural (with respect to Natural Language), and e\[\[icient. In network representations knowledge is gleaned by traversing the graph. The paper introduces two I)rol)crties, (distributedness and nonlinearity) of networks which directly relate to the efficiency by which knowledge is obtained. SemNet is shown to have the specified properties thus distinguishing it (in tc'rms of eIli('iency) ms a. suitable representation for large scale NI,E.</Paragraph>
+</Section>
+</Paper>
+

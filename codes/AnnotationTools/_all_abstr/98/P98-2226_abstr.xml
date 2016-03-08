@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-2226">
+<Title>Translating Idioms</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper discusses the treatment of fixed word expressions developed for our ITS-2 French-English translation system. This treatment makes a clear distinction between compounds - i.e. multiword expressions of Xdeg-level in which the chunks are adjacent - and idiomatic phrases - i.e. multiword expressions of phrasal categories, where the chunks are not necessarily adjacent. In our system, compounds are handled during the lexical analysis, while idioms are treated in the syntax, where they are treated as &amp;quot;specialized lexemes&amp;quot;. Once recognized, an idiom can be transfered according to the specifications of the bilingual dictionary. We will show several cases of transfer to corresponding idioms in the target language, or to simple lexemes. The complete system, including several hundreds of compounds and idioms can be consulted on the Internet (ht tp ://latl.unige.ch/itsweb.html).</Paragraph>
+</Section>
+</Paper>
+

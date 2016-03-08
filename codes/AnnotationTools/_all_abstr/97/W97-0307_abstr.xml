@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0307">
+<Title>Tagging Grammatical Functions</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper addresses issues in automated treebank construction. We show how standard part-of-speech tagging techniques extend to the more general problem of structural annotation, especially for determining grammatical functions and syntactic categories. Annotation is viewed as an interactive process where manual and automatic processing alternate. Efficiency and accuracy results are presented. We also discuss further automation steps.</Paragraph>
+</Section>
+</Paper>
+

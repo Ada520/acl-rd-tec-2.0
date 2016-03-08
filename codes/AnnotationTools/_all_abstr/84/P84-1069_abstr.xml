@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P84-1069">
+<Title>Transformation of matn part tn a newntttng rule: A A /b,, I B C O ---&gt; E /t,,, B C D Transformation of a whole annotated tree: A A</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> A powerful grammar writing system has been developed. Thts grammar wrtttng system ts called GRADE (GRAmmar DEscriber). GRADE allows a grammar writer to write grammars Including analysts, transfer, and generation using the same expression.</Paragraph>
+<Paragraph position="1"> GRADE has powerful grammar writing facility. GRADE allows a grammar writer to control the process of a machine translation. GRADE also has a function to use grammatical rules written tn a word dictionary.</Paragraph>
+<Paragraph position="2"> GRADE has been used for more than a year as the software of the machine translation project from Japanese Into Engltsh. which ts supported by the Japanese Government and called Nu-proJect.</Paragraph>
+</Section>
+</Paper>
+

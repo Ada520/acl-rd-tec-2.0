@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-2709">
+<Title>Interlingual Annotation of Multilingual Text Corpora</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a multi-site project to annotate six sizable bilingual parallel corpora for interlingual content. After presenting the background and objectives of the effort, we describe the data set that is being annotated, the interlingua representation language used, an interface environment that supports the annotation task and the annotation process itself. We will then present a preliminary version of our evaluation methodology and conclude with a summary of the current status of the project along with a number of issues which have arisen.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-0227">
+<Title>A Minimum Message Length Approach for Argument Interpretation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe a mechanism which receives as input a segmented argument composed of NL sentences, and generates an interpretation. Our mechanism relies on the Minimum Message Length Principle for the selection of an interpretation among candidate options. This enables our mechanism to cope with noisy input in terms of wording, beliefs and argument structure; and reduces its reliance on a particular knowledge representation. The performance of our system was evaluated by distorting automatically generated arguments, and passing them to the system for interpretation. In 75% of the cases, the interpretations produced by the system matched precisely or almost-precisely the representation of the original arguments.</Paragraph>
+</Section>
+</Paper>
+

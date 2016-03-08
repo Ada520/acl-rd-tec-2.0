@@ -1,0 +1,36 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-0301">
+<Title>al: A word alignment system with limited language</Title>
+<Section position="1" start_page="0" end_page="1" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents the task definition, resources, participating systems, and comparative results for the shared task on word alignment, which was organized as part of the HLT/NAACL 2003 Workshop on Building and Using Parallel Texts. The shared task included Romanian-English and English-French sub-tasks, and drew the participation of seven teams from around the world.</Paragraph>
+<Paragraph position="1"> 1 Defining a Word Alignment Shared Task The task of word alignment consists of finding correspondences between words and phrases in parallel texts. Assuming a sentence aligned bilingual corpus in languages L1 and L2, the task of a word alignment system is to indicate which word token in the corpus of language L1 corresponds to which word token in the corpus of language L2.</Paragraph>
+<Paragraph position="2"> As part of the HLT/NAACL 2003 workshop on &amp;quot;Building and Using Parallel Texts: Data Driven Machine Translation and Beyond&amp;quot;, we organized a shared task on word alignment, where participating teams were provided with training and test data, consisting of sentence aligned parallel texts, and were asked to provide automatically derived word alignments for all the words in the test set. Data for two language pairs were provided: (1) English-French, representing languages with rich resources (20 million word parallel texts), and (2) Romanian-English, representing languages with scarce resources (1 million word parallel texts). Similar with the Machine Translation evaluation exercise organized by NIST  , two sub-tasks were defined, with teams being encouraged to participate in both subtasks.</Paragraph>
+<Paragraph position="3">  use any resources in addition to those provided.</Paragraph>
+<Paragraph position="4"> Such resources had to be explicitly mentioned in the system description.</Paragraph>
+<Paragraph position="5"> Test data were released one week prior to the deadline for result submissions. Participating teams were asked to produce word alignments, following a common format as specified below, and submit their output by a certain deadline. Results were returned to each team within three days of submission.</Paragraph>
+<Section position="1" start_page="1" end_page="1" type="sub_section">
+<SectionTitle>
+1.1 Word Alignment Output Format
+</SectionTitle>
+<Paragraph position="0"> The word alignment result files had to include one line for each word-to-word alignment. Additionally, lines in the result files had to follow the format specified in Fig.1.</Paragraph>
+<Paragraph position="1"> While the CBCYC8 and confidence fields overlap in their meaning, the intent of having both fields available is to enable participating teams to draw their own line on what they consider to be a Sure or Probable alignment. Both these fields were optional, with some standard values assigned by default.</Paragraph>
+<Paragraph position="2">  Consider the following two aligned sentences: [English] BOs snum=18BQ They had gone . BO/sBQ [French] BOs snum=18BQ Ils etaient alles . BO/sBQ A correct word alignment for this sentence is  stating that: all the word alignments pertain to sentence 18, the English token 1 They aligns with the French token 1 Ils, the English token 2 had, aligns with the French token 2 etaient, and so on. Note that punctuation is also sentence no position L1 position L2 [CBCYC8] [confidence] where: AE sentence no represents the id of the sentence within the test file. Sentences in the test data already have an id assigned. (see the examples below) AE position L1 represents the position of the token that is aligned from the text in language L1; the first token in each sentence is token 1. (not 0) AE position L2 represents the position of the token that is aligned from the text in language L2; again, the first token is token 1.</Paragraph>
+<Paragraph position="3"> AE CBCYC8 can be either S or P, representing a Sure or Probable alignment. All alignments that are tagged as S are also considered to be part of the P alignments set (that is, all alignments that are considered &amp;quot;Sure&amp;quot; alignments are also part of the &amp;quot;Probable&amp;quot; alignments set). If the CBCYC8 field is missing, a value of S will be assumed by default.</Paragraph>
+<Paragraph position="4"> AE confidence is a real number, in the range (0-1] (1 meaning highly confident, 0 meaning not confident); this field is optional, and by default confidence number of 1 was assumed.  aligned (English token 4 aligned with French token 4), and counts towards the final evaluation figures.</Paragraph>
+<Paragraph position="5"> Alternatively, systems could also provide an CBCYC8 marker and/or a confidence score, as shown in the fol- null with missing CBCYC8 fields considered by default to be S, and missing confidence scores considered by default 1.</Paragraph>
+</Section>
+<Section position="2" start_page="1" end_page="1" type="sub_section">
+<SectionTitle>
+1.2 Annotation Guide for Word Alignments
+</SectionTitle>
+<Paragraph position="0"> The annotation guide and illustrative word alignment examples were mostly drawn from the Blinker Annotation Project. Please refer to (Melamed, 1999, pp. 169-182) for additional details.</Paragraph>
+<Paragraph position="1">  1. All items separated by a white space are considered to be a word (or token), and therefore have to be aligned. (punctuation included) 2. Omissions in translation use the NULL token, i.e.  token with id 0. For instance, in the examples below: [English]: BOs snum=18BQ And he said , appoint me thy wages , and I will give it . BO/sBQ [French]: BOs snum=18BQ fixe moi ton salaire , et je te le donnerai . BO/sBQ and he said from the English sentence has no corresponding translation in French, and therefore all these words are aligned with the token id 0.</Paragraph>
+<Paragraph position="2">  word alignments. For instance, in the examples below: null English: BOs snum=18BQ cultiver la terre BO/sBQ French: BOs snum=18BQ to be a husbandman BO/sBQ since the words do not correspond one to one, and yet the two phrases mean the same thing in the given context, the phrases should be linked as wholes, by linking each word in one to each word in another. For the example above, this translates into 12 word-</Paragraph>
+</Section>
+</Section>
+</Paper>
+

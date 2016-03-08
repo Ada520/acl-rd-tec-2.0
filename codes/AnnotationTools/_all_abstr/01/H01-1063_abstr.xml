@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H01-1063">
+<Title>Scalability and Portability of a Belief Network-based Dialog Model for Different Application Domains</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> This paper describes the scalability and portability of a Belief Network (BN)-based mixed initiative dialog model across application domains. The Belief Networks (BNs) are used to automatically govern the transitions between a system-initiative and a user-initiative dialog model, in order to produce mixed-initiative interactions. We have migrated our dialog model from a simpler domain of foreign exchange to a more complex domain of air travel information service. The adapted processes include: (i) automatic selection of specified concepts in the user's query, for the purpose of informational goal inference; (ii) automatic detection of missing / spurious concepts based on backward inference using the BN. We have also enhanced our dialog model with the capability of discourse context inheritance. To ease portability across domains, which often implies the lack of training data for the new domain, we have developed a set of principles for hand-assigning BN probabilities, based on the &amp;quot;degree of belief&amp;quot; in the relationships between concepts and goals. Application of our model to the ATIS data gave promising results.</Paragraph>
+</Section>
+</Paper>
+

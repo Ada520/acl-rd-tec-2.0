@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C94-1068">
+<Title>Sample Runs</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We. have developed a parser generator for natural language i)rocessing. The generator named &amp;quot;NLyace&amp;quot; accepts grammar rules written in the Yacc format. NLyacc, unlike Yacc, can handle arbitrary context-free grammars using the generalized Lll. parsing Mgorithm. The parser produced by NLyacc elliciently parses given sentences and executes semantic actions. NLyacc, which is a free and sharable software, runs on UNIX workstations and personal computers.</Paragraph>
+</Section>
+</Paper>
+

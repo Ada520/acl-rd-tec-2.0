@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N03-2004">
+<Title>Exploiting Diversity for Answering Questions</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe initial experiments in combining the output of question answering systems using data from the 2002 TREC Question Answering task. We explore several distance-based combining methods, as well as a number of distance metrics involving both word and character ngrams.</Paragraph>
+</Section>
+</Paper>
+

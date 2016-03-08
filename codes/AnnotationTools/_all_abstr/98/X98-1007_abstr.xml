@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="X98-1007">
+<Title>The Cornell TIPSTER Phase III Project</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+INTRODUCTION l
+</SectionTitle>
+<Paragraph position="0"> The overall objective of the Cornell University TIPSTER Project was to improve end-user efficiency in information retrieval systems by reducing the amount of text that the user must process \[1\]. The project focuses on high precision IR, near-duplicate detection and context-dependent summarization. The two main foundations of the research are the latest version of the Smart system for information Retrieval and the Empire system for natural language processing. Smart is an implementation of the vector-space model of information retrieval (IR). Its earlier purpose was to provide a framework to conduct IR research but current developments will make the system easier to use by nonresearcher. Empire is a research-oriented system that uses machine learning methods to quickly perform partial parsing of sentences.</Paragraph>
+<Paragraph position="1"> option, the system will attempt to retrieve fewer documents than it would in a normal search but within the returned hits list, most of the documents should be useful. Emphasis on high precision, however, extracts a penalty in terms of recall. That is, some of the relevant documents or passages that are available in the stored text collection might not be returned to the user since the system will retrieve fewer documents overall.</Paragraph>
+<Paragraph position="2"> The high-precision option is optimized for users who have a specific information need and a limited amount of time. This option would provide the user with a few piece of highly relevant data quickly but would not necessarily provide all the data. Alternatively, the user may opt to de-emphasize high precision in favor of improved recall but might suffer the consequences that arise from having to process an increased number of irrelevant documents.</Paragraph>
+<Paragraph position="3"> Cornell's integrated approach uses both statistical and linguistic sources to first identify relationships among important terms in the query or in the text. The integrated system then uses the extracted relationships to (1) discard or reorder retrieved texts (for high-precision IR);  (2) locate redundant information (for near-duplicate document detection); or (3) generate summaries. A more detailed technical description about the research can be found in the Cornell University technical paper \[2\].</Paragraph>
+</Section>
+</Paper>
+

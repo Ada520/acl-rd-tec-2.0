@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0108">
+<Title>J Domain-Specific Semantic Class Disambiguation Using WordNet</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents an approach which exploits general-purpose algori.t~m~ and resources for domain-specific semantic class dis~mhiguation, thus facilitating the generalization of semautic patterns fTom word-based to class-based representations.</Paragraph>
+<Paragraph position="1"> Through the mapping of the donzaPSuspecific semantic hierarchy onto Word-Net and the application of general-purpose word sense disambiguation and semantic distance metrics, the approach proposes a portable, wide-coverage method for disambiguating semantic classes. Unlike existing methods, the approach does not require annotated corpora. When tested on the MUC-4 terrorism domain, the approach is shown to outperform the most frequent heuristic substan~lly and achieve comparable accuracy with human judges. Its p~foPS~ance also compares favourably with two supervised learning algorithm.q.</Paragraph>
+</Section>
+</Paper>
+

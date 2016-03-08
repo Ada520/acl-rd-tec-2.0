@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W01-0715">
+<Title></Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+References
+</SectionTitle>
+<Paragraph position="0"> 1 Sabine Buchholz. 1999. Distinguishing complements from adjuncts using memory-based learning. ILK, Computational Linguistics, Tilburg University.</Paragraph>
+<Paragraph position="1"> 2 Michael Collins and James Brooks. 1995. Prepositional phrase attachment through a backed-off model. In Proceedings of the Third Workshop on Very Large Corpora, pages 27--38.</Paragraph>
+<Paragraph position="2"> 3 Bonnie J. Dorr, Large-Scale Dictionary Construction for ForeignLanguage Tutoring and Interlingual Machine Translation, Machine Translation, v.12 n.4, p.271-322, 1997 4 Jane Grimshaw. 1990. Argument Structure. MIT Press.</Paragraph>
+<Paragraph position="3"> 5 Donald Hindle , Mats Rooth, Structural ambiguity and lexical relations, Computational Linguistics, v.19 n.1, March 1993 6 Ray Jackendoff. 1977. X' Syntax: A Study of Phrase Structure. MIT Press, Cambridge, MA.</Paragraph>
+<Paragraph position="4"> 7 Beth Levin. 1993. English Verb Classes and Alternations. University of Chicago Press, Chicago, IL.</Paragraph>
+<Paragraph position="5"> 8 Matthias Leybold. 2001. Automatic distinction of pp-arguments and pp-modifiers based on statistic implementations of linguistic criteria: a contribution to the problem of pp-attachment disambiguation. Master's thesis, University of Geneva. 9 A. Marantz. 1984. On the Nature of Grammatical Relations. MIT Press, Cambridge, MA.</Paragraph>
+</Section>
+</Paper>
+

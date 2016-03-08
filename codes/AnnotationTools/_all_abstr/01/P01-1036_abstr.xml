@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P01-1036">
+<Title>Abbreviations: CRC - Czech Radio(tele)communications CTV - Czech TV CR - Czech Republic CSF - (CS) Federation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+*
+Acknowledgement: The work reported on in this paper has been carried out under the projects GACR 405/96/K214 and
+MSMT LN00A063.
+1 Objectives and Motivation
+</SectionTitle>
+<Paragraph position="0"> Most of the current work on corpus annotation is concentrated on morphemics, lexical semantics and sentence structure. However, it becomes more and more obvious that attention should and can be also paid to phenomena that reflect the links between a sentence and its context, i.e. the discourse anchoring of utterances. If conceived in this way, an annotated corpus can be used as a resource for linguistic research not only within the limits of the sentence, but also with regard to discourse patterns. Thus, the applications of the research to issues of information retrieval and extraction may be made more effective; also applications in new domains become feasible, be it to serve for inner linguistic (and literary) aims, such as text segmentation, specification of topics of parts of a discourse, or for other disciplines.</Paragraph>
+<Paragraph position="1"> These considerations have been a motivation for the tectogrammatical (i.e. underlying, see below) tagging done within the Prague Dependency Treebank (PDT) to contain also attributes concerning certain contextual features, i.e. the contextual anchoring of word tokens and their relationships to their coreferential antecedents.</Paragraph>
+<Paragraph position="2"> Along with this enrichment in the intersentential aspect, we do not neglect to pay attention to intrasentential issues, i.e. to sentence structure, which displays its own features oriented towards the contextual potential of the sentence, namely its topic-focus articulation (TFA).</Paragraph>
+<Paragraph position="3"> In the present paper, we give first an outline of the annotation scenario of the PDT (Section 2), concentrating then on the use of one of the PDT attributes for the specification of the Topic and the Focus (the 'information structure') of the sentence (Section 3). In Section 4. we present certain heuristics that partly are based on TFA and that allow for the specification of the degrees of salience in a discourse. The application of these heuristics is illustrated in Section 5.</Paragraph>
+</Section>
+</Paper>
+

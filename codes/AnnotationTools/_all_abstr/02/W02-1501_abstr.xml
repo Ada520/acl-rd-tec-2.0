@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-1501">
+<Title>putazionale CNR</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In the paper we report a qualitative evaluation of the performance of a dependency analyser of Italian that runs in both a non-lexicalised and a lexicalised mode. Results shed light on the contribution of types of lexical information to parsing.</Paragraph>
+<Paragraph position="1"> Introduction It is widely assumed that rich computational lexicons form a fundamental component of reliable parsing architectures and that lexical information can only have beneficial effects on parsing. Since the beginning of work on broad-coverage parsing (Jensen 1988a, 1988b), the key issue has been how to make effective use of lexical information. In this paper we put these assumptions to the test by addressing the following questions: to what extent should a lexicon be trusted for parsing? What is the neat contribution of lexical information to overall parse success? We present here the results of a preliminary evaluation of the interplay between lexical and grammatical information in parsing Italian using a robust parsing system based on an incremental approach to shallow syntactic analysis. The system can run in both a non-lexicalised and a lexicalised mode. Careful analysis of the results shows that contribution of lexical information to parse success is more selective than commonly assumed, thus raising the parallel issues of how to promote a more effective integration between parsers and lexicons and how to develop better lexicons for parsing.</Paragraph>
+</Section>
+</Paper>
+

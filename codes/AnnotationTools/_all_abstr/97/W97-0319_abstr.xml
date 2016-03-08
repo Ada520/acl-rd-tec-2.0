@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0319">
+<Title>Probabilistic Coreference in Information</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Extraction
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Certain applications require that the output of an information extraction system be probabilistic, so that a downstream system can reliably .fuse the output with possibly contradictory information from other sources. In this paper we consider the problem of assigning a probability distribution to alternative sets of coreference relationships among entity descriptions. We present the results of initial experiments with several approaches to estimating such distributions in an application using SRI's FASTUS information extraction system.</Paragraph>
+</Section>
+</Paper>
+

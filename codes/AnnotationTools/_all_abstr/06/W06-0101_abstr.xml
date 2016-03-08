@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-0101">
+<Title>Improving Context Vector Models by Feature Clustering for Automatic Thesaurus Construction</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Thesauruses are useful resources for NLP; however, manual construction of thesaurus is time consuming and suffers low coverage. Automatic thesaurus construction is developed to solve the problem. Conventional way to automatically construct thesaurus is by finding similar words based on context vector models and then organizing similar words into thesaurus structure. But the context vector methods suffer from the problems of vast feature dimensions and data sparseness. Latent Semantic Index (LSI) was commonly used to overcome the problems. In this paper, we propose a feature clustering method to overcome the same problems. The experimental results show that it performs better than the LSI models and do enhance contextual information for infrequent words.</Paragraph>
+</Section>
+</Paper>
+

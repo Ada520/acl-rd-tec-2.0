@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W96-0410">
+<Title>Paying Heed to Collocations</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we introduce a system,</Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+Sentence Planning Using Description,
+</SectionTitle>
+<Paragraph position="0"> which generates collocations within the paradigm of sentence planning. SPUD simultaneously constructs the semantics and syntax of a sentence using a Lexicalized Tree Adjoining Grammar (LTAG). This approach captures naturally and elegantly the interaction between pragmatic and syntactic constraints on descriptions in a sentence, and the inferential and lexical interactions between multiple descriptions in a sentence, At the same time, it exploits linguistically motivated, declarative specifications of the discourse functions of syntactic constructions to make contextually appropriate syntactic choices.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-1606">
+<Title>Word Sense Disambiguation in a Korean-to-Japanese MT System Using Neural Networks</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a method to resolve word sense ambiguity in a Korean-to-Japanese machine translation system using neural networks. The execution of our neural network model is based on the concept codes of a thesaurus. Most previous word sense disambiguation approaches based on neural networks have limitations due to their huge feature set size. By contrast, we reduce the number of features of the network to a practical size by using concept codes as features rather than the lexical words themselves.</Paragraph>
+<Paragraph position="1"> Introduction Korean-to-Japanese machine translation (MT) employs a direct MT strategy, where a Korean homograph may be translated into a different Japanese equivalent depending on which sense is used in a given context. Thus, word sense disambiguation (WSD) is essential to the selection of an appropriate Japanese target word. Much research on word sense disambiguation has revealed that several different types of information can contribute to the resolution of lexical ambiguity. These include surrounding words (an unordered set of words surrounding a target word), local collocations (a short sequence of words near a target word, taking word order into account), syntactic relations (selectional restrictions), parts of speech, morphological forms, etc (McRoy, 1992, Ng and Zelle, 1997).</Paragraph>
+<Paragraph position="2"> Some researchers use neural networks in their word sense disambiguation systems Because of its strong capability in classification (Waltz et al., 1985, Gallant, 1991, Leacock et al., 1993, and Mooney, 1996). Since, however, most such methods require a few thousands of features or large amounts of hand-written data for training, it is not clear that the same neural network models will be applicable to real world applications.</Paragraph>
+<Paragraph position="3"> We propose a word sense disambiguation method that combines both the neural net-based approach and the work of Li et al (2000), especially focusing on the practicality of the method for application to real world MT systems. To reduce the number of input features of neural networks to a practical size, we use concept codes of a thesaurus as features.</Paragraph>
+<Paragraph position="4"> In this paper, Yale Romanization is used to represent Korean expressions.</Paragraph>
+</Section>
+</Paper>
+

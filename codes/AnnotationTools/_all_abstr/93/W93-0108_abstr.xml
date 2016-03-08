@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W93-0108">
+<Title>Detecting Dependencies between Semantic Verb Subclasses and Subcategorization Frames in Text Corpora</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a method for individuating dependencies between the semantic class of predicates and their associated subcategorization frames, and describe an implementation which allows the acquisition of such dependencies from bracketed texts.</Paragraph>
+</Section>
+</Paper>
+

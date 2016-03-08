@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-2099">
+<Title>A Statistical Theory of Dependency Syntax</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A generative statistical model of dependency syntax is proposed based on 'l'csniSre's classical theory. It provides a stochastic formalization of the original model of syntactic structure and augments it with a model of the string realization process, the latter which is lacking in TesniSre's original work. The resulting theory models crossing dependency links, discontinuous nuclei and string merging, and it has been given an etIicient computational rendering.</Paragraph>
+</Section>
+</Paper>
+

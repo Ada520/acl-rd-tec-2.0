@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P96-1035">
+<Title>Resolving Anaphors in Embedded Sentences</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We propose an Mgorithm to resolve anaphors, tackling mainly the problem of intrasentential antecedents. We base our methodology on the fact that such antecedents are likely to occur in embedded sentences. Sidner's focusing mechanism is used as the basic algorithm in a more complete approach. The proposed algorithm has been tested and implemented as a part of a conceptual analyser, mainly to process pronouns. Details of an evaluation are given.</Paragraph>
+</Section>
+</Paper>
+

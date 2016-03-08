@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0404">
+<Title>Correct parts extraction from speech recognition results using semantic distance calculation, and its application to speech translation</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ATR Interpreting Telecommunications Research Laboratories
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper proposes a method for extracting the correct parts from speech recognition results by using an example-based approach for parsing those results that include several recognition errors. Correct parts are extracted using two factors: (1) the semantic distance between the input expression and example expression, and (2) the structure selected by the shortest semantic distance. We examined the correct parts extraction rate and the effectiveness of the method in improving the speech understanding rate and the speech translation rate. The examination results showed that the proposed method is able to efficiently extract the correct parts from speech recognition results. About ninety-six percent of the extracted parts are correct. The results also showed that the proposed method is effective in understanding misrecognition speech sentences and in improving speech translation results. The misunderstanding rate for erroneous sentences is reduced about haiti Sixty-nine percent of speech translation results are improved for misrecognized sentences.</Paragraph>
+</Section>
+</Paper>
+

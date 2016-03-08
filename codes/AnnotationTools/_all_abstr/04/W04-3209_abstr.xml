@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-3209">
+<Title>Comparing and Combining Generative and Posterior Probability Models: Some Advances in Sentence Boundary Detection in Speech</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We compare and contrast two different models for detecting sentence-like units in continuous speech.</Paragraph>
+<Paragraph position="1"> The first approach uses hidden Markov sequence models based on N-grams and maximum likelihood estimation, and employs model interpolation to combine different representations of the data.</Paragraph>
+<Paragraph position="2"> The second approach models the posterior probabilities of the target classes; it is discriminative and integrates multiple knowledge sources in the maximum entropy (maxent) framework. Both models combine lexical, syntactic, and prosodic information. We develop a technique for integrating pre-trained probability models into the maxent framework, and show that this approach can improve on an HMM-based state-of-the-art system for the sentence-boundary detection task. An even more substantial improvement is obtained by combining the posterior probabilities of the two systems.</Paragraph>
+</Section>
+</Paper>
+

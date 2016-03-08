@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-2146">
+<Title>Using Language Resources in an Intelligent Tutoring System for French</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a project that investigates to what extent computational linguistic methods and tools used at GETA for machine translation can be used to implement novel functionalities in intelligent computer assisted language learning. Our intelligent tutoring system project is still in its early phases. The learner module is based on an empirical study of French as used by Acadian elementary students living in New-Brunswick, Canada. Additionally, we are studying the state of the art of systems using Artificial Intelligence techniques as well as NLP resources and/or methodologies for teaching language, especially for bilingual and minority groups.</Paragraph>
+<Paragraph position="1"> (*) On sabbatical leave at GETA-CLIPS, Grenoble, France for 1997-1998. define the learner model. Then, in the last section we propose the system's general architecture and an overview some of its activities; particularly those that counteract Anglicisms by double generating examples in standard French and in the local dialect using linguistic resources usually used in machine translation.</Paragraph>
+<Paragraph position="2"> Introduction The project that we have started is intended for the minority French speaking Acadian community living in Atlantic Canada. In many families, parents used to go to English schools and sometimes cannot adequately help their children in their school work. Children, who now go to French schools, often switch back to English for their leisure activities because of the scarcity of options open to them. Many of these children use English syntax as well as borrowed vocabulary quite frequently. In brief, this setting of language learning is not that of a typical native speaker.</Paragraph>
+<Paragraph position="3"> We begin our presentation with a literature review of related work in Intelligent Tutoring Systems (ITS) particularly on Computer Assisted Language Learning (CALL and Intelligent CALL) followed by the principles that this community is now expecting from system builders. In the following sections we summarize an empirical study that helped us To our knowledge, there are no systems that use machine translation tools for generating two versions of the same language instead of multilingual generation. Another novelty is in the pedagogical approach of exposing the learner to the expert model and to the learner model in a comparative manner, thus helping to clarify the sources of error.</Paragraph>
+</Section>
+</Paper>
+

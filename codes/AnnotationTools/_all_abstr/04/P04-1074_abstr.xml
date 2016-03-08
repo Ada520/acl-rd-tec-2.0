@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P04-1074">
+<Title>Applying Machine Learning to Chinese Temporal Relation Resolution</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Temporal relation resolution involves extraction of temporal information explicitly or implicitly embedded in a language. This information is often inferred from a variety of interactive grammatical and lexical cues, especially in Chinese.</Paragraph>
+<Paragraph position="1"> For this purpose, inter-clause relations (temporal or otherwise) in a multiple-clause sentence play an important role. In this paper, a computational model based on machine learning and heterogeneous collaborative bootstrapping is proposed for analyzing temporal relations in a Chinese multiple-clause sentence. The model makes use of the fact that events are represented in different temporal structures. It takes into account the effects of linguistic features such as tense/aspect, temporal connectives, and discourse structures. A set of experiments has been conducted to investigate how linguistic features could affect temporal relation resolution.</Paragraph>
+</Section>
+</Paper>
+

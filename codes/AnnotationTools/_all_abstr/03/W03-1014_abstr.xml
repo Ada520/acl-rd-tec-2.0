@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-1014">
+<Title>Learning Extraction Patterns for Subjective Expressions</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a bootstrapping process that learns linguistically rich extraction patterns for subjective (opinionated) expressions.</Paragraph>
+<Paragraph position="1"> High-precision classifiers label unannotated data to automatically create a large training set, which is then given to an extraction pattern learning algorithm. The learned patterns are then used to identify more subjective sentences.</Paragraph>
+<Paragraph position="2"> The bootstrapping process learns many subjective patterns and increases recall while maintaining high precision.</Paragraph>
+</Section>
+</Paper>
+

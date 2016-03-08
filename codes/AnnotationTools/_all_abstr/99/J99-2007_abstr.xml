@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J99-2007">
+<Title>Learning Dependencies between Case Frame Slots</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> We address the problem of automatically acquiring case frame patterns (or their near equivalents, selectional patterns and subcategorization patterns) from large corpus data. In our view, the acquisition of case frame patterns involves the following three subtasks: (1) extracting case frame instances from corpus data, i2) generalizing case frame slots within the case frames, and (3) learning dependencies that exist between the (generalized) case frame slots. We consider here the third of these subtasks and propose a method of learning dependencies between case frame slots.</Paragraph>
+<Paragraph position="1"> The term &amp;quot;dependency&amp;quot; refers to the relationship that may exist between case slots and that indicates strong co-occurrence between the values of those case slots.</Paragraph>
+<Paragraph position="2"> For example, consider the following sentences:  (1) She flies jets.</Paragraph>
+<Paragraph position="3"> (2) That airline company flies jets.</Paragraph>
+<Paragraph position="4"> (3) She flies Japan Airlines.</Paragraph>
+<Paragraph position="5"> (4) *That airline company flies Japan Airlines.</Paragraph>
+<Paragraph position="6">  We see that airline company can be the value of the argl (subject) slot, when the value of the arg2 (direct object) slot is airplane but not when it is airline company. These sentences indicate that the possible values of case slots depend in general on those of others: dependencies between case slots exist. 1 The knowledge of dependencies between case slots is useful in various tasks in natural language processing, especially in analyzing sentences involving multiple prepositional phrases, such as The girl will fly a jet from Tokyo to Beijing. Note in this example * c/o C&amp;C Media Res. Labs. NEC, 4-1-1 Miyazaki Miyamae-ku, Kawasaki, 216-8555 Japan. E-mail: {lihang, abe}@ccm.d.nec.co.jp 1 One may argue that these examples involve different word senses of fly, and in general, that if word senses were disambiguated there would be no dependency between case slots. But, with that interpretation, word senses would have to be automatically disambiguated given the corpus data, and we would find ourselves left with the same problem. Furthermore, word senses are in general difficult to define precisely, and we feel it is better not to rely on this notion in a natural language application, unless it is necessary.</Paragraph>
+<Paragraph position="7">  (fly (argl (person) )(from (place/)(to (place))) 1 (fly (argl (company))(from (place))(to (place))) 1 that the slot of from and that of to should be considered dependent and the attachment site of one of the prepositional phrases (case slots) can be determined by that of the other with high accuracy and confidence. There has not been a general method proposed to date, however, that learns dependencies between case slots. Methods of resolving ambiguities have been based, for example, on the assumption that case slots are mutually independent (Hindle and Rooth 1991), or at most two case slots are dependent (Collins and Brooks 1995). In this article, we propose an efficient and general method of learning dependencies between case frame slots.</Paragraph>
+</Section>
+</Paper>
+

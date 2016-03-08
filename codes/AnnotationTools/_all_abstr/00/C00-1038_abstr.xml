@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-1038">
+<Title>Directional Constraint Evaluation in Optimality Theory*</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> ()l)tinmlity Theory is a gl'aanlnitr framework thnt directly ext)resses constraints on 1)honological fbrms. I/,oughly, tim grmnlnm&amp;quot; t)l'etC/~rs Ji)rlns thnt violate ea(:h constraint as little as I)ossil)le.</Paragraph>
+<Paragraph position="1"> Most (:onstrainl;s used in t)l&amp;quot;a(:tic(~ des(:ril)e disfavored local eontigurntions in the l)honologieM tbrm (Eisner, 1997; 0. It is thel&amp;quot;etbre l)ossil)le tbr a, given tbrm to ottimd a single constraint at st',vcral locations in the fbrm. (l or example, a constraint against syllable codas will l)e ()t'-MMed by every syllM)le, that has n (:oda.) When eomt)m'ing tbrms, then, how do we ~Lggreg~te ~ tbrm's multil)le lo(:al offenses into a,n overall violation level? A (:onstraint (:ould answer this question ill nt least three, wi~ys, the, third being our proposM:  excet)t l;h~t the COllStrMnt does not; disl;inguish among tbrms wil;h &gt; ti: ofl'enses. 1 * Directional evaluation. A tbrm's violation level coxisiders the locntion of offimses, not their totM nunll)er. Under left* l am grateful to the 3 mmnymous referees tbr tbx,xtback. 1Nol;e that k = 1 gives &amp;quot;l)inary&amp;quot; constraints that can 1)e des(:ril)ed siml)ly as languages. Any/,:-tramMed constraint ca.n easily be simulated by k binary constraints. to-right ewduation, the constraint pret~rs tbrms whose ofl~nses are as late as possible.</Paragraph>
+<Paragraph position="2"> To (:omp;~re two tbrms, it aligns tlmm (according to l;heir (:omnlon underlying represenl;ation), and scans theln in 1)arMlel from M'I; to right, stol)ping at the first loe~tion where one form hns ml offense and the ()tiler does not (&amp;quot;sudden death&amp;quot;); it; pret~rs the 1;~tter. Right-toqeft evMmttion is similar.</Paragraph>
+<Paragraph position="3"> ~2 of this paper gives linguistic and conqmtational motivation tbr the 1)rol)osal. SS3 tbrmMizes the idea trod shows thai; composin 9 a transducer 'with a directional (:on,straint yields a transducer.</Paragraph>
+<Paragraph position="4"> \[Phus direc, l;ional constraints, like bouuded ones, kee t) (YI' within the, (:lass of regular relntions.</Paragraph>
+<Paragraph position="5"> (\]iut we Mso show them to be more exl)ressive. )</Paragraph>
+</Section>
+</Paper>
+

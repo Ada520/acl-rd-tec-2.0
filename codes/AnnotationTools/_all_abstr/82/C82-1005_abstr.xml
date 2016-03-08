@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C82-1005">
+<Title>TRANSFORMATION OF NATURAL LANGUAGE INTO LOGICAL FORMULAS</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+TRANSFORMATION OF NATURAL LANGUAGE INTO LOGICAL FORMULAS
+</SectionTitle>
+<Paragraph position="0"> This paper presents an attempt of elaboration of a full parsing system for Polish natural language which is being worked out in the Instlt~te of Informatics of Warsaw University. Our system was adapted to the parsing of the corpus of real medical texts whici= concern a subdomain of medicine. We made use of the experience of such famous authors as (6), (7), (8), (9), (10), (11), (12), (13), (1~).</Paragraph>
+</Section>
+</Paper>
+

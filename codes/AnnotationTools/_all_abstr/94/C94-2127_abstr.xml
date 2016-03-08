@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C94-2127">
+<Title>Bottom-Up Earley Deduction</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We propose a bottom-up variant of Earley deduction. Bottom-up deduction is preferable to top-down deduction because it allows incrementai processing (even for head-driven grammars), it is data-driven, no subsumption check is needed, and preference values attached to lexical items can be used to guide best-first search. We discuss the scanning step for bottom-up Earley deduction and indexing schemes that help avoid useless deduction steps.</Paragraph>
+</Section>
+</Paper>
+

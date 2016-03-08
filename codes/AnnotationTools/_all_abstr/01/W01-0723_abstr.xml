@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W01-0723">
+<Title></Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+References
+</SectionTitle>
+<Paragraph position="0"> 1 Andreas Abecker and Klaus Schmid. 1996. From theory refinement to kb maintenance: a position statement. In ECAI'96, Budapest, Hungary.</Paragraph>
+<Paragraph position="1"> 2 Clifford Alan Brunk. 1996. An investigation of Knowledge Intensive Approaches to Concept Learning and Theory Refinement. Ph.D. thesis, University of California, Irvine. 3 Herv Djean. 2000a. Theory refinement and natural language learning. In COLING'2000, Saarbrcken.</Paragraph>
+<Paragraph position="2"> 4 Herv Djean. 2000b. A use of xml for machine learning. In Proceeding of the workshop on Computational Natural Language Learning, CONLL'2000.</Paragraph>
+<Paragraph position="3"> 5 David Mckelvie, 2000. XML QUERY 2.0. Edinburgh. http://www.ltg.ed.ac.uk/software/ttt/.</Paragraph>
+<Paragraph position="4"> 6 Raymond J. Mooney, Induction Over the Unexplained: Using Overly-General Domain Theories to Aid Concept Learning, Machine Learning, v.10 n.1, p.79-110, Jan. 1993 7 Raymond J. Mooney, Inductive Logic Programming for Natural Language Processing, Selected Papers from the 6th International Workshop on Inductive Logic Programming, p.3-22, August 26-28, 1996 8 Erik F. Tjong Kim Sang and Herv Djean. 2001. Introduction to the conll-2001 shared task: Clause identification. In Proceedings of CoNLL, shared task.</Paragraph>
+</Section>
+</Paper>
+

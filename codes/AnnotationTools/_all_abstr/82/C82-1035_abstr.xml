@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C82-1035">
+<Title>ARBUS, A TOOL FOR DEVELOPING APPLICATION GRAMMARS</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+9|406 ORSAY FRANCE
+</SectionTitle>
+<Paragraph position="0"> The development of a natural language system usually requires frequent changes to the grammar used. It is then ~ery useful to be able to define and modify the gra~ar rules easily, without having to tamper with the parsing program. The ARBUS system was designed to help develop grammars for natural language processing. With this system one can build, display, test, modify and file a grammar interactively in a very convenient way. This was achieved by packaging a parser and a graummr editor with an elaborate interface which isolates the user from implementation details and guides him as much as possible.</Paragraph>
+</Section>
+</Paper>
+

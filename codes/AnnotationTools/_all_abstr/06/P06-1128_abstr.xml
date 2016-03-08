@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P06-1128">
+<Title>Semantic Retrieval for the Accurate Identification of Relational Concepts in Massive Textbases Yusuke Miyao[?] Tomoko Ohta[?] Katsuya Masuda[?] Yoshimasa Tsuruoka+</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper introduces a novel framework for the accurate retrieval of relational concepts from huge texts. Prior to retrieval, all sentences are annotated with predicate argument structures and ontological identifiers by applying a deep parser and a term recognizer. During the run time, user requests are converted into queries of region algebra on these annotations. Structural matching with pre-computed semantic annotations establishes the accurate and efficient retrieval of relational concepts. This framework was applied to a text retrieval system for MEDLINE. Experiments on the retrieval of biomedical correlations revealed that the cost is sufficiently small for real-time applications and that the retrieval precision is significantly improved.</Paragraph>
+</Section>
+</Paper>
+

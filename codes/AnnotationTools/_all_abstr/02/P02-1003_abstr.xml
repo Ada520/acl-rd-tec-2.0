@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P02-1003">
+<Title>Generation as Dependency Parsing</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Natural-Language Generation from flat semantics is an NP-complete problem.</Paragraph>
+<Paragraph position="1"> This makes it necessary to develop algorithms that run with reasonable efficiency in practice despite the high worst-case complexity. We show how to convert TAG generation problems into dependency parsing problems, which is useful because optimizations in recent dependency parsers based on constraint programming tackle exactly the combinatorics that make generation hard. Indeed, initial experiments display promising runtimes. null</Paragraph>
+</Section>
+</Paper>
+

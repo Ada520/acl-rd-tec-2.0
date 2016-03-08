@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-1801">
+<Title>Extraction of Translation Unit from Chinese-English Parallel Corpora</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> More and more researchers have recognized the potential value of the parallel corpus in the research on Machine Translation and Machine Aided Translation. This paper examines how Chinese English translation units could be extracted from parallel corpus. An iterative algorithm based on degree of word association is proposed to identify the multiword units for Chinese and English. Then the Chinese-English Translation Equivalent Pairs.are extracted from the parallel corpus. We also made comparison between different statistical association measurement in this paper.</Paragraph>
+</Section>
+</Paper>
+

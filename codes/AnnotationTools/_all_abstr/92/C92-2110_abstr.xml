@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C92-2110">
+<Title>Design Tool Combining Keyword Analyzer and Case-based Parser for Developing Natural Language Database Interfaces</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> We have designed and experimentally implemented a tool for developing a natural language systems that can accept extra-grammatical expressions, keyword sequences, and linguistic fragments, as well as ordi nary natural language queries. The key to this tool's efficiency is its effective use of a simple keyword analyzer in combination with a conventional case-based parser. TILe keyword analyzer performs a majority of those queries which are simple data retrievals. Since it uses only keywords in any qnery, this analyzer is robust with regard to extra-grammatical expressions.</Paragraph>
+<Paragraph position="1"> Since little labor is required of the application designer in using the keyword analyzer portion of the tool, and since the case-based parser processes only those queries which the keyword analyzer fails to interpret, total labor required of the designer is less than that for a tool which employs a conventional case-based parser alone.</Paragraph>
+</Section>
+</Paper>
+

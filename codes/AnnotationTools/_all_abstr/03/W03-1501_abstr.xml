@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-1501">
+<Title>Learning Formulation and Transformation Rules for Multilingual Named Entities</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper investigates three multilingual named entity corpora, including named people, named locations and named organizations. Frequency-based approaches with and without dictionary are proposed to extract formulation rules of named entities for individual languages, and transformation rules for mapping among languages. We consider the issues of abbreviation and compound keyword at a distance. Keywords specify not only the types of named entities, but also tell out which parts of a named entity should be meaning-translated and which part should be phoneme-transliterated. An application of the results on cross language information retrieval is also shown.</Paragraph>
+</Section>
+</Paper>
+

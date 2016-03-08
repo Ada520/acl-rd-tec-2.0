@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H86-1003">
+<Title>Overview of the TACITUS Project</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+SRI International
+1 Aims of the Project
+</SectionTitle>
+<Paragraph position="0"> The specific aim of the TACITUS project is to develop interpretation processes for handling casualty reports (casreps), which are messages in freeflowing text about breakdowns of machinery. 1 These interpretation processes will be an essential component, and indeed the principal component, of systems for automatic message routing and systems for the automatic extraction of information from messages for entry into a data base or an expert system. In the latter application, for example, it is desirable to be able to recognize conditions in the message that instantiate conditions in the antecedents of the expert system's rules, so that the expert system can reason on the basis of more up-to-date and more specific information.</Paragraph>
+<Paragraph position="1"> More broadly, our aim is to develop general procedures, together with the underlying theory, for using commonsense and technical knowledge in the interpretation of written discourse. This effort divides into five subareas: (1) syntax and semantic translation; (2) commonsense knowledge; (3) domain knowledge; (4) deduction; (5) ~local&amp;quot; pragmatics. Our approach in each of these areas is discussed in turn.</Paragraph>
+</Section>
+</Paper>
+

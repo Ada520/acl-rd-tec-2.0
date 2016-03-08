@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P06-4011">
+<Title>Computational Analysis of Move Structures in Academic Abstracts</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper introduces a method for computational analysis of move structures in abstracts of research articles. In our approach, sentences in a given abstract are analyzed and labeled with a specific move in light of various rhetorical functions. The method involves automatically gathering a large number of abstracts from the Web and building a language model of abstract moves. We also present a prototype concordancer, CARE, which exploits the move-tagged abstracts for digital learning. This system provides a promising approach to Web-based computer-assisted academic writing.</Paragraph>
+</Section>
+</Paper>
+

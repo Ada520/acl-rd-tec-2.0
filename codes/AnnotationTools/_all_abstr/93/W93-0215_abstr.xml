@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W93-0215">
+<Title>References</Title>
+<Section position="2" start_page="56" end_page="56" type="abstr">
+<SectionTitle>
+AI Planning \[ Text Planning
+</SectionTitle>
+<Paragraph position="0"> operators (actions) ! rhetorical relations state of the world i mental states goals intentions plan (network of actions) texts (network of rhetorical relations)  levels (see \[MP92\] and Korelsky and Kittredge in this proceeding), however, I think the number of rhetorical relations should depend on the number of relations in the domain. For example, if there is a domain relation R, then depending on who his hearer is and what his intentions are, a speaker may choose different method M to inform R to the hearer. The method M may be planned in terms of several rhetorical relations or a single rhetorical relation may be used for more than one method like M. More on this is discussed later.</Paragraph>
+<Paragraph position="1"> This analogy is in line with Traum's position of viewing rhetorical relation as speech acts or actions in general (in this proceedings). In particular, this view agrees with his point that a relation can be planned, performed, and recognized. Since actions are unbounded so should be the relations, which concurs with his criticism that it is meaningless to find the boundary for the right set of rhetorical relations. Traum, however, tends to emphasize the importance of intentions so much as to indicate that the role of rhetorical relations is only secondary and may not even be necessary in communicating intentions. Very often (especially in casual conversation), rhetorical relations are implied and thus hidden from the surface form (e.g. (2a) and (2b) in Traum's) . However, it is clear that a coherent text is structured with some meaningful rhetorical relations among its segments. Therefore, without identifying those relations (hidden or otherwise) planned by the speaker, we cannot say that the hearer understood the speaker. Thus, I take the position that in both text planning and recognition, rhetorical relations play a primary role in communicating intentions.</Paragraph>
+</Section>
+</Paper>
+

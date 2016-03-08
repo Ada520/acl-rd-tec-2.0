@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A97-1043">
+<Title>An Automatic Extraction of Key Paragraphs Based on Context Dependency</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we propose a method for extracting key paragraphs in articles based on the degree of context dependency. Like Luhn's technique, our method assumes that the words related to theme in an article appear throughout paragraphs. Our extraction technique of keywords is based on the degree of context dependency that how strongly a word is related to a given context. The results of experiments demonstrate the applicability of our proposed method.</Paragraph>
+</Section>
+</Paper>
+

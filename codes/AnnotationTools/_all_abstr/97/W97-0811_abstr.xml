@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0811">
+<Title>An Experiment in Semantic Tagging using Hidden Markov Model Tagging</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The same word can have many different meanings depending on the context in which it is used. Discovering the meaning of a word, given the text around it, has been an interesting problem for both the psychology and the artificial intelligence research communities. In this article, we present a series of experiments, using methods which have proven to be useful for eliminating part-of-speech ambiguity, to see if such simple methods can be used to resolve semantic ambiguities. Using a publicly available semantic lexicon, we find the Hidden Markov Models work surprising well at choosing the right semantic categories, once the sentence has been stripped of purely functional words.</Paragraph>
+</Section>
+</Paper>
+

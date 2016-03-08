@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E06-1002">
+<Title>Using Encyclopedic Knowledge for Named Entity Disambiguation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a new method for detecting and disambiguating named entities in open domain text. A disambiguation SVM kernel is trained to exploit the high coverage and rich structure of the knowledge encoded in an online encyclopedia. The resulting model significantly outperforms a less informed baseline.</Paragraph>
+</Section>
+</Paper>
+

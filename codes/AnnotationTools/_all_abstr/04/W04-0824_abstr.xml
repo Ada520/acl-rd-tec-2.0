@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-0824">
+<Title>Multi-Component Word Sense Disambiguationa0</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes the system MC-WSD presented for the English Lexical Sample task. The system is based on a multicomponent architecture.</Paragraph>
+<Paragraph position="1"> It consists of one classifier with two components.</Paragraph>
+<Paragraph position="2"> One is trained on the data provided for the task. The second is trained on this data and, additionally, on an external training set extracted from the Wordnet glosses. The goal of the additional component is to lessen sparse data problems by exploiting the information encoded in the ontology.</Paragraph>
+</Section>
+</Paper>
+

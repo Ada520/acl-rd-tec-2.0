@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H91-1046">
+<Title>A A Trellis-Based Algorithm For Estimating The Parameters Of Hidden Stochastic Context-Free Grammar</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> The paper presents a new algorithm for estimating the parameters of a hidden stochastic context-free grammar. In contrast to the Inside/Outside (I/O) algorithm it does not require the grammar to be expressed in Chomsky normal form, and thus can operate directly on more natural representations of a grammar. The algorithm uses a trellis-based structure as opposed to the binary branching tree structure used by the I/O algorithm.</Paragraph>
+<Paragraph position="1"> The form of the trellis is an extension of that used by the Forward/Backward algorithm, and as a result the algorithm reduces to the latter for components that can be modeled as finite-state networks. In the same way that a hidden Markov model (HMM) is a stochastic analogue of a finlte-state network, the representation used by the new algorithm is a stochastic analogue of a recursive transition network, in which a state may be simple or itself contain an underlying structure.</Paragraph>
+</Section>
+</Paper>
+

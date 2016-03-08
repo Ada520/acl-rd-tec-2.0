@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-1647">
+<Title>Lexicon Acquisition for Dialectal Arabic Using Transductive Learning</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We investigate the problem of learning a part-of-speech (POS) lexicon for a resource-poor language, dialectal Arabic.</Paragraph>
+<Paragraph position="1"> Developing a high-quality lexicon is often the rst step towards building a POS tagger, which is in turn the front-end to many NLP systems. We frame the lexicon acquisition problem as a transductive learning problem, and perform comparisons on three transductive algorithms: Transductive SVMs, Spectral Graph Transducers, and a novel Transductive Clustering method. We demonstrate that lexicon learning is an important task in resource-poor domains and leads to signi cant improvements in tagging accuracy for dialectal Arabic.</Paragraph>
+</Section>
+</Paper>
+

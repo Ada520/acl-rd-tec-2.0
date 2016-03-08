@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-2106">
+<Title>Parsing Schemata for Grammars with Variable Number and Order of Constituents</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We define state transition grammars (STG) as an intermediate tbrmalism between grammars and parsing algorithms which is intended to separate the description of a parsing strategy from the grammar tbrmalism. This allows to define more general parsing algorithms for larger classes of grammars, including gramnmrs where the nunfl)er and order of subconstituents detined by a production may not be tlxed. Various grammar formalisms are characterized in terms of prol)erties of STG's. We define an Earley parsing schema tbr S'rC's and characterize the wflid l)arse items. We also discuss the usability of STG's tbr head-(:orner parsing and direct 1)arsing of sets of tree constraints.</Paragraph>
+</Section>
+</Paper>
+

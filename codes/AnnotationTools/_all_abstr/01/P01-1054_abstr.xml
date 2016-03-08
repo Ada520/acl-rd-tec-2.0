@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P01-1054">
+<Title>Tractability and Structural Closures in Attribute Logic Type Signatures</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper considers three assumptions conventionally made about signatures in typed feature logic that are in potential disagreement with current practice among grammar developers and linguists working within feature-based frameworks such as HPSG: meet-semilatticehood, unique feature introduction, and the absence of subtype covering. It also discusses the conditions under which each of these can be tractably restored in realistic grammar signatures where they do not already exist.</Paragraph>
+</Section>
+</Paper>
+

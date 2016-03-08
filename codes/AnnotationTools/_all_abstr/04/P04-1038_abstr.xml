@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P04-1038">
+<Title>Chinese Verb Sense Discrimination Using an EM Clustering Model with Rich Linguistic Features</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper discusses the application of the Expectation-Maximization (EM) clustering algorithm to the task of Chinese verb sense discrimination. The model utilized rich linguistic features that capture predicate-argument structure information of the target verbs. A semantic taxonomy for Chinese nouns, which was built semi-automatically based on two electronic Chinese semantic dictionaries, was used to provide semantic features for the model. Purity and normalized mutual information were used to evaluate the clustering performance on 12 Chinese verbs.</Paragraph>
+<Paragraph position="1"> The experimental results show that the EM clustering model can learn sense or sense group distinctions for most of the verbs successfully. We further enhanced the model with certain fine-grained semantic categories called lexical sets. Our results indicate that these lexical sets improve the models performance for the three most challenging verbs chosen from the first set of experiments.</Paragraph>
+</Section>
+</Paper>
+

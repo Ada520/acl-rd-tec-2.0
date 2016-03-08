@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C02-1086">
+<Title>Implicit Ambiguity Resolution Using Incremental Clustering in Korean-to-English Cross-Language Information Retrieval</Title>
+<Section position="1" start_page="2" end_page="2" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a method to implicitly resolve ambiguities using dynamic incremental clustering in Korean-to-English cross-language information retrieval. In the framework we propose, a query in Korean is first translated into English by looking up Korean-English dictionary, then documents are retrieved based on the vector space retrieval for the translated query terms. For the top-ranked retrieved documents, query-oriented document clusters are incrementally created and the weight of each retrieved document is re-calculated by using clusters. In experiment on TREC-6 CLIR test collection, our method achieved 28.29% performance improvement for translated queries without ambiguity resolution for queries. This corresponds to 97.27% of the monolingual performance for original queries. When we combine our method with query ambiguity resolution, our method even outperforms the monolingual retrieval.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-2201">
+<Title>PaTrans - A Patent Translation System</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes Pa~lh'ans - a fully automatic production MT system designed for producing raw translations of patent texts fl'om English into Danish. First we describe the backbone of tile system: the EUROTRA research project, and prototype. Then we give an overview of the trauslat, ion process and the basic flmetionality of Pa'I~'ans, and finally we describe some recent extensions for improving processing efficiency and the translation quality of unexl)ected input encountered in real-lit~ texts.</Paragraph>
+</Section>
+</Paper>
+

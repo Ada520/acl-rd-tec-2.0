@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-2808">
+<Title>Making Relative Sense: From Word-graphs to Semantic Frames</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Scaling up from controlled single domain spoken dialogue systems towards conversational, multi-domain and multimodal dialogue systems poses new challenges for the reliable processing of less restricted user utterances. In this paper we explore the feasibility to employ a general purpose ontology for various tasks involved in processing the user's utterances.</Paragraph>
+</Section>
+</Paper>
+

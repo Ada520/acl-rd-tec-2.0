@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W05-0834">
+<Title>Word Graphs for Statistical Machine Translation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Word graphs have various applications in the eld of machine translation. Therefore it is important for machine translation systems to produce compact word graphs of high quality. We will describe the generation of word graphs for state of the art phrase-based statistical machine translation. We will use these word graph to provide an analysis of the search process. We will evaluate the quality of the word graphs using the well-known graph word error rate. Additionally, we introduce the two novel graph-to-string criteria: the position-independent graph word error rate and the graph BLEU score.</Paragraph>
+<Paragraph position="1"> Experimental results are presented for two Chinese English tasks: the small IWSLT task and the NIST large data track task.</Paragraph>
+<Paragraph position="2"> For both tasks, we achieve signi cant reductions of the graph error rate already with compact word graphs.</Paragraph>
+</Section>
+</Paper>
+

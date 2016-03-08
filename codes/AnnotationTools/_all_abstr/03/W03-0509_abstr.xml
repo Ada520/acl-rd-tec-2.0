@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-0509">
+<Title>A Survey for Multi-Document Summarization</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Automatic Multi-Document summarization is still hard to realize. Under such circumstances, we believe, it is important to observe how humans are doing the same task, and look around for different strategies.</Paragraph>
+<Paragraph position="1"> We prepared 100 document sets similar to the ones used in the DUC multi-document summarization task.</Paragraph>
+<Paragraph position="2"> For each document set, several people prepared the following data and we conducted a survey.</Paragraph>
+<Paragraph position="3"> A) Free style summarization B) Sentence Extraction type summarization C) Axis (type of main topic) D) Table style summary In particular, we will describe the last two in detail, as these could lead to a new direction for multisummarization research.</Paragraph>
+</Section>
+</Paper>
+

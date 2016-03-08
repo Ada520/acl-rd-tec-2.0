@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W01-1603">
+<Title>Development of a machine learnable discourse tagging tool</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We have developed a discourse level taggingtool forspoken dialoguecorpus using machine learning methods. As discourse level information,we focused on dialogueact, relevance and discourse segment. In dialogue act tagging, we have implemented a transformation-based learning procedure and resulted in 70% accuracy in open test. In relevance and discourse segment tagging, we have implemented a decision-tree based learning procedure and resulted in about 75% and 72% accuracy respectively.</Paragraph>
+</Section>
+</Paper>
+

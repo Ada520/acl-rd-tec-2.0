@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N06-1045">
+<Title>A Better -BestList: Practical Determinization ofWeighted Finite Tree Automata</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Ranked lists of output trees from syntactic statistical NLP applications frequently contain multiple repeated entries.</Paragraph>
+<Paragraph position="1"> This redundancy leads to misrepresentation of tree weight and reduced information for debugging and tuning purposes.</Paragraph>
+<Paragraph position="2"> It is chiefly due to nondeterminism in the weighted automata that produce the results. We introduce an algorithm that determinizes such automata while preserving proper weights, returning the sum of the weight of all multiply derived trees.</Paragraph>
+<Paragraph position="3"> We also demonstrate our algorithm's effectiveness ontwo large-scale tasks.</Paragraph>
+</Section>
+</Paper>
+

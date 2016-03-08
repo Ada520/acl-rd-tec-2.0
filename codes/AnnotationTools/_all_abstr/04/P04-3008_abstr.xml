@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P04-3008">
+<Title>Interactive grammar development with WCDG</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The manual design of grammars for accurate natural language analysis is an iterative process; while modelling decisions usually determine parser behaviour, evidence from analysing more or different input can suggest unforeseen regularities, which leads to a reformulation of rules, or even to a different model of previously analysed phenomena. We describe an implementation of Weighted Constraint Dependency Grammar that supports the grammar writer by providing display, automatic analysis, and diagnosis of dependency analyses and allows the direct exploration of alternative analyses and their status under the current grammar.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-2025">
+<Title>Funetor-Driven Natural Language Generation with Categorial-Unification Grammars</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> In this paper we develop a functor-driven approach to natural language generation which pairs logical forms, expressed in first-order predicate logic, with syntactically well-formed English sentences. Grammatical knowledge is expressed in the fi'amework of categorial unifieation-qrammars developed by Karttunen (1986), Wittenburg (1986), Uszkoreit (1986), and Zeevat et. al. (1987). The semantic component of the grammar makes crucial use of the principle of minimal type assignment whose importance has been independently motivated in recent work in natural language semantics (see Partee and Rooth 1983).</Paragraph>
+<Paragraph position="1"> The principle of type-raising as necessary which follows fi'om minimal type assignment has been implemented using Wittenburg's (1987,1989) idea of supereombinators. This use of supercombinators to achieve semantic compatibility of types generalizes Wittenburg's strictly syntactic use of such combinators. null The use of categorial unification grammars makes it possible to develop an efficient top-down control regime for natural language generation. Rather than generating the syntactic output string in a leftotoright fashion, our algorithm always generates that part of the output string first that belongs to the funetor category in a given phrase, before it generates any of the arguments of the functor category.</Paragraph>
+<Paragraph position="2"> This fnnctor-driven strategy is similar to the head-driven approach to natural language generation developed by Shieber el. al. (1989). However, unlike the head-driven approach, which uses a mixed regime of top-down and bottom-up processing, our algorithm always has sufficient top-down information to guide the generation process. Moreover, due to the principle of minimal type assigmnent in the semantics, our approach avoids problems of efficiency that arise for the head-driven approach for those classes of grammars that do not satisfy this principle. The work reported here is implemented in the natural language system UNICORN, which can be used for natural language parsing (see Gerdemann and Hinrichs 1989) and na.tural language generation.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E93-1014">
+<Title>On the notion of uniqueness *</Title>
+<Section position="2" start_page="0" end_page="106" type="abstr">
+<SectionTitle>
+3512 JK Utrecht, The Netherlands
+Email: Joke.Dorrepaal@let.ruu.nl
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In the paper it is argued that for some linguistic phenomena, current discourse representation structures are insufficiently finegrained, both from the perspective of serving as representation in NLP and from a truth conditional perspective. One such semantic phenomenon is uniqueness. It is demonstrated that certain elements are forced to have a unique interpretation, from a certain point in discourse onwards. This could be viewed as the semantic counterpart of surface order. Although it has always been acknowledged that the left-to-right order of constituents influences the meaning of an utterance, it is, for example, not reflected in standard Discourse Representation Theory (\[Kamp, 1981\]). In the paper, an alternative representation for unique constituents will be proposed, resulting in asymmetry of certain conjoined conditions in a DRS-representation.</Paragraph>
+<Paragraph position="1"> Introduction Logic-based discourse theories are in many respects not sufficiently fine-grained. This becomes particularly obvious when we consider adopting such a representation as an interface in an NLP system. Suppose we have a discourse as in (1), and assign it a DRT-like representation as in (2): *The research reported here was supported by LRE project 061-62: Towards a Declarative Theory of Dis. course (sponsored by the European Community), and by Eurotra (sponsored by the EC and the NBBI).</Paragraph>
+<Paragraph position="2">  (1) John owns two talking parrots.</Paragraph>
+<Paragraph position="3"> Anne feeds them.</Paragraph>
+<Paragraph position="4"> (2) 3z y,z \[ John=x &amp; Anne=y ~ parrot(Z) &amp;</Paragraph>
+<Paragraph position="6"> When we take take this representation as a starting point for generation, we end up with at least the following discourses:  (3) a b  John owns two talking parrots. Anne feeds them.</Paragraph>
+<Paragraph position="7"> Anne feeds two parrots, which talk. John owns them.</Paragraph>
+<Paragraph position="8"> There are two parrots. They talk. John owns them and Anne feeds them. John owns two parrots, which talk. Anne feeds them.</Paragraph>
+<Paragraph position="9"> John owns two parrots that talk. Anne feeds them.</Paragraph>
+<Paragraph position="10"> The multiplicity of solutions in generation from semantic representations has often led to the conclusion that a purely logical representation is too weak to guide a generation process. This problem is often 'solved' by incorporating syntactic knowledge in the semantic representation, or having the generation process be guided by more than one source of knowledge. In many NLP-systems, for example, the semantic representation reflects the syntactic constituent structure of the string. One could also think of processing by correspondence (as proposed by \[Kaplan et al., 1989\]), using different sources of information to guide the task. Below, it will be argued that these semantic representations are indeed too weak, but not only from the point of view of Natural Language Processing. Some linguistic phenomena are not analysed adequately from a truth conditionM perspective either.</Paragraph>
+<Paragraph position="11">  The phenomenon described in this paper, and exemplified in (3), touches on the notion of restrictive modification versus non-restrictive modification. I will demonstrate in what way the analysis of these cases in DRT-semantics is not adequate. It fails to assign different representations to discourses that do differ in truth conditions. The paper will propose an alternative representation and interpretation for this phenomenon. The main effect of the proposal is that the notion of constituent unit is reinstated. This notion is motivated semantically, i.e. on the basis of truth conditions. The reinstatement of units in the semantic representation is a first impulse to semantic representations that are strong enough to guide NLP-processes.</Paragraph>
+<Paragraph position="12"> The paper is organized as follows. In section 1, the problem of uniqueness will be introduced. There are linguistic means to force uniqueness on the interpretation of a constituent. The prototypical example used throughout this paper is the non-restrictive relative clause. Second, uniqueness comes into play once we have completed a discourse. Neither disguise of the uniqueness phenomenon is recognized in DRT. In section 2, two proposals will be introduced which try to remedy these omissions. Section 3 will deal with the distinction between means to force uniqueness, means to force non-uniqueness and neutral cases. In section 4, the analysis is presented and finally, in 5, I will come back to the importance of the analysis in view of arriving at a more fine-grained semantic interpretation.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-2131">
+<Title>Finding Structural Correspondences from Bilingual Parsed Corpus for Corpus-b sed Translation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we describe a system and methods for finding structural correspondences from the paired dependency structures of a source sentence and its translation in a target language. The system we have developed finds word correspondences first, then finds phrasal correspon(tences based on word correspondences. We have also developed a GUI system with which a user can check and correct tile correspondences retrieved by the system.</Paragraph>
+<Paragraph position="1"> These structural correspondences will be used as raw translation I)atterns in a corpus-based translation system.</Paragraph>
+</Section>
+</Paper>
+

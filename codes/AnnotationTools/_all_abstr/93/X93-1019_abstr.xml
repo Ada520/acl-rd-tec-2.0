@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="X93-1019">
+<Title>Name:\[Tie Up between JGC CORP, C. ITOH AND CO, NISSHO IWAI CORP, and F,e Object Slot Name: I ENTITY Ch~ Confidence\] \[Change Offsets\] \[ New Object \] ~ \[A Company In JAPAN \[\] r \[~\]~\]:g:E~Zjj\]j \[\] = \[c:aTO \[\] \[\] \[NISSHO IWAI CORP</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. APPROACH
+</SectionTitle>
+<Paragraph position="0"> Traditional approaches to the problem of extracting data from texts have emphasized hand-crafted linguistic knowledge. In contrast, BBN's PLUM system (Probabilistic Language Understanding Model) was developed as part of an ARPA-funded research effort on integrating probabilistic language models with more traditional linguistic techniques. Our research and development goals are: * Achieving high performance in objective evaluations, such as the Tipster evaluations.</Paragraph>
+<Paragraph position="1"> deg Reducing human effort in porting the natural language algorithms to new domains and to new languages.</Paragraph>
+<Paragraph position="2"> * Providing technology that is scalable to realistic applications.</Paragraph>
+<Paragraph position="3"> We began this research agenda approximately three years ago. During the past two years, we have ported our data extraction system (PLUM) to a new language (Japanese) and to two new domains.</Paragraph>
+</Section>
+</Paper>
+

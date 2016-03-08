@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-0901">
+<Title>A Knowledge-Driven Approach to Text Meaning Processing</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Our goal is to be able to answer questions about text that go beyond facts explicitly stated in the text, a task which inherently requires extracting a &amp;quot;deep&amp;quot; level of meaning from that text. Our approach treats meaning processing fundamentally as a modeling activity, in which a knowledge base of common-sense expectations guides interpretation of text, and text suggests which parts of the knowledge base might be relevant. In this paper, we describe our ongoing investigations to develop this approach into a usable method for meaning processing.</Paragraph>
+</Section>
+</Paper>
+

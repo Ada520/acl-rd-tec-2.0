@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P95-1030">
+<Title>New Techniques for Context Modeling</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We introduce three new techniques for statistical language models: extension modeling, nonmonotonic contexts, and the divergence heuristic. Together these techniques result in language models that have few states, even fewer parameters, and low message entropies.</Paragraph>
+</Section>
+</Paper>
+

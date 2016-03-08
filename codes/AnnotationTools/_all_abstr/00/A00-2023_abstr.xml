@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A00-2023">
+<Title>Forest-Based Statistical Sentence Generation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a new approach to statistical sentence generation in which Mternative phrases are represented as packed sets of trees, or forests, and then ranked statistically to choose the best one. This representation offers advantages in compactness and in the ability to represent syntactic information. It also facilitates more efficient statistical ranking than a previous approach to statistical generation.</Paragraph>
+<Paragraph position="1"> An efficient ranking algorithm is described, together with experimental results showing significant improvements over simple enumeration or a lattice-based approach.</Paragraph>
+</Section>
+</Paper>
+

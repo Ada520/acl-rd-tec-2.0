@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E99-1047">
+<Title>Transformation-Based Learner</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This short paper describes - and in fact gives the complete source for - a tiny Prolog program implementing a flexible and fairly efficient Transformation-Based Learning (TBL) system:</Paragraph>
+</Section>
+</Paper>
+

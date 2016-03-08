@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-0304">
+<Title>Representing temporal discourse markers for generation purposes</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Discourse markers are an important means to signal the kind of coherence relation holding between adjacent text spans. Research on generating discourse markers has been mainly concerned with causal markers, whereas temporal markers have not received much attention. In this paper, we identify semantic, pragmatic and syntactic features that are required to support a motivated choice of German temporal subordinating conjunctions and prepositions during text production. Information on individual markers is assembled in a discourse marker lexicon, which is used as a declarative resource at the sentence planning stage. We illustrate how this resource can be used to produce alternative verbalizations of the temporal relationship holding between two events.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A00-2033">
+<Title>Removing Left Recursion from Context-Free Grammars</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A long-standing issue regarding algorithms that manipulate context-free grammars (CFGs) in a &amp;quot;topdown&amp;quot; left-to-right fashion is that left recursion can lead to nontermination. An algorithm is known that transforms any CFG into an equivalent non-left-recursive CFG, but the resulting grammars are often too large for practical use. We present a new method for removing left recursion from CFGs that is both theoretically superior to the standard algorithm, and produces very compact non-left-recursive CFGs in practice.</Paragraph>
+</Section>
+</Paper>
+

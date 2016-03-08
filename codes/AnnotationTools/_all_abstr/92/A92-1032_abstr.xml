@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A92-1032">
+<Title>Robust parsing of natural language descriptions</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> Sublanguages represent an important application area for NLU (Grishman and Kittredge,1986). Their syntactic simplicity and reduced semantic variability provide clear computational advantages. In the present paper we consider a sublanguage currently used for official publication of business activities which is characterized by a telegraphic style typical of commercial ads. Morphological and syntactic ill-formedness is very frequent within this sublanguage, hence a robust parser is a must.</Paragraph>
+<Paragraph position="1"> The corpus we have considered was extracted from the on-line archives of the Italian Chambers of Commerce, and contains about 4 million descriptions of economic activities. They represent an important source of information about the structure of the Italian economy. Since our main goal is intelligent information retrieval, only a part of the information contained in the sentences is considered relevant. Basically, the kind of information we are interested in involves nouns, prepositions and noun modifiers, and involves verbs only in their nominalized or infinitive form.</Paragraph>
+<Paragraph position="2"> The peculiarity of the parsing approach described in the paper consists in the fact that we limit the syntactic analysis to the elementary relationships occurring among these elements, discarding whatever is not recognized by the morphological analyzer and giving up the attempt to reconstruct the syntactic tree of the whole sentence.</Paragraph>
+</Section>
+</Paper>
+

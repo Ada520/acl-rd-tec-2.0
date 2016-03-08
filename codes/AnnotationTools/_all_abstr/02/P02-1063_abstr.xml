@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P02-1063">
+<Title>Revision Learning and its Application to Part-of-Speech Tagging</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a revision learning method that achieves high performance with small computational cost by combining a model with high generalization capacity and a model with small computational cost. This method uses a high capacity model to revise the output of a small cost model. We apply this method to English part-of-speech tagging and Japanese morphological analysis, and show that the method performs well.</Paragraph>
+</Section>
+</Paper>
+

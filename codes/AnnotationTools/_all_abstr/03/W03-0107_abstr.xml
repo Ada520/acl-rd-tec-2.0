@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-0107">
+<Title>Bootstrapping toponym classifiers</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present minimally supervised methods for training and testing geographic name disambiguation (GND) systems. We train data-driven place name classifiers using toponyms already disambiguated in the training text -- by such existing cues as &amp;quot;Nashville, Tenn.&amp;quot; or &amp;quot;Springfield, MA&amp;quot; -- and test the system on texts where these cues have been stripped out and on hand-tagged historical texts. We experiment on three English-language corpora of varying provenance and complexity: newsfeed from the 1990s, personal narratives from the 19th century American west, and memoirs and records of the U.S. Civil War. Disambiguation accuracy ranges from 87% for news to 69% for some historical collections.</Paragraph>
+</Section>
+</Paper>
+

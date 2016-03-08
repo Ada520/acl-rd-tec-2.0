@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-1611">
+<Title>Paraphrasing Japanese noun phrases using character-based indexing</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Kimura Kenji
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper proposes a novel method to extract paraphrases of Japanese noun phrases from a set of documents. The proposed method consists of three steps: (1) retrieving passages using character-based index terms given a noun phrase as an input query, (2) filtering the retrieved passages with syntactic and semantic constraints, and (3) ranking the passages and reformatting them into grammatical forms.</Paragraph>
+<Paragraph position="1"> Experiments were conducted to evaluate the method by using 53 noun phrases and three years worth of newspaper articles. The accuracy of the method needs to be further improved for fully automatic paraphrasing but the proposed method can extract novel paraphrases which past approaches could not.</Paragraph>
+</Section>
+</Paper>
+

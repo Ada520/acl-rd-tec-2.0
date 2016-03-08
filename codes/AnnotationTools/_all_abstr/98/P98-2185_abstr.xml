@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-2185">
+<Title>An Interactive Domain Independent Approach to Robust Dialogue Interpretation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We discuss an interactive approach to robust interpretation in a large scale speech-to-speech translation system. Where other interactive approaches to robust interpretation have depended upon domain dependent repair rules, the approach described here operates efficiently without any such hand-coded repair knowledge and yields a 37% reduction in error rate over a corpus of noisy sentences.</Paragraph>
+</Section>
+</Paper>
+

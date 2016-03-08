@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-3007">
+<Title>Robustness Issues in a Data-Driven Spoken Language Understanding System</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Robustness is a key requirement in spoken language understanding (SLU) systems. Human speech is often ungrammatical and ill-formed, and there will frequently be a mismatch between training and test data. This paper discusses robustness and adaptation issues in a statistically-based SLU system which is entirely data-driven. To test robustness, the system has been tested on data from the Air Travel Information Service (ATIS) domain which has been artificially corrupted with varying levels of additive noise. Although the speech recognition performance degraded steadily, the system did not fail catastrophically. Indeed, the rate at which the end-to-end performance of the complete system degraded was significantly slower than that of the actual recognition component. In a second set of experiments, the ability to rapidly adapt the core understanding component of the system to a different application within the same broad domain has been tested. Using only a small amount of training data, experiments have shown that a semantic parser based on the Hidden Vector State (HVS) model originally trained on the ATIS corpus can be straightforwardly adapted to the somewhat different DARPA Communicator task using standard adaptation algorithms. The paper concludes by suggesting that the results presented provide initial support to the claim that an SLU system which is statistically-based and trained entirely from data is intrinsically robust and can be readily adapted to new applications.</Paragraph>
+</Section>
+</Paper>
+

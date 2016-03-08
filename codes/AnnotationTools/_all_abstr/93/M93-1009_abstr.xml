@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="M93-1009">
+<Title>The Generic Information Extraction Syste m</Title>
+<Section position="1" start_page="0" end_page="87" type="abstr">
+<SectionTitle>
+INTRODUCTIO N
+</SectionTitle>
+<Paragraph position="0"> An information extraction system is a cascade of transducers or modules that at each step add structur e and often lose information, hopefully irrelevant, by applying rules that are acquired manually and/or automatically. null Thus, to describe an information extraction system is to answer the following questions :  * What are the transducers or modules? * What are their input and output? Specifically , - What structure is added? - What information is lost ? * What is the form of the rules ? * How are the rules applied? * How are the rules acquired?  As an example, consider the parsing module . The parser is the transducer . The input is the sequence of words or lexical items that constitute the sentence . The output is a parse tree of the sentence . This add s information about predicate-argument and modification relations . Generally, no information is lost. The rules might be in the form of a unification grammar and be applied by a chart parser . The rules are generall y acquired manually .</Paragraph>
+<Paragraph position="1"> Any system will be characterized by its own set of modules, but generally they will come from th e following set, and most systems will perform the functions of these modules somewhere .  1. Text Zoner, which turns a text into a set of text segments.</Paragraph>
+<Paragraph position="2"> 2. Preprocessor, which turns a text or text segment into a sequence of sentences, each of which is a sequence of lexical items, where a lexical item is a word together with its lexical attributes . 3. Filter, which turns a set of sentences into a smaller set of sentences by filtering out the irrelevant ones . 4. Preparser, which takes a sequence of lexical items and tries to identify various reliably determinable , small-scale structures .</Paragraph>
+<Paragraph position="3"> 5. Parser, whose input is a sequence of lexical items and perhaps small-scale structures (phrases) an d whose output is a set of parse tree fragments, possibly complete .</Paragraph>
+<Paragraph position="4">  6. Fragment Combiner, which tries to turn a set of parse tree or logical form fragments into a parse tre e or logical form for the whole sentence.</Paragraph>
+<Paragraph position="5"> 7. Semantic Interpreter, which generates a semantic structure or logical form from a parse tree or from parse tree fragments .</Paragraph>
+<Paragraph position="6"> 8. Lexical Disambiguation, which turns a semantic structure with general or ambiguous predicates into a semantic structure with specific, unambiguous predicates .</Paragraph>
+<Paragraph position="7"> 9. Coreference Resolution, or Discourse Processing, which turns a tree-like structure into a network-lik e structure by identifying different descriptions of the same entity in different parts of the text . 10. Template Generator, which derives the templates from the semantic structures . I will elaborate on each of these modules in turn .</Paragraph>
+</Section>
+</Paper>
+

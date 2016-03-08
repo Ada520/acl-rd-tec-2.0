@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-0309">
+<Title>Biomedical Text Retrieval in Languages with a Complex Morphology</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Document retrieval in languages with a rich and complex morphology - particularly in terms of derivation and (single-word) composition - suffers from serious performance degradation with the stemming-only query-term-to-text-word matching paradigm. We propose an alternative approach in which morphologically complex word forms are segmented into relevant subwords (such as stems, named entities, acronyms), and subwords constitute the basic unit for indexing and retrieval. We evaluate our approach on a large biomedical document collection.</Paragraph>
+</Section>
+</Paper>
+

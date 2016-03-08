@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-0105">
+<Title>Dependency of context-based Word Sense Disambiguation from representation and domain complexity</Title>
+<Section position="2" start_page="0" end_page="28" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> In the literature (see Computational Linguistics (1998) for some recent results), there is a rather vast repertoire of supervised and unsupervised learning algorithms for WSD, most of which are based on a formal characterization of the surrounding context of a word or linguistic concept 1, and a function f to compute the membership of a word to a category, given its context in running texts.</Paragraph>
+<Paragraph position="1"> Despite the rich literature, none of these algorithms exhibit an &amp;quot;acceptable&amp;quot; performance with reference to the needs of real-world computational task (e.g.</Paragraph>
+<Paragraph position="2"> Information Retrieval, Information Extraction, Machine Translation etc.), except for particularly straightforward cases.</Paragraph>
+<Paragraph position="3"> A very interesting WSD experiment is Senseval (1998), a large:-scale exercise in evaluating WSD programs. One of the objectives of this experiment was to identify correlations between performance of the various systems and the parameters of the WSD task. Though the scoring of systems appears sensitive to certain factors, such as the degree of polysemy and the entropy of sense distributions, these correlations could not be consistently observed. There are words with fewer senses (e.g. bet, consume, generous) causing troubles to most systems, while there are words with a very high polysemy and entropy (e.g. shake) on which all systems obtain good performance. The justification that the Senseval coordinator Adam Kilgariff provides for shake is very interesting in the light of what we will discuss later in this paper: &amp;quot;The items (means contexts) for shake involve multi-word expressions, such as shake one's head. (...) Over 50% of the items for shake involve some multi-word expression or other.&amp;quot; In other words, the contexts for shake are very  repetitive in the training set, therefore all systems could easily learn a sense discrimination model.</Paragraph>
+<Paragraph position="4"> Furthermore, in Senseval (but also in other reported evaluations experiments) it appears that performances for individual words/concepts are extremely uneven within the same system. This scarce homogeneity of results suggests that performance is not solely related with the &amp;quot;cleverness&amp;quot; of a given learning algorithm.</Paragraph>
+<Paragraph position="5"> Clearly, the performances of WSD systems are related to a variety of parameters, but the formal nature of these dependencies is not fully understood.</Paragraph>
+<Paragraph position="6"> The Senseval experiment highlighted the necessity of a more accurate analysis of the correlations between performance of WSD systems and the parameters that may affect this task. In absence, a comparison of the various WSD algorithms and an estimation of their performance under different environmental conditions is extremely difficult.</Paragraph>
+<Paragraph position="7"> In the next sections we briefly present a computational model of learning, called PAC theory (Anthony and Biggs (1997), Kearns and Vazirani (1994), Valiant (1984)), and we then show that this theory may be used to determine the formal relations between performance of context-based WSD models and environmental conditions, such as the complexity of the context representation scheme, and the the complexity of language domain and concept inventory.</Paragraph>
+</Section>
+</Paper>
+

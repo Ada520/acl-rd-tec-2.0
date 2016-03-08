@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W05-0809">
+<Title>Word Alignment for Languages with Scarce Resources</Title>
+<Section position="1" start_page="0" end_page="65" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents the task definition, resources, participating systems, and comparative results for the shared task on word alignment, which was organized as part of the ACL 2005 Workshop on Building and Using Parallel Texts. The shared task included English-Inuktitut, Romanian-English, and English-Hindi sub-tasks, and drew the participation of ten teams from around the world with a total of 50 systems.</Paragraph>
+<Paragraph position="1"> 1 Defining a Word Alignment Shared Task The task of word alignment consists of finding correspondences between words and phrases in parallel texts. Assuming a sentence aligned bilingual corpus in languages L1 and L2, the task of a word alignment system is to indicate which word token in the corpus of language L1 corresponds to which word token in the corpus of language L2.</Paragraph>
+<Paragraph position="2"> This year's shared task follows on the success of the previous word alignment evaluation that was organized during the HLT/NAACL 2003 workshop on &amp;quot;Building and Using Parallel Texts: Data Driven Machine Translation and Beyond&amp;quot; (Mihalcea and Pedersen, 2003). However, the current edition is distinct in that it has a focus on languages with scarce resources. Participating teams were provided with training and test data for three language pairs, accounting for different levels of data scarceness: (1) English-Inuktitut (2 million words training data), (2) Romanian-English (1 million words), and (3) English-Hindi (60,000 words).</Paragraph>
+<Paragraph position="3"> Similar to the previous word alignment evaluation and with the Machine Translation evaluation exercises organized by NIST, two different subtasks were defined: (1) Limited resources, where systems were allowed to use only the resources provided. (2) Unlimited resources, where systems were allowed to use any resources in addition to those provided. Such resources had to be explicitly mentioned in the system description.</Paragraph>
+<Paragraph position="4"> Test data were released one week prior to the deadline for result submissions. Participating teams were asked to produce word alignments, following a common format as specified below, and submit their output by a certain deadline. Results were returned to each team within three days of submission.</Paragraph>
+<Section position="1" start_page="0" end_page="65" type="sub_section">
+<SectionTitle>
+1.1 Word Alignment Output Format
+</SectionTitle>
+<Paragraph position="0"> The word alignment result files had to include one line for each word-to-word alignment. Additionally, they had to follow the format specified in Figure 1. Note that the a0a2a1a3 and confidence fields overlap in their meaning. The intent of having both fields available was to enable participating teams to draw their own line on what they considered to be a Sure or Probable alignment. Both these fields were optional, with some standard values assigned by default.</Paragraph>
+<Paragraph position="1">  Consider the following two aligned sentences:  sentence no position L1 position L2 [a0a2a1a3 ] [confidence] where:a4 sentence no represents the id of the sentence within the test file. Sentences in the test data already have an id assigned. (see the examples below)a4 position L1 represents the position of the token that is aligned from the text in language L1; the first token in each sentence is token 1. (not 0)a4 position L2 represents the position of the token that is aligned from the text in language L2; again, the first token is token 1.a4 Sa1P can be either S or P, representing a Sure or Probable alignment. All alignments that are tagged as S are also considered to be part of the P alignments set (that is, all alignments that are considered &amp;quot;Sure&amp;quot; alignments are also part of the &amp;quot;Probable&amp;quot; alignments set). If the a0a2a1a3 field is missing, a value of S will be assumed by default.a4 confidence is a real number, in the range (0-1] (1 meaning highly confident, 0 meaning not confident); this field is optional, and by default confidence number of 1 was assumed.  tence 18, the English token 1 They aligns with the French token 1 Ils, the English token 2 had aligns with the French token 2 'etaient, and so on. Note that punctuation is also aligned (English token 4 aligned with French token 4), and counts toward the final evaluation figures.</Paragraph>
+<Paragraph position="2"> Alternatively, systems could also provide an a0a2a1a3 marker and/or a confidence score, as shown in the fol- null with missing a0 a1a3 fields considered by default S, and missing confidence scores considered by default 1.</Paragraph>
+</Section>
+<Section position="2" start_page="65" end_page="65" type="sub_section">
+<SectionTitle>
+1.2 Annotation Guide for Word Alignments
+</SectionTitle>
+<Paragraph position="0"> The word alignment annotation guidelines are similar to those used in the 2003 evaluation.</Paragraph>
+<Paragraph position="1">  1. All items separated by a white space are considered to be a word (or token), and therefore have to be aligned (punctuation included).</Paragraph>
+<Paragraph position="2"> 2. Omissions in translation use the NULL token, i.e. token with id 0.</Paragraph>
+<Paragraph position="3"> 3. Phrasal correspondences produce multiple word-to-word alignments.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

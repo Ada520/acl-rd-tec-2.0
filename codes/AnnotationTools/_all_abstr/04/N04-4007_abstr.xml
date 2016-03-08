@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N04-4007">
+<Title>Advances in Children's Speech Recognition within an Interactive Literacy Tutor</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract1
+</SectionTitle>
+<Paragraph position="0"> In this paper we present recent advances in acoustic and language modeling that improve recognition performance when children read out loud within digital books. First we extend previous work by incorporating crossutterance word history information and dynamic n-gram language modeling. By additionally incorporating Vocal Tract Length Normalization (VTLN), Speaker-Adaptive Training (SAT) and iterative unsupervised structural maximum a posteriori linear regression (SMAPLR) adaptation we demonstrate a 54% reduction in word error rate. Next, we show how data from children's read-aloud sessions can be utilized to improve accuracy in a spontaneous story summarization task.</Paragraph>
+<Paragraph position="1"> An error reduction of 15% over previous published results is shown. Finally we describe a novel real-time implementation of our research system that incorporates time-adaptive acoustic and language modeling.</Paragraph>
+</Section>
+</Paper>
+

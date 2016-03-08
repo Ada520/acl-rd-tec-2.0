@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H01-1056">
+<Title>NewsInEssence: A System For Domain-Independent, Real-Time News Clustering and Multi-Document Summarization</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. INTRODUCTION
+</SectionTitle>
+<Paragraph position="0"> NEWSINESSENCE is a system for finding, visualizing and summarizing a topic-based cluster of news stories. In the generic scenario for NEWSINESSENCE, a user selects a single news story from a news Web site. Our system then searches other live sources of news for other stories related to the same event and produces summaries of a subset of the stories that it finds, according to parameters specified by the user.</Paragraph>
+</Section>
+</Paper>
+

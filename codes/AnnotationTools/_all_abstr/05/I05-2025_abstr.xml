@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="I05-2025">
+<Title>Investigating the features that affect cue usage of non-native speakers of English</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> At present, the population of non-native speakers is twice that of native speakers. It is necessary to explore the text generation strategies for non-native users. However, little has been done in this field. This study investigates the features that affect the placement (where to place a cue) of because for non-native speakers. A machine learning program - C4.5 was applied to induce the classification models of the placement.</Paragraph>
+</Section>
+</Paper>
+

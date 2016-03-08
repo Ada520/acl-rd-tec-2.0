@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-1219">
+<Title>Proper Name Classification in an Information Extraction Toolset</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Applied discourse analysis is a hot topic in Information Retrieval (IR) and the related field of Information Extraction (IE). Although interesting observations about discourse can be made &amp;quot;by hand,&amp;quot; applications require large quantities of data about language -- data which is rather uninteresting. This paper investigates using statistical analysis over a body of text to suggest new rules for recognizing named entities.</Paragraph>
+</Section>
+</Paper>
+

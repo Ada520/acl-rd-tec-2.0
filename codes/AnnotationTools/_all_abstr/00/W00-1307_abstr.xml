@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-1307">
+<Title>A Uniform Method of Grammar Extraction and Its Applications</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Grammars are core elements of many NLP applications. In this paper, we present a system that automatically extracts lexicalized grammars from annotated corpora. The data produced by this system have been used in several tasks, such as training NLP tools (such as Supertaggers) and estimating the coverage of harid-crafted grammars. We report experimental results on two of those tasks and compare our approaches with related work.</Paragraph>
+</Section>
+</Paper>
+

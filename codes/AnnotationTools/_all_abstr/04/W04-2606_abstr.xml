@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-2606">
+<Title>Extended Lexical-Semantic Classi cation of English Verbs</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Lexical-semantic verb classi cations have proved useful in supporting various natural language processing (NLP) tasks. The largest and the most widely deployed classi cation in English is Levin's (1993) taxonomy of verbs and their classes. While this resource is attractive in being extensive enough for some NLP use, it is not comprehensive. In this paper, we present a substantial extension to Levin's taxonomy which incorporates 57 novel classes for verbs not covered (comprehensively) by Levin.</Paragraph>
+<Paragraph position="1"> We also introduce 106 novel diathesis alternations, created as a side product of constructing the new classes. We demonstrate the utility of our novel classes by using them to support automatic subcategorization acquisition and show that the resulting extended classi cation has extensive coverage over the English verb lexicon. null</Paragraph>
+</Section>
+</Paper>
+

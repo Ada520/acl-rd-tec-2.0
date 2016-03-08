@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C94-1082">
+<Title>References</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present LHIP, a system for incremental grammar development using an extended DCG formalism. 'rite system uses a robust island-based parsing method controlled by user-defined performance thresholds.</Paragraph>
+<Paragraph position="1"> Keywords: I)CG, head, island parsing, robust parsing, Prolog</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E95-1008">
+<Title>Collocation Map for Overcoming Data Sparseness</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Statistical language models are useful because they can provide probabilistic information upon uncertain decision making. The most common statistic is n-grams measuring word cooccurrences in texts. The method suffers from data shortage problem, however. In this paper, we suggest Bayesian networks be used in approximating the statistics of insufficient occurrences and of those that do not occur in the sample texts with graceful degradation. Collocation map is a sigmoid belief network that can be constructed from bigrams. We compared the conditional probabilities and mutual information computed from bigrams and Collocation map. The results show that the variance of the values from Collocation map is smaller than that from frequency measure for the infrequent pairs by 48%. The predictive power of Collocation map for arbitrary associations not observed from sample texts is also demonstrated.</Paragraph>
+</Section>
+</Paper>
+

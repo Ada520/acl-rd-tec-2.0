@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-0703">
+<Title>I I I i I i I I I I I I I I I I I ! I Word Sense Disambiguation based on Semantic Density</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a Word Sense Disambiguation method based on the idea of semantic density between words. The disambiguation is done in the context of WordNet. The Internet is used as a raw corpora to provide statistical information for word associations. A metric is introduced and used to measure the semantic density and to rank all possible combinations of the senses of two words. This method provides a precision of 58% in indicating the correct sense for both words at the same time. The precision increases as we consider more choices: 70% for top two ranked and 7'3% for top three ranked.</Paragraph>
+</Section>
+</Paper>
+

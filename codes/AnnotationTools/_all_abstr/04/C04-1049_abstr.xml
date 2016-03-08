@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1049">
+<Title>Talking Robots With LEGO MindStorms</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper shows how talking robots can be built from off-the-shelf components, based on the Lego MindStorms robotics platform. We present four robots that students created as final projects in a seminar we supervised. Because Lego robots are so affordable, we argue that it is now feasible for any dialogue researcher to tackle the interesting challenges at the robot-dialogue interface.</Paragraph>
+</Section>
+</Paper>
+

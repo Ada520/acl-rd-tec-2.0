@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-1085">
+<Title>Definiteness Predictions for Japanese Noun Phrases*</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> One of the major problems when translating from Japanese into a European language such as German or English is to determine definiteness of noun phrases in order to choose the correct determiner in the target language. Even though in Japanese, noun phrase reference is said to depend in large parts on the discourse context, we show that in many cases there also exist linguistic markers for definiteness. We use these to build a rule hierarchy that predicts 79,5% of the articles with an accuracy of 98,9% from syntactic-semantic properties alone, yielding an efficient pre-processing tool for the computationally expensive context checking.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-2165">
+<Title>On Inference-Based Procedures for Lexical Disambiguation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we sketch a decidable inference-based procedure for lexical disambiguation which operates on semantic representations of discourse and conceptual knowledge, In contrast to other approaches which use a classical logic for the disambiguating inferences and run into decidability problems, we argue on the basis of empirical evidence that the underlying iifference mechanism has to be essentially incomplete in order to be (cognitively) adequate. Since our conceptual knowledge can be represented in a rather restricted representation language, it is then possible to show that the restrictions satisfied by the conceptual knowledge and the inferences ensure in an empirically adequate ww the decidability of the problem, although a fully expressive language is used to represent discourse.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W05-1601">
+<Title>Statistical Generation: Three Methods Compared and Evaluated</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Statistical NLG has largely meant n-gram modelling which has the considerable advantages of lending robustness to NLG systems, and of making automatic adaptation to new domains from raw corpora possible. On the downside, n-gram models are expensive to use as selection mechanisms and have a built-in bias towards shorter realisations. This paper looks at treebank-training of generators, an alternative method for building statistical models for NLG from raw corpora, and two different ways of using treebank-trained models during generation.</Paragraph>
+<Paragraph position="1"> Results show that the treebank-trained generators achieve improvements similar to a 2-gram generator over a baseline of random selection. However, the treebank-trained generators achieve this at a much lower cost than the 2-gram generator, and without its strong preference for shorter realisations. null</Paragraph>
+</Section>
+</Paper>
+

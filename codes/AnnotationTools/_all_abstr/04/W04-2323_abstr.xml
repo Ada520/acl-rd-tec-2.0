@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-2323">
+<Title>Unifying Annotated Discourse Hierarchies to Create a Gold Standard</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Human annotation of discourse corpora typically results in segmentation hierarchies that vary in their degree of agreement. This paper presents several techniques for unifying multiple discourse annotations into a single hierarchy, deemed a &amp;quot;gold standard&amp;quot; -- the segmentation that best captures the underlying linguistic structure of the discourse. It proposes and analyzes methods that consider the level of embeddedness of a segmentation as well as methods that do not. A corpus containing annotated hierarchical discourses, the Boston Directions Corpus, was used to evaluate the &amp;quot;goodness&amp;quot; of each technique, by comparing the similarity of the segmentation it derives to the original annotations in the corpus. Several metrics of similarity between hierarchical segmentations are computed: precision/recall of matching utterances, pairwise inter-reliability scores (a0 ), and non-crossing-brackets. A novel method for unification that minimizes conflicts among annotators outperforms methods that require consensus among a majority for the a0 and precision metrics, while capturing much of the structure of the discourse. When high recall is preferred, methods requiring a majority are preferable to those that demand full consensus among annotators. null</Paragraph>
+</Section>
+</Paper>
+

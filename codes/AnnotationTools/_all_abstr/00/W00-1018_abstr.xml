@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-1018">
+<Title>Some Notes on the Complexity of Dialogues *</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The purpose of this paper is twofold.</Paragraph>
+<Paragraph position="1"> First, we describe some complexity aspects of spoken dialogue. It is shown that, given the internal setting of our dialogue system, it is impossible to test even a small percentage of the theoretically possible utterances in a reasonable amount of time. An even smaller part of possible dialogues can thus be tested.</Paragraph>
+<Paragraph position="2"> Second, an approach for early testing of the dialogue manager of a dialogue system, without the complete system being put together, is described. null</Paragraph>
+</Section>
+</Paper>
+

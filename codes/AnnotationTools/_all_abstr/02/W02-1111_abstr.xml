@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-1111">
+<Title>Fine-Grained Proper Noun Ontologies for Question Answering</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The WordNet lexical ontology, which is primarily composed of common nouns, has been widely used in retrieval tasks.</Paragraph>
+<Paragraph position="1"> Here, we explore the notion of a fine-grained proper noun ontology and argue for the utility of such an ontology in retrieval tasks. To support this claim, we build a fine-grained proper noun ontology from unrestricted news text and use this ontology to improve performance on a question answering task.</Paragraph>
+</Section>
+</Paper>
+

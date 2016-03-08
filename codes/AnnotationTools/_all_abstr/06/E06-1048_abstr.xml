@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E06-1048">
+<Title>Unifying Synchronous Tree-Adjoining Grammars and Tree Transducers via Bimorphisms</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We place synchronous tree-adjoining grammars and tree transducers in the single overarching framework of bimorphisms, continuing the unification of synchronous grammars and tree transducers initiated by Shieber (2004). Along the way, we present a new definition of the tree-adjoininggrammarderivationrelation based on a novel direct inter-reduction of TAG and monadic macro tree transducers.</Paragraph>
+<Paragraph position="1"> Tree transformation systems such as tree transducers and synchronous grammars have seen renewed interest, based on a perceived relevance to new applications, such as importing syntactic structure into statistical machine translation models or founding a formalism for speech command and control.</Paragraph>
+<Paragraph position="2"> The exact relationship among a variety of formalisms has been unclear, with a large number of seemingly unrelated formalisms being independently proposed or characterized. An initial step toward unifying the formalisms was taken (Shieber, 2004) in making use of the formallanguage-theoretic device of bimorphisms, previously used to characterize the tree relations definable by tree transducers. In particular, the tree relations definable by synchronous tree-substitution grammars (STSG) were shown to be just those definable by linear complete bimorphisms, thereby providing for the first time a clear relationship between synchronous grammars and tree transducers. null In this work, we show how the bimorphism framework can be used to capture a more powerful formalism, synchronous tree-adjoining grammars, providing a further uniting of the various and disparate formalisms.</Paragraph>
+<Paragraph position="3"> After some preliminaries (Section 1), we begin by recalling the definition of tree-adjoining grammars and synchronous tree-adjoining grammars (Section 2). We turn then to a set of known results relating context-free languages, tree homomorphisms, tree automata, and tree transducers to extend them for the tree-adjoining languages (Section 3), presenting these in terms of restricted kinds of functional programs over trees, using a simple grammatical notation for describing the programs. This allows us to easily express generalizations of the notions: monadic macro tree homomorphisms, automata, and transducers, which bear (at least some of) the same interrelationships that their traditional simpler counterparts do (Section 4). Finally, we use this characterization to place the synchronous TAG formalism in the bimorphism framework (Section 5), further unifying tree transducers and other synchronous grammar formalisms. We also, in passing, provide a new characterization of the relation between TAG derivation and derived trees, and a new simpler and more direct proof of the equivalence of TALs and the output languages of monadic macro tree transducers.</Paragraph>
+</Section>
+</Paper>
+

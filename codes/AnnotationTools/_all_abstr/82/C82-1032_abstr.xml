@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C82-1032">
+<Title>ANALYSIS AND PROCESSING OF COMPACT TEXT</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ANALYSIS AND PROCESSING OF COMPACT TEXT
+</SectionTitle>
+<Paragraph position="0"> U.S.A.</Paragraph>
+<Paragraph position="1"> This paper describes the characteristics of compact text as revealed in computer analysis of a set of physician notes. Computer processing of the documents was performed using the LSP system for natural language analysis. A numerical breakdown of syntactic and semantic patterns found in the texts is pre~ented. It is found that four major properties of compact text make it possible to process the content of the documents with syntactic procedures that operate on full free text.</Paragraph>
+</Section>
+</Paper>
+

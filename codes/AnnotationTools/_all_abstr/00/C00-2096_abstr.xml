@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-2096">
+<Title>Unscrambling English word order</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We propose a treatment of 'extraposition' which allows items to be assimilated directly even when they at)pear far from their canonical positions. This treatnmnt supports analyses of a number of phenomena which are otherwise hard to describe. The ap- null was awful.</Paragraph>
+<Paragraph position="1"> involvc items ('who', 'the mai'a, eoursc') being found far away from their normal i)ositions (as the complement of 'fancied' and the subject of 'was a@d'). It seems likely that; the modifiers 'in the parle' and &amp;quot;with, all my heart' in 3 l&gt;n the park I met Arthur.</Paragraph>
+<Paragraph position="2"> 4 I bclievcd with, all my heart th, at sh, c loved me. arc also 'out of position', since you would normally expect VP-modi(ying PPs of this kind to appear immediately to the right of the modified VP (so that the canonical versions of these sentences would have been '1 met Arthur in the park' and 'I believed that site loved me with all my heart.'). There arc various reasons for moving things around in this waymoving 'who' to the left; in (1) provides an easy way of l)icking out the boundary of the relative clause; moving 'the main course' and 'in the park' in (2) and (3) puts them into tlmmatically/informationally more prominent positions; and moving the sentential complement 'that she lovcd me' to the right in (4) reduces the attachment ambiguity that arises in the alternative form.</Paragraph>
+<Paragraph position="3"> This is all well-known, and is treated in most grammatical frameworks by hallucinating an item in the canonical position, and then rememl)ering that halhlcination uI) to (;tie 1)oint at which the out-ofplace item is encountered. Exactly how the halhlcination is remelnbered varies fron~ one framework to another, with Ulfification grammars generally carrying intbrmation about it on a category-valued feature (usually called slash,). The main problem with this al)l)roach is that it is difficult to control the situations in which 'traces' of this kind get proposed. (Johnson and Kay, 1994) suggest using ~sponsors' in order to license the introduction of traces, where a st)onsor is some item of the required kind that has already 1)een found, and which is hence potentially going to cancel with the trace.</Paragraph>
+<Paragraph position="4"> If your parser works ti'om left,right then this will work for items which have been left-shifted, but clearly it cmmot work for right-shifted items, since the sI)onsor will not have t)een found at the time when it is needed. Thus we cannot use a sI)onsor to justify hallucinatillg an S-comp ti)r 'believed' in (4), or for the heavy-NP-shifts in</Paragraph>
+</Section>
+</Paper>
+

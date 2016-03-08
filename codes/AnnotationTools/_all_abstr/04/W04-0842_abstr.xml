@@ -1,0 +1,56 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-0842">
+<Title>Selection of Relevant Features Disambiguated sentence WSD HMM WORDNETSelection criterion I~I Original Input sentence Input sentence Figure 1: System Description Specialization criterion (2) SET TRAINING SET DEVELOPMENT Output Tags of Specialization REFERENCE SET DEVELOPMENT Selection of Relevant Features HMM WORDNET</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a supervised approach to Word Sense Disambiguation (WSD) based on Specialized Hidden Markov Models. We used as training data the Semcor corpus and the test data set provided by Senseval 2 competition and as dictionary the Word-net 1.6. We evaluated our system on the English all-word task of the Senseval-3 competition.</Paragraph>
+<Paragraph position="1"> 1 Description of the WSD System We consider WSD to be a tagging problem (Molina et al., 2002a). The tagging process can be formulated as a maximization problem using the Hidden Markov Model (HMM) formalism. Let O be the set of output tags considered, and I, the input vocabulary of the application. Given an input sentence, I = i1; : : : ; iT , where ij 2 I, the tagging process consists of finding the sequence of tags (O = o1; : : : ; oT , where oj 2 O) of maximum probability on the model, that is:</Paragraph>
+<Paragraph position="3"> Due to the fact that the probability P (I) is a constant that can be ignored in the maximization process, the problem is reduced to maximize the numerator of equation 1. To solve this equation, the Markov assumptions should be made in order to simplify the problem. For a first-order HMM, the problem is reduced to solve the following equation: arg max</Paragraph>
+<Paragraph position="5"> The parameters of equation 2 can be represented as a first-order HMM where each state corresponds to an output tag oj, P (ojjoj 1) represent the transition probabilities between states and P (ijjoj) represent the probability of emission of input symbols, ij, in every state, oj. The parameters of this model are estimated by maximum likelihood from semantic annotated corpora using an appropriate smoothing method (linear interpolation in our work).</Paragraph>
+<Paragraph position="6"> Different kinds of available linguistic information can be useful to solve WSD. The training corpus we used provides as input features: words (W), lemmas (L) and the corresponding POS tags (P); and it also provides as output tags the WordNet senses.</Paragraph>
+<Paragraph position="7"> WordNet senses can be represented by a sense key which has the form lemma%lex sense. The high number of different sense keys and the scarce annotated training data make difficult the estimation of the models. In order to alleviate this sparness problem we considered the lex sense field (S) of the sense key associated to each lemma as the semantic tag. This assumption reduces the size of the output tag set and it does not lead to any loss of information because we can obtain the sense key by concatenating the lemma to the output tag.</Paragraph>
+<Paragraph position="8"> Therefore, in our system the input vocabulary is</Paragraph>
+<Paragraph position="10"> formation to the model we used Specialized HMM (SHMM) (Molina et al., 2002b). This technique has been successfully applied to other disambiguation tasks such as part-of-speech tagging (Pla and Molina, 2004) and shallow parsing (Molina and Pla, 2002).</Paragraph>
+<Paragraph position="11"> Other HMM-based approaches have also been applied to WSD. In (Segond et al., 1997), they estimated a bigram model of ambiguity classes from the SemCor corpus for the task of disambiguating the semantic categories corresponding to the lexicographer level. These semantic categories are codified into the lex sense field. A second-order HMM was used in (Loupy et al., 1998) in a two-step strategy.</Paragraph>
+<Paragraph position="12"> First, they determined the semantic category associated to a word. Then, they assigned the most probable sense according to the word and the semantic category.</Paragraph>
+<Paragraph position="13"> A SHMM consists of changing the topology of the HMM in order to get a more accurate model Association for Computational Linguistics for the Semantic Analysis of Text, Barcelona, Spain, July 2004 SENSEVAL-3: Third International Workshop on the Evaluation of Systems which includes more information. This is done by means of an initial step previous to the learning process. It consists of the redefinition of the input vocabulary and the output tags. This redefinition is done by means of two processes which transform the training set: the selection process, which is applied to the input vocabulary, and the specialization process, which redefines the output tags.</Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+1.1 Selection process
+</SectionTitle>
+<Paragraph position="0"> The aim of the selection process is to choose which input features are relevant to the task. This process applies a determined selection criterion to I that produces a new input vocabulary (eI). This new vocabulary consists of the concatenation of the relevant input features selected.</Paragraph>
+<Paragraph position="1"> Taking into account the input vocabulary I = W L P, some selection criteria could be as follows: to consider only the word (wi), to consider only the lemma (li), to consider the concatenation of the word and its POS1 (wi pi), and to consider the concatenation of the lemma and its POS (li pi).</Paragraph>
+<Paragraph position="2"> Moreover, different criteria can be applied depending on the kind of word (e.g. distinguishing content and non-content words).</Paragraph>
+<Paragraph position="3"> For example, for the input word interest, which has an entry in WordNet and whose lemma and POS are interest and NN (common noun) respectively, the input considered could be interest 1. For a non-content word, such as the article a, we could consider only its lemma a as input.</Paragraph>
+</Section>
+<Section position="2" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+1.2 Specialization process
+</SectionTitle>
+<Paragraph position="0"> The specialization process allows for the codification of certain information into the context (that is, into the states of the model). It consists of redefining the output tag set by adding information from the input. This redefinition produces some changes in the model topology, in order to allow the model to better capture some contextual restrictions and to get a more accurate model.</Paragraph>
+<Paragraph position="1"> The application of a specialization criterion to O produces a new output tag set ( eO), whose elements are the result of the concatenation of some relevant input features to the original output tags.</Paragraph>
+<Paragraph position="2"> Taking into account that the POS input feature is already codified in the lex sense field, only words or lemmas can be considered in the specialization process (wi lex sensei or li lex sensei).</Paragraph>
+<Paragraph position="3"> This specialization can be total or partial depending on whether we specialize the model with all the elements of a feature or only with a subset of them.</Paragraph>
+<Paragraph position="4"> 1We mapped the POS tags to the following tags: 1 for nouns, 2 for verbs, 3 for adjectives and 4 for adverbs.</Paragraph>
+<Paragraph position="5"> For instance, the input token interest 1 is tagged with the semantic tag 1:09:00:: in the training data set. If we estimate that the lemma interest should specialize the model, then the semantic tag is redefined as interest 1:09:00::. Non-content words, that share the same output tag (the symbol notag in our system), could be also considered to specialize the model. For example, for the word a, the specialized output tag associated could be a notag.</Paragraph>
+</Section>
+<Section position="3" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+1.3 System scheme
+</SectionTitle>
+<Paragraph position="0"> The disambiguation process is presented in (Figure 1). First, the original input sentence (I) is processed in order to select its relevant features, providing the input sentence (eI). Then, the semantic tagging is carried out through the Viterbi algorithm using the estimated SHMM. WordNet is used to know all the possible semantic tags associated to an input word.</Paragraph>
+<Paragraph position="1"> If the input word is unknown for the model (i.e., the word has not been seen in the training data set) the system takes the first sense provided by WordNet.</Paragraph>
+<Paragraph position="2"> The learning process of a SHMM is similar to the learning of a basic HMM. The only difference is that SHMM are based on an appropriate definition of the input information to the learning process. This information consists of the input features (words, lemmas and POS tags) and the output tag set (senses) provided by the training corpus. A SHMM is built according to the following steps (see Figure 2):  1. To define which available input information is relevant to the task (selection criterion).</Paragraph>
+<Paragraph position="3"> 2. To define which input features are relevant to redefine or specialize the output tag set (specialization criterion).</Paragraph>
+<Paragraph position="4"> 3. To apply the chosen criteria to the original training data set to produce a new one.</Paragraph>
+<Paragraph position="5"> 4. To learn a model from the new training data set.</Paragraph>
+<Paragraph position="6"> 5. To disambiguate a development data set using that model.</Paragraph>
+<Paragraph position="7"> 6. To evaluate the output of the WSD system in  order to compare the behavior of the selected criteria on the development set.</Paragraph>
+<Paragraph position="8"> These steps are done using different combinations of input features in order to determine the best selection criterion and the best total specialization criterion. Once these criteria are determined, some partial specializations are tested in order to improve the performance of the model.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

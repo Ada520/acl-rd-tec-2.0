@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-3099">
+<Title>A Syntactic and Morphological Analyzer for a Text-to-Speech System</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a system which analyzes an in'put text syntactically and morphologically and converts the text from the graphemic to the phonetic :representation (or vice versa). We describe the grammar formaSsm used and report a parsing experiment which compared eight parsing strategies within the :h'amework of chart parsing. Although the morphological and syntactic analyzer has been developed for a text-to-speech system for German, it is language independent and general enough to be used for dialog systems, NL-interfaces or speech recognition systems. null</Paragraph>
+</Section>
+</Paper>
+

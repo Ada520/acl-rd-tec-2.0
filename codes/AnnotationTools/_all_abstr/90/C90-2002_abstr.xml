@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-2002">
+<Title>An Application of Lexical Semantics to Knowledge Acquisition from Corpora</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we describe a program of research designed to explore.' how a lexical semantic theory may be exploited for extracting information from corpora suitable for use in Information Retrieval applications. Unlike with purely statistical collocational analyses, the framework of a semantic theory allows the ~ultomatic construction of predictions about semantic relationships among words appearing in coltocatioz~al systems. We illustrate the at)proach for the acquisition of lexical information for several classes of nominals.</Paragraph>
+</Section>
+</Paper>
+

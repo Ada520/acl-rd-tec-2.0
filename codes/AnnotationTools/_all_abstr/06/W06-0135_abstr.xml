@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-0135">
+<Title>NetEase Automatic Chinese Word Segmentation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This document analyses the bakeoff results from NetEase Co. in the SIGHAN5 Word Segmentation Task and Named Entity Recognition Task. The NetEase WS system is designed to facilitate research in natural language processing and information retrieval. It supports Chinese and English word segmentation, Chinese named entity recognition, Chinese part of speech tagging and phrase conglutination.</Paragraph>
+<Paragraph position="1"> Evaluation result shows our WS system has a passable precision in word segmentation except for the unknown words recognition. null</Paragraph>
+</Section>
+</Paper>
+

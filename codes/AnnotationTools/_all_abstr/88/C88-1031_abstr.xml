@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C88-1031">
+<Title>Stylistic Grammars in Language Translation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We are developing stylistic grammars to provide the basis for a French and English stylistic parser.</Paragraph>
+<Paragraph position="1"> Our stylistic grammar is a branching stratificational model, built upon a foundation dealing with lexical, syntactic, and semantic stylistic realizations. Its central level uses a vocabulary of constituent stylistic elements common to both English and French, while the top level correlates stylistic goals, such as clarity and concreteness, with patterns of these elements.</Paragraph>
+<Paragraph position="2"> Overall, we are implementing a computational schema of stylistics in French-to-English translation.</Paragraph>
+<Paragraph position="3"> We believe that the incorporation of stylistic analysis into machine translation systems will significantly reduce the current reliance on human post-editing and improve the quality of the systems' output.</Paragraph>
+</Section>
+</Paper>
+

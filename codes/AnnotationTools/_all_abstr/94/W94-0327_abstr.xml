@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W94-0327">
+<Title>Bidirectional Incremental Generation and Analysis with Categorial Grammar and Indexed Quasi-Logical Form.</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe an approach to surface generation designed for a &amp;quot;pragmatics-based&amp;quot; dialogue system. The implementation has been extended to deal with certain well-known difficulties with the underlying linguistic formalism (Categorial Grammar) at the same time yielding a system capable of supporting incremental generation as well as interpretation. Aspects of the formalism used for the initial description that constitutes the interface with the planning component are also discussed.</Paragraph>
+</Section>
+</Paper>
+

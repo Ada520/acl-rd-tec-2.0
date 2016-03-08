@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W90-0113">
+<Title>An Object Oriented Approach to Content Planning for Text Generation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> I'his paper describes GENIE, an object-oriented architecture that generates text with the intent of extending user expertise in interactive environments. Such environments present three interesting goals. First, to provide information within the task at hand. Second to both respond to a user's task related question and simultaneously extend their knowledge. Third, to do this in a manner that is concise, clear and cohesive. Instead of generating text based solely on either discourse goals, intentions, or the domain, we found a need to combine techniques from each. We have developed an object oriented architecture in which the concepts about which we talk (domain entities), the goals that may be accomplished with them (intentions), end the rhetorical acts through which we express them (discourse goals) are represented as objects with localized knowledge end methods. This paper describes how current text planning methods were insufficient for our needs, and presents our object-oriented method as an alternative.</Paragraph>
+</Section>
+</Paper>
+

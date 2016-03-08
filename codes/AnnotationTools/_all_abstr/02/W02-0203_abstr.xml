@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-0203">
+<Title></Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+References
+</SectionTitle>
+<Paragraph position="0"> 1 J. Allen and R. Perrault. 1980. Analyzing intention in utterances. Artificial Intelligence, 15:143--178.</Paragraph>
+<Paragraph position="1"> 2 L. Burnard. 2000. Reference Guide for the British National Corpus (World Edition). Oxford Universtity Computing Services. Accessible from: ftp://sable.ox.ac.uk/pub/ota/BNC/. 3 Sandra Carberry, Plan Recognition in Natural Language Dialogue, MIT Press, Cambridge, MA, 1990 4 Jean Carletta, Assessing agreement on classification tasks: the kappa statistic, Computational Linguistics, v.22 n.2, June 1996 5 R. Cooper, S. Larsson, J. Hieronymus, S. Ericsson, E. Engdahl, and P. Ljunglof. 2001. GODIS and Questions Under Discussion. In The TRINDI Book. University of Gothenburg, Gothenburg. Available from http://www.ling.gu.se/research/projects/trindi. 6 M. Dalrymple, F. Pereira, and S. Shieber. 1991. Ellipsis and higher order unification. Linguistics and Philosophy, (14):399--452.</Paragraph>
+<Paragraph position="2"> 7 E. Engdahl, S. Larsson, and S. Ericsson. 2000. Focus-ground articulation and parallelism in a dynamic model of dialogue. Technical report, Trindi:Task Oriented Instructional Dialogue. Accessible from: http://www.ling.gu.se/research/projects/trindi. 8 R. Fernndez. 2002. An Implemented HSPG Grammar for SHARDS. Technical Report TR-02--04, Department of Computer Science. King's College London.</Paragraph>
+<Paragraph position="3"> 9 J. Ginzburg and R. Cooper. 2001a. Clarification, ellipsis, and the nature of contextual updates. Under review for Linguistics and Philosophy.</Paragraph>
+<Paragraph position="4"> 10 Jonathan Ginzburg , Robin Cooper, Resolving ellipsis in clarification, Proceedings of the 39th Annual Meeting on Association for Computational Linguistics, p.236-243, July 06-11, 2001, Toulouse, France 11 J. Ginzburg and I. Sag. 2001. Interrogative Investigations. CSLI Publications.</Paragraph>
+<Paragraph position="5"> 12 J. Ginzburg, H. Gregory, and S. Lappin. 2001. SHARDS: Fragment resolution in dialogue. In Proceedings of the Fourth International Workshop on Computational Semantics.</Paragraph>
+<Paragraph position="6"> 13 J. Ginzburg. 1996. Interrogatives: Questions, facts, and dialogue. In Shalom Lappin, editor, Handbook of Contemporary Semantic Theory. Blackwell, Oxford.</Paragraph>
+<Paragraph position="7"> 14 J. Ginzburg. 1997. Structural mismatch in dialogue. In Proceedings of MunDial 97 (Technical Report 97--106), pages 59--80. Universitaet Muenchen Centrum fuer Informations- und Sprachverarbeitung, Muenchen. 15 J. Ginzburg. 1999. Ellipsis resolution with syntactic presuppositions. In Harry Bunt and Reinhard Muskens, editors, Computing Meaning: Current Issues in Computational Semantics. Kluwer. 16 J. Ginzburg. 2002. A semantics for interaction in dialogue. Forthcoming for CSLI Publications. Draft chapters available from: http://www.dcs.kcl.ac.uk/staff/ginzburg.</Paragraph>
+<Paragraph position="8"> 17 Staffan Larsson , Peter Ljunglf , Robin Cooper , Elisabet Engdahl , Stina Ericsson, GoDiS: an accommodating dialogue system, ANLP/NAACL 2000 Workshop on Conversational systems, p.7-10, May 04-04, 2000, Seattle, Washington 18 S. Larsson. 1998. Questions under discussion and dialogue moves. In J. Hulstijn and A. Nijholt, editors, Proceedings of TwenDial 98, 13th Twente workshop on Language Technology. Twente University, Twente. 19 Matthew Purver , Jonathan Ginzburg , Patrick Healey, On the means for clarification in dialogue, Proceedings of the Second SIGdial Workshop on Discourse and Dialogue, p.1-10, September 01-02, 2001, Aalborg, Denmark 20 M. Purver. 2001. SCoRE: A tool for searching the BNC. Technical Report TR-01-07, Department of Computer Science, King's College London.</Paragraph>
+<Paragraph position="9"> 21 Matthew Purver, Processing unknown words in a dialogue system, Proceedings of the 3rd SIGdial workshop on Discourse and dialogue, p.174-183, July 11-12, 2002, Philadelphia, Pennsylvania</Paragraph>
+</Section>
+</Paper>
+

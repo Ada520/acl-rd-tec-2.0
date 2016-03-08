@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H89-1031">
+<Title>Principal Investigators:</Title>
+<Section position="2" start_page="0" end_page="196" type="abstr">
+<SectionTitle>
+ACCOMPLISHMENTS:
+</SectionTitle>
+<Paragraph position="0"> Collected the Task-Oriented, Naturally Elicited (TONE) speech database.</Paragraph>
+<Paragraph position="1"> This involved designing an experiment to elicit spontaneous speech from naval personnel performing a problem-solving task requiring database query.</Paragraph>
+<Paragraph position="2"> Developed software for subject interface and data collection. A report describing the experiment and data collection is in progress.</Paragraph>
+<Paragraph position="3"> PLANS: NOSC has identified the Battle Group Tactical Trainer (BGTT) as an appropriate candidate for the integration of speech recognition in the navy. Current plans are to record speech samples and create transcriptions from the BGTT exercises at NOSC and the Naval Post-Graduate School. We will then evaluate the recordings to determine appropriate tasks for speech recognition, and create a language model to describe the speech. Following this, a speech database will be collected for testing and evaluation.</Paragraph>
+<Paragraph position="4"> In addition, the long-term development of a speech testbed for the integration, testing, and evaluation speech recognition technology will continue.</Paragraph>
+</Section>
+</Paper>
+

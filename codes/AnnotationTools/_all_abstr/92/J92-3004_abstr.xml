@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J92-3004">
+<Title>Technical Correspondence Automatic Clustering of Languages</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> The purpose of this paper is to show that current mathematics and computer science can offer expertise to various &amp;quot;soft&amp;quot; sciences, e.g., linguistics. Sixty-five languages are automatically grouped into clusters according to the analysis of sixteen common words. The authors regard the results presented in this paper merely as an example of a possible application of cluster analysis to linguistics. The results should not be regarded as conclusive but rather as suggestions to linguists that similar projects can be carried out on a much greater scale, hopefully yielding similar results and better understanding of language families.</Paragraph>
+<Paragraph position="1"> This is by no means the first application of mathematical methods to this problem; see for instance Kruskal, Dyen, and Black (1971) and Sujold~i~ et al. (1987).</Paragraph>
+</Section>
+</Paper>
+

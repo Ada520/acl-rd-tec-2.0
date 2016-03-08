@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C86-1076">
+<Title>NARA: A Two-way Simultaneous Interl3retation System</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+2. Methodology
+</SectionTitle>
+<Paragraph position="0"> the adjusted grammar with the interpretation mechanism: a representation, an a\]goritb~l, and a complexity metric. We take the following items as the subjects of c;lethodological study.</Paragraph>
+<Paragraph position="1"> (I) The theory of grammar We require an adjusted grammar to be suitable for description of the two languages as input and output. It is intuitiw}ly clear that the more cc~,municatable the adjusted gralr~imr is, expressed by a powerful forreal system, the more efficiently is the grammar interprcted. We adopt general ized phrase structure grarl,~lar (GPSG) framework\[\]{\].</Paragraph>
+<Paragraph position="2"> (2) The notion of direct realization of interpretation Because we need to connect competence and performance as directly as possible, one of the goals of our study is to identify rules of the grammar with the manipulative unit of interpretation in a one-to-one fashiondeg Thus we carefully distinguish between the grammar and the rules of interpretation. For this, we adopt the following notions as the methodological principles of our system: I) Equivalence of grammar\[5\]~ 2) gralfmlar cover' and grarmlar modif:ieation\[6\]5 3) type transparency\[2\], and  4) an invariant of forma\] languages\[4\].</Paragraph>
+<Paragraph position="3"> (3) The notion of complexity measure  fhe direct association between unit interpretation time cost and the complexity of a sequential operation during interpretation can be measured.</Paragraph>
+<Paragraph position="4"> Our approach is intuitively motivated by Cha~mky's hypothesis\[l\]: hc~logeneous communication by the same linguistic performance is possible among those who have the same linguistic competence. We take a performance theory to be the study of real time processing of languages. The performance theory cannot be developed without a c~apetence theory. This hypothesis suggests that a key point of contact between the theory of grab, mr and the interpretation control is the natural link between the theory of knowledge representation and the theory of knowledge proeessing. That is, for two classes of languages to be interpretable by humaln being, there exists an interpreting procedure. Consequently, if we can show that there is an adjusted grab,far for the two languages plus an adequate interpreting procedure to predetermine the mechanism of' our two-way simultaneous interpretation, then we have some support for our methodology. In order to guarantee two-way simultaneous interpretation, there are several subareas to be inquired. The first is the type of representation constructed during the interpretation. The second is the method of utilizing the representation during the interpretation. The third is the measure of c~nputational complexity during the interpretation. These three components of a complete c(~aputational model are necessary for linking</Paragraph>
+</Section>
+</Paper>
+

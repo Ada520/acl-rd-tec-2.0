@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-3083">
+<Title>Local Cohesive Knowledge for A I)ialogue-machine Translation System</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In a natural dialogue, there are many disturbances in the context level because of interruptions and inserted sentences. In spite of such phenomena, cohesion is a very important idea for understanding the context correctly.</Paragraph>
+<Paragraph position="1"> In our approach, cohesive knowledge which judges cohesion between sentences is given to the system and then the knowledge is used to find cohesion in disarranged context. It is also applied to interpret anaphora, ellipsis and pro-forms in the context. In order to do so, we define the knowledge and use its definition to abstract knowledge fl'om a linguistics database almost automatically.</Paragraph>
+</Section>
+</Paper>
+

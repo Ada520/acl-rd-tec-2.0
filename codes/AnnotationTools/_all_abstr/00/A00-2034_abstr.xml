@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A00-2034">
+<Title>Using Semantic Preferences to Identify Verbal Participation in Role Switching Alternations.</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We propose a method for identifying diathesis alternations where a particular argument type is seen in slots which have different grammatical roles in the alternating forms. The method uses selectional preferences acquired as probability distributions over WordNet. Preferences for the target slots are compared using a measure of distributional similarity.</Paragraph>
+<Paragraph position="1"> The method is evaluated on the causative and conative alternations, but is generally applicable and does not require a priori knowledge specific to the alternation.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P99-1064">
+<Title>Computational Lexical Semantics, Incrementality, and the So-called Punctuality of Events</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The distinction between achievements and accomplishments is known to be an empirically important but subtle one. It is argued here to depend on the atomicity (rather than punctuality) of events, and to be strongly related to incrementality (i.e., to event-object mapping functions). A computational treatment of incrementality and atomicity is discussed in the paper, and a number of related empirical problems considered, notably lexical polysemy in verb - argument relationships.</Paragraph>
+<Paragraph position="1"> Introduction Ever since Vendler (1957) introduced it, the so-called punctuality of achievements has been the object of many theoretical contests. After having demonstrated that punctuality actually breaks up into two, distinct notions, namely non-durativity and atomicity, I will argue here for a compositional semantic account of the latter. I will show that (non-)atomicity interacts closely with the notion of incrementality, as formulated in Dowty (1991), and that this property of verbs should be lexically encoded, although it is subject both to semantics and pragmatics-driven variations. I will finally discuss the formal specifications an NLP system could use to make predictions about atomicity and incrementality.</Paragraph>
+</Section>
+</Paper>
+

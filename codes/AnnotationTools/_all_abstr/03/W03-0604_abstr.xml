@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-0604">
+<Title>Towards a Framework for Learning Structured Shape Models from Text-Annotated Images</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present on-going work on the topic of learning translation models between image data and text (English) captions. Most approaches to this problem assume a one-to-one or a flat, one-to-many mapping between a segmented image region and a word. However, this assumption is very restrictive from the computer vision standpoint, and fails to account for two important properties of image segmentation: 1) objects often consist of multiple parts, each captured by an individual region; and 2) individual regions are often over-segmented into multiple subregions. Moreover, this assumption also fails to capture the structural relations among words, e.g., part/whole relations.</Paragraph>
+<Paragraph position="1"> We outline a general framework that accommodates a many-to-many mapping between image regions and words, allowing for structured descriptions on both sides. In this paper, we describe our extensions to the probabilistic translation model of Brown et al. (1993) (as in Duygulu et al. (2002)) that enable the creation of structured models of image objects.</Paragraph>
+<Paragraph position="2"> We demonstrate our work in progress, in which a set of annotated images is used to derive a set of labeled, structured descriptions in the presence of oversegmentation.</Paragraph>
+</Section>
+</Paper>
+

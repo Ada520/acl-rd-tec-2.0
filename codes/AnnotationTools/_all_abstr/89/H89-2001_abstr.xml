@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H89-2001">
+<Title>REPORT ON SESSION I: PROSODIC AIDS TO SPEECH RECOGNITION Chair: Lynette Hirschman Four papers were presented in the opening session of the conference. The papers were &amp;quot;Prosody and Parsing&amp;quot; by P.J. Price (SRI), M. Ostendorf (Boston University), and C.W. Wightman (Boston University), &amp;quot;Timing Models for</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+REPORT ON SESSION I: PROSODIC AIDS TO SPEECH RECOGNITION
+Chair: Lynette Hirschman
+</SectionTitle>
+<Paragraph position="0"> Four papers were presented in the opening session of the conference.</Paragraph>
+<Paragraph position="1"> The papers were &amp;quot;Prosody and Parsing&amp;quot; by P.J. Price (SRI), M. Ostendorf (Boston University), and C.W. Wightman (Boston University), &amp;quot;Timing Models for Prosody and Cross-word Coarticulation in Connected Speech&amp;quot; by M. Beckman (Ohio State University), &amp;quot;Intonational Meaning in the Interpretation of Discourse,&amp;quot; by J. Hirschberg (AT&amp;T Bell Laboratories), and &amp;quot;Structure and Intonation in Spoken Language Systems,&amp;quot; by M. Steedman (University of Pennsylvania). Price et al. reported on the use of prosodic information to resolve several types of syntactic ambiguities, the development of a prosodic information coding system suitable for a parser, and the development of automatic algorithms for extracting prosodic information. (Work jointly supported by NSF and DARPA.) Mary Beckman reported on work in articulatory dynamics which suggests a new approach to the use of durational information in continuous speech recognition. New models of articulatory gesture allow for useful distinctions among the timing effects found in global tempo increase, phrase-final lengthening, and sentence accent. (Work supported by NSF.) Julia Hirschberg reported on work in empirical observation of the pragmatic uses of selected pitch contours. In addition, her report addressed the need for better speech data (goal-directed speech in a specific task domain) on which to test hypotheses about the interaction of prosodic constructs with the other components of a spoken language understanding system, particularly semantics and pragmatics. (Work supported by AT~T Bell Laboratories.) Mark Steedman reported on work in the description of intonational and syntactic structures in a combinatory extension of categorlal grammar. Combinatory categorial grammar predicts syntactic units which align with boundaries in the intonational structure, thus helping to clarify the structure of an utterance for spoken language understanding. (Work supported by DARPA and NSF.)</Paragraph>
+</Section>
+</Paper>
+

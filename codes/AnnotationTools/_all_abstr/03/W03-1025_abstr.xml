@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-1025">
+<Title>A Maximum Entropy Chinese Character-Based Parser</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The paper presents a maximum entropy Chinese character-based parser trained on the Chinese Treebank ( CTB henceforth). Word-based parse trees in CTB are rst converted into character-based trees, where word-level part-of-speech (POS) tags become constituent labels and character-level tags are derived from word-level POS tags. A maximum entropy parser is then trained on the character-based corpus. The parser does word-segmentation, POS-tagging and parsing in a uni ed framework. An average label F-measure a0a2a1a4a3a6a5a8a7 and word-segmentation F-measure a9a11a10 a3a13a12a14a7 are achieved by the parser. Our results show that word-level POS tags can improve signi cantly word-segmentation, but higher-level syntactic strutures are of little use to word segmentation in the maximum entropy parser. A word-dictionary helps to improve both word-segmentation and parsing accuracy.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H89-2003">
+<Title>TIMING MODELS FOR PROSODY AND CROSS-WORD COARTICULATION IN CONNECTED SPEECH</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+TIMING MODELS FOR PROSODY AND CROSS-WORD
+COARTICULATION IN CONNECTED SPEECH
+</SectionTitle>
+<Paragraph position="0"> Gauging durations of acoustic intervals is useful for recognizing the phrasing and stress pattern of an utterance. It aids in the recognition of segments that are differentiated by duration, and it can improve segment recognition in general because knowing the stress and phrasing reduces the vocabulary search space. However, models of speech timing that compute acoustic segment lengths cannot capture spectral dynamics, and they rapidly become unwieldy in connected speech, where many effects interact to determine interval durations.</Paragraph>
+<Paragraph position="1"> I will review two results from recent work on articulatory dynamics that suggest a more workable alternative. Browman and Goldstein have developed a general model of the timing of articulatory gestures. Using this model they can describe many assimilations and apparent deletions of segments at word boundaries in terms of simple manipulations of intergestural timing, an account which should be useful for predicting the lenition pattern and for interpreting the resulting spectra in order to recover the underlying form.</Paragraph>
+<Paragraph position="2"> Beckman, Edwards, and Fletcher have applied Browman and Goldstein's model in examining articulatory correlates of global tempo decrease, phrase-final position, and sentence accent. Their data show that these three different lengthening effects are functionally distinct and suggest that the kinematics of formant transitions and amplitude curves can be used for distinguishing among the effects to parse the prosodic organization of an utterance.</Paragraph>
+</Section>
+</Paper>
+

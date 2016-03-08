@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H01-1075">
+<Title>Now PPRICE Speech and Language</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> BravoBrava! is expanding the repertoire of commercial user interfaces by incorporating multimodal techniques combining traditional point and click interfaces with speech recognition, speech synthesis, and gesture recognition. One of these applications is software to help children read. While the child reads aloud, the computer keeps the child on track and offers feedback when the child has difficulty. The feedback can be as subtle as changing the text color for a well articulated phrase or as friendly as a cartoon character that talks. The computer is infinitely patient and can keep detailed records of the child's progress. The reading software is being commercialized by BravoBrava!'s spinoff company, SUP Inc.</Paragraph>
+<Paragraph position="1"> Keywords: Reading, pedagogy Figure 1. Here is an example from a sample story. The system tracks the reading and intervenes when help is needed. This screen shows a sample intervention if the child stumbles on the word 'butterflies'.</Paragraph>
+</Section>
+</Paper>
+

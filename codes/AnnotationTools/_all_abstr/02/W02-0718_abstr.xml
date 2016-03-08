@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-0718">
+<Title>The VI framework program in Europe: some thoughts about Speech to Speech Translation research.</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Significant progress has been made in the field of human language technologies.</Paragraph>
+<Paragraph position="1"> Various tasks like continuous speech recognition for large vocabulary, speaker and language identification, spoken information inquiry, information extraction and cross-language retrieval in restricted domains are today feasible and different prototypes and systems are running. The spoken translation problem on the other hand is still a significant challenge: &amp;quot;Good text translation was hard enough to pull off. Speech to speech MT was beyond going to the Moon - it was Mars...&amp;quot; [Steve Silbermann, Wired Magazine].</Paragraph>
+<Paragraph position="2"> Considering the major achievements of the last years obtained in the field and the related challenges, a question arise: what next ? Is it possible to foresee in the next decade real services and applications ? How can we reach this goal ? Shall we rethink the approach ? Shall we need much more critical mass ? How about data ? To answer to these questions a new preparatory action, TC_STAR_P, funded in the V framework, has been settled in Europe.</Paragraph>
+<Paragraph position="3"> Goals, objective and activities of this preparatory action will also be discussed in this paper</Paragraph>
+</Section>
+</Paper>
+

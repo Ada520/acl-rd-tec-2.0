@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-1427">
+<Title>Robust, Applied Morphological Generation .... ......... ..... . _</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In practical natural language generation systems it is often advantageous to have a separate component that deals purely with morphological processing. We present such a component: a fast and robust morphological generator for English based on finite-state techniques that generates a word form given a specification of the lemma, part-of-speech, and the type of inflection required. We describe how this morphological generator is used in a prototype system for automatic simplification of English newspaper text, and discuss practical morphological and orthographic issues we have encountered in generation of unrestricted text within this application. null</Paragraph>
+</Section>
+</Paper>
+

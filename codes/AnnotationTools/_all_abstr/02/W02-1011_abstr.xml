@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-1011">
+<Title>Thumbs up? Sentiment Classiflcation using Machine Learning Techniques</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We consider the problem of classifying documents not by topic, but by overall sentiment, e.g., determining whether a review is positive or negative. Using movie reviews as data, we flnd that standard machine learning techniques deflnitively out-perform human-produced baselines. However, the three machine learning methods we employed (Naive Bayes, maximum entropy classiflcation, and support vector machines) do not perform as well on sentiment classiflcation as on traditional topic-based categorization. We conclude by examining factors that make the sentiment classiflcation problem more challenging.</Paragraph>
+</Section>
+</Paper>
+

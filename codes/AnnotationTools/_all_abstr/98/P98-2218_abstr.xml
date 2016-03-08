@@ -1,0 +1,28 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-2218">
+<Title>Eiji Sawamura TAO Terumasa Ehara NHK Science and Technical Research Lab / TAO Ichiro Maruyama TAO</Title>
+<Section position="2" start_page="0" end_page="1340" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe an on-going project whose primary aim is to establish the technology of producing closed captions for TV news programs efficiently using natural language processing and speech recognition techniques for the benefit of the hearing impaired in Japan. The project is supported by the</Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+Telecommunications Advancement
+</SectionTitle>
+<Paragraph position="0"> Organisation of Japan with the help of the ministry of Posts and Telecommunications.</Paragraph>
+<Paragraph position="1"> We propose natural language and speech processing techniques should be used for efficient closed caption production of TV programs. They enable us to summarise TV news texts into captions automatically, and synchronise TV news texts with speech and video automatically. Then the captions are superimposed on the screen.</Paragraph>
+<Paragraph position="2"> We propose a combination of shallow methods for the summarisation. For all the sentences in the original text, an importance measure is computed based on key words in the text to determine which sentences are important. If some parts of the sentences are judged unimportant, they are shortened or deleted. We also propose keyword pair model for the synchronisation between text and speech.</Paragraph>
+<Paragraph position="3"> Introduction The closed captions for TV programs are not provided widely in Japan. Only 10 percent of the TV programs are shown with captions, in contrast to 70 % in the United States and more than 30 % in Britain. Reasons why the availability is low are firstly the characters used in the Japanese language are complex and many. Secondly, at the moment, the closed captions are produced manually and it is a time-consuming and costly task. Thus we think the natural language and speech processing technology will be useful for the efficient production of TV programs with closed captions.</Paragraph>
+</Section>
+<Section position="2" start_page="0" end_page="1340" type="sub_section">
+<SectionTitle>
+The Telecommunications Advancement
+</SectionTitle>
+<Paragraph position="0"> Organisation of Japan with the support of the ministry of Posts and Telecommunications has initiated a project in which an electronically available text of TV news programs is summarised and syncrhorinised with the speech and video automatically, then superimposed on the original programs.</Paragraph>
+<Paragraph position="1"> It is a five-year project which started in 1996, and its annual budget is about 200 million yen. In the following chapters we describe main research issues in detail and the project schedule, and the results of our preliminary research on the main research topics are presented.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

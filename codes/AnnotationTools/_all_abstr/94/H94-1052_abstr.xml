@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H94-1052">
+<Title>Decision Tree Parsing using a Hidden Derivation Model</Title>
+<Section position="1" start_page="0" end_page="272" type="abstr">
+<SectionTitle>
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> Parser development is generally viewed as a primarily linguistic enterprise. A grammarian examines sentences, skillfully extracts the linguistic generalizations evident in the data, and writes grammar rules which cover the language. The grammarian then evaluates the performance of the grammar, and upon analysis of the errors made by the grammar-based parser, carefully refines the rules, repeating this process, typically over a period of several years.</Paragraph>
+<Paragraph position="1"> This grammar refinement process is extremely time-consuming and difficult, and has not yet resulted in a grammar which can be used by a parser to analyze accurately a large corpus of unrestricted text. As an alternative to writing grammars, one can develop corpora of hand-analyzed sentences (treebanks) with significantly less effort 1. With the availability of treebanks of annotated sentences, one can view NL parsing as simply treebank recognition where the methods from statistical pattern recognition can be brought to bear.</Paragraph>
+<Paragraph position="2"> This approach divides the parsing problem into two separate tasks: treebanking, defining the annotation scheme which will encode the linguistic content of the sentences and applying it to a corpus, and treebank recognition, generating these annotations automatically for new sentences.</Paragraph>
+<Paragraph position="3"> The treebank can contain whatever information is deemed valuable by the treebanker, as long as it is annotated according to some consistent scheme, probably one which represents the intended meaning of the sentence. The goal of treebank recognition is to produce the exact same analysis of a sentence that the treebanker would generate.</Paragraph>
+<Paragraph position="4"> As treebanks became available during the past five years, many &amp;quot;statistical models&amp;quot; for parsing a sentence w~ of n words still relied on a grammar. Statistics were used to simply rank the parses that a grammar allowed for a sentence.</Paragraph>
+<Paragraph position="5"> Unfortunately, this requires the effort of grammar creation (whether by hand or from data) in addition to the Treebank and suffers from the coverage problem that the correct parse *E Jelinek and R. Mercer, formerly of IBM, are now will, John Hopkins University and Renaissance Technologies, Inc., respectively.</Paragraph>
+<Paragraph position="6"> 1 In addition, these annotated corpora have a more permanent value for future research use than particular grammars may not be allowed by the grammar. Parsing with these models is to determine the most probable parse, T*, from among all the parses, denoted by Ta(w~), allowed by the grammar G for the sentence w~:</Paragraph>
+<Paragraph position="8"> The a posteriori probability of a tree T given the sentence w? is usually derived by Bayes rule from a generative model, denoted by p(T, w~), based on the grammar. For example, probabilistic CFGs (P-CFG) can be estimated from a treebank to construct such a model \[I, 2\].</Paragraph>
+<Paragraph position="9"> But there is no reason to require that a grammar be used to construct a probabilistic model p(T \[ w~) that can be used for parsing. In this paper, we present a method for contructing a model for the conditional distribution of trees given a sentence without the need to define a grammar. So with this new viewpoint parsing avoids the step of extracting a grammar and is merely the search of the most probable tree:</Paragraph>
+<Paragraph position="11"> where the maximization is over all trees that span the n-word sentence. While others have attempted to build parsers from treebanks using correctly tagged sentences as input, we present in this paper the first results we know of in building a parser automatically that produces the surface structure directly from a word sequence and does not require a correct sequence of tags.</Paragraph>
+<Paragraph position="12"> The probabilistic models we explore are conditional on the derivational order of the parse tree. In \[4\], this type of model is referred to as a history-based grammar model where a (deterministic) leftmost derivation order is used to factor the probabilistic model. In this work, we use a set of bottom-up derivations 2 of parse trees. We explore the use of a self-organized hidden derivational model as well as a deterministic derivational model to assign the probability of a parse tree.</Paragraph>
+<Paragraph position="13"> In the remaining sections, we discuss the derivation history model, the parsing model, the probabilistic models for node</Paragraph>
+<Paragraph position="15"> features, the training algorithms, the experimental results, and our colaclusions.</Paragraph>
+<Paragraph position="16"> Me Enter key Figure2: Representation of constituent and labeling of extensions. null</Paragraph>
+</Section>
+</Paper>
+

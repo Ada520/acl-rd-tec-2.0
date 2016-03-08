@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-1318">
+<Title>Automatic WordNet mapping using word sense disambiguation*</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+seojy@ ccs.sogang.ac.kr
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents the automatic construction of a Korean WordNet from pre-existing lexical resources. A set of automatic WSD techniques is described for linking Korean words collected from a bilingual MRD to English WordNet synsets.</Paragraph>
+<Paragraph position="1"> We will show how individual linking provided by each WSD method is then combined to produce a Korean WordNet for nouns.</Paragraph>
+</Section>
+</Paper>
+

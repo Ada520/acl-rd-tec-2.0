@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C88-2120">
+<Title>An Augmented Context Free Grammar for Discourse</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents an augmented context free grammar which describes important features of the surface structure and the semantics of discourse in a formal way, integrating new as well as previously existing insights into a unified framework. The structures covered include lists, narratives, subordinating and coordinating rhetorical relations, topic chains and interruptions. The paper discusses the problem of parsing discourse, and compares different grammatical formalisms which could be used for describing discourse structure.</Paragraph>
+</Section>
+</Paper>
+

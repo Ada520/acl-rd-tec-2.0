@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A97-2018">
+<Title>Multilingual NameTag TM Multilingual Internet Surveillance System Multimedia Fusion System</Title>
+<Section position="2" start_page="0" end_page="31" type="abstr">
+<SectionTitle>
+2 Multilingual Internet Surveillance
+</SectionTitle>
+<Paragraph position="0"></Paragraph>
+<Section position="1" start_page="0" end_page="31" type="sub_section">
+<SectionTitle>
+System
+</SectionTitle>
+<Paragraph position="0"> The Multilingual Internet Surveillance System uses SRA's NameTag, the powerful SQL capability of an RDBMS, and a Java-enhanced Web-based GUI to provide an intelligent surveillance capability. The special features include: * Built-in Java-based Web crawler: By using this built-in Web crawler, the user can choose key WWW sites for surveillance. It automatically retrieves Web documents for intelligent indexing. The crawler has a built-in scheduler and make uses of multiple threads for the quickest possible acquisition of documents.</Paragraph>
+<Paragraph position="1"> * Concept-based intelligent indexing by NameTag: SRA's NameTag indexes retrieved Web documents and extracts the most important information, i.e. the proper names. In addition, NameTag can be customized to identify collections of other domain specific terms which are of interest to a particular Internet surveillance system (e.g., financial, legal, medical or military terms).</Paragraph>
+<Paragraph position="2"> + * Pro-active monitoring and alert capabilities: Using a variety of data mining techniques, the system can monitor daily activities on the Internet (what's new and hot today?) and alert the user to unusual activity as it is happening. * Powerful SQL queries through an easy-to-use Web-based GUI: Once alerts go off, the user can perform more in-depth analysis by retrieving relevant information through the user-friendly GU\[. Powerful SQL capability along with concept-based indexing ensures high precision and time saving.</Paragraph>
+<Paragraph position="3"> * Automated hyperlinking for intelligent browsing: Another way to analyze the information effectively is to browse texts by following hyperlinks automatically created by the system.</Paragraph>
+<Paragraph position="4"> Hyperlinks are added for each proper name and custom term found by NameTag.</Paragraph>
+<Paragraph position="5"> * Multilingual capability for monolingual speakers: By incorporating multilingual versions of NameTag and machine translation modules, monolingual speakers can also retrieve, browse, and analyze the content of foreign language documents.</Paragraph>
+<Paragraph position="6"> The multilingual capability allows the user to gather and assimilate information in foreign lan- null guages without further effort. For example, by simply clicking on one of the hyperlinks, the user can view a list of other articles in any language that contain the same term (either original and translated). By entering queries in English, the user can obtain all documents in any language that contain the English terms or their translations.</Paragraph>
+<Paragraph position="7"> The Multilingual Internet Surveillance System provides a truly unique way to analyze and discover necessary information effectively and efficiently from a vast information repositories on the Internet. For example, it can answer types of questions which cannot be asked of traditional search engines, such as &amp;quot;Which companies are mentioned along with Internet and Netscape?&amp;quot; or &amp;quot;Which people are related to the Shinshintou Party?&amp;quot; In addition, the concept-based indexing allows high-precision search; the user can ask for documents that contain &amp;quot;Dole,&amp;quot; the former senator, instead of &amp;quot;Dole,&amp;quot; the pineapple company. In short, the system can eliminate most of the noise associated with traditional search engines and focus attention on precisely the information of interest.</Paragraph>
+<Paragraph position="8"> The Web-based client runs on multiple platforms.</Paragraph>
+<Paragraph position="9"> The server currently runs on a SUN Solaris platform (other server ports are underway).</Paragraph>
+<Paragraph position="10"> time. The data is segmented as it is received and can be simultaneously stored and forwarded to viewers on the network. The server also handles data input through textual newswire feeds.</Paragraph>
+<Paragraph position="11"> The Web-based client runs on multiple platforms.</Paragraph>
+<Paragraph position="12"> The server currently runs on a SUN Solaris platform.  automated clustering algorithm with a summarization module to automatically group multimedia information by content and simultaneously determine concise keyword summaries of each cluster. MMF assists the user who must assimilate a vast amount of information from different sources quickly and effectively. As MMF generates clusters in an unsupervised fashion, i.e., no pre-defined user profile need be used, the system can adapt to new and changing world events with no extra effort.</Paragraph>
+<Paragraph position="13"> Specifically, the system takes newspaper articles and CNN Headline News, and creates a hierarchical cluster tree in which related stories are clustered together at tree nodes regardless of their sources. MMF consists of four main components: keyword selection, document clustering, cluster summarization, and cluster display. The resulting cluster tree is visualized in a Java-based interactive GUI. The user can follow a cluster tree hierarchy and expand clusters all the way down to individual documents. For newspaper articles, the text is shown while for CNN Headline News, both the closed-captioned text and the captured video are displayed in-line with a browser plug-in. Each displayed cluster also has its concise keyword summary next to the corresponding tree node.</Paragraph>
+<Paragraph position="14"> In addition to its clustering capabilities, the MMF server is also responsible for capturing video, audio, and closed-captions from a live satellite feed in real</Paragraph>
+</Section>
+</Section>
+</Paper>
+

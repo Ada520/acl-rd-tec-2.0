@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-1091">
+<Title>A Compilation-Chart Method for Linear Categorial Deduction</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Recent, work in ca.t;eg(Mj gr;mmt;~r has seen proposals for a wide. r;Lltg(~ O\[ sys-.</Paragraph>
+<Paragraph position="1"> t;(;i\[IS, differing in their 'resomx:e sensitivil;y' and hence, implicitly, {;heir under.. lying nol;ion of qinguisl;ie SLlllet;ure'. a common frmnework for t)arsing such syst;elns is elll(;l'ging;, whereby some inel;hod of linear logi(: l;hcorent \])roving is used in COlnbinal;ion with ;~ sysl,em of l;t1)elling l;hat; ensures l;hat; only (\[edtl(&gt; Lions a,pl)rot)ri}tt;c Lo l;he r(~le.vanL (:at;egorM formalism are allowed. This l)al)(n' presenl, s a deduction reel;hod for impli(-a.t, ional line~r logic I;ha|; brings with il, I;he benelil; thai; (:harl; parsing provides for CI,'G parsing, namely avoiding (;he need (;o recompu(;e intenne.dial;e resull;s wheal ,qcarching exhausi;ively for ;~ll possible mmlyses. The mel;ho(\[ involves (:orepiling possibly higher-or(l(;r linear formulae 1;o indexed firsl;-or(ler formulae, over whi(:h (tcdu(:l;ion is ina(le using jusL a, sin-.</Paragraph>
+<Paragraph position="2"> gle inference rule.</Paragraph>
+</Section>
+</Paper>
+

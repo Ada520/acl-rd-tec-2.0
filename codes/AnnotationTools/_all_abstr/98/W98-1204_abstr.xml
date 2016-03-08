@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-1204">
+<Title>A Lexically-Intensive Algorithm for Domain-Specific Knowlegde Acquisition Rend Schneider * Text Understanding Systems</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper is an outline of a statistical learning algorithm for information extraction systems. It is based on a lexicaUy intensive analysis of a small number of texts that belong to one domain and provides a robust lemmatisation of the word forms and the collection of the most important syntagmatic dependencies in weighted regular expressions. The lexical and syntactical knowledge is collected in a very compact knowledge base that enables the analysis of correct and partly incorrect texts or messages, which due to transmission errors, spelling or grammatical mistakes otherwise would have been rejected by conventional systems.</Paragraph>
+</Section>
+</Paper>
+

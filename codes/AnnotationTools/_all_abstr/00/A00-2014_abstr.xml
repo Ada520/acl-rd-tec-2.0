@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A00-2014">
+<Title>The Effectiveness of Corpus-Induced Dependency Grammars for Post-processing Speech*</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper investigates the impact of Constraint Dependency Grammars (CDG) on the accuracy of an integrated speech recognition and CDG parsing system. We compare a conventional CDG with CDGs that are induced from annotated sentences and template-expanded sentences. The grammars are evaluated on parsing speed, precision/coverage, and improvement of word and sentence accuracy of the integrated system. Sentence-derived CDGs significantly improve recognition accuracy over the conventional CDG but are less general. Expanding the sentences with templates provides us with a mechanism for increasing the coverage of the grammar with only minor reductions in recognition accuracy.</Paragraph>
+</Section>
+</Paper>
+

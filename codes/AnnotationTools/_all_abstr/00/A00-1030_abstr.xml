@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A00-1030">
+<Title>Aggressive Morphology for Robust Lexical Coverage</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes an approach to providing lexical information for natural language processing in unrestricted domains. A system of approximately 1200 morphological rules is used to extend a core lexicon of 39,000 words to provide lexical coverage that exceeds that of a lexicon of 80,000 words or 150,000 word forms. The morphological system is described, and lexical coverage is evaluated for random words chosen from a previously unanalyzed corpus.</Paragraph>
+</Section>
+</Paper>
+

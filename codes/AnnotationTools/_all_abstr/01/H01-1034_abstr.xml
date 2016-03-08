@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H01-1034">
+<Title>Improving Information Extraction by Modeling Errors in Speech Recognizer Output</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> In this paper we describe a technique for improving the performance of an information extraction system for speech data by explicitly modeling the errors in the recognizer output. The approach combines a statistical model of named entity states with a lattice representation of hypothesized words and errors annotated with recognition confidence scores. Additional refinements include the use of multiple error types, improved confidence estimation, and multi-pass processing. In combination, these techniques improve named entity recognition performance over a text-based baseline by 28%.</Paragraph>
+</Section>
+</Paper>
+

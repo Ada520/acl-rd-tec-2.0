@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C88-1021">
+<Title>Anaphora Resolution: A Multi.Strategy Approach</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Anaphora resolution has proven to be a very difficult problem; it requires the integrated application of syntactic, semantic, and pragmatic knowledge. This paper examines the hypothesis that instead of attempting to construct a monolithic method for resolving anaphora, the combination of multiple strategies, each exploiting a different knowledge source, proves more effective, theoretically and computationally. Cognitive plausibility is established in that human judgements of the optimal anaphoric referent accord with those of the strategy-based method, and human inability to determine a unique referent corresponds to the cases where different strategies offer conflicting candidates for the anaphoric referent.</Paragraph>
+</Section>
+</Paper>
+

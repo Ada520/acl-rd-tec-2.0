@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-1004">
+<Title>Finite State Automata and Arabic Writing</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Arabic writing has specific features, which imply computational overload for any arabicized software. Finite state automata are well known to give efficient solutions for translation problems which can be formalized as regular languages. These automata are as more easily built that their alphabet have been reduced through a careful linguistic analysis. This reduction makes it possible to write directly an automaton without going through the intermediate stage of contextual rules, which have to be translated into an automaton for the sake of efficiency. This paper presents two Moore automata, the first one, taken as an example, gives a solution to the choice of right shape for a letter to be printed or displayed (usually known as contextual analysis), the second one studies the more complex problem of determining the right carrying letter for hamza. Every arabicized software has to face these questions and finite state automata are certainly a good answer to them.</Paragraph>
+</Section>
+</Paper>
+

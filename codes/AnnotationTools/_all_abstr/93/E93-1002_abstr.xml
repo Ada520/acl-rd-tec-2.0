@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E93-1002">
+<Title>Semantic Encoder Semantic RepresentaUon SSP- SCHEMES Scheme Selector SSP- Scheme top-down information Dynamic SSP- Structures</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper sketches some basic features of the SYNPHONICS account of the computational modelling of incremental language production with the example of the generation of passive sentences. The SYNPHONICS approach aims at linking psycholinguistic insights into the nature of the human natural language production process with well-established assumptions in theoretical and computational linguistics concerning the representation and processing of grammatical knowledge. We differentiate between two possible kinds of stimuli within the generation process that trigger the formation of passive sentences: a Formulator-external stimulus and a Formulator-internal one. The Formulator-external stimulus is determined by the conceptual/contextual condition of agent backgrounding: An agentless semantic representation is verbalized by way of constructing an ergativized verbal complex in the morphological structure-building component, rather than by mapping the semantic representation directly onto a passive lemma.</Paragraph>
+<Paragraph position="1"> The Formulator-internal stimulus is an effect of the constraints of rapid, incremental utterance production; in particular, it causes the Formulat* The research reported in this paper is carried out in the research project &amp;quot;Sprachproduktion: von konzeptueller Struktur und Kontext zur prosodischen Realisierung der Bedeutung&amp;quot; at the University of Hamburg. The project is funded by the German Science Foundation (DFG) under grant no. Ha 1237/4-1.</Paragraph>
+<Paragraph position="2"> or to integrate a thematically underspecified increment in a prominent structural environment.</Paragraph>
+<Paragraph position="3"> In this case, the formation of passives is a matter of an additional constraint on the Lemma Selection process: Lemma Selection is constrained by the structural representation of the utterance produced so far.</Paragraph>
+</Section>
+</Paper>
+

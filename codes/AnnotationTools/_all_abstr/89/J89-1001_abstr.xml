@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J89-1001">
+<Title>PARSING WITH FLEXIBILITY~ DYNAMIC STRATEGIES~ AND IDIOMS IN MIND</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+PARSING WITH FLEXIBILITY~ DYNAMIC STRATEGIES~ AND IDIOMS IN MIND
+</SectionTitle>
+<Paragraph position="0"></Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+Oliviero Stock
+</SectionTitle>
+<Paragraph position="0"> Istituto per la Ricerca Scientifica e Tecnologica, 38050 Povo, Trento, Italy One desirable aspect of a syntactic parser is being meaningful (i.e., contributing to incremental interpretation) during the process of parsing and not only at the end of it. This becomes even more important when dealing with flexible word order languages, where the number of alternatives in parsing may grow dangerously. One such parser is WEDNESDAY 2. It is a lexicon-based parser, relying on the chart mechanism combined with a particular kind of unification, guided by the so-called Principle of the Good Clerk. The paradigm is a multiprocessing one and the experimentation with dynamic syntactic strategies (what heuristics may sensibly guide the process, for instance within a particular sublanguage) is a relevant task here. An interactive integrated environment built around the parser is described.</Paragraph>
+<Paragraph position="1"> Flexible idiom processing is one of the best features of WEDNESDAY 2. Idioms are treated as decomposable parts of speech and the treatment of idiom recognition does not differ from the &amp;quot;literal&amp;quot; process until a threshold of activation of a flexible pattern is crossed. At that point a new, idiomatic process is added.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

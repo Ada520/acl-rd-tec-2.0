@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W90-0104">
+<Title>A New Model for Lexical Choice for Open-Class Words</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The lexical choice process should be regarded as a constraint satisfaction problem: the generation system must choose a lexical unit that is accurate (t~mthful), va//d (conveys the necessary information), and preferred (maxirnal under a preference function). This corts~aint-based architecture allows a clema separation to be made between what the system knows of the object or event, and what the system wishes to communicate about the object or event. It also allows lexical choices to be biased towards basic-level (Rosch 1978) and other preferred lexical units.</Paragraph>
+</Section>
+</Paper>
+

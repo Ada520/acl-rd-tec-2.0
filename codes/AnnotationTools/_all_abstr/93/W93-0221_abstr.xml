@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W93-0221">
+<Title>Textual Constraints, Rhetorical Relations and Communicative Intentions in PLANDoc Narratives</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> While communicative intention certainly plays a role in language generation, we have fimnd that there is a need for textual and rhetorical relations as well in our document generation system, PLANDoc. PLANDoc will produce multi-page narratives describing the activities of telephone network planning engineers.</Paragraph>
+<Paragraph position="1"> These narratives will be read by managers and auditors as well as other planning engineers.</Paragraph>
+<Paragraph position="2"> Since the reports contain summaries, sometimes deterlnining what infi~rlnation to include and how to organize it is based solely on textual constraints. Summaries must be concise and intbrmation can be packed in using constructions such as ellipsis, conjunction and modificalion. Thus, textual constraints that rely on syntactic structure, lexical inlormation, and parallels in thc semantic types of the underlying information must play a role in organizing a summary.</Paragraph>
+<Paragraph position="3"> Since the intended audience of the narratives is broad, we often need to determine what information to include in the narrative based on general presentational factors that aim to improve the clarity of the text. Rhetorical relations are useful for modelling this sort of constraint.</Paragraph>
+<Paragraph position="4"> There are also cases where it is necessary to comnmnicate the planning engineer's intent in taking a specific action. However, we cannot model this computationally since we have no access to intbrmation about intention. While we cannot automatically generate information based on intent, we do allow the engineer to enter statements that describe her reasons fi~r an action. These user-authored statements can be interspersed with machine-generated text.</Paragraph>
+<Paragraph position="5"> In the following sections, we first give some background on the PLANDoc system and the narratives that we are aiming to generate. We Ibllow this with examples that illustrate why different types of constraints are needed in determining the content and organization of a PLANDoc narrative. All examples are taken from a set of narratives written by an experienced planning engineer tbr actual runs of the underlying planning system that PLANDoc is based on.</Paragraph>
+</Section>
+</Paper>
+

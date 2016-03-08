@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-1403">
+<Title>An Empirical Study in Multilingual Natural Language Generation: What Should A Text Planner Do?</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present discourse annotation work aimed at constructing a parallel corpus of Rhetorical Structure trees for a collection of Japanese texts and their corresponding English translations. We discuss implications of our empirical findings for the task of text planning in the context of implementing multilingual natural language generation systems.</Paragraph>
+</Section>
+</Paper>
+

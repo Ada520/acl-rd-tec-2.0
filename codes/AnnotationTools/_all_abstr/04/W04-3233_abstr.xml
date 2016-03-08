@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-3233">
+<Title>NP Bracketing by Maximum Entropy Tagging and SVM Reranking</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We perform Noun Phrase Bracketing by using a local, maximum entropy-based tagging model, which produces bracketing hypotheses. These hypotheses are subsequently fed into a reranking framework based on support vector machines. We solve the problem of hierarchical structure in our tagging model by modeling underspecified tags, which are fully determined only at decoding time. The tagging model performs comparably to competing approaches and the subsequent reranking increases our system's performance from an f-score of 81:7 to 86:1, surpassing the best reported results to date of 83:8.</Paragraph>
+</Section>
+</Paper>
+

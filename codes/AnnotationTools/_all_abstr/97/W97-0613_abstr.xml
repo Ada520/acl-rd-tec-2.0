@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0613">
+<Title>The &amp;quot;Casual Cashmere Diaper Bag&amp;quot;: Constraining Speech Recognition Using Examples</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe a new technology for using small collections of example sentences to automatically restrict a speech recognition grammar to allow only the more plausible subset of the sentences it would otherwise admit. This technology is unusual because it bridges the gap between hand-built grammars (used with no training data) and statistical approaches (which require significant data).</Paragraph>
+</Section>
+</Paper>
+

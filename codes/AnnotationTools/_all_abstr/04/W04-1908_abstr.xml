@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-1908">
+<Title>Automated Induction of Sense in Context</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> In this work, we introduce a model for sense assignment which relies on assigning senses to the contexts within which words appear, rather than to the words themselves. We argue that word senses as such are not directly encoded in the lexicon of the language. Rather, each word is associated with one or more stereotypical syntagmatic patterns, which we call selection contexts. Each selection context is associated with a meaning, which can be expressed in any of various formal or computational manifestations. We present a formalism for encoding contexts that help to determine the semantic contribution of a word in an utterance. Further, we develop a methodology through which such stereotypical contexts for words and phrases can be identi ed from very large corpora, and subsequently structured in a selection context dictionary, encoding both stereotypical syntactic and semantic information. We present some preliminary results.</Paragraph>
+</Section>
+</Paper>
+

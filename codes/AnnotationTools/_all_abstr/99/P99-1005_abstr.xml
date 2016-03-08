@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P99-1005">
+<Title>Distributional Similarity Models: Clustering vs. Nearest Neighbors</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Distributional similarity is a useful notion in estimating the probabilities of rare joint events.</Paragraph>
+<Paragraph position="1"> It has been employed both to cluster events according to their distributions, and to directly compute averages of estimates for distributional neighbors of a target event. Here, we examine the tradeoffs between model size and prediction accuracy for cluster-based and nearest neighbors distributional models of unseen events.</Paragraph>
+</Section>
+</Paper>
+

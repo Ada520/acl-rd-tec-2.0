@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="I05-5006">
+<Title>Transforming a Sentence End into News Headline Style</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> News on electrical bulletin boards consist of high density expressions. Many sentences end with unique expressions that consist of nouns and case particles. This paper focuses on expressions used at the end of sentences and attempts to summarize them by forming noun or case particle endings. We summarize the news sentence through pattern matching approach. Our evaluation illustrates that the summarizer reduces 2.50 characters per sentence on average; the reduction ratio is 6%. We also show that people perceive the correct meanings of the summarized sentences with 95% accuracy.</Paragraph>
+</Section>
+</Paper>
+

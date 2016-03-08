@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N04-1008">
+<Title>Automatic Question Answering: Beyond the Factoid</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we describe and evaluate a Question Answering system that goes beyond answering factoid questions. We focus on FAQ-like questions and answers, and build our system around a noisy-channel architecture which exploits both a language model for answers and a transformation model for answer/question terms, trained on a corpus of 1 million question/answer pairs collected from the Web.</Paragraph>
+</Section>
+</Paper>
+

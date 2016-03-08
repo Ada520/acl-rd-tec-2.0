@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-2138">
+<Title>Identifying Temporal Expression and its Syntactic Role Using FST and Lexical Data from Corpus</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Accurate analysis of the temporal expression is crucial for Korean text processing applications such as information extraction and clmnking for efficient syntactic analysis. It is a complicated problem since temporal expressions often have the ambiguity of syntactic roles. This t)al)er discusses two problenm: (1) representing and identiflying the temporal expression (2) distinguishing the syntactic tim(lion of the temporal exI)ression in case it has a dual syntactic role. In this paper, temporal expressions and the context for disambiguation which is called local context are represented using lexical data extracted fiom corlms and the finite state transducer. By experiments, it; turns out that the method is eflimtive for temporal expression analysis. In particular, our al)t)roach shows the corI)us-based work could make a promising result for the t)roblem in a restricted domain in t, hat we can eflbctievely deal with a, large size of lexical data.</Paragraph>
+</Section>
+</Paper>
+

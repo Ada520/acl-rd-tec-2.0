@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W99-0609">
+<Title>I Determining the specificity of nouns from text</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this work, we use a large text corpus to order nouns by their level of specificity. This semantic information can for most nouns be determined with over 80% accuracy using simple statistics from a text corpus without using any additional sources of semantic knowledge. This kind of semantic information can be used to help in automatically constructing or augmenting a lexical database such as WordNet.</Paragraph>
+</Section>
+</Paper>
+

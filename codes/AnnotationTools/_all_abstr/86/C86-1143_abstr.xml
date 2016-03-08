@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C86-1143">
+<Title></Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> In this paper, I discuss the role of phonology in the modelling of speech processing. It will be argued that recent models of nonlinear representations in phonology should be put to use in speech processing systems (SPS). Models ol phonology aim at the reconstruction of the phonological knowledge that speakers possess and utilize in speech prow cessing. The most important function of phonology in SPS is, therefore, to put constraints on what can be expected in the speech stream. A second, more specific function relates to the particular emphasis ot the phonological models mentioned above and outlined in SS g: It has been realized that many SPS do not make sufficient use of the suprasegmental aspects of the speech signal. But it is precisely in the domain of prosody where nonlinear phonology has made important progress in our insight into the phonological component of language.</Paragraph>
+<Paragraph position="1"> From the phonetic point of view, phonological knowledge is higher level knowledge just as syntactic or semantic information. But since phonological knowledge is in an obvious way closer to the phonetic domain than syntax or semantics, it is even more surprising that phonological knowledge has been rarely applied systematically in SPS.</Paragraph>
+<Paragraph position="2"> 2. Prosodic factors in the variability of speech One claim of this paper is that the proper use of phonology is one key to the successful handling of variability in speech. In (l), five versions of a common greeting in German are transcribed in a fairly close manner.</Paragraph>
+<Paragraph position="3">  (1) Guten Morgen a. \[,gu:ton 'm0e.gon\] b. \[,gu:t 9 'm~gn\] c. \[,gun 'm.~(e)gp\] d. \[,g~ 'm~(e)@ e. \[n mS~r3\]  The version (la) is certainly overly careful even for speakers of the standard language in highly controlled situations. But it is precisely in front of the-~ignorant--computer, that speakers might revert to a speech mode as the one in (Is). It has been noted that speakers talking to a SPS turn to careful, hyper-correct speech when repeating utterances that the system did not understand (Vaissi~re 1985: 204). If a system does not have the means for representing this very explicit form of speech, talking like in (la) is no help for the system; in fact, it is even harder to understand</Paragraph>
+</Section>
+</Paper>
+

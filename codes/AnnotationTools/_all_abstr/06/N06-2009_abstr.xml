@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N06-2009">
+<Title>Answering the Question You Wish They Had Asked: The Impact of Paraphrasing for Question Answering</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> State-of-the-art Question Answering (QA) systems are very sensitive to variations in the phrasing of an information need.</Paragraph>
+<Paragraph position="1"> Finding the preferred language for such a need is a valuable task. We investigate that claim by adopting a simple MT-based paraphrasing technique and evaluating QA system performance on paraphrased questions. We found a potential increase of 35% in MRR with respect to the original question.</Paragraph>
+</Section>
+</Paper>
+

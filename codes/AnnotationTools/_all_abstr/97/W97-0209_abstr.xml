@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0209">
+<Title>Selectional Preference and Sense Disambiguation</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The absence of training data is a real problem for corpus-based approaches to sense disambiguation, one that is unlikely to be solved soon. Selectional preference is traditionally connected with sense ambiguity; this paper explores how a statistical model of selectional preference, requiring neither manual annotation of selection restrictions nor supervised training, can be used in sense disambiguation.</Paragraph>
+</Section>
+</Paper>
+

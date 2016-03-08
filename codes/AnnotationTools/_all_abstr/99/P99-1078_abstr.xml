@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P99-1078">
+<Title>Using Linguistic Knowledge in Automatic Abstracting</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present work on the automatic generation of short indicative-informative abstracts of scientific and technical articles. The indicative part of the abstract identifies the topics of the document while the informative part of the abstract elaborate some topics according to the reader's interest by motivating the topics, describing entities and defining concepts. We have defined our method of automatic abstracting by studying a corpus professional abstracts. The method also considers the reader's interest as essential in the process of abstracting.</Paragraph>
+</Section>
+</Paper>
+

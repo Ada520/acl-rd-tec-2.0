@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C94-2167">
+<Title>A METHODOLOGY FOR AUTOMATIC TERM RECOGNITION</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 INTRODUCTION
+</SectionTitle>
+<Paragraph position="0"> The topic of automatic term recognition (ATR) is of great interest especially with the growth of NLP systems, which are passing from the development stage to the application stage. The application of NLP technology involves customlsing systems towards specific needs, particularly in specialised domains (sublanguages) which form the main target of the technology~ There is thus an urgent need for high quality, large scale collections of terminologies (with associated linguistic information) for use in NLP system dictionaries.</Paragraph>
+<Paragraph position="1"> The existence of coherently built terminologies leads to better performance for many interesting applications: translation, technical writing (in the mother tongue or in a foreign language), multilingual (multimedial) document production, classifying, indexing, archiving and retrieving docmnents (monolingual and multilingual), extracting, reorganizing and reformulating knowledge represented in textual form (Iteid,U. and McNaught 1991).</Paragraph>
+<Paragraph position="2"> Given the amount of specialised texts that need to be processed in efforts to discover (potential) terms, keep track of the life-cycle of terms, etc., it is of interest to consider the design of (semi)automatic aids. A term recognition tool would be a great aid to special lexicographers. It is only an aid~ however, if it incorporates linguistic and terminological knowledge such that it makes largely accurate proposals. It is with the design of such a tool that we have been particularly concerned and we report below on various aspects with which we have had success. We do not claim to have solved the term recognition problem. As we shall see, there are many different kinds of term formations each of which calls for different techniques and different knowledge: our work has concentrated on a subset of these.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-2303">
+<Title>Robust Parsing of the Proposition Bank</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we extend an existing statistical parsing model to produce richer output parse trees, annotated with PropBank semantic role labels. Our results show that the model can be robustly extended to produce more complex output parse trees without any loss in performance and suggest that joint inference of syntactic and semantic representations is a viable alternative to approaches based on a pipeline of local processing steps.</Paragraph>
+</Section>
+</Paper>
+

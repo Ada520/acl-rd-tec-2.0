@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-2805">
+<Title>Scalable Construction-Based Parsing and Semantic Analysis</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In ScaNaLU 2002, Chang et al presented a scalable natural language formalism called Embodied Construction Grammar (ECG) (Chang et al., 2002). ECG makes deep understanding systems possible because it is a rigorous, unified formalism that incorporates the semantic and pragmatic insights found in cognitive linguistics. The work described in this paper builds on (Chang et al., 2002) because it leverages the ECG formalism to perform deep, scalable construction-based parsing and semantic analysis.</Paragraph>
+</Section>
+</Paper>
+

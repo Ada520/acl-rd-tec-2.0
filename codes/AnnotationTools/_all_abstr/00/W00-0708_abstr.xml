@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-0708">
+<Title>Memory-Based Learning for Article Generation</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Article choice can pose difficult problems in applications such as machine translation and automated summarization. In this paper, we investigate the use of corpus data to collect statistical generalizations about article use in English in order to be able to generate articles automatically to supplement a symbolic generator. We use data from the Penn Treebank as input to a memory-based learner (TiMBL 3.0; Daelemans et al., 2000) which predicts whether to generate an article with respect to an English base noun phrase. We discuss competitive results obtained using a variety of lexical, syntactic and semantic features that play an important role in automated article generation.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W01-0905">
+<Title>Two levels of evaluation in a complex NL system</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The QALC question-answering system, developed at LIMSI, has been a participant for two years in the QA track of the TREC conference. In this paper, we present a quantitative evaluation of various modules in our system, based on two criteria: first, the numbers of documents containing the correct answer and selected by the system; secondly, the number of answers found. The first criterion is used for evaluating locally the modules in the system, which contribute in selecting documents that are likely to contain the answer. The second one provides a global evaluation of the system. As such, it also serves for an indirect evaluation of various modules.</Paragraph>
+</Section>
+</Paper>
+

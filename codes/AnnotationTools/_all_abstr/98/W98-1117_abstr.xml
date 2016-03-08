@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-1117">
+<Title>A Maximum-Entropy Partial Parser for Unrestricted Text</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a partial parser that assigns syntactic structures to sequences of part-of-speech tags. The program uses the maximum entropy parameter estimation method, which Mlows a flexible combination of different knowledge sources: the hierarchical structure, parts of speech and phrasal categories. In effect, the parser goes beyond simple bracketing and recognises even fairly complex structures. We give accuracy figures for different applications of the parser.</Paragraph>
+</Section>
+</Paper>
+

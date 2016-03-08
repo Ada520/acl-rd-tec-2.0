@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A97-1048">
+<Title>An Interactive Translation Support Facility for Non-Professional Users</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present an interactive translation method to support non-professional users to write an original document. The method, combining dictionary lookup function and user-guided stepwise interactive machine translation, allows the user to obtain clear result with an easy operation.</Paragraph>
+<Paragraph position="1"> We implemented the method as an English writing support facility that serves as a translation support front-end to an arbitrary application.</Paragraph>
+</Section>
+</Paper>
+

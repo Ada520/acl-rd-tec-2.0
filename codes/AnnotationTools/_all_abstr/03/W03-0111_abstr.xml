@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-0111">
+<Title>Defining and identifying the roles of geographic references within text: Examples from the Great Britain Historical GIS project</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Reliably recognizing, disambiguating, normalizing, storing, and displaying geographic names poses many challenges.</Paragraph>
+<Paragraph position="1"> However, associating each name with a geographical point location cannot be the final stage. We also need to understand each name's role within the document, and its association with adjacent text. The paper develops these points through a discussion of two different types of historical texts, both rich in geographic names: descriptive gazetteer entries and travellers' narratives. It concludes by discussing the limitations of existing mark-up systems in this area.</Paragraph>
+</Section>
+</Paper>
+

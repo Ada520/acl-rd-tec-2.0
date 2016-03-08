@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-1304">
+<Title>I</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> Recent approaches to statistical parsing include those that estimate an approximation of a stochastic, lexicalized ~rammar directly from a treebank (Colll-.q~ 1997; Charuiak, 1997) and others that rebuild trees with a number of tree-construction operators, which are applied in order according to a stochastic model when parsing a sentence (Magerman, I995; Ratnaparldd, 1997). The results have been around 86% in labeled precision and recall on the Wall Street Journal treebank (Marcus, Santorini, and Marcinldewicz, 1994).</Paragraph>
+<Paragraph position="1"> In this paper we take an entirely different approach to statistical parsing. We propose a method for left to fight parsing using a Hidden Markov Model (HMM). The results we obtain are not as good as the more general approaches mentioned above, which consider the whole sentence rather then working in an incremental fashion, but the method does give a number of interesting new perspectives. In particular, it can be applied in an environment that requires left to right processing, such as a speech recognition system, it can easily process text that has not been separated into sentences (for example when punctuation is mi~ing or when~processing ungrammatical, spoken text), and it can give a shallow parse (i.e., leaving out long distance dependencies) as it is focused On local context. It also makes the parsing process closer to the way humans process language, although we do not explore this psychological aspect in this paper.</Paragraph>
+<Paragraph position="2"> In the next three sections we will discuss the way we decide the syntactic context of a word (%raversal strings&amp;quot;), how this can be used for parsing and how a tree can be constructed ~om them. The following four sections discuss the HMM model used to predict a syntactic context for every word. The last two sections discuss the results, conclusions and future perspectives.</Paragraph>
+</Section>
+</Paper>
+

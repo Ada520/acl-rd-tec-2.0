@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-1041">
+<Title>Multimedia Re.search Ibaboratories</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Probabilistic models have been widely used for natural language processing.</Paragraph>
+<Paragraph position="1"> Part-of-speech tagging, which assigns the most likely tag to each word in a given sentence, is one. of tire problems which can be solved by statisticM approach. Many researchers haw~ tried to solve the problem by hidden Marker model (HMM), which is well known as one of the statistical models. But it has many difficulties: integrating heterogeneous information, coping with data sparseness prohlem, and adapting to new environments. In this paper, we propose a Markov radom field (MRF) model based approach to the tagging problem.</Paragraph>
+<Paragraph position="2"> The MRF provides the base frame to combine various statistical information with maximum entropy (ME) method.</Paragraph>
+<Paragraph position="3"> As Gibbs distribution can be used to describe a posteriori probability of tagging, we use it in ma.ximum a posteriori (MAP) estimation of optimizing process. Besides, several tagging models are developed to show the effect of adding information. Experimental results show that the performance of the tagger gets improved as we add more statistical information, and that Mt{F-based tagging model is better than ttMM based tagging model in data sparseness problem.</Paragraph>
+</Section>
+</Paper>
+

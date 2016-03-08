@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A97-2002">
+<Title>An Efficient Two Stage Approach to Robust Language Interpretation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> The most basic task of a natural language interface is to map the user's utterance onto some meaning representation which can then be used for further processing. The three biggest challenges which continue to stand in the way of accomplishing even this most basic task are extragrammaticality, ambiguity, and recognition errors. The system presented here, ROSE1: RObustness with Structural Evolution, repairs extragrammatical input in two stages. The first stage, Repair Hypothesis Formation, is responsible for assembling a set of hypotheses about the meaning of the ungrammatical utterance. This stage is itself divided into two steps, Partial Parsing and Combination. In the Combination step, the fragments from a partial parse are assembled into a set of meaning representation hypotheses. In ROSE's second stage, Interaction with the user, the system generates a set of queries and then uses the user's answers to these queries to narrow down to a single best meaning representation hypothesis.</Paragraph>
+</Section>
+</Paper>
+

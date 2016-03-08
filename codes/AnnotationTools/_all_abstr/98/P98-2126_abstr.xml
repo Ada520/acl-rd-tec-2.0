@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-2126">
+<Title>A Test Environment for Natural Language Understanding Systems</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The Natural Language Understanding Engine Test Environment (ETE) is a GUI software tool that aids in the development and maintenance of large, modular, natural language understanding (NLU) systems. Natural language understanding systems are composed of modules (such as part-of-speech taggers, parsers and semantic analyzers) which are difficult to test individually because of the complexity of their output data structures. Not only are the output data structures of the internal modules complex, but also many thousands of test items (messages or sentences) are required to provide a reasonable sample of the linguistic structures of a single human language, even if the language is restricted to a particular domain. The ETE assists in the management and analysis of the thousands of complex data structures created during natural language processing of a large corpus using relational database technology in a network environment.</Paragraph>
+<Paragraph position="1"> Introduction Because of the complexity of the internal data structures and the number of test cases involved in testing a natural language understanding system, evaluation of testing results by manual comparison of the internal data structures is very difficult. The difficulty of examining NLU systems in turn greatly increases the difficulty of developing and extending the coverage of these systems, both because as the system increases in coverage and complexity, extensions become progressively harder to assess and because loss of coverage of previously working test data becomes harder to detect.</Paragraph>
+<Paragraph position="2"> The ETE addresses these problems by:  1. managing batch input of large numbers of tdst sentences or messages, whether spoken or written.</Paragraph>
+<Paragraph position="3"> 2. storing the NLU system output for a batch run into a database.</Paragraph>
+<Paragraph position="4"> 3. automatically comparing multiple levels of  internal NLU data structures across batch runs of the same data with different engine versions. These data structures include part-of-speech tags, syntactic analyses, and semantic analyses.</Paragraph>
+<Paragraph position="5"> 4. flagging and displaying changed portions of these data structures for an analyst's attention. 5. providing access to a variety of database query options to allow an analyst to select inputs of potential interest, for example, those which took an abnormally long time to process, or those which contain certain words. 6. providing a means for the analyst to annotate and record the quality of the various intermediate data structures.</Paragraph>
+<Paragraph position="6"> 7. providing a basis for quantifying both regression and improvement in the NLU system.</Paragraph>
+</Section>
+</Paper>
+

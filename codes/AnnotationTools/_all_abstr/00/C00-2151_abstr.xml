@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-2151">
+<Title>An Experiment On Incremental Analysis Using Robust Parsing Techniques</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The results of an experiment are presented in which an approach for robust parsing has been applied incrementally. They confirm that due to the robust nature of the underlying technology an arbitrary prefix of a sentence can be analysed into an intermediate structural description which is able to direct the further analysis with a high degree of reliability.</Paragraph>
+<Paragraph position="1"> Most notably, this result can be achieved without adapting the gramrnar or the parsing algorithms to the case of increinental processing. The resulting incremental parsing procedure is significantly faster if compared to a non-incremental best-first search.</Paragraph>
+<Paragraph position="2"> Additionally it turns out that longer sentences benefit most from this acceleration.</Paragraph>
+</Section>
+</Paper>
+

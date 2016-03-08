@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C94-1055">
+<Title></Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> TECHI)OC is an inll)lemellted system demonstrating the flmsibility of gep, erating multilingual technical doeulnellts on the hasis of a lallguage-ill(lel)(mdellt knowledge base. Its application domain is user and maintenance instructions, which are produced fl:om underlying plan structures tel)resenting the activities, the p;u'ticipatlng objects with their properties, l'ehttions, and so on. This paper gives a brief outline of the system architecture and discusses some recent developments in the project: the addi-.</Paragraph>
+<Paragraph position="1"> tion of actual event simulation in the KII, steps towards ;t document anthm'int,; tool, and a multilnodal user interface.</Paragraph>
+</Section>
+</Paper>
+

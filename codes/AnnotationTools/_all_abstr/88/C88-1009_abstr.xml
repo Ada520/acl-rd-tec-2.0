@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C88-1009">
+<Title>Feature Graphs and Abstract Data Types: A Unifying Approach</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+BEIERLE at DS#LILOG, PLETAT at DS#LILOG)
+Abstract:
+</SectionTitle>
+<Paragraph position="0"> Feature graphs appearing in unification--based grammar formalisms and algebraic specifications of abstract data types (ADTs) are both used for defining a collection of objects together with functions between these object sets. Starting from this observation we define an algebraic semantics for feature graphs by assigning an algebraic specification to each feature graph. This opens the rich world of semantical foundations for abstract data types to the area of feature graphs and thus to unification grammar formalisms. Using results from ADT theory we define a sim~le and fast syntactic decision procedure testing the usual consistency conditions on feature graphs like constant consistency, constant/complex consistency and acyclicity on the algebraic specification assigned to a feature graph. With this machinery at hand feature graph unification becomes union of feature graph specifications followed by the consistency test.</Paragraph>
+</Section>
+</Paper>
+

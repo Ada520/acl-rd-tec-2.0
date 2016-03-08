@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W99-0624">
+<Title>Lexical ambiguity and Information Retrieval revisited</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A number of previous experiments on the role of lexical ambiguity, in Information Retrieval are reproduced on the'IR-Semcor test collection (derived from Semcor), where both queries and documents are hand-tagged ;with phrases, Part-Of-Speech and WordNet 1.5 senses.</Paragraph>
+<Paragraph position="1"> Our results indicate that a) Word Sense Disambiguation can be more beneficial to Information Retrieval than the experiments of Sanderson (1994) with artificially ambiguous pseudo-words suggested, b) Part-Of-Speech tagging does not seem to help Improving retrieval, even if it is manually annotated, c) Using phrases as indexing terms is not a good strategy if no partial credit is given to the phrase components.</Paragraph>
+</Section>
+</Paper>
+

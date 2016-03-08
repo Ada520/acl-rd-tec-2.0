@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W93-0101">
+<Title>Word Sense Disambiguation by Human Subjects: Computational and Psycholinguistic Applications</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Although automated word sense disambiguation has become a popular activity within computational lexicology, evaluation of the accuracy of disambiguation systems is still mostly limited to manual checking by the developer. This paper describes our work in collecting data on the disambiguation behavior of human subjects, with the intention of providing (I) a norm against which dictionary-based systems (and perhaps others) can be evaluated, and (2) a source of psycholinguistic information about previously unobserved aspects of human disambiguation, for the use of both psycholinguists and computational researchers. We also describe two of our most important tools: a questionnaire of ambiguous test words in various contexts, and a hypertext user interface for efficient and powerful collection of data from human subjects.</Paragraph>
+<Paragraph position="1"> 1 The need for a metric of disambiguation Research in automatic lexical disambiguation has been going on for decades, and in recent years experimental disambiguation systems have proliferated. The problem of determining the accuracy of these systems has been little recognized: the usual check for correctness is a comparison of the test results against the experimenter's own judgment. Even less considered has been the question of what constitutes correctness in disambiguation, beyond the intuitive recognition that some disambiguations are better (&amp;quot;correct&amp;quot;) and others worse (&amp;quot;incorrect&amp;quot;).</Paragraph>
+<Paragraph position="2"> A common approach to disambiguation is to select among the homographs and senses provided by a machine-readable dictionary (e.g. Lesk \[1986\], Byrd \[1989\], Krovetz \[1989\], Slator \[1989\], Guthrie et al. \[1990\], Ide and Veronis \[1990\], and Veronis and Ide \[1990\]. Dictionaries deal with the ambiguity of words by providing multiple definitions for sufficiently ambiguous words. These multiple definitions may be homographs (distinct words of unrelated meaning, whose written forms coincide) or senses (related but nonidentical meanings of a single word).</Paragraph>
+<Paragraph position="3"> The inadequacy of a finite, discrete set of sense definitions to resolve all ambiguities has been pointed out by Boguraev and Pustejovsky \[1990\], Kilgarriff \[1991\], and Ahlswede \[forthcoming\]. For the practical task of disambiguation in natural language processing, however, the dictionary is a valuable and convenient source of sense distinctions; in our view, the best single source.</Paragraph>
+</Section>
+</Paper>
+

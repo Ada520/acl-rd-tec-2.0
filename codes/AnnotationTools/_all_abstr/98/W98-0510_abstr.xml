@@ -1,0 +1,36 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-0510">
+<Title>A Case Study in Implementing Dependency-Based Grammars</Title>
+<Section position="1" start_page="0" end_page="88" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In creating an English grammar checking software product, we implemented a large-coverage grammar based on the dependency grammar formalism. This implementation required some adaptation of current linguistic description to prevent serious overgeneration of parse trees. Here, * we present one particular example, that of preposition stranding and dangling prepositions, where implementing an alternative to existing linguistic analyses is warranted to limit such overgeneration. null Introduction Implementing a linguistic theory such as dependency grammar leads to many types of problems (see the discussion in Fuchs et al, 1993, p.121ff, among others). We will focus on a problem typical of large-scale NLP implementations: some theoretical descriptions entail unforeseen computational costs.</Paragraph>
+<Paragraph position="1"> The linguistic phenomenon chosen to illustrate this problem is the case of so-called stranded and dangling prepositions in English. We will show how our initial description, akin to those presented in the dependency grammar literature, led to inefficiency in the parser. By modifying the grammatical analysis in some cases, rather than the parser itself, an overall improvement was achieved.</Paragraph>
+<Paragraph position="2"> This problem raises the issue of the difficulties inherent in the large-scale implementation of a theoretical grammar which has been designed to describe linguistic phenomena and not as the basis of a parser.</Paragraph>
+<Paragraph position="3"> 1 An implementation of a broad-coverage dependency-based grammar The grammar constitutes the backbone of our grammar checker software for different languages, including French, Spanish, English and Portuguese. Our checkers belong to the third generation of such products, which perform a complete and detailed grammatical analysis of sentences.</Paragraph>
+<Paragraph position="4"> A commercially viable grammar checker must catch all the errors in a text and only those * errors. Crucially,.itmust do so in a relatively short time on moderately powerful machines. Performing an accurate linguistic analysis of texts requires time and appropriate strategies. Some developers avoid the problems associated with performing a complete grammatical analysis by using local (or semilocal) methods of processing instead. It seems obvious, however, that the more linguistic knowledge a checker has, the better its chances of identifying errors.</Paragraph>
+<Paragraph position="5"> Our grammar checker, which performs a complete linguistic analysis of all sentences, is based on a dependency grmmnar. This type of grammar was originally perceived as being intuitively more efficient in computational terms, allowing simple descriptions that can be * parsed in an incremental manner. It has indeed proved to be efficient in our implementation. Some of that efficiency is due to the initial constraints placed on the system, including the following among others. First, every word in the input sentence corresponds to a node in the structure built (with minor exceptions). Second, only adjacent subtrees may be combined. Third, each node may have at most one father. These restrictions also limit the types of linguistic analyses we can implement, as we will illustrate.</Paragraph>
+<Section position="1" start_page="88" end_page="88" type="sub_section">
+<SectionTitle>
+1.1 The grammar checker software
+</SectionTitle>
+<Paragraph position="0"> The coverage and accuracy of the linguistic descriptions on which our grammar checker is based determine its strength. Grammatical structures that are difficult to describe and explain are not necessarily considered by the layman as being particularly problematic (take for example coordination). Moreover, a commercial product cannot survive if it fails to treat some cases that are obvious to a user. For example, punctuation falls outside the description provided by most syntactic theories but it is pervasive in writtent texts and must be handled and perhaps corrected.</Paragraph>
+<Paragraph position="1"> Our grammar checker is aimed at the general public and is designed to analyze written texts from a range of domains and in a range of styles. It therefore requires a grammar with a very broad coverage as well as a very extensive lexicon.</Paragraph>
+<Paragraph position="2"> It is implemented in C++. The English lexicon consists of 65,000 English root words.</Paragraph>
+<Paragraph position="3"> Syntactic structures handled by the parser include the core of grammar (noun groups, verb groups, prepositional groups, etc.) as well as: declaratives, interrogatives, relatives, exclamatives, imperatives, comparatives, superlatives, most coordinate structures, many elliptical structures, punctuation, constructions belonging to the grammar of correspondence, J such as addresses, and some types of idiomatic expressions.</Paragraph>
+<Paragraph position="4"> The grammar checker proceeds in the following way. It starts by performing a lexical analysis. Some phonetic approximation rules may be used to deal with unrecognized words or to resolve incomplete parses. The syntactic component uses a set of dependency rules, which involve some simplification of the structures postulated within the literature on dependency grammar. Once an analysis is generated, grammatical corrections are performed and the result is displayed to the user.</Paragraph>
+<Paragraph position="5"> Theoretical approaches modelling how humans parse language often start or finish with a semantic representation. Our parser, however, deals only with surface structure.</Paragraph>
+<Paragraph position="6"> There is no semantic component to our product per se, but a small number of semantic features are used. Given the commercial success of our grammar checker, it can be considered a successful implementation.</Paragraph>
+</Section>
+<Section position="2" start_page="88" end_page="88" type="sub_section">
+<SectionTitle>
+1.2 A central problem
+</SectionTitle>
+<Paragraph position="0"> One of the key problems in implementing an NLP system is dealing with combinatorial explosion: in attempting to produce the analysis for a sentence given a potentially very large set of rules, some strategies must be used to reduce the search space. Otherwise the time necessary to complete the computation may be too long.</Paragraph>
+<Paragraph position="1"> We will not exhaust the types of difficulties that were encountered and solved, but will focus primarily on one problem stemming from a linguistic analysis which entailed the creation of a large search space: stranded and dangling prepositions.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

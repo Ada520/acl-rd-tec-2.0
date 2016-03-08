@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-1414">
+<Title>Generating Referring Quantified Expressions</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we describe how quantifiers can be generated in a text generation system. By taking advantage of discourse and ontological information, quantified expressions can replace entities in a text, making the text more fluent and concise. In addition to avoiding ambiguities between distributive and collective readings in universal quantification generation, we will also show how different scope orderings between universal and existential quantitiers will result in different quantified expressions in our algorithm.</Paragraph>
+</Section>
+</Paper>
+

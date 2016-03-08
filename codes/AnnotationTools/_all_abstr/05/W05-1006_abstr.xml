@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W05-1006">
+<Title>Automatic Extraction of Idioms using Graph Analysis and Asymmetric Lexicosyntactic Patterns</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a technique for extracting idioms from text. The technique works by finding patterns such as &amp;quot;thrills and spills&amp;quot;, whose reversals (such as &amp;quot;spills and thrills&amp;quot;) are never encountered. null This method collects not only idioms, but also many phrases that exhibit a strong tendency to occur in one particular order, due apparently to underlying semantic issues. These include hierarchical relationships, gender differences, temporal ordering, and prototype-variant effects.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-2809">
+<Title>HYPERBUG: A Scalable Natural Language Generation Approach</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A scalable natural language generation (NLG) system called HYPERBUG 1 embedded in an agent-based, multimodal dialog system is presented. To motivate this presentation, several scenarios (including a domain shift) are identified where scalability in dialog systems is really needed, and NLG is argued to be one way of easing this desired scalability. Therefore the novel approach to hybrid NLG in the HYPERBUG system is described and the scalability of its parts and resources is investigated. Concluding with a few remarks to discourse generation, we argue that NLG can both contribute to and benefit from scalability in dialog systems.</Paragraph>
+</Section>
+</Paper>
+

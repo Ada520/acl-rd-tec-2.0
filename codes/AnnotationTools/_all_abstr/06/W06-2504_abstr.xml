@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-2504">
+<Title>What's in a name? The automatic recognition of metonymical location names.</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The correct identification of metonymies is not normally a problem for most people. For computers, things are different, however. In Natural Language Processing, metonymy recognition is therefore usually addressed with complex algorithms that rely on hundreds of labelled training examples. This paper investigates two approaches to metonymy recognition that dispense with this complexity, albeit in different ways. The first, an unsupervised approach to Word Sense Discrimination, does not require any labelled training instances. The second, Memory-Based Learning, replaces the complexity of current algorithms by a 'lazy' learning phase.</Paragraph>
+<Paragraph position="1"> While the first approach is often able to identify a metonymical and a literal cluster in the data, it is the second in particular that produces state-of-the-art results.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,26 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E89-1000">
+<Title>Current Issues in Computational Lexical Semantics</Title>
+<Section position="1" start_page="0" end_page="264" type="abstr">
+<SectionTitle>
+PREFACE
+</SectionTitle>
+<Paragraph position="0"> This volume contains texts of the papers presented at the Fourth Conference of the European Chapter of the Association for Computational Linguistics, reserve papers, and tutorial abstracts.</Paragraph>
+<Paragraph position="1"> Over 130 papers were submitted for the conference, and the overall standard was high: it was with regret and difficulty that the Programme Committee were able to accept only 45, even including parallel sessions and reserve papers. We are grateful to all those who submitted papers, to the Programme Committee and referees for reading them, and to all who worked hard on local arrangements. Our thanks in particular to Prof. J. C. Sager and to the secretarial staff of the Centre for Computational Linguistics, UMIST for many forms of moral and material support. Don Walker and the officials of the European Chapter, Maghi King, Beat Buchmann, and Mike Rosner, also did much to make it all possible.</Paragraph>
+<Paragraph position="2">   -X-A descriptive framework for translating speaker's meaning:.</Paragraph>
+<Paragraph position="3"> towards a dialogue translation system between Japanese and English Masako Kume, Gayle K. Sato &amp; Kei Yoshimoto  Discourse places two demands on a communicative agent: (1) the need to comprehend and produce multiple utterances, each being interpreted in the context of those preceding it, and (2) the need to treat utterances as intentional behavior. Both processes seem to be inherently computational. That is, to model changes in context and attention requires consideration of the side effects of understanding and producing utterances. Similarly, interpreting and responding to utterances as intentional behavior requires support for planning and plan inference. This tutorial explores emerging computational models and methods for both contextual and intentional aspects of discourse.</Paragraph>
+<Section position="1" start_page="264" end_page="264" type="sub_section">
+<SectionTitle>
+Combinatory Categorial Grammars
+Mark Steedman (U Penn)
+</SectionTitle>
+<Paragraph position="0"> The session will discuss a generalisation of Categorial Grammar based on the inclusion of a few syntactic operations related to &amp;quot;combinators&amp;quot;, such as functional composition.</Paragraph>
+<Paragraph position="1"> The theory implies a radical revision of accepted notions of surface structure and constituency, with interesting implications for theories of the production and comprehension of spoken and written language.</Paragraph>
+<Paragraph position="2"> The theory will be presented in the first instance as a theory of syntactic competence, with particular attention to constructions involving coordination and unbounded dependency. Attention will be paid to certain universal properties of such constructions across languages. The discussion will then be widened to consider the implications of this theory of syntax for selected problems in prosody and intonation, incremental semantic interpretation, and processing.</Paragraph>
+<Paragraph position="3"> - XV deg The lexicon Bran Boguraev (Cambridge Computer Lab &amp; IBM Yorktown Heights) Knowledge of and about words underlies all natural language processing tasks. This tutorial will focus on the complementary questions of content and format(s) of computational lexicons, after looking in some detail at the specific lexical requirements of natural language processing systems.</Paragraph>
+<Paragraph position="4"> In particular, we will study some recent developments in theories of grammar and lexical semantics, and observe the implications in the way they handle lexical information for the organization of computational lexicons. We will trace, through a number of illustrative examples, issues like formalization of lexical information, flexibility and extendability of lexicon formats, scaling up prototype lexical systems, and acquisition of lexical knowledge, and observe how these inter-relate during the process of designing lexical components for realistic natural language processing systems.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

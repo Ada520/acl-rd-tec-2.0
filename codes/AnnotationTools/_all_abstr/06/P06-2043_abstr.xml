@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P06-2043">
+<Title>Improving English Subcategorization Acquisition with Diathesis Alternations as Heuristic Information</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Automatically acquired lexicons with subcategorization information have already proved accurate and useful enough for some purposes but their accuracy still shows room for improvement. By means of diathesis alternation, this paper proposes a new filtering method, which improved the performance of Korhonen's acquisition system remarkably, with the precision increased to 91.18% and recall unchanged, making the acquired lexicon much more practical for further manual proofreading and other NLP uses.</Paragraph>
+</Section>
+</Paper>
+

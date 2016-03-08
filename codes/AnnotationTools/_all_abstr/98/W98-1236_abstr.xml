@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-1236">
+<Title>Language Model and Sentence Structure Manipulations for Natural Language Application Systems</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a language model and its application to sentence structure manipulations for various natural language applications including human-computer communications. Building a working natural language dialog systems requires the integration of solutions to many of the important subproblems of natural language processing. In order to materialize any of these subproblems, handling of natural language expressions plays a central role; natural language manipulation facilities axe indispensable for any natural language dialog systems. Concept Compound Manipulation Language (CCML) proposed in this paper is intended to provide a practical means to manipulate sentences by means of formal uniform operations.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-2129">
+<Title>Evaluating Response Strategies in a Web-Based Spoken Dialogue Agent</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> While the notion of a cooperative response has been the focus of considerable research in natural language dialogue systems, there has been little empirical work demonstrating how such responses lead to more efficient, natural, or successful dialogues.</Paragraph>
+<Paragraph position="1"> This paper presents an experimental evaluation of two alternative response strategies in TOOT, a spoken dialogue agent that allows users to access train schedules stored on the web via a telephone conversation. We compare the performance of two versions of TOOT (literal and cooperative), by having users carry out a set of tasks with each version. By using hypothesis testing methods, we show that a combination of response strategy, application task, and task/strategy interactions account for various types of performance differences. By using the PARADISE evaluation framework to estimate an overall performance function, we identify inter-dependencies that exist between speech recognition and response strategy. Our results elaborate the conditions under which TOOT' s cooperative rather than literal strategy contributes to greater performance.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N04-1018">
+<Title>Detecting Structural Metadata with Decision Trees and Transformation-Based Learning</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The regular occurrence of dis uencies is a distinguishing characteristic of spontaneous speech. Detecting and removing such dis uencies can substantially improve the usefulness of spontaneous speech transcripts. This paper presents a system that detects various types of dis uencies and other structural information with cues obtained from lexical and prosodic information sources. Speci cally, combinations of decision trees and language models are used to predict sentence ends and interruption points and, given these events, transformation-based learning is used to detect edit dis uencies and conversational llers. Results are reported on human and automatic transcripts of conversational telephone speech.</Paragraph>
+</Section>
+</Paper>
+

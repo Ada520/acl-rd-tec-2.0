@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="X96-1017">
+<Title>( Cable Text + Cable Header J, CorporateSystemCable I Cable Text + Cable Header + Pro f'de Intb Cable Text + Cable Header Cable Deliv~) System Serv~ . \[ (LogsNogsl ~ - % Cable Text + Cable Header + Cable Delivery System Fields \] Sel~d ~bs~ of Cables copied from Doo~mom Ind~z Damb~ Document Index( Database Data \ CANIS / ~ H~d~+ Cable De~vay 4 Prototype Amot~o~+ / t Relatiouel Dlua ~C/~ User Display ( Figure 1.0 - CANIS External Interface Design</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. SUMMARY
+</SectionTitle>
+<Paragraph position="0"> The CANIS customer receives cables from sites world-wide, indexes the entities mentioned in these cables and stores that information for access by analysts at a later date. The CANIS customer indexes large quantifies of information mostly manually, and wishes to reduce the human rescmrces applied to this task.</Paragraph>
+<Paragraph position="1"> Incoming cables are processed, information is extracted and stored in Corporate Databases. Cables with useful data are abstracted and indexed.</Paragraph>
+<Paragraph position="2"> Abstracting captures information about the cable itself: its document number, source, date, etc.</Paragraph>
+<Paragraph position="3"> Indexing captures information about the entities described in the cable: their names, dates of birth, locations, etc.</Paragraph>
+<Paragraph position="4"> The result of the abstracting and indexing process is a set of index records about the entities that were described in a cable.</Paragraph>
+<Paragraph position="5"> When a cable has been abstracted and indexed, its index record(s) are placed in a queue so that they will be stored. When file maintenance is performed (periodically overnight), the index records are stored in the Corporate Database.</Paragraph>
+<Paragraph position="6"> The abstracting and indexing process is a time consuming and laborious task. Analysts must read every cable and extract the infcmnation that should be placed in the new index records or update existing records. Although the abstracting portion of the task has been automated, it is only a small part of the abstracting and indexing process. The majority of the effort is the indexing part of the process. At present, there is little or no automation support for the indexing part of the process.</Paragraph>
+<Paragraph position="7"> The CANIS prototype is intended to assist the CANIS customer with the cable indexing task. CANIS automatically extracts entity information, builds and updates index records from cables, and presents it for review. CANIS' analysts can 1) approve the system generated index records, 2) add more information to the system generated index records, or 3) ignore the system generated index records and create their own.</Paragraph>
+<Paragraph position="8"> CANIS also extracts and stores relationship information (such as family relations, employment, and affiliations). This information is not currently identified or stored during the manual indexing task.</Paragraph>
+<Paragraph position="9"> CANIS is compatible with both the input and output systems currently being used by the CANIS customer.</Paragraph>
+<Paragraph position="10"> CANIS runs on the customer-specified hardware and software plaffozms. However, the prototype CANIS system is a stand-alone system.</Paragraph>
+</Section>
+</Paper>
+

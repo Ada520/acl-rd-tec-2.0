@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C86-1155">
+<Title>Future Di rec t i ons of Mach i n;. ~ Trans l at i on</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Sakyo-ku, Kyoto 606
+JAPAN
+</SectionTitle>
+<Paragraph position="0"> &amp;quot; 1 introduction Good historical surveys and comprehensive current state of the art surveys have already been given for MT by several authors \[Bruderer 1977\] \[Vauquois \].979\] \[Nagao 1983\] \[Tucker 1984, 1985\] \[Slocum \]985a\]. The objectives, the basic design principles and the current stages of development of some of the major groups which aim to develop practical and reasonably large MT systems are found in the special issues on MT of ACL \[Slocum 1985b\], where a comprehensive bibliography of MT from 1973 to 1984 is also given. In addition, \[Nishida 1985\] gives a very clear idea of what is going on in Japanese MT research.</Paragraph>
+<Paragraph position="1"> All of these surveys show that MT has its own history and techniques developed quite separately from the other research areas of natural language processing, especially the areas of natural language understanding (NLU Jn short). The researchers in NLU have repeatedly complained that current MT systems translate texts without understanding them. On the other hand, the MT researchers have claimed that NLU researches have always developed 'proto-type' systems which only deal with texts in strongly restricted subject fietds and cannot be extended to cover various linguistic phenomena found in the other fields. However, it is obvious that the problems concerned with 'understanding texts' cannot be avoided for the future development of high quality translation systems, and, in fact, several experimental systems \[Carbonel\] 11.978, 81\] \[Lytinen 1982\] \[Ishizaki 1986\] \[Nomura 1986\] aims to translate texts through understanding them.</Paragraph>
+<Paragraph position="2"> In this paper, we will discuss several problems concerned with 'understanding and translation', especially how we can integrate the two lines of research, with their different histories and different techniques, into unified frameworks, and the difficulties we might encounter in attempting such an integration. The discussion wil\] reveal some of the reasons why MT researches are so separated from the research in the other application fields of NLP. We will also list some of the key problems, both linguistic and computational, which we encountered during the development of our MT systems, the Mu systems \[Nagao \]984, 85, 86\] \[Tsujii 1984, 85\] \[Nakamura 1984, 86 \] \[Sakamoto 1984\], and whose resolutions we consider to be of essential importance for future MT research and development.</Paragraph>
+</Section>
+</Paper>
+

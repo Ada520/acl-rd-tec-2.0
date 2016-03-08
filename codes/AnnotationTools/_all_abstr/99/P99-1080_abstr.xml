@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P99-1080">
+<Title>A Pylonic Decision-Tree Language Model with Optimal Question Selection</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper discusses a decision-tree approach to the problem of assigning probabilities to words following a given text. In contrast with previous decision-tree language model attempts, an algorithm for selecting nearly optimal questions is considered. The model is to be tested on a standard task, The Wall Street Journal, allowing a fair comparison with the well-known tri-gram model.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-2090">
+<Title>Multi-level Similar Segment Matching Algorithm for Translation Memories and Example-Based Machine Translation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We propose a dynamic programming algorithm for calculaing the similarity between two segmeuts of words of the same language. The similarity is considered as a vector whose coordinates refer to the levels of analysis of the segments. This algorithm is extremely efficient for retrieving the best example in Translation Memory systems.</Paragraph>
+<Paragraph position="1"> The calculus being constructive, it also gives the correspondences between the words of the two segments. This allows the extension of Translation Memory systems towards Example-based Machiue Translation.</Paragraph>
+<Paragraph position="2"> \]Introduction \[n Translation Memory (TM) or Example-Based lVlachine Translation (EBMT) systems, one of lhe decisive tasks is to retrieve from the database, the example that best approaches the input sentence. In Planas (1999) we proposed a two-step retriewd procedure, where a rapid and rough index-based search gives a short list of example candidates, and a refined matching selects the best candidates from this list. This procedure drastically improves the reusability rate of selected examples to 97% at worst, for our English-Japanese TM prototype; with the classical TM strategy, this rate would constantly decline with the number of non matched words.</Paragraph>
+<Paragraph position="3"> It also allows a better recall rate when searching for very similar examples.</Paragraph>
+<Paragraph position="4"> We describe here the Multi-level Similar Seglnent Matching (MSSM) algorithm on which is based the second step of the above retrieval procedure. This algorithm does not only give the distance between the input and the example source segmeuts, but also indicates which words would inatch together. It uses F different levels of data (surface words, lemlnas, parts of speech (POS), etc.) in a combined and uniform way.</Paragraph>
+<Paragraph position="5"> The computation of the worst case requires F*m*(n-m+2) operations, where m and n are respectively the lengths of the input and the candidate (m&lt;=n). This leads to a linear behavior when m and n have similar lengths, which is often the case for TM segmentsL Furthermore, because this algorithm gives the exact matching links (along with the level o1' match) between all of the words of the input and the candidate sentence, it prepares the transfer stage of an evolution of TM that we call Shallow Translation. This involves substituting in the corresponding translated candidate (stored in the melnory), the translation of the substituted words, provided that the input and the candidate are &amp;quot;similar enough&amp;quot;.</Paragraph>
+</Section>
+</Paper>
+

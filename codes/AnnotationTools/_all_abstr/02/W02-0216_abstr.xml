@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-0216">
+<Title>Multi-tasking and Collaborative Activities in Dialogue Systems</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We explain dialogue management techniques for collaborative activities with humans, involving multiple concurrent tasks.</Paragraph>
+<Paragraph position="1"> Conversational context for multiple concurrent activities is represented using a &amp;quot;Dialogue Move Tree&amp;quot; and an &amp;quot;Activity Tree&amp;quot; which support multiple interleaved threads of dialogue about different activities and their execution status. We also describe the incremental message selection, aggregation, and generation method employed in the system.</Paragraph>
+</Section>
+</Paper>
+

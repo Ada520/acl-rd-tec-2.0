@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-1304">
+<Title>Automatic Extraction of Rules for Anaphora Resolution of Japanese Zero Pronouns from Aligned Sentence Pairs</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper proposes a method to extract rules for anaphora resolution of Japanese zero pronouns from aligned sentence pairs.</Paragraph>
+<Paragraph position="1"> The method focuses on the characteristics of Japanese and English in which both the language families and the distribution of zero pronouns are very different. In this method, zero pronouns in the Japanese sentence and the English translation equivalents of their antecedents are extracted from Japanese and English aligned sentence pairs. Then resolution rules for Japanese zero pronouns are automatically extracted using the pairs of Japanese zero pronouns and translation equivalents of their antecedents in English and equivalent word/phrase pairs which were extracted from the aligned sentence pairs, based on the syntactic and semantic structure of the Japanese sentence. This method was implemented in the Japanese-to-English machine translation system, ALT-J/E. The evaluation showed that, for 371 zero pronouns with deictic reference in a sentence set for the evaluation of Japanese-to-English machine translation systems, the rules which were created automatically from Japanese and English aligned sentence pairs correctly resolved 99.2% of zero pronouns in a window test and 87.6% of zero pronouns in a blind test.</Paragraph>
+</Section>
+</Paper>
+

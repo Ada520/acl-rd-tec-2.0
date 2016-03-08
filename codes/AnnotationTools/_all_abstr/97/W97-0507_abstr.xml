@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0507">
+<Title>I Using NLP in the design of a conversation aid for non-speaking children</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> It is difficult to develop an effective computer-based aid to enable children whose speech is hard to understand to participate in social conversations. Such children require a relatively simple device that will enable them to select and produce suitable content for a conversation in real time. We are investigating how an analysis of children's language can be used in the design of such a device. In particular, we believe that an analysis of the pragmatics of children's conversations will provide a basis for predicting from a corpus of plausible utterances those utterances that will be most useful for a particular child. Such an analysis may also be useful for subsequently predicting and locating which of these pre-loaded utterances is likely to be required next during a particular conversation. In addition, we are interested in using computer-based training for the aid.</Paragraph>
+<Paragraph position="1"> Given that all of the child's speech will be produced through the computer-based aid, it may be possible to provide intelligent interactive training.</Paragraph>
+</Section>
+</Paper>
+

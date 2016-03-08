@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P85-1033">
+<Title>A TOOL KIT FOR LEXICON BUILDING</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> This paper describes a set of interactive routines that can be used to create, maintain, and update a computer lexicon. The routines are available to the user as a set of commands resembling a simple operating system. The lexicon produced by this system is based on lexical-semantic relations, but is compatible with a variety of other models of lexicon structure. The lexicon builder is suitable for the generation of moderate-sized vocabularies and has been used to construct a lexicon for a small medical expert system. A future version of the lexicon builder will create a much larger lexicon by parsing definitions from machine-readable dictionaries.</Paragraph>
+</Section>
+</Paper>
+

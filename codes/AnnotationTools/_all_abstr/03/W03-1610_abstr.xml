@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-1610">
+<Title>Optimizing Synonym Extraction Using Monolingual and Bilingual Resources</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Automatically acquiring synonymous words (synonyms) from corpora is a challenging task.</Paragraph>
+<Paragraph position="1"> For this task, methods that use only one kind of resources are inadequate because of low precision or low recall. To improve the performance of synonym extraction, we propose a method to extract synonyms with multiple resources including a monolingual dictionary, a bilingual corpus, and a large monolingual corpus. This approach uses an ensemble to combine the synonyms extracted by individual extractors which use the three resources. Experimental results prove that the three resources are complementary to each other on synonym extraction, and that the ensemble method we used is very effective to improve both precisions and recalls of extracted synonyms.</Paragraph>
+</Section>
+</Paper>
+

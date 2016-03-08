@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="I05-3031">
+<Title>Two-Phase LMR-RC Tagging for Chinese Word Segmentation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we present a Two-Phase LMR-RC Tagging scheme to perform Chinese word segmentation. In the Regular Tagging phase, Chinese sentences are processed similar to the original LMR Tagging. Tagged sentences are then passed to the Correctional Tagging phase, in which the sentences are re-tagged using extra information from the first round tagging results. Two training methods, Separated Mode and Integrated Mode, are proposed to construct the models. Experimental results show that our scheme in Integrated Mode performs the best in terms of accuracy, where Separated Mode is more suitable under limited computational resources.</Paragraph>
+</Section>
+</Paper>
+

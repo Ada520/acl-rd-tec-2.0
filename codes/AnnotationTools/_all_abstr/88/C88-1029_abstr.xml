@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C88-1029">
+<Title>Morphology and cross dependencies In the synthesis of personal pronouns in Romance languages</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes some of the problems that arise from the synthesis of personal pronouns in a system tlrat generates texts in Romance languages. It puts the emphasis first on the fact that fire morphological level has to betaken hire account early in the generation process, second on the numerous &amp;quot;cross dependency&amp;quot; phenomena which are to b,; found when the synthesis of an element X depends upon that of another element Y and when the synthesis of &amp;quot;Y depends upon that of X. The linguistic examples are taken from French and Italian languages, for wlfich a robust generatiort system has been implemented.</Paragraph>
+</Section>
+</Paper>
+

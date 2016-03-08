@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-2168">
+<Title>Acquisii:ion of a Language Computationall Model for NItA&amp;quot;</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Aiistrael
+</SectionTitle>
+<Paragraph position="0"> This paper describes art approach to actively acquire a language computational model.</Paragraph>
+<Paragraph position="1"> The purpose of this acquisition is rapid development of NLP systems. The model is created with the syntax module of the Boas knowledge elicitation system for a quick ramp tip of a standard transfer-.based machine translation system from \[, into English.</Paragraph>
+<Paragraph position="2"> \[ ntroduetlon Resource acquisition for NI.P systems is a well. known bottleneck in language engineering. It would be a clear advantage to have a methodology that could provide a nmch cheaper way of NI,I&amp;quot; resources acquisition. The methodology should be universal in the sense that it could be applied to any language and require no skilled labour of lm)fossionals. Our approach attempts just that.</Paragraph>
+<Paragraph position="3"> We describe it on the example of the syntax module of the Boas knowledge elicitation system tbr a quick ramp tip of a standard transfer-based machine tran&lt;;laliori system from any langnage into English (Nirenburg 1998).</Paragraph>
+<Paragraph position="4"> This work is a parl of an ongoing project devoted to the creation of resources tbr NI,P by eliciting knowledge \[i-on-i intbrnlanis.</Paragraph>
+</Section>
+</Paper>
+

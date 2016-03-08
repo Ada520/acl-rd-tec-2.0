@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W05-1526">
+<Title>Online Statistics for a Unification-Based Dialogue Parser</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe a method for augmenting unification-based deep parsing with statistical methods. We extend and adapt the Bikel parser, which uses head-driven lexical statistics, to dialogue. We show that our augmented parser produces significantly fewer constituents than the baseline system and achieves comparable bracketing accuracy, even yielding slight improvements for longer sentences.</Paragraph>
+</Section>
+</Paper>
+

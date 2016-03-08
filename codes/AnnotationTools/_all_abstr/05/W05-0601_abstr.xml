@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W05-0601">
+<Title>Effective use of WordNet semantics via kernel-based learning</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Research on document similarity has shown that complex representations are not more accurate than the simple bag-ofwords. Term clustering, e.g. using latent semantic indexing, word co-occurrences or synonym relations using a word ontology have been shown not very effective.</Paragraph>
+<Paragraph position="1"> In particular, when to extend the similarity function external prior knowledge is used, e.g. WordNet, the retrieval system decreases its performance. The critical issues here are methods and conditions to integrate such knowledge.</Paragraph>
+<Paragraph position="2"> In this paper we propose kernel functions to add prior knowledge to learning algorithms for document classification. Such kernels use a term similarity measure based on the WordNet hierarchy.</Paragraph>
+<Paragraph position="3"> The kernel trick is used to implement such space in a balanced and statistically coherent way. Cross-validation results show the benefit of the approach for the Support Vector Machines when few training data is available.</Paragraph>
+</Section>
+</Paper>
+

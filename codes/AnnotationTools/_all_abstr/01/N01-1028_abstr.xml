@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N01-1028">
+<Title>Learning optimal dialogue management rules by using reinforcement learning and inductive logic programming</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Developing dialogue systems is a complex process. In particular, designing e cient dialogue management strategies is often di cult as there are no precise guidelines to develop them and no sure test to validate them. Several suggestions have been made recently to use reinforcement learning to search for the optimal management strategy for speci c dialogue situations. These approaches have produced interesting results, including applications involving real world dialogue systems. However, reinforcement learning su ers from the fact that it is state based. In other words, the optimal strategy is expressed as a decision table specifying which action to take in each speci c state. It is therefore di cult to see whether there is any generality across states. This limits the analysis of the optimal strategy and its potential for re-use in other dialogue situations. In this paper we tackle this problem by learning rules that generalize the state-based strategy. These rules are more readable than the underlying strategy and therefore easier to explain and re-use. We also investigate the capability of these rules in directing the search for the optimal strategy by looking for generalization whilst the search proceeds.</Paragraph>
+</Section>
+</Paper>
+

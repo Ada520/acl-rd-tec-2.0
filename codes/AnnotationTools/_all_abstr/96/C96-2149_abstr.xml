@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-2149">
+<Title>Learning Lineal&amp;quot; Precedence Rules</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A system is descril)ed which learns fl'om examples the Linear Precedence rules in an Immediate Dominance/Linear Precedence grammar. Given a particular hnmediate Dominance grammar and hierarchies of feature values potentially rel evant for linearization (=the systelu's bias), the leanler generates appropriate naturM language expressions to be ewduated as positive or negative by a teacher, and produces as output IAnear Precedence rules which can be directly used 1)y the gralnmar.</Paragraph>
+</Section>
+</Paper>
+

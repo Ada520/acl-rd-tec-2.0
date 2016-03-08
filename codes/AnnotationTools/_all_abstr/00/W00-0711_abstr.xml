@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-0711">
+<Title>Learnability: A Self-contained Tutorial for</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A computational framework is presented which is used to model the process by which human language learners acquire the syntactic component of their native language. The focus is feasibility -- is acquisition possible within a reasonable amount of time and/or with a reasonable amount of work? The approach abstracts away from specific linguistic descriptions in order to make a 'broad-stroke' prediction of an acquisition model's behavior by formalizing factors that contribute to cross-linguistic ambiguity. Discussion centers around an application to Fodor's Structural Trigger's Learner (STL) (1998) 1 and concludes with the proposal that successful computational modeling requires a parallel psycholinguistic investigation of the distribution of ambiguity across the domain of human languages.</Paragraph>
+</Section>
+</Paper>
+

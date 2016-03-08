@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E06-2007">
+<Title>Selecting the &amp;quot;Right&amp;quot; Number of Senses Based on Clustering Criterion Functions</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes an unsupervised knowledge-lean methodology for automatically determining the number of senses in which an ambiguous word is used in a large corpus. It is based on the useofglobalcriterionfunctionsthatassess the quality of a clustering solution.</Paragraph>
+</Section>
+</Paper>
+

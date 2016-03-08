@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P06-2080">
+<Title></Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a learning framework for structured support vector models in which boosting and bagging methods are used to construct ensemble models. We also propose a selection method which is based on a switching model among a set of outputs of individual classifiers when dealing with natural language parsing problems. The switching model uses subtrees mined from the corpus and a boosting-based algorithm to select the most appropriate output. The application of the proposed framework on the domain of semantic parsing shows advantages in comparison with the original large margin methods.</Paragraph>
+</Section>
+</Paper>
+

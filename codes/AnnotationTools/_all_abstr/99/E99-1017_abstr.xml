@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E99-1017">
+<Title>Transducers from Rewrite Rules with Backreferences</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Context sensitive rewrite rules have been widely used in several areas of natural language processing, including syntax, morphology, phonology and speech processing. Kaplan and Kay, Karttunen, and Mohri &amp; Sproat have given various algorithms to compile such rewrite rules into finite-state transducers. The present paper extends this work by allowing a limited form of backreferencing in such rules. The explicit use of backreferencing leads to more elegant and general solutions.</Paragraph>
+</Section>
+</Paper>
+

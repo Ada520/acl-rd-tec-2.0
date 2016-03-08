@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C88-2153">
+<Title>Machine Tractable Dictionaries as Tools and Resources for Natural Language Processing</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> This paper discusses three different but related large-scale computational methods for the transformation of machine readable dictionaries (MRDs) into machine tractable dictionaries, i.e., MRDs converted into a format usable for natural language processing tasks. The MRD used is The Longman Dictionary of Contemporary English.</Paragraph>
+</Section>
+</Paper>
+

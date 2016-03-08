@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-1701">
+<Title>Integrating Natural Language Processing into E-learning -- A Case of Czech</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The paper deals with the application of NLP technology in e-learning. We report our research on intelligent platforms for computer-mediated education. Some of the methods described in the paper have already taken part in the end-user applications that are in everyday use, others still wait for their implementation in the form of software products. The main message of the paper is that the language technology, even in the imperfect form of the current state of the art, can significantly enhance today's computer-mediated teaching and learning activities. It is true especially for languages different from English, where the adopted learning management systems often do not support even the basic functionality of a language-oriented search and retrieval of learning objects. As a case study, this paper demonstrates the application of the given ideas for e-learning materials in Czech.</Paragraph>
+</Section>
+</Paper>
+

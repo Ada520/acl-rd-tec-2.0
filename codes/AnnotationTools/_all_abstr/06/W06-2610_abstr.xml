@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-2610">
+<Title>An Ontology-Based Approach to Disambiguation of Semantic Relations</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes experiments in using machine learning for relation disambiguation.</Paragraph>
+<Paragraph position="1"> There have been succesfuld experiments in combining machine learning and ontologies, or light-weight ontologies such as WordNet, for word sense disambiguation. However, what we are trying to do, is to disambiguate complex concepts consisting of two simpler concepts and the relation that holds between them. The motivation behind the approach is to expand existing methods for content based information retrieval. The experiments have been performed using an annotated extract of a corpus, consisting of prepositions surrounded by noun phrases, where the prepositions denote the relation we are trying disambiguate. The results show an unexploited opportunity of including prepositions and the relations they denote, e.g. in content based information retrieval.</Paragraph>
+</Section>
+</Paper>
+

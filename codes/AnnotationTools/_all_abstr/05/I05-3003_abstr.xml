@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="I05-3003">
+<Title>Chinese Deterministic Dependency Analyzer: Examining Effects of Global Features and Root Node Finder</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a method for improving dependency structure analysis of Chinese. Our bottom-up deterministic analyzer adopt Nivre's algorithm (Nivre and Scholz, 2004). Support Vector Machines (SVMs) are utilized to determine the word dependency relations.</Paragraph>
+<Paragraph position="1"> We find that there are two problems in our analyzer and propose two methods to solve them. One problem is that some operations cannot be solved only using local feature. We utilize the global features to solve this. The other problem is that this bottom-up analyzer doesn't use top-down information. We supply the top-down information by constructing SVMs based root node finder to solve this problem. Experimental evaluation on the Penn Chinese Treebank Corpus shows that the proposed extensions improve the parsing accuracy significantly.</Paragraph>
+</Section>
+</Paper>
+

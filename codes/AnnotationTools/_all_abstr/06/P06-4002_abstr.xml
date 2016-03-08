@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P06-4002">
+<Title>Is It Correct? - Towards Web-Based Evaluation of Automatic Natural Language Phrase Generation</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a novel approach for the automatic generation and evaluation of a trivial dialogue phrases database. A trivial dialogue phrase is de ned as an expression used by a chatbot program as the answer of a user input. A transfer-like genetic algorithm (GA) method is used to generating the trivial dialogue phrases for the creation of a natural language generation (NLG) knowledge base. The automatic evaluation of a generated phrase is performed by producing n-grams and retrieving their frequencies from the World Wide Web (WWW). Preliminary experiments show very positive results.</Paragraph>
+</Section>
+</Paper>
+

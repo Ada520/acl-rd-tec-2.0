@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W96-0113">
+<Title>A Re-estimation Method for Stochastic Language Modeling from Ambiguous Observations</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a reestimation method for stochastic language models such as the N-gram model and the Hidden Maxkov Model(HMM) from ambiguous observations. It is applied to model estimation for a tagger from a~ untagged corpus. We make extensions to a previous algorithm that reestimates the N-gram model from an untagged segmented language (e.g., English) text as training data. The new method can estimate not only the N-gram model, but also the HMM from untagged, unsegmented language (e.g., Japanese) text. Credit factors for training data to improve the reliability of the estimated models axe also introduced. In experiments, the extended algorithm could estimate the HMM as well as the N-gram model from an untagged, unsegmented Japanese corpus and the credit factor was effective in improving model accuracy. The use of credit factors is a useful approach to estimating a reliable stochastic language model from untagged corpora which axe noisy by nature.</Paragraph>
+</Section>
+</Paper>
+

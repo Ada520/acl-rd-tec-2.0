@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-2708">
+<Title>Tools for hierarchical annotation of typed dialogue</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> We discuss a set of tools for annotating a complex hierarchical and linguistic structure of tutorial dialogue based on the NITE XML Toolkit (NXT) (Carletta et al., 2003). The NXT API supports multi-layered stand-off data annotation and synchronisation with timed and speech data. Using NXT, we built a set of extensible tools for detailed structure annotation of typed tutorial dialogue, collected from a tutor and student typing via a chat interface. There are several corpora of tutoring done with such chat-style communication techniques (Shah et al., 2002; Jordan and Siler, 2002), however, our annotation presents a special problem because of its detailed hierarchical structure. We applied our annotation methodology to annotating corpora in two different tutoring domains: basic electricity and electronics, and symbolic differentiation.</Paragraph>
+</Section>
+</Paper>
+

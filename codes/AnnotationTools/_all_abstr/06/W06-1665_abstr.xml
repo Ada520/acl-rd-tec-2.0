@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-1665">
+<Title>Sydney, July 2006. c(c)2006 Association for Computational Linguistics Context-Dependent Term Relations for Information Retrieval</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Co-occurrence analysis has been used to determine related words or terms in many NLP-related applications such as query expansion in Information Retrieval (IR).</Paragraph>
+<Paragraph position="1"> However, related words are usually determined with respect to a single word, without relevant information for its application context. For example, the word &amp;quot;programming&amp;quot; may be considered to be strongly related to &amp;quot;Java&amp;quot;, and applied inappropriately to expand a query on &amp;quot;Java travel&amp;quot;. To solve this problem, we propose to add another context word in the relation to specify the appropriate context of the relation, leading to term relations of the form &amp;quot;(Java, travel) - Indonesia&amp;quot;. The extracted relations are used for query expansion in IR. Our experiments on several TREC collections show that this new type of context-dependent relations performs much better than the traditional co-occurrence relations.</Paragraph>
+</Section>
+</Paper>
+

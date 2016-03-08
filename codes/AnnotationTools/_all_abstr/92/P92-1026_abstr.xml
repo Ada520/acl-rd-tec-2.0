@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P92-1026">
+<Title>HANDLING LINEAR PRECEDENCE CONSTRAINTS BY UNIFICATION</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> Linear precedence (LP) rules are widely used for stating word order principles. They have been adopted as constraints by HPSG but no encoding in the formalism has been provided. Since they only order siblings, they are not quite adequate, at least not for German. We propose a notion of LP constraints that applies to linguistically motivated branching domains such as head domains. We show a type-based encoding in an HPSG-style formalism that supports processing.</Paragraph>
+<Paragraph position="1"> The encoding can be achieved by a compilation step.</Paragraph>
+</Section>
+</Paper>
+

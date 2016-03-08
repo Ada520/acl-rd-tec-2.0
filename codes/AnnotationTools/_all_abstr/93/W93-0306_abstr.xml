@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W93-0306">
+<Title>NPtool~ a detector of English noun phrases *</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> NPtool is a fast and accurate system for extracting noun phrases from English texts for the purposes of e.g. information retrieval, translation unit discovery, and corpus studies. After a general introduction, the system architecture is presented in outline. Then follows an examination of a recently written Constraint Syntax. Section 6 reports on the performance of the system.</Paragraph>
+</Section>
+</Paper>
+

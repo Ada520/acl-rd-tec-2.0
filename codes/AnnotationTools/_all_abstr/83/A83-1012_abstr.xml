@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A83-1012">
+<Title>Hendrix, G. G., Sacerdoti, E. D., Sagalowicz, D., and Slocum, J., '*Developing a Natural Language Interface to Complex Data.&amp;quot; Association for Computing Machinery Transactions on Database</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+KNOWLEDGE BASED QUESTION ANSWERING
+</SectionTitle>
+<Paragraph position="0"></Paragraph>
+</Section>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> The natural language database query system incorporated in the KNOBS interactive planning system comprises a dictionary driven parser, APE-II, and script interpreter which yield a conceptual dependency conceptualization as a representation of the manning of user input. A conceptualization pattern matching production system then determines and executes a procedure for extracting the desired information from the database. In contrast to syntax driven Q-A systems, e.$., those based on ATH parsers, AFE-II ia driven bottom-up by expectations associated with word ~eanings. The procesain K of a query is based on the contents of several knowledge sources including the dictionary entries (partial conceptualizations and their expectations), frames representing conceptual dependency primitives, scripts which contain stereotypical knowledge about planning tasks used to infer states enabling or resulting from actions, and two production system rule bases for the inference of implicit case fillers, and for determining the responsive database search. The goals of this approach, all of which are currently at least partially achieved, include utilizing similar representations for questions with similar meanings but widely varying surface structures, developing a powerful mechanism for the disambiguatiou of words with multiple meanings and the determination of pronoun referents, answering questions which require inferences to be understood, and interpreting ellipses and unBra--natical utterances.</Paragraph>
+</Section>
+</Paper>
+

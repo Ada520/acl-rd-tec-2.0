@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-2098">
+<Title>Extraction of Lexical Translations from Non-Aligned Corpora</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A method for extracting lexical translations from non-aligned corpora is proposed to cope with the unavailability of large aligned corpus. The assumption that &amp;quot;translations of two co-occurring words in a source language also co-occur in the target language&amp;quot; is adopted and represented in the stochastic matrix formulation. The translation matrix provides the co-occurring information translated from the source into the target.</Paragraph>
+<Paragraph position="1"> This translated co-occurring information should resemble that of the original in the target when the ambiguity of the translational relation is resolved. An algorithm to obtain the best translation matrix is introduced. Some experiments were performed to evaluate the effectiveness of the ambiguity resolution and the refinement of the dictionary.</Paragraph>
+</Section>
+</Paper>
+

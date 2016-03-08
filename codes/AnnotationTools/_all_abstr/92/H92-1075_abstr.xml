@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H92-1075">
+<Title>Collection and Analyses of WSJ-CSR Data at MIT 1</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> Recently, the DARPA community started a new data collection initiative in the Wall Street Journal (WSJ) domain to support research and development of very large vocabulary continuous speech recognition (CSR) systems. Since August 1991, our group has actively participated in the development of the WSJ-CSR corpus. The purpose of this paper is to document our involvement in this process, from recording and transcription to analyses and distribution. We will also present the results of an experiment investigating the preprocessing of the prompt text.</Paragraph>
+</Section>
+</Paper>
+

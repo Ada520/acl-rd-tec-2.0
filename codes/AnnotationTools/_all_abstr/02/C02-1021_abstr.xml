@@ -1,0 +1,34 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C02-1021">
+<Title>(Semi-)Automatic Detection of Errors in PoS-Tagged Corpora</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a simple yet in practice very efficient technique serving for automatic detection of those positions in a part-of-speech tagged corpus where an error is to be suspected. The approach is based on the idea of learning and later application of &amp;quot;negative bigrams&amp;quot;, i.e. on the search for pairs of adjacent tags which constitute an incorrect configuration in a text of a particular language (in English, e.g., the bigram ARTICLE - FINITE VERB). Further, the paper describes the generalization of the &amp;quot;negative bigrams&amp;quot; into &amp;quot;negative n-grams&amp;quot;, for any natural n, which indeed provides a powerful tool for error detection in a corpus. The implementation is also discussed, as well as evaluation of results of the approach when used for error detection in the NEGRA(r) corpus of German, and the general implications for the quality of results of statistical taggers. Illustrative examples in the text are taken from German, and hence at least a basic command of this language would be helpful for their understanding - due to the complexity of the necessary accompanying explanation, the examples are neither glossed nor translated. However, the central ideas of the paper should be understandable also without any knowledge of German.</Paragraph>
+<Paragraph position="1"> 1. Errors in PoS-Tagged Corpora The importance of correctness (error-freeness) of language resources in general and of tagged corpora in particular cannot probably be overestimated. However, the definition of what constitutes an error in a tagged corpus depends on the intended usage of this corpus.</Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+1.1 If we consider a quite typical case of a
+</SectionTitle>
+<Paragraph position="0"> Part-of-Speech (PoS) tagged corpus used for training statistical taggers, then an error is defined naturally as any deviation from the regularities which the system is expected to learn; in this particular case this means that the corpus should contain neither errors in assignment PoS-tags nor ungrammatical constructions in the corpus body1, since if any of the two cases is present in the corpus, then the learning process necessarily: * gets a confused view of probability distribution of configurations (e.g., trigrams) in a correct text and/or, even worse (and, alas, much more likely) * gets positive evidence also about configurations (e.g., trigrams) which should not occur as the output of tagging linguistically correct texts, while simultaneously getting less evidence about correct configurations.</Paragraph>
+</Section>
+<Section position="2" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+1.2 If we consider PoS-tagged corpora desti-
+</SectionTitle>
+<Paragraph position="0"> nated for testing NLP systems, then obviously they should not contain any errors in tagging (since this would be detrimental to the validity of results of the testing) but on the other hand they should contain a certain amount of ungrammatical constructions, in order to test the behaviour of the tested system on a realistic input.</Paragraph>
+<Paragraph position="1"> Both these cases share the quiet presupposition that the tagset used is linguistically adequate, i.e. it is sufficient for unequivocal and consistent assignment of tags to the source text2.</Paragraph>
+<Paragraph position="2"> 1 In this paper we on purpose do not distinguish between &amp;quot;genuine&amp;quot; ungrammaticality, i.e. one which was present already in the source text, and ungrammaticality which came into being as a result of faulty conversion of the source into the corpus-internal format, e.g., incorrect tokenization, OCR-errors, etc.</Paragraph>
+<Paragraph position="3"> 2 This problem might be - in a very simplified form illustrated on an example of a tagset introducing tags for NOUNs and VERBs only, and then trying to tag the sentence John walks slowly - whichever tag is assigned to the word slowly, it is obviously an incorrect one. Natural as this requirement might</Paragraph>
+</Section>
+<Section position="3" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+1.3 As for using annotated corpora for lin-
+</SectionTitle>
+<Paragraph position="0"> guistic research, then it seems that even inadequacies of tagset are tolerable provided they are marked off properly - in fact, these spots in the corpus might well be quite an important source of linguistic investigation since, more often than not, they constitute direct pointers to occurrences of linguistically &amp;quot;interesting&amp;quot; (or at least &amp;quot;difficult&amp;quot;) constructions in the text.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

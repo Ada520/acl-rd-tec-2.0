@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A97-1005">
+<Title>QuickSet: Multimodal Interaction for Simulation Set-up and Control</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> This paper presents a novel multimodal system applied to the setup and control of distributed interactive simulations.</Paragraph>
+<Paragraph position="1"> We have developed the QuickSet prototype, a pen/voice system running on a hand-held PC, communicating through a distributed agent architecture to NRaD's ~ LeatherNet system, a distributed interactive training simulator built for the US Marine Corps (USMC). The paper briefly describes the system and illustrates its use in multimodal simulation setup.</Paragraph>
+<Paragraph position="2"> KEYWORDS: multimodal interfaces, agent architecture, gesture recognition, speech recognition, natural language processing, distributed interactive simulation.</Paragraph>
+</Section>
+</Paper>
+

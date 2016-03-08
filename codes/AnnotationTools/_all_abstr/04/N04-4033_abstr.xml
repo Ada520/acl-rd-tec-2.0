@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N04-4033">
+<Title>Polarity sensitivity and evaluation order in type-logical grammar</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a novel, type-logical analysis of polarity sensitivity: how negative polarity items (like any and ever) or positive ones (like some) are licensed or prohibited. It takes not just scopal relations but also linear order into account, using the programming-language notions of delimited continuations and evaluation order, respectively. It thus achieves greater empirical coverage than previous proposals.</Paragraph>
+</Section>
+</Paper>
+

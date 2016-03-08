@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H89-2048">
+<Title>Some Applications of Tree-based Modelling to Speech and Language</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+AT,~T Bell Laboratories
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> Several applications of statistical tree-based modelling are described here to problems in speech and language.</Paragraph>
+<Paragraph position="1"> Classification and regression trees are well suited to many of the pattern recognition problems encountered in this area since they (1) statistically select the most significant features involved (2) provide &amp;quot;honest&amp;quot; estimates of their performance, (3) permit both categorical and continuous features to be considered, and (4) allow human interpretation and exploration of their result. First the method is summarized, then its application to automatic stop classification, segment duration prediction for synthesis, phoneme-to-phone classification, and end-of-sentence detection in text are described. For other applications to speech and language, see \[Lucassen 1984\], \[Bahl, et al 1987\].</Paragraph>
+</Section>
+</Paper>
+

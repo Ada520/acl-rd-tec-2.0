@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="T87-1013">
+<Title>Connectionist Models: Not Just a Notational Variant Not a Panacea</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Connectionist models inherently include features and exhibit behaviors which are difficult to achieve with traditional logic-based models. Among the more important of such characteristics are 1) the ability to compute nearest match rather than requiring unification or exact match; 2) learning; 3) fault tolerance through the integration of overlapping modules, each of which may be incomplete or fallible, and 4) the possibility of scaling up such systems by many orders of magnitude, to operate more rapidly or to handle much larger problems, or both. However, it is unlikely that connectionist models will be able to learn all of language from experience, because it is unlikely that a full cognitive system could be built via learning from an initially random network; any successful large-scale connectionist learning system will have to be to some degree &amp;quot;genetically&amp;quot; prewired.</Paragraph>
+</Section>
+</Paper>
+

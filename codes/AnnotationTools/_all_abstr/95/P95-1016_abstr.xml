@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P95-1016">
+<Title>Utilizing Statistical Dialogue Act Processing in Verbmobil</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we present a statistical approach for dialogue act processing in the dialogue component of the speech-to-speech translation system VERBMOBIL. Statistics in dialogue processing is used to predict follow-up dialogue acts. As an application example we show how it supports repair when unexpected dialogue states occur.</Paragraph>
+</Section>
+</Paper>
+

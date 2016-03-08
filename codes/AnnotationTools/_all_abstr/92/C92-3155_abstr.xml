@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C92-3155">
+<Title>JDIh Parsing Italian with a Robust Constraint Grammar ANDREA BOLIOLI LtJC'A DINI (;IOVANNI MALNATI Dims Logic</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Italian is a language presenting a lot of syntactical problems, sucb as a rather unrestricted word order, unbounded agreement controls, long distance structure checkings and so on. Things get worse and worse if we pass from &amp;quot;sentences of linguists&amp;quot; to real texts. In this paper we will present a system able to retrieve and signal syntactic errors in real italian texts.</Paragraph>
+</Section>
+</Paper>
+

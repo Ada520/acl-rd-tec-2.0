@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-3242">
+<Title>Random Forests in Language Modeling</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we explore the use of Random Forests (RFs) (Amit and Geman, 1997; Breiman, 2001) in language modeling, the problem of predicting the next word based on words already seen before. The goal in this work is to develop a new language modeling approach based on randomly grown Decision Trees (DTs) and apply it to automatic speech recognition. We study our RF approach in the context of a2 -gram type language modeling. Unlike regular a2 -gram language models, RF language models have the potential to generalize well to unseen data, even when a complicated history is used. We show that our RF language models are superior to regular a2 -gram language models in reducing both the perplexity (PPL) and word error rate (WER) in a large vocabulary speech recognition system.</Paragraph>
+</Section>
+</Paper>
+

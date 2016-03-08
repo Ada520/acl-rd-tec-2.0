@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-0815">
+<Title>Dependency Based Logical Form Transformations</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a system developed for the transformation of English sentences into a first order logical form representation. The metho dology is centered on the use of a dependency grammar based parser . We demonstrate the suitability of applying a dependency parser based solution to the given task and in turn explain some of the limitations and challenges involved when using such an approach. The efficiencies and deficiencies of our approach are discussed as well as considerations for further enhanc ements. null</Paragraph>
+</Section>
+</Paper>
+

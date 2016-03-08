@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W01-0513">
+<Title>Is Knowledge-Free Induction of Multiword Unit Dictionary Headwords a Solved Problem?</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We seek a knowledge-free method for inducing multiword units from text corpora for use as machine-readable dictionary headwords. We provide two major evaluations of nine existing collocation-finders and illustrate the continuing need for improvement. We use Latent Semantic Analysis to make modest gains in performance, but we show the significant challenges encountered in trying this approach.</Paragraph>
+</Section>
+</Paper>
+

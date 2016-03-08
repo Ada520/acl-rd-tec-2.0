@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0704">
+<Title>Automated Text Summarization in SUMMARIST</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> SUMMARIST is an attempt to create a robust automated text summanzaUon system, based on the 'equation' summarization = topw Ment:ficatwn + mterpretatwn + generatwn We descnbe the system's arclutecture and provide detmls of some of its modules</Paragraph>
+</Section>
+</Paper>
+

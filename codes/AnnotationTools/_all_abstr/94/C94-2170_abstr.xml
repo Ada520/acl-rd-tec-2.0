@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C94-2170">
+<Title></Title>
+<Section position="2" start_page="1049" end_page="1049" type="abstr">
+<SectionTitle>
+2. The Approach
+</SectionTitle>
+<Paragraph position="0"> Rather than developing a new automatic KA theory we have opted for a &amp;quot;practical&amp;quot; approach i.e. a set of tools that can assist the user in a bootstrapping process.</Paragraph>
+<Section position="1" start_page="1049" end_page="1049" type="sub_section">
+<SectionTitle>
+2.1 Principles: Our platform integrates all the
+</SectionTitle>
+<Paragraph position="0"> resources and processes allowing to proceed fi'om raw texts to a structured set of knowledge items (taken to mean words, terms, coucepts, links, rules etc.) extracted fi'om these texts.</Paragraph>
+<Paragraph position="1"> Partners believe that the future industrial tools are to use much more linguistic knowledge than the tools currently available on the market (eg \[SAT92\]). Our goal is not to be 100% exact at the different stages of processing but to help the user rapidly explore various hypotheses.</Paragraph>
+</Section>
+<Section position="2" start_page="1049" end_page="1049" type="sub_section">
+<SectionTitle>
+2.2 Phases: Three main phases organise the
+</SectionTitle>
+<Paragraph position="0"> KES process: &amp;quot;Corpus Characterisation&amp;quot;, &amp;quot;Extraction&amp;quot; and &amp;quot;Structuring&amp;quot;.</Paragraph>
+<Paragraph position="1"> The first step takes as input text in a &amp;quot;KES&amp;quot; SGML format and performs a linguistic tagging of these texts (for more details see section 3.1.1).</Paragraph>
+<Paragraph position="2"> The &amp;quot;extraction&amp;quot; and &amp;quot;structuring&amp;quot; phases are the real core of the KES process: implemented as cooperative processes (rather than purely sequential operations) they allow the manipulation of information found in the results of the previous stage, in the input texts or in lexicons, according to different criteria: linguistic information (morpho-syntactic lags, syntactic properties, thematic roles ...), statistical considerations (frequencies, weights...), &amp;quot;factual data&amp;quot; (eg. typographical structure indicators such as &amp;quot;title&amp;quot;, or &amp;quot;lists&amp;quot; markups...) This in order to select, extract, group items of information and link them together.(c.f, section 3.1.2. for details of the process).</Paragraph>
+<Paragraph position="3"> The main idea is to manipulate &amp;quot;properties&amp;quot; added to words, terms or texts (see the SATO approach) like tags, statistical information, links .... ; our novel contribution is to use linguistic information in all steps to add or control these properties (we can use more information than \[ANI90\]) while staying open to different modelling choices.</Paragraph>
+<Paragraph position="4"> Furthermore, one of our constant concerns is to establish well-defined and standardised exchange formats (SGML DTDs) between the different steps ensuring modularity and simplifying data import/export from/to application databases or tools manipulating textual data.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

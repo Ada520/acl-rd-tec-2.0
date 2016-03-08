@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W01-1302">
+<Title>Specification in terms of interactional properties as a way to optimize the representation of spatial expressions</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The results of the study demonstrate that numerous object-specific restrictions on the use of projective prepositions in English and Russian are predicted by their interactional (functional) semantic properties.</Paragraph>
+<Paragraph position="1"> Object-independent perceptual properties (such as distance between objects, direction of their motion, etc) that seemingly guide the use of the expressions, are also found to be presupposed by their interactional properties. Based on these findings, it is suggested that in addition to a basic geometrical specification, the semantic representation should contain functional information. A computational procedure of matching an expression with a spatial scene should thus include detection of the interactional properties of the scene. They can be determined through (1) retrieval of information about interactional properties of specific objects and (2) determining functionally relevant object-independent perceptual properties of the scene.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P89-1010">
+<Title>Word Association Norms, Mutual Information, and Lexicography</Title>
+<Section position="1" start_page="0" end_page="76" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The term word assaciation is used in a very particular sense in the psycholinguistic literature.</Paragraph>
+<Paragraph position="1"> (Generally speaking, subjects respond quicker than normal to the word &amp;quot;nurse&amp;quot; if it follows a highly associated word such as &amp;quot;doctor.&amp;quot;) We wilt extend the term to provide the basis for a statistical description of a variety of interesting linguistic phenomena, ranging from semantic relations of the doctor/nurse type (content word/content word) to lexico-syntactic co-occurrence constraints between verbs and prepositions (content word/function word). This paper will propose a new objective measure based on the information theoretic notion of mutual information, for estimating word association norms from computer readable corpora.</Paragraph>
+<Paragraph position="2"> (The standard method of obtaining word association norms, testing a few thousand subjects on a few hundred words, is both costly and unreliable.) The , proposed measure, the association ratio, estimates word association norms directly from computer readable corpora, waki,~g it possible to estimate norms for tens of thousands of words.</Paragraph>
+<Paragraph position="3"> I. Meaning and Association It is common practice in linguistics to classify words not only on the basis of their meanings but also on the basis of their co-occurrence with other words.</Paragraph>
+<Paragraph position="4"> Running through the whole Firthian tradition, for example, is the theme that &amp;quot;You shall know a word by the company it keeps&amp;quot; (Firth, 1957).</Paragraph>
+<Paragraph position="5"> &amp;quot;On the one hand, bank C/o.occors with words and expression such u money, nmu. loan, account, ~m. c~z~c.</Paragraph>
+<Paragraph position="6"> o~.ctal, manager, robbery, vaults, wortln# in a, lu action, Fb~Nadonal. of F.ngland, and so forth. On the other hand, we find bank m-occorring with r~r. ~bn, boa:. am (end of course West and Sou~, which have tcqu/red special meanings of their own), on top of the, and of the Rhine.&amp;quot; \[Hanks (1987), p. 127\] The search for increasingly delicate word classes is not new. In lexicography, for example, it goes back at least to the &amp;quot;verb patterns&amp;quot; described in Hornby's Advanced Learner's Dictionary (first edition 1948).</Paragraph>
+<Paragraph position="7"> What is new is that facilities for the computational storage and analysis of large bodies of natural language have developed significantly in recent years, so that it is now becoming possible to test and apply informal assertions of this kind in a more  rigorous way, and to see what company our words do keep.</Paragraph>
+</Section>
+</Paper>
+

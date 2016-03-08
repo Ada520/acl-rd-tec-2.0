@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A83-1005">
+<Title>IR-NLI : AN EXPERT NATURAL LANGUAGE INTERFACE TO ONLINE DATA BASES (o)</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> Constructing natural language interfaces to computer systems often requires achievment of advanced reasoning and expert capabilities in addition to basic natural language understanding. In this paper the above issues are faced in the frame of an actual application concerning the design of a natural language interface for the access to online information retrieval systems. After a short discus sion of the peculiarities of this application, which requires both natural language understanding and reasoning capabilities, the general architecture and fundamental design criteria of a system presently being developed at the University of Udine are then presented, The system, named IR-NLi, is aimed at allowing non-technical users to directly access through natural language the services offered by online data bases. Attention is later focused on the basic functions of IR-NLI, namely, understanding and dialogue, strategy generation, and reasoning. Knowledge represenetation methods and &amp;quot;~igorithms adopted are also illustar~ed. A short example of interaction with IR-LNT~I is presented. Perspectives and direcZions for future research are also discussed.</Paragraph>
+</Section>
+</Paper>
+

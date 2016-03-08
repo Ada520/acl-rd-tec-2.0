@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C02-1107">
+<Title>Example-based Speech Intention Understanding and Its Application to In-Car Spoken Dialogue System</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper proposes a method of speech intention understanding based on dialogue examples.</Paragraph>
+<Paragraph position="1"> The method uses a spoken dialogue corpus with intention tags to regard the intention of each input utterance as that of the sentence to which it is the most similar in the corpus. The degree of similarity is calculated according to the degree of correspondence in morphemes and dependencies between sentences, and it is weighted by the dialogue context information. An experiment on inference of utterance intentions using a large-scale in-car spoken dialogue corpus of CIAIR has shown 68.9% accuracy. Furthermore, we have developed a prototype system of in-car spoken dialogue processing for a restaurant retrieval task based on our method, and confirmed the feasiblity of the system.</Paragraph>
+</Section>
+</Paper>
+

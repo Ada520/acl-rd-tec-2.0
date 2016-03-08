@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W01-0709">
+<Title>A Mixture-of-Experts Framework for Text Classification</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> One of the particular characteristics of text classification tasks is that they present large class imbalances. Such a problem can easily be tackled using re-sampling methods. However, although these approaches are very simple to implement, tuning them most effectively is not an easy task. In particular, it is unclear whether oversampling is more effective than undersampling and which oversampling or undersampling rate should be used. This paper presents a method for combining different expressions of the re-sampling approach in a mixture of experts framework. The proposed combination scheme is evaluated on a very imbalanced subset of the REUTERS-21578 text collection and is shown to be very effective on this domain. null</Paragraph>
+</Section>
+</Paper>
+

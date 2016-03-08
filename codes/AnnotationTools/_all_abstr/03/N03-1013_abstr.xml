@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N03-1013">
+<Title>A Categorial Variation Database for English</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe our approach to the construction and evaluation of a large-scale database called &amp;quot;CatVar&amp;quot; which contains categorial variations of English lexemes. Due to the prevalence of cross-language categorial variation in multilingual applications, our categorial-variation resource may serve as an integral part of a diverse range of natural language applications.</Paragraph>
+<Paragraph position="1"> Thus, the research reported herein overlaps heavily with that of the machine-translation, lexicon-construction, and information-retrieval communities.</Paragraph>
+<Paragraph position="2"> We apply the information-retrieval metrics of precision and recall to evaluate the accuracy and coverage of our database with respect to a human-produced gold standard. This evaluation reveals that the categorial database achieves a high degree of precision and recall.</Paragraph>
+<Paragraph position="3"> Additionally, we demonstrate that the database improves on the linkability of Porter stemmer by over 30%.</Paragraph>
+</Section>
+</Paper>
+

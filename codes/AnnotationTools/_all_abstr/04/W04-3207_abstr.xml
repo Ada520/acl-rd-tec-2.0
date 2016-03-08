@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-3207">
+<Title>Bilingual Parsing with Factored Estimation: Using English to Parse Korean</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe how simple, commonly understood statistical models, such as statistical dependency parsers, probabilistic context-free grammars, and word-to-word translation models, can be effectively combined into a unified bilingual parser that jointly searches for the best English parse, Korean parse, and word alignment, where these hidden structures all constrain each other. The model used for parsing is completely factored into the two parsers and the TM, allowing separate parameter estimation. We evaluate our bilingual parser on the Penn Korean Treebank and against several baseline systems and show improvements parsing Korean with very limited labeled data.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-0612">
+<Title>Population Testing: Extracting Semantic Information On Near-Synonymy From Native Speakers</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Measuring differences between near-synonyms constitutes a major challenge in the development of electronic dictionaries and natural language processing systems. This paper presents a pilot study on how Population Test Method (PTM) may be used as an effective, empirical tool to define near-synonyms in a quantifiable manner. Use of PTM presumes that all knowledge about lexical meaning in a language resides collectively in the mind(s) of its native speakers, and that this intersubjective understanding may be extracted via targeted surveys that encourage creative, thinking responses. In this paper we show (1) examples of such tests performed on a group of high school students in Finland, (2) resulting data from the tests that is surprisingly quantifiable, and (3) a web-based visualization program we are developing to analyze and present the collected data.</Paragraph>
+</Section>
+</Paper>
+

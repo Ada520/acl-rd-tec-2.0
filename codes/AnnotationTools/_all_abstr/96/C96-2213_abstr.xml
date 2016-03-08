@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-2213">
+<Title>Using a Hybrid System of Corpusand Knowledge-Based Techniques to Automate the Induction of a Lexical Sublanguage Grammar</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Porting a Natural Language Processing (NLP) system to a new donmin renmins one of the bottlenecks in syntactic parsing, because of the amount of effort required to fix gaps in the lexicon, and to attune the existing grammar to the idiosyncracics of the new sublanguage. This paper shows how thc process of fitting a lexicalizcd grammar to a domain can be automated to a great extent by using a hybrid system that combines traditimml knowledge-based techniques with a corpus-based approach.</Paragraph>
+</Section>
+</Paper>
+

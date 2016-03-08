@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P01-1030">
+<Title>Fast Decoding and Optimal Decoding for Machine Translation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A good decoding algorithm is critical to the success of any statistical machine translation system. The decoder's job is to find the translation that is most likely according to set of previously learned parameters (and a formula for combining them). Since the space of possible translations is extremely large, typical decoding algorithms are only able to examine a portion of it, thus risking to miss good solutions. In this paper, we compare the speed and output quality of a traditional stack-based decoding algorithm with two new decoders: a fast greedy decoder and a slow but optimal decoder that treats decoding as an integer-programming optimization problem.</Paragraph>
+</Section>
+</Paper>
+

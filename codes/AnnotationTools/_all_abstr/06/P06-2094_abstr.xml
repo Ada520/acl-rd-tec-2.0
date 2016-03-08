@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P06-2094">
+<Title>Sydney, July 2006. c(c)2006 Association for Computational Linguistics On-Demand Information Extraction</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> At present, adapting an Information Extraction system to new topics is an expensive and slow process, requiring some knowledge engineering for each new topic.</Paragraph>
+<Paragraph position="1"> We propose a new paradigm of Information Extraction which operates 'on demand' in response to a user's query. On-demand Information Extraction (ODIE) aims to completely eliminate the customization effort. Given a user's query, the system will automatically create patterns to extract salient relations in the text of the topic, and build tables from the extracted information using paraphrase discovery technology. It relies on recent advances in pattern discovery, paraphrase discovery, and extended named entity tagging. We report on experimental results in which the system created useful tables for many topics, demonstrating the feasibility of this approach. null</Paragraph>
+</Section>
+</Paper>
+

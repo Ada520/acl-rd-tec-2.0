@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E89-1004">
+<Title>Dialog Control in a Natural Language System 1</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> In this paper a method for controlling the dialog in a natural language (NL) system is presented. It provides a deep modeling of information processing based on time dependent propositional attitudes of the interacting agents.</Paragraph>
+<Paragraph position="1"> Knowledge about the state of the dialog is represented in a dedicated language and changes of this state are described by a compact set of rules. An appropriate organization of rule application is introduced including the initiation of an adequate system reaction. Finally the application of the method in an NL consultation system is outlined.</Paragraph>
+</Section>
+</Paper>
+

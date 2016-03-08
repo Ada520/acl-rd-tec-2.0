@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0604">
+<Title>An Object-Oriented Model for the Design of Cross-Domain Dialogue Systems</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Our approach to speech-based dialogue modelling aims to exploit, in the context of an object-oriented architecture, dialogue processing abilities that are common to many application domains. The coded objects that comprise the system contribute both recognition rules and processing rules (heuristics). A Domain Spotter supports the ability to move between domains and between individual skillsets. A Dialogue Model records individual concepts as they occur; notes the extent to which concepts have been confirmed; populates request templates; and fulfils a remembering and reminding role as the system attempts to gather coherent information from an imperfect speech recognition component. Our work will aim to confirm the extent to which the potential strengths of an object-oriented-paradigm (system extensibility, component reuse, etc.) can be realised in a natural language dialogue system, and the extent to which a functionally rich suite of collaborating and inheriting objects can support purposeful human-computer conversations that are adaptable in structure, and wide ranging in subject matter and skillsets.</Paragraph>
+</Section>
+</Paper>
+

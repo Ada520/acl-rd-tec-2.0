@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P04-1084">
+<Title>Generalized Multitext Grammars</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Generalized Multitext Grammar (GMTG) is a synchronous grammar formalism that is weakly equivalent to Linear Context-Free Rewriting Systems (LCFRS), but retains much of the notational and intuitive simplicity of Context-Free Grammar (CFG).</Paragraph>
+<Paragraph position="1"> GMTG allows both synchronous and independent rewriting. Such flexibility facilitates more perspicuous modeling of parallel text than what is possible with other synchronous formalisms. This paper investigates the generative capacity of GMTG, proves that each component grammar of a GMTG retains its generative power, and proposes a generalization of Chomsky Normal Form, which is necessary for synchronous CKY-style parsing.</Paragraph>
+</Section>
+</Paper>
+

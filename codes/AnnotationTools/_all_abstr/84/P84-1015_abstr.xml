@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P84-1015">
+<Title>USES OF C-GP.APHS lil A PROTOTYPE FOR ALrFC~ATIC TRNLSLATION,</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> This paper presents a prototype, not completely operational, that is intended to use c-graphs in the translation of assemblers. Firstly, the formalization of the structure and its principal notions (substructures, classes of substructures, order, etc.) are presented. Next section describes the prototype which is based on a Transformational System as well as on a rewriting system of c-graphs which constitutes the nodes of the Transformational System. The following part discusses a set of operations on the structure. Finally, the implementation in its present state is shown.</Paragraph>
+</Section>
+</Paper>
+

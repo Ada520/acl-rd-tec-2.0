@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-1078">
+<Title>Alignment of Shared Forests for Bilingual Corpora</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Research in example-based machine translation (F,I~MT) has been hampered by the lack of efficient tree alignment algorithms for bilingual corpora. *ghis paper &lt;lescribes an alignment algorithm for F,I~MT whose running time is quadratic in tile size of the input parse trees. 'Phe algorithm uses dynamic programming to score all possible matching nodes between structure-sharing trees or forests.</Paragraph>
+<Paragraph position="1"> We describe the algorithm, various optimizations, and onr implementation.</Paragraph>
+</Section>
+</Paper>
+

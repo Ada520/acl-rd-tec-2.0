@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W01-1629">
+<Title>Spoken Dialogue Control Based on a Turn-minimization Criterion Depending on the Speech Recognition Accuracy</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper proposes a new dialogue control method for spoken dialogue systems. The method configures a dialogue plan so as to minimize the estimated number of turns to complete the dialogue. The number of turns is estimated depending on the current speech recognition accuracy and probability distribution of the true user's request. The proposed method reduces the number ofturns to complete the task at almost any recognition accuracy.</Paragraph>
+</Section>
+</Paper>
+

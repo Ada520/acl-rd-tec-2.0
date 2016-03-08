@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-0706">
+<Title>Architectures for speech-to-speech translation using finite-state models</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Speech-to-speech translation can be approached using finite state models and several ideas borrowed from automatic speech recognition. The models can be Hidden Markov Models for the accoustic part, language models for the source language and finite state transducers for the transfer between the source and target language. A &amp;quot;serial architecture&amp;quot; would use the Hidden Markov and the language models for recognizing input utterance and the transducer for finding the translation. An &amp;quot;integrated architecture&amp;quot;, on the other hand, would integrate all the models in a single network where the search process takes place. The output of this search process is the target word sequence associated to the optimal path. In both architectures, HMMs can be trained from a source-language speech corpus, and the translation model can be learned automatically from a parallel text training corpus. The experiments presented here correspond to speech-input translations from Spanish to English and from Italian to English, in applications involving the interaction (by telephone) of a customer with the front-desk of a hotel.</Paragraph>
+</Section>
+</Paper>
+

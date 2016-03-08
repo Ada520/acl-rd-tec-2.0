@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P01-1001">
+<Title>Wellcome Trust Genome Campus Hinxton</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The 3 billion base pair sequence of the human genome is now available, and attention is focusing on annotating it to extract biological meaning. I will discuss what we have obtained, and the methods that are being used to analyse biological sequences. In particular I will discuss approaches using stochastic grammars analogous to those used in computational linguistics, both for gene finding and protein family classification.</Paragraph>
+</Section>
+</Paper>
+

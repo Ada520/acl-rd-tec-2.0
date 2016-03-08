@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W01-1008">
+<Title>Document Fusion for Comprehensive Event Description</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a fully implemented system for fusing related news stories into a single comprehensive description of an event. The basic components and the underlying algorithm are explained. The system uses a computationally feasible and robust notion of entailment for comparing information stemming from different documents.</Paragraph>
+<Paragraph position="1"> We discuss the issue of evaluating document fusion and provide some preliminary results.</Paragraph>
+</Section>
+</Paper>
+

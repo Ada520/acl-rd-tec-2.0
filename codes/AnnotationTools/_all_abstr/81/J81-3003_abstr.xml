@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J81-3003">
+<Title>Prospects for Computer-Assisted Dialect Adaptation</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1, Introduction
+</SectionTitle>
+<Paragraph position="0"> This paper describes experiments in computer-assisted adaptation of text from one dialect to several others. The principal purposes of the initial explorations reported here were: 1. To discover whether a computer program could convert text in a dialect unintelligible to an informant into easily read (possibly errorful) text in the informant's own dialect.</Paragraph>
+<Paragraph position="1"> 2. To discover what kinds of dialect difference information are needed to support an effective dialect-adapting computer program.</Paragraph>
+<Paragraph position="2"> 3. To discover classes of dialect changes not accounted for in a particular first-draft computer program, thereby to provide data for a detailed examination of whether each class of changes is suitable for performance by a computer program.</Paragraph>
+<Paragraph position="3"> In pursuit of these goals, an experimental computer program was written and applied to text, and its output was field tested.</Paragraph>
+<Paragraph position="4"> In this paper the nature of the language situation is discussed first, followed by a description of the computer program. Then, procedures for checking the computer-adapted text are described, followed by a discussion of the results of this checking. Finally, conclusions are stated.</Paragraph>
+</Section>
+</Paper>
+

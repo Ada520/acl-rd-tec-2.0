@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W01-1626">
+<Title>A Corpus Study of Evaluative and Speculative Language</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a corpus study of evaluative and speculative language.</Paragraph>
+<Paragraph position="1"> Knowledge of such language would be useful in many applications, suchas text categorization and summarization.</Paragraph>
+<Paragraph position="2"> Analyses of annotator agreement and of characteristics of subjective language are performed. This study yields knowledge needed to design eective machine learning systems for identifying subjective language.</Paragraph>
+</Section>
+</Paper>
+

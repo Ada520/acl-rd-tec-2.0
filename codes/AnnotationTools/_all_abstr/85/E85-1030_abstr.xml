@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E85-1030">
+<Title>A NATUWAL LANGUAGE INTERFACE USING A WORLD MODEL</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> Databases are nowadays used by varied and diverse users, many of whom are unfamiliar with the workings of a computer, but who, nevertheless, want to use those databases more easily. Rising to meet this demand, authors are developing a Japanese language interface, called KID, as a database front-end system. KID incorporates a world model representing application and database knowledge to help make databases easier to use.</Paragraph>
+<Paragraph position="1"> KID has the following features: (I) parser extendability and robustness, (2) independence from the application domain, (3) ease of knowledge editing, (4) independence from the database. This paper focuses on the first three features. KID has already been applied to the fields of housing, sales, and drug testing, thus confirming its transportability and practicality.</Paragraph>
+</Section>
+</Paper>
+

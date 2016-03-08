@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P82-1035">
+<Title>Scruffy Text Understanding: Design and Implementation of 'Tolerant' Understanders</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+AB STRACT
+</SectionTitle>
+<Paragraph position="0"> Most large text-understanding systems have been designed under the assumption that the input text will be in reasonably &amp;quot;neat&amp;quot; form, e.g., newspaper stories and other edited texts. However, a great deal of natural language texts e.g.~ memos, rough drafts, conversation transcripts~ etc., have features that differ significantly from &amp;quot;neat&amp;quot; texts, posing special problems for readers, such as misspelled words, missing words, poor syntactic constructlon, missing periods, etc. Our solution to these problems is to make use of exoectations, based both on knowledge of surface English and on world knowledge of the situation being described.</Paragraph>
+<Paragraph position="1"> These syntactic and semantic expectations can be used to figure out unknown words from context, constrain the possible word-senses of words with multiple meanings (ambiguity), fill in missing words (elllpsis), and resolve referents (anaphora).</Paragraph>
+<Paragraph position="2"> This method of using expectations to aid the understanding of &amp;quot;scruffy&amp;quot; texts has been incorporated into a working computer program called NOMAD, which understands scruffy texts in the domain of Navy messages.</Paragraph>
+</Section>
+</Paper>
+

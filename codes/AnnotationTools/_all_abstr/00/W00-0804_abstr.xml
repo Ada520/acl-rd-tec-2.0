@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-0804">
+<Title>Experiments in Word Domain Disambiguation for Parallel Texts</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes some preliminary results about Word Domain Disambiguation, a variant of Word Sense Disambignation where words in a text are tagged with a domain label in place of a sense label. The English WoRDNET and its aligned Italian version, MULTIWORD-NET, both augmented with domain labels, are used as the main information repositories. A baseline algorithm for Word Domain Disambiguation is presented and then compared with a mutual help disambignation strategy, which takes advantages of the shared senses of parallel bilingual texts.</Paragraph>
+</Section>
+</Paper>
+

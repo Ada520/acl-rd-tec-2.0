@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P03-1029">
+<Title>An Improved Extraction Pattern Representation Model for Automatic IE Pattern Acquisition</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Several approaches have been described for the automatic unsupervised acquisition of patterns for information extraction. Each approach is based on a particular model for the patterns to be acquired, such as a predicate-argument structure or a dependency chain. The effect of these alternative models has not been previously studied. In this paper, we compare the prior models and introduce a new model, the Subtree model, based on arbitrary sub-trees of dependency trees. We describe a discovery procedure for this model and demonstrate experimentally an improvement in recall using Subtree patterns.</Paragraph>
+</Section>
+</Paper>
+

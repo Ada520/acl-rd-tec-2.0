@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C82-1009">
+<Title>RECHERCHES SUR EA REPRESENTATION DES CONNAISSANCES LE SYSTEMEARCHES</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+FRANCE
+</SectionTitle>
+<Paragraph position="0"> Ce papier pr~sente ladescription formelle d'un syst~me symbolique de representation de connaissances, le systgme ARCHES. Co~e tout syst~me formel, il est form~ de deux composantes interd~pendantes.</Paragraph>
+<Paragraph position="1"> La premiere est relative aux modalit6s de representation des connaissances qui sont d~termin~es par le langage objet de ARCHES et l'organisation alg~brique de ses ~l~ments. La deuxi~me est relative ~ son activit6 inf~rentielle qui permet de mettre en oeuvre deux types de raisonnement : le raisonnement d~ductif pour lequel un principe de r~solution a ~t~ d~fini ; et le raisonnement analogique fond~ sur un module analogique particulier qui rend consistant le syst~me ARCHES.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-1513">
+<Title>Hdrug. A Flexible and Extendible Development Environment for Natural Language Processing.</Title>
+<Section position="2" start_page="0" end_page="91" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> Hdrug is an environment to develop grammars, parsers and generators for natural languages. The system provides a number of visualisation tools, including visualisation of feature structures, syntax trees, type hierarchies, lexical hierarchies, feature structure trees, definite clause definitions, grammar rules, lexical entries, and graphs of statistical information e.g. concerning cputime requirements of different parsers. Visualisation can be requested for various output formats, including ASCII text format, TK Canvas widget, ~TEX output, and CLiG output (Konrad et ah, 1996).</Paragraph>
+<Paragraph position="1"> Extendibility and flexibility have been major concerns in the design of Hdrug. The Hdrug system provides a small core system with a large library of auxiliary relations which can be included upon demand. Hdrug extends a given NLP system with a graphical user interface and a number of visualisation tools. Applications using Hdrug typically add new features on top of the functionality provided by Hdrug. The system is easily extendible because of the use of the Tcl/Tk scripting language, and the availability of a large set of libraries. Flexibility is obtained by a large number of global flags which can be altered easily to change aspects of the system. Furthermore, a number of hook predicates can be defined to adapt the system to the needs of a particular application.</Paragraph>
+<Paragraph position="2"> The flexibility is illustrated by the fact that Hdrug has been used both for the development of grammars and parsers for practical systems (Boves et al., 1995; van Noord et al., 1996), but also as a tool to experiment with new theoretical notions and alternative processing strategies, such as those discussed by (Carpenter, 1992), (van Noord and Bouma, 1994), (van Noord, 1994). Furthermore, Hdrug has been used extensively both for batch processing of large text corpora, and also for demonstrating particular applications for audiences of non-experts.</Paragraph>
+<Paragraph position="3"> Hdrug is implemented in SICStus Prolog version 3, exploiting the built-in Tcl/Tk library. The Hdrug sources are available free of charge under the Gnu Public Licence copyright restrictions. Further information, including the sources and an on-line manual, is available on the World Wide Web. 1 In this paper we illustrate the functionality of Hdrug, and its extendible and flexible nature, by  means of two examples: ALE and OVIS.</Paragraph>
+</Section>
+</Paper>
+

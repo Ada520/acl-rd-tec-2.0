@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N03-2030">
+<Title>A Hybrid Approach to Content Analysis for Automatic Essay Grading</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present CarmelTC, a novel hybrid text classification approach for automatic essay grading. Our evaluation demonstrates that the hybrid CarmelTC approach outperforms two &amp;quot;bag of words&amp;quot; approaches, namely LSA and a Naive Bayes, as well as a purely symbolic approach.</Paragraph>
+</Section>
+</Paper>
+

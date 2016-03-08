@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A83-1017">
+<Title>Scruffy Text Understanding: Design and Implementation of the NOMAD System</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> The task of understanding unedited naval ship-co-shore messages is implemented in the presence of a large database of domain specific knowledge. The program uses internal syntactic and semantic expectations to analyze the texts and co correct errors that arise during understanding, such as syntactic errors, missing punctuation, and errors of spelling and usage. The output of the system is a veil-formed English translation of the message. This paper describes some of the knowledge mechanisms that have been implemented in the NOMAD system.</Paragraph>
+<Paragraph position="1"> I. Introduction Consider the following message,</Paragraph>
+</Section>
+</Paper>
+

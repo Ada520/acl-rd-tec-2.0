@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-2706">
+<Title>Deep Syntactic Annotation: Tectogrammatical Representation and Beyond</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The requirements of the depth and precision of annotation vary for different intended uses of the corpus but it has been commonly accepted nowadays that the standard annotations of surface structure are only the first steps in a more ambitious research program, aiming at a creation of advanced resources for most different systems of natural language processing and for testing and further enrichment of linguistic and computational theories. Among the several possible directions in which we believe the standard annotation systems should go (and in some cases already attempt to go) beyond the POS tagging or shallow syntactic annotations, the following four are characterized in the present contribution: (i) predicate-argument representation of the underlying syntactic relations as basically corresponding to a rooted tree that can be univocally linearized, (ii) the inclusion of the information structure using very simple means (the left-to-right order of the nodes and three attribute values), (iii) relating this underlying structure (rendering the &amp;quot;linguistic meaning,&amp;quot; i.e. the semantically relevant counterparts of the grammatical means of expression) to certain central aspects of referential semantics (reference assignment and coreferential relations), and (iv) handling of word sense disambiguation. The first three issues are documented in the present paper on the basis of our experience with the development of the structure and scenario of the Prague Dependency Treebank which provides for syntactico-semantic annotation of large text segments from the Czech National Corpus and which is based on a solid theoretical framework. null</Paragraph>
+</Section>
+</Paper>
+

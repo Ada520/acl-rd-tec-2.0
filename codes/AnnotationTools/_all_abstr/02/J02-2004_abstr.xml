@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J02-2004">
+<Title>c(c) 2002 Association for Computational Linguistics Incremental Construction and Maintenance of Minimal Finite-State Automata</Title>
+<Section position="2" start_page="0" end_page="208" type="abstr">
+<SectionTitle>
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> In a recent paper in this journal, Daciuk et al. (2000) describe two methods for constructing incrementally minimal, deterministic, acyclic finite-state automata (dictionaries) from sets of strings: The first method adds strings in dictionary order, and the second one is for unsorted data. Adding an entry is an important dictionary maintenance operation, but so is removing an entry from the dictionary, for example, if it is found to be incorrect. Since ordering cannot obviously be expected in the removal case, we will focus on the second, more general problem (a solution for which has already been sketched by Revuz [2000]).</Paragraph>
+<Paragraph position="1"> But dictionaries or acyclic finite automata have limitations: For instance, if one wants an application to accept all possible integer numbers or Internet addresses, the corresponding finite-state automaton has to be cyclic. In this article, we show a simple and equally efficient method for modifying any minimal finite-state automaton (be it acyclic or not) so that a string is added to or removed from the language it accepts. The algorithm may be straightforwardly derived from customary textbook constructions for the intersection and the complementation of finite-state automata; the resulting algorithm solves the dictionary construction problem addressed by Daciuk et al.'s (2000) second algorithm as a special case.</Paragraph>
+<Paragraph position="2"> [?] Departament de Llenguatges i Sistemes Inform`atics, Universitat d'Alacant, E-03071 Alacant, Spain. E-mail: carrasco@dlsi.ua.es + Departament de Llenguatges i Sistemes Inform`atics, Universitat d'Alacant, E-03071 Alacant, Spain. E-mail: mlf@dlsi.ua.es.</Paragraph>
+<Paragraph position="3">  Computational Linguistics Volume 28, Number 2 This article has the following parts. In Section 2, we give some necessary mathematical preliminaries. The minimal automata resulting from adding or removing a string are described in detail in Section 3; the algorithms are described in Section 4. In Section 5, one addition and one removal example are explained in detail, and some closing remarks are given in Section 6.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-1013">
+<Title>Document Transformations and Information States</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We discuss ways to explore how instructional material needs to be structured to be presented with various degrees of interactivity. We use the TRINDI 1 information state approach to model three different degrees of interactivity and present IMDiS, a small experimental implementation based on the GoDiS dialogue system.</Paragraph>
+</Section>
+</Paper>
+

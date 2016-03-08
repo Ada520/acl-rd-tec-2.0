@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W01-1408">
+<Title>An Efficient A* Search Algorithm for Statistical Machine Translation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we describe an efficient A* search algorithm for statistical machine translation. In contrary to beam-search or greedy approaches it is possible to guarantee the avoidance of search errors with A*. We develop various sophisticated admissible and almost admissible heuristic functions. Especially our newly developped method to perform a multi-pass A* search with an iteratively improved heuristic function allows us to translate even long sentences. We compare the A* search algorithm with a beam-search approach on the Hansards task.</Paragraph>
+</Section>
+</Paper>
+

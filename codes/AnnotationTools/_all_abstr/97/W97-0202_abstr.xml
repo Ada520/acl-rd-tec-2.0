@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0202">
+<Title>Experience in WordNet Sense Tagging in the Wall Street Journal</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper reports on our experience hand tagging the senses of 25 of the most frequent verbs in 12,925 sentences of the Wall Street Journal Treebank corpus (Marcus et al. 1993). The verbs are tagged with respect to senses in WordNet (Miller 1990).</Paragraph>
+<Paragraph position="1"> Some of the annotated verbs can function as both main and auxiliary verbs, and some are often used in idioms. This paper suggests consistently representing these as separate subclasses. Strategies described in the coding instruction for recognizing idioms are described, as well as some challenging ambiguities found in the data.</Paragraph>
+</Section>
+</Paper>
+

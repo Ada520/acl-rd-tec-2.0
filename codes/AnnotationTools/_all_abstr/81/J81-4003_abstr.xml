@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J81-4003">
+<Title>Extraposition Grammars</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> This paper presents a grammar formalism for natural language analysis, called extraposition grammars (XGs), based on the subset of predicate calculus known as definite, or Horn, clauses. It is argued that certain important linguistic phenomena, collectively known in transformational grammar as left extraposition, can be described better in XGs than in earlier grammar formalisms based on definite clauses.</Paragraph>
+<Paragraph position="1"> The XG formalism is an extension of the definite clause grammar (DCG) \[6\] formalism, which is itself a restriction of Colmerauer's formalism of metamorphosis grammars (MGs) \[2\]. Thus XGs and MGs may be seen as two alternative extensions of the same basic formalism, DCGs.</Paragraph>
+<Paragraph position="2"> The argument for XGs will start with a comparison with DCGs. I should point out, however, that the motivation for the development of XGs came from studying large MGs for natural language \[4,7\].</Paragraph>
+<Paragraph position="3"> The relationship between MGs and DCGs is analogous to that between type-0 grammars and context-free grammars. So, some of the linguistic phenomena which are seen as rewriting one sequence of constituents into another might be described better in a MG than in a DCG. However, it will be shown that rewritings such as the one involved in left extraposition cannot easily be described in either of the two formalisms. null Left extraposition has been used by grammarians to describe the form of interrogative sentences and relative clauses, at least in languages such as English, French, Spanish and Portuguese. The importance of these constructions, even in simplified subsets of natural language, such as those used in database interfaces, suggests that a grammar formalism should be able to express them in a clear and concise manner. This is the purpose of XGs.</Paragraph>
+</Section>
+</Paper>
+

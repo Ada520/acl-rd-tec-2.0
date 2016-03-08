@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P04-1017">
+<Title>Improving Pronoun Resolution by Incorporating Coreferential Information of Candidates</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Coreferential information of a candidate, such as the properties of its antecedents, is important for pronoun resolution because it re ects the salience of the candidate in the local discourse.</Paragraph>
+<Paragraph position="1"> Such information, however, is usually ignored in previous learning-based systems. In this paper we present a trainable model which incorporates coreferential information of candidates into pronoun resolution. Preliminary experiments show that our model will boost the resolution performance given the right antecedents of the candidates. We further discuss how to apply our model in real resolution where the antecedents of the candidate are found by a separate noun phrase resolution module. The experimental results show that our model still achieves better performance than the baseline.</Paragraph>
+</Section>
+</Paper>
+

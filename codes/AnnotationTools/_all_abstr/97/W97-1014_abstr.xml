@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-1014">
+<Title>Word Triggers and the EM Algorithm</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we study the use of so-called word trigger pairs to improve an existing language model, which is typically a tri-gram model in combination with a cache component. A word trigger pair is defined as a long-distance word pair. We present two methods to select the most significant single word trigger pairs. The selected trigger pairs are used in a combined model where the interpolation parameters and trigger interaction parameters are trained by the EM algorithm.</Paragraph>
+</Section>
+</Paper>
+

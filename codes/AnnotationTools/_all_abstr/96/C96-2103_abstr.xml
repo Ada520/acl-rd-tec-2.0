@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-2103">
+<Title>Coordination in Tree Adjoining Grammars: Formalization and Implementation*</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we show that an account for coordination can be constructed using the derivation structures in a lexicalized Tree Adjoining Grammar (LTAG).</Paragraph>
+<Paragraph position="1"> We present a notion of derivation in LTAGs that preserves the notion of fixed constituency in the LTAG lexicon while providing the flexibility needed for coordination phenomena. We also discuss the construction of a practical parser for LTAGs that can handle coordination including cases of non-constituent coordination.</Paragraph>
+</Section>
+</Paper>
+

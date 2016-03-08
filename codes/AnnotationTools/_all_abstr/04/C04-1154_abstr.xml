@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1154">
+<Title>Robust Sub-Sentential Alignment of Phrase-Structure Trees</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Data-Oriented Translation (DOT), based on Data-Oriented Parsing (DOP), is a language-independent MT engine which exploits parsed, aligned bitexts to produce very high quality translations. However, data acquisition constitutes a serious bottleneck as DOT requires parsed sentences aligned at both sentential and sub-structural levels. Manual sub-structural alignment is time-consuming, error-prone and requires considerable knowledge of both source and target languages and how they are related. Automating this process is essential in order to carry out the large-scale translation experiments necessary to assess the full potential of DOT.</Paragraph>
+<Paragraph position="1"> We present a novel algorithm which automatically induces sub-structural alignments between context-free phrase structure trees in a fast and consistent fashion requiring little or no knowledge of the language pair. We present results from a number of experiments which indicate that our method provides a serious alternative to manual alignment.</Paragraph>
+</Section>
+</Paper>
+

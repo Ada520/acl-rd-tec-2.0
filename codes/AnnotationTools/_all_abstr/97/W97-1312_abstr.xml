@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-1312">
+<Title>United Kingdom</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The paper raises for discussion a proposal for the semi-automatic annotation of pronoun-antecedent pairs in corpora. The proposal is based on robust knowledge-poor pronoun resolution followed by post-editing.</Paragraph>
+<Paragraph position="1"> The paper is structured as follows. The introduction comments on the fact that automatic identification of referential links in corpora has lagged behind in comparison with similar lexical, syntactical and even semantic tasks. The second section of the paper outlines the author's practical and robust knowledge-based approach to pronoun resolution which will subsequently be put forward as the core of a larger architecture proposed for the automatic tagging of referential links. Section 3 briefly presents other related knowledge-poor approaches, while section 4 discusses the limitations and advantages of the practical approach. The main argument of the paper is to be found in section 5, where we present the idea of developing a semi-automatic environment for annotating anaphoric links and outline the components of such a program. Finally, the conclusion looks at the anticipated success rate of the approach.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1070">
+<Title>Using Bag-of-Concepts to Improve the Performance of Support Vector Machines in Text Categorization</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper investigates the use of concept-based representations for text categorization. We introduce a new approach to create concept-based text representations, and apply it to a standard text categorization collection. The representations are used as input to a Support Vector Machine classifier, and the results show that there are certain categories for which concept-based representations constitute a viable supplement to word-based ones. We also demonstrate how the performance of the Support Vector Machine can be improved by combining representations.</Paragraph>
+</Section>
+</Paper>
+

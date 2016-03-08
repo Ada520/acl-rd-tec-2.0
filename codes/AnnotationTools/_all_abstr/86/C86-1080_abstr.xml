@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C86-1080">
+<Title>Collative Semantics</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> Collative Semantics is a new domain-independent sem,~ntics for NI,P. This paper foeusses on CS, describing tile main issues it addresses (lexical ambiguity, mctonymy, semantic relations, introduction of new information) and general details of its knowledge representation, knowledge structures, techniques for matching together knowledge structures, and the way it records the results of matching in semantic vectors.</Paragraph>
+<Paragraph position="1"> CS has l)een implemented in a natural language program eaiicd recta5 which has been described in detail clsewherc (Fass, 1986). Briefly, the program produces semantic representations of single sentences requiring lexical disambiguation and met(&gt; nymic infereneing. While processing such sentences recta5 computes semantic vectors for the matches between pairs of word-senses which are rich enough to discriminate between instances of conventional relations, semantically redundant relations, contradictory relations, metaphoricM relations and severely anomalous relations between word-sense pairs. Semantic vectors also record the assertion of new information. Meta5 can process all the example sentences given in the next section.</Paragraph>
+</Section>
+</Paper>
+

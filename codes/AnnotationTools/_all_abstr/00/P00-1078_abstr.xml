@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P00-1078">
+<Title>The State of the Art in Thai Language Processing</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper reviews the current state of tec h nology and research progress in the Thai language processing. It resumes the chara c teristics of the Thai language and the a p proaches to overcome the difficulties in each processing task.</Paragraph>
+<Paragraph position="1">  It is obvious that the most fundamental semantic unit in a language is the word . Words are e x plicitly identified in those languages with word boundaries. In Thai, there is no word boundary. Thai words are implicitly recognized and in many cases, they depend on the individual judgement. This causes a lot of difficulties in the Thai language processing. To illustrate the problem, we employed a classic English exa m ple. null The segmentation of &amp;quot; GODISNOWHERE &amp;quot;.  (1) God is now here. God is here.</Paragraph>
+<Paragraph position="2"> (2) God is no where. God doesn't exist.</Paragraph>
+<Paragraph position="3"> (3) God is nowhere. God doesn't exist.</Paragraph>
+<Paragraph position="4">  With the different segmentations, (1) and (2) have absolutely opposite meanings. (2) and (3) are ambiguous that nowhere is one word or two words. And the difficulty becomes greatly a g gravated when unknown words exist.</Paragraph>
+<Paragraph position="5"> As a tonal language, a phoneme with diffe r ent tone has different meaning. Many unique approaches are introduced for both the tone ge n eration in speech synthesis research and tone recognition in speech recognition research. The se difficulties propagate to many levels in the language processing area such as lexical a c quisition, information retrieval, machine tran s lation, speech processing, etc. Furthermore the similar problem also occurs in the levels of se n tence and paragraph.</Paragraph>
+</Section>
+</Paper>
+

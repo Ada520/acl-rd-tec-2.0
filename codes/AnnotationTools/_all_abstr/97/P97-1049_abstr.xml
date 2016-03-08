@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P97-1049">
+<Title>Hierarchical Non-Emitting Markov Models</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe a simple variant of the interpolated Markov model with non-emitting state transitions and prove that it is strictly more powerful than any Markov model.</Paragraph>
+<Paragraph position="1"> Empirical results demonstrate that the non-emitting model outperforms the interpolated model on the Brown corpus and on the Wall Street Journal under a wide range of experimental conditions. The non-emitting model is also much less prone to overtraining.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E06-3002">
+<Title>What Humour Tells Us About Discourse Theories</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Many verbal jokes, like garden path sentences, pose difficulties to models of discourse since the initially primed interpretation needs to be discarded and a new one created based on subsequent statements.</Paragraph>
+<Paragraph position="1"> The effect of the joke depends on the fact that the second (correct) interpretation was not visible earlier. Existing models of discourse semantics in principle generate all interpretations of discourse fragments and carry these until contradicted, and thus the dissonance criteria in humour cannot be met. Computationally, maintaining all possible worlds in a discourse is very inefficient, thus computing only the maximum-likelihood interpretation seems to be a more efficient choice on average.</Paragraph>
+<Paragraph position="2"> In this work we outline a probabilistic lexicon based lexical semantics approach which seems to be a reasonable construct for discourse in general and use some examples from humour to demonstrate its working.</Paragraph>
+</Section>
+</Paper>
+

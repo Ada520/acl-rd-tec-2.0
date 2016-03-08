@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-2503">
+<Title>Using answer set programming to answer complex queries</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we discuss the applicability of the knowledge representation and reasoning language AnsProlog for the design and implementation of query answering systems. We consider a motivating example, and illustrate how AnsProlog can be used to represent defaults, causal relations, and other types of common-sense knowledge needed to properly answer non-trivial questions about the example's domain. null</Paragraph>
+</Section>
+</Paper>
+

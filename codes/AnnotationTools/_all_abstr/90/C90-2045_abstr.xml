@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-2045">
+<Title>An Interactive Japanese Parser for Machine Translation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> fin this paper, we describe a working system for interactive Japanese syntactic an',dysis. A human user can intervene during parsing to hell) the system to produce a correct parse tree. Human interactions are limited to the very simple task of indicating the modifiee (governor) of a phrase, and thus a non-expert native speaker can use the syst:em. The user is free to give any information in ;my order, or even to provide no information. The :.;ystem is being used as the source language analyzer of a Japanese-to-English machine translation ::;ystem currently under development.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E91-1052">
+<Title>An Extension of Earley's Algorithm for S-Attributed Grammars</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Attribute grammars are an elegant formalization of the augmented context-free grammars characteristic of most current natural language systems. This paper presents an extension of Earley's algorithm to Knuth's attribute grammars, considering the case of S-attributed grammars. For this case, we study the conditions on the underlying base grammar under which the extended algorithm may be guaranteed to terminate. Finite partitioning of attribute domains is proposed to guarantee the termination of the algorithm, without the need for any restrictions on the context-free base.</Paragraph>
+</Section>
+</Paper>
+

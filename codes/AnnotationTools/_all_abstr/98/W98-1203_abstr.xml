@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-1203">
+<Title>I Learning a Lexicalized Grammar for German</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In syntax, the trend nowadays is towards lexiealized grammar formalisms. It is now widely accepted that dividing words into wordclasses may serve as a labor-saving mechanism - but at the same time, it discards all detailed information on the idiosyncratic behavior of words. And that is exactly the type of information that may be necessary in order to parse a sentence. For learning approaches, however, lexicalized grammars represent a challenge for the very reason that they include so much detailed and specific information, which is difficult to learn.</Paragraph>
+<Paragraph position="1"> This paper will present an algorithm for learning a , link grammar of German. The problem of data sparseness is tackled by using all the available information from partial parses as well as from an existing grammar fragment and a tagger. This is a report about work in progress so there are no representative results available yet.</Paragraph>
+</Section>
+</Paper>
+

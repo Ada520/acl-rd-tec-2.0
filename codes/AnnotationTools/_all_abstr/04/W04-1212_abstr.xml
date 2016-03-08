@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-1212">
+<Title>Classification from Full Text: A Comparison of Canonical Sections of Scientific Papers</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The accelerating growth in biomedical literature has stimulated activity on automated classification of and information extraction from this literature. The work described here attempts to improve on an earlier classification study associating biological articles to GO codes. It demonstrates the need, under particular assumptions, for more access to full text articles and for the use of Part-of-Speech tagging.</Paragraph>
+</Section>
+</Paper>
+

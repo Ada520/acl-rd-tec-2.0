@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1203">
+<Title>A Natural Language Processing Infrastructure for Turkish</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We built an open-source software platform intended to serve as a common infrastructure that can be of use in the development of new applications involving the processing of Turkish. The platform incorporates a lexicon, a morphological analyzer/generator, and a DCG parser/generator that translates Turkish sentences to predicate logic formulas, and a knowledge base framework. Several developers have already utilized the platform for a variety of applications, including conversation programs and an artificial personal assistant, tools for automatic analysis of rhyme and meter in Turkish folk poems, a prototype sentence-level translator between Albanian, Turkish, and English, natural language interfaces for generating SQL queries and JAVA code, as well as a text tagger used for collecting statistics about Turkish morpheme order for a speech recognition algorithm. The results indicate the adaptability of the infrastructure to different kinds of applications and how it facilitates improvements and modifications.</Paragraph>
+<Paragraph position="1"> Introduction The obvious potential of natural language processing technology for economic, social and cultural progress can be realized more comprehensively if NLP techniques applicable to a wider selection of the languages of the world are developed. Before the full-scale treatment of a new language can start, a considerable amount of effort has to be invested to computerize the lexical, morphological and syntactic specifics of that language, which would be required by any nontrivial application.</Paragraph>
+<Paragraph position="2"> We built an open-source software platform intended to serve as a common infrastructure that can be of use in the development of new applications involving the processing of Turkish. The platform, named TOY (Cetinolu 2001), is essentially a big set of predicates in the logic programming language Prolog. The choice of Prolog, which was designed specifically with computational linguistics applications in mind, as the implementation language for our software has natural consequences for the knowledge representation setup to be used by other programs built on our platform. Prolog is based on first-order predicate calculus, it allows knowledge items to be represented in terms of logic-style facts and rules, and a built-in theorem prover drives the execution of Prolog queries.</Paragraph>
+<Paragraph position="3"> The TOY program's internal organization into source files reflects the three different levels (see Figure 1) on which text-based NLP applications can be based. In terms of that figure, processing at a &amp;quot;deeper&amp;quot; level necessitates all components of &amp;quot;shallower&amp;quot; levels.</Paragraph>
+<Paragraph position="4"> In this paper, we describe this infrastructure and how it was adapted to a variety of applications. Section 2 gives a brief overview of the infrastructure. Section 3 presents the applications based on it.</Paragraph>
+</Section>
+</Paper>
+

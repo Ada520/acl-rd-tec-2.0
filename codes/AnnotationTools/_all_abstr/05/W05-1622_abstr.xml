@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W05-1622">
+<Title></Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes ongoing work on the choice of modal expressions in the generation of recommendations about courses of study within the B.A.program of the Ruhr-Universitat Bochum. We focus our work on the German modal verbs mussen (must), konnen (can), the subjunctive form sollte (should), and durfen (may). The idea is to combine insights from formal semantics into the meaning of modal verbs with requirements for their choice in NLG-systems in order to achieve a linguistically satisfying model of their choice. The overall model is implemented in the CAN-system that plans courses of study and generates recommendations about them.</Paragraph>
+</Section>
+</Paper>
+

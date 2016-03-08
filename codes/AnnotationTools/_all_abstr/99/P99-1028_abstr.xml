@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P99-1028">
+<Title>Resolving Translation Ambiguity and Target Polysemy in Cross-Language Information Retrieval</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper deals with translation ambiguity and target polysemy problems together. Two monolingual balanced corpora are employed to learn word co-occurrence for translation ambiguity resolution, and augmented translation restrictions for target polysemy resolution.</Paragraph>
+<Paragraph position="1"> Experiments show that the model achieves 62.92% of monolingual information retrieval, and is 40.80% addition to the select-all model.</Paragraph>
+<Paragraph position="2"> Combining the target polysemy resolution, the retrieval performance is about 10.11% increase to the model resolving translation ambiguity only.</Paragraph>
+</Section>
+</Paper>
+

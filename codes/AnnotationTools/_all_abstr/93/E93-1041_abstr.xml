@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E93-1041">
+<Title>A Tradeoff between Compositionality and Complexity in the Semantics of Dimensional Adjectives</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Linguistic access to uncertain quantitative knowledge about physical properties is provided by dimensional adjectives, e.g. long-short in the spatial and temporal senses, near-far, fast-slow, etc. Semantic analyses of the dimensional adjectives differ on whether the meaning of the differential comparative (6 cm shorter than) and the equative with factor term (three times as long as) is a compositional function of the meanings the difference and factor terms (6 cm and three times) and the meanings of the simple comparative and equative, respectively. The compositional treatment comes at the price of a meaning representation that some authors (\[Pinkal, 1990\], \[Klein, 1991\]) find objectionally unparsimonious. In this paper, I compare semantic approaches by investigating the complexity of reasoning that they entail; specifically, I show the complexity of constraint propagation over real-valued intervals using the Waltz algorithm in a system where the meaning representations of sentences appear as constraints (cf. \[Davis, 1987\]). It turns out that the compositional account is more complex on this measure.</Paragraph>
+<Paragraph position="1"> However, I argue that we face a tradeoff rather than a knock-down argument against compositionality, since the increased complexity of the compositional approach may be manageable if certain assumptions about the application domain can be made.</Paragraph>
+<Paragraph position="2"> TOPIC AREAS: semantics, AI-methods in computational linguistics</Paragraph>
+</Section>
+</Paper>
+

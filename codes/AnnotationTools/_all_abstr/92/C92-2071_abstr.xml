@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C92-2071">
+<Title>UN SYSTEME INFERENTIEL ORIENTE OBJET POUR DES APPLICATIONS EN LANGUES NATURELLES</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> Up to now, there is still no specific model for solving the problem of natured language representation and reasoning. In this paper, we propose an object oriented form,'dism for supporting knowledge representation, extraction and exploitation in tile context of natural language processing.</Paragraph>
+<Paragraph position="1"> In the natural language analysis, this system is situated after the morpbo-syntax and file linguistic semantics. It represents two classes of concepts: objects of discourse and action schemata, the former resulting from nominal syntngms and the latter from the 'processes'. We are concerned here just by the representation of objects.</Paragraph>
+<Paragraph position="2"> In the natural language discourse, manipulated objects ,are complex objects ~md the reasoning is by uature first inferential and then deductive. To lake into account this kind of reasoning we need a suitable representation: a model of inferential objects.</Paragraph>
+<Paragraph position="3"> The theoretical foundations of the proposed model are Lesniewski's logical systems: tile Calculus of Names and the Mereology. The former is based on a primitive lunctor called &amp;quot;epsilon&amp;quot; interpreted a.s is-a, the latter is based on a part-of relation which is called the &amp;quot;ingredience&amp;quot;. The whole system is supported by these two primitives and theirs derived functions.</Paragraph>
+<Paragraph position="4"> The concepts of our model result from a collaboration between linguists and computer scientists. The main concepts are the intensional and extensional universes, notions and types.</Paragraph>
+<Paragraph position="5"> The possible thferenti,'d reasoning can be of different types : it can concern the status, the denominations, the structures or the &amp;quot;fonctifs&amp;quot; of the objects.</Paragraph>
+</Section>
+</Paper>
+

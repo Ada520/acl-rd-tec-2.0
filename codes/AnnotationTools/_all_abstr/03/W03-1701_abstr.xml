@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-1701">
+<Title>Unsupervised Training for Overlapping Ambiguity Resolution in Chinese Word Segmentation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper proposes an unsupervised training approach to resolving overlapping ambiguities in Chinese word segmentation. We present an ensemble of adapted Naive Bayesian classifiers that can be trained using an unlabelled Chinese text corpus. These classifiers differ in that they use context words within windows of different sizes as features.</Paragraph>
+<Paragraph position="1"> The performance of our approach is evaluated on a manually annotated test set.</Paragraph>
+<Paragraph position="2"> Experimental results show that the proposed approach achieves an accuracy of 94.3%, rivaling the rule-based and supervised training methods.</Paragraph>
+</Section>
+</Paper>
+

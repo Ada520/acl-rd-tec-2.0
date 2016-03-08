@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E93-1053">
+<Title>Localising Barriers Theory</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> Government-Binding Parsing has become attractive in the last few years. A variety of systems have been designed in view of a correspondence as direct as possible with linguistic theory (\[Johnson, 1989\], \[Pollard and Sag, 1991\], \[Kroch, 1989\]). These approaches can be classified by their method of handling global constraints. Global constraints are syntactic in nature: They cover more than one projection. In contrast, local constraints can be checked inside a projection and, thus, lend themselves to a treatment in the lexicon. Conditions on features have been the subject of intensive study and viable logics have been proposed for them (see e.g. the CUF formalism \[Dhrre and Eisele, 1991\], \[Dorna, 1992\]). In this paper, we assume such a unification-based mechanism to take care of local conditions and focus on global constraints. One class of approaches to principle-based parsing (see \[Pollard and Sag, 1991\] for HPSG, \[Kroch, 1989\] for TAG) attempts to reduce global conditions to local constraints and thus to make them accessible to treatment in a feature framework.</Paragraph>
+<Paragraph position="1"> This strategy has been pursued only at the expense of sacrificing the precise formulation of the theory and the definitory power stemming from it. The result has been a shift from the structural perspective assumed by GB theory to the object-oriented view taken by unification formalisms. The other class of approaches (\[Johnson, 1989\]) has allowed the full range of possible restrictions on trees and has incurred potential undecidability for its parsers. We take up a middle stance on the matter in that we propose a separate logic for global constraints and posit that global constraints only work on ancestor lines (see 7).</Paragraph>
+<Paragraph position="2"> We assume &amp;quot;movement&amp;quot; to be encoded by the kind of gap-threading technique familiar from HPSG, LFG.</Paragraph>
+<Paragraph position="3"> In order to integrate global constraints a &amp;quot;state&amp;quot; (information that serves to express barrier configurations in the part of the tree which has already been built up) is associated with each &amp;quot;chain&amp;quot; (information about a moved element). Following H PSG, LFG, we have in mind a rule-based parser. Thus, states are manipulated when rules are chained. We need a calculus that is able to derive global constraints working on a local basis. We begin by developing this calculus hand in hand with an analysis of Chomsky's frame*I wish to thank Robin Cooper, Mark Johnson and Esther KSnig-Baumer for comments on earlier versions of this paper.</Paragraph>
+<Paragraph position="4"> work. We then go on to show that many approaches to barriers theory and a variety of diverse phenomena can be moulded into our format and conclude with an indication of ways to use the system on-line during parsing.</Paragraph>
+</Section>
+</Paper>
+

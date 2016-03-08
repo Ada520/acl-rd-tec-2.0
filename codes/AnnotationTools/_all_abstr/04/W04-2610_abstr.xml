@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-2610">
+<Title>Support Vector Machines Applied to the Classification of Semantic Relations in Nominalized Noun Phrases</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The discovery of semantic relations in text plays an important role in many NLP applications. This paper presents a method for the automatic classification of semantic relations in nominalized noun phrases. Nominalizations represent a subclass of NP constructions in which either the head or the modifier noun is derived from a verb while the other noun is an argument of this verb. Especially designed features are extracted automatically and used in a Support Vector Machine learning model. The paper presents preliminary results for the semantic classification of the most representative NP patterns using four distinct learning models. null</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-0201">
+<Title>Synchronization in an Asynchronous Agent-based Architecture for Dialogue Systems</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Most dialogue architectures are either pipelined or, if agent-based, are restricted to a pipelined owof-information. The TRIPS dialogue architecture is agent-based and asynchronous, with several layers of information ow. We present this architecture and the synchronization issues we encountered in building a truly distributed, agent-based dialogue architecture.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E06-2028">
+<Title>Bayesian Network, a model for NLP?</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The NLP systems often have low performances because they rely on unreliable and heterogeneous knowledge. We show on the task of non-anaphoric it identification how to overcome these handicaps with the Bayesian Network (BN) formalism. The first results are very encouraging compared with the state-of-the-art systems. null</Paragraph>
+</Section>
+</Paper>
+

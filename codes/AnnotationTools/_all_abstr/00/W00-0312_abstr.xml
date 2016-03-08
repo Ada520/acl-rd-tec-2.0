@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-0312">
+<Title>Building a Robust Dialogue System with Limited Data *</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe robustness techniques used in the CommandTalk system at: the recognition level, the parsing level, and th~ dia16gue level, and how these were influenced by the lack of domain data. We used interviews with subject matter experts (SME's) to develop a single grammar for recognition, understanding, and generation, thus eliminating the need for a robust parser. We broadened the coverage of the recognition grammar by allowing word insertions and deletions, and we implemented clarification and correction subdialogues to increase robustness at the dialogue level. We discuss the applicability of these techniques to other domains.</Paragraph>
+</Section>
+</Paper>
+

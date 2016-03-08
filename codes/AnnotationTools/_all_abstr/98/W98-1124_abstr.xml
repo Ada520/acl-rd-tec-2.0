@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-1124">
+<Title>Improving summarization through rhetorical parsing tuning</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We study the relationship between the structure of&amp;quot; discourse and a set of summarization heuristics that are employed by current systems. A tight coupling of the two enables us to learn genre-specific combinations of heuristics that can be used for disambiguation during discourse parsing. The same coupling enables us to construct discourse structures that yield summaries that contain textual units that are not only important according to a variety of position-, title-, and lexical-similarity-based heuristics, but also central to the main claims of texts. A careful analysis of our results enables us to shed some new light on issues related to summary evaluation and learning.</Paragraph>
+</Section>
+</Paper>
+

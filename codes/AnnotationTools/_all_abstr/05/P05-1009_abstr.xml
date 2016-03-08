@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P05-1009">
+<Title>Towards Developing Generation Algorithms for Text-to-Text Applications</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe a new sentence realization framework for text-to-text applications.</Paragraph>
+<Paragraph position="1"> This framework uses IDL-expressions as a representation formalism, and a generation mechanism based on algorithms for intersecting IDL-expressions with probabilistic language models. We present both theoretical and empirical results concerning the correctness and efficiency of these algorithms.</Paragraph>
+</Section>
+</Paper>
+

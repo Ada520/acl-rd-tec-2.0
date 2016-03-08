@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-0415">
+<Title>Using LSA and Noun Coordination Information to Improve the Precision and Recall of Automatic Hyponymy Extraction</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we demonstrate methods of improving both the recall and the precision of automatic methods for extraction of hyponymy (IS A) relations from free text. By applying latent semantic analysis (LSA) to filter extracted hyponymy relations we reduce the rate of error of our initial pattern-based hyponymy extraction by 30%, achieving precision of 58%.</Paragraph>
+<Paragraph position="1"> Applying a graph-based model of noun-noun similarity learned automatically from coordination patterns to previously extracted correct hyponymy relations, we achieve roughly a five-fold increase in the number of correct hyponymy relations extracted.</Paragraph>
+</Section>
+</Paper>
+

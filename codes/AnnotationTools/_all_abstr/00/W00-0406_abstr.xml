@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-0406">
+<Title>Text Summarizer in Use: Lessons Learned from Real World Deployment and Evaluation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1.0 Introduction
+</SectionTitle>
+<Paragraph position="0"> Much of the historical and current summarization literature has been technologycentered with the questions posed and answered having implications for technology development. Though commercial summarization products have appeared in the market place and developers continue to explore new summarization areas, few papers have been user-centered, examining summarization technology in-use. In this ~aaper, we show how applied work and the knowledge gleaned about technology in-use &amp;quot;can temper theoretical considerations and * motivate as well as direct development likely to result in higher return on investment.</Paragraph>
+</Section>
+</Paper>
+

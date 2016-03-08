@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-1408">
+<Title>Using Argumentation Strategies in Automated Argument Generation</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> During argumentation, people persuade their audience using a variety of strategies, e.g., hypothetical reasoning, reasoning by cases and ordinary premise-to-goal arguments. In this paper, we offer an operational definition of the conditions for pursuing these strategies, and incorporate into a Bayesian argument-generation system a mechanism for proposing applicable argumentation strategies, generating specific arguments based on these strategies, and selecting a final argument.</Paragraph>
+</Section>
+</Paper>
+

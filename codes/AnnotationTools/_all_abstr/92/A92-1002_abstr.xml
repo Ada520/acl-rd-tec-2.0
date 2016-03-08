@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A92-1002">
+<Title>A Dialog Control Algorithm and Its Performance</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A pragmatic architecture for voice dialog machines aimed at the equipment repair problem has been implemented which exhibits a number of behaviors required for efficient human-machine dialog. These behaviors include:  (1) problem solving to achieve a target goal, (2) the ability to carry out subdialogs to achieve appropriate subgoals and to pass control arbitrarily from one subdialog to another, (3) the use of a user model to enable useful verbal exchanges and to inhibit unnecessary ones, (4) the ability to change initiative from strongly computer controlled to strongly user controlled or somewhere in between, and (5) the ability to use context dependent expectations to correct speech recognition and track user movement to new subdialogs.</Paragraph>
+<Paragraph position="1">  A description of the implemented dialog control algorithm is given; an example shows the fundamental mechanisms for achieving the listed behaviors. The system implementation is described, and results from its performance in 141 problem solving sessions are given.</Paragraph>
+</Section>
+</Paper>
+

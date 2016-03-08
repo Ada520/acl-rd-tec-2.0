@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-2183">
+<Title>A Descriptive Characterization of Tree-Adjoining Languages (Project Note)</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Since the early Sixties and Seventies it has been known that the regular and context-free languages are characterized by definability in the monadic second-order theory of certain structures. More recently, these descriptive characterizations have been used to obtain complexity results for constraint- and principle-based theories of syntax and to provide a uniform model-theoretic framework for exploring the relationship between theories expressed in disparate formal terms. These results have been limited, to an extent, by the lack of descriptive characterizations of language classes beyond the context-free. Recently, we have shown that tree-adjoining languages (in a mildly generalized form) can be characterized by recognition by automata operating on three-dimensional tree manifolds, a three-dimensional analog of trees. In this paper, we exploit these automata-theoretic results to obtain a characterization of the tree-adjoining languages by definability in the monadic second-order theory of these three-dimensional tree manifolds. This not only opens the way to extending the tools of model-theoretic syntax to the level of TALs, but provides a highly flexible mechanism for defining TAGs in terms of logical constraints.</Paragraph>
+</Section>
+</Paper>
+

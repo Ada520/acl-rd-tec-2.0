@@ -1,0 +1,28 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P81-1005">
+<Title>REPRESENTATION</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+DOMAIN AND TASK
+</SectionTitle>
+<Paragraph position="0"> PHONY is a program to do phonological analysis. Within the generative model of grammar the function of the phonological component is to assign a phonetic representation to an utterance by modifying the underlying representations (URs) of its constituent morphemes. Morphemes are the minimal meaning units of language, i.e. the smallest units in the expression system which can be correlated with any part of the content system, e.g. un+tir+ing+ly. URs are abstract entities which contain the idiosyncratic information about pronounciations of morphemes.</Paragraph>
+<Paragraph position="1">  Phonological analysis attempts to determine the nature of the URs and to discover the general principles or rules that relate them to the phonetic representations.</Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+Rules
+</SectionTitle>
+<Paragraph position="0"> The input to PHONY are pronounciations of words and phrases upon which a preliminary morphological analysis has been completed.</Paragraph>
+<Paragraph position="1"> They have been divided into morphemes, and different instances of the same morpheme have been associated. These are represented as strings of phonetic symbols including morpheme- and word-boundaries. Indices are used to associate various instances of the same morpheme.</Paragraph>
+<Paragraph position="2"> (3) # i s a r a p # # 1 s a r a b + 2 d a # # 1 s a r a v + 3 u # # 1 s a rav + 4 e # # 5 a d + 6 a # # 5 a t # ,,, The output of PHONY is a set of phonological rules or regularities in the data, as well as a set of 'underlying representations' for the morphemes. The phonological rules generate the various pronounciations of the morphemes from their underlying representations.</Paragraph>
+<Paragraph position="3"> *This research was supported in part by</Paragraph>
+</Section>
+<Section position="2" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+National Science Foundation grant
+</SectionTitle>
+<Paragraph position="0"> number MCS 81-02291.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

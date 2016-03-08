@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0123">
+<Title>Maximum Entropy Model Learning of Subcategorization Preference* I t-</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper proposes a novel method for learning probabilistic models of subcategorization preference of verbs. Especially, we propose to consider the issues of case dependencie~ and noun class generalization in a uniform way. We adopt the maximum entropy model learn~,g method and apply it to the task of model learning of subcategorization preference. Case dependencies and noun class generalization are represented as featura~ in the maximum entropy approach.</Paragraph>
+<Paragraph position="1"> The feature selection facility of the maximum entropy model learning makes it possible to find optimal case dependencies and optimal noun c!~ generalization levels. We describe the results of the experiment on learning probabilistic models of subcategorization preference f~om the EDR Japanese bracketed corpus. We also evaluated the performance of the selected features and their estimated parameters in the subcategorization preference task.</Paragraph>
+</Section>
+</Paper>
+

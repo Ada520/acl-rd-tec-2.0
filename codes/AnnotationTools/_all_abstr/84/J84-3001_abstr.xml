@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J84-3001">
+<Title>On the Mathematical Properties of Linguistic Theories I</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> The development of new formalisms for expressing linguistic theories has been accompanied, at least since Chomsky and Miller's early work on context-free languages, by the study of their metatheory. In particular, numerous results on the decidability, generative capacity, and, more recently, the recognition complexity of these formalisms have been published (and rumored!). This paper surveys some of these results and discusses their significance for linguistic theory. However, we will avoid entirely the issue of whether one theory is more descriptively adequate than another. We will consider context* free, transformational, lexical-functional, generalized phrase structure, tree adjunct, and stratificational grammars) Although this paper focuses on metatheoretic results as arbiters among theories as models of human linguistic capacities, they may have other uses as well. Complexity results could be utilized for making decisions about the implementation of parsers as components of computer-based language-understanding systems. However, as Stanley Peters has pointed out, no one should underestimate&amp;quot;the pleasure to be derived from ferreting out these results! 3</Paragraph>
+</Section>
+</Paper>
+

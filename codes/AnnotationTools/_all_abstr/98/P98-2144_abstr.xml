@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-2144">
+<Title>HPSG-Style Underspecified Japanese Grammar with Wide Coverage</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a wide-coverage Japanese grammar based on HPSG. The aim of this work is to see the coverage and accuracy attainable using an underspecified grammar. Underspecification, allowed in a typed feature structure formalism, enables us to write down a wide-coverage grammar concisely. The grammar we have implemented consists of only 6 ID schemata, 68 lexical entries (assigned to functional words), and 63 lexical entry templates (assigned to parts of speech (BOSs)). Furthermore. word-specific constraints such as subcategorization of verbs are not fixed in the grammar. However. this granllnar call generate parse trees for 87% of the 10000 sentences in the Japanese EDR corpus. The dependency accuracy is 78% when a parser uses the heuristic that every bunsetsu 1 is attached to the nearest possible one.</Paragraph>
+</Section>
+</Paper>
+

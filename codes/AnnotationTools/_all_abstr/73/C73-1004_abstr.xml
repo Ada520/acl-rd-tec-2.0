@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C73-1004">
+<Title>CONSTRUCTIBLE REPRESENTATIONS FOR TWO SEMANTIC RELATIONS</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+FRANK G. PAGAN
+CONSTRUCTIBLE REPRESENTATIONS
+FOR TWO SEMANTIC RELATIONS
+1. INTRODUCTION
+</SectionTitle>
+<Paragraph position="0"> This paper is concerned with semantic (or lexical) structures of the type used in programs which involve natural language processing, such as question-answering systems. These structures, which generally take the form of graphs representing semantic relations defined on word senses, must satisfy some rather self-evident requirements relating to their linguistic significance and adequacy and to their suitability for computational implementation. In addition, if the lexical subsets in question are to be nontrivial in size, the structures must be constructible in some systematic, consistent way, preferably with the aid of a computer. The structures which have been used in existing experim.ental systems, such as those reported in M. R. QUILLIAN (1969) and K. M. SCaWARCZ, J. F. BtraGrR, K. F. SIMMONS (1970), have generally been very restricted, and it has been argued (S. Y. S~D~OW, 1972) that it is their lack of constructibility which has precluded the possibility of extending them.</Paragraph>
+<Paragraph position="1"> The aim of this paper is to describe two examples of the use of constructibility as a design criterion for semantic structures. The semantic relations of hyponymy and compatibility are introduced in the following section, and suitable representations for them are developed in sections 3 and 4, respectively. Throughout the discussion, the con-structibility of a representation is to be interpreted as its amenability to the use of a computational discovery algorithm which would build the structure and have the properties of semi-automatic operation, simple input data, efficiency in the quantity of input, consistency maintenance, and monotonic refinement of the growing structure. The meaning of this terminology will be made more clear in the course of the discussion.</Paragraph>
+</Section>
+</Paper>
+

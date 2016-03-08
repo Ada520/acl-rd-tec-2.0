@@ -1,0 +1,41 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="M98-1029">
+<Title>Source: Lynette Hirschman (mailto:lynette@MITRE.org)</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. INTRODUCTION
+</SectionTitle>
+<Paragraph position="0"></Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+1.1 Rationale for the Coreference Task Definition
+</SectionTitle>
+<Paragraph position="0"> The task definition has been constructed to capture one level of information, coreferring expressions, in the context of the Message Understanding Conference (MUC) information extraction tasks. The coreference &amp;quot;layer&amp;quot; links together multiple expressions designating a given entity; for now, only nouns are linked -relations involving verbs are ignored. The coreference layer functions to collect together all mentions of a given entity, including those tagged in the Named Entity task. We can look at coreference annotation as potentially supporting a kind of hyperlinked version of the text, where the links connect the mentions of a given entity.</Paragraph>
+<Paragraph position="1"> In the context of MUC, the coreference layer provides input to the template element task, where each named entity is represented as a single template which collects information about that element from the multiple mentions in the text. Similarly, coreference provides input to the scenario template, especially where that task requires filling the template with entries other than named entities.</Paragraph>
+<Paragraph position="2"> 1.2 Criteria for the Task Definition There are four criteria for the current task definition, which often push in different directions:  1) Support for the MUC information extraction tasks; 2) Ability to achieve good (ca. 95%) interannotator agreement; 3) Ability to mark text up quickly (and therefore, cheaply); 4) Desire to create a corpus for research on coreference and discourse phenomena, independent of the MUC  extraction task.</Paragraph>
+<Paragraph position="3"> These criteria are listed in order of priority -- and the decisions in the task definition have been made with these priorities in mind. In particular, we have tried for an extensive but not exhaustive coverage of coreference phenomena.</Paragraph>
+<Paragraph position="4"> Based on experience in defining annotation schema for other phenomena, it is more important to preserve high inter-annotator agreement than to capture every possible phenomenon that could fall under the heading of &amp;quot;coreference&amp;quot;. For this reason, the annotation scheme covers only the &amp;quot;IDENTITY&amp;quot; (or IDENT) relation for noun phrases; it does not include coreference among clauses, nor does it cover other kinds of coreference relations (set/subset, part/whole, etc.) If this task follows the same path as other annotation schemes, it should be possible to expand the task definition as consensus emerges (for both annotation and scoring) on these other phenomena.</Paragraph>
+<Paragraph position="5"> However, there are trade-offs. In the case of the first priority, supporting MUC information extraction, it may not always be possible to align the coreference task to support the other tasks perfectly. For example, if the Scenario Template requires resolution of type relations, such as all people who have been president of a particular company, the coreference task definition may not support this directly (see section 4.2 and section</Paragraph>
+</Section>
+<Section position="2" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+6.4 for a further discussion of this issue) .
+1.3 Coreference Chains and Scoring Considerations
+</SectionTitle>
+<Paragraph position="0"> The coreference annotation scheme described below is focused on the IDENTITY (IDENT) relation. This relation has important semantic properties that play a central role in defining the IDENT scoring mechanism.</Paragraph>
+<Paragraph position="1"> The IDENT relation is symmetrical (if A is IDENT to B, then B is IDENT to A), and it is transitive (if A is IDENT to B and B is IDENT to C, then A is IDENT to C, and C is IDENT to A). These properties induce a set of EQUIVALENCE CLASSES among the marked elements, where each element participates in exactly one equivalence class, and all elements in an equivalence class are coreferring.</Paragraph>
+<Paragraph position="2"> The IDENT relationship is NOT directional. Note that this is different from a part-whole or set-subset relation, which are ASYMMETRICAL and thus require a different scoring algorithm which interacts in complex ways with the IDENT relation; this is one reason why we will not attempt, in this round of revisions, to tackle these relations.</Paragraph>
+<Paragraph position="3"> The nature of the IDENT relation and its associated coreference equivalence classes pose a problem where an expression may be coreferential with either of two NPs, because of conjunction, or because of type/instance ambiguity or in expressions of change over time. For example, in the sentence, &amp;quot;the stock price fell from $4.02 to $3.85&amp;quot;, the stock price at one time is coreferential with $4.02, and at a later time with $3.85. However, if we make both $4.02 and $3.85 coreferential with stock price, we get &amp;quot;collapsing coreference chains&amp;quot; -- that is, we end up with *stock price*, *$4.02* and *$3.85* all in the same equivalence class -- which is counter-intuitive, and would prevent the IDENT relation from supporting, e.g., the Template Element task. This issue is discussed in some detail, with a number of examples, in section 4.2 and section 6.4.</Paragraph>
+<Paragraph position="4"> In keeping with having the coreference task support other information extraction tasks, we propose to place highest priority on preserving reasonable semantics for the equivalence classes. This means that two values (or instances) that are clearly distinct should NOT be allowed to merge into an equivalence class, even if this means not being able to mark all of the function/value or type/instance relations we might want to mark. Thus, in the example above, we would mark *stock price* and the more recent value *$3.85* as coreferential, and leave *$4.02* in its own equivalence class, not marked coreferential with *stock price*. This means that the mark-up fails to capture some information (that *$4.02* is also a value, at an earlier time, of *stock price*), but this seems like a reasonable price to pay for preserving the semantics of the coreference equivalence classes.</Paragraph>
+<Paragraph position="5"> These issues are related to our decision (for now) to mark only IDENT relations, with no distinction between types, functions, and instances. The advantage of this solution is that it leaves the conventions and the scoring mechanism intact and does not require additional mark-up for new kinds of coreference relations. At a future time, if we wish to distinguish type and function coreference from the IDENT relations, it should be possible to mark these relations more completely.</Paragraph>
+</Section>
+<Section position="3" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+1.4 Future Directions
+</SectionTitle>
+<Paragraph position="0"> Given these limitations, we can see that the coreference annotation scheme can evolve in several directions. It would be useful to expand the annotation scheme for future MUCs to include:  1) coreference to cover clause (verbal) level relations 2) a method for handling discontinuous elements, including conjoined elements 3) a distinction between function/type coreference and instance coreference, which has caused some problems with the unintended merging of coreference chains 4) set/subset coreference, part/whole and other kinds of coreference</Paragraph>
+</Section>
+</Section>
+</Paper>
+

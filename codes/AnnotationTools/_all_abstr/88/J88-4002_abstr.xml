@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J88-4002">
+<Title>NATURAL LANGUAGE QUERYING OF HISTORICAL DATABASES</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+NATURAL LANGUAGE QUERYING OF HISTORICAL DATABASES
+</SectionTitle>
+<Paragraph position="0"> In this paper we examine the connection between two areas of semantics, namely the semantics of historical databases and the semantics of natural language querying, and link them together via a common view of the semantics of time. Since the target application domain is an historical database, we present the essential features of the Historical Relational Database Model (HRDM), an extension to the relational model motivated by the desire to incorporate more &amp;quot;real world&amp;quot; semantics into a database at the conceptual level. We then present the essential features of QE-III, a formally defined English database query language whose semantic and pragmatic theory, based on a Montague-type semantics, makes explicit reference to the notion of denotation with respect to a moment of time. We demonstrate the use of this language to query an example historical database, and discuss the issues of how to provide both a semantic and a pragmatic interpretation for questions within a model-theoretic framework.</Paragraph>
+</Section>
+</Paper>
+

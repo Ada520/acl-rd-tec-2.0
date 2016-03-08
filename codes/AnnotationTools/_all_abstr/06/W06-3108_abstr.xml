@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-3108">
+<Title>Discriminative Reordering Models for Statistical Machine Translation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present discriminative reordering models for phrase-based statistical machine translation. The models are trained using the maximum entropy principle.</Paragraph>
+<Paragraph position="1"> We use several types of features: based on words, based on word classes, based on the local context. We evaluate the overall performance of the reordering models as well as the contribution of the individual feature types on a word-aligned corpus.</Paragraph>
+<Paragraph position="2"> Additionally, we show improved translation performance using these reordering models compared to a state-of-the-art baseline system.</Paragraph>
+</Section>
+</Paper>
+

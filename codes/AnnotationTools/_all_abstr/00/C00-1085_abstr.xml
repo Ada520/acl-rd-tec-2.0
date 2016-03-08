@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-1085">
+<Title>Estimation of Stochastic Attribute-Value Grammars using an Informative Sample</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We argue that some of the computational complexity associated with estimation of stochastic attribute-value grammars can be reduced by training upon an informative subset of the full training set. Results using the parsed Wall Street Journal corpus show that in some circumstances, it is possible to obtain better estimation results using an informative sample than when training upon all the available material. Further experimentation demonstrates that with unlexicalised models, a Gaussian prior can reduce overfitting. However, when models are lexiealised and contain overlapping features, overfitting does not seem to be a problem, and a Gmlssian prior makes minimal difference to performance. Our approach is applicable for situal;ions when there are an infeasibly large mnnber of parses in the training set, or else for when recovery of these parses fl'om a packed representation is itself comi)utationally expensive. null</Paragraph>
+</Section>
+</Paper>
+

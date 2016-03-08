@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-1202">
+<Title>Message-to-Speech: high quality speech generation for messaging and dialogue systems</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we present a Message-to-Speech (MTS) system that offers the linguistic flexibility desired for spoken dialogue and message generating systems.</Paragraph>
+<Paragraph position="1"> The use of prosody transplantation and special purpose prosody models results in highly natural prosody for the synthesised speech.</Paragraph>
+</Section>
+</Paper>
+

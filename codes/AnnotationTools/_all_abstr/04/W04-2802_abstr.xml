@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-2802">
+<Title>Towards Measuring Scalability in Natural Language Understanding Tasks</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we present a discussion of existing metrics for evaluation the performance of individual natural language understanding systems and components as well as the commonly employed metrics for measuring the specific task difficulties. We extend and generalize the common majority class baseline metric and introduce an general entropy-based metric for measuring the task difficulty of arbitrary language understanding tasks. Finally, we show an empirical study evaluating this metric followed by a discussion of its role in measuring the scalability of language understanding systems and components.</Paragraph>
+</Section>
+</Paper>
+

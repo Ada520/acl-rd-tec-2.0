@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E99-1051">
+<Title>Robust and Flexible Mixed-Initiative Dialogue for Telephone Services</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this work, we present an experimental analysis of a Dialogue System for the automatization of simple telephone services.</Paragraph>
+<Paragraph position="1"> Starting from the evaluation of a preliminar version of the system we 1 conclude the necessity to desing a robust and flexible system suitable to have to have different dialogue control strategies depending on the characteristics of the user and the performance of the speech recognition module. Experimental results following the PARADISE framework show an important improvement both in terms of task success and dialogue cost for the proposed system.</Paragraph>
+</Section>
+</Paper>
+

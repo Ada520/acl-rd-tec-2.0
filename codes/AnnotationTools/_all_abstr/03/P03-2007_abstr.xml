@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P03-2007">
+<Title>A Novel Approach to Semantic Indexing Based on Concept</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper suggests the efficient indexing method based on a concept vector space that is capable of representing the semantic content of a document. The two information measure, namely the information quantity and the information ratio, are defined to represent the degree of the semantic importance within a document. The proposed method is expected to compensate the limitations of term frequency based methods by exploiting related lexical items. Furthermore, with information ratio, this approach is independent of document length.</Paragraph>
+</Section>
+</Paper>
+

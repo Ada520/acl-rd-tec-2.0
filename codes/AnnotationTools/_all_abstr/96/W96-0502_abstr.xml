@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W96-0502">
+<Title>SPLAT: A sentence-plan authoring tool</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+SPLAT (Sentence Plan Language Author-
+</SectionTitle>
+<Paragraph position="0"> ing Tool) is an authoring tool intended to facilitate the creation of sentence-plan specifications for the Penman natural language generation system. SPLAT uses an example-based approach in the form of sentence.plan templates to aid the user in creating and maintaining sentence plans. SPLAT also contains a sentence bank, a user-extensible collection of sentence plans annotated in various ways. The sentence bank can be searched for candidate plans that can then be used in the creation of new sentence plans specific to the domain of interest. SPLAT's graphical environment provides additional support to the user in the form of menu-driven access to Penman's linguistic resources and management of partially built sentence plans.</Paragraph>
+</Section>
+</Paper>
+

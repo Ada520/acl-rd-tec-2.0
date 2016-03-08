@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-0116">
+<Title>Chinese Named Entity Recognition with Conditional Random Fields</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a Chinese Named Entity Recognition (NER) system submitted to the close track of Sighan Bakeoff2006.</Paragraph>
+<Paragraph position="1"> We define some additional features via doing statistics in training corpus. Our system incorporates basic features and additional features based on Conditional Random Fields (CRFs). In order to correct inconsistently results, we perform the post-processing procedure according to n-best results given by the CRFs model. Our final system achieved a F-score of 85.14 at MSRA, 89.03 at CityU, and 76.27 at LDC.</Paragraph>
+</Section>
+</Paper>
+

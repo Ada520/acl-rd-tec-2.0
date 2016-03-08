@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N04-1024">
+<Title>High Low Total Precision Recall F-measure Precision Recall F-measure Accuracy</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+CriterionSM Online Essay Evaluation Service
+</SectionTitle>
+<Paragraph position="0"> includes a capability that labels sentences in student writing with essay-based discourse elements (e.g., thesis statements). We describe a new system that enhances Criterion's capability, by evaluating multiple aspects of coherence in essays. This system identifies features of sentences based on semantic similarity measures and discourse structure. A support vector machine uses these features to capture breakdowns in coherence due to relatedness to the essay question and relatedness between discourse elements. Intra-sentential quality is evaluated with rule-based heuristics. Results indicate that the system yields higher performance than a baseline on all three aspects.</Paragraph>
+</Section>
+</Paper>
+

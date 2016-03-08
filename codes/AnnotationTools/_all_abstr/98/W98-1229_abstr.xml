@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-1229">
+<Title>Towards Language Acquisition by an Attention-Sharing Robot</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes our preliminary research on &amp;quot;attention-sharing&amp;quot; in infants' language acquisition. Attention-sharing is the activity of paying one's attention to someone else's attentional target. This enables one to observe others' sensory-input (what they are perceiving from the target) and motor-output (what they are doing in response to the target). Being inspired by lack of attention-sharing in autistic children, we assumed that observation of others' behavior by attention-sharing plays an indispensable role in symbol acquisition. As a test-bed for attention-sharing, we are developing a robot that can follow people's attentional targets by means of monitoring their gaze-direction.</Paragraph>
+</Section>
+</Paper>
+

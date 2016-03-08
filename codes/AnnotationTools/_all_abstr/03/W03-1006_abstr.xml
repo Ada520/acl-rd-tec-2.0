@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-1006">
+<Title>Use of Deep Linguistic Features for the Recognition and Labeling of Semantic Arguments</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We use deep linguistic features to predict semantic roles on syntactic arguments, and show that these perform considerably better than surface-oriented features. We also show that predicting labels from a &amp;quot;lightweight&amp;quot; parser that generates deep syntactic features performs comparably to using a full parser that generates only surface syntactic features.</Paragraph>
+</Section>
+</Paper>
+

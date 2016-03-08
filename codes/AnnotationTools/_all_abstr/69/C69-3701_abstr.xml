@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C69-3701">
+<Title></Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1.0 INTRODUCTION
+</SectionTitle>
+<Paragraph position="0"> Automatic text generation is the generation of natural language texts by computer. It has applications in automatic documentation systems, automatic letter writing, automatic report generation and HELP subsystems for tlme-sharlng systems. This section introduces the subject and describes the contents of this paper.</Paragraph>
+<Paragraph position="1"> The second section describes a basic approach to automatic text generation which makes it possible to generate a relevant text in response to a compact text specification. The structure of the data base (over-lapping tree structures, roughly) from which the text is constructed makes it possible to do this in a non-ad-hoc way because the relationships between the elements of the data base imply sentences and relationships between sentences and groups of sentences.</Paragraph>
+<Paragraph position="2"> In the third section, a number of extensions to the basic approach are discussed. These include among others: (a) paragraphing, (b) natural language queries, (c) &amp;quot;flattening&amp;quot; of structures, and (d) elimination of redundancy.</Paragraph>
+<Paragraph position="3"> The fourth section of this paper discusses the application of this approach to HELP subsystems for tlme-sharing systems and on-llne documentation systems.</Paragraph>
+</Section>
+</Paper>
+

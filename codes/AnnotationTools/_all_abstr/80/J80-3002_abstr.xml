@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J80-3002">
+<Title>Characterizing Indirect Speech Acts 1</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> In recent years, a considerable amount of attention has been devoted to the topic of indirect speech acts, i.e. utterances in which one speech act form is used to realize another, different, speech act. A simple example of an indirect speech act is the question form 1.1 uttered with the intent to convey a request to close the door.</Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+1.1 Can you close the door?
+</SectionTitle>
+<Paragraph position="0"> Despite the volume of work that has been done on indirect speech acts, fundamental questions remain unanswered. We still lack a complete answer to even the basic question of what forms can realize a given speech act. Two properties of the problem have made the search for a complete theory of indirect forms  particularly difficult: 1..Sheer numbers: There are a considerable number of different speech acts, and many have a wide selection of possible indirect realizations. A theory must be quite general to take these into account.</Paragraph>
+<Paragraph position="1"> 2. Variety: Indirect speech act forms range from  highly conventionalized to apparently free forms. It appears that no single, simple set of generalizations can adequately capture the complexity of indirect speech acts.</Paragraph>
+<Paragraph position="2"> 1 The research for this paper was carried out while the author was on the staff of the Laboratory for Computer Science at the Massachusetts Institute of Technology. The research was supported by the Advanced Research Projects Agency of the Department of Defense and was monitored by the Office of Naval Research under Contract Number N00014-75-C-0661.</Paragraph>
+<Paragraph position="3"> It is the claim of this paper that previous inv~estigations of indirect speech acts (abbreviated ISAs 2) have been hampered by inadequate semantic theories. This study takes as primary the central tenet of speech act theory that language is action (Austin \[2\]) and brings to bear some of the perspectives on the representation of actions developed in the course of Artificial Intelligence research. Accordingly, principles of goal formation are discussed in the context of a general structural model of action. The model of action is used to develop rules that characterize a large number of indirect speech act forms.</Paragraph>
+<Paragraph position="4"> The focus of this investigation is on the development of a descriptive theory of ISAs. Accounting for the diversity of ISAs is an important goal, but I see the formulation of a solid and complete descriptive theory as a necessary prerequisite to an explanatory theory. This is not to say that explanation can be totally decoupled from description, and, in fact, the use of the general model of actions to derive ISA forms has significant explanatory potential. To fully account for differences in ISA forms, however, we must have a good characterization of what these differences are.</Paragraph>
+<Paragraph position="5"> While the claims that will be made in this paper stop at a (partial) descriptive theory of ISAs, the underlying motivations do not. Computational considerations have played a significant role in the development of the ISA categorization. The work presented here grew out of the implementation effort reported in</Paragraph>
+</Section>
+</Section>
+</Paper>
+

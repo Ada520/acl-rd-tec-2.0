@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W99-0901">
+<Title>Hiding a Semantic Hierarchy in a Markov Model</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We introduce a new model of selectional preference induction. Unlike previous approaches, we provide a stochastic generation model for the words that appear as arguments of a predicate. More specifically, we define a hidden Markov model with the general shape of a given semantic class hierarchy. This model has a number of attractive features, among them that selectional preference can be seen as distributions over words. Initial results are promising. However, unsupervised parameter estimation has proven problematic. A central problem is word sense ambiguity in the training corpora. We describe attempts to modify the forward-backward algorithm, an EM algorithm, to handle such disambiguation. Although these attempts were unsuccessful at improving performance, we believe they give insight into the nature of the bottlenecks and into the behavior of the EM algorithm.</Paragraph>
+</Section>
+</Paper>
+

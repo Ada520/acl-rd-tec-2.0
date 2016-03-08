@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C02-1132">
+<Title>Probabilistic Models of Verb-Argument Structure</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We evaluate probabilistic models of verb argument structure trained on a corpus of verbs and their syntactic arguments. Models designed to represent patterns of verb alternation behavior are compared with generic clustering models in terms of the perplexity assigned to held-out test data. While the specialized models of alternation do not perform as well, closer examination reveals alternation behavior represented implicitly in the generic models.</Paragraph>
+</Section>
+</Paper>
+

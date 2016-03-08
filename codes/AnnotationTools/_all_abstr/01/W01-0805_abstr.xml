@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W01-0805">
+<Title>A Meta-Algorithm for the Generation of Referring Expressions</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a new approach to the generation of referring expressions. We propose to formalize a scene as a labeled directed graph and describe content selection as a subgraph construction problem. Cost functions are used to guide the search process and to give preference to some solutions over others. The resulting graph algorithm can be seen as a meta-algorithm in the sense that defining cost functions in different ways allows us to mimic -and even improve-- a number of well-known algorithms.</Paragraph>
+</Section>
+</Paper>
+

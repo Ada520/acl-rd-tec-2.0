@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-1904">
+<Title>Evaluation and Improvement of Cross-Lingual Question Answering Strategies</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This article presents a bilingual question answering system, which is able to process questions and documents both in French and in English. Two cross-lingual strategies are described and evaluated. First, we study the contribution of biterms translation, and the influence of the completion of the translation dictionaries. Then, we propose a strategy for transferring the question analysis from one language to the other, and we study its influence on the performance of our system.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-1019">
+<Title>Deep Sentence Understanding in a Restricted Domain*</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present here the current prototype of the text understanding system HELENE. The objective of this system is to achieve a deep understanding of small reports dealing with a restricted domain. Sentence understanding builds a model of the state of the world described, through the application of several knowledge modules: (i) LFG parsing, (ii) syntactic disambiguation based on lexical entry semantic components, (iii) assembly of semantic components and instantiation of domain entities, and (iv) construction of a world model through activation of common sense and domain knowledge.</Paragraph>
+</Section>
+</Paper>
+

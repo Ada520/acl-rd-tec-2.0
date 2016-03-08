@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C94-1093">
+<Title>Restructuring Tagged Corpora with Morpheme Adjustment Rules</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+Toshihisa Tashiro Noriyoshi Uratani Tsuyoshi Morimoto
+ATR Interpreting Telecommunications Research Labor~tories
+</SectionTitle>
+<Paragraph position="0"> {tashiro,uratani,morimoto} ~itl.at r.co.jp A part-of-speech tagged corpus is a very hnportant knowledge source for natural language processing researchers. 'Poday, several part-of-speech tagged corpora are readily available for research use. \[Iowever, because there is wide diversity of morphological information systems (word-segmentation~ part-of-speech system, etc.), it is ditficult to use tagged corpora with an incompatible morphological infm'mation system. This paper proposes a me,hod of converting tagged corpora frOlll olte lllorphellle system to allother,</Paragraph>
+</Section>
+</Paper>
+

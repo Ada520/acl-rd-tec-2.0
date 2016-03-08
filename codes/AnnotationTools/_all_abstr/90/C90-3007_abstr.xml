@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-3007">
+<Title>Partial Descriptions and Systemic Grammar</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper exarnines the properties of featureba~sed partial descriptions built on top of tlalliday's systemic networks. We show that the crucial operation of consistency checking for such descriptions is NP-complete, and therefore probably intractable, but proceed to develop algorithms which can sometimes alleviate the unpleasant consequence s of this intractability.</Paragraph>
+</Section>
+</Paper>
+

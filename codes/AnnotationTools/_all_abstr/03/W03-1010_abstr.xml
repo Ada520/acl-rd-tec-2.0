@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-1010">
+<Title>A Plethora of Methods for Learning English Countability</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper compares a range of methods for classifying words based on linguistic diagnostics, focusing on the task of learning countabilities for English nouns.</Paragraph>
+<Paragraph position="1"> We propose two basic approaches to feature representation: distribution-based representation, which simply looks at the distribution of features in the corpus data, and agreement-based representation which analyses the level of token-wise agreement between multiple pre-processor systems. We additionally compare a single multiclass classifier architecture with a suite of binary classifiers, and combine analyses from multiple preprocessors. Finally, we present and evaluate a feature selection method.</Paragraph>
+</Section>
+</Paper>
+

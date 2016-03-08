@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-0710">
+<Title>Reference Resolution over a Restricted Domain: References to Documents</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This article studies the resolution of references made by speakers to documents discussed during a meeting. The focus is on transcribed recordings of press review meetings, in French. After an overview of the required framework for reference resolution--specification of the task, data annotation, and evaluation procedure--we propose, analyze and evaluate an algorithm for the resolution of references to documents (ref2doc) based on anaphora tracking and context matching. Applications to speech-to-document alignment and more generally to meeting processing and retrieval are finally discussed.</Paragraph>
+</Section>
+</Paper>
+

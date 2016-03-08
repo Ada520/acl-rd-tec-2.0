@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P03-1006">
+<Title>Generalized Algorithms for Constructing Statistical Language Models</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Recent text and speech processing applications such as speech mining raise new and more general problems related to the construction of language models. We present and describe in detail several new and efficient algorithms to address these more general problems and report experimental results demonstrating their usefulness. We give an algorithm for computing efficiently the expected counts of any sequence in a word lattice output by a speech recognizer or any arbitrary weighted automaton; describe a new technique for creating exact representations of a2 -gram language models by weighted automata whose size is practical for offline use even for a vocabulary size of about 500,000 words and an a2 -gram order a2a4a3a6a5 ; and present a simple and more general technique for constructing class-based language models that allows each class to represent an arbitrary weighted automaton.</Paragraph>
+<Paragraph position="1"> An efficient implementation of our algorithms and techniques has been incorporated in a general software library for language modeling, the GRM Library, that includes many other text and grammar processing functionalities.</Paragraph>
+</Section>
+</Paper>
+

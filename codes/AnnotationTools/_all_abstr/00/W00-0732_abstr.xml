@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-0732">
+<Title>Improving Chunking by Means of Lexical-Contextual Information in Statistical Language Models</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> In this work, we present a stochastic approach to shallow parsing. Most of the current approaches to shallow parsing have a common characteristic: they take the sequence of lexical tags proposed by a POS tagger as input for the chunking process. Our system produces tagging and chunking in a single process using an Integrated Language Model (ILM) formalized as Markov Models. This model integrates several knowledge sources: lexical probabilities, a contextual Language Model (LM) for every chunk, and a contextual LM for the sentences.</Paragraph>
+<Paragraph position="1"> We have extended the ILM by adding lexical information to the contextual LMs. We have applied this approach to the CoNLL-2000 shared task improving the performance of tile chunker.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-2113">
+<Title>An Underspecified HPSG Representation for Information Structure</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> hfformation structure can be of great use in linguistic applications, especially in those involving a speech component. However, focus marking by prosody is often ambiguous.</Paragraph>
+<Paragraph position="1"> Existing theories capture this by rules that produce alternative focus structures. This disjunction is hard to handle computationally. In this paper, a compact, graphically underspecified representation is proposed, along with composition principles and a resolution routine based on context information. null</Paragraph>
+</Section>
+</Paper>
+

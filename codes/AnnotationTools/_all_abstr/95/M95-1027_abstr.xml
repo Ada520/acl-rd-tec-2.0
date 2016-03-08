@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="M95-1027">
+<Title>Information Extraction Task: Scenario on Management Succession</Title>
+<Section position="1" start_page="363" end_page="363" type="abstr">
+<SectionTitle>
+1 Narrative
+</SectionTitle>
+<Paragraph position="0"> This scenario concerns events that would be of interest to an analyst who tracks changes in company management .</Paragraph>
+<Paragraph position="1"> The event object captures the management post, the company, the current manager, and the reason why the post is or will be vacant. The relational and low-level objects capture information on who's &amp;quot;in&amp;quot; and who's &amp;quot;out,&amp;quot; wher e the new manager came from, and where the old manager is going . A relevant article refers to assuming or vacating a post in a company and must minimally identify the post and either the person assuming the post or the perso n vacating the post.</Paragraph>
+</Section>
+</Paper>
+

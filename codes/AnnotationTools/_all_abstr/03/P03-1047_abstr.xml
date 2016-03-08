@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P03-1047">
+<Title>Bridging the Gap Between Underspecification Formalisms: Minimal Recursion Semantics as Dominance Constraints</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Minimal Recursion Semantics (MRS) is the standard formalism used in large-scale HPSG grammars to model underspecified semantics. We present the first provably efficient algorithm to enumerate the readings of MRS structures, by translating them into normal dominance constraints.</Paragraph>
+</Section>
+</Paper>
+

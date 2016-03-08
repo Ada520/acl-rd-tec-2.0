@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H01-1028">
+<Title>Finding Errors Automatically in Semantically Tagged Dialogues</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> We describe a novel method for detecting errors in task-based human-computer (HC) dialogues by automatically deriving them from semantic tags. We examined 27 HC dialogues from the DARPA Communicator air travel domain, comparing user inputs to system responses to look for slot value discrepancies, both automatically and manually. For the automatic method, we labeled the dialogues with semantic tags corresponding to &amp;quot;slots&amp;quot; that would be filled in &amp;quot;frames&amp;quot; in the course of the travel task. We then applied an automatic algorithm to detect errors in the dialogues. The same dialogues were also manually tagged (by a different annotator) to label errors directly. An analysis of the results of the two tagging methods indicates that it may be possible to detect errors automatically in this way, but our method needs further work to reduce the number of false errors detected. Finally, we present a discussion of the differing results from the two tagging methods.</Paragraph>
+</Section>
+</Paper>
+

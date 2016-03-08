@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W01-1616">
+<Title></Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+References
+</SectionTitle>
+<Paragraph position="0"> 1 James Allen and Mark Core. 1997. Draft of DAMSL: Dialog act markup in several layers.</Paragraph>
+<Paragraph position="1"> 2 Peter Bohlin (Ljunglf), Robin Cooper, Elisabet Engdahl, and Staffan Larsson. 1999. Information states and dialogue move engines. In Jan Alexandersson, editor, IJCAI-99 Workshop on Knowledge and Reasoning in Practical Dialogue Systems. 3 Lou Burnard. 2000. Reference Guide for the British National Corpus (World Edition). Oxford University Computing Services.</Paragraph>
+<Paragraph position="2"> 4 Jean Carletta, Assessing agreement on classification tasks: the kappa statistic, Computational Linguistics, v.22 n.2, June 1996 5 Herbert H. Clark. 1996. Using Language. Cambridge University Press.</Paragraph>
+<Paragraph position="3"> 6 Charles Fletcher. 1994. Levels of representation in memory for discourse. In Morton Ann Gernsbacher, editor, Handbook of Psycholinguistics. Academic Press. 7 Jonathan Ginzburg , Robin Cooper, Resolving ellipsis in clarification, Proceedings of the 39th Annual Meeting on Association for Computational Linguistics, p.236-243, July 06-11, 2001, Toulouse, France 8 Jonathan Ginzburg and Robin Cooper. forthcoming. Clarification, ellipsis and utterance representation.</Paragraph>
+<Paragraph position="4"> 9 Jonathan Ginzburg and Ivan Sag. 2000. Interrogative Investigations: the Form, Meaning and Use of English Interrogatives. Number 123 in CSLI Lecture Notes. CSLI Publications. 10 Jonathan Ginzburg, Howard Gregory, and Shalom Lappin. 2001a. SHARDS: Fragment resolution in dialogue. In Harry Bunt, Ielka van der Sluis, and Elias Thijsse, editors, Proceedings of the Fourth International Workshop on Computational Semantics (IWCS-4), pages 156--172. ITK, Tilburg University, Tilburg. 11 Jonathan Ginzburg, Ivan A. Sag, and Matthew Purver. 2001b. Integrating conversational move types in the grammar of conversation. In P. Khnlein, H. Rieser, and H. Zeevat, editors, Proceedings of the Fifth Workshop on Formal Semantics and Pragmatics of Dialogue. BIDIALOG. 12 Jonathan Ginzburg. 1996. Interrogatives: Questions, facts and dialogue. In Shalom Lappin, editor, The Handbook of Contemporary Semantic Theory, pages 385--422. Blackwell.</Paragraph>
+<Paragraph position="5"> 13 Staffan Larsson , Peter Ljunglf , Robin Cooper , Elisabet Engdahl , Stina Ericsson, GoDiS: an accommodating dialogue system, ANLP/NAACL 2000 Workshop on Conversational systems, p.7-10, May 04-04, 2000, Seattle, Washington 14 Matthew Purver. 2001. SCoRE: A tool for searching the BNC. Technical report, Department of Computer Science, King's College London.</Paragraph>
+<Paragraph position="6"> 15 John R. Ross. 1969. Guess who? In R. I. Binnick, A. Davison, G. Green, and J. Morgan, editors, Papers from the Fifth Regional Meeting of the Chicago Linguistic Society, pages 252--286. CLS, University of Chicago. 16 Jacqueline D. Sachs. 1967. Recognition memory for syntactic and semantic aspects of connected discourse. Perception and Psychophysics, 2:437--442.</Paragraph>
+<Paragraph position="7"> 17 David Rood Traum, A computational theory of grounding in natural language conversation, University of Rochester, Rochester, NY, 1995 18 Teun A. van Dijk and Walter Kintsch. 1983. Strategies of Discourse Comprehension. Academic Press.</Paragraph>
+</Section>
+</Paper>
+

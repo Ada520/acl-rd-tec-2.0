@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-1727">
+<Title>Chinese Word Segmentation in MSR-NLP</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Word segmentation in MSR-NLP is an integral part of a sentence analyzer which includes basic segmentation, derivational morphology, named entity recognition, new word identification, word lattice pruning and parsing. The final segmentation is produced from the leaves of parse trees. The output can be customized to meet different segmentation standards through the value combinations of a set of parameters. The system participated in four tracks of the segmentation bakeoff --PK-open, PK-close, CTB-open and CTB-closed - and ranked #1, #2, #2 and #3 respectively in those tracks. Analysis of the results shows that each component of the system contributed to the scores.</Paragraph>
+</Section>
+</Paper>
+

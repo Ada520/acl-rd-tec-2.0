@@ -1,0 +1,28 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P85-1035">
+<Title>Native: Learner: Native: Learner: Native: Learner: Native: Remember the s~ory of David and Goliath?</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The problem of manually modifying the lexicon appears with any natural language processing program.</Paragraph>
+<Paragraph position="1"> Ideally, a program should be able to acquire new lexieal entries from context, the way people learn. We address the problem of acquiring entire phrases, specifically Jigurative phr~es, through augmenting a phr~al lezico~ Facilitating such a self-extending lexicon involves (a) disambiguation~se|ection of the intended phrase from a set of matching phrases, (b) robust parsin~-comprehension of partially-matching phrases, and (c) error analysis---use of errors in forming hypotheses about new phrases. We have designed and implemented a program called RINA which uses demons to implement funetional-~rammar principles. RINA receives new figurative phrases in context and through the application of a sequence of failure-driven rules, creates and refines both the patterns and the concepts which hold syntactic and semantic information about phrases.</Paragraph>
+<Paragraph position="2">  No. David took on Goliath.</Paragraph>
+<Paragraph position="3"> He took on him. He yon the fight? No. He took him on.</Paragraph>
+<Paragraph position="4"> David attacked him.</Paragraph>
+<Paragraph position="5"> He ~ok him on.</Paragraph>
+<Paragraph position="6"> He accepted She challenge? Right.</Paragraph>
+<Paragraph position="7"> Native: Learner: Here in annt,her story.</Paragraph>
+<Paragraph position="8"> John took on the third exam question.</Paragraph>
+<Paragraph position="9"> He took on a hard problem.</Paragraph>
+<Paragraph position="10"> Another dialogue involves put one's foot do~-a. Again, the phrase is unknown while its constituents are known:</Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+Going Punk
+</SectionTitle>
+<Paragraph position="0"></Paragraph>
+</Section>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-2167">
+<Title>Machine Aided Error-Correction Environment for Korean Morphological Analysis and Part-of-Speech Tagging</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Statistical methods require very large corpus with high quality. But building large and faultless annotated corpus is a very difficult job.</Paragraph>
+<Paragraph position="1"> This paper proposes an efficient method to construct part-of-speech tagged corpus. A rule-based error correction method is proposed to find and correct errors semi-automatically by user-defined rules. We also make use of user's correction log to reflect feedback. Experiments were carried out to show the efficiency of error correction process of this workbench. The result shows that about 63.2 % of tagging errors can be corrected.</Paragraph>
+</Section>
+</Paper>
+

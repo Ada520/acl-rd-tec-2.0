@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-1310">
+<Title>69 On a possible role for pronouns in the acquisition of verbs</Title>
+<Section position="2" start_page="69" end_page="69" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Given the restrictions on the subjects and objects that any given verb may take, it seems likely that children might learn verbs partly by exploiting statistical regularities in co-occurrences between verbs and noun phrases.</Paragraph>
+<Paragraph position="1"> Pronouns are the most common NPs in the speech that children hear. We demonstrate that pronouns systematically partition several important classes of verbs, and that a simple statistical learner can exploit these regularities to narrow the range of possible verbs that are consistent with an incomplete utterance. Taken together, these results suggest that children might use regularities in pronoun/verb co-occurrences to help learn verbs, though whether this is actually so remains a topic for further research.</Paragraph>
+</Section>
+</Paper>
+

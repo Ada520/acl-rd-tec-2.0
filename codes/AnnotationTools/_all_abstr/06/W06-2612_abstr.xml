@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-2612">
+<Title>Constructing a Rule Based Naming System for Thai Names Using the Concept of Ontologies</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Names are important in many societies, even in technologically oriented ones which use ID systems or other ways to identify individual people. Names such as personal surnames are the most important as they are used in many processes, such as identifying of people, record linkage and for genealogical research as well. For Thai names this situation is a bit different in that in Thai the first names are most important.</Paragraph>
+<Paragraph position="1"> Even phone books and directories are sorted according to the first names.</Paragraph>
+<Paragraph position="2"> Here we present a system for constructing Thai names from basic syllables. Typically Thai names convey a meaning. For this we use an ontology of names to capture the meaning of the variants which are based on the Thai naming methodology and rules.</Paragraph>
+</Section>
+</Paper>
+

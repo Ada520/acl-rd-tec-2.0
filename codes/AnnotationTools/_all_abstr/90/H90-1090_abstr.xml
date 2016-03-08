@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H90-1090">
+<Title>Research and Development for Spoken Language Systems</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+OBJECTIVE:
+</SectionTitle>
+<Paragraph position="0"> The goal of this research is to develop a spoken language system that will demonstrate the usefulness of voice input for interactive problem solving. The system will accept continuous speech, and will handle multiple speakers without explicit speaker enrollment. Combining SUMMrr, a segment-based speech recognition system, and TINA, a probabilistic natural language system, to achieve speech understanding, the system will be demonstrated in an application domain relevant to the DoD.</Paragraph>
+</Section>
+</Paper>
+

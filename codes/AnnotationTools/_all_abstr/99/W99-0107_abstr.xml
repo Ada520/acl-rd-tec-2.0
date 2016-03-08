@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W99-0107">
+<Title>user's domain knowledge. In R. Dale, C. Mellish &amp;</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We discuss the development of a system for marking several types of reference to facilitate the analysis of reference in discourse. The tool is designed to be used in three applicationsi generating training data for machine learning of co-reference relations, evaluating iheories of referring expression generation and resolution in texts, and developing theories for understanding reference in dialogs. The need to mark any of a broad set of relations which may span several levels of discourse structure drives the system architecture. The system has the abilityto collect statistics over encoded relations and meastwe inter-coder reliability, and includes tools to increase the accuracy of the user's markings by highlighting the di.u:repancies between two sets of markings. Using parsed corpora as the input further reduces the human workload and increases reliability.</Paragraph>
+</Section>
+</Paper>
+

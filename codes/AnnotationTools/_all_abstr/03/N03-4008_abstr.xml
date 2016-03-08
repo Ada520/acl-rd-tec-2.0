@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N03-4008">
+<Title>Columbia's Newsblaster: New Features and Future Directions</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Columbia's Newsblaster tracking and summarization system is a robust system that clusters news into events, categorizes events into broad topics and summarizes multiple articles on each event. Here we outline our most currentworkontrackingeventsoverdays,produc- null ing summaries that update a user on new information about an event, outlining the perspectives of news coming from different countries and clustering and summarizing non-English sources.</Paragraph>
+</Section>
+</Paper>
+

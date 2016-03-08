@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W05-1602">
+<Title>Interactive Authoring of Logical Forms for Multilingual Generation/</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present an authoring system for logical forms encoded as conceptual graphs (CG). The system belongs to the family of WYSIWYM (What You See Is What You Mean) text generation systems: logical forms are entered interactively and the corresponding linguistic realization of the expressions is generated in several languages. The system maintains a model of the discourse context corresponding to the authored documents.</Paragraph>
+<Paragraph position="1"> The system helps users author documents formulated in the CG format. In a first stage, a domain-specific ontology is acquired by learning from example texts in the domain. The ontology acquisition module builds a typed hierarchy of concepts and relations derived from the WordNet and Verbnet. null The user can then edit a specific document, by entering utterances in sequence, and maintaining a representation of the context. While the user enters data, the system performs the standard steps of text generation on the basis of the authored logical forms: reference planning, aggregation, lexical choice and syntactic realization - in several languages (we have implemented English and Hebrew - and are exploring an implementation using the Bliss graphical language). The feedback in natural language is produced in real-time for every single modification performed by the author.</Paragraph>
+<Paragraph position="2"> We perform a cost-benefit analysis of the application of NLG techniques in the context of authoring cooking recipes in English and Hebrew. By combining existing large-scale knowledge resources (WordNet, Verbnet, the SURGE and HUGG realization grammars) and techniques from modern integrated software development environment (such as the Eclipse IDE), we obtain an efficient tool for the generation of logical forms, in domains where content is not available in the form of databases.</Paragraph>
+<Paragraph position="3"> /Research supported by the Israel Ministry of Science - Knowledge Center for Hebrew Computational Linguistics and by the</Paragraph>
+</Section>
+</Paper>
+

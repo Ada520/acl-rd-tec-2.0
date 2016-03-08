@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A92-1034">
+<Title>MORPHIa: A Practical Compiler for Reversible Morphology Rules</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Morph~ is a Common Lisp compiler for reversible inflectional morphology rules developed at the Center for Machine Translation at Carnegie Mellon University. This paper describes the Morph~ processing model, its implementation, and how it handles some common morphological processes.</Paragraph>
+</Section>
+</Paper>
+

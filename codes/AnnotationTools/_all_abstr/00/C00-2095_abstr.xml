@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-2095">
+<Title>A Formalism for Universal Segmentation of Text</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Sumo is a formalism for universal segmentation of text. Its purpose is to provide a franlework for the creation of segmentation applications. It is called &amp;quot;universal&amp;quot; as tile formalism itself is independent of the language of the documents to process and independent of the levels of segmentation (e.g. words, sentences, paragraphs, nlorphemes...) considered by the target application. This framework relies on a layered structure representing the possible segmentations of the document. This structure and the tools to manipulate it are described, followed by detailed examples highlighting some features of Sumo.</Paragraph>
+<Paragraph position="1"> Introduction Tokenization, or word segmentation, is a fundamental task of ahnost all NLP systems. In languages that use word separators in their writing, tokenization seenls easy: every sequence of characters between two whitespaces or punctuation marks is a word. This works reasonably well, but exceptions are handled in a cumbersome way. On the other hand, there are languages that do not use word separators. A much nlore complicated processing is needed, closer to morphological analysis or part-of-speech tagging. Tokenizers designed for those languages are generally very tied to a given system and language.</Paragraph>
+<Paragraph position="2"> Itowever, the gap becomes smaller when we look at sentence segmentation: a simplistic approach would not be sufficient because of the ambiguity of punctuation signs. And if we consider the segmentation of a document into higher-level units such as paragraphs, sections, and so on, we can notice that language becomes less relevant.</Paragraph>
+<Paragraph position="3"> These observations lead to the definition of our formalism for segmentation (not just tokenization) that considers tile process independently fl:om the language. By describing a segmentation systenl formally, a clean distinction can be made between tile processing itself and tile linguistic data it uses. This entails the ability to develop a truly multilingual system by using a common segmentation engine ~br the various languages of the system; conversely, one can imagine evaluating several segmentation ,nethods by using the same set of data with different strategies.</Paragraph>
+<Paragraph position="4"> Sumo is the name of the proposed formalisnl, evolving from initial work by (Quint, 1999; Quint, 2000). Some theoretical works from the literature also support this approach: (Guo, 1997) shows that sonle segmentation techniques can be generalized to any language, regardless of their writing systenl. The sentence segmenter of (Pahner and Hearst, 1997) and the issues raised by (Habert et al., 1.998) prove that even in l~nglish or French, segmentation is not so trivial. Lastly, (A~t-Mokhtar, 1997) handles all kinds of presyntactic processing in one step, arguing that there are strong interactions between segnlentation and morphology.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P01-1033">
+<Title>Towards Abstract Categorial Grammars</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We introduce a new categorial formalism based on intuitionistic linear logic. This formalism, which derives from current type-logical grammars, is abstract in the sense that both syntax and semantics are handled by the same set of primitives. As a consequence, the formalism is reversible and provides different computational paradigms that may be freely composed together.</Paragraph>
+</Section>
+</Paper>
+

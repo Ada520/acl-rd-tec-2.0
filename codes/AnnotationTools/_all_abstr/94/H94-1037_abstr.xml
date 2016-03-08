@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H94-1037">
+<Title>PEGASUS: A Spoken Language Interface for On-Line Air Travel Planning I</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> This paper describes PEGASUS, a spoken language interface for on-line air travel planning that we have recently developed. PEGASUS leverages off our spoken language technology development in the ATIS domain, and enables users to book flights using the American Airlines EAASY SABRE system. The input query is transformed by the speech understanding system to a frame representation that captures its meaning. The tasks of the System Manager include transforming the semantic representation into an EAASY SABRE command, transmitting it to the application backend, formatting and interpreting the xesulting information, and managing the dialogue. Preliminary evaluation results suggest that users can learn to make productive use of PEGASUS for travel planning, although much work remains to be done.</Paragraph>
+</Section>
+</Paper>
+

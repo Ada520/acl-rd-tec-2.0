@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H92-1038">
+<Title>Recognition Using Classification and Segmentation Scoring*</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> Traditional statistical speech recognition systems typically make strong assumptions about the independence of observation frames and generally do not make use of segmental information. In contrast, when the segmentation is known, existing classifiers can readily accommodate segmental information in the decision process. We describe an approach to connected word recognition that allows the use of segmental information through an explicit decomposition of the recognition criterion into classification and segmentation scoring. Preliminary experiments are presented, demonstrating that the proposed framework, using fixed length sequences of cepstral feature vectors for classification of individual phonemes, performs comparably to more traditional recognition approaches that use the entire observation sequence. We expect that performance gain can be obtained using this structure with additional, more general features.</Paragraph>
+</Section>
+</Paper>
+

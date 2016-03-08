@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-1202">
+<Title>Natural Language Learning by Recurrent Neural Networks: A Comparison with probabilistic approaches</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present preliminary results of experiments with two types of recurrent neural networks for a natural language learning task. The neural networks, Elman networks and Recurrent Cascade Correlation (RCC), were trained on the text of a first-year primary school reader. The networks performed a one-step-look-ahead task, i.e. they had to predict the lexical category of the next following word. Elman networks with 9 hidden units gave the best training results (72% correct) but scored only 63% when tested for generalisation using a &amp;quot;leave-one-sentence-out&amp;quot; cross-validation technique. An RCC network could learn 99.6% of the training set by adding up to 42 hidden units but achieved best generalisation (63%) with only four hidden units. Results are presented showing network learning in relation to bi-, t'i-, 4- and 5-gram performance. Greatest prediction uncertainty (measured as the entropy of the output units) occurred, not at the sentence boundaries but when the first verb was the input.</Paragraph>
+</Section>
+</Paper>
+

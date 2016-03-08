@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-0504">
+<Title>Mandarin-English Information (MEI): Investigating Translingual Speech Retrieval</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe a system which supports English text queries searching for Mandarin Chinese spoken documents.</Paragraph>
+<Paragraph position="1"> This is one of the first attempts to tightly couple speech recognition with machine translation technologies for cross-media and cross-language retrieval. The Mandarin Chinese news audio are indexed with word and subword units by speech recognition. Translation of these multiscale units can effect cross-language information retrieval. The integrated technologies will be evaluated based on the performance of translingnal speech retrieval.</Paragraph>
+</Section>
+</Paper>
+

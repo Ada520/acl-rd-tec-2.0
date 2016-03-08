@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-0409">
+<Title>Exceptionality and Natural Language Learning</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Previous work has argued that memory-based learning is better than abstraction-based learning for a set of language learning tasks. In this paper, we first attempt to generalize these results to a new set of language learning tasks from the area of spoken dialog systems and to a different abstraction-based learner. We then examine the utility of various exceptionality measures for predicting where one learner is better than the other. Our results show that generalization of previous results to our tasks is not so obvious and some of the exceptionality measures may be used to characterize the performance of our learners.</Paragraph>
+</Section>
+</Paper>
+

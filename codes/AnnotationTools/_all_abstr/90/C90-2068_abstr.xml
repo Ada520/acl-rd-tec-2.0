@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-2068">
+<Title>FR EE ADJUNCTS NATURAL LANGUAGE INSTRUCTIONS*</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+FR EE ADJUNCTS
+NATURAL LANGUAGE INSTRUCTIONS*
+</SectionTitle>
+<Paragraph position="0"> In thi,~ paper, we give a brief account of our project Animation from Instructions, the view of instructions it reflects, and the semantics of one construction - the free adjunct - that is common in Natural Language instructions.</Paragraph>
+<Paragraph position="1"> Introduction Over the past few years, we have been developing a system for creating animated simulations from Natural Language instructions. When the system is complete, E;hese animated simulations will combine: (r) animated agents which demonstrate the instructions being carried out in a specified environment; o Natural Language narration which explains what is being done and why.</Paragraph>
+<Paragraph position="2"> Such narrated simulations can then be used in instructdeg ing agents ot' varying capacities in how to perform tasks with varying demands in workplaces of varying layout. In \[2\], we argue that the only way to create such blarrated simulations is to drive both animation and bmrration fl'om a common representation that embodies the same conceptualization of tasks and actions as Natural Language itself. 1 Wc also argue the difficulty of hand-tooling such a representation for each task to be demonstrated and explained. Instead, we argue for enabling a system to create these representations for itself, from Natural Language Instructions. In fact, we make the stronger claim that creating task animation from anything but direct graphical manipulation jorces one to Natural Language as the only instruction ~ource accessible to users other than manually skilled (or programming-wise) animators.</Paragraph>
+<Paragraph position="3"> Creating task animations from Natural Language in~tructions forces us to understand instructions compurationally. Instructions as a type of text have not been *We thank Mark Steedman, Hans Karlgren and Breck Baldwin for comments and advice. They are not to blame for any er~-ors in the translation of their advice into the present form. The ,:esem'ch was supported by DARPA grant no. N0014-85-K0018, and ARO grant no. DAAL03-89-C0031.</Paragraph>
+<Paragraph position="4"> 1Tiffs is not to suggest that animation can be driven solely from that common representation: other types of knowledge axe clearly needed as well - including knowledge of motor skills and other performance characteristics.</Paragraph>
+<Paragraph position="5"> studied as much as narratives as a way of describing tasks, but it is clear that they differ: when a na'~'ca tire describes a task, it tells what happened when the task was performed in a particular circumstance. Instructions, on the other hand, commonly specify how to perform the task in a wide range of circumstances that may change during the course of performance in quite different ways. This has at least two consequences: (1) to understand instructions, one has to understand how instructions relate to intended behavior, and (2) in processing instructions, one has to deal with constructions that either only rarely appear in narrative or play different roles than they do in narrative.</Paragraph>
+<Paragraph position="6"> In this paper, we start by presenting what we take to be the relationship between instructions and behavior, and then explore one construction often found in instructions - free adjuncts - explaining them in light of this relationship.</Paragraph>
+</Section>
+</Paper>
+

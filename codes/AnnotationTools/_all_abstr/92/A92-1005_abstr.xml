@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A92-1005">
+<Title>Real-time linguistic analysis for continuous speech understanding*</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes the approach followed in the development of the linguistic processor of the continuous speech dialog system implemented at our labs. The application scenario (voice-based information retrieval service over the telephone) poses severe specifications to the system: it has to be speakerindependent, to deal with noisy and corrupted speech, and to work in real time. To cope with these types of applications requires to improve both efficiency and accuracy. At present, the system accepts telephone-quality speech (utterances referring to an electronic mailbox access, recorded through a PABX) and, in the speaker-independent configuration, it correctly understands 72% of the utterances in about twice real time. Experimental results are discussed, as obtained from an implementation of the system on a Sun SparcStation 1 using the C language.</Paragraph>
+</Section>
+</Paper>
+

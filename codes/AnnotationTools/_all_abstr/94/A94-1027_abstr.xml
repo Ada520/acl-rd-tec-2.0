@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A94-1027">
+<Title>A Probabilistic Model for Text Categorization: Based on a Single Random Variable with Multiple Values</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Text categorization is the classification of documents with respect to a set of predefined categories. In this paper, we propose a new probabilistic model for text categorization, that is based on a Single random Variable with Multiple Values (SVMV). Compared to previous probabilistic models, our model has the following advantages; 1) it considers within-document term frequencies, 2) considers term weighting for target documents, and 3) is less affected by having insufficient training cases. We verify our model's superiority over the others in the task of categorizing news articles from the &amp;quot;Wall Street Journal&amp;quot;.</Paragraph>
+</Section>
+</Paper>
+

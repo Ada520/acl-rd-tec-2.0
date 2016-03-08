@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-2019">
+<Title>Markov models for language-independent named entity recognition</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> This report describes the application of Markov models to the problem of language-independent named entity recognition for the CoNLL-2002 shared task (Tjong Kim Sang, 2002).</Paragraph>
+<Paragraph position="1"> We approach the problem of identifying named entities as a kind of probabilistic tagging: given a sequence of words w1 a24a25a24a25a24 wn, we want to find the corresponding sequence of tags t1 a24a25a24a25a24 tn, drawn from a vocabulary of possible tags T , which satisfies:</Paragraph>
+<Paragraph position="3"> The possible tags are a31a6a32a34a33a36a35a36a37 and a38a34a32a39a33a40a35a8a37 , which mark the beginning and continuation of personal names; a31a41a32a40a42a39a37a14a43 and a38a34a32a36a42a39a37a14a43 , which mark names of organizations; a31a41a32a34a44a41a42a36a45 and a38a34a32a34a44a41a42a36a45 , which mark names of locations; a31a6a32a39a46a12a38a34a47a8a45 and a38a34a32a39a46a12a38a34a47a8a45 , which mark miscellaneous names; and a42 , which marks non-name tokens.</Paragraph>
+<Paragraph position="4"> We will assume that a sequence of tags can be modeled by Markov process, and that the probability of assigning a tag to a word depends only on a fixed context window (say, the previous word and tag). Thus, the sequence probability in (1) can be restated as the product of tag probabilities:</Paragraph>
+<Paragraph position="6"> For each of the models described in the next section, the model parameters were estimated based on the provided training data, with no preprocessing or filtering. Then, the most likely tag sequence (based on the model) is selected for each sentence in the test data, and the results are evaluated using the a53a39a54a39a55a4a56a36a56a36a57a34a58a41a59a14a56 script.</Paragraph>
+</Section>
+</Paper>
+

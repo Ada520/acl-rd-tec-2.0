@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A94-1032">
+<Title>Automatic Aquisition of Semantic Attributes for User Defined Words m Japanese to English Machine Translation Satoru Ikehara *, Satoshi Shirai * LAkio Yokoo *</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper proposes a method that automatically acquires the SAs (semantic attributes) of user defined words. Applying this method to the compilation of a user dictionary targeting newspaper article sentences and sentences of software design documents has revealed that the automatically determined SAs include 50 to 80% of the correct attributes. Translation experiments confirmed that the automatically acquired SAs improved translation quality by 6-13%.</Paragraph>
+</Section>
+</Paper>
+

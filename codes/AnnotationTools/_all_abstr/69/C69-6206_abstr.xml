@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C69-6206">
+<Title>A NEW APPROACH TO SYNTAX</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+A NEW APPROACH TO SYNTAX
+By
+</SectionTitle>
+<Paragraph position="0"> B. J. Dasher, Georgia Institute of Technology This paper describes a new method for syntactic analysis of English. Instead of the conventional subject-predicate structure as a basis for analysis, elementary sentence patterns are used. It is observed that there are two basic sentence formats in English.</Paragraph>
+<Paragraph position="1"> One, using a transitive verb, consists of the sequence noun, verb, noun, noun. The other, using an intransitive verb, consists of the sequence nou_.._nn, verb, adjective, noun. In each of these basic forms, syntax is specified by the word order. Since there are 64 ways to arrange four words when they are taken one, two, three, and four at a time, there are 12B elementary or cannonical sentences to be studied. The central goal of analysis is to determine the particular c annonical sentence corresponding to a given statement.</Paragraph>
+<Paragraph position="2"> In order to show how any sentence can be reduced to its basic format, certain essentially algebraic operations are proposed, together with certain rules for transforming one structure into another. Conversely, the same rules may be used to construct a generative grammar that permits a cannonical sentence to be expanded to an equivalent form in accord with prescribed requirements. In as much as the operations are essentially algebraic, the method is very advantageous for computer use.</Paragraph>
+<Paragraph position="3"> Through the use of various devices, word order can be changed without changing essential syntax. Also, the same basic structures can be used to express a variety of semantic relationships. For example, the two sentences, &amp;quot;Give the book to John&amp;quot; and &amp;quot;Save the book for John&amp;quot;, have the same structure. The difference between the t__o_o and fo___~r relationship is semantic rather than grammatical. Moreover, the two statements, &amp;quot;Give John the money&amp;quot; and &amp;quot;Give the money to John&amp;quot;, express the same relationship between~ive, Joh____~n, and money, and it would be the same if an inflected form for Joh_.__~n were used instead of the preposition, or if some other syntactic label were used.</Paragraph>
+<Paragraph position="4"> Thus, it should be possible to begin with a statement in one language, find its corresponding cannonical sentence, transform this cannonical sentence into a corresponding cannonical sentence in a new language, and then reconstruct the statement in the new language. Thus, the method is advantageous for machine translation.</Paragraph>
+<Paragraph position="5"> This paper describes the fund~ental concepts of the scheme and illustrates its potential. Many details remain to be supplied in order to obtain a working system.</Paragraph>
+</Section>
+</Paper>
+

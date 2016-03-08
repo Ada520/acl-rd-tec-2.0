@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-1805">
+<Title>Adjective based inference</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we propose a fine grained classification of english adjectives geared at modeling the distinct inference patterns licensed by each adjective class. We show how it can be implemented in description logic and illustrate the predictions made by a series of examples. The proposal has been implemented using Description logic as a semantic representation language and the prediction verified using the DL theorem prover RACER.</Paragraph>
+<Paragraph position="1"> Topics: Textual Entailment, Adjectival Semantics</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-1002">
+<Title>ADAM: An Architecture for xml-based Dialogue Annotation on Multiple levels</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper annotation modularity and use of annotation meta-schemes are identified as basic requirements for achieving actual corpora reusability. We discuss these concepts and the way they are implemented in the architectural framework of the ADAM corpus, which is a corpus of 450 Italian spontaneous dialogues. The design of ADAM architecture is compatible with as many practices of dialogue annotation as possible, as well as approaches to annotation at different levels.</Paragraph>
+</Section>
+</Paper>
+

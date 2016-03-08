@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W99-0213">
+<Title>United Kingdom</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, it is argued that 'coreference annotation', as currently performed in the MUC community, goes well beyond annotation of the relation of coreference as it is commonly understood. As a result, it is not always clear what semantic relation these annotations are actually encoding. The paper discusses a number of interrelated problems with coreference annotation and concludes that rethinking of the coreference task is needed before the task can be expanded (e.g., to cover part/whole relations) as has recently been advocated. As a step towards solution of the problems with coreference annotation, one possible simplification of the annotation task is suggested. This strategy can be summed up by the phrase &amp;quot;Coreference annotation should annotate coreference relations, and coreference relations only&amp;quot;.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C94-1070">
+<Title>THE &amp;quot;WHITEBOARD&amp;quot; ARCHITECTURE: A WAY TO INTEGRATE HETEROGENEOUS COMPONENTS OF NLP SYSTEMS</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> We present a new softw,'u'e architecture for NLP systems made of heterogeneous components, and demonstrate an architectural prototype we have built at ATR iu the context of Speech Translation.</Paragraph>
+<Paragraph position="1"> KEYWORDS: Distributed NLP systems, Software architectures, Whiteboard.</Paragraph>
+</Section>
+</Paper>
+

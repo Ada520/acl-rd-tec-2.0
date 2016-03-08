@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J79-1044">
+<Title>CHAIR DRINK INK; HE CLOSE MIXD: SHIP PLOW SEA; SHIP PI,OW CHAIR; CHAIR PI,O\J SEA; SI-IIP TIIS IhTEG RATE ; ISDIFFERENCE DISINTEGllATE ; COUNTRY LEAF-TO PROSPERITY; PROSPERITY DISINTEGRATE:</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+COMPUTER UNDERSIANDING OF
+METAPHORICALLY USED VERBS
+SYLVIA WEBER RUSSELL
+</SectionTitle>
+<Paragraph position="0"> A major problem conrronting computer pro:lram:. driven by nnturol-1 ngu ge input consists of thc interprctntion of 1inguh.l ic cxprossiobs for which the int endcd literal meaning is not e:q~licitly given by the lc~ioi~l coml&gt;onents of the expresL;ion. ~'tn ccxi~mple is thc &amp;quot;extended useu of the verb 'leapt in 'the country leapt to prosperity'. buch extended usages--whether cunsi-as inilntcd or original-czn be considered metaphorical to the cktcnt th-,t they are based on analogies. This paper establishes a framework for interpretin? netaphoric,ll expres ionk by analysis of underlying cbstrgct cor:~ponents --such 9s &amp;quot;trnns tio on&amp;quot; and &amp;quot;inten'i'h~s is in contrcst to pre- sity&amp;quot; for the nbovc example. viouc: epproaches which rely on 3 a~mbcr ~f word senses intended to represent metnp oricL21 usi ges directly.</Paragraph>
+<Paragraph position="1"> An eexperimentcl rro )ram find, literal inter7rctations for inyut rcprc~snting a simyle scnt~l ce m \.hit!. the &amp;quot;verb21 concepttf (action, state or cttributc) is used metaphorically. This in ut has thc gcner 1 conAguration 1 ~uB JCfl Vc,&amp; OBJECT ;~UXCE/GO.IL or 2 UBJLCT PiLDICA TE-ADJECTIVEf. The interpretation are ~ive? in the f om of primitive ;;nglisFI pcraphrases .</Paragraph>
+<Paragraph position="2"> The-e parsphrases , which are intended merely to illustrate the informcrtisn which czn be extrrcted from metr.?:~orical inmt , dre bL sed on scmr.ntic representations which are convertible to structures specified by SchL.nkt s conceptual deaendency theory. The interpretation of mctaphori~nlly used verbs thus represents a particul..r case of the general tusks of disambiguation and interpretation encountered by the conce-tual dependency parser, The hpproxim~tion to the literal mc, ning of n metaphorical verb is achieved through reference to semantic descriptions based primarily on n srn.111 number of. conceptual features and absrrrct structures. THese descriptors are specif icd Lor classes of those concepts which ore c:qrcosed in dnglish by nouns, verbs, adjectives .:nd prepositional phrases. The complete set of values L-or the clescriptors or verbal concepts is represented as a multi-dimensional matrix containing the defined conceptd. This matrix, which is only p~rtially described in this paper, exhibits relatlonshipb and analogies wldch underlie metaphorically used verbs.</Paragraph>
+<Paragraph position="3"> The relative independence and cbutrcct chnracter of the basic sernuntic descriptors render rhe system easily extensible to f urthcr capabilities, such as more conclusive interpretations or the tre tment or' more chnllenging expressions. The emphasis on systematic uescriptions ,nd primitive concepts to produce sim~le p raphrases is viewed as reilecting hwn understanding or novel linguistic expressions an&amp; providing a model to explore questions related to such under-tanding.</Paragraph>
+</Section>
+</Paper>
+

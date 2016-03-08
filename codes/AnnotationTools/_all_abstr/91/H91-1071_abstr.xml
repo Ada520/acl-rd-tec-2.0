@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H91-1071">
+<Title>Collection of Spontaneous Speech for the ATIS Domain and Comparative Analyses of Data Collected at MIT and TI 1</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> As part of our development of a spoken language system in the ATIS domain, we have begun a smail-scale effort in collecting spontaneous speech data. Our procedure differs from the one used at 'i~xas Instruments (TI) in many respects, the most important being the reliance on an existing system, rather than a wizard, to participate in data collection. Over the past few months, we have collected over 3,600 spontaneously generated sentences from 100 subjects. This paper documents our data collection process, and makes some comparative anaiyses of our data with those collected at TI. The advantages as well as disadvantages of this method of data collection will be discussed.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C02-2017">
+<Title>Robust Interpretation of User Requests for Text Retrieval in a Multimodal Environment</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe a parser for robust and flexible interpretation of user utterances in a multi-modal system for web search in newspaper databases. Users can speak or type, and they can navigate and follow links using mouse clicks. Spoken or written queries may combine search expressions with browser commands and search space restrictions. In interpreting input queries, the system has to be fault-tolerant to account for spontanous speech phenomena as well as typing or speech recognition errors which often distort the meaning of the utterance and are difficult to detect and correct. Our parser integrates shallow parsing techniques with knowledge-based text retrieval to allow for robust processing and coordination of input modes. Parsing relies on a two-layered approach: typical meta-expressions like those concerning search, newspaper types and dates are identified and excluded from the search string to be sent to the search engine. The search terms which are left after preprocessing are then grouped according to co-occurrence statistics which have been derived from a newspaper corpus. These co-occurrence statistics concern typical noun phrases as they appear in newspaper texts.</Paragraph>
+</Section>
+</Paper>
+

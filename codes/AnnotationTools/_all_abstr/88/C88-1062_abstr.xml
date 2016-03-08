@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C88-1062">
+<Title>VOCNETS - A TOOL FOR HANDLING FINITE VOCABULARIES</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A method is proposed for storing a finite vocabulary in a manner which makes it convenient to recognize words and substrings of words. The representation, which can be generated automatically from a list of words or from given representations of other sets by means of which the vocabulary has been defined through set or string operations, has the form of a modified finite-state grammar, a form eliminating the multiplicative effects of conjunction, complementation, etc., on the node sets of conventional finite-state representations.</Paragraph>
+</Section>
+</Paper>
+

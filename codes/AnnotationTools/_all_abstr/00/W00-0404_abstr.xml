@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-0404">
+<Title>Extracting Key Paragraph based on Topic and Event Detection -- Towards Multi-Document Summarization</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper proposes a method for extracting key paragraph for multi-document summarization based on distinction between a topic and a~ event. A topic emd an event are identified using a simple criterion called domain dependency of words. The method was tested on the TDT1 corpus which has been developed by the TDT Pilot Study and the result can be regarded as promising the idea of domain dependency of words effectively employed.</Paragraph>
+</Section>
+</Paper>
+

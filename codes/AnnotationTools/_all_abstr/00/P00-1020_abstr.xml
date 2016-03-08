@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P00-1020">
+<Title>An Empirical Study of the Influence of Argument Conciseness on Argument Effectiveness</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We have developed a system that generates evaluative arguments that are tailored to the user, properly arranged and concise. We have also developed an evaluation framework in which the effectiveness of evaluative arguments can be measured with real users. This paper presents the results of a formal experiment we have performed in our framework to verify the influence of argument conciseness on argument effectiveness</Paragraph>
+</Section>
+</Paper>
+

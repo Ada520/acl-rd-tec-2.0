@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-2167">
+<Title>The Power of Words in Message Planning</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> A major step in natural language-generation (NLG) consists in choosing content words for expressing the planned message. While this sounds self evident, it contains at least two assumptions that are easily overlooked: (a) thought precedes language; (b) thought is entirely encoded or specified before lexicalization takes place. My contribution in this paper consists in providing evidence for the following three claims: (a) thought is underspecified at the onset of lexicalization; (b) language can feed back on thought, i.e. words can specify the conceptual component; (c) our mental dictionaries are the interface between language and thought.</Paragraph>
+<Paragraph position="1"> NLG has often been viewed as a two step process.</Paragraph>
+<Paragraph position="2"> During the first (deep generation) conceptual choices are made (content determination, discourse planning), during the second (surface generation) linguistic operations are performed (word choice, determination of syntactic structure). While this kind of decomposition has proven useful for practical purposes, ---dividing the process into separate components increased the control, -- it has also encouraged researchers to build into their systems wrong assumptions: content is generally determined in one go (one-shot process), and information flow is one-directional, going downwards from the conceptual level to the linguistic level. As I will show by taking an example from the lexicon, both these conclusions are ill-lbunded, as they suggest that there is no feedback between the different components.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-0803">
+<Title>Speech Annotation by Multi-sensory Recording</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes our effort to mark and annotate read Cantonese speech for both citation pronunciation and reading aloud sentences/phrases. Four signals are recorded simultaneously to assist marking and annotation: acoustic, laryngograph, nasal and air burst signals. A coarse match between voiced segments of speech and voiced segments of the phonetic spelling of the utterance is executed by dynamic programming as for approximate string matching. Finally, we discuss general issues in the design of our softxvare for annotation. (a)</Paragraph>
+</Section>
+</Paper>
+

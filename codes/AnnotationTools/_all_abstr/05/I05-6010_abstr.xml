@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="I05-6010">
+<Title>Some remarks on the Annotation of Quantifying Noun Groups in Treebanks</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This article is devoted to the problem of quantifying noun groups in German.</Paragraph>
+<Paragraph position="1"> After a thorough description of the phenom ena, the results of corpus-based investigations are described. Moreover, some examples are given that underline the necessity of integrating some kind of information other than grammar sensu stricto into the treebank.</Paragraph>
+<Paragraph position="2"> We argue that a more sophisticated and fine-grained annotation in the tree-bank would have very positve effects on stochastic parsers trained on the tree-bank and on grammars induced from the treebank, and it would make the treebank more valuable as a source of data for theoretical linguistic investigations. The information gained from corpus research and the analyses that are proposed are realized in the framework of SILVA, a parsing and extraction tool for German text corpora.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-2162">
+<Title>Improving SMT quality with morpho-syntactic analysis</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In the framework of statistical machine translation (SMT), correspondences between the words in the source and the target language are learned from bilingual corpora on the basis of so-called alignment mode, Is. Many of the statistical systems use little or no linguistic knowledge to structure the underlying models. In this paper we argue that training data is typically not large enough to sutficiently represent the range of different phenomena in natural languages and that SMT can take advantage of the explicit introduction of some knowledge about the lmlgnages under consideration. The improvement of the translation results is demonstrated on two ditferent German-English corpora.</Paragraph>
+</Section>
+</Paper>
+

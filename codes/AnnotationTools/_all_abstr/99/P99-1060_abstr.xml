@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P99-1060">
+<Title>An Earley-style Predictive Chart Parsing Method for Lambek Grammars</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a new chart parsing method for Lambek grammars, inspired by a method for D-Tree grammar parsing. The formulae of a Lambek sequent are firstly converted into rules of an indexed grammar formalism, which are used in an Earley-style predictive chart algorithm.</Paragraph>
+<Paragraph position="1"> The method is non-polynomial, but performs well for practical purposes -- much better than previous chart methods for Lambek grammars.</Paragraph>
+</Section>
+</Paper>
+

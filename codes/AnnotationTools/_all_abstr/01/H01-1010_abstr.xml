@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H01-1010">
+<Title>Automatic Predicate Argument Analysis of the Penn TreeBank</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. INTRODUCTION
+</SectionTitle>
+<Paragraph position="0"> One of the primary tasks of Information Extraction is recognizing all of the different guises in which a particular type of event can appear. For instance, a meeting between two dignitaries can be referred to as A meets B or A and B meet, or a meeting between A and B took place/was held/opened/convened/finished/dragged on or A had/presided over a meeting/conference with B There are several different lexical items that can be used to refer to the same type of event, and several different predicate argument patterns that can be used to specify the participants. Correctly identifying the type of the event and the roles of the participants is a critical factor in accurate information extraction. In this paper we refer to the specific subtask of participant role identification as predicate argument tagging. The type of syntactic and semantic information associated with verbs in Levin's Preliminary Classification of English verbs, [Levin,93] can be a useful resource for an automatic predicate argument tagging system. For instance, the 'meet' class includes the following members, meet, consult, debate and visit, which can all be used to refer to the meeting event type described above. In addition, the following types of syntactic frames are associated with these verbs: A met/visited/debated/consulted B A met/visited/debated/consulted with B.</Paragraph>
+<Paragraph position="1"> A and B met/visited/debated/consulted (with each other).</Paragraph>
+<Paragraph position="2"> This type of frame information can be specified at the class level, but there is always a certain amount of verb-specific information that must still be associated with the individual lexical items, such as sense distinctions. For the purposes of this paper we will only be considering sense distinctions based on different predicate argument structures. We begin by giving more information about the Levin classes and then describe the system that automatically labels the arguments in a predicate argument structure. We end by giving the results of evaluating this system versus human annotators performing the same task. Our input to the tagger is the Penn TreeBank [Marcus, 94], so the sentences already have accurate syntactic parses associated with them.</Paragraph>
+</Section>
+</Paper>
+

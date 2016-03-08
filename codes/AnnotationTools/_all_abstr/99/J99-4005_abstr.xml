@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J99-4005">
+<Title>Squibs and Discussions Decoding Complexity in Word-Replacement Translation Models</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> Statistical models are widely used in attacking natural language problems. The source-channel framework is especially popular, finding applications in part-of-speech tagging, accent restoration, transliteration, speech recognition, and many other areas. In this framework, we build an underspecified model of how certain structures (such as strings) are generated and transformed. We then instantiate the model through training on a database of sample structures and transformations.</Paragraph>
+<Paragraph position="1"> Recently, Brown et al. (1993) built a source-channel model of translation between English and French. They assumed that English strings are produced according to some stochastic process (source model) and transformed stochastically into French strings (channel model). To translate French to English, it is necessary to find an English source string that is likely according to the models. With a nod to its cryptographic antecedents, this kind of translation is called decoding. This paper looks at decoding complexity.</Paragraph>
+</Section>
+</Paper>
+

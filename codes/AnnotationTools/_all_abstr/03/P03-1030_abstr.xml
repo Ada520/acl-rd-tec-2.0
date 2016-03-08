@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P03-1030">
+<Title>Optimizing Story Link Detection is not Equivalent to Optimizing New Event Detection</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Link detection has been regarded as a core technology for the Topic Detection and Tracking tasks of new event detection. In this paper we formulate story link detection and new event detection as information retrieval task and hypothesize on the impact of precision and recall on both systems. Motivated by these arguments, we introduce a number of new performance enhancing techniques including part of speech tagging, new similarity measures and expanded stop lists. Experimental results validate our hypothesis.</Paragraph>
+</Section>
+</Paper>
+

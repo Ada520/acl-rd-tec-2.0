@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C02-1100">
+<Title>Lenient Default Unification for Robust Processing within Unification Based Grammar Formalisms</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes new default unification, lenient default unification. It works efficiently, and gives more informative results because it maximizes the amount of information in the result, while other default unification maximizes it in the default. We also describe robust processing within the framework of HPSG. We extract grammar rules from the results of robust parsing using lenient default unification. The results of a series of experiments show that parsing with the extracted rules works robustly, and the coverage of a manually-developed HPSG grammar for Penn Treebank was greatly increased with a little overgeneration.</Paragraph>
+</Section>
+</Paper>
+

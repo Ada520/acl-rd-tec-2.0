@@ -1,0 +1,66 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-2012">
+<Title>GraSp: Grammar learning from unlabelled speech corpora</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents the ongoing project Computational Models of First Language Acquisition, together with its current product, the learning algorithm GraSp.</Paragraph>
+<Paragraph position="1"> GraSp is designed specifically for inducing grammars from large, unlabelled corpora of spontaneous (i.e. unscripted) speech. The learning algorithm does not assume a predefined grammatical taxonomy; rather the determination of categories and their relations is considered as part of the learning task. While GraSp learning can be used for a range of practical tasks, the long-term goal of the project is to contribute to the debate of innate linguistic knowledge - under the hypothesis that there is no such.</Paragraph>
+<Paragraph position="2"> Introduction Most current models of grammar learning assume a set of primitive linguistic categories and constraints, the learning process being modelled as category filling and rule instantiation - rather than category formation and rule creation. Arguably, distributing linguistic data over predefined categories and templates does not qualify as grammar 'learning' in the strictest sense, but is better described as 'adjustment' or 'adaptation'. Indeed, Chomsky, the prime advocate of the hypothesis of innate linguistic principles, has claimed that &amp;quot;in certain fundamental respects we do not really learn language&amp;quot; (Chomsky 1980: 134). As Chomsky points out, the complexity of the learning task is greatly reduced given a structure of primitive linguistic constraints (&amp;quot;a highly restrictive schematism&amp;quot;, ibid.). It has however been very hard to establish independently the psychological reality of such a structure, and the question of innateness is still far from settled. While a decisive experiment may never be conceived, the issue could be addressed indirectly, e.g. by asking: Are innate principles and parameters necessary preconditions for grammar acquisition? Or rephrased in the spirit of constructive logic: Can a learning algorithm be devised that learns what the infant learns without incorporating specific linguistic axioms? The presentation of such an algorithm would certainly undermine arguments referring to the 'poverty of the stimulus', showing the innateness hypothesis to be dispensable.</Paragraph>
+<Paragraph position="3"> This paper presents our first try.</Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+1.1 Psycho-linguistic preconditions
+</SectionTitle>
+<Paragraph position="0"> Typical spontaneous speech is anything but syntactically 'well-formed' in the Chomskyan sense of the word.</Paragraph>
+<Paragraph position="1"> right well let's er --= let's look at the applications - erm - let me just ask initially this -- I discussed it with er Reith er but we'll = have to go into it a bit further - is it is it within our erm er = are we free er to er draw up a rather = exiguous list - of people to interview (sample from the London-Lund corpus) Yet informal speech is not perceived as being disorderly (certainly not by the language learning infant), suggesting that its organizing principles differ from those of the written language. So, arguably, a speech grammar inducing algorithm should avoid referring to the usual categories of text based linguistics 'sentence', 'determiner phrase', etc.1 Instead we allow a large, indefinite number of (indistinguishable) basic categories - and then leave it to the learner to shape them, fill them up, and combine them. For this task, the learner needs a built-in concept of constituency. This kind of innateness is not in conflict with our main hypothesis, we believe, since constituency as such is not specific to linguistic structure.</Paragraph>
+</Section>
+<Section position="2" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+1.2 Logical preliminaries
+</SectionTitle>
+<Paragraph position="0"> For the reasons explained, we want the learning algorithm to be strictly data-driven. This puts special demands on our parser which must be robust enough to accept input strings with little or no hints of syntactic structure (for the early stages of a learning session), while at the same time retaining the discriminating powers of a standard context free parser (for the later stages).</Paragraph>
+<Paragraph position="1"> Our solution is a sequent calculus, a variant of the Gentzen-Lambek categorial grammar formalism (L) enhanced with non-classical rules for isolating a residue of uninterpretable sequent elements. The classical part is identical to L (except that antecedents may be empty).</Paragraph>
+<Paragraph position="2">  annotation of spoken corpora with traditional tags. These seven rules capture the input parts that can be interpreted as syntactic constituents (examples below). For the remaining parts, we include two non-classical rules (sL and sR).2</Paragraph>
+<Paragraph position="4"> s is a basic category. [?]x are (possibly empty) strings of categories. Superscripts + - denote polarity of residual elements.</Paragraph>
+<Paragraph position="5"> By way of an example, consider the input string right well let's er let's look at the applications as analyzed in an early stage of a learning session. Since no lexical structure has developed yet, the input is mapped onto a sequent of basic</Paragraph>
+<Paragraph position="7"> Using sL recursively, each category of the antecedent (the part to the left of =) is removed from the main sequent. As the procedure is fairly simple, we just show a fragment of the proof.</Paragraph>
+<Paragraph position="8"> Notice that proofs read most easily bottom-up.</Paragraph>
+<Paragraph position="10"> ... c5 c81 c215 c10 c1 c891 = c0 In this proof there are no links, meaning that no grammatical structure was found. Later, when the lexicon has developed, the parser may 2 The calculus presented here is slightly simplified. Two rules are missing, and so is the reserved category T ('noise') used e.g. for consequents (in place of c0 of the example). Cf. Henrichsen (2000). 3 By convention the indexing of category names reflects the frequency distribution: If word W has rank n in the training corpus, it is initialized as W:cn . recognize more structure in the same input: -------l --------l</Paragraph>
+<Paragraph position="12"> ... let's look at the applications This proof tree has three links, meaning that the disorder of the input string (wrt. the new lexicon) has dropped by three degrees. More on disorder shortly.</Paragraph>
+</Section>
+<Section position="3" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+1.3 The algorithm in outline
+</SectionTitle>
+<Paragraph position="0"> Having presented the sequent parser, we now show its embedding in the learning algorithm GraSp (Grammar of Speech).</Paragraph>
+<Paragraph position="1"> For reasons mentioned earlier, the common inventory of categories (S, NP, CN, etc) is avoided. Instead each lexeme initially inhabits its own proto-category. If a training corpus has, say, 12,345 word types the initial lexicon maps them onto as many different categories. A learning session, then, is a sequence of lexical changes, introducing, removing, and manipulating the operators /, \, and * as guided by a well-defined measure of structural disorder. We prefer formal terms without a linguistic bias (&amp;quot;no innate linguistic constraints&amp;quot;). Suggestive linguistic interpretations are provided in square brackets.</Paragraph>
+<Paragraph position="2"> A-F summarize the learning algorithm.</Paragraph>
+<Paragraph position="3"> A) There are categories. Complex categories are built from basic categories using /, \, and *:</Paragraph>
+<Paragraph position="5"> B) A lexicon is a mapping of lexemes [word types represented in phonetic or enrichedorthographic encoding] onto categories.</Paragraph>
+<Paragraph position="6"> C) An input segment is an instance of a lexeme [an input word]. A solo is a string of segments [an utterance delimited by e.g. turntakes and pauses]. A corpus is a bag of soli [a transcript of a conversation].</Paragraph>
+<Paragraph position="7"> D) Applying an update L:C1-C2 in lexicon Lex means changing the mapping of L in Lex from C1 to C2. Valid changes are minimal, i.e. C2 is construed from C1 by adding or removing 1 basic category (using \, /, or *).</Paragraph>
+<Paragraph position="8"> E) The learning process is guided by a measure of disorder. The disorder function Dis takes a sequent S [the lexical mapping of an utterance] returning the number of uninterpretable atoms in S, i.e. s+s and s-s in a (maximally linked) proof.</Paragraph>
+<Paragraph position="10"> DIS(Lex,K) is the total amount of disorder in training corpus K wrt. lexicon Lex, i.e. the sum of Dis-values for all soli in K as mapped by Lex.</Paragraph>
+<Paragraph position="11"> F) A learning session is an iterative process. In each iteration i a suitable update Ui is applied in the lexicon Lexi-1 producing Lexi . Quantifying over all possible updates, Ui is picked so as to maximize the drop in disorder (DisDrop):</Paragraph>
+<Paragraph position="13"> The session terminates when no suitable update remains.</Paragraph>
+<Paragraph position="14"> It is possible to GraSp efficiently and yet preserve logical completeness. See Henrichsen (2000) for discussion and demonstrations.</Paragraph>
+</Section>
+<Section position="4" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+1.4 A staged learning session
+</SectionTitle>
+<Paragraph position="0"> Given this tiny corpus of four soli ('utterances') if you must you can if you must you must and if we must we must if you must you can and if you can you must if we must you must and if you must you must  As shown, training corpora can be manufactured so as to produce lexical structure fairly similar to what is found in CG textbooks. Such close similarity is however not typical of 'naturalistic' learning sessions - as will be clear in section 2.</Paragraph>
+</Section>
+<Section position="5" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+1.5 Why categorial grammar?
+</SectionTitle>
+<Paragraph position="0"> In CG, all structural information is located in the lexicon. Grammar rules (e.g. VP - Vt N) and parts of speech (e.g. 'transitive verb', 'common noun') are treated as variants of the same formal kind. This reduces the dimensionality of the logical learning space, since a CG-based learner needs to induce just a single kind of structure.</Paragraph>
+<Paragraph position="1"> Besides its formal elegance, the CG basis accomodates a particular kind of cognitive models, viz. those that reject the idea of separate mental modules for lexical and grammatical processing (e.g. Bates 1997). As we see it, our formal approach allows us the luxury of not taking sides in the heated debate of modularity.5</Paragraph>
+</Section>
+</Section>
+</Paper>
+

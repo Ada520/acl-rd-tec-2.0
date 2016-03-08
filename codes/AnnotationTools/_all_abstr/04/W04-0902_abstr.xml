@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-0902">
+<Title>Solving Logic Puzzles: From Robust Processing to Precise Semantics</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents intial work on a system that bridges from robust, broad-coverage natural language processing to precise semantics and automated reasoning, focusing on solving logic puzzles drawn from sources such as the Law School Admission Test (LSAT) and the analytic section of the Graduate Record Exam (GRE). We highlight key challenges, and discuss the representations and performance of the prototype system.</Paragraph>
+</Section>
+</Paper>
+

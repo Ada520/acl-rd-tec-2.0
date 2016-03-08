@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-1811">
+<Title></Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+References
+</SectionTitle>
+<Paragraph position="0"> Akiko N. Aizawa. 2003. An information-theoretic perspective of tf-idf measures. Information Processing and Management.</Paragraph>
+<Paragraph position="1"> D. Bourigault and C. Jacquemin and M. C. L'Homme. 1998. COLING ACL workshop on computational terminology (Computerm).</Paragraph>
+<Paragraph position="2"> B. Daille and E. Gaussier and M. Lange. 1994. Towards automatic extraction of monolingual and bilingual terminology. COLING.</Paragraph>
+<Paragraph position="3"> E. Eumeridou and B. Nkwenti-Azeh and J. McNaught. 2002. The contribution of verbal semantic content towards recognition. International Journal of Corpus Linguistics. K. Kageura and T. Koyama, eds. 2000. Special Issues on Japanese term extraction: terminology.</Paragraph>
+<Paragraph position="4"> J. Klavans and M. Y. Kan. 1998. Role of verbs in document analysis. COLING ACL.</Paragraph>
+<Paragraph position="5"> H. Mima and S. Ananiadou. An application and evaluation of the C/NC-value approach for the automatic term recognition of multi-word units in Japanese. Terminology. M. F. Moens. 2000. Automatic indexing and abstracting of document texts.. Dordrecht: Kluwer.</Paragraph>
+<Paragraph position="6"> H. Nakagawa. 2000. Automatic term recognition on statistics of compound nouns. Terminology.</Paragraph>
+<Paragraph position="7"> F. Pereira and N. Tishby and L. Lee. 1993. Distributional clustering of English words. ACL.</Paragraph>
+<Paragraph position="8"> J. F. Sowa. 1993. Lexical structures and conceptual structures. In Pustejovsky, ed., Semantic and Lexicon. Kluwer.</Paragraph>
+<Paragraph position="9"> T. Utsuro and T. Miyata and Y. Matsumoto. 1998. General-to-specific model selection for subcategorization preference. COLING ACL.</Paragraph>
+</Section>
+</Paper>
+

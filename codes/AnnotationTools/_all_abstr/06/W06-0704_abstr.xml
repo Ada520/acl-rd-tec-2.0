@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-0704">
+<Title>Sydney, July 2006. c(c)2006 Association for Computational Linguistics Situated Question Answering in the Clinical Domain: Selecting the Best Drug Treatment for Diseases</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Unlike open-domain factoid questions, clinical information needs arise within the rich context of patient treatment. This environment establishes a number of constraints on the design of systems aimed at physicians in real-world settings. In this paper, we describe a clinical question answering system that focuses on a class of commonly-occurring questions: &amp;quot;What is the best drug treatment for X?&amp;quot;, where X can be any disease. To evaluate our system, we built a test collection consisting of thirty randomly-selected diseases from an existing secondary source.</Paragraph>
+<Paragraph position="1"> Both an automatic and a manual evaluationdemonstratethatoursystemcompares null favorably to PubMed, the search system most commonly-used by physicians today.</Paragraph>
+</Section>
+</Paper>
+

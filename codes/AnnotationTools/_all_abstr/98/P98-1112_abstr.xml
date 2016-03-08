@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-1112">
+<Title>by NSF award #IRI-9618797 STIMULATE: Generating Coherent Summaries of On-Line Documents: Combining</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present results of two methods for assessing the event profile of news articles as a function of verb type. The unique contribution of this research is the focus on the role of verbs, rather than nouns. Two algorithms are presented and evaluated, one of which is shown to accurately discriminate documents by type and semantic properties, i.e. the event profile. The initial method, using WordNet (Miller et al. 1990), produced multiple cross-classification of articles, primarily due to the bushy nature of the verb tree coupled with the sense disambiguation problem. Our second approach using English Verb Classes and Alternations (EVCA) Levin (1993) showed that monosemous categorization of the frequent verbs in WSJ made it possible to usefully discriminate documents. For example, our results show that articles in which communication verbs predominate tend to be opinion pieces, whereas articles with a high percentage of agreement verbs tend to be about mergers or legal cases. An evaluation is performed on the results using Kendall's ~-. We present convincing evidence for using verb semantic classes as a discriminant in document classification. 1</Paragraph>
+</Section>
+</Paper>
+

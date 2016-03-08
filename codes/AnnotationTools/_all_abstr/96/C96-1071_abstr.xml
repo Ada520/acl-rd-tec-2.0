@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-1071">
+<Title>Evaluation of an Algorithm for the Recognition and Classification of Proper Names</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe an information extraction system in which four classes of naming expressions organisation, person, location and tinm names are recognised and classified with nearly 92% combined precision and recall. The system applies a mixture of techniques to perform this task and these are described in detail. We have quantitatively evaluated the system against a blind test set of Wall Street Journal business articles and report results not only for the system as a whole, but for each component technique and for each class of name. These results show that in order to have high recall, the system needs to make use not only of information internal to the naming expression but also information from outside the nmne.</Paragraph>
+<Paragraph position="1"> They also show that the contribution of each system component w~ries fl'om one (:lass of name expression to another.</Paragraph>
+</Section>
+</Paper>
+

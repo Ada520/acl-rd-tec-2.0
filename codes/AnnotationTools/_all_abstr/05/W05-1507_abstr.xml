@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W05-1507">
+<Title>Machine Translation as Lexicalized Parsing with Hooks</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We adapt the &amp;quot;hook&amp;quot; trick for speeding up bilexical parsing to the decoding problem for machine translation models that are based on combining a synchronous context free grammar as the translation model with an n-gram language model. This dynamic programming technique yields lower complexity algorithms than have previously been described for an important class of translation models.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-2811">
+<Title>MultilingualinteractiveexperimentswithFlickr PaulClough Departmentof InformationStudies UniversityofSheffield</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Thispaperpresentsa proposalforiCLEF 2006, the interactive track of the CLEF cross-languageevaluationcampaign. In thepast,iCLEFhasaddressedapplications such as informationretrieval and question answering. However, for 2006 the focushas turnedto text-basedimageretrievalfromFlickr. WedescribeFlickr,the challengesthiskindofcollectionpresents tocross-languageresearchers,andsuggest initialiCLEFtasks.</Paragraph>
+</Section>
+</Paper>
+

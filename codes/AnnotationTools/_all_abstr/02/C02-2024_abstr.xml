@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C02-2024">
+<Title>An Indexing Scheme for Typed Feature Structures</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes an indexing substrate for typed feature structures (ISTFS), which is an efficient retrieval engine for typed feature structures. Given a set of typed feature structures, the ISTFS efficiently retrieves its subset whose elements are unifiable or in a subsumption relation with a query feature structure. The efficiency of the ISTFS is achieved by calculating a unifiability checking table prior to retrieval and finding the best index paths dynamically. null</Paragraph>
+</Section>
+</Paper>
+

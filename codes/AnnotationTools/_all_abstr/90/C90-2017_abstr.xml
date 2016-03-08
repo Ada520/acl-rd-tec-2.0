@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-2017">
+<Title>Discourse Anaphora</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+2 Introduction
+</SectionTitle>
+<Paragraph position="0"> Both in formM semantics and in NLP, the issue of (pro)nominal reference has aroused much interest. Formal discourse semantics was mainly inspired by the Discourse Representation Theory developed by Kamp (1981) and, the closely related, File. Change Semantics (tIeim, 1982). In standard I)R;I', hardly any restrictions were imposed on the relation between antecedent and anaphor.</Paragraph>
+<Paragraph position="1"> This contrasts strongly with work done in the NLP area. Knowledge of the world and intricate inferences play key roles in restricting the number of antecedents for anaphora. Insights from artificial intelligence, linguistics and psychology are all integrated into complex procedures.</Paragraph>
+<Paragraph position="2"> The model I will describe in this paper considers the linguistic context as a means to restrict the large :number of interpretations that an expression in principle has to a limited number of alternatives. Knowledge of the world and/or preference of one alternative to the others may only restrict the domain farther, never stretch it. This view will be defended in the paper. The former limitation is discussed under the name of 'possible' analyses, the latter is christened 'preferred' analyses.</Paragraph>
+<Paragraph position="3"> I will first introduce the model in the next section. Sections 4 and 5 will motivate the approach and compare it to other proposals. Section 6 will describe and discuss the so-called associative anaphora and show that the model adopted can be extended to non-standard anaphoric reference a.s well.</Paragraph>
+</Section>
+</Paper>
+

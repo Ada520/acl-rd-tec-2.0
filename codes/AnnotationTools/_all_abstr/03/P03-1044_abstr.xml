@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P03-1044">
+<Title>Counter-Training in Discovery of Semantic Patterns</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a method for unsupervised discovery of semantic patterns.</Paragraph>
+<Paragraph position="1"> Semantic patterns are useful for a variety of text understanding tasks, in particular for locating events in text for information extraction. The method builds upon previously described approaches to iterative unsupervised pattern acquisition.</Paragraph>
+<Paragraph position="2"> One common characteristic of prior approaches is that the output of the algorithm is a continuous stream of patterns, with gradually degrading precision.</Paragraph>
+<Paragraph position="3"> Our method differs from the previous pattern acquisition algorithms in that it introduces competition among several scenarios simultaneously. This provides natural stopping criteria for the unsupervised learners, while maintaining good precision levels at termination. We discuss the results of experiments with several scenarios, and examine different aspects of the new procedure.</Paragraph>
+</Section>
+</Paper>
+

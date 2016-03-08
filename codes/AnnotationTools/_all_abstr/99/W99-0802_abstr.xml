@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W99-0802">
+<Title>A Modern Computational Linguistics Course Using Dutch</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes material for a course in computational linguistics which concentrates on building (parts of) realistic language technology applications for Dutch. We present an overview of the reasons for developing new material, rather than using existing text-books. Next we present an overview of the course in the form of six exercises, covering advanced use of finite state methods, grammar development, and natural language interfaces. The exercises emphasise the benefits of special-purpose development tools, the importance of testing on realistic data-sets, and the possibilities for web-applications based on natural language processing.</Paragraph>
+</Section>
+</Paper>
+

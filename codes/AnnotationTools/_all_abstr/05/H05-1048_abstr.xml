@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H05-1048">
+<Title>Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing (HLT/EMNLP), pages 379-386, Vancouver, October 2005. c(c)2005 Association for Computational Linguistics Detection of Entity Mentions Occurring in English and Chinese Text</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we describe an integrated approach to entity mention detection that yields a monolithic, almost language independent system. It is optimal in the sense that all categorical constraints are simultaneously considered. The system is compact and easy to develop and maintain, since only a single set of features and classi ers are needed to be designed and optimized. It is implemented using one-versus-all support vector machine (SVM) classi ers and a number of feature extractors at several linguistic levels. SVMs are well known for their ability to handle a large set of overlapping features with theoretically sound generalization properties. Data sparsity might be an important issue as a result of a large number of classes and relatively moderate training data size. However, we report results that the integrated system performs as good as a pipelined system that decomposes the problem into a few smaller subtasks. We conduct all our experiments using ACE 2004 data, evaluate the systems using ACE metrics and report competitive performance.</Paragraph>
+</Section>
+</Paper>
+

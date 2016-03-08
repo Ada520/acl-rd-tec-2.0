@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H92-1025">
+<Title>Probabilistic Prediction and Picky Chart Parsing*</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> This paper describes Picky, a probabilistic agenda-based chart parsing algorithm which uses a technique called probabilistic prediction to predict which grammar rules are likely to lead to an acceptable parse of the input. In tests on randomly selected test data, &amp;quot;Picky generates fewer edges on average than other CKY-like algorithms, while achieving 89~ first parse accuracy and also enabling the parser to process sentences with false starts and other minor disfluencies. Further, sentences which are parsed completely by the probabilistic prediction technique have a 97~0 first parse accuracy.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P90-1013">
+<Title>THE COMPUTATIONAL COMPLEXITY OF AVOIDING CONVERSATIONAL IMPLICATURES</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+THE COMPUTATIONAL COMPLEXITY OF
+AVOIDING CONVERSATIONAL IMPLICATURES
+</SectionTitle>
+<Paragraph position="0"> Referring expressions and other object descriptions should be maximal under the Local Brevity, No Unnecessary Components, and Lexical Preference preference rules; otherwise, they may lead hearers to infer unwanted conversational implicatures. These preference rules can be incorporated into a polynomial time generation algorithm, while some alternative formalizations of conversational impficature make the generation task NP-Hard.</Paragraph>
+</Section>
+</Paper>
+

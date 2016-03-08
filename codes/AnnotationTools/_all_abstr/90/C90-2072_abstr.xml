@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-2072">
+<Title>An Efficient Implementation of PATR for Categorial Unification Grammar</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Lauri Karttunen
+Xerox PARC and CSLI
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> This paper describes C-PATR, a new C implementation of the PATR-II formalism \[4, 5\] for unification-based grammars. It includes innovations that originate with a project for developing an efficient translator from English to first-order logic \[2\], most notably the extension of the standard unifcation algorithm for list values \[section 3\]. In addition the unifier and a chart parser tuned for categorial grammars, the system (C-PATR) contains a set of tools necessary for grammar development. These tools include facilities for hier,~rehical lexicon design and interactive grammar debugging \[section 4\].</Paragraph>
+</Section>
+</Paper>
+

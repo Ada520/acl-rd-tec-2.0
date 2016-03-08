@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C92-4200">
+<Title>KNOWLEDGE EXTRACTION FROM TEXTS BY SINTESI</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+KNOWLEDGE EXTRACTION FROM TEXTS BY SINTESI
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> In this paper we present SINTESI, a system for the knowledge extraction from Italian inputs, currently under development in our re,search centre. It is used on short descriptive diagnostic texts, in order to summarise their technical content and to build a knowledge base on faults.</Paragraph>
+<Paragraph position="1"> Often in these texts complex linguistic constructions like conjunctions, negations, ellipsis and anaphorae are involved. The presence of extragrammaticalities and of implicit knowledge is also frequent, especially because of the use of a sublanguage. SINTESI extracts the diagnostic information by performing a full text analysis; it is based on a semantics driven approach integrated by a general syntactic module and it is able to cope with the complexity of the (sub)language, maintaining both accuracy and robustness.</Paragraph>
+<Paragraph position="2"> Currently the system has been tested on about 1.000 texts and by a few users; in the near future it will be used by dozens of users every day.</Paragraph>
+</Section>
+</Paper>
+

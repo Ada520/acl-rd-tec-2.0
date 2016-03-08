@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E99-1006">
+<Title>Resolving Discourse Deictic Anaphora in Dialogues</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Most existing anaphora resolution algorithms are designed to account only for anaphors with NP-antecedents. This paper describes an algorithm for the resolution of discourse deictic anaphors, which constitute a large percentage of anaphors in spoken dialogues. The success of the resolution is dependent on the classification of all pronouns and demonstratives into individual, discourse deictic and vague anaphora. Finally, the empirical results of the application of the algorithm to a corpus of spoken dialogues are presented.</Paragraph>
+</Section>
+</Paper>
+

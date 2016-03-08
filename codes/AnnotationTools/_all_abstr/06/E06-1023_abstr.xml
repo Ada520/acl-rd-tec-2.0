@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E06-1023">
+<Title>Identifying Repair Targets in Action Control Dialogue</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper proposes a method for dealing with repairs in action control dialogue to resolve participants' misunderstanding.</Paragraph>
+<Paragraph position="1"> The proposed method identifies the repair target based on common grounding ratherthansurfaceexpressions. Weextend Traum's grounding act model by introducing degree of groundedness, and partial and mid-discourse unit grounding. This paper contributes to achieving more natural human-machine dialogue and instantaneous and flexible control of agents.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E87-1012">
+<Title>A TOOL FOR THE AUTOMATIC CREATION, EXTENSION AND UPDATING OF LEXICAL KNOWI.F.nGE BA.~F-g</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> A tool is described which helps in the creation, extension and updating of lexical knowledge bases (LKBs). Two levels of representation are distinguished: a static storage level and a dynamic knowledge level. The latter is an object-oriented environment containing linguistic and lexicographic knowledge. At the knowledge level, constructors and filters can be defined. Constructors are objects which extend the LKB both horizontally (new information) and vertically (new entries) using the linguistic knowledge. Filters are objects which derive new LKBs from existing ones thereby optionally changing the storage structure. The latter use lexicographic knowledge.</Paragraph>
+</Section>
+</Paper>
+

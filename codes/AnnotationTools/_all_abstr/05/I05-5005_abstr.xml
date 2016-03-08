@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="I05-5005">
+<Title>Structural variation in generated health reports</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a natural language generator that produces a range of medical reports on the clinical histories of cancer patients, and discuss the problem of conceptual restatement in generating various textual views of the same conceptual content. We focus on two features of our system: the demand for &amp;quot;loose paraphrases&amp;quot; between the various reports on a given patient, with a high degree of semantic overlap but some necessary amount of distinctive content; and the requirement for paraphrasing at primarily the discourse level.</Paragraph>
+<Paragraph position="1"> which aims at providing tools to facilitate easy access to a patient's medical history. In particular, we describe a natural language generation system that produces a range of summarised reports of patient records from data-encoded views of patient histories which we call chronicles. Although we are concentrating on cancer patients, we aim to produce good quality reports without the need to construct extensive domain models. Our typical user is a GP or clinician who uses electronic patient records at the point of care to familiarise themselves with a patient's medical history and current situation. A number of specific requirements arise from this particular setting: Reports that provide a quick potted overview of the patient's history are essential; this type of report should not be too long (ideally they should fit entirely on a computer screen) and should take less than a minute to read; At the same time, a complete view of the medical history must always be available on demand; Clinicians often need to examine a patient's history from a particular perspective (e.g., tests administered, treatments undertaken, drugs prescribed), and having focussed reports is also a requirement; Reports should be formatted to enhance readability; The selection of events for inclusion in a report should follow some basic rules:</Paragraph>
+</Section>
+</Paper>
+

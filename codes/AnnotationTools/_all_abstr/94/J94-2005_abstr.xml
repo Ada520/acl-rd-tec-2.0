@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J94-2005">
+<Title>Squibs and Discussions Parsing and Empty Nodes</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> One way of guaranteeing that a parsing algorithm will terminate is to ensure that each step consumes some finite amount of the input. There are two main situations in which this does not automatically occur, both arising from properties of the grammar. The first comes from nonbranching dominance chains of unbounded length. The second comes from empty nodes. Most modern grammars do not admit unbounded nonbranching chains, so that the problem of handling the phenomenon in parsing does not arise in practice. It is widely believed that these grammars also do not admit unbounded numbers of empty nodes. However, these generally constitute a problem in the design of parsing algorithms because the parser's domain of locality does not coincide with that of the constraints that govern their appearance.</Paragraph>
+<Paragraph position="1"> This paper presents a proposal for constraining the appearance of empty nodes that is applicable to a wide variety of parsing strategies and linguistic theories, including many of those within the GB framework. Ideas like the ones to be presented here have been a part of other parsing systems, e.g., Fong (1991a, 1991b) and Millies (1991), and our notion of sponsorship, which we introduce below, can be viewed as a weak version of lexicalization in TAGs that is specifically focused on determining the distribution of empty nodes. The novelty of our approach lies principally in the identification of a single simple constraint as sufficient to ensure termination of the process. While its motivation is computational, its justification is primarily linguistic. The next section presents the problem that empty nodes pose for standard parsing techniques. Section 3 introduces the notion of sponsorship, and Section 4 discusses linguistic examples that demonstrate the role we see it playing. Section 5 shows how this proposal might be integrated into general parsing strategies. The conclusion summarizes what has been achieved, suggests avenues for further development, and draws parallels with some different approaches.</Paragraph>
+</Section>
+</Paper>
+

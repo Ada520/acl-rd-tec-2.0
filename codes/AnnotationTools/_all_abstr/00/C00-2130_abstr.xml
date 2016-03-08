@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-2130">
+<Title>Right %</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> we present an implelnented system for processing definite descriptions. The system is based on the results of a corpus analysis previously reported, which showed how common discourse-new descriptions are in newspaper corpora, and identified several problems to be dealt with when developing computational methods for interpreting bridging descriptions. The annotated corpus produced in this earlicr work was used to extensively evaluate the proposed techniques for matchiug delinite descriptions with their antecedents, discourse segmentation, recognizing discourse-new descriptions, and suggesting anchors for bridging descriptions.</Paragraph>
+</Section>
+</Paper>
+

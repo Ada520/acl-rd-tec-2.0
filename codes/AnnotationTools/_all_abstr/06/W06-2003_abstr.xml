@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-2003">
+<Title>Induction of Cross-Language Affix and Letter Sequence Correspondence</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We introduce the problem of explicit modeling of form relationships between words in different languages, focusing here on languages having an alphabetic writing system and affixal morphology.</Paragraph>
+<Paragraph position="1"> We present an algorithm that learns the cross-language correspondence between affixes and letter sequences. The algorithm does not assume prior knowledge of affixes in any of the languages, using only a simple single letter correspondence as seed. Results are given for the English-Spanish language pair.</Paragraph>
+</Section>
+</Paper>
+

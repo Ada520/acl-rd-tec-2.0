@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C86-1066">
+<Title>A Dictionary and Morphological Analyser for English</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. Introduction and Overview
+</SectionTitle>
+<Paragraph position="0"> This paper describes the current state of a three-year project aimed at the development of software for use in handling large quantities of dictionary information within natural language processing systems. 1 The project was accepted for funding by SERC/Alvey commencing ill June 1984, and is being carried out by Graeme Ritchie and Alan Black at the University of Edinburgh and Steve Puhnan and Graham Russell at the University of Cambridge. It is one of three closely related projects funded under the Alvey IKBS Programme (Natural Language Tlleme); a parser is under development at Edinburgh by Henry Thompson and John Phillips, and a sentence grammar is being devised by Ted Briscoe and Clare Grover at Lancaster and Bran Boguraev and John Carroll at Cambridge. It is intended that the software and rules produced by all three projects will be directly compatible and capable of functioning in an integrated system.</Paragraph>
+<Paragraph position="1"> Realistic and useful natural language processing systems such as database front-ends require large numbers of words, together with associated syntactic and semantic Information, to be efficiently stored in machine-readable form. Our system is Intended to provide the necessary facilities, being designed to store a large number (at least 10,000) of words and to perform morphological analysis on them, covering both Inflectional and derlvatlonal morphology. In pursuit of these objectives, the dictionary associates with each word information concerning its morphosyntactlc properties. Users are free to modify the system In a number of ways; they may add to the lexical entries Lisp functions that perform semantic manipulatlons, and tailor the dictionary to the particular subject matter they are interested in (different databases, for example). It Is also hoped that the system is general enough to be of use to linguists wishing to Investigate the morphology of English and other languages. Contents of the basle data files may be altered or replaced:  1. A 'Word Grammar' file contains rules assigning internal structure to complex words, 2. A 'Lexicon' file holds the morpheme entries which include syntactic and other Information associated with stems and affixes.</Paragraph>
+<Paragraph position="2"> 3. A 'Spelling Rules' file contains rules governing permis null sible correspondences between the form of morphemes listed in the lextcon and complex words consisting of sequences of these morphemes.</Paragraph>
+<Paragraph position="3"> Once these data flies have been prepared, they are compiled using a number of pre-processtng functions that operate to produce a set of output files. These constitute a fully expanded and cross-Indexed dictionary which can then be accessed from within LISP.</Paragraph>
+<Paragraph position="4"> The process of morphological analysis consists of parslng a sequence of Input morphemes with respect to the word grammar, It Is Implemented as an active chart parser (Thompson &amp; Rltchle (1984)), and builds a structure in the form of a tree in which each node has two</Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+Department of
+Artificial Intelligence,
+University of Edinburgh
+</SectionTitle>
+<Paragraph position="0"> associated values, a morphosyntactlc category, and a rule Identifier.</Paragraph>
+<Paragraph position="1"> The system is written in FRANZ LISP (opus 42.15) running under Berkeley 4.2 Unix. Future developments will concentrate on improving its efficiency, in particular by restructuring the code. We also hope to produce an implementation in C, which should offer a faster response time.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

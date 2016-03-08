@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-0906">
+<Title>Entailment, Intensionality and Text Understanding</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We argue that the detection of entailment and contradiction relations between texts is a minimal metric for the evaluation of text understanding systems. Intensionality, which is widespread in natural language, raises a number of detection issues that cannot be brushed aside.</Paragraph>
+<Paragraph position="1"> We describe a contexted clausal representation, derived from approaches in formal semantics, that permits an extended range of intensional entailments and contradictions to be tractably detected.</Paragraph>
+</Section>
+</Paper>
+

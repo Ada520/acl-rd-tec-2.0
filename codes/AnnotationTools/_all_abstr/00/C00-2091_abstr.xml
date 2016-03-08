@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-2091">
+<Title>Generation, Lambek Calculus, Montague's Semantics and Semantic Proof Nets</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Most of the studies in the framework of Lambek calculus have considered the parsing process and ignored the generation process. This paper wants to rely on the close link between Lambek calculus and linear logic to present a method for the generation process with semantic proof nets. We express the process as a proof search procedure based on a graph calculus and the solutions appear as a matrix computation preserving the decidability properties, and we characterize a polynomial time case.</Paragraph>
+</Section>
+</Paper>
+

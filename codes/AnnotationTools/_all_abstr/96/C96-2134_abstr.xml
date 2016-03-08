@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-2134">
+<Title>Document Classification Using Domain Specific Kanji Characters Extracted by X2 Method</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we describe a method of classifying Japanese text documents using domain specific kanji charactcrs. Text documents are generally cb~ssified by significant words (keywords) of the documents.</Paragraph>
+<Paragraph position="1"> However, it is difficult to extract these significant words from Japanese text, because Japanese texts are written without using blank spaces, such as delimiters, and must be segmented into words. Therefore, instead of words, we used domain specific kanji characters which appear more frequently in one domain than the other. We extracted these domain specific kanji characters by X ,2 method. Then, using these domain specific kanji characters, we classifted editorial columns &amp;quot;TENSEI JINGO&amp;quot;, editorim articles, and articles in &amp;quot;Scientific American (in Japanese)&amp;quot;. The correct recognition scores for' them were 47%, 74%, and 85%, respectively.</Paragraph>
+</Section>
+</Paper>
+

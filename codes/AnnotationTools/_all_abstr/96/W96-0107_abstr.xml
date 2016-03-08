@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W96-0107">
+<Title>Automatic Extraction of Word Sequence Correspondences in Parallel Corpora</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper proposes a method of finding correspondences of arbitrary length word sequences in aligned parallel corpora of Japanese and English. Translation candidates of word sequences are evaluated by a similarity measure between the sequences defined by the co-occurrence frequency and independent frequency of the word sequences. The similarity measure is an extension of Dice coefficient. An iterative method with gradual threshold lowering is proposed for getting a high quality translation dictionary. The method is tested with parallel corpora of three distinct domains and achieved over 80~0 accuracy.</Paragraph>
+</Section>
+</Paper>
+

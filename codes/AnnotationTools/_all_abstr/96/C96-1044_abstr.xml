@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-1044">
+<Title>Extended Dependency Structures and their Formal Interpretation</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe two &amp;quot;semantically-oriented&amp;quot; dependency-structure formalisms, t J-forms and S-forms. U-forms have heen previously used in nmchine translation as interlingual representations, hut without being provided with a formal interpretation. S-forms, which we introduce in this paper, are a scoped vet sion of U-fnrms, and we define a compositional semantics mechanism for them. Two types of semantic composition are basic: complement incorlgoration and modifier incorporation. Binding of variables is done at tire time of incorporation, permitting tnttch \[lexibility in composition order and a simple account of the semantic effects of permuting several incorporations.</Paragraph>
+</Section>
+</Paper>
+

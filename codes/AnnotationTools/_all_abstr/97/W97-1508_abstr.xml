@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-1508">
+<Title>Lexical Resource Reconciliation in the Xerox Linguistic Environment</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper motivates and describes those aspects of the Xerox Linguistic Environment (XLE) that facilitate the construction of broad-coverage Lexical Functional grammars by incorporating morphological and lexical material from external resources.</Paragraph>
+<Paragraph position="1"> Because that material can be incorrect, incomplete, or otherwise incompatible with the grammar, mechanisms are provided to correct and augment the external material to suit the needs of the grammar developer.</Paragraph>
+<Paragraph position="2"> This can be accomplished without direct modification of the incorporated material, which is often infeasible or undesirable.</Paragraph>
+<Paragraph position="3"> Externally-developed finite-state morphological analyzers are reconciled with grammar requirements by run-time simulation of finite-state calculus operations for combining transducers. Lexical entries derived by automatic extraction from on-line dictionaries or via corpus-analysis tools are incorporated and reconciled by extending the LFG lexicon formalism to allow fine-tuned integration of information from difference sources.</Paragraph>
+</Section>
+</Paper>
+

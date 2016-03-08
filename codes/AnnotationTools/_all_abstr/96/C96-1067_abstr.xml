@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-1067">
+<Title>Word Completion: A First Step Toward Target-Text Mediated IMT</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We argue that the conventional approach to Interactive Machine ~Ih-anslation is not the best way to provide assistance to skilled translators, and propose an alternative whose central feature is the use of the target text as a medium of interaction. We describe an automatic wordcompletion system intended to serve as a vehicle for exploring the feasibility of this new approach, and give results in terms of keystrokes saved in a test corpus.</Paragraph>
+</Section>
+</Paper>
+

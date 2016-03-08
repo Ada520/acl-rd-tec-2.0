@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C02-1042">
+<Title>Using Knowledge to Facilitate Factoid Answer Pinpointing</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In order to answer factoid questions, the Webclopedia QA system employs a range of knowledge resources. These include a QA Typology with answer patterns, WordNet, information about typical numerical answer ranges, and semantic relations identified by a robust parser, to filter out likely-looking but wrong candidate answers. This paper describes the knowledge resources and their impact on system performance.</Paragraph>
+</Section>
+</Paper>
+

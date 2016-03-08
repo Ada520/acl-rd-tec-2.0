@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-0713">
+<Title>I I I ! I ! I I I ! I I I I I i I I Lexical Acquisition with WordNet and the Mikrokosmos Ontology</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper discusses an approach to augmenting a lexicon for knowledge-based machine translation (KBMT) with information derived from WordNet.</Paragraph>
+<Paragraph position="1"> The Mikrokosmos project at NMSU's Computing Research Laboratory has concentrated on the creation of the Spanish and Japanese lexicons, so the English lexicon is less developed. We investigated using WordNet as a means to automate p0rtions of the English lexicon development. Several heuristics axe used to find the WordNet synonym sets corresponding to the concepts in the Mikrokosmos language-independent ontology. Two of these heuristics exploit the WordNet is-a hierarchy: one performs hierarchical matching of both taxonomies, and the other computes similarity based on frequency of defining words and their ancestors in a corpus. The result is a lexicon acquisition tool that produces plausible lexical mappings from English words into the Mikrokosmos ontology. Initial performance results are included, which indicate good accuracy in the mappings.</Paragraph>
+</Section>
+</Paper>
+

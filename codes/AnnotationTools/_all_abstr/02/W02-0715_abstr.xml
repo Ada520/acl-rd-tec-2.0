@@ -1,0 +1,37 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-0715">
+<Title>Quality-Sensitive Test Set Selection for a Speech Translation System</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We propose a test set selection method to sensitively evaluate the performance of a speech translation system. The proposed method chooses the most sensitive test sentences by removing insensitive sentences iteratively. Experiments are conducted on the ATR-MATRIX speech translation system, developed at ATR</Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+Interpreting Telecommunications
+</SectionTitle>
+<Paragraph position="0"> Research Laboratories. The results show the effectiveness of the proposed method.</Paragraph>
+<Paragraph position="1"> According to the results, the proposed method can reduce the test set size to less than 40% of the original size while improving evaluation reliability.</Paragraph>
+<Paragraph position="2"> Introduction The translation paired comparison method precisely measures the capability of a speech translation system. In this method, native speakers compare a system's translation and the translations, made by examinees who have various TOEIC scores. The method requires two human costs: the data collection of examinees' translations and the comparison by native speakers. In this paper, we propose a test set size reduction method that reduces the number of test set utterances. The method chooses the most sensitive test utterances by removing the most insensitive utterances iteratively.</Paragraph>
+<Paragraph position="3"> In section 2, the translation paired comparison method is described. Section 3 explains the proposed method. In section 4, evaluation results for ATR-MATRIX are shown. Section 5 discusses the experimental results. In section 6, we state our conclusions.</Paragraph>
+<Paragraph position="4"> Translation paired comparison method The translation paired comparison method (Sugaya, 2000) is an effective evaluation method for precisely measuring the capability of a speech translation system. In this section, a description of the method is given.</Paragraph>
+</Section>
+<Section position="2" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+2.1 Methodology of the translation paired
+</SectionTitle>
+<Paragraph position="0"> comparison method Figure 1 shows a diagram of the translation paired comparison method in the case of Japanese to English translation. The Japanese native-speaking examinees are asked to listen to Japanese text and provide an English translation on paper. The Japanese text is spoken twice within one minute, with a pause in-between. To measure the English capability of the Japanese native speakers, the TOEIC score is used. The examinees are requested to present an official TOEIC score certificate showing that they have taken the test within the past six months. A questionnaire is given to them and the results show that the answer time is moderately difficult for the examinees.</Paragraph>
+<Paragraph position="1"> The test text is the SLTA1 test set, which consists of 330 utterances in 23 conversations from a bilingual travel conversation database (Morimoto, 1994; Takezawa, 1999). The SLTA1 test set is Association for Computational Linguistics.</Paragraph>
+<Paragraph position="2"> Algorithms and Systems, Philadelphia, July 2002, pp. 109-116. Proceedings of the Workshop on Speech-to-Speech Translation: open for both speech recognition and language translation. The answers written on paper are typed. In the proposed method, the typed translations made by the examinees and the outputs of the system are merged into evaluation sheets and are then compared by an evaluator who is a native English speaker. Each utterance information is shown on the evaluation sheets as the Japanese test text and the two translation results, i.e., translations by an examinee and by the system. The two translations are presented in random order to eliminate bias by the evaluator. The evaluator is asked to follow the procedure illustrated in Figure 2. The four ranks in Figure 2 are the same as those used in Sumita (1999). The ranks A, B, C, and D indicate: (A) Perfect: no problems in both information and grammar; (B) Fair: easy-tounderstand with some unimportant information missing or flawed grammar; (C) Acceptable: broken but understandable with effort; (D) Nonsense: important information has been translated incorrectly.</Paragraph>
+</Section>
+<Section position="3" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+2.2 Evaluation result using the translation
+</SectionTitle>
+<Paragraph position="0"> paired comparison method Figure 3 shows the result of a comparison between a language translation subsystem (TDMT) and the examinees. The input for TDMT included accurate transcriptions. The total number of examinees was thirty, with five people having scores in every hundred-point TOEIC range between the 300s and 800s. In Figure 3, the horizontal axis represents the TOEIC score and the vertical axis the system  indicates the number of even (non-winner) utterances, i.e., no difference between the results of the TDMT and humans. The SWR ranges from 0 to 1.0, signifying the degree of capability of the MT system relative to that of the examinee. An SWR of 0.5 means that the TDMT has the same capability as the human examinee.</Paragraph>
+<Paragraph position="1"> Figure 3 shows that the SWR of TDMT is greater than 0.5 at TOEIC scores of around 300 and 400, i.e., the TDMT system wins over humans with TOEIC scores of 300 and 400. Examinees, in contrast, win at scores of around 800. The capability balanced area is around a score of 600 to  by native speaker</Paragraph>
+</Section>
+</Section>
+</Paper>
+

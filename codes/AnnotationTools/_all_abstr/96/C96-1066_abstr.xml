@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-1066">
+<Title>Parsing decomposable idioms</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Verbal idioms can be divided into two main groups: non-compositional idioms as kick the bucket and compositional/decomposable idioms as spill the beans. In the following we will point to the fact that there are German decomposable idioms which can be decomposed into components, having identifiable meanings contributing to the meaning of the whole. These idiom compoimnts are taken to have referents. Taking these facts into account we propose an adequate way to represent the idiomatic meaning by Kamp's Discourse Representation Theory (DRT). Furthermore, we show how to parse idiomatic sentences and how to process the proposed seinantic representation. While parsing idioms, the necessary idiomatic knowledge of the idioms' syntax and semantics is extracted from a special idiomatic knowledge base called PIIRASEO-LI.\]X.</Paragraph>
+</Section>
+</Paper>
+

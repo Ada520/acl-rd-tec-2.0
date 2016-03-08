@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-1317">
+<Title>Automated Construction of Database Interfaces: Integrating Statistical and Relational Learning for Semantic Parsing</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The development of natural language interfaces (NLI's) for databases has been a challenging problem in natural language processing (NLP) since the 1970's. The need for NLI's has become more pronounced due to the widespread access to complex databases now available through the Internet. A challenging problem for empirical NLP is the automated acquisition of NLI's from training examples.</Paragraph>
+<Paragraph position="1"> We present a method for integrating statistical and relational learning techniques for this task which exploits the strength of both approaches. Experimental results from three different domains suggest that such an approach is more robust than a previous purely logic-based approach.</Paragraph>
+</Section>
+</Paper>
+

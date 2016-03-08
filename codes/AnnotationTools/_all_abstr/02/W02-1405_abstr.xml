@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-1405">
+<Title>Improving a general-purpose Statistical Translation Engine by Terminological lexicons</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The past decade has witnessed exciting work in the fleld of Statistical Machine Translation (SMT). However, accurate evaluation of its potential in real-life contexts is still a questionable issue.</Paragraph>
+<Paragraph position="1"> In this study, we investigate the behavior of an SMT engine faced with a corpus far difierent from the one it has been trained on. We show that terminological databases are obvious resources that should be used to boost the performance of a statistical engine. We propose and evaluate a way of integrating terminology into a SMT engine which yields a signiflcant reduction in word error rate.</Paragraph>
+</Section>
+</Paper>
+

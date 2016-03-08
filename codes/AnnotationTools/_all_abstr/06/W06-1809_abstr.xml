@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-1809">
+<Title>Incorporating User Models in Question Answering to Improve Readability</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Most question answering and information retrieval systems are insensitive to different users' needs and preferences, as well as their reading level. In (Quarteroni and Manandhar, 2006), we introduce a hybrid QA-IR system based on a a user model.</Paragraph>
+<Paragraph position="1"> In this paper we focus on how the system filters and re-ranks the search engine results for a query according to their reading difficulty, providing user-tailored answers.</Paragraph>
+<Paragraph position="2"> Keywords: question answering, information retrieval, user modelling, readability.</Paragraph>
+</Section>
+</Paper>
+

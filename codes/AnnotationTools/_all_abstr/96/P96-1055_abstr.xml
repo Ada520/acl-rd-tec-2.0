@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P96-1055">
+<Title>The Selection of the Most Probable Dependency Structure in Japanese Using Mutual Information</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We use a statistical method to select the most probable structure or parse for a given sentence. It takes as input the dependency structures generated for the sentence by a dependency grammar, finds all triple of modifier, particle and modificant relations, calculates mutual information of each relation and chooses the structure for which the product of the mutual information of its relations is the highest.</Paragraph>
+</Section>
+</Paper>
+

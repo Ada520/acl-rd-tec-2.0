@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P03-1020">
+<Title>tRuEcasIng</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Truecasing is the process of restoring case information to badly-cased or non-cased text. This paper explores truecasing issues and proposes a statistical, language modeling based truecaser which achieves an accuracy of 98% on news articles. Task based evaluation shows a 26% F-measure improvement in named entity recognition when using truecasing.</Paragraph>
+<Paragraph position="1"> In the context of automatic content extraction, mention detection on automatic speech recognition text is also improved by a factor of 8. Truecasing also enhances machine translation output legibility and yields a BLEU score improvement of 80:2%. This paper argues for the use of truecasing as a valuable component in text processing applications.</Paragraph>
+</Section>
+</Paper>
+

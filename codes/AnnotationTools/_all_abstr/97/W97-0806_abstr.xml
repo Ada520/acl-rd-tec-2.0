@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0806">
+<Title>Integrating a Lexical Database and a Training Collection for Text Categoriza tion</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Automatic text categorization is a complex and useful task for manynatural language processing applications. Recent approaches to textcategorization focus more on algorithms than on resources involved in thisoperation. In contrast to this trend, we present an approach based on the integration of widely available resources aslexical databases and training collections to overcome current limitationsof the task. Our approach ~ makes use of Word-Net synonymy information toincrease evidence for bad trained categories. When testing a direct categorization, a WordNet basedone, a training algorithm, and our integrated approach, the latter exhibitsa better perfomance than any of the others. Incidentally, WordNet based approach perfomance is comparable with the trainingapproach one.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H91-1055">
+<Title>Training Vocab. Unknown</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> Stochastic language models are more useful than non-stochastic models because they contribute more information than a simple acceptance or rejection of a word sequence.</Paragraph>
+<Paragraph position="1"> Back-off N-gram language models\[Ill are an effective class of word based stochastic language model. The first part of this paper describes our experiences using the back-off language models in our time-synchronous decoder CSR. A bigram back-off language model was chosen for the language model to be used in the informal ATIS CSR baseline evaluation test\[13, 21\].</Paragraph>
+<Paragraph position="2"> The stack decoder\[2, 8, 24\] is a promising control structure for a speech understanding system because it can combine constraints from both the acoustic model and a long span language model (such as a natural language processor (NLP)) into a single integrated search\[17\], h copy of the Lincoln time-synchronous HMM CSR has been converted to a stack decoder controlled search with stochastic language models. The second part of this paper describes our experiences with our prototype stack decoder CSR using no grammar, the word-pair grammar, and N-gram back-off language models.</Paragraph>
+</Section>
+</Paper>
+

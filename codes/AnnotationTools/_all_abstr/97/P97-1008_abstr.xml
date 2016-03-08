@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P97-1008">
+<Title>Similarity-Based Methods For Word Sense Disambiguation</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We compare four similarity-based estimation methods against back-off and maximum-likelihood estimation methods on a pseudo-word sense disambiguation task in which we controlled for both unigram and bigram frequency. The similarity-based methods perform up to 40% better on this particular task. We also conclude that events that occur only once in the training set have major impact on similarity-based estimates.</Paragraph>
+</Section>
+</Paper>
+

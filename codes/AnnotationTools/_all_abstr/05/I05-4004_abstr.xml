@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="I05-4004">
+<Title>The Standard of Chinese Corpus Metadata He Tingting</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The normalization of corpus metadata plays a key role in building sharable corpora. However, there is no uniform specification for defining and processing metadata in Chinese corpus nowadays. This paper introduces a metadata system we've proposed for Chinese corpus. 46 elements are defined in all, which can be divided into 6 classes: information about copyright, information about background of linguistic material creator, information about medium of linguistic material, information about the content of linguistic material, information about collecting linguistic material, and information about management of linguistic material. To distinguish one element from another, or our elements from someone else's, we provide a potent description method, where 10 sub-sections are designed to describe the detailed properties for each element.</Paragraph>
+</Section>
+</Paper>
+

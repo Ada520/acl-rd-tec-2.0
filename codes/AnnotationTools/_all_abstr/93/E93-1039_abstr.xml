@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E93-1039">
+<Title>apos;Structure and Usage of Current Bell Labs Text</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> One source of unnaturalness in the output of text-to-speech systems stems from the involvement of algorithmically generated default intonation contours, applied under minimal control from syntax and semantics.</Paragraph>
+<Paragraph position="1"> It is a tribute both to the resilience of human language understanding and to the ingenuity of the inventors of these algorithms that the results are as intelligible as they are. However, the result is very frequently unnatural, and may on occasion mislead the hearer. This paper extends earlier work on the relation between syntax and intonation in language understanding in Combinatory Categorial Grammar (CCG). A generator with a simple and domain-independent discourse model can be used to direct synthesis of intonation contours for responses to data-base queries, to convey distinctions of contrast and emphasis determined by the discourse model.</Paragraph>
+</Section>
+</Paper>
+

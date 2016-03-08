@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0509">
+<Title>I Application of NLP technology to production of closed-caption TV programs in Japanese for the hearing impaired Takahiro Wakao Terumasa Ehara Telecommunications NHK Science and Advancement Technical Organization (TAO) Research Labs. of Japan / TAO Eiji Sawamura TAO Yoshiharu Abe Mitsubishi Electric Corp Information Technology R&amp;D Center / TAO</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+/ TAO
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> The Telecommunications Advancement Organization (TAO) of Japan, with the support of the ministry of Posts and Telecommunications, has initiated a project in which electronically available text of TV news programs is summarized and synchronized with the speech and video automatically, then superimposed on the original programs for the benefit of the hearing impaired people in Japan. This kind of service has been provided for more than 70% of the TV programs in the United States or in Europe, however, it is available in only 10% of the TV programs in Japan. Most of the closed captions are literal transcriptions of what is being said. Reasons why the availability is low are firstly that thousands of characters are used in the Japanese language, and secondly that the closed captions are produced manually at present and it is a time-consuming and costly task.</Paragraph>
+<Paragraph position="1"> The project started in 1996 and will end in 2001.</Paragraph>
+<Paragraph position="2"> Its annual budget is 200 million yen. The main aim of the project is to establish the technology of producing closed captions for TV programs efficiently using natural language processing and speech recognition technology.</Paragraph>
+<Paragraph position="3"> We describe main research issues and the project schedule, and show the results of preliminary research. null</Paragraph>
+</Section>
+</Paper>
+

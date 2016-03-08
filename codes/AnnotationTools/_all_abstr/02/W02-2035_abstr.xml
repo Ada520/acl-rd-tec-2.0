@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-2035">
+<Title></Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+References
+</SectionTitle>
+<Paragraph position="0"> 1 Eric Bauer , Ron Kohavi, An Empirical Comparison of Voting Classification Algorithms: Bagging, Boosting, and Variants, Machine Learning, v.36 n.1-2, p.105-139, July-August 1999 2 W. Daelemans, J. Zavrel, and S. Berck. 1996. MBT: A memory-based part of speech tagger-generator.</Paragraph>
+<Paragraph position="1"> 3 Gerard Escudero , Llus Mrquez , German Rigau, Boosting Applied toe Word Sense Disambiguation, Proceedings of the 11th European Conference on Machine Learning, p.129-141, May 31-June 02, 2000 4 Yoav Freund , Robert E. Schapire, A decision-theoretic generalization of on-line learning and an application to boosting, Journal of Computer and System Sciences, v.55 n.1, p.119-139, Aug. 1997 5 D. Opitz and R. Maclin. 1999. Popular ensemble methods: An empirical study. In Journal of Artificial Intelligence Researce, 11, pages 169--198.</Paragraph>
+<Paragraph position="2"> 6 A. Ratnaparkhi. 1996. A maximum entropy part-of-speech tagger. In Proceedings of the Empirical Methods in Natural Language Processing Conference, Philadelphia, PA, May 17--18. ACL.</Paragraph>
+<Paragraph position="3"> 7 F. Sanchez. 1995. Development of a Spanish version of the Xerox tagger.</Paragraph>
+<Paragraph position="4"> 8 Robert E. Schapire , Yoram Singer, Improved Boosting Algorithms Using Confidence-rated Predictions, Machine Learning, v.37 n.3, p.297-336, Dec. 1999 9 Robert E. Schapire , Yoram Singer, BoosTexter: A Boosting-based Systemfor Text Categorization, Machine Learning, v.39 n.2-3, p.135-168, May-June 2000 10 R. E. Schapire. 2002. The boosting approach to machine learning. an overview. In MSRI Workshop on Nonlinear Estimation and Classification.</Paragraph>
+<Paragraph position="5"> 11 David Yarowsky , Richard Wicentowski, Minimally supervised morphological analysis by multimodal alignment, Proceedings of the 38th Annual Meeting on Association for Computational Linguistics, p.207-216, October 03-06, 2000, Hong Kong</Paragraph>
+</Section>
+</Paper>
+

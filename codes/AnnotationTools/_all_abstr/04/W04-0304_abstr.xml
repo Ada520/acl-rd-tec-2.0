@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-0304">
+<Title>Incremental Parsing with Reference Interaction</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a general architecture for incremental interaction between modules in a speech-to-intention continuous understanding dialogue system. This architecture is then instantiated in the form of an incremental parser which receives suitability feedback on NP constituents from a reference resolution module. Oracle results indicate that perfect NP suitability judgments can provide a labelled-bracket error reduction of as much as 42% and an efficiency improvement of 30%. Preliminary experiments in which the parser incorporates feedback judgments based on the set of referents found in the discourse context achieve a maximum error reduction of 9.3% and efficiency gain of 4.6%.</Paragraph>
+<Paragraph position="1"> The parser is also able to incrementally instantiate the semantics of underspecified pronouns based on matches from the discourse context. These results suggest that the architecture holds promise as a platform for incremental parsing supporting continuous understanding.</Paragraph>
+</Section>
+</Paper>
+

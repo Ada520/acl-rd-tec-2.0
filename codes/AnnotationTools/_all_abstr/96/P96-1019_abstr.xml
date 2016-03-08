@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P96-1019">
+<Title>An Iterative Algorithm to Build Chinese Language Models</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> deg * We present an iterative procedure to build a Chinese language model (LM). We segment Chinese text into words based on a word-based Chinese language model. However, the construction of a Chinese LM itself requires word boundaries. To get out of the chicken-and-egg problem, we propose an iterative procedure that alternates two operations: segmenting text into words and building an LM. Starting with an initial segmented corpus and an LM based upon it, we use a Viterbi-liek algorithm to segment another set of data. Then, we build an LM based on the second set and use the resulting LM to segment again the first corpus. The alternating procedure provides a self-organized way for the segmenter to detect automatically unseen words and correct segmentation errors. Our preliminary experiment shows that the alternating procedure not only improves the accuracy of our segmentation, but discovers unseen words surprisingly well. The resulting word-based LM has a perplexity of 188 for a general Chinese corpus.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1067">
+<Title>Chinese and Japanese Word Segmentation Using Word-Level and Character-Level Information</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we present a hybrid method for Chinese and Japanese word segmentation.</Paragraph>
+<Paragraph position="1"> Word-level information is useful for analysis of known words, while character-level information is useful for analysis of unknown words, and the method utilizes both these two types of information in order to effectively handle known and unknown words. Experimental results show that this method achieves high over-all accuracy in Chinese and Japanese word segmentation. null</Paragraph>
+</Section>
+</Paper>
+

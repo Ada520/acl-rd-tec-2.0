@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-0607">
+<Title>EBLA: A Perceptually Grounded Model of Language Acquisition</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper introduces an open computational framework for visual perception and grounded language acquisition called Experience-Based Language Acquisition (EBLA). EBLA can &amp;quot;watch&amp;quot; a series of short videos and acquire a simple language of nouns and verbs corresponding to the objects and object-object relations in those videos. Upon acquiring this protolanguage, EBLA can perform basic scene analysis to generate descriptions of novel videos.</Paragraph>
+<Paragraph position="1"> The performance of EBLA has been evaluated based on accuracy and speed of protolanguage acquisition as well as on accuracy of generated scene descriptions. For a test set of simple animations, EBLA had average acquisition success rates as high as 100% and average description success rates as high as 96.7%. For a larger set of real videos, EBLA had average acquisition success rates as high as 95.8% and average description success rates as high as 65.3%. The lower description success rate for the videos is attributed to the wide variance in the appearance of objects across the test set.</Paragraph>
+<Paragraph position="2"> While there have been several systems capable of learning object or event labels for videos, EBLA is the first known system to acquire both nouns and verbs using a grounded computer vision system.</Paragraph>
+</Section>
+</Paper>
+

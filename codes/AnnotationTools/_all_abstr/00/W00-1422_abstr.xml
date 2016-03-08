@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-1422">
+<Title>Enriching Partially-Specified Representations for Text Realization Using an Attribute Grammar *</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a new approach to enriching under-specified representations of content to be realized as text. Our approach uses an attribute grammar to propagate missing information where needed in a tree that represents the text to be realized.</Paragraph>
+<Paragraph position="1"> This declaratively-specified grammar mediates between application-produced output and the input to a generation system and, as a consequence, can easily augment an existing generation system. Endapplications that use this approach can produce high quality text without a fine-grained specification of the text to be realized, thereby reducing the burden to the application. Additionally, representations used by the generator are compact, because values that can be constructed from the constraints encoded by the grammar will be propagated where necessary. This approach is more flexible than defaulting or making a statistically good choice because it can deal with long-distance dependencies (such as gaps and reflexive pronouns). Our approach differs from other approaches that use attribute grammars in that we use the grammar to enrich the representations of the content to be realized, rather than to generate the text itself. We illustrate the approach with examples from our template-based textrealizer, YAG.</Paragraph>
+</Section>
+</Paper>
+

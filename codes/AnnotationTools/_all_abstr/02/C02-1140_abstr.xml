@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C02-1140">
+<Title>Bringing the Dictionary to the User: the FOKS system</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The dictionary look-up of unknown words is particularly difficult in Japanese due to the complicated writing system. We propose a system which allows learners of Japanese to look up words according to their expected, but not necessarily correct, reading.</Paragraph>
+<Paragraph position="1"> This is an improvement over previous systems which provide no handling of incorrect readings. In preprocessing, we calculate the possible readings each kanji character can take and different types of phonological and conjugational changes that can occur, and associate a probability with each. Using these probabilities and corpus-based frequencies we calculate a plausibility measure for each generated reading given a dictionary entry, based on the naive Bayes model.</Paragraph>
+<Paragraph position="2"> In response to a reading input, we calculate the plausibility of each dictionary entry corresponding to the reading and display a list of candidates for the user to choose from. We have implemented our system in a web-based environment and are currently evaluating its usefulness to learners of Japanese.</Paragraph>
+</Section>
+</Paper>
+

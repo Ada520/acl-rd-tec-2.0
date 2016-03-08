@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C94-1071">
+<Title>Two Parsing Algorithms by Means of Finite State Transducers</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a new apl)roach , ilhlstrated by two algorithms&gt; for parsing not only Finite SI.ate (:Iranlnlars but also Context Free Grainlnars and their extension, by means of finite state machines. '/'he basis is the computation of a flxed point of a linite-state function, i.e.</Paragraph>
+<Paragraph position="1"> a finite-state transducer. Using these techniques, we have built a program that parses French sentences with a gramnlar of more than 200&gt;000 lexical rules with a typical response time of less than a second. The tirst algorithm computes a fixed point of a non-deterluinistic tinite-state transducer and the second coniplites a lixed point of a deterministic bidirectiollal device called a bimachine. These two algoril;hms point out a new connection between the theory of parsing and the theory of representation of rational transduetions.</Paragraph>
+</Section>
+</Paper>
+

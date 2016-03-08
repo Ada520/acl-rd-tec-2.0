@@ -1,0 +1,78 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-1242">
+<Title>Syntaetico-Semantic Learning of Categorial Grammars</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> Natural language learning seems, from a formal point of view, an enigma. As a matter of fact, every human being, given nearly exclusively positive examples (as psycholinguists have noticed) is able at the age of about five to master his/her mother tongue. Though, no linguistically interesting class of formal languages is learnable with positive data in usual models (Gold's (67) and Valiant's (84)).</Paragraph>
+<Paragraph position="1"> To solve this paradox, various solutions have been proposed. Following the chomskian intuitions (Chomsky 65, 68), it can be admitted that natural languages belong to a restricted family and that the human mind includes an innate knowing of the structure of this class (Shinohara 90). Another approach consists in putting structural, statistical or complexity constraints on the examples proposed to the learner, making his/her inferences easier (Sakakibara 92).</Paragraph>
+<Paragraph position="2"> A particular family of research, more concerned with the cognitive relevance of its models, considers that in a natural, situations, examples are always provided with semantic and pragmatic information and tries to make profit of it (Anderson 77; Hamburger &amp; Wexler 75 ; Hill 83; Langley 82).</Paragraph>
+<Paragraph position="3"> This is the family our research belongs to.</Paragraph>
+<Paragraph position="4"> But the property of meaningfulness of natural languages is computationally tractable only if we have at our disposal a theory that precisely articulates syntax and semantics. The strongest possible articulation is known as the Fredge's principle of compositionality. This principle has acquired an explicit formulation with the works of Richard Montague (Dowry, Wall &amp; Peters 81; Montague 74) and his inheritors.</Paragraph>
+<Paragraph position="5"> We will first briefly recall an adapted version of this syntaetico-semantie framework, based on a type of grammars called &lt;&lt; classical categorial grammars, (or CCGs), and we will then show how it can been used in a formal theory of natural  language learning.</Paragraph>
+<Paragraph position="6"> 2. Syntactic analysis with CCGs A categorial grammar G is a 4-tuple G=&lt;V, C, f, S&gt; with : - V is the finite alphabet (or vocabulary) of G ; - C is the finite set of basic categories ofG ; From C, we define the set of all possible categories of G, noted C', as the closure of C for the operators / and \. C' is the smallest set of categories verifying : * Cc_C' ; * if XeC' and YeC' then: X/Y~C' and Y~XeC' ; - f is a function : V--&gt;Pf(C') where Pf(C') is the set of finite subsets of C', which associates each element v in V with the finite set f(v)_cC' of its categories ; - SeC is the axiomatic category of G.</Paragraph>
+<Paragraph position="7">  In this framework, the set of syntactically correct sentences is the set of finite concatenations of elements of the vocabulary for which there exists an affectation of categories that can be &lt;~ reduced ~ to the axiomatic category S. In CCGs, the admitted reduction rules for any categories X and Y in C' are :</Paragraph>
+<Paragraph position="9"> W=Wl...w n and 3Cie f(wi) , C l..-Cn --*'--&gt;s }.</Paragraph>
+<Paragraph position="10"> The class of languages defined by CCGs is the class of context-free languages (Bar Hillel, Gaifman &amp; Shamir 60). CCGs are lexieally oriented because grammatical information is entirely supported by the categories associated with each word. They are also well adapted to natural languages (Oehrle, Bach &amp; Wheeler 88).</Paragraph>
+<Paragraph position="11"> Example : Let us define a CCG for the analysis of a small subset of natural language, including the vocabulary V={a, every, man, John, Paul, runs, is .... }. The set of basic categories is C={S, T, CN} where T stands for a terms, and is affected to proper names, CN means a common nouns &gt;~, intransitive verbs receive the category &amp;quot;l'kS, transitive ones : ('IAS)/T and determiners: (S/(T~S))/CN. Figures 1 and 2 display analysis trees.</Paragraph>
+<Paragraph position="12">  3. From syntax to semantics  The key idea of Montague's work (74) was to define an isomorphism between syntactic trees and semantic ones. This definition is the formal expression of the principle of compositionality. It allows to automatically translate sentences in natural language into formulas of an adapted semantic language that Montague called &lt;&lt; intentional logic ,.</Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+3.1 The semantic representation
+</SectionTitle>
+<Paragraph position="0"> Intentional Logic (or IL) generalizes the first order predicate logic by including typed lambda-calculus and by making a general use of the notion of modality through the concept of intension (Dowty 81). Only a simplified version of this framework (not taking into account intensions) is recalled here.</Paragraph>
+<Paragraph position="1">  - IL is a typed language : the set I of all possible types of IL includes * elementary types : eel (type of &lt;~ entities &gt;&gt;) and tel (type of&lt;&lt; truth values &gt;&gt;) ; * for any types uel and vel, &lt;u,v&gt;el (&lt;u,v&gt; is the type of functions taking an argument of type u and giving a result of type v).</Paragraph>
+<Paragraph position="2"> - semantics of IL : a denotation set Dw is associated with every type weI as follows : * De=E where E is the denumerable set of all entities of the world ; * D,={O,1}~ * D,~,~--D, : the denotation set of a composed type is a function.</Paragraph>
+</Section>
+<Section position="2" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+3.2 Translation as an isomorphism
+</SectionTitle>
+<Paragraph position="0"> Each analysis tree produced by a CCG can be &lt;&lt; translated &gt;&gt; into IL : - translation of the categories into logical types</Paragraph>
+<Paragraph position="2"> for any XeC' and YeC' : k(X/Y)=k(Y~)=&lt;k(Y),k(X)&gt;.</Paragraph>
+<Paragraph position="3"> - translation of the words (q : V x C' ~&gt; IL) : each couple (v,U) where v is a word in V and Uef(v)~_C' is (one of) its eategory(ies) is associated with a logical formula q(v,U) of IL whose type is k(U)eI. The most usual and useful translations are :</Paragraph>
+<Paragraph position="5"> where x and y are variables of type e, P and Q variables of type &lt;e,t&gt;.</Paragraph>
+<Paragraph position="6">  * the verb &lt;&lt; to be &gt;&gt;, as a transitive verb, is translated by : q(is,(T~S)/T)=~xZ.y\[y=x\] with x and y variables of type e. * Every other word w is translated into a logical constant noted w'.</Paragraph>
+<Paragraph position="7"> - translation of the rules of combination : Rules RI and R'I are translated into oriented</Paragraph>
+<Paragraph position="9"> These definitions preserve the correspondence between categories of the grammar and types of logic.</Paragraph>
+<Paragraph position="10"> This property assures for example that syntactically correct sentences (of category S) will be translated into logical propositions (of type k(S)----t, i.e. with a truth value).</Paragraph>
+<Paragraph position="11"> Example : The example sentences analyzed in figures 1 and 2 can now be translated into IL, as shown in figures 3 and 4 respectively.</Paragraph>
+</Section>
+<Section position="3" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+4.1 Innate knowledge and concepts to learn
+</SectionTitle>
+<Paragraph position="0"> When a human being learns a natural language, we suppose that he has at his disposal sentences Syntactically correct and semantically relevant. The corresponding situation in our model is an algorithm which takes as inputs a sentence that can be analyzed by a CCG together with its logical translation into IL.</Paragraph>
+<Paragraph position="1"> The innate knowing supposed is reduced to the inference rules R1 and R'I and the corresponding translation rules WI and W'I. As opposed to usual semantic-based methods of learning, no word meaning is supposed to be initially known.</Paragraph>
+<Paragraph position="2">  Finally, what does the learner has to learn ? In our linguistic framework, syntactic and semantic information are attached to the members of the vocabulary by functions f and q. These functions are the target outputs of the algorithm. More precisely, the syntactic and semantic knowledge to be learned can be represented as a finite list of triplets of the form: (v,U,w) where v~V, Uaf(v)c_C' and</Paragraph>
+<Paragraph position="4"> Learning the example grammar previously used means learning the following set : H={(John, T, John'), (Paul, T, Paul'), (is, (T~S)/T, Lx~.y\[y=x\]), (runs, ~S, run'), (a, (S/(TkS))/CN, ZP3.Q3x\[P(x)^Q(x)\])...}.</Paragraph>
+</Section>
+<Section position="4" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+4.2 The learning algorithm
+</SectionTitle>
+<Paragraph position="0"> The proposed leaning strategy, given in figure 5, consists in building a hypothesis set, updated after each new input, to approach the target set.</Paragraph>
+<Paragraph position="1"> For every couple &lt;s,x(s)&gt; where s is a sentence and x(s) its logical translation in IL, do : - if there is one, affect to the words in s their category in the current hypothesis set ; else, make hypotheses on the category associated by fwith the unknown words ofs ; - For every possible analysis tree : * translate the tree into IL ; * compare the final translation with x(s) and infer possible values for the unknown semantic translation of words to update the current hypothesis set.</Paragraph>
+<Paragraph position="2"> Figure 5 : the learning strategy</Paragraph>
+</Section>
+<Section position="5" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+4.3 A detailed example
+</SectionTitle>
+<Paragraph position="0"> At the beginning, the current hypothesis set is the  empty set. Let us suppose that the first given example is &lt;John runs, nm'(John')&gt;.</Paragraph>
+<Paragraph position="1"> - the syntactic hypotheses : the only categories allowing to build an analysis tree are * fwst possibility : f(John)=A and f(nans)=A\S ; * second one : f(John)=S/B and f(runs)=B.</Paragraph>
+<Paragraph position="2"> where A and B can be any category in C', basic or not.</Paragraph>
+<Paragraph position="3"> - the semantic translation : * first possibility : see fig. 6 (the input data are put into rectangles).</Paragraph>
+<Paragraph position="4"> \[ John runs 1 q(John,A) q(runs,A\S)</Paragraph>
+<Paragraph position="6"> figure 6 : hypothesis HI If we compare q(nans,A\S)(q(John,A)) with x(s)=run'(John'), it leads to : Tellier 313 q(nan,A\S)=nan' and q(John,A)=John'. So a possible hypothesis set is : H 1 = {(Jolm,A,John'), (runs,A\S,nan') }. Similarly, the second possibility leads to another possible hypothesis set : H2={(John,S/B,run'), (mns,B,John')}. At this stage, we have no reason to prefer one hypothesis to the other (the learner does not know that John is linked with John', neither about runs and run'). The current hypothesis is then : H1 OR H2. But suppose now that a second given example is &lt;Paul runs, nan'(Panl')&gt;. The same process applies to this example, except that a runs &gt;&gt; now belongs twice to the current hypothesis set.</Paragraph>
+<Paragraph position="7"> - the syntactic hypotheses : the new sentence treated with H1 forces to affect the category A to  &lt;~ Paul &gt;&gt;, while H2 forces to affect the category S/B.</Paragraph>
+<Paragraph position="8"> - the semantic translation : * in the first possibility, H 1 becomes</Paragraph>
+<Paragraph position="10"> * it is impossible to provide a value to q(Paul,S/B) following the tree built with hypothesis H2.</Paragraph>
+<Paragraph position="11"> So H2 is abandoned and only H 1' remains. It can be noticed that a similar conclusion would have followed if the second example had been : &lt;John sleeps, sleeps'(John')&gt;.</Paragraph>
+<Paragraph position="12"> Any other example sentence including one of the words concerned by the current hypothesis is enough to discredit hypothesis H2.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H94-1083">
+<Title>Advanced Human-Computer Interface and Voice Processing Applications in Space</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> Much interest already exists in the electronics research community for developing and integrating speech technology to a variety of applications, ranging from voice-activated systems to automatic telephone transactions. This interest is particularly true in the field of aerospace where the training and operational demands on the crew have significantly increased with the proliferation of technology. Indeed, with advances in vehicule and robot automation, the role of the human operator has evolved from that of pilot/driver and manual controller to supervisor and decision maker. Lately, some effort has been expended to implement alternative modes of system control, but automatic speech recognition (ASR) and human-computer interaction (HCI) research have only recently extended to civilian aviation and space applications. The purpose of this paper is to present the particularities of operator-computer interaction in the unique conditions found in space. The potential for voice control applications inside spacecraft is outlined and methods of integrating spoken-language interfaces onto operational space systems are suggested.</Paragraph>
+</Section>
+</Paper>
+

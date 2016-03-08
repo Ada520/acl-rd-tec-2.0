@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N04-3007">
+<Title>A Scaleable Multi-document Centroid-based Summarizer</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> We are presenting the most recent version of MEAD (v.</Paragraph>
+<Paragraph position="1"> 3.08), a large-scale public-domain summarizer that has been used in a number of applications, including the 2001 JHU summer workshop and the NewsInEssence project (www.newsinessence.com). A version of MEAD finished in first place on task 4 at DUC 2003 and finished in the top three on two other tasks.</Paragraph>
+<Paragraph position="2"> In this demo, we will be showing several interfaces to MEAD, including a WAP-based cell phone interface, a Web-based interface, a command-line interface, and a Nutch-based interface.</Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+1.1 Text summarization
+</SectionTitle>
+<Paragraph position="0"> Text summarization is the process of identifying salient concepts in text, conceptualizing the relationships that exist among them and generating concise representations of the input text that preserve the gist of its content.</Paragraph>
+<Paragraph position="1"> One distinguishes between single-document summarization (SDS) and multi-document summarization (MDS). MDS, which our approach will be focusing on, is much more complicated than SDS in nature. Besides the obvious difference in input size, several other factors account for the complication, e.g.: a7 Multiple articles might come from different sources, written by different authors, and therefore have different styles, although they are topically related.</Paragraph>
+<Paragraph position="2"> This means that a summarizer cannot make the same coherence assumption that it can for a single article.</Paragraph>
+<Paragraph position="3"> a7 Multiple articles might come out of different time frames. Therefore an intelligent summarizer has to take care of the temporal information and try to maximize the overall temporal cohesiveness of the summary. null a7 Descriptions of the same event may differ in perspective, or even conflict with one another. The summarizer should provide a mechanism to deal with issues of this kind.</Paragraph>
+<Paragraph position="4"> We also make the distinction between informationextraction- vs. sentence-extraction-based summarizers. The former, such as (Radev and McKeown, 1998), rely on an information extraction system to extract very specific aspects of some events and generate abstracts thereof.</Paragraph>
+<Paragraph position="5"> This approach can produce good summaries but is usually knowledge intensive and domain dependent. Sentence extraction techniques (Luhn, 1958; Radev et al., 2000), on the other hand, compute a score for each sentence based on certain features and output the most highly ranked sentences. This approach is conceptually straight-forward and usually domain independent, but the summaries produced by it often need further revision to be more smooth and coherent.</Paragraph>
+</Section>
+<Section position="2" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+1.2 Centroid-based summarization and MEAD
+</SectionTitle>
+<Paragraph position="0"> Centroid-based summarization is a method of multi-document summarization. It operates on a cluster of documents with a common subject (the cluster may be produced by a Topic Detection and Tracking, or TDT, system). A cluster centroid, a collection of the most important words from the whole cluster, is built. The centroid is then used to determine which sentences from individual documents are most representative of the entire cluster.</Paragraph>
+<Paragraph position="1"> MEAD is a publicly available toolkit for multi-document summarization (Radev et al., 2000; MEAD, 2003). The toolkit implements multiple summarization algorithms (at arbitrary compression rates) such as position-based, TF*IDF, largest common subsequence, and keywords. The methods for evaluating the quality of the summaries are both intrinsic (such as percent agreement, precision/recall, and relative utility) and extrinsic (document rank).</Paragraph>
+<Paragraph position="2"> MEAD has an expansive architecture which allows end users to interface with its summarization capabilities through a Perl and Java API.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C92-4182">
+<Title>PRI~;DICTING NOUN~PIIRASE SURFACh; I~'ORMS USING Q~ONTEXTUAL \[NFORMA'PION</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We propose a context-sensitive method to predict noun-phrases ill the next utterance of a telephone inquiry dialogue. First, information about tile utterance type and the discourse entities of the next utterance is graspcd using a dialogue interpretation model. Second, a domain-dependent knowledge base for noun-phrase usage is developed, focusing on the dialogue situations in context.</Paragraph>
+<Paragraph position="1"> Finally, we propose a strategy to make a set of the appropriate expressions in the next utterance, using the information and the knowledge base. This set of expressions is used to select the correct candidate from tim speech recognition output. This paper exantines some of the processes creating sets of polite expressions, deicti6 expressions, and compound ilOUll pllra-~es, which ~tre COlnlUOll ill telephone inquiry dialogue.</Paragraph>
+</Section>
+</Paper>
+

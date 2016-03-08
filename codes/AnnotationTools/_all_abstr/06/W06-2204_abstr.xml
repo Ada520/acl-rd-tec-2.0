@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-2204">
+<Title>Transductive Pattern Learning for Information Extraction</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The requirement for large labelled training corpora is widely recognized as a key bottleneck in the use of learning algorithms for information extraction. We present TPLEX, a semi-supervised learning algorithm for information extraction that can acquire extraction patterns from a small amount of labelled text in conjunction with a large amount of unlabelled text. Compared to previous work, TPLEX has two novel features. First, the algorithm does not require redundancy in the fragmentstobeextracted, butonlyredundancy of the extraction patterns themselves. Second, most bootstrapping methods identify the highestqualityfragmentsintheunlabelleddataand null then assume that they are as reliable as manually labelled data in subsequent iterations.</Paragraph>
+<Paragraph position="1"> In contrast, TPLEX's scoring mechanism prevents errors from snowballing by recording the reliability of fragments extracted from unlabelled data. Our experiments with several benchmarks demonstrate that TPLEX is usually competitive with various fully-supervised algorithms when very little labelled training data is available.</Paragraph>
+</Section>
+</Paper>
+

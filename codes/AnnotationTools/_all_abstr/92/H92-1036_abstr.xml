@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H92-1036">
+<Title>MAP Estimation of Continuous Density HMM : Theory and Applications</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> We discuss maximum a posteriori estimation of continuous density hidden Markov models (CDHMM). The classical MLE reestimation algorithms, namely the forward-backward algorithm and the segmental k-means algorithm, are expanded and reestimation formulas are given for HMM with Gaussian mixture observation densities. Because of its adaptive nature, Bayesian learning serves as a unified approach for the following four speech recognition applications, namely parameter smoothing, speaker adaptation, speaker group modeling and corrective ~aining. New experimental results on all four applications are provided to show the effectiveness of the MAP estimation approach.</Paragraph>
+</Section>
+</Paper>
+

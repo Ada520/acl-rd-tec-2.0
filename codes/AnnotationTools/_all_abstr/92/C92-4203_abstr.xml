@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C92-4203">
+<Title>C, TM: An Exmnt)le-Based Translation Aid System</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a Japanese-English translation aid system, C'I'M, which has a usefid capability for flexible retrieval of texts from hilingaal corpora or translation databases. Translation examples (pairs of a text and its translation equivalent) are very helpful for us to translate the similar text. Our character-based best match retrieval method can re: trieve translation examples similar to the given input.</Paragraph>
+<Paragraph position="1"> This method has the following advantages: (1) this method accepts free-style translation examples, i.e., pairs of any text string and its translation equivalent, (2) morphological analysis is unnecessary, (3) this method accepts fl'ce-Myle inlmts (i.e., any text strings) for retrieval. We show the retrieval examples with the following characteristic features: phrasal expression, long-distance dependency, idiom, synonym, mad semantic ambiguity.</Paragraph>
+</Section>
+</Paper>
+

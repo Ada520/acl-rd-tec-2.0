@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C88-2121">
+<Title>Example,~ of Adjuncts: S vp A A S VP PP S S A A A S ADV P NP$ SC S~</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> In this paper we present a general parsing strategy that arose from the development of an Earley-type parsing algorithm for TAGs (Schabes and Joshi 1988) and from recent linguistic work in TAGs (Abeille 1988).</Paragraph>
+<Paragraph position="1"> In our approach elementary structures are associated with their lexical heads. These structures specify extended domains of locality (as compared to a context-free grammar) over which constraints can be stated. These constraints either hold within the elementary structure itself or specify what other structures can be composed with a given elementary structure.</Paragraph>
+<Paragraph position="2"> We state the conditions under which context-free based grammars can be 'lexicalized' without changing the linguistic structures originally produced. We argue that even if one extends the domain of locality of CFGs to trees, using only substitution does not givo the freedom to choose the head of each structure. We show how adjunction allows us to 'lexicalize' a CFG freely.</Paragraph>
+<Paragraph position="3"> We then show how a 'lexicalized' grammar naturally follows from the extended domain of locality of TAGs and present some of the linguistic advantages of our approach.</Paragraph>
+<Paragraph position="4"> A novel general parsing strategy for 'lexicalized' grammars is discussed. In a first stage, the parser builds a set structures corresponding to the input sentence and in a second stage, the sentence is parsed with respect to this set. The strategy is independent of the linguistic theory adopted and of the underlying grammar formalism. However, we focus our attention on TAGs. Since the set of trees needed to parse an input sentence is supposed to be finite, the parser can use in principle any search strategy. Thus, in particular, a top-down strategy can be used since problems due to recursive structures are eliminated. The parser is also able to use non-local information to guide the search.</Paragraph>
+<Paragraph position="5"> We then explain how the Earley-type parser for TAGs can be modified to take advantage of this approach.</Paragraph>
+<Paragraph position="6"> *This work is partially supported by ARO grant DAA29-84-9007, DARPA grant N0014-85-K0018, NSF grants MCS-82-191169 and DGR-84-10413. The second author is also partially supported by J.W. Zellldja grant. The authors would llke to thank Mitch Marcus for his helpful conunents about this work. Thanks are also due to</Paragraph>
+</Section>
+</Paper>
+

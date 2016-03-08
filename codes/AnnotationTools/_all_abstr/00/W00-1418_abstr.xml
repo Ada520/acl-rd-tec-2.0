@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-1418">
+<Title>Optimising text quality in generation from relational databases</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper outlines a text generation system suited to a large class of information sources, relational databases. We focus on one aspect of the problem: the additional information which needs to be specified to produce reasonable text quality when generating from relational databases. We outline how databases need to be prepared, and then describe various types of domain semantics which can be used to improve text qualify.</Paragraph>
+</Section>
+</Paper>
+

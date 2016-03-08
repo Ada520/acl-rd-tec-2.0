@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-0418">
+<Title>Identifying Events using Similarity and Context</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> As part of our work on automatically building knowledge structures from text, we apply machine learning to determine which clauses from multiple narratives describing similar situations should be grouped together as descriptions of the same type of occurrence. Our approach to the problem uses textual similarity and context from other clauses. Besides training data, our system uses only a partial parser as outside knowledge. We present results evaluating the cohesiveness of the aggregated clauses and a brief overview of how this work fits into our overall system.</Paragraph>
+</Section>
+</Paper>
+

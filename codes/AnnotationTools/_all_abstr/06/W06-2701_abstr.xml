@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-2701">
+<Title>Representing and Querying Multi-dimensional Markup for Question Answering</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes our approach to representing and querying multi-dimensional, possibly overlapping text annotations, as used in our question answering (QA) system. We use a system extending XQuery, the W3C-standard XML query language, with new axes that allow one to jump easily between different annotations of the same data. The new axes are formulated in termsof(partial)overlapandcontainment.</Paragraph>
+<Paragraph position="1"> All annotations are made using stand-off XML in a single document, which can be efficiently queried using the XQuery extension. The system is scalable to gigabytes of XML annotations. We show examples of the system in QA scenarios.</Paragraph>
+</Section>
+</Paper>
+

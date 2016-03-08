@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0206">
+<Title>Analysis of a Hand-Tagging Task</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We analyze the results of a semantic annotation task performed by novice taggers as part of the WordNet SemCor project (Landes et al., in press). Each polysemous content word in a text was matched to a sense from WordNet. Comparing the performance of the novice taggers with that of experienced lexicographers, we find that the degree of polysemy, part of speech, and the position within the WordNet entry of the target words played a role in the taggers' choices. The taggers agreed on a sense choice more often than they agreed with two lexicographers, suggesting an effect of experience on sense distinction. Evidence indicates that taggers selecting senses from a list ordered by frequency of occurrence, where salient, core senses are found at the beginning of the entry, use a different strategy than taggers working with a randomly ordered list of senses.</Paragraph>
+</Section>
+</Paper>
+

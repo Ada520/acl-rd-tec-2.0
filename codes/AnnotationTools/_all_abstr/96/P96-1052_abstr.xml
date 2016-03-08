@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P96-1052">
+<Title>References</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Little work has been done in NLP on the subject of punctuation, owing mainly to a lack of a good theory on which computational treatments could be based. This paper described early work in progress to try to construct such a theory. Two approaches to finding the syntactic function of punctuation marks are discussed, and procedures are described by which the results from these approaches can be tested and evaluated both against each other as well as against other work.</Paragraph>
+<Paragraph position="1"> Suggestions are made for the use of these results, and for future work.</Paragraph>
+</Section>
+</Paper>
+

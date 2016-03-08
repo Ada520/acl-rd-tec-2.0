@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-1509">
+<Title>Head-Driven Generation and Indexing in ALE</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a method for compiling grammars into efficient code for head-driven generation in ALE. Like other compilation techniques already used in ALE, this method integrates ALE's compiled code for logical operations with control-specific information from (SNMP90)'s algorithm along with user-defined directives to identify semantics-related substructures. This combination provides far better performance than typical bi-directional feature-based parser/generators, while requiring a minimum of adjustment to the grammar signature itself, and a minimum of extra compilation.</Paragraph>
+</Section>
+</Paper>
+

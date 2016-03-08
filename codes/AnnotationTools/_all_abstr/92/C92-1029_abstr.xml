@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C92-1029">
+<Title>Dynamic Programming Method for Analyzing Conjunctive Structures in Japanese</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Parsing a long sentence is very difficult, since long sentences often have conjunctions which result in ambiguities. If the conjunctive structures existing in a long sentence can be analyzed correctly, ambiguities can be reduced greatly and a sentence can be parsed in a high successful rate. Since the prior part and the posterior part of a conjunctive structure have a similar structure very often, finding two similar series of words is an essential point in solving this problem.</Paragraph>
+<Paragraph position="1"> Similarities of all pairs of words are calculated and then the two series of words which have the greatest sum of similarities are found by a technique of dynamic programming. We deal with not only conjunctive noun phrases, but also conjunctive predicative clauses created by &amp;quot;Renyoh chuushi-ho&amp;quot;. We will illustrate the effectiveness of this method by the analysis of 180 long Japanese sentences.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-1503">
+<Title>Participatory Design for Linguistic Engineering: the Case of the GEPPETTO Development Environment</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Current tools for Linguistic Engineering (LE) do not completely fit the requirements for scale development and deployment of real applications. What seems to lack in the available tools is a comprehensive study of user needs. This is a real limitation in a field where people with very different backgrounds (from computer scientists to linguists) are involved. To avoid such a shortcoming we adopted the Participatory Design (PD) methodology, i.e. a User Centered approach that favors the definition of tools suited to the real user needs. In this paper we show how such methodology was used in the design and implementation of a development environment for LE applications. null</Paragraph>
+</Section>
+</Paper>
+

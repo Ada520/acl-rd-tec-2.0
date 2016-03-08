@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C92-1020">
+<Title>On the Satisfiability of Complex Constraints</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The main problem arising from the use of complex constraints in Computational Linguists is due to the NP-hardness of checking whether a given set of constraints is satisfiable and, in the affirmative case, of generating the set of minimal models which satisfy the constraints. In this &amp;quot;paper we show how the CLG approach to rewriting constraints while constructing a partial model can greatly reduce the size of the original constraints and thus contribute to reduce the computational problem.</Paragraph>
+</Section>
+</Paper>
+

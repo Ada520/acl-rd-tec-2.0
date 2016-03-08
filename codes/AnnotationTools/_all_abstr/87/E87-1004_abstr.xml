@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E87-1004">
+<Title>MORPHOLOGY in the EUROTRA BASE LEVEL CONCEPT</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> Xn recent years the nature and the role of a morphological component in NLP systems has attracted a lot of attention.</Paragraph>
+<Paragraph position="1"> The two-level model of Koskenniemi which relates graphemlc to morphological structure has been succesfully implemented in the form of finite state automata.</Paragraph>
+<Paragraph position="2"> Xn EUROTRA a solution which combines morphological and surface syntactic processing in one CFG implemented in a unification grammar framework has been tried out. This article contrasts these two approaches considering especially the feasibility of building morphologlcal modules for a big multilingual MT system in a decentralised R &amp; V project.</Paragraph>
+<Paragraph position="3"> O. INTRODUCTION The development of sophisticated NLP applications has created a need for specific processing in order to be able to cope with large vocabularies without creating monstruous dictionaries. Earlier approaches often avoided morphology more or less by listing full wordforms in the dictionary or by simply segmenting some inflectional endings with a few general rules. Much recent work is based on the Two-level Model (Koskenniemi, 1983) and relates directly or indirectly to the original implementation of this model in the form of finite state transducers (FST). The original notation and implementation have been further developed and refined (cf. e.g. Black, 1986 and Bear, 1986) in order to improve compilation and runtime, debugging and rule-writing facilities.</Paragraph>
+<Paragraph position="4"> Still some problems persist and others have not been touched yet. This paper presents an alternative, but not contradictory, solution which has to some extent been tried out in the</Paragraph>
+</Section>
+</Paper>
+

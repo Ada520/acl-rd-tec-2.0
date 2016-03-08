@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-0915">
+<Title>Interpreting Communicative Goals in Constrained Domains using Generation and Interactive Negotiation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This article presents an approach to interpret the content of documents in constrained domains at the level of communicative goals. The kind of knowledge used contains descriptions of well-formed document contents and texts that can be produced from them. The automatic analysis of text content is followed by an interactive negotiation phase involving an expert of the class of documents. Motivating reasons are given for an application of this approach, document normalization, and an implemented system is briefly introduced.1 null</Paragraph>
+</Section>
+</Paper>
+

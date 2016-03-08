@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-1031">
+<Title>GramCheck: A Grammar and Style Checker</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a gratmnar and style checker demonstrator for Spanish and Greek native writers developed within the project GramCheck.</Paragraph>
+<Paragraph position="1"> Besides a brief grmnmar error typology for Spanish, a linguistically motivated approach to detection and diagnosis is presented, based on the generalized use of PROLOG extensions to highly typed unification-based grammars. The demonstrator, currently including flfll coverage for agreement errors and certain head-argmnent relation issues, also provides correction by means of an analysis-transfer-synthesis cycle.</Paragraph>
+<Paragraph position="2"> Finally, fltture extensions to the (:urrent system are discussed.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P99-1077">
+<Title>TextTiling VecTile \[ Subjects</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Collocational word similarity is considered a source of text cohesion that is hard to measure and quantify. The work presented here explores the use of information from a training corpus in measuring word similarity and evaluates the method in the text segmentation task. An implementation, the VecTile system, produces similarity curves over texts using pre-compiled vector representations of the contextual behavior of words. The performance of this system is shown to improve over that of the purely string-based TextTiling algorithm (Hearst, 1997).</Paragraph>
+</Section>
+</Paper>
+

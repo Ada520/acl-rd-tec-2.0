@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-1238">
+<Title>2 Feature identification</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper outlines preliminary work aimed at learning Feature-Value Grammars from plain text. Common suffixes are gleaned from a word suffix tree and used to form a first approximation of how regular inflection is marked. Words are generalised according to these suffixes and then subjected to trigram analysis in an attempt to identify agreement dependencies. They are subsequently labeled with a feature whose value is given by the common suffix. A means for converting the feature dependencies into a unification grammar is described wherein feature structures are projected on to unlabeled words. Irregularly inflected words are subsumed into common categories through the process of unification.</Paragraph>
+</Section>
+</Paper>
+

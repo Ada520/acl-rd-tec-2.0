@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C86-1028">
+<Title>Lexicase Parsing: A Lexicon-driven App.roach. to Syntactic Analysis</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a lexicon-based approach to syntactic analysis, l,exicase, and applies it to a lexicon driven computatlolml parsing system. The basic descriptive mechanism in a l,exicase grammar is lexieal features. The properties of lexieal items are represented by contextual and non-contextual features, and generalizations are expressed as relationships among sets of these features and among sets of lexieal entries. Syntactic tree strue{,uros are representaed as networks of pairwise dependency relationships among the words in a sentence. Possible dependencies are marked as contextual features on individual lexical items, and Lexicase parsing ix a process of picking out words in a string and attaching dependents to them in accordance with their contextual features. Lexiease is an appropriate vehicle for parsing because I,exicase analyses are monostratal, fiat, and relatively non-abstract, and it is well suited to machine translation because grammatical rel)resentations for corresponding smrtences in two languages will Im very similar to each other in structure and inter-constituent relations, and teas far easier to interconvert.</Paragraph>
+</Section>
+</Paper>
+

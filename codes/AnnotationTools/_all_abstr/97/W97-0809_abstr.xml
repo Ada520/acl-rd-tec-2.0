@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0809">
+<Title>The Use of Lexical Semantics in Information Extraction *</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a method for enabling users to specialize an information extraction system to satisfy their particular needs. The method allows the user to manually demonstrate the creation of semantic nodes and transitions while scanning a sample text article using a graphical user interface. On the basis of such examples, the system creates rules that translate text to semantic nets; then it generalizes these rules so that they can apply to a broad class of text instead of only the training articles.</Paragraph>
+<Paragraph position="1"> Finally, the generalized rules are used to scan large numbers of articles to extract the particular information targeted by the user. This paper concentrates on our design of the generalization mechanism which self modifies to precisely match the user's specification.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-1210">
+<Title>Automatic Detection of Causal Relations for Question Answering</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Causation relations are a pervasive feature of human language. Despite this, the automatic acquisition of causal information in text has proved to be a difficult task in NLP. This paper provides a method for the automatic detection and extraction of causal relations. We also present an inductive learning approach to the automatic discovery of lexical and semantic constraints necessary in the disambiguation of causal relations that are then used in question answering. We devised a classification of causal questions and tested the procedure on a QA system.</Paragraph>
+</Section>
+</Paper>
+

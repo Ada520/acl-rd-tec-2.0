@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W99-0804">
+<Title>I Intranet learning tools for NLP</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes experience with the developed of tools for CL education using Java.</Paragraph>
+<Paragraph position="1"> Some are standalone Java applets and others are clients which connect to a parsing server using a LISP-based backend. The principal benefits are platform independence and reusability rather than world-wide web access, although intranet technology reduces the need for special purpose labs.</Paragraph>
+<Paragraph position="2"> Introduction Networked computers can be used to support learning in various ways. In computational linguistics, the predominant pattern of use is twofold: Learning materials are distributed using hypertext, and laboratories are conducted in which students work directly with computational linguistics processors such as parsers and generators.</Paragraph>
+<Paragraph position="3"> The 'authorware' approach to developing learning materials has not been popular in the teaching of computational linguistics because of the extensive labour involved in encoding content. Since CL is all about the use of powerful general mechanisms and expressive formalisms, the idea of writing learning materials using less expressive tools has little appeal.</Paragraph>
+<Paragraph position="4"> However, the new technologies of the internet make it easier to combine media to produce integrated learning environments in which pedagogical materials can be intimately connected to mechanisms and resources.</Paragraph>
+<Paragraph position="5"> Using such approaches can produce payoffs whether or not distance learning is involved. A better integrated set of resources for laboratory activities makes fewer demands on support staff such as graduate demonstrators. The ability to encapsulate mechanisms and tools in applets also means that the need to maintain special purpose laboratories is diminished, and it is also possible to promote CL to potential students in schools.</Paragraph>
+<Paragraph position="6"> This paper reports experience with the use of web browsers to provide practical activities to an introductory class of computational linguistics students. We concentrate on the tools developed locally, although we make use of others where appropriate. Much of the discussion focuses on what is possible with the constraints imposed by current network software.</Paragraph>
+</Section>
+</Paper>
+

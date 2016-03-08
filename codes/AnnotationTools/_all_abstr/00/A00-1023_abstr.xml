@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A00-1023">
+<Title>A Question Answering System Supported by Information Extraction*</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper discusses an information extraction (IE) system, Textract, in natural language (NL) question answering (QA) and examines the role of IE in QA application. It shows: (i) Named Entity tagging is an important component for QA, (ii) an NL shallow parser provides a structural basis for questions, and (iii) high-level domain independent IE can result in a QA breakthrough.</Paragraph>
+<Paragraph position="1"> Introduction With the explosion of information in Internet, Natural language QA is recognized as a capability with great potential. Traditionally, QA has attracted many AI researchers, but most QA systems developed are toy systems or games confined to lab and a very restricted domain. More recently, Text Retrieval Conference (TREC-8) designed a QA track to stimulate the research for real world application.</Paragraph>
+<Paragraph position="2"> Due to little linguistic support from text analysis, conventional IR systems or search engines do not really perform the task of information retrieval; they in fact aim at only document retrieval. The following quote from the</Paragraph>
+</Section>
+</Paper>
+

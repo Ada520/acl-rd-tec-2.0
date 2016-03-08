@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P80-1030">
+<Title>PHRAN - A Knowledge-Based Nature\] Language Understender</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We have developed an approach to natural language processing in which the natural language processor is viewed as a knowledge-based system whose knowledge is about the meanings of the utterances of its language. The approach is orzented around the phrase rather than the word as the basic unit. We believe that this paradi~ for language processing not only extends the capabilities of other natural language systems, but handles those tasks that previous systems could perform in e more systematic and extensible manner.</Paragraph>
+<Paragraph position="1"> We have construqted a natural language analysis program called PHRAN (PHRasal ANalyzer) based in this approach. This model has a number of advantages over existing systems, including the ability to understand a wider variety of language utterances, increased processlng speed in some cases, a clear separation of control structure from data structure, a knowledge base that could be shared by a language productxon mechanism, greater ease of extensibility, and the ability to store some useful forms of knowledge that cannot readily be added to other systems.</Paragraph>
+</Section>
+</Paper>
+

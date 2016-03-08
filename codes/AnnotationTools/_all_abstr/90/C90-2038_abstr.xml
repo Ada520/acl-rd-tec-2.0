@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-2038">
+<Title>Incremental Sentence Production with a Parallel Marker-Passing Algorithm</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT ~DMDIALOG \[Kitano, 1989a\], developed at the Center
+</SectionTitle>
+<Paragraph position="0"> for Machine Translation at Carnegie Mellon University. This paper describes a method of incremental natural language generation using a parallel marker-passing algorithm for modeling simultaneous interpretation. Semantic and syntactic knowledge are represented in a memory network in which several types of markers are passed around in order to make inference, and explore implicit parallelism of sentence production. The model is consistent with several psycholinguistic studies. The model is actually implemented as a part of the ~DMDIALOG real-time speech-to-speech dialog translation system developed at the Center for Machine Translation at Carnegie Mellon University, and publicly demonstrated since March 1989.</Paragraph>
+</Section>
+</Paper>
+

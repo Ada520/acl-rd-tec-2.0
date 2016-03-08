@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-1015">
+<Title>A New Pattern Matching Approach to the Recognition of Printed Arabic</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The paper presents a new segmentation-free approach to the Arabic optical character recognition. Extended with a suitable preand post-processing the method offers a simple and fast framework to develop a full OCR system. The method was developed primarily for the Naskhi font, it is however robust and flexible and can be easily extended.</Paragraph>
+<Paragraph position="1"> Introduction The most difficult problem in Arabic optical character recognition (AOCR) is to decide how to handle the cursiveness of the text. Thus while the segmentation is relatively simple in printed Roman texts, it is still an open question in Arabic. In most of the reported AOCR research the segmentation is considered the main source of recognition errors, see e.g. A1-Badr (1995). In addition, the presence of ligatures, especially those composed from dotted characters, adds to the problem so much, that until recently they were almost entirely omitted from the research. For a review of some of the problems of AOCR see Fig. 1.</Paragraph>
+<Paragraph position="2"> AOCR followed the main approaches tried in Roman OCR research, consequently it focused for a long time on the issue of segmentation. Although various segmentation algorithms had been devised, see e.g. Amin (1989), cursiveness introduced serious problems, difficult to compensate even by additional processing. The application of advanced techniques, like neural networks, fuzzy techniques and hidden Markov models did not bring the expected breakthrough, due to the inherent segmentation problems, see Walker (1993). Recently, A1-Badr (1995) attempted to avoid segmentation at all. Using morphological operators he tried to recognize at least a part of a word and then the entire word by searching a large data-base of references. The scheme was handicapped however by the extensive Arabic vocabulary.</Paragraph>
+</Section>
+</Paper>
+

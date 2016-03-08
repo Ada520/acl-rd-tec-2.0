@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W05-0627">
+<Title>Semantic Role Lableing System using Maximum Entropy Classi er [?]</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A maximum entropy classi er is used in our semantic role labeling system, which takes syntactic constituents as the labeling units. The maximum entropy classi er is trained to identify and classify the predicates' semantic arguments together. Only the constituents with the largest probability among embedding ones are kept. After predicting all arguments which have matching constituents in full parsing trees, a simple rule-based post-processing is applied to correct the arguments which have no matching constituents in these trees.</Paragraph>
+<Paragraph position="1"> Some useful features and their combinations are evaluated.</Paragraph>
+</Section>
+</Paper>
+

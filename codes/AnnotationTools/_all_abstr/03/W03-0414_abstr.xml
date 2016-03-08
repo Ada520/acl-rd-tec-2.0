@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-0414">
+<Title>Using 'smart' bilingual projection to feature-tag a monolingual dictionary</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe an approach to tagging a monolingual dictionary with linguistic features. In particular, we annotate the dictionary entries with parts of speech, number, and tense information.</Paragraph>
+<Paragraph position="1"> The algorithm uses a bilingual corpus as well as a statistical lexicon to find candidate training examples for specific feature values (e.g.</Paragraph>
+<Paragraph position="2"> plural). Then a similarity measure in the space defined by the training data serves to define a classifier for unseen data. We report evaluation results for a French dictionary, while the approach is general enough to be applied to any language pair.</Paragraph>
+<Paragraph position="3"> In a further step, we show that the proposed framework can be used to assign linguistic roles to extracted morphemes, e.g. noun plural markers. While the morphemes can be extracted using any algorithm, we present a simple algorithm for doing so. The emphasis hereby is not on the algorithm itself, but on the power of the framework to assign roles, which are ultimately indispensable for tasks such as Machine Translation.</Paragraph>
+</Section>
+</Paper>
+

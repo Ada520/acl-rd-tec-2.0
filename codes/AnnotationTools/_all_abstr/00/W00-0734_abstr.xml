@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-0734">
+<Title>Chunking with WPDV Models</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> In this paper I describe the application of the WPDV algorithm to the CoNLL-2000 shared task, the identification of base chunks in English text (Tjong Kim Sang and Buchholz, 2000). For this task, I use a three-stage architecture: I first run five different base chunkers, then combine them and finally try to correct some recurring errors. Except for one base chunker, which uses the memory-based machine learning systern TiMBL, 1 all modules are based on WPDV models (van Halteren, 2000a).</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-2160">
+<Title>Computing Phrasal-signs in HPSG prior to Parsing</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This t)ai)er deseril)es techniques to compile lexical entries in IIPSG (Pollard and Sag, 1.987; Poll;ml and Sag, 1993)-style grammar into a set of finite state automata. The states in automat~L are possible signs derived fl'om h',xical entries and contaili information raised fl'om the lexical entries. The automatt~ are augmented with feature structures use(l by a partial unification routine and delayed/frozen definite el;rose programs.</Paragraph>
+</Section>
+</Paper>
+

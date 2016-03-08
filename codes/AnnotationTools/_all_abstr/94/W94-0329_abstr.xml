@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W94-0329">
+<Title>CORECT: Combining CSCW with Natural Language Generation for Collaborative Requirements Capture</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In the CORECT project, we are building a computer-based requirements capture tool for custom-built electronic testing systems. The requirements capture process involves the participation of a wide range of different types of people - the customer, the salesperson, systems engineers, quality assurance, marketing, and so on. Our aim is to build a Computer-Supported Cooperative Working (CSCW) system which will allow these participants to define an Automatic Test System (ATS) collaboratively by adding data and making changes to an evolving design. The collected information about the design will form a large knowledge pool, all of which is pertinent to the design as a whole, but most of which is irrelevant to any particular person engaged in the design process.</Paragraph>
+<Paragraph position="1"> We will therefore be using natural language generation (NLG) technology to create documents from the central knowledge pool which are tailored to the particular information needs of the participants. These documents will give the users a snapshot of the developing design and will enable them to see how it can be improved and further developed. This paper gives an introduction to the problem we are tackling and how we are trying to solve it, and argues that combining CSCW for input with NLG for output in this way solves some of the problems which are encountered when trying to use either technology on its own.</Paragraph>
+</Section>
+</Paper>
+

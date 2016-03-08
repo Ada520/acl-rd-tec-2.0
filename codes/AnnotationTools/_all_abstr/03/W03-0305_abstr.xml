@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-0305">
+<Title>Reducing Parameter Space for Word Alignment</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents the experimental results of our attemps to reduce the size of the parameter space in word alignment algorithm. We use IBM Model 4 as a baseline. In order to reduce the parameter space, we pre-processed the training corpus using a word lemmatizer and a bilingual term extraction algorithm. Using these additional components, we obtained an improvement in the alignment error rate.</Paragraph>
+</Section>
+</Paper>
+

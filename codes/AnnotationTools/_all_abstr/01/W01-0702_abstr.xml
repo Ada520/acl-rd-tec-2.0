@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W01-0702">
+<Title>Combining a self-organising map with memory-based learning</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> Currently, there is considerable interest in machine learning methods for corpus-based language learning. A promising technique here is memory-based learning1 (MBL) (Daelemans et al., 1999a), where a task is redescribed as a classification problem. The classification is performed by matching an input item to the most similar of a set of training items and choosing the most frequent classification of the closest item(s). Similarity is computed using an explicit similarity metric.</Paragraph>
+<Paragraph position="1"> MBL performs well by bringing all the training data to bear on the task. This is done at the cost, in the worst case, of comparing novel items to all of the training items to find the closest match. There is thus some interest in developing memory editing techniques to select a subset of the items for comparison.</Paragraph>
+<Paragraph position="2"> This paper investigates whether a self-organising map (SOM) can be used to perform memory editing without reducing performance.</Paragraph>
+<Paragraph position="3"> The system is tested on base noun-phrase (NP) chunking using the Wall Street Journal corpus (Marcus et al., 1993).</Paragraph>
+</Section>
+</Paper>
+

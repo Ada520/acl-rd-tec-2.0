@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C94-1041">
+<Title>KASSYS: A DEFINITION ACQUISITION SYSTEM IN NATURAL LANGUAGE Patricc Hernert</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+KASSYS: A DEFINITION ACQUISITION SYSTEM IN NATURAL
+LANGUAGE
+</SectionTitle>
+<Paragraph position="0"></Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+Patricc Hernert
+</SectionTitle>
+<Paragraph position="0"> L.I.F.O., R. L. de Vinci, B.P. 6759, 45067 Orldans Ccdex 2, France E-mail: hernert @chambord.univ-orleans. fr Abstract: This paper is an introdnction to KASSYS, a system that has been designed to extract information from detining statements in natural language. Only hyperonymous detinitions are dealt with here, for which systematic processing has been devised and itnl)lenmnted in tlte initial version of the system. The paper describes how KASSYS buiMs a taxinomie hierarchy by extracting the hyperonyms from these definitions. It also explains the way in which the system can answer closed questions (yes/no), thus enabling the user to check very quickly that a definition has been assimilated correctly. The underlying forrnalism is that of conceptual graphs, with which the reader is assumed to be familiar.</Paragraph>
+<Paragraph position="1"> Keywords: Conceptual graphs, hyperm~ymous definition, knowledge acquisition, question (yes/no).</Paragraph>
+</Section>
+</Section>
+</Paper>
+

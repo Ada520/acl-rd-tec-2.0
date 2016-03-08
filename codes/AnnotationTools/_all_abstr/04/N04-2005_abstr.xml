@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N04-2005">
+<Title>A Multi-Path Architecture for Machine Translation of English Text into American Sign Language Animation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The translation of English text into American Sign Language (ASL) animation tests the limits of traditional MT architectural designs.</Paragraph>
+<Paragraph position="1"> A new semantic representation is proposed that uses virtual reality 3D scene modeling software to produce spatially complex ASL phenomena called &amp;quot;classifier predicates.&amp;quot; The model acts as an interlingua within a new multi-pathway MT architecture design that also incorporates transfer and direct approaches into a single system.</Paragraph>
+</Section>
+</Paper>
+

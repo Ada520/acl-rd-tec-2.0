@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-0202">
+<Title>Intelligent Network News Reader with Visual User Interface</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We are developing an Intelligent Network News Reader which extracts news articles for users. In contrast to ordinary information retrieval and abstract generation, this method utilizes an &amp;quot;information context&amp;quot; to select articles from newsgroups on the Internet and it displays the context visually. A salient feature of this system is that it retrieves articles dynamically, adapting itself to the user's interests, not classifying them beforehand. Since this system measures the semantic distance between articles, it is possible to refer to the necessary information without being constrained within a particular news group. We finished a prototype of the Intelligent Network News Reader in March 1998 and will complete a final practical version in March 2000.</Paragraph>
+</Section>
+</Paper>
+

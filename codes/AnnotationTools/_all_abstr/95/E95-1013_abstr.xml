@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E95-1013">
+<Title>Literal Movement Grammars</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Literal movement grammars (LMGs) provide a general account of extraposition phenomena through an attribute mechanism allowing top-down displacement of syntactical information. LMGs provide a simple and efficient treatment of complex linguistic phenomena such as cross-serial dependencies in German and Dutch--separating the treatment of natural language into a parsing phase closely resembling traditional context-free treatment, and a disambiguation phase which can be carried out using matching, as opposed to full unification employed in most current grammar formalisms of linguistical relevance.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-0601">
+<Title>Techniques for Text Planning with XSLT</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe an approach to text planning that uses the XSLT template-processing engine to create logical forms for an external surface realizer. Using a realizer that can process logical forms with embedded alternatives provides a substitute for backtracking in the text-planning process. This allows the text planner to combine the strengths of the AI-planning and template-based traditions in natural language generation.</Paragraph>
+</Section>
+</Paper>
+

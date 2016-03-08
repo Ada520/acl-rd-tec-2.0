@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-1014">
+<Title>Dialogue and Domain Knowledge Management Systems in Dialogue</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Intelligent dialogue systems must be able to respond properly to a variety of requests involving knowledge of the dialogue, the task at hand, and the domain.</Paragraph>
+<Paragraph position="1"> This requires advanced knowledge reasoning performed by various processing modules. We argue that it is important to understand the nature of the various reasoning mechanisms involved and to separate not only, for instance, interpretation, generation, and dialogue management but also domain knowledge and task reasoning. This facilitates portability of the dialogue system to new domains and makes it easier to enhance its capabilities. In this paper we will focus on the dialogue and domain knowledge reasoning components and show how they can cooperate to achieve natural interaction.</Paragraph>
+</Section>
+</Paper>
+

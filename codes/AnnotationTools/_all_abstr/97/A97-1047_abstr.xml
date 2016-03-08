@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A97-1047">
+<Title>An English to Turkish Machine Translation System Using Structural Mapping</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes the design and implementation of an English-Turkish machine translation (MT) system developed as a part of the TU-Language project supported by a NATO Science for Stability Project grant. The system uses a structural transfer approach in translating the domain of IBM computer manuals. The general design of the translation system and a detailed description of the transfer component is presented in this paper.</Paragraph>
+</Section>
+</Paper>
+

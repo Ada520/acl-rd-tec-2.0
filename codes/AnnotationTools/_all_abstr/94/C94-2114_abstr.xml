@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C94-2114">
+<Title>A Best-Match Algorithm for Broad-Coverage Example-Based Disambiguation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> To improve tit(.' coverage of examl)le-bases , two nlethods are introduced into the 1)est-match algorithm. The first is for acquiring conjunctive relationships fl'om corpora, as measures of word similarity that can be used in addition to thesauruses.</Paragraph>
+<Paragraph position="1"> The Second, used when a word does not appear in an examltled)asc or a thesaurus, is for inferring links to words in the examph&gt;base by ('mnparing the usage of the word in the text ~md that of words in the example- base.</Paragraph>
+</Section>
+</Paper>
+

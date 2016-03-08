@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-2013">
+<Title>tVIodeling syntactic constraints on anaphoric binding</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Syntactic constraints on antecedent-anaphor relations can be stated within the theory of Lexical Functional Grammar (henceforth LFG) through the use of functional uncertainty (Kaplan and Maxwell 1988; Halvorsen and Kaplan 1988; Ksplan and Zaenen 1989). In the following, we summarize the general characteristics of syntactic constraints on anaphoric binding. Next, we describe a variation of functional uncertainty called inside-out functional uncertainty and show how it can be used to model anaphoric binding. Finally, we discuss some binding constraints claimed to hold in natural language to exemplify the mechanism. We limit our attention throughout to coreference possibilities between definite antecedents and anaphoric elements and ignore interactions with quantifiers.</Paragraph>
+<Paragraph position="1"> We also limit our discussion to intrasententiM relations.</Paragraph>
+</Section>
+</Paper>
+

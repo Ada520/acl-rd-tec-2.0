@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P81-1022">
+<Title>PARSING</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+PARSING
+</SectionTitle>
+<Paragraph position="0"> One reason for the wide variety of views on many subjects in computational linguistics (such as parsing) is the diversity of objectives which lead people to do research in this area. Some researchers are motivated primarily by potential applications - the development of natural language interfaces for computer systems. Others are primarily concerned with the psychological processes which underlie human language, and view the computer as a tool for modeling and thus improving our understanding of these processes. Since, as is often observed, man is our best example of a natural language processor, these two groups do have a strong commonality of research interest. Nonetheless, their divergence of objective must lead to differences in the way they regard the component processes of natural language understanding.</Paragraph>
+<Paragraph position="1"> (If - when human processing is better understood - it is recognized that the simulation of human processes is not the most effective way of constructing a natural language interface, there may even be a deliberate divergence in the processes themselves.) My work, and this position paper, reflect an applications orientation; those with different research objectives will come to quite different conclusions.</Paragraph>
+<Paragraph position="2"> WHY PARSE? One of the tasks of computer science in general, and of artificial intelligence in particular, is that of coping in a systematic fashion with systems of high complexity.</Paragraph>
+<Paragraph position="3"> Natural language interfaces certainly fit that characterization.</Paragraph>
+<Paragraph position="4"> constituent structure, we can substantially simplify the specification of the subsequent stages of analysis.</Paragraph>
+</Section>
+</Paper>
+

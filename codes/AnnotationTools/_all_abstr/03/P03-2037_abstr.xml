@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P03-2037">
+<Title>Automatic Detection of Grammar Elements that Decrease Readability</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper proposes an automatic method of detecting grammar elements that decrease readability in a Japanese sentence.</Paragraph>
+<Paragraph position="1"> The method consists of two components: (1) the check list of the grammar elements that should be detected; and (2) the detector, which is a search program of the grammar elements from a sentence. By defining a readability level for every grammar element, we can find which part of the sentence is difficult to read.</Paragraph>
+</Section>
+</Paper>
+

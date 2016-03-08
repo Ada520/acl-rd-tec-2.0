@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-1311">
+<Title></Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents an evaluation of indirect anaphor resolution which considers as lexical resource the semantic tagging provided by the PALAVRAS parser. We describe the semantic tagging process and a corpus experiment.</Paragraph>
+</Section>
+</Paper>
+

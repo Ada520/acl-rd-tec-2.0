@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-1006">
+<Title>Legal Texts Summarization by Exploration of the Thematic Structures and Argumentative Roles</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we describe our method for the summarization of legal documents helping a legal expert determine the key ideas of a judgment. Our approach is based on the exploration of the document's architecture and its thematic structures in order to build a table style summary for improving coherency and readability of the text. We present the components of a system, called LetSum, built with this approach, its implementation and some preliminary evaluation results.</Paragraph>
+</Section>
+</Paper>
+

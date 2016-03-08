@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-0304">
+<Title>Accenting unknown words in a specialized language</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We propose two internal methods for accenting unknown words, which both learn on a reference set of accented words the contexts of occurrence of the various accented forms of a given letter. One method is adapted from POS tagging, the other is based on finite state transducers.</Paragraph>
+<Paragraph position="1"> We show experimental results for letter e on the French version of the Medical Subject Headings thesaurus. With the best training set, the tagging method obtains a precision-recall breakeven point of 84.2A64.4% and the transducer method 83.8A64.5% (with a baseline at 64%) for the unknown words that contain this letter. A consensus combination of both increases precision to 92.0A63.7% with a recall of 75%. We perform an error analysis and discuss further steps that might help improve over the current performance.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-0905">
+<Title>Evaluating the Performance of the OntoSem Semantic Analyzer</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes an innovative evaluation regimen developed for the text meaning representations (TMRs) produced by the Ontological Semantic (OntoSem) general purpose syntactic-semantic analyzer. The goal of evaluation is not only to determine the quality of TMRs for given texts, but also to assign blame for various classes of errors, thus suggesting directions for continued work on both knowledge resources and processors. The paper includes descriptions of the OntoSem processing environment, the evaluation regime itself and results from evaluation effort.</Paragraph>
+<Paragraph position="1"> Figure eval Oth</Paragraph>
+</Section>
+</Paper>
+

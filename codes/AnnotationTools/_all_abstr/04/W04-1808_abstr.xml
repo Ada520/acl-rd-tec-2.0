@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-1808">
+<Title>Discovering Synonyms and Other Related Words</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Discovering synonyms and other related words among the words in a document collection can be seen as a clustering problem, where we expect the words in a cluster to be closely related to one another. The intuition is that words occurring in similar contexts tend to convey similar meaning.</Paragraph>
+<Paragraph position="1"> We introduce a way to use translation dictionaries for several languages to evaluate the rate of synonymy found in the word clusters. We also apply the information radius to calculating similarities between words using a full dependency syntactic feature space, and introduce a method for similarity recalculation during clustering as a fast approximation of the high-dimensional feature space. Finally, we show that 69-79% of the words in the clusters we discover are useful for thesaurus construction.</Paragraph>
+</Section>
+</Paper>
+

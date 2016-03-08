@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-1710">
+<Title></Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+References
+</SectionTitle>
+<Paragraph position="0"> 1 S. Bird and M. Liberman. 1999. A Formal Framework for Linguistic Annotation. Technical Report MS-CIS-99-01, Department of Computer and Information Science, University of Pennsylvania.</Paragraph>
+<Paragraph position="1"> 2 Steven Bird, Kazuaki Maeda, and Xiaoyi Ma. 2001. Agtk: the annotation graph toolkit. In Peter Buneman Steven Bird and Mark Liberman, editors, IRCS Workshop on Linguistic Databases, University of Pennsylvania, Philadelphia, USA.</Paragraph>
+<Paragraph position="2"> 3 P. Boersma. 2001. Praat, a system for doing phonetics by computer. Glot International, 5(9/10):341--345.</Paragraph>
+<Paragraph position="3"> 4 Hennie Brugman and Peter Wittenburg. 2001. Mpi tools for linguistic annotation. In Peter Buneman Steven Bird and Mark Liberman, editors, IRCS Workshop on Linguistic Databases, University of Pennsylvania, Philadelphia, USA. 5 J. Carletta, D. McKelvie, and Isard A. 2002. Supporting linguistic annotation using xml and stylesheets. In G. Sampson and D. McCarthy, editors, Readings in Corpus Linguistic, Continuum International.</Paragraph>
+<Paragraph position="4"> 6 L. Dybkaer, M. B. Moeller, N. O. Bernsen, J. Carletta, A. Isard, M. Klein, D. McKelvie, and A. Mengel. June 1999. The mate work-bench. In David Traum, editor, Proceedings of ACL'99, Demonstration Abstracts. University of Maryland, pages 12 -- 13. 7 J.E. Garcia, U. B. Gut, and A. Galves. 2002. Vocale - a semi-automatic annotation tool for prosodic research. In B. Bel and I. Marlien, editors, Proceedings of the Speech Prosody 2002 conference, 11--13 April 2002. Aix-en-Provence: Laboratoire Parole et Langage, pages 327 -- 330. 8 D. Gibbon and T. Trippel. 2001. Pax - an annotation based concordancing toolkit. In Peter Buneman Steven Bird and Mark Liberman, editors, IRCS Workshop on Linguistic Databases, University of Pennsylvania, Philadelphia, USA.</Paragraph>
+<Paragraph position="5"> 9 R. Ihaka and R. Gentleman. 1996. R: A language for data analysis and graphics. Journal of Computational and Graphical Statistics, 5(3):299--314.</Paragraph>
+<Paragraph position="6"> 10 Michael Kipp. 2001. Anvil - a generic annotation tool for multimodal dialogue. In Proceedings of the Eurospeech 2001, Aalborg, pages 1367 -- 1370.</Paragraph>
+<Paragraph position="7"> 11 J.-T. Milde and U. B. Gut. 2001. The TASX-engine: an XML-based corpus database for time aligned language data. In Peter Buneman Steven Bird and Mark Liberman, editors, IRCS Workshop on Linguistic Databases, University of Pennsylvania, Philadelphia, USA. 12 J.-T. Milde and U. B. Gut. 2002a. A prosodic corpus of non-native speech. In B. Bel and I. Marlien, editors, Proceedings of the Speech Prosody 2002 conference, 11--13 April 2002. Aix-en-Provence: Laboratoire Parole et Langage, pages 503 -- 506. 13 J.-T. Milde and U. B. Gut. 2002b. The tasx-environment: an xml-based toolset for time aligned speech corpora. In Proceedings of the third international conference on language resources and evaluation (LREC 2002, Gran Canaria.</Paragraph>
+<Paragraph position="8"> 14 T. Schmidt. 2001. Gesprchstranskription auf dem Computer - das System EXMARaLDA. Gesprchsforschung, http://www.gespraechsforschung-ozs.de, 2.</Paragraph>
+<Paragraph position="9"> 15 W. N. Venables and B. D. Ripley. 1999. Modern Applied Statistics with S-Plus. Third Edition. Springer. ISBN 0-387-98825-4.</Paragraph>
+</Section>
+</Paper>
+

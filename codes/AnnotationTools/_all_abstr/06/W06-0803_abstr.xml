@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-0803">
+<Title>Extracting Key Phrases to Disambiguate Personal Name Queries in Web Search</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Mitsuru Ishizuka
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Assume that you are looking for information about a particular person. A search engine returns many pages for that person's name. Some of these pages may be on other people with the same name.</Paragraph>
+<Paragraph position="1"> One method to reduce the ambiguity in the query and filter out the irrelevant pages, is by adding a phrase that uniquely identifies the person we are interested in from his/her namesakes. We propose an unsupervised algorithm that extracts such phrases from the Web. We represent each document by a term-entity model and cluster the documents using a contextual similarity metric. We evaluate the algorithm on a dataset of ambiguous names. Our method outperforms baselines, achieving over 80% accuracy and significantly reduces the ambiguity in a web search task.</Paragraph>
+</Section>
+</Paper>
+

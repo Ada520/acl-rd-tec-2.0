@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W99-0909">
+<Title>Unsupervised Lexical Learning with Categorial Grammars</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we report on an unsupervised approach to learning Categorial Grammar (CG) lexicons. The learner is provided with a set of possible lexical CG categories, the forward and backward application rules of CG and unmarked positive only corpora. Using the categories and rules, the sentences from the corpus are probabilistically parsed. The parses and the history of previously parsed sentences are used to build a lexicon and annotate the corpus. We report the results from experiments on a number of small generated corpora, that contain examples from subsets of the English language.</Paragraph>
+<Paragraph position="1"> These show that the system is able to generate reasonable lexicons and provide accurately parsed corpora in the process. We also discuss ways in which the approach can be scaled up to deal with larger and more diverse corpora.</Paragraph>
+</Section>
+</Paper>
+

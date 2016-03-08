@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="I05-2034">
+<Title>Probabilistic Models for Korean Morphological Analysis</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper discusses Korean morphological analysis and presents three probabilistic models for morphological analysis. Each model exploits a distinct linguistic unit as a processing unit. The three models can compensate for each other's weaknesses. Contrary to the previous systems that depend on manually constructed linguistic knowledge, the proposed system can fully automatically acquire the linguistic knowledge from annotated corpora (e.g. part-of-speech tagged corpora). Besides, without any modification of the system, it can be applied to other corpora having different tagsets and annotation guidelines. We describe the models and present evaluation results on three corpora with a wide range of conditions.</Paragraph>
+</Section>
+</Paper>
+

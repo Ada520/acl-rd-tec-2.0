@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J96-4006">
+<Title>Integrating General-purpose and Corpus-based Verb Classification</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> A long-standing debate in the computational linguistic community is about the generality of lexical taxonomies. Many linguists (Nirenburg 1995; Hirst 1995) stress that taxonomies that are not language neutral, at least at the intermediate and high level, have little hope of success. On the other hand, lexicon builders who have experience of designing taxonomies for real applications claim that in sublanguages there exist very domain-dependent similarity relations. Given our experience and results, we are inclined to take the second position, but we are indeed sensitive to the theoretical motivations of the first.</Paragraph>
+<Paragraph position="1"> The problem is that the similarity relations suggested by the thematic structures of words 1 in sentences are highly domain dependent, and it is difficult, though perhaps not impossible, to find common invariants across sublanguages when this model of word similarity is adopted. On the other hand, conceptual, or compositional models of similarity are much more difficult to understand and formalize on a systematic basis, because of the difficulty of defining a commonly agreed upon set of semantic primitives into which words may be decomposed.</Paragraph>
+<Paragraph position="2"> It may be possible, however, and highly interesting, to integrate the results of a purely inductive method, such as the conceptual clustering system CIAULA (Basili, Pazienza, and Velardi 1993c, 1996a), and a hand-encoded, domain-general classification, such as, for example, WordNet. The purpose of one such experiment, which we describe in this paper, is to find some points of contact between psychologically motivated models, as WordNet, and data-driven models, as CIAULA. 2</Paragraph>
+</Section>
+</Paper>
+

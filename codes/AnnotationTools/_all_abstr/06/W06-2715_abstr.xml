@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-2715">
+<Title>Multidimensional markup and heterogeneous linguistic resources</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The paper discusses two topics: firstly an approach of using multiple layers of annotation is sketched out. Regarding the XML representation this approach is similar to standoff annotation. A second topic is the use of heterogeneous linguistic resources (e.g., XML annotated documents, taggers, lexical nets) as a source for semi-automatic multi-dimensional markup to resolve typical linguistic issues, dealing with anaphora resolution as a case study.1</Paragraph>
+</Section>
+</Paper>
+

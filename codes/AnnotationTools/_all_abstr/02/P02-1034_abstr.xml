@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P02-1034">
+<Title>New Ranking Algorithms for Parsing and Tagging: Kernels over Discrete Structures, and the Voted Perceptron</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper introduces new learning algorithms for natural language processing based on the perceptron algorithm. We show how the algorithms can be efficiently applied to exponential sized representations of parse trees, such as the &amp;quot;all subtrees&amp;quot; (DOP) representation described by (Bod 1998), or a representation tracking all sub-fragments of a tagged sentence.</Paragraph>
+<Paragraph position="1"> We give experimental results showing significant improvements on two tasks: parsing Wall Street Journal text, and named-entity extraction from web data.</Paragraph>
+</Section>
+</Paper>
+

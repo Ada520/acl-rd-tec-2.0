@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1005">
+<Title>Improving Statistical Word Alignment with a Rule-Based Machine Translation System</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The main problems of statistical word alignment lie in the facts that source words can only be aligned to one target word, and that the inappropriate target word is selected because of data sparseness problem. This paper proposes an approach to improve statistical word alignment with a rule-based translation system. This approach first uses IBM statistical translation model to perform alignment in both directions (source to target and target to source), and then uses the translation information in the rule-based machine translation system to improve the statistical word alignment. The improved alignments allow the word(s) in the source language to be aligned to one or more words in the target language. Experimental results show a significant improvement in precision and recall of word alignment.</Paragraph>
+</Section>
+</Paper>
+

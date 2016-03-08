@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H91-1072">
+<Title>The Test Results</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> This paper describes several experiments combining natural language and acoustic constraints to improve overall performance of the MIT VOYAGER spoken language system. This system couples the SUMMIT speech recognition system with the TINA language understanding system to answer spoken queries about navigational assistance in the Cambridge, MA, area. The overall goal of our research is to combine acoustic, syntactic and semantic knowledge sources. Our first experiment showed improvement by combining acoustic score and parse probability normalized for number of terminals. Results were further improved by the use of an explicit rejection criterion based on normalized parse probabilities. The use of the combined parse/acoustic score, together with the rejection criterion, gave an improvement in overall score of more than 33% on both training and test data, where score is defined as percent correct minus percent incorrect. Experiments on a fully integrated system which uses the parser to predict possible next words to the recognizer are now underway.</Paragraph>
+</Section>
+</Paper>
+

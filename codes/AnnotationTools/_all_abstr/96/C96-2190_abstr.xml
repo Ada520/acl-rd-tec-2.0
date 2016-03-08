@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-2190">
+<Title>Prepositional Phrase Attachment Through A Hybrid Disambiguation Model</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Prepositional phrase attachment is a major cause of stru(:tural alnbiguity in natural language. Recent work has been dependent on corpus-based approaches to deal with this problem. However, corpus-based approaches suffer from the sparse-data problem. To cope with this problem, we introduce a hybrid method of integrating corpus-based approach with knowledge-based techniques, using a wide-variety of information that comes from annotated corpora and a machine-readable dictionary. When the occurrence frequency on the corpora is low, we use preference rules to determine PP attachment based on clues from conceptual information. An experiment has proven that our hybrid method is both effective and applicable in practice.</Paragraph>
+</Section>
+</Paper>
+

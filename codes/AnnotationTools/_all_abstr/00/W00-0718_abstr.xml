@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-0718">
+<Title>ALLiS: a Symbolic Learning System for Natural Language Learning Herv@ D@jean Seminar ffir Sprachwissenschaft</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> We present ALLiS, a learning system for identifying syntactic structures which uses theory refinement. When other learning techniques (symbolic or statistical) are widely used in Natural Language Learning, few applications use theory refinement (Abecker and Schmid, 1996), (Mooney, 1993). We would like to show that even a basic implementation of notions used in TR is enough to build an efficient machine learning system concerning the task of learning linguistic structures.</Paragraph>
+<Paragraph position="1"> ALLiS relies on the use of background knowledge and default values in order to build up an initial grammar and on the use of theory refinement in order to improve this grammar. This combination provides a good machine learning framework (efficient and fast) for Natural Language Learning. After presenting theory refinement (Section 2) and a general description of ALLiS (Section 3), we will show how each step of TR is applying in the specific case of learning linguistic structures (non-recursive phrases).</Paragraph>
+</Section>
+</Paper>
+

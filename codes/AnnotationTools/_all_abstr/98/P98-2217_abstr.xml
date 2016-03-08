@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-2217">
+<Title>A tabular interpretation of a class of 2-Stack Automata</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The paper presents a tabular interpretation for a kind of 2-Stack Automata. These automata may be used to describe various parsing strategies, ranging from purely top-down to purely bottom-up, for LIGs and TAGs. The tabular interpretation ensures, for all strategies, a time complexity in O(n 6) and space complexity in O(n 5) where n is the length of the input string.</Paragraph>
+<Paragraph position="1"> Introduction 2-Stack automata \[2SA\] have been identified as possible operational devices to describe parsing strategies for Linear Indexed Grammars \[LIG\] or Tree Adjoining Grammars \[TAG\] (mirroring the traditional use of Push-Down Automata \[PDA\] for Context-Free Grammars \[CFG\]). Different variants of 2SA (or not so distant Embedded Push-Down Automata) have been proposed, some to describe top-down strategies (Vijay-Shanker, 1988; Becker, 1994), some to describe bottom-up strategies (Rambow, 1994; Nederhof, 1998; Alonso Pardo et al., 1997), but none (that we know) that are able to describe both kinds of strategies.</Paragraph>
+<Paragraph position="2"> The same dichotomy also exists in the different tabular algorithms that has been proposed for specific parsing strategies with complexity ranging from O(n 6) for bottom-up strategies to O(n 9) for prefix-valid top-down strategies (with the exception of a O(n 6) tabular interpretation of a prefix-valid hybrid strategy (Nederhof, 1997)). It must also be noted that the different tabular algorithms may be difficult to understand and it is often unclear to know if the algorithms still hold for different strategies.</Paragraph>
+<Paragraph position="3"> This paper overcomes these problems by (a) introducing strongly-driven 2SA \[SD-2SA\] that may be used to describe parsing strategies for TAGs and LIGs, ranging from purely top-down to purely bottom-up, and (b) presenting a tabular interpretation of these automata in time complexity O(n 6) and space complexity O(nS).</Paragraph>
+<Paragraph position="4"> The tabular interpretation follows the principles of Dynamic Programming: the derivations are broken into elementary sub-derivations that may (a) be combined in different contexts to retrieve all possible derivations and (b) be represented in a compact way by items, allowing tabulation.</Paragraph>
+<Paragraph position="5"> The strongly-driven 2SA are introduced and motivated in Section 1. We illustrate in Sections 2 and 3 their power by describing several parsing strategies for LIGs and TAGs. Items are presented in Section 4. Section 5 lists the rules to combine items and transitions and establishes correctness theorems.</Paragraph>
+</Section>
+</Paper>
+

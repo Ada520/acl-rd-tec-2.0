@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-2128">
+<Title>Learning Constraint Grammar-style disambiguation rules using Inductive Logic Programming</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper reports a pilot study, in which Constraint Grammar inspired rules were learnt using the Progol machine-learning system.</Paragraph>
+<Paragraph position="1"> Rules discarding faulty readings of ambiguously tagged words were learnt for the part of speech tags of the Stockholm-UmePS Corpus. Several thousand disambiguation rules were induced.</Paragraph>
+<Paragraph position="2"> When tested on unseen data, 98% of the words retained the correct reading after tagging. However, there were ambiguities pending after tagging, on an average 1.13 tags per word. The results suggest that the Progol system can be useful for learning tagging rules of good quality. null</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P00-1012">
+<Title>References</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The order of prenominal adjectival modifiers in English is governed by complex and difficult to describe constraints which straddle the boundary between competence and performance.</Paragraph>
+<Paragraph position="1"> This paper describes and compares a number of statistical and machine learning techniques for ordering sequences of adjectives in the context of a natural language generation system.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-3319">
+<Title>Biomedical Term Recognition With the Perceptron HMM Algorithm</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We propose a novel approach to the identi cation of biomedical terms in research publications using the Perceptron HMM algorithm. Each important term is identi ed and classi ed into a biomedical concept class. Our proposed system achieves a 68.6% F-measure based on 2,000 training Medline abstracts and 404 unseen testing Medline abstracts. The system achieves performance that is close to the state-of-the-art using only a small feature set. The Perceptron HMM algorithm provides an easy way to incorporate many potentially interdependent features.</Paragraph>
+</Section>
+</Paper>
+

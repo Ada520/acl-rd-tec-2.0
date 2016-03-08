@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A97-1009">
+<Title>Name pronunciation in German text-to-speech synthesis</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe the name analysis and pronunciation component in the German version of the Bell Labs multilingual text-to-speech system. We concentrate on street names because they encompass interesting aspects of geographical and personal names. The system was implemented in the framework of finite-state transducer technology, using linguistic criteria as well as frequency distributions derived from a database. In evaluation experiments, we compared the performances of the general-purpose text analysis and the name-specific system on training and test materials. The name-specific system significantly outperforms the generic system. The error rates compare favorably with results reported in the research literature. Finally, we discuss areas for future work.</Paragraph>
+</Section>
+</Paper>
+

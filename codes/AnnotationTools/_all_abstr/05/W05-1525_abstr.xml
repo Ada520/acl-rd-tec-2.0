@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W05-1525">
+<Title>Vancouver, October 2005. c(c)2005 Association for Computational Linguistics Generic parsing for multi-domain semantic interpretation</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> Producing detailed syntactic and semantic representations of natural language is essential for practical dialog systems such as plan-based assistants and tutorial systems. Development of such systems is time-consuming and costly as they are typically hand-crafted for each application, and dialog corpus data is more dif cult to obtain than text. The TRIPS parser and grammar addresses these issues by providing broad coverage of common constructions in practical dialog and producing semantic representations suitable for dialog processing across domains. Our system bootstraps dialog system development in new domains and helps build parsed corpora.1 Evaluating deep parsers is a challenge (e.g., (Kaplan et al., 2004)). Although common bracketing accuracy metrics may provide a baseline, they are insuf cient for applications such as ours that require complete and correct semantic representations produced by the parser. We evaluate our parser on bracketing accuracy against a statistical parser as a baseline, then on a word sense disambiguation task, and nally on full sentence syntactic and semantic accuracy in multiple domains as a realistic measure of system performance and portability.</Paragraph>
+</Section>
+</Paper>
+

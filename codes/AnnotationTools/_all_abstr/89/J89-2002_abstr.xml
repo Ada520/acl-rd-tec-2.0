@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J89-2002">
+<Title>PARSING WITH A SMALL DICTIONARY FOR APPLICATIONS SUCH AS TEXT TO SPEECH</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+PARSING WITH A SMALL DICTIONARY FOR APPLICATIONS SUCH AS TEXT
+TO SPEECH
+</SectionTitle>
+<Paragraph position="0"> While the general problem of parsing all English text is as yet unsolved, there are practical applications for text processors of limited parsing capability. In automatic synthesis of speech from text, for example, speech quality is highly dependent on realistic prosodic patterns. Current synthesizers have difficulty obtaining sufficient linguistic information from an input text to specify prosody properly. When people speak, they often use the syntactic structure of the text message to determine when to pause and which words to stress. Previous work on natural language processing generally assumes access to a large dictionary so that parts of speech are known for virtually all possible words in an input text. However, some practical natural language systems are constrained to limit computer memory and access time by minimizing dictionary size. Furthermore, in most published text to speech work, the parsing problem is only briefly mentioned, or parsing occurs on a local basis, ignoring important syntactic structures that encompass the entire sentence. The system described here recognizes function words and some content words, and uses syntactic constraints to estimate which words are likely to form phrases. This paper is the first to report on parsing details specifically for speech synthesis, while using only a small dictionary (of about 300 words).</Paragraph>
+</Section>
+</Paper>
+

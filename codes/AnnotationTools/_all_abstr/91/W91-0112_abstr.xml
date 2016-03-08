@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W91-0112">
+<Title>A GENERAL COMPUTATIONAL METHOD FOR GRAMMAR INVERSION</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> A reversible grammar is usually understood as a computational or linguistic system that can be used both for analysis ~nd generation of the language it defines. For example, a directive pars_gen (Sent,For~n) would assign, depending upon the binding status Of its arguments, the representation in (Toronto,chased (Fido,John )) to the sentence Fido chased John in To~onto, or it would produce one of the several possib!e paraphrases of this sentence given its represen~tion. Building such bi-directional systems has long been considered critical for various natural language processing tasks, especially in machine translation. This paper presents a general computational method for automated inversion of a unification-based p~ser for natural language into an efficient generator. It clarifies and expands the results of earlier work on reversible grammars by this author and the others. A more powerful version of the grammar inversion algorithm is developed with a special emphasis being placed on the proper treatment of recursive ~rules. The grammar inversion algorithm described here is at the core of the Japanese-English :machine translation project currently under development at NYU.</Paragraph>
+</Section>
+</Paper>
+

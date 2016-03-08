@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-1004">
+<Title>Paragraph-, word-, and coherence-based approaches to sentence ranking: A comparison of algorithm and human performance</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Sentence ranking is a crucial part of generating text summaries. We compared human sentence rankings obtained in a psycholinguistic experiment to three different approaches to sentence ranking: A simple paragraph-based approach intended as a baseline, two word-based approaches, and two coherence-based approaches. In the paragraph-based approach, sentences in the beginning of paragraphs received higher importance ratings than other sentences. The word-based approaches determined sentence rankings based on relative word frequencies (Luhn (1958); Salton &amp; Buckley (1988)).</Paragraph>
+<Paragraph position="1"> Coherence-based approaches determined sentence rankings based on some property of the coherence structure of a text (Marcu (2000); Page et al. (1998)). Our results suggest poor performance for the simple paragraph-based approach, whereas word-based approaches perform remarkably well. The best performance was achieved by a coherence-based approach where coherence structures are represented in a non-tree structure.</Paragraph>
+<Paragraph position="2"> Most approaches also outperformed the commercially available MSWord summarizer.</Paragraph>
+</Section>
+</Paper>
+

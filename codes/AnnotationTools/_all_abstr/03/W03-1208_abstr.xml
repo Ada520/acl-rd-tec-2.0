@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-1208">
+<Title>Question Classification using HDAG Kernel</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper proposes a machine learning based question classification method using a kernel function, Hierarchical Directed Acyclic Graph (HDAG) Kernel.</Paragraph>
+<Paragraph position="1"> The HDAG Kernel directly accepts structured natural language data, such as several levels of chunks and their relations, and computes the value of the kernel function at a practical cost and time while reflecting all of these structures. We examine the proposed method in a question classification experiment using 5011 Japanese questions that are labeled by 150 question types. The results demonstrate that our proposed method improves the performance of question classification over that by conventional methods such as bag-of-words and their combinations.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H90-1048">
+<Title>On Deftly Introducing Procedural Elements into Unification Parsing</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> Unification grammars based on complex feature structures are theoretically well-founded, and their declarative nature facilitates exploration of various parsing strategies. However, a straightfoward implementation of such parsers can be painfully inefficient, exploding lists of possibilities and failing to take advantage of search control methods long utilized in more procedurally-oriented parsers. In the context of BBN's Delphi NL system, we have explored modifications that gain procedural efficiency without sacrificing the theoretical advantages of unification-based CFG's.</Paragraph>
+<Paragraph position="1"> One class of changes was to introduce varieties of structure sharing or &amp;quot;folding&amp;quot; to control combinatorics. One kind of sharing was achieved automatically by partially combining similar grammar rules in the tables used by the parser.</Paragraph>
+<Paragraph position="2"> Another resulted from introducing a strictly limited form of disjunction that grammar writers could use to reduce the number of separate roles in the grammar.</Paragraph>
+<Paragraph position="3"> The other class of changes introduced procedural elements into the parsing algorithm to increase execution speed. The major change here was adding partial prediction based on a procedurally-tractable and linguistically-motivated subset of grammar features. Appropriate choice of the features on which to base the prediction allowed it to cut down substantially the space that needed to be searched at mntime.</Paragraph>
+<Paragraph position="4"> We are also exploring the use of non-unification computation techniques for certain subtasks, where the nature of the computation is such that approaches other than unification can be significantly faster but can still be integrated effectively into an overall unification framework.</Paragraph>
+<Paragraph position="5"> Together, the classes of changes discussed here resulted in up to a 40-fold reduction in the amount of structure created by the parser for certain sentences and an average 5-fold parse time speedup in the BBN Delphi system. We believe that they represent significant new directions for making the theoretically elegant unification framework also an efficient environment for practical parses.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-1907">
+<Title>a1 Irfan Choudhry</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe an XML-encoded corpus of texts in the legal domain which was gathered for an automatic summarisation project. We describe two distinct layers of annotation: manual annotation of the rhetorical status of sentences and an entirely automatic annotation process incorporating a host of individual linguistic processors. The manual rhetorical status annotation has been developed as training and testing material for a summarisation system based on the work of Teufel and Moens, while the automatic layer of annotation encodes linguistic information as features for a machine learning approach to rhetorical status classification.</Paragraph>
+</Section>
+</Paper>
+

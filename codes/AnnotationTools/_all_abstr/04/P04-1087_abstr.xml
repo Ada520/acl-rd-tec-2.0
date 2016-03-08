@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P04-1087">
+<Title>Acquiring the Meaning of Discourse Markers</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper applies machine learning techniques to acquiring aspects of the meaning of discourse markers. Three subtasks of acquiring the meaning of a discourse marker are considered: learning its polarity, veridicality, and type (i.e. causal, temporal or additive). Accuracy of over 90% is achieved for all three tasks, well above the baselines.</Paragraph>
+</Section>
+</Paper>
+

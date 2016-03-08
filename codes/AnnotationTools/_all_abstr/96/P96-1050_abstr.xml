@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P96-1050">
+<Title>A Synopsis of Learning to Recognize Names Across Languages</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+USA
+gallippi @ aludra.usc.edu
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The development of natural language processing (NLP) systems that perform machine translation (MT) and information retrieval (IR) has highlighted the need for the automatic recognition of proper names. While various name recognizers have been developed, they suffer from being too limited; some only recognize one name class, and all are language specific. This work develops an approach to multilingual name recognition that uses machine learning and a portable framework to simplify the porting task by maximizing reuse and automation. null</Paragraph>
+</Section>
+</Paper>
+

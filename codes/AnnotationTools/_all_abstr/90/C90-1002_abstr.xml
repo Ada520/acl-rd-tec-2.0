@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-1002">
+<Title>Information ,and Computer Science Department King Fahd University of Petroleum and Minerals T Dhahran 31261 Kingdom of Saudi Aa'abia</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> A deterministic parser is under development which represents a departure from traditional deterministic parsers in that it combines both symbolic and connectionist components. The connectionist component is trained either from patterns derived from the rules of a deterministic grammar. ~The development and evolution of such a hybrid architecture has lead to a parser which is superior to any known deterministic parser.</Paragraph>
+<Paragraph position="1"> Experiments are described and powerful training techniques are demonstrated that permit decision-making by the connectionist component in the parsing process.</Paragraph>
+<Paragraph position="2"> This approach has permitted some simplifications to the rules of other deterministic parsers, including the elimination of rule packets and priorities. Furthermore, parsing is performed more robustly and with more tolerance for error. Data are presented which show how a connectionist (neural) network trained with linguistic rules can parse both expected (grammatical) sentences as well as some novel (ungrammatical or lexically ambiguous) sentences.</Paragraph>
+</Section>
+</Paper>
+

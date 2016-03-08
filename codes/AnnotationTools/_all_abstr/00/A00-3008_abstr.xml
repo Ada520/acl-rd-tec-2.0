@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A00-3008">
+<Title>Multiple Discourse Marker Occurrence: Creating Hierarchies for Natural Language Generation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Most studies on discourse markers implicitly assume that only one marker or discourse relation will occur in a sentence. In reality, more than one relation may hold between text spans and may be cued by multiple discourse markers. We describe here a method for hierarchically organising discourse markers. The hierarchies are intended for use by a generation system to enable the selection and placement of more than one marker in a single text span.</Paragraph>
+</Section>
+</Paper>
+

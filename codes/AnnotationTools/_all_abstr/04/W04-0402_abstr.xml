@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-0402">
+<Title>Paraphrasing of Japanese Light-verb Constructions Based on Lexical Conceptual Structure Atsushi Fujita + Kentaro Furihata + Kentaro Inui +</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Some particular classes of lexical paraphrases such as verb alteration and compound noun decomposition can be handled by a handful of general rules and lexical semantic knowledge. In this paper, we attempt to capture the regularity underlying these classes of paraphrases, focusing on the paraphrasing of Japanese light-verb constructions (LVCs). We propose a paraphrasing model for LVCs that is based on transforming the Lexical Conceptual Structures (LCSs) of verbal elements. We also propose a refinement of an existing LCS dictionary. Experimental results show that our LCS-based paraphrasing model characterizes some of the semantic features of those verbs required for generating paraphrases, such as the direction of an action and the relationship between arguments and surface cases.</Paragraph>
+</Section>
+</Paper>
+

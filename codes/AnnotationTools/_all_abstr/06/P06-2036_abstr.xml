@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P06-2036">
+<Title>Factoring Synchronous Grammars By Sorting</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"></Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+Synchronous Context-Free Grammars
+</SectionTitle>
+<Paragraph position="0"> (SCFGs) have been successfully exploited as translation models in machine translation applications. When parsing with an SCFG, computational complexity grows exponentially with the length of the rules, in the worst case. In this paper we examine the problem of factorizing each rule of an input SCFG to a generatively equivalent set of rules, each having the smallest possible length. Our algorithm works in time O(n log n), for each rule of length n. This improves upon previous results and solves an open problem about recognizing permutations that can be factored.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

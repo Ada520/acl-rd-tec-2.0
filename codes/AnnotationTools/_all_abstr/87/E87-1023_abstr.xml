@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E87-1023">
+<Title>A MODEL FOR PREFERENCE</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we address the problem of choosing the best solution(s) from a set of interpretations of the same object (in our case a segment of text). A notion of preference is stated, based on pairwise comparisons of complete interpretations in order to obtain a partial order among the competing interpretations. An experimental implementation is described, which uses Prolog-like preference statements.</Paragraph>
+</Section>
+</Paper>
+

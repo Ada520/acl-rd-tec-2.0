@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W90-0115">
+<Title>The Basic Block Model of Extended Explanations</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we argue that current generation methodologies are inadequate for determining the high-level structure characteristic of naturally-occurring extended explanations. Our analysis of such explanations indicates that high-level structure - composed of a unifying framework and its associated basic blocks - must be determined by bottom-up processes that attempt to satisfy speaker, listener, and compositional goals, after which top-down strategies can be used to organize the material about the selected framework. In addition to a description of this structure, this paper describes three types of repetition whose use is dependent on this high-level structure; their use not only contributes to the cohesiveness of extended explanations, but supports our thesis of the non-recursive nature of the high-level structure. We conclude with an outline of our computational strategy for generating this structure.</Paragraph>
+</Section>
+</Paper>
+

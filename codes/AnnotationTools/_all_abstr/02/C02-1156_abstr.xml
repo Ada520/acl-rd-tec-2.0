@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C02-1156">
+<Title>Putting Frames in Perspective</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper attempts to bridge the gap between FrameNet frames and inference. We describe a computational formalism that captures structural relationships among participants in a dynamic scenario. This representation is used to describe the internal structure of FrameNet frames in terms of parameters for event simulations. We apply our formalism to the commerce domain and show how it provides a flexible means of accounting for linguistic perspective and other inferential effects.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A97-1023">
+<Title>Techniques for Accelerating a Grammar-Checker</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The paper describes several possibilities of using finite-state automata a~s means for speeding up the performance of a grammar-and-parsing-based (as opposed to patternmatching-based) grammar-checker able to detect errors from a predefined set. The ideas contained have been successflfily implemented in a grammar-checker for Czech, a free-word-order language from the Slavic group.</Paragraph>
+</Section>
+</Paper>
+

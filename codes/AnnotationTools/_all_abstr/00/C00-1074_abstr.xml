@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-1074">
+<Title>Hybrid Neuro and Rule-Based Part of Speech Taggers</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A hybrid system R)r tagging part of speech is descril)ed that consists of a neuro tagger and a rule-based correcter. The neuro tagger is an initia.1--state a.nnotator tha.t uses difl'ertnt h_,,ngths of contexts based on longe, st context l)riority. Its inputs a.re weighted 1)y information gains tha.t are obtained by information ma.ximization. The rule-1)ased correcter is constructed by a. sol; of trm~sfc)rma.tion rules to xna.ke Ul) for the shortcomings o\[' the nou17o tagger. Cornputer experiments show that ahnost 20% of the errors ma.de by the neuro tagger a.re corrected by the, st trans\[orma.tion rules, so tha.t the hybrid system ca.n reach a.n a,tcura.cy of 95.5% counting only the ambiguous words and 99.1% counting all words when a. small Thai corpus with 22,311 a mbig;uous words is used t))v tra.ining. This a(;cu racy is far higher than that using an IIMM and is also higher tha.n that using a.</Paragraph>
+<Paragraph position="1"> rule-1)ased model.</Paragraph>
+</Section>
+</Paper>
+

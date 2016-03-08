@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P83-1025">
+<Title>Discourse Pragmatics and Ellipsis Resolution in Task-Oriented Natural Language Interfaces</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper reviews discourse phenomena that occur frequently in task.oriented man.machine dialogs, reporting on a~n empirical study that demonstrates the necessity of handling ellipsis, anaphora, extragrammaticality, inter-sentential metalanguage, and other abbreviatory devices in order to achieve convivial user interaction. Invariably, users prefer to generate terse or fragmentary utterances instead of longer, more complete &amp;quot;standalone&amp;quot; expressions, even when given clear instructions tO the contrary. The XCALIBUR exbert system interface is designed to meet these needs, including generalized ellipsis resolution by means of a rule-based caseframe method superior tO previous semantic grammar approaches.</Paragraph>
+<Paragraph position="1">  1. A Summary of Task-Oriented Discourse Phenomena  Natural language discourse exhibits several intriguing phenomena that defy definitive linguistic analysis and general computational solutions. However, some progress has been made in developing tractable computational solutions to simplified version of phenomena such as ellipsis and anaphora resolution \[20, 10, 211. This paper reviews discourse phenomena that arise ~n task.oriented dialogs with responsive agents (such as expert systems, rather than purely passive data base query systems), outlines the results of an empirical study, and presents our method for handling generalized ellipsis resolution in the XCALIBUR expert system interface. With the exception of inter-sentential metalanguage, and to a lesser degree extragrammaticality, the significance of the phenomena listed below have long been recognized and documented in the computational linguistics literature.</Paragraph>
+<Paragraph position="2"> * Anaphora -- Interactive task-oriented dialogs invite the use of anaphora, much more so than simpler data base query situations.</Paragraph>
+<Paragraph position="3"> * Definite noun phrases -- As Grosz \[6\] noted, resolving the referent of defimte noun phrases requires an understanding of the planning structure underlying cooperative discourse, * Ellipsis -. Sentential level ellipsis has long been recognized as ubiquitous in discourse. However, semantic ellipsis, where ellipsed information is manifest not as syntactically incomplete structures, but as semantically incomplete propositions, is also an important phenomenon. The ellipsis resolution method presented later in this paper addresses both kinds of ellipsis.</Paragraph>
+<Paragraph position="4"> * Extragrammatical utterances -- Interjections, dropped articles, false starts, misspellings, and other forms of grammatical deviance abound in our data (as explained in the following section). Developing robust parsing techniques that tolerate errors has been the focus of our earlier investigations \[2, 9. 7\] and remains high among our priorities. Other investigations on error-tolerant parsing incJude \[13, 22\].</Paragraph>
+</Section>
+</Paper>
+

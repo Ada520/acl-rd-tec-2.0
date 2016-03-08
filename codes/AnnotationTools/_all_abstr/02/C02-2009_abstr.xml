@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C02-2009">
+<Title>for Advanced Studies (Sokendai)</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The purpose of this study is to propose a new method for machine translation. Wehave proceeded through with two projects for report generation (Kittredge and Polguere, 2000) : Weather Forecast and Monthly Economic Report to be produced in four languages : English, Japanese, French, and German. Their input data is stored in XML-DB. We applied a three-stage pipelined architecture (Reiter and Dale, 2000), and each stage was implemented as XML transformation processes. Weregard XML stored data as language-neutral intermediate form and employ the so-called `sublanguage approach' (Somers, 2000). The machine translation process is implemented via XML-DB as a kind of interlingua approach instead of the conventional structure transfer approach.</Paragraph>
+</Section>
+</Paper>
+

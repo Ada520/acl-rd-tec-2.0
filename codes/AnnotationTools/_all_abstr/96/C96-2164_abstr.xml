@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-2164">
+<Title>A Method for Abstracting Newspaper Articles by Using Surface Clues</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a system which automatically creates an abstract of a newspaper article by selecting important sentences of a given text. To determine the importance of a sentence, several superficial features are considered, and weights for features are determined by multiple-regression analysis of a hand processed corpus. null</Paragraph>
+</Section>
+</Paper>
+

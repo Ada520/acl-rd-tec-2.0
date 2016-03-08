@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C86-1062">
+<Title>Domain Dependent Natural Language Understanding</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> This paper describes a natural language understanding system for the domain of naive thermodynamics. The system transforms exercises formulated in (a subset of) Danish to a somewhat &amp;quot;adhoc&amp;quot; chosen meaning representation language.</Paragraph>
+<Paragraph position="1"> Given the representation of an exercise, a problem solver shall deduce its solution in a subsequent computation.</Paragraph>
+<Paragraph position="2"> The weakest demand on tim system is that it transforms texts into representations wlfich are &amp;quot;equivalent&amp;quot; to the texts. The ultimate demand on the system and the problem solver is of course that exercises are solved correctly.</Paragraph>
+<Paragraph position="3"> The system consists of three parts dealing with respectively morphology, syntax and semantics. The morphological and syntactical analyses are domain independent and only related to the natural language. The semantical analysis is dependent on both the natural language and the specific domain. During the semantical analysis of an exercise, syntactic structures are transformed into a set of logical propositions arranged as (implicitly) in the exercise. After having completed the semantical analysis, a language independent representation exists. The semantic component does not include an inferential mechanism for deducing the progress in thermodynamic experiments. Therefore, it may regard a text as being ambiguous. For instance, it may not be possible to determine the referent of an anaphora unambiguously without considering common sense reasoning. However, such ambiguities will be solved by the problem solver, which uses domain-dependent knowledge as well as commonsense knowledge (see e.g. (Hobbs, Moore 1985)), and operates withan interval-based representation of time (Allen 1984).</Paragraph>
+<Paragraph position="4"> This paper considers only the semantical interpretation of sentences. The semantical analysis is based on a compositional principle similar to the one used by Katz and Fodor (1963). It claims that the semantical interpretation of a sentence is obtained by replacing its words or phrases with their semantic representations and combining these according to the syntactic structure of the sentence as well as the context. The interpretation is controlled by a case grammar, which consists of case frames. The case frames relate syntactic structures to a case system and place semantic constraints on their constituents. In examining if constraints are fulfilled during the analysis, a static worldknowledge is used. The most important component of the worldknowledge is an is-a hierarchy which organizes all concepts in the dogmin of discourse. The worldknowledge is called &amp;quot;static&amp;quot;, since it does not contain &amp;quot;dynamic&amp;quot; information such as implications or preconditions of actions.</Paragraph>
+<Paragraph position="5"> During the semantical interpretation, the context in a text is considered. Connections between elements of the text is established by resolving anaphoras due to definite nouns and pronouns. The system resolves ellipses too.</Paragraph>
+</Section>
+</Paper>
+

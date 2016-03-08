@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P06-1064">
+<Title>Creating a CCGbank and a wide-coverage CCG lexicon for German</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present an algorithm which creates a German CCGbank by translating the syntax graphs in the German Tiger corpus into CCG derivation trees. The resulting corpus contains 46,628 derivations, covering 95% of all complete sentences in Tiger.</Paragraph>
+<Paragraph position="1"> Lexicons extracted from this corpus contain correct lexical entries for 94% of all known tokens in unseen text.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="I05-3017">
+<Title>The Second International Chinese Word Segmentation Bakeoff</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The second international Chinese word segmentation bakeoff was held in the summer of 2005 to evaluate the current state of the art in word segmentation.</Paragraph>
+<Paragraph position="1"> Twenty three groups submitted 130 result sets over two tracks and four different corpora. We found that the technology has improved over the intervening two years, though the out-of-vocabulary problem is still or paramount importance. null</Paragraph>
+</Section>
+</Paper>
+

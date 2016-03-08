@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H91-1042">
+<Title>Statistical Agenda Parsing</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> This paper presents the results of converting a standard Greham/Harrison/Ruzzo (GHR) parser for a unification grammar into an agenda-driven parsing system. The agenda is controlled by statistical measures of grammar-rule likelihood obtained from a training set.</Paragraph>
+<Paragraph position="1"> The techniques in the agenda parser lead to substantial reductions in chart size and parse time, and can be applied to any chart-based parsing algorithm without hand-tuning.</Paragraph>
+</Section>
+</Paper>
+

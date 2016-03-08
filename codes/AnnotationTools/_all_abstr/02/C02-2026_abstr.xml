@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C02-2026">
+<Title>ing of a tree adjoining grammar using finitestate machines. In Proceedings of the Sixth International Workshop on tree Adjoining</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Parsli is a finite-state (FS) parser which can be tailored to the lexicon, syntax, and semantics of a particular application using a hand-editable declarative lexicon. The lexicon is defined in terms of a lexicalized Tree Adjoining Grammar, which is subsequently mapped to a FS representation. This approach gives the application designer better and easier control over the natural language understanding component than using an off-the-shelf parser. We present results using Parsli on an application that creates 3D-images from typed input.</Paragraph>
+</Section>
+</Paper>
+

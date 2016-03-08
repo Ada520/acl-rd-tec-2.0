@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-2245">
+<Title>Bridging the Gap between Dictionary and Thesaurus</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents an algorithm to integrate different lexical resources, through which we hope to overcome the individual inadequacy of the resources, and thus obtain some enriched lexical semantic information for applications such as word sense disambiguation. We used WordNet as a mediator between a conventional dictionary and a thesaurus. Preliminary results support our hypothesised structural relationship, which enables the integration, of the resources. These results also suggest that we can combine the resources to achieve an overall balanced degree of sense discrimination.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-0502">
+<Title>Task Tolerance of MT Output in Integrated Text Processes</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The importance of machine translation (MT) in the stream of text-handling processes has become readily apparent in many current production settings as well as in research programs such as the Translingual Information Detection, Extraction, and Summarization (TIDES) program. The MT Proficiency Scale project has developed a means of baselining the inherent &amp;quot;tolerance&amp;quot; that a text-handling task has for raw MT output, and thus how good the output must be in order to be of use to that task. This method allows for a prediction of how useful a particular system can be in a text-handling process stream, whether in integrated, MTembedded processes, or less integrated userintensive processes.</Paragraph>
+</Section>
+</Paper>
+

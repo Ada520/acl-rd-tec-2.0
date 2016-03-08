@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N04-4038">
+<Title>Automatic Tagging of Arabic Text: From Raw Text to Base Phrase Chunksa0</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> To date, there are no fully automated systems addressing the community's need for fundamental language processing tools for Arabic text. In this paper, we present a Support Vector Machine (SVM) based approach to automatically tokenize (segmenting off clitics), part-of-speech (POS) tag and annotate base phrases (BPs) in Arabic text. We adapt highly accurate tools that have been developed for English text and apply them to Arabic text. Using standard evaluation metrics, we report that the SVM-TOK tokenizer achieves an a1a3a2a5a4a3a6 score of 99.12, the SVM-POS tagger achieves an accuracy of 95.49%, and the SVM-BP chunker yields an a1 a2a7a4a3a6 score of 92.08.</Paragraph>
+</Section>
+</Paper>
+

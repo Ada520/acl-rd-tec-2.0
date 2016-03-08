@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C02-1126">
+<Title>Recovering latent information in treebanks</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Many recent statistical parsers rely on a preprocessing step which uses hand-written, corpus-specific rules to augment the training data with extra information. For example, head-finding rules are used to augment node labels with lexical heads. In this paper, we provide machinery to reduce the amount of human e ort needed to adapt existing models to new corpora: first, we propose a flexible notation for specifying these rules that would allow them to be shared by di erent models; second, we report on an experiment to see whether we can use Expectation-Maximization to automatically fine-tune a set of hand-written rules to a particular corpus.</Paragraph>
+</Section>
+</Paper>
+

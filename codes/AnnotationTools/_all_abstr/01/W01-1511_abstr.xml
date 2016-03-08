@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W01-1511">
+<Title>Covering Treebanks with GLARF</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper introduces GLARF, a framework for predicate argument structure.</Paragraph>
+<Paragraph position="1"> We report on converting the Penn Tree-bank II into GLARF by automatic methods that achieved about 90% precision/recall on test sentences from the Penn Treebank. Plans for a corpus of hand-corrected output, extensions of GLARF to Japanese and applications for MT are also discussed.</Paragraph>
+</Section>
+</Paper>
+

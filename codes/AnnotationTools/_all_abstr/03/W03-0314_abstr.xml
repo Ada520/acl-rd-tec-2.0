@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-0314">
+<Title>Learning Sequence-to-Sequence Correspondences from Parallel Corpora via Sequential Pattern Mining</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present an unsupervised extraction of sequence-to-sequence correspondences from parallel corpora by sequential pattern mining.</Paragraph>
+<Paragraph position="1"> The main characteristics of our method are two-fold. First, we propose a systematic way to enumerate all possible translation pair candidates of rigid and gapped sequences without falling into combinatorial explosion. Second, our method uses an efficient data structure and algorithm for calculating frequencies in a contingency table for each translation pair candidate. Our method is empirically evaluated using English-Japanese parallel corpora of 6 million words. Results indicate that it works well for multi-word translations, giving 56-84% accuracy at 19% token coverage and 11% type coverage.</Paragraph>
+</Section>
+</Paper>
+

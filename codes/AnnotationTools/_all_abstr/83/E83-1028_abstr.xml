@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E83-1028">
+<Title>Inquiry Semantics: A Functional Semantics of Natural Language Grammar 1</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+USA
+Summary
+</SectionTitle>
+<Paragraph position="0"> Programming a computer to operate to a significant degree as an author is a challenging research task. The creation of fluent multiparagraph text is a complex process because knowledge must be expressed in linguistic forms at several levels of organization, including paragraphs, sentences and words, each of which involves its own kinds of complexity.</Paragraph>
+<Paragraph position="1"> Accommodating this natural complexity is a difficult design problem. To solve it we must separate the various relevant kinds of knowledge into nearly independent collections, factoring the problem.</Paragraph>
+<Paragraph position="2"> Inquiry semantics is a new factoring of the text generation problem. It is novel in that it provides a distinct semantics for the grammar, independent of world knowledge, discourse knowledge, text plans and the lexicon, but appropriately linked to each. It has been implemented as part of the Nigel text generation grammar of English.</Paragraph>
+<Paragraph position="3"> This paper characterizes inquiry semantics, shows how it factors text generation, and describes its exemplification in NigeL The resulting description of inquiries for English has three dimensions: the varieties of operations on information, the varieties of information operated upon, and the subject matter of the operations. The definition framework for inquiries involves both traditional and nontraditional linguistic abstractions, spanning the knowledge to be represented and the plans required for presenting it.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A88-1032">
+<Title>Localizing Expression of Ambiguity</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+SRI International
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we describe an implemented program for localizing the expression of many types of syntactic ambiguity, in the logical forms of sentences, in a manner convenient for subsequent inferential processing. Among the types of ambiguities handled are prepositional phrases, very compound nominals, adverbials, relative clatmes, and preposed prepositional phrases. The algorithm we use is presented, and several possible shortcomings and extensions of our method are discussed.</Paragraph>
+</Section>
+</Paper>
+

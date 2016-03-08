@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C92-4189">
+<Title>Genus Disambiguation: A Study in Weighted Preference*</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> The atttolnatic coustmction of all IS A taxonomy of noun senses from a machine readable dictionary (MRD) has long been sought, but achieved with only limited success. The task requires the solution to two problems: 1) To define an algorithm to automatically identify the genres or hypemym of a noun definition, and 2) to define an algorithm for lexical disambiguation of the genus term. In the last ~ew years, effective methods for solving the first problem have been developed, but the problem of creating an algorithm for lexical disambiguation of the genus terms is one that has proven to be very difficult. In COL1NG 90 we described our itutial work on the automatic creation of a taxonomy of noun senses from Longman's Dictiorlary of Contemporary English (LDOCE). The algorithm for lexical disambiguation of the genus teml was accurate about 80% of the time aid made use of the semantic categories, the subject area luarkings and the frequency of use uffonnatiou in LDOCE.</Paragraph>
+<Paragraph position="1"> In this paper we report a series of experimcuts which weight the three factors in various ways, and describe our improvements to the algorithm (to about 90% accnracy).</Paragraph>
+</Section>
+</Paper>
+

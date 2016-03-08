@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-1216">
+<Title>An Attempt to Use Weighted Cusums to Identify Sublanguages</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper explores the use of weighted cusums, a technique found in authorship attribution studies, for the purpose of identifying sublanguages. The technique, and its relation to standard cusums (cumulative sum charts) is first described, and the formulae for calculations given in detail. The technique compares texts by testing for the incidence of linguistic 'features' of a superficial nature, e.g. proportion of 2- and 3---letter words, words beginning with a vowel, and. so on, and measures whether two texts differ significantly in respect of these features. The paper describes an experiment in which 14 groups of three texts each representing different sublanguages are compared with each other using the technique. The texts are first compared within each group to establish that the technique can identify the groups as being homogeneous. The texts are then compared with each other, and the results analysed. Taking the average of seven different tests, the technique is able to distinguish the sublanguages in only 43% of the case. But if the best score is taken, 79% of pairings can be distinguished. This is a better result, and the test seems able to quantify the difference between sublanguages.</Paragraph>
+<Paragraph position="1"> Keywords: sublanguage, genre, register, weighted cusum.</Paragraph>
+</Section>
+</Paper>
+

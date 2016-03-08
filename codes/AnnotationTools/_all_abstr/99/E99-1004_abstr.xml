@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E99-1004">
+<Title>An Object-Oriented Approach to the Design of Dialogue Management Functionality</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Dialogues may be seen as comprising commonplace routines on the one hand and specialized, task-specific interactions on the other. Object-orientation is an established means of separating the generic from the specialized. The system under discussion combines this object-oriented approach with a self-organizing, mixed-initiative dialogue strategy, raising the possibility of dialogue systems that can be assembled from ready-made components and tailored, specialized components.</Paragraph>
+</Section>
+</Paper>
+

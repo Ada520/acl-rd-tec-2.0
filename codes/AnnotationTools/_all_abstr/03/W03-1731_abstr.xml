@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-1731">
+<Title>Chunking-based Chinese Word Tokenization</Title>
+<Section position="1" start_page="0" end_page="111" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper introduces a Chinese word tokenization system through HMM-based chunking. Experiments show that such a system can well deal with the unknown word problem in Chinese word tokenization.</Paragraph>
+<Paragraph position="1"> The second term in (2-1) is the mutual information between T and . In order to simplify the computation of this term, we assume mutual information independence (2-2):</Paragraph>
+<Paragraph position="3"></Paragraph>
+</Section>
+</Paper>
+

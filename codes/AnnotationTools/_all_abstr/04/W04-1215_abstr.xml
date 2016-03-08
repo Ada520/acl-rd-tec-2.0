@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-1215">
+<Title>Annotating Multiple Types of Biomedical Entities: A Single Word Classification Approach</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Named entity recognition is a fundamental task in biomedical data mining. Multiple -class annotation is more challenging than single cla ss annotation. In this paper, we took a single word classification approach to dealing with the multiple -class annotation problem using Support Vector Machines (SVMs).</Paragraph>
+<Paragraph position="1"> Word attributes, results of existing gene/protein name taggers, context, and other information are important features for classification. During training, the size of training data and the distribution of named entities are considered. The preliminary results showed that the approach might be feasible when more training data is used to alleviate the data imbalance problem.</Paragraph>
+</Section>
+</Paper>
+

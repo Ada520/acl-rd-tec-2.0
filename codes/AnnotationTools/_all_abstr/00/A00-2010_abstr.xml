@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A00-2010">
+<Title>Generation in the Lambek Calculus Framework: an Approach with Semantic Proof Nets</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> Thc lincar logic (Girard, 1987) provides a powerful framcwork to cxprcss categorial gt'ammars (Ajdukicwicx, 1935) and Lambek calculus (Lambek, 1958), and a lot of work has presented proof nets uses for linguistic purposcs, with a special look at proof nets for Lambek calculus (Roorda, 1991; Lamarche and Retor6, 1996). But they have mainly explored the syntactic capabilities of proof nets, describing parsing processes.</Paragraph>
+<Paragraph position="1"> This paper wants to focus on the generation capabilities of proof nets thanks to their semantic readings as expressed in (de Groote and Retor6, 1996). The main features of our proposal consist in the use of proof nets lot Lambek calculus, of the Curry-Howard isomorplaisna (Howard, 1980; Girard et al., 1988), of semantic proof nets with semantic expressions ?t la MontaguC/ (Montague, 1974; Dowry et al., 1981), and in an algorithm for proof search with a target proof net.</Paragraph>
+<Paragraph position="2"> Unlike a previous proposal for generation in the Lambek calculus framework (Merenciano and Mort'ill, 1997), this point of view avoids the use of the A-term unification to lead the generation process. And the algorithmic undecidability of this latter mechanism (from second order unification) does not occur any more.</Paragraph>
+<Paragraph position="3"> In this work, we do not consider the choice of lexical items from a given semantic expression the syntactic rcalization of which we want to generate, but rather tile way we can associate given lexical entries to fit the given semantic expression and generate a syntactically correct cxpression. For this purpose, we express our problem as a proof search one in (multiplicative) linear logic which is decidable. Moreover, we characterize the semantic recipes of lexical items that provide a polynomial solution for the generation process.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1099">
+<Title>Query Translation by Text Categorization</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We report on the development of a cross language information retrieval system, which translates user queries by categorizing these queries into terms listed in a controlled vocabulary. Unlike usual automatic text categorization systems, which rely on data-intensive models induced from large training data, our automatic text categorization tool applies data-independent classiflers: a vector-space engine and a pattern matcher are combined to improve ranking of Medical Subject Headings (MeSH). The categorizer also beneflts from the availability of large thesauri, where variants of MeSH terms can be found. For evaluation, we use an English collection of MedLine records: OHSUMED. French OHSUMED queries translated from the original English queries by domain experts- are mapped into French MeSH terms; then we use the MeSH controlled vocabulary as interlingua to translate French MeSH terms into English MeSH terms, which are flnally used to query the OHSUMED document collection. The flrst part of the study focuses on the text to MeSH categorization task. We use a set of MedLine abstracts as input documents in order to tune the categorization system.</Paragraph>
+<Paragraph position="1"> The second part compares the performance of a machine translation-based cross language information retrieval (CLIR) system with the categorization-based system: the former results in a CLIR ratio close to 60%, while the latter achieves a ratio above 80%.</Paragraph>
+<Paragraph position="2"> A flnal experiment, which combines both approaches, achieves a result above 90%.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-1603">
+<Title>Preferential Presentation of Japanese Near-Synonyms Using Definition Statements</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper proposes a new method of ranking near-synonyms ordered by their suitability of nuances in a particular context. Our method distincts near-synonyms by semantic features extracted from their definition statements in an ordinary dictionary, and ranks them by the types of features and a particular context. Our method is an initial step to achieve a semantic paraphrase system for authoring support.</Paragraph>
+</Section>
+</Paper>
+

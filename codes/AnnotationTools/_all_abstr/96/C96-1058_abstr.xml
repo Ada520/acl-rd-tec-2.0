@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-1058">
+<Title>Three New Probabilistic Models for Dependency Parsing: An Exploration*</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Alter presenting a novel O(n a) parsing algorithm for dependency grammar, we develop three contrasting ways to stochasticize it. We propose (a) a lexical atfinity mode\] where words struggle to modify each other, (b) a sense tagging model where words tluctuate randomly in their selectional preferences, and (e) a. generative model where the speaker fleshes ()tit each word's syntactic and concep{.ual structure without regard to the implications :for the hearer. W(! also give preliminary empirical results from evaluating the three models' p;Lrsing performance on annotated Wall Street Journal trMning text (derived fi'om the Penn Treebank). in these results, the generative model performs significantly better than the others, and does about equally well at assigning pa.rtof-speech tags.</Paragraph>
+</Section>
+</Paper>
+

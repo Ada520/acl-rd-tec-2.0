@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A92-1025">
+<Title>Joining Statistics with NLP for Text Categorization</Title>
+<Section position="2" start_page="0" end_page="178" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> Text categorization is an excellent application domain for natural language processing systems. First, it is a task in which NLP techniques have born fruit, producing high accuracy along with other benefits \[Hayes and Weinstein, 1990; Kuhns, 1990; Tong et al., 1986\]. Second, it provides an easy way of measuring success, by comparing system responses with &amp;quot;expert&amp;quot; category assignments.</Paragraph>
+<Paragraph position="1"> Third, it is a ripe domain for exploring statistical methods for automated knowledge acquisition. Published work on text categorization has focused on the first item above, arguing convincingly for knowledge-based techniques and their accuracy, but has not yet opened the way for the investigation of category assignment as a way of testing NLP methods or on the prospects for acquisition. This work focuses on combining statistics and NLP in a knowledge-based categorization system, using statistics as way of augmenting hand-coded knowledge.</Paragraph>
+<Paragraph position="2"> The context of this research is a commerciallydeveloped system \[Rau and Jacobs, 1991\] that automatically assigns categories to news stories for &amp;quot;custom clipping&amp;quot; and other markets. Like Construe/TIS \[Hayes and Weinstein, 1990\], the work derives from, and coordinates with, NLP efforts, but the system primarily uses a lexico-semantic pattern matcher for categorization \[Jacobs et al., 1991\]. Categorization tasks vary greatly in difficulty, but the recall and precision results produced in our tests are similar to those reported by other systems, with coverage of over 90% on topic assignment and performance better than human indexers on most aspects of the task.</Paragraph>
+<Paragraph position="3"> Figure 1 shows a typical example of a news story, with associated human-assigned categories. Retrieval is performed by matching a desired set of categories (termed a query or profile) against those assigned in the text database. Our system, known as NLDB, mimics these category assignments, extracting company names \[Rau, 1991\], topics or subject indicators, industries, and others (including, for example, stock exchanges and geographic regions). The program also incorporates portions of the SCISOR system \[Jacobs and Rau, 1990\], which can fill certain other fields, such as the target and suitor of a takeover.</Paragraph>
+<Paragraph position="4"> This sort of system has a simple appeal: the &amp;quot;answers&amp;quot; (the set of category assignments) are usually clear-cut, yet they clearly require some detailed content analysis.</Paragraph>
+<Paragraph position="5"> On the other hand, the technologies that could contribute to this analysis are bafflingly complex, from discourse methods that distinguish topics from background events to word sense techniques that help to distinguish, for example, COMMUNICATIONS from BROADCASTING and HEALTH CARE from PHARMACEUTICALS.</Paragraph>
+<Paragraph position="6"> Figure 2 shows the complete list of industry and topic assignments currently in use to categorize texts in the NLDB system.</Paragraph>
+<Paragraph position="7"> The development of this system has advanced the state of the art in practical NLP by proving the utility of statistical training methods on a knowledge-based NLP task. Feeding in large volumes of texts with human answers has found new ways around old problem~, in knowledge acquisition. This paper explains the relationship between problems in NLP and performancC/ in categorization and describes a statistical method fol automatically creating lexico-semantic patterns for categorization. null</Paragraph>
+</Section>
+</Paper>
+

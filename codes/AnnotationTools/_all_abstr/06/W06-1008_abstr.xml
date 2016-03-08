@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-1008">
+<Title>Sydney, July 2006. c(c)2006 Association for Computational Linguistics A fast and accuratemethodfor detectingEnglish-Japaneseparalleltexts</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"></Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+Parallelcorpusis a valuableresourceused
+</SectionTitle>
+<Paragraph position="0"> in various fields of multilingual natural language processing. One of the most significantproblemsin using parallelcorpora is the lack of their availability. Researchershave investigated approachesto collectingparalleltexts from the Web. A basic component of these approaches is an algorithm that judges whether a pair of texts is parallel or not. In this paper, we propose an algorithmthat accelerates this task without losing accuracy by preprocessinga bilingual dictionaryas well as the collection of texts. This method achieved 250,000pairs/secthroughputon a single CPU, with the best F1 score of 0.960 for the task of detecting 200 Japanese-Englishtranslationpairs out of 40,000. The methodis applicableto texts of any format, and not specificto HTML documentslabeledwith URLs. We report detailsof thesepreprocessingmethodsand the fast comparison algorithm. To the best of our knowledge,this is the first reportedexperimentof extractingJapanese-Englishparalleltexts froma large corpora basedsolelyon linguisticcontent.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

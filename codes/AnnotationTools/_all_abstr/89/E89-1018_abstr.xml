@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E89-1018">
+<Title>cation. A progress report.&amp;quot; in: Ross Steele / Terry Threadgold (Eds.): Language</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a proposal for the structuring of collocation knowledge 1 in the lexicon of a multilingual generation system and show to what extent it can be used in the process of lexical selection. This proposal is part of Polygloss, a new research project on multilingual generation, and it has been inspired by work carried out in the S EM-SYN project (see e.g. \[I~(~SNEtt 198812).</Paragraph>
+<Paragraph position="1"> The descriptive approach presented in this proposal is based on a combination of results from recent lexicographical research and the application of Meaning-Text-Theory (MTT) (see e.g. \[MEL'CUK et al. 1981\], \[MEL'CUK et al. 1984\]). We first outline the overall structure of the dictionary system that is needed by a multilingual generator; section 2 gives an overview of the results of lexicographical work on collocations and compares them with &amp;quot;lexical functions&amp;quot; as used in Meaning-Text-Theory. Section 3 shows how we intend to integrate collocations in the generation dic1We use the term &amp;quot;collocation&amp;quot; in the sense of \[HAUSMANN 1985\] referring to constraints on the cooccurrence of two lexeme words; the two elements are not completely freely combined, but one of them semantically determines the other one. Examples are for instance solve a problem, turn dark, expose someone to a risk, etc. For a more detailed definition see section</Paragraph>
+</Section>
+</Paper>
+

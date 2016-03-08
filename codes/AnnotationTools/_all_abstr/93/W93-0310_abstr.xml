@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W93-0310">
+<Title>Computation of Word Associations Based on the Co-Occurences of Words in Large Corpora I</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A statistical model is presented which predicts the strengths of word-associations from the relative frequencies of the common occurrences of words in large bodies of text. These predictions are compared with the Minnesota association norms for 100 stimulus words. The average agreement between the predicted and the observed responses is only slightly weaker than the agreement between the responses of an arbitrary subject and the responses of the other subjects. It is shown that the approach leads to equally good results for both English and German.</Paragraph>
+</Section>
+</Paper>
+

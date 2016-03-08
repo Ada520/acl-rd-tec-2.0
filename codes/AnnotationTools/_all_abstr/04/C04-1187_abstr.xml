@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1187">
+<Title>Web-Based List Question Answering</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> While research on question answering has become popular in recent years, the problem of efficiently locating a complete set of distinct answers to list questions in huge corpora or the Web is still far from being solved. This paper exploits the wealth of freely available text and link structures on the Web to seek complete answers to list questions. We introduce our system, FADA, which relies on question parsing, web page classification/clustering, and content extraction to find reliable distinct answers with high recall. null</Paragraph>
+</Section>
+</Paper>
+

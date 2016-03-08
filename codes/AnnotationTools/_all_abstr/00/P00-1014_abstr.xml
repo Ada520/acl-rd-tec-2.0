@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P00-1014">
+<Title>An Unsupervised Approach to Prepositional Phrase Attachment using Contextually Similar Words</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Prepositional phrase attachment is a common source of ambiguity in natural language processing. We present an unsupervised corpus-based approach to prepositional phrase attachment that achieves similar performance to supervised methods. Unlike previous unsupervised approaches in which training data is obtained by heuristic extraction of unambiguous examples from a corpus, we use an iterative process to extract training data from an automatically parsed corpus.</Paragraph>
+<Paragraph position="1"> Attachment decisions are made using a linear combination of features and low frequency events are approximated using contextually similar words.</Paragraph>
+<Paragraph position="2"> Introduction Prepositional phrase attachment is a common source of ambiguity in natural language processing. The goal is to determine the attachment site of a prepositional phrase in a sentence. Consider the following examples:  1. Mary ate the salad with a fork.</Paragraph>
+<Paragraph position="3"> 2. Mary ate the salad with croutons.</Paragraph>
+<Paragraph position="4">  In both cases, the task is to decide whether the prepositional phrase headed by the preposition with attaches to the noun phrase (NP) headed by salad or the verb phrase (VP) headed by ate . In the first sentence, with attaches to the VP since Mary is using a fork to eat her salad. In sentence 2, with attaches to the NP since it is the salad that contains croutons.</Paragraph>
+<Paragraph position="5"> Formally, prepositional phrase attachment is simplified to the following classification task. Given a 4-tuple of the form ( V , N 1 , P , N 2 ), where V is the head verb, N 1 is the head noun of the object of V , P is a preposition, and N 2 is the head noun of the prepositional complement, the goal is to classify as either adverbial attachment (attaching to V) or adjectival attachment (attaching to N 1 ). For example, the 4-tuple ( eat , salad , with , fork ) has target classification V . In this paper, we present an unsupervised corpus-based approach to prepositional phrase attachment that outperforms previous unsupervised techniques and approaches the performance of supervised methods. Unlike previous unsupervised approaches in which training data is obtained by heuristic extraction of unambiguous examples from a corpus, we use an iterative process to extract training data from an automatically parsed corpus. The attachment decision for a 4-tuple ( V , N 1 , P , N 2 ) is made as follows. First, we replace V and N 2 by their contextually similar words and compute the average adverbial attachment score. Similarly, the average adjectival attachment score is computed by replacing N 1 and N 2 by their contextually similar words. Attachment scores are obtained using a linear combination of features of the 4-tuple. Finally, we combine the average attachment scores with the attachment score of N 2 attaching to the original V and the attachment score of N 2 attaching to the original N 1. The proposed classification represents the attachment site that scored highest.</Paragraph>
+</Section>
+</Paper>
+

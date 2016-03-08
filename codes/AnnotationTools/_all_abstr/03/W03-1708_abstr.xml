@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-1708">
+<Title>CHINERS: A Chinese Named Entity Recognition System for the Sports Domain</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In the investigation for Chinese named entity (NE) recognition, we are confronted with two principal challenges.</Paragraph>
+<Paragraph position="1"> One is how to ensure the quality of word segmentation and Part-of-Speech (POS) tagging, because its consequence has an adverse impact on the performance of NE recognition. Another is how to flexibly, reliably and accurately recognize NEs. In order to cope with the challenges, we propose a system architecture which is divided into two phases. In the first phase, we should reduce word segmentation and POS tagging errors leading to the second phase as much as possible. For this purpose, we utilize machine learning techniques to repair such errors. In the second phase, we design Finite State Cascades (FSC) which can be automatically constructed depending on the recognition rule sets as a shallow parser for the recognition of NEs. The advantages of that are reliable, accurate and easy to do maintenance for FSC. Additionally, to recognize special NEs, we work out the corresponding strategies to enhance the correctness of the recognition. The experimental evaluation of the system has shown that the total average recall and precision for six types of NEs are 83% and 85% respectively. Therefore, the system architecture is reasonable and effective.</Paragraph>
+</Section>
+</Paper>
+

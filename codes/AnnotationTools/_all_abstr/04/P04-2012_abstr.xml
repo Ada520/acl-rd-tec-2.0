@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P04-2012">
+<Title>A Framework for Unsupervised Natural Language Morphology Induction</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a framework for unsupervised natural language morphology induction wherein candidate suffixes are grouped into candidate inflection classes, which are then arranged in a lattice structure. With similar candidate inflection classes placed near one another in the lattice, I propose this structure is an ideal search space in which to isolate the true inflection classes of a language. This paper discusses and motivates possible search strategies over the inflection class lattice structure. null</Paragraph>
+</Section>
+</Paper>
+

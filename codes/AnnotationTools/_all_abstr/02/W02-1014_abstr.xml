@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-1014">
+<Title>Fast LR Parsing Using Rich (Tree Adjoining) Grammars</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe an LR parser of parts-of-speech (and punctuation labels) for Tree Adjoining Grammars (TAGs), that solves table conflicts in a greedy way, with limited amount of backtracking. We evaluate the parser using the Penn Treebank showing that the method yield very fast parsers with at least reasonable accuracy, confirming the intuition that LR parsing benefits from the use of rich grammars.</Paragraph>
+</Section>
+</Paper>
+

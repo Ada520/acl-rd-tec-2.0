@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C88-2166">
+<Title>Machine-Readable Dictionary&amp;quot; in The Uses of Large Text Databases, Proceedings of the Third</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+USA
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Although every natural language system needs a computational lexicon, each system puts different amounts and types of information into its lexicon according to its individual needs. However, some of the intonnation needed across systems is shared or &amp;quot;identical&amp;quot; information. This paper presents our experienc~&amp;quot; in planning and building COMPLEX, a computational lexicon designed to be a repository of shared lexical information for use by Natural Language Processing (NLP) systems. We have drawn primarily on explicit and implicit information fi'om machlne-readable dictionaries (MRD's) to create a broad coverage lexicon.</Paragraph>
+</Section>
+</Paper>
+

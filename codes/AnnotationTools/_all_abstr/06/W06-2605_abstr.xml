@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-2605">
+<Title>Discourse Parsing: Learning FOL Rules based on Rich Verb Semantic Representations to automatically label Rhetorical Relations</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We report on our work to build a discourse parser (SemDP) that uses semantic features of sentences. We use an Inductive Logic Programming (ILP) System to exploit rich verb semantics of clauses to induce rules for discourse parsing. We demonstrate that ILP can be used to learn from highly structured natural language data and that the performance of a discourse parsing model that only uses semantic information is comparable to that of the state of the art syntactic discourse parsers.</Paragraph>
+</Section>
+</Paper>
+

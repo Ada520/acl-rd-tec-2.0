@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-1028">
+<Title>Cross-Serial Dependencies Are Not Hard to Process</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Cross-serial dependencies in Dutdl and Swiss-German are the only known extracontext fi'ee natural language syntactic phenonmna. Psycholinguistie evidence suggests cross-serial orderings tend to be easier to process t, lmn nested cons\[,ruc|iions. We, argue thai; |;tie expressivity requirements of the corresponding formal languages do not actually entail |;hat processing reduplication languages require the worst-ease time complexity for lmiguages of the same expressive class. We dist;inguish between context-free representability and contc, xt-free processing. We show that for any language with up to context fl'ee expressive power, processing cross-scriM dependencies can be accommodated without atfect;ing tmrsing complexil,y. This is relal,ed to other work on reduplication phenonmna in formal models of computation.</Paragraph>
+</Section>
+</Paper>
+

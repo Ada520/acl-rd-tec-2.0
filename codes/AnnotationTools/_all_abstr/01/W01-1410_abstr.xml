@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W01-1410">
+<Title>Machine Translation with Grammar Association: Some Improvements and the Loco C Model</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> Grammar Association is a promising technique for facing Machine Translation and Language Understanding tasks,1 first proposed by Vidal, Pieraccini, and Levin (1993). This technique combines statistical and structural models, all of which can be automatically built from a set of bilingual sentence pairs. Moreover, the optimal translation of new input sentences can be efficiently found by Dynamic Programming algorithms. null Basically, a Grammar Association system consists of three models: (1) an input grammar modelling the input language of the translation task; (2) an output grammar modelling its output language; (3) an association model describing how the use of certain elements (rules) of the input 1We view Language Understanding as a particular case of Machine Translation where the output language is aimed at representing the meaning of input sentences.</Paragraph>
+<Paragraph position="1"> grammar is related (in the translation task) to the use of their corresponding elements in the output grammar. Using these models, the system performs the translation of input sentences as follows: (1) first, the input sentence is parsed using the input grammar, giving rise to an input derivation; (2) given the input derivation, the association model assigns a weight to each rule of the output grammar; (3) in the (now weighted) output grammar, a search for the optimal output derivation is carried out; (4) the sentence associated to that derivation is conjectured as translation of the input sentence.</Paragraph>
+<Paragraph position="2"> We are interested in designing Machine Translation systems based on the principles of Grammar Association and within a statistical framework. Some steps we have taken towards this final end are presented in this work.</Paragraph>
+</Section>
+</Paper>
+

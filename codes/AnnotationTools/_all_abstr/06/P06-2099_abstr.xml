@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P06-2099">
+<Title>Compiling a Lexicon of Cooking Actions for Animation Generation</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a system which generates animations for cooking actions in recipes, to help people understand recipes written in Japanese. The major goal of this research is to increase the scalability of the system, i.e., to develop a system which can handle various kinds of cooking actions.</Paragraph>
+<Paragraph position="1"> We designed and compiled the lexicon of cooking actions required for the animation generation system. The lexicon includes the action plan used for animation generation, and the information about ingredients upon which the cooking action is taken.</Paragraph>
+<Paragraph position="2"> Preliminary evaluation shows that our lexicon contains most of the cooking actions that appear in Japanese recipes. We also discuss how to handle linguistic expressions in recipes, which are not included in the lexicon, in order to generate animations for them.</Paragraph>
+</Section>
+</Paper>
+

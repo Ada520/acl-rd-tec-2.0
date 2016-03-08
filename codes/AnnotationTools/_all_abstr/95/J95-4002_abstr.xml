@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J95-4002">
+<Title>Tree Insertion Grammar: A Cubic-Time, Parsable Formalism that Lexicalizes Context-Free Grammar without Changing the Trees Produced Yves Schabes * MERL</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+MERL
+</SectionTitle>
+<Paragraph position="0"> Tree insertion grammar (TIG) is a tree-based formalism that makes use of tree substitution and tree adjunction. TIG is related to tree adjoining grammar. However, the adjunction permitted in TIG is sufficiently restricted that TIGs only derive context-free languages and TIGs have the same cubic-time worst-case complexity bounds for recognition and parsing as context-free grammars.</Paragraph>
+<Paragraph position="1"> An efficient Earley-style parser for TIGs is presented.</Paragraph>
+<Paragraph position="2"> Any context-free grammar (CFG) can be converted into a lexicalized tree insertion grammar (LTIG) that generates the same trees. A constructive procedure is presented for converting a CFG into a left anchored (i.e., word initial) LTIG that preserves ambiguity and generates the same trees. The L,TIG created can be represented compactly by taking advantage of sharing between the elementary trees in it. Methods of converting CFGs into left anchored CFGs, e.g., the methods of Greibach and Rosenkrantz, do not preserve the trees produced and result in very large output grammars.</Paragraph>
+<Paragraph position="3"> For the purpose of experimental evaluation, the LTIG lexicalization procedure was applied to eight different CFGs for subsets of English. The LTIGs created were smaller than the original CFGs. Using an implementation of the Earley-style TIG parser that was specialized for left anchored LTIGs, it was possible to parse more quickly with the LTIGs than with the original CFGs.</Paragraph>
+</Section>
+</Paper>
+

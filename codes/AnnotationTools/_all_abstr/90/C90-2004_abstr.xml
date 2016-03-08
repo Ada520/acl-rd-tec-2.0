@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-2004">
+<Title>Bottom-Up Filtering : a Parsing Strategy for GPSG</Title>
+<Section position="1" start_page="0" end_page="19" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we propose an optimized strategy, called Bottom-Up Filtering, for parsing GPSGs. This strategy is based on a particular, high level, interpretation of GPSGs. It permiks a significant reduction of fl~e non-determinism inherent to the rule selection process.</Paragraph>
+<Paragraph position="1"> Introduction Linguistic theories are becoming increasingly important for natural language parsing. In earlier work in this domain, few approaches were based on full-fledged linguistic descriptions, Nowadays, this is becoming the rule rather than the exception !.</Paragraph>
+<Paragraph position="2"> Among all\[ the current linguistic thcories, we think that GPSG allows the simplest interface between linguistic and computational theory. But its naive computational interpretation, although fairly straightforward, might result in a computationally expensive implementation.</Paragraph>
+<Paragraph position="3"> Barton showed that universal ID/LP parsing could be reduced to the vertex-cover problem, and so was NPcomplete. In theory, we can only search for heuristics.</Paragraph>
+<Paragraph position="4"> in actual practice we might still look for efficient implementations. Several authors (Evans, Ristad, Kilbury...) developed an interpretation of the theory that can support an efficient implementation. Some, like \[Shieber86\], are more interested in the algorithmic viewpoint.</Paragraph>
+<Paragraph position="5"> In this paper, we shall review some of the most important factors of intractability before giving a presentation of Bottom-Up Filtering. This presentation  is twofold: interpretation of GPSG and implementation of this interpretation using Bottom-Up Filtering.</Paragraph>
+<Paragraph position="6"> 1 Cf. for instance \[Abramson89\], \[(;azdar89\], \[Uszkoreit88\]. See also \[,Iensen88\] for file contrary position.</Paragraph>
+<Paragraph position="7"> 1. ComplexiO' of GPSG parsing  Several studies like \[Barton84\] or \[Ristad86\] discussed the theoretical complexity of universal GPSG parsing.</Paragraph>
+<Paragraph position="8"> Here we shall focus on the effective complexity of GPSG parsing and especially on the problem of non-determinism in rule selection.</Paragraph>
+<Paragraph position="9"> Rule selection generates several problems more particularly due to local ambiguity: the parser can select a wrong rule and cause backtracking. This non-determinism problem is one of the most important in natural language processing. Several mechanisms such as lookahead or knowledge of leftmost constituents have been proposed to constrain the operation of rule selection and reduce this non determinism.</Paragraph>
+<Paragraph position="10"> The ID/LP formalization separates two aspects of phrase structure which are merged in a standard (context-free) phrase structure rule: hierarchical constituency and constituent order. Constituency rules (ID-rules) are represented with unordered right-hand sides. Hence, for an ID-rule like X --~ At ..... Ak, an unconstrained expansion can generate k~ phrase-structure rules. Moreover, metarules increase this overgeneration problem. To summarize this problem, we can say that there are two main sources of non-determinism (and henceforth of actual computational complexity) in GPSG:  (1) ID-rules: - derivation is a non-detenninistic process - possibility of null transition (rules with empty right-hand sides), permitting large structures with few &amp;quot;supporting&amp;quot; terminals - unordered right-hand sides (2) Metarules: - induction of null transition and ambiguity - exponential increase of ID-rules - non-deterministic application to ID-rules  There are several other factors of complexity. Most of the parsing problems come from non-determinism, which can be reduced in two ways: constraints on the underlying linguistic theory and development of new parsing strategies.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-1803">
+<Title>Interpretation and Generation in a Knowledge-Based Tutorial System</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We discuss how deep interpretation and generation can be integrated with a knowledge representation designed for question answering to build a tutorial dialogue system. We use a knowledge representation known to perform well in answering exam-type questions and show that to support tutorial dialogue it needs additional features, in particular, compositional representations for interpretation and structured explanation representations.</Paragraph>
+</Section>
+</Paper>
+

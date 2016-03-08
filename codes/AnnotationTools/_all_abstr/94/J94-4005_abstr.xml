@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J94-4005">
+<Title>Training and Scaling Preference Functions for Disambiguation Hiyan Alshawi * AT&amp;T Bell Laboratories</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+SRI International
+</SectionTitle>
+<Paragraph position="0"> We present an automatic method for weighting the contributions of preference functions used in disambiguation. Initial scaling factors are derived as the solution to a least squares minimization problem, and improvements are then made by hill climbing. The method is applied to disambiguating sentences in the Air Travel Information System corpus, and the performance of the resulting scaling factors is compared with hand-tuned factors. We then focus on one class of preference function, those based on semantic lexical collocations. Experimental results are presented showing that such functions vary considerably in selecting correct analyses. In particular, we define a function that performs significantly better than ones based on mutual information and likelihood ratios of lexical associations.</Paragraph>
+</Section>
+</Paper>
+

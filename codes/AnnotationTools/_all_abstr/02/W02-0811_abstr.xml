@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-0811">
+<Title>Combining Heterogeneous Classifiers for Word-Sense Disambiguation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper discusses ensembles of simple but heterogeneous classifiers for word-sense disambiguation, examining the Stanford-CS224N system entered in the SENSEVAL-2 English lexical sample task. First-order classifiers are combined by a second-order classifier, which variously uses majority voting, weighted voting, or a maximum entropy model. While individual first-order classifiers perform comparably to middle-scoring teams' systems, the combination achieves high performance.</Paragraph>
+<Paragraph position="1"> We discuss trade-offs and empirical performance.</Paragraph>
+<Paragraph position="2"> Finally, we present an analysis of the combination, examining how ensemble performance depends on error independence and task difficulty.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P05-1015">
+<Title>respect to rating scales</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We address the rating-inference problem, wherein rather than simply decide whether a review is thumbs up or thumbs down , as in previous sentiment analysis work, one must determine an author's evaluation with respect to a multi-point scale (e.g., one to ve stars ). This task represents an interesting twist on standard multi-class text categorization because there are several different degrees of similarity between class labels; for example, three stars is intuitively closer to four stars than to one star .</Paragraph>
+<Paragraph position="1"> We rst evaluate human performance at the task. Then, we apply a metaalgorithm, based on a metric labeling formulation of the problem, that alters a given a6 -ary classi er's output in an explicit attempt to ensure that similar items receive similar labels. We show that the meta-algorithm can provide signi cant improvements over both multi-class and regression versions of SVMs when we employ a novel similarity measure appropriate to the problem.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-1007">
+<Title>Tense and Connective Constraints on the Expression of Causality</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Starting from descriptions of French connectives (in particular &amp;quot;donc&amp;quot;---therefore), on the one hand, and aspectual properties of French tenses pass4 simple and imparfait on the other hand, we study in this paper how the two interact with respect to the expression of causality. It turns out that their interaction is not free. Some combinations are not acceptable, and we propose an explanation for them. These results apply straightforwardly to natural language generation: given as input two events related by a cause relation, we can choose among various ways of presentation (the parameters being (i) the order, (ii) the connective, (iii) the tense) so that we are sure to express a cause relation, without generating either an incorrect discourse or an ambiguous one.</Paragraph>
+</Section>
+</Paper>
+

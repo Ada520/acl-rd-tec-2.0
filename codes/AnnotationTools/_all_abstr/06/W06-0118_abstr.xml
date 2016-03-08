@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-0118">
+<Title>Voting between Dictionary-based and Subword Tagging Models for Chinese Word Segmentation</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a Chinese word segmentation system that is based on majority voting among three models: a forward maximum matching model, a conditional random field (CRF) model using maximum subword-based tagging, and a CRF model using minimum subword-based tagging. In addition, it contains a post-processing component to deal with inconsistencies. Testing on the closed track of CityU, MSRA and UPUC corpora in the third SIGHAN Chinese Word Segmentation Bakeoff, the system achieves a F-score of 0.961, 0.953 and 0.919, respectively. null</Paragraph>
+</Section>
+</Paper>
+

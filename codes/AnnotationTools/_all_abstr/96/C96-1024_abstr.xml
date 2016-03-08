@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-1024">
+<Title>Compositional Semantics in Verbmobil</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The paper discusses how compositional semantics is implemented in the Verbmobil speech-to-speech translation system using LUD, a description language for underspecified discourse representation structures. The description language and its formal interpretation in DRT are described as well as its implementation together with the architecture of the system's entire syntactic-semantic processing module. We show that a linguistically sound theory and formalism can be properly implemented in a system with (near) real-time requirements.</Paragraph>
+</Section>
+</Paper>
+

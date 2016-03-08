@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P95-1035">
+<Title>An Efficient Generation Algorithm for Lexicalist MT</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The lexicalist approach to Machine Translation offers significant advantages in the development of linguistic descriptions.</Paragraph>
+<Paragraph position="1"> However, the Shake-and-Bake generation algorithm of (Whitelock, 1992) is NPcomplete. We present a polynomial time algorithm for lexicalist MT generation provided that sufficient information can be transferred to ensure more determinism.</Paragraph>
+</Section>
+</Paper>
+

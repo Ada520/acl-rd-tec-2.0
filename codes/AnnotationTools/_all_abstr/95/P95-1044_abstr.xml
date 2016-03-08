@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P95-1044">
+<Title>A Computational Framework for Composition in Multiple Linguistic Domains</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe a computational framework for a grammar architecture in which different linguistic domains such as morphology, syntax, and semantics are treated not as separate components but compositional domains. The framework is based on Combinatory Categorial Grammars and it uses the morpheme as the basic building block of the categorial lexicon.</Paragraph>
+</Section>
+</Paper>
+

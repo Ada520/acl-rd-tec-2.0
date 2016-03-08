@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A00-1035">
+<Title>Spelling and Grammar Correction for Danish in SCARRIE</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper reports on work carried out to develop a spelling and grammar corrector for Danish, addressing in particular the issue of how a form of shallow parsing is combined with error detection and correction for the treatment of context-dependent spelling errors. The syntactic grammar for Danish used by the system has been developed with the aim of dealing with the most frequent error types found in a parallel corpus of unedited and proofread texts specifically collected by the project's end users. By focussing on certain grammatical constructions and certain error types, it has been possible to exploit the linguistic 'intelligence' provided by syntactic parsing and yet keep the system robust and efficient. The system described is thus superior to other existing spelling checkers for Danish in its ability to deal with context-dependent errors.</Paragraph>
+</Section>
+</Paper>
+

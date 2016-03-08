@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J88-2005">
+<Title>A COMPUTATIONAL MODEL OF THE SEMANTICS OF TENSE AND ASPECT</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 INTRODUCTION
+</SectionTitle>
+<Paragraph position="0"> The PUNDIT text-processing system extracts temporal information about real-world situations from short message texts. 2 This involves three complementary analyses. First, PUNDIT determines whether a situation has actual time associated with it. A reference to a possible or potential situation, for example, would need a different treatment. Second, it determines the temporal structure of the predicated situation, or the manner in which it evolves through time. Finally, it analyzes the temporal location of the actual situations with respect to the time of text production or to the times of other situations. These three pieces of information are derived from the lexical head of a predication (verbal, adjectival, or nominal), its grammatical inflections (tense, progressive, perfect), and finally, temporal adverbs such as before, after, and when. Each of these components of temporal meaning is assigned a context-dependent compositional semantics. A fundamental premise of this approach is that the several sentence elements contributing temporal information can and should be analyzed in tandem (Mourelatos 1981, Dowty 1986) in order to determine the times for which predications are asserted to hold. This is accomplished by means of a model of the semantics of time that incorporates both aspect and a Reichenbachian treatment of tense (Reichenbach 1947).</Paragraph>
+<Paragraph position="1"> The temporal analysis component described here was originally designed to handle PUNDIT's first text domain, CASREP messages, which are reports describing equipment failures on navy ships. 3 This domain was a particularly appropriate one for implementing a component to analyze the time information contained explicitly within the individual sentences of a text. CASREPs are diagnostic reports consisting of simple declarative sentences. They present a cumulative description of the current status of a particular piece of equipment rather than narrating a sequence of events.</Paragraph>
+<Paragraph position="2"> Within one sentence, several different situations may be mentioned, linked together by explicit temporal connectives such as before and after. It is thus possible to extract a good deal of the important temporal information from these texts without handling intersentential temporal relations. However, the implementation of the temporal semantic component described here lays the necessary groundwork for eventually computing inter-sentential relations along lines proposed in Webber 1987 and this volume. 4 The capacity to process intersentential temporal relations is, of course, essential for adequately handling narrative data.</Paragraph>
+</Section>
+</Paper>
+

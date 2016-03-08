@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N03-4006">
+<Title>QCS: A Tool for Querying, Clustering, and Summarizing Documents</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The QCS information retrieval (IR) system is presented as a tool for querying, clustering, and summarizing document sets. QCS has been developed as a modular development framework, and thus facilitates the inclusion of new technologies targeting these three IR tasks. Details of the system architecture, the QCS interface, and preliminary results are presented.</Paragraph>
+</Section>
+</Paper>
+

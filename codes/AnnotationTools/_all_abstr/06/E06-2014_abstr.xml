@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E06-2014">
+<Title>ASSIST: Automated semantic assistance for translators</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The problem we address in this paper is that of providing contextual examples of translation equivalents for words from the general lexicon using comparable corpora and semantic annotation that is uniform for the source and target languages. For a sentence, phrase or a query expression in the source language the tool detects the semantictypeofthesituationinquestionand null gives examples of similar contexts from the target language corpus.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E93-1019">
+<Title>Rule-based Acquisition and Maintenance of Lexical and Semantic Knowledge *</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The lexicons for Knowledge-Based Machine Translation systems require knowledge intensive morphological, syntactic and semantic information. This information is often used in different ways and usually formatted for a specific NLP system. This tends to make both the acquisition and maintenance of lexical databases cumbersome, inefficient and error-prone. In order to solve these problems, we have developed a program called COOL which automates the acquisition and maintenance processes and allows us to standardize and centralize the databases. This system is currently being used in the ESTRATO machine translation project at the Center for Machine Translation.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W99-0632">
+<Title>Using Subcategorization to Resolve Verb Class Ambiguity</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Levin's (1993) taxonomy of verbs and their classes is a widely used resource for lexical semantics. In her framework, some verbs, such as give exhibit no class ambiguity. But other verbs, such as write, can inhabit more than one class. In some of these ambiguous cases the appropriate class for a particular token of a verb is immediately obvious from inspection of the surrounding context. In others it is not, and an application which wants to recover this information will be forced to rely on some more or less elaborate process of inference. We present a simple statistical model of verb class ambiguity and show how it can be used to carry out such inference.</Paragraph>
+</Section>
+</Paper>
+

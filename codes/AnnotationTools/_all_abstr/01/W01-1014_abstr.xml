@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W01-1014">
+<Title>Automatic Augmentation of Translation Dictionary with Database Terminologies in Multilingual Query Interpretation</Title>
+<Section position="1" start_page="0" end_page="1" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In interpreting multilingual queries to databases whose domain information is described in a particular language, we must address the problem of word sense disambiguation. Since full-fledged semantic classification information is difficult to construct either automatically or manually for this purpose, we propose to disambiguate the senses of the source lexical items by automatically augmenting a simple translation dictionary with database terminologies and describe an implemented multilingual query interpretation system in a combinatory categorial grammar framework.</Paragraph>
+</Section>
+</Paper>
+

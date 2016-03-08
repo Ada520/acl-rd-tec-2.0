@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P02-1007">
+<Title>OT Syntax: Decidability of Generation-based Optimizationa0</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In Optimality-Theoretic Syntax, optimization with unrestricted expressive power on the side of the OT constraints is undecidable. This paper provides a proof for the decidability of optimization based on constraints expressed with reference to local subtrees (which is in the spirit of OT theory). The proof builds on Kaplan and Wedekind's (2000) construction showing that LFG generation produces context-free languages.</Paragraph>
+</Section>
+</Paper>
+

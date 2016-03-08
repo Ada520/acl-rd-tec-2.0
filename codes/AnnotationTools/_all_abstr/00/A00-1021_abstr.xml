@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A00-1021">
+<Title>Ranking suspected answers to natural language questions using predictive annotation</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we describe a system to rank suspected answers to natural language questions.</Paragraph>
+<Paragraph position="1"> We process both corpus and query using a new technique, predictive annotation, which augments phrases in texts with labels anticipating their being targets of certain kinds of questions.</Paragraph>
+<Paragraph position="2"> Given a natural language question, our IR system returns a set of matching passages, which we then rank using a linear function of seven predictor variables. We provide an evaluation of the techniques based on results from the TREC Q&amp;A evaluation in which our system participated. null</Paragraph>
+</Section>
+</Paper>
+

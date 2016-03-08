@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-2151">
+<Title>Automatic Text Summarization Based on the Global Document Annotation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The GDA (Global Document Annotation) project proposes a tag set which allows machines to automatically infer the underlying semantic/pragmatic structure of documents. Its objectives are to promote development and spread of NLP/AI applications to render GDA-tagged documents versatile and intelligent contents, which should nmtivate WWW (World Wide Web) users to tag their documents as part of content authoring. This paper discusses automatic text summarization based on GDA. Its main features are a domain/style-free algorithm and personalization on summarization which reflects readers' interests and preferences. In order to calculate the importance score of a text element, the algorithm uses spreading activation on an intra-document network which connects text elements via thematic, rhetorical, mid coreferential relations. The proposed method is flexible enough to dynamically generate summaries of various sizes. A summary browser supporting personalization is reported as well.</Paragraph>
+</Section>
+</Paper>
+

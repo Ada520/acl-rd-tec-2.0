@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-1118">
+<Title>Exploiting Diverse Knowledge Sources via Maximum Entropy in Named Entity Recognition</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a novel statistical named-entity (i.e. &amp;quot;proper name&amp;quot;) recognition system built around a maximum entity framework. By working v,ithin the framework of maximum entropy theory and utilizing a flexible object-based architecture, the system is able to make use of an extraordinarily diverse range of knowledge sources in making its tagging decisions. These knowledge sources include capitalization features, lexical features, features indicating the current section of text (i.e. headline or main body), and dictionaries of single or multi-word terms. The purely statistical system contains no hand-generated patterns and achieves a result comparable with the best statistical systems. However, when combined with other handcoded systems, the system achieves scores that exceed the highest comparable scores thus-far published.</Paragraph>
+</Section>
+</Paper>
+

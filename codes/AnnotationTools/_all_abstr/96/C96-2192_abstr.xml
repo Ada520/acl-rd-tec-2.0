@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-2192">
+<Title>Tagging Spoken Language Using Written Language Statistics</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper reports on two experiments with a probabilistic part-of-speech tagger, trained on a tagged corpus of written Swedish, being used to tag a corpus of (transcribed) spoken Swedish. The results indicate that with very little adaptations an accuracy rate of 85% can be achieved, with an accuracy rate for known words of 90%. In addition, two different treatments of pauses were explored but with no significant gain in accuracy under either condition.</Paragraph>
+</Section>
+</Paper>
+

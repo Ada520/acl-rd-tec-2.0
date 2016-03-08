@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N03-1014">
+<Title>Inducing History Representations for Broad Coverage Statistical Parsing</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a neural network method for inducing representations of parse histories and using these history representations to estimate the probabilities needed by a statistical left-corner parser. The resulting statistical parser achieves performance (89.1% F-measure) on the Penn Treebank which is only 0.6% below the best current parser for this task, despite using a smaller vocabulary size and less prior linguistic knowledge. Crucial to this success is the use of structurally determined soft biases in inducing the representation of the parse history, and no use of hard independence assumptions.</Paragraph>
+</Section>
+</Paper>
+

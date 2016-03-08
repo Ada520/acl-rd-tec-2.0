@@ -1,0 +1,41 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C88-2138">
+<Title></Title>
+<Section position="2" start_page="0" end_page="669" type="abstr">
+<SectionTitle>
+4. The Graph-Structured Stack
+</SectionTitle>
+<Paragraph position="0"> The graph-structured stack was introduced in the Genera/Ized LR Parsing algorithm \[11, 12\], to handle non-determinism In LR parsing in polynomial time. In this section, three key notions, splitting, combining and local ambiguity packing, are described.</Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+4.1. Splitting
+</SectionTitle>
+<Paragraph position="0"> When a stack needs to be reduced (or popped) In more than one way, the top of the stack Is split as in the following example.</Paragraph>
+<Paragraph position="1"> Suppose that the stack Is In the following state, The left most element, A, is the bottom of the stack, and the right most element, E, is the top of the stack. In a graph-structured stack, there can be more than one top, whereas there can be at most one bottom.</Paragraph>
+<Paragraph position="2"> A --- B --- C --- D --- E Suppose that the stack needs to be reduced in the following three different ways.</Paragraph>
+</Section>
+<Section position="2" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+4.2. Combining
+</SectionTitle>
+<Paragraph position="0"> When an element needs to be shifted (pushed) onto two or more tops of the stack, It Is done only once by combining the tops of the stack. For example, If &amp;quot;1&amp;quot; is to be shifted to F, G and H in the above example, then the stack will look like:</Paragraph>
+<Paragraph position="2"></Paragraph>
+</Section>
+<Section position="3" start_page="0" end_page="669" type="sub_section">
+<SectionTitle>
+4.3. Local Ambiguity Pecking
+</SectionTitle>
+<Paragraph position="0"> If two or more branches of the stack turned out to be Identical, then they represent local ambiguity; the Identical state of stack has been obtained in two or more different ways. They are merged and treated as a single branch. Suppose we have two rules:  There is an obvious way to implement a lexicon-driven parser with the graph-structurad stack. Basically, the parser parses a sentence strictly from left to dght, shifting a word onto the stack erie by one. The tops of the stack are Inspected to see If there are any ways to reduce the stack (remember, there are no outside phrase structure rules In lexicon-driven parsing). The stack gets reduced non-destructive~y, wherever possible. A non-destructive reduce action simply adds a new branch to the stack, without removing the old branch of the slack that has been reduced. The following example shows the stack before and after the reductions of C and D into E, and 8 and E into F.</Paragraph>
+<Paragraph position="2"> Repeat until no further reduce action Is possible (note that one reduce action can trigger another reduce action). When no further reduce action Is possible, the next word is shifted. When a word Is shifted, all tops of the stack are inspected whether they can be shifted the word onto. Even when a word has been shifted onto more than one top of the stack, there is at most one element on tim top of the stack, due to stack combining descdbed In the previous  section. Thus, If a word G ts shifted onto F, E and D, then the stack will look like:</Paragraph>
+<Paragraph position="4"> a .... B .... c ~-- D .-/ When an how top elements can be reduced Is determined by Informatk~n encoded In each element Itself, and the method vartes from one formalism to another, as described in section 2.  6. Phrase-Structure.Based Parsing with a Graph-Structured Stack  Tonrita \[11, 12\] Introduced a generalized LR parsing algorithm, which is an LR parsing algorithm generalized to handle arbitrary context-free grammars with the graph-structured stack, The standard (not generalized) LR parsing algorithm is one of the most efficient parsing algodlhms. It Is totally deterministic, no backtracking or search is involved, and it runs in linear time. This standard LR parsing algorithm, however, can deal with only a small subset of context-free grammars called LR grammars, which Is often sufliclent for programming languages but clearly not for natural languages. I1, for example, a grammar is ambiguous, then Its LR table would have multiple entries, and hence deterministic parsing would be no longer possible. By Introducing the graph-structured stack, however, mulUple entries can be handled efficiently In polynomhd time.</Paragraph>
+<Paragraph position="5"> Figures 6-1 and 6-2 show an example of a non-LR grammar and Ils LR table. Grammar symbols starting with &amp;quot;*&amp;quot; represent proterminals. Entries &amp;quot;sh n&amp;quot; In the action table (tile left part of tire table) Indicate that the action &amp;quot;shift one word from Input buffer onto the slack, and go to stale n&amp;quot;. Entries &amp;quot;re n&amp;quot; indicate that the action &amp;quot;reduce constituents on the stack using rule n&amp;quot;, The entry &amp;quot;acc&amp;quot; stands for the action &amp;quot;accept&amp;quot;, and blank spaces represent &amp;quot;error&amp;quot;. The goto table (the right part of the table) decides to what slate tire parser should go alter a reduce action. The LR parsing algorithm pushes state numbers (as well as constituents) onto tile stack; the state number on lhe top of the stack indicates the current state. The exact definition and operation of the LR parser can be found in Aho and Ullman \[2\].</Paragraph>
+<Paragraph position="6"> We can see that there are two multiple entdes in the action table; on the rows of slate 11 and 12 at the column labeled &amp;quot;*prep&amp;quot;, Roughly speaking, thts Is the situation where the parser encounters a preposition of a PP right after a NP. If this PP does not modlly the NP, then the parser can go ahead to rednce the NP to a higher nontermlaal such as PP or VP, using rule 6 or 7, respectively (re6 and re7 In lhe multiple entries). If, on the other hand, the PP does modify the NP, then the parser must wait (sh6) until the PP Is completed so It can build a higher NP using rule 5.</Paragraph>
+<Paragraph position="7"> With a graph-structured stack, we can handle these non-deterministic phenomena nicely. Figure 6-3 shows the graph-structured stack dghl after shifting the word &amp;quot;with&amp;quot; in the sentence &amp;quot;1  (i) s --&gt; NP vP (2) s --&gt; s ~P (3) NP --&gt; *n (4) NP --&gt; *det *n (5) NP ---&gt; NP PP (6) PP --'&gt; *prep NP (7) VP --&gt; *v NP</Paragraph>
+<Paragraph position="9"> ~a~v a man or\] the bed i~ th,~ apartme=~t with a tolesc~pa.&amp;quot; i~,~,~',~ discassions on the generalized I.F{ pa~*Jlng algorithm can be fo~.~ in Tornlta \[1 &amp;quot;1, IV-\].</Paragraph>
+<Paragraph position="10"> 7. Combh=ing Phr~e-~ructure,B~sed and Lexicon-Driven P~l~tg In th:~ prevlou,~ sections, we have de~crib~d th~ e.~e of th~ g~-a~hstructured stack for lexicon-driven and phrr~se-;;truciure.ba~e~i parsing. It is now rather obvious that we can combine texicoadriver~ and phrase-structure-based p~r~ing; there are two way,\]. We can enhance the generalized Lt~ parsing algoriihm by allowing Ioxicons to (optionally) have lexicon-driv~n rules. That Is, the stack is periodically inspected to see il any parl of the stack c~n be reduce by a lexicon-driven rule inside lexicons. Thl,~ way I.'.~ preferable if a system has re.any phrase structure roles, with ~ few lexicondegdriven rules io I~andle certain linguistic phe.~omen,~ more easily.</Paragraph>
+<Paragraph position="11"> Alternatively, we can enhance lexicon-driven parsing described ia section 5 by allowing tbe parser to reduce tops of the stack u~l~g out~ide phr~.-~se structure rules as well. That is, the stack i~ periodically inspected to see if any part of the stack can he reduced using one of the phrase-structure rules. This way is preferable ff ~ system is heavily lexicon-driven, with a few phrase structure rule~ to handle low level and/or exceptional phenomena.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

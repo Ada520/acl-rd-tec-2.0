@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-1023">
+<Title></Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+References
+</SectionTitle>
+<Paragraph position="0"> 1 S. Abney. 1997. The scol manual (version 0.1b).</Paragraph>
+<Paragraph position="1"> 2 Kenneth Ward Church, A stochastic parts program and noun phrase parser for unrestricted text, Proceedings of the second conference on Applied natural language processing, February 09-12, 1988, Austin, Texas 3 David Elworthy, Retrieval from captioned image databases using natural language processing, Proceedings of the ninth international conference on Information and knowledge management, p.430-437, November 06-11, 2000, McLean, Virginia, United States 4 C. Fellbaum, editor. 1998. WordNet: An Electronic Lexical Database. MIT Press.</Paragraph>
+<Paragraph position="2"> 5 A. McCallum. 1996. Bow: A toolkit for statistical language modeling, text retrieval, classification, and clustering. http://www.cs.cmu.edu/~mccallum/bow.</Paragraph>
+<Paragraph position="3"> 6 T. Radecki. 1982. Similarity measures for boolean search request formulations. Journal of the American Society for Information Science, 33(1):8--17.</Paragraph>
+<Paragraph position="4"> 7 P. Resnik. 1999. Semantic similarity in a taxonomy: An information-based measure and its application to problems of ambiguity in natural language. Journal of Artificial Intelligence Research, 11:95--130. 8 R. Richardson, A. F. Smeaton, and J. Murphy. 1994. Using WordNet as a knowledge base for measuring semantic similarity between words. Technical Report CA-1294, Dublin City University. 9 E. Riloff and J. Lorenzen. 1999. Extraction-based text categorization: Generating domain specific role relationships automatically. In T. Strzalkowski, editor, Natural Language Information Retrieval, chapter 7. Kluwer Academic Publishers. 10 C. Sable and K. W. Church. 2001. Using bins to empirically estimate term weights for text categorization. In Proceedings of the 2001 Conference on Empirical Methods in Natural Language Processing (EMNLP-01).</Paragraph>
+</Section>
+</Paper>
+

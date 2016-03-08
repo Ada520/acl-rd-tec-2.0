@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-1404">
+<Title>Language Resources for the Semantic Web perspectives for Machine Translation -</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we present a possible solution for improving the quality of on-line translation systems, using mechanisms and standards from Semantic Web. We focus on Example based machine translation and the automatization of the translation examples extraction by means of RDFrepositories. null</Paragraph>
+</Section>
+</Paper>
+

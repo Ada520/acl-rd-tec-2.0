@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P05-2021">
+<Title>Speech Recognition of Czech - Inclusion of Rare Words Helps</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Large vocabulary continuous speech recognition of in ective languages, such as Czech, Russian or Serbo-Croatian, is heavily deteriorated by excessive out of vocabulary rate. In this paper, we tackle the problem of vocabulary selection, language modeling and pruning for in ective languages. We show that by explicit reduction of out of vocabulary rate we can achieve signi cant improvements in recognition accuracy while almost preserving the model size. Reported results are on Czech speech corpora.</Paragraph>
+</Section>
+</Paper>
+

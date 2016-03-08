@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H94-1016">
+<Title>On Using Written Language Training Data for Spoken Language Modeling</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> We attemped to improve recognition accuracy by reducing the inadequacies of the lexicon and language model.</Paragraph>
+<Paragraph position="1"> Specifically we address the following three problems: (1) the best size for the lexicon, (2) conditioning written text for spoken language recognition, and (3) using additional training outside the text distribution. We found that increasing the lexicon 20,000 words to 40,000 words reduced the percentage of words outside the vocabulary from over 2% to just 0.2%, thereby decreasing the error rate substantially. The error rate on words already in the vocabulary did not increase substantially. We modified the language model training text by applying rules to simulate the differences between the training text and what people actually said. Finally, we found that using another three years' of training text - even without the appropriate preprocessing, substantially improved the language model We also tested these approaches on spontaneous news dictation and found similar improvements.</Paragraph>
+</Section>
+</Paper>
+

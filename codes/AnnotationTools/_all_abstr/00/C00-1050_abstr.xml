@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-1050">
+<Title>Kana-Kanji Conversion System with Input Support Based on Prediction</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We propose ~ kana-ka'~ji conversion systeln with input support based on prediction. This system is composed o\[' l,wo pm'ts: prediction of succeeding ka'1~:ji charac/;er st, rings from l,yped l,:ana ones, and ordinary k(vna-lca'l~(\]i conversion.</Paragraph>
+<Paragraph position="1"> It automatically shows candidates of kanji character strings which the user intends to input.</Paragraph>
+<Paragraph position="2"> Ore' prediction method features: (i)Arbitrary positions of typed t,:ana character slarings are regm'ded as l,he top of words. (ii)A system dictionary and a user dictionary are used, and eadl entry in the systcln dictionary has (:erl, ai.nly factor calculated fl'om the frequency of' words in corpora. (ill)Candidates are estimated by certainty factor and 'us@l, lness factor, and likely ones with greater \['actors than l;hresholds are shown. The proposed system could reduce the user's key inlmt operations to 78% from the original ones in ore' experinmnts.</Paragraph>
+</Section>
+</Paper>
+

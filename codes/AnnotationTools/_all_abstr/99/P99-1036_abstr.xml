@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P99-1036">
+<Title>A Part of Speech Estimation Method for Japanese Unknown Words using a Statistical Model of Morphology and Context</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a statistical model of Japanese unknown words consisting of a set of length and spelling models classified by the character types that constitute a word. The point is quite simple: different character sets should be treated differently and the changes between character types are very important because Japanese script has both ideograms like Chinese (kanji) and phonograms like English (katakana). Both word segmentation accuracy and part of speech tagging accuracy are improved by the proposed model. The model can achieve 96.6% tagging accuracy if unknown words are correctly segmented. null</Paragraph>
+</Section>
+</Paper>
+

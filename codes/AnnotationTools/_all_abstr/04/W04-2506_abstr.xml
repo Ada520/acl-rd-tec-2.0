@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-2506">
+<Title>A Novel Approach to Focus Identification in Question/Answering Systems</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Modern Question/Answering systems rely on expected answer types for processing questions. The answer type is a semantic category provided by Named Entity recognizer or by semantic hierarchies. We argue in this paper that Q/A systems should take advantage of the topic information by exploiting several models of question and answer categorization.</Paragraph>
+<Paragraph position="1"> The matching of the question category with the answer category allows the system to filter out many incorrect answers.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-1049">
+<Title>Layout and Language: Integrating Spatial and Linguistic Knowledge for Layout Understanding Tasks</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Complex documents stored in a flat or partially marked up file format require layout sensitive pre-processing before any natural language processing can be carried out on their textual content. Contemporary technology for the discovery of basic textual units is based on either spatial or other content insensitive methods. However, there are many cases where knowledge of both the language and lay-out is required in order to establish the boundaries of the basic textual blocks. This paper describes a number of these cases and proposes the application of a general method combining knowledge about language with knowledge about the spatial arrangement of text. We claim that the comprehensive understanding of layout can only be achieved through the exploitation of layout knowledge and language knowledge in an inter-dependent maimer.</Paragraph>
+</Section>
+</Paper>
+

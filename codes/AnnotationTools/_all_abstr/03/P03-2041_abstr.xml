@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P03-2041">
+<Title>Learning Non-Isomorphic Tree Mappings for Machine Translation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Often one may wish to learn a tree-to-tree mapping, training it on unaligned pairs of trees, or on a mixture of trees and strings.</Paragraph>
+<Paragraph position="1"> Unlike previous statistical formalisms (limited to isomorphic trees), synchronous TSG allows local distortion of the tree topology. We reformulate it to permit dependency trees, and sketch EM/Viterbi algorithms for alignment, training, and decoding.</Paragraph>
+</Section>
+</Paper>
+

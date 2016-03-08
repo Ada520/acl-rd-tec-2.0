@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N04-2001">
+<Title>Multilingual Speech Recognition for Information Retrieval in Indian context Udhyakumar.N, Swaminathan.R and Ramakrishnan.S.K</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper analyzes various issues in building a HMM based multilingual speech recognizer for Indian languages. The system is originally designed for Hindi and Tamil languages and adapted to incorporate Indian accented English. Language-specific characteristics in speech recognition framework are highlighted.</Paragraph>
+<Paragraph position="1"> The recognizer is embedded in information retrieval applications and hence several issues like handling spontaneous telephony speech in real-time, integrated language identification for interactive response and automatic grapheme to phoneme conversion to handle Out Of Vocabulary words are addressed. Experiments to study relative effectiveness of different algorithms have been performed and the results are investigated.</Paragraph>
+</Section>
+</Paper>
+

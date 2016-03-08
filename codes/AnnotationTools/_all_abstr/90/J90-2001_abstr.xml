@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J90-2001">
+<Title>WIDE-RANGE RESTRUCTURING OF REPRESENTATIONS IN MACHINE INTERMEDIATE TRANSLATION</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+WIDE-RANGE RESTRUCTURING OF
+REPRESENTATIONS IN MACHINE
+INTERMEDIATE
+TRANSLATION
+</SectionTitle>
+<Paragraph position="0"> This paper describes a wide-range restructuring of intermediate representations in machine translation, which is necessary for bridging stylistic gaps between source and target languages and for generating natural target sentences.</Paragraph>
+<Paragraph position="1"> We propose a practical way of designing machine translation systems, based on the transfer method, that deal with wide-range restructuring. The transfer component should be divided into two separate subcomponents: the wide-range restructuring sub-component and the basic transfer sub-component. The first sub-component deals specifically with global reorganization of intermediate representations in order to bridge the stylistic gaps between source and target languages, and the second performs local and straightforward processing, including lexicai transfer and basic structural transfer.</Paragraph>
+<Paragraph position="2"> This approach provides us with an effective basis for improving translation quality by systematically enhancing the transfer rules without sacrificing the clarity and maintainability of the transfer component. It also guarantees that most of the translation process can be based on the augmented Context Free Grammar (CFG) formalism and the so-called compositionality principle, by which we can both systematically expand and maintain linguistic data and design the simplified process control necessary for an efficient machine translation system.</Paragraph>
+</Section>
+</Paper>
+

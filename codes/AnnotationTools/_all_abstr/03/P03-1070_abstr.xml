@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P03-1070">
+<Title>Towards a Model of Face-to-Face Grounding</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We investigate the verbal and nonverbal means for grounding, and propose a design for embodied conversational agents that relies on both kinds of signals to establish common ground in human-computer interaction. We analyzed eye gaze, head nods and attentional focus in the context of a direction-giving task. The distribution of nonverbal behaviors differed depending on the type of dialogue move being grounded, and the overall pattern reflected a monitoring of lack of negative feedback. Based on these results, we present an ECA that uses verbal and nonverbal grounding acts to update dialogue state.</Paragraph>
+</Section>
+</Paper>
+

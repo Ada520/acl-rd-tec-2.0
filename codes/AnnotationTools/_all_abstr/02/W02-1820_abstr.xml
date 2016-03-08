@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-1820">
+<Title>A Knowledge-based Approach to Text Classification</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The paper presents a simple and effective knowledge-based approach for the task of text classification. The approach uses topic identification algorithm named FIFA to text classification. In this paper the basic process of text classification task and FIFA algorithm are described in detail. At last some results of experiment and evaluations are discussed.</Paragraph>
+<Paragraph position="1"> Keywords: FIFA algorithm, topic identification, text classification, natural language processing Introduction The text automatic classification method is based on the content analysis automatically to allocate the text into pre-determined catalogue. The methods of text automatic classification mainly use information retrieval techniques. Traditional information retrieval mainly retrieves relevant documents by using keyword-based or statistic-based techniques (Salton.G1989).</Paragraph>
+<Paragraph position="2"> Generally, three famous models are used: vector space model, Boolean model and probability model, based on the three models, some researchers brought forward extended models such as John M.Picrrc(2001), Thomas Bayer, Ingrid Renz,Michael Stein(1996), Antal van den Bosch, Walter Daelemans, Ton Weijters(1996), Manuel de Buenaga Rodriguez, Jose Maria Gomez-llidalgo, Belen Diaz-agudo(1997), Ellen Riloff and Wendy Lehnert(1994).</Paragraph>
+<Paragraph position="3"> One central step in automatic text classification is to identify the major topics of the texts. We present a simple and effective knowledge-based approach to text automatic classification. The approach uses topic identification algorithm named FIFA to text classification. In this paper the basic process of text classification task and FIFA algorithm are described in detail. At last some results of experiment and evaluations are discussed.</Paragraph>
+</Section>
+</Paper>
+

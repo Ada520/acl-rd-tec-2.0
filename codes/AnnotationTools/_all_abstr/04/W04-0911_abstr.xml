@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-0911">
+<Title>Lexical-Semantic Interpretation of Language Input in Mathematical Dialogs</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Discourse in formal domains, such as mathematics, is characterized by a mixture of telegraphic natural language and embedded (semi-)formal symbolic mathematical expressions. Due to the lack of empirical data, little is known about the suitability of input analysis methods for mathematical discourse in a dialog setting. We present an input understanding method for a tutoring system teaching mathematical theorem proving. The adopted deep analysis strategy is motivated by the complexity of the language phenomena observed in a corpus collected in a Wizard-of-Oz experiment. Our goal is a uniform input interpretation, in particular, considering different degrees of formality of natural language verbalizations.</Paragraph>
+</Section>
+</Paper>
+

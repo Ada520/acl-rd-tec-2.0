@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P03-1008">
+<Title>Syntactic Features and Word Similarity for Supervised Metonymy Resolution</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a supervised machine learning algorithm for metonymy resolution, which exploits the similarity between examples of conventional metonymy. We show that syntactic head-modifier relations are a high precision feature for metonymy recognition but suffer from data sparseness. We partially overcome this problem by integrating a thesaurus and introducing simpler grammatical features, thereby preserving precision and increasing recall.</Paragraph>
+<Paragraph position="1"> Our algorithm generalises over two levels of contextual similarity. Resulting inferences exceed the complexity of inferences undertaken in word sense disambiguation.</Paragraph>
+<Paragraph position="2"> We also compare automatic and manual methods for syntactic feature extraction.</Paragraph>
+</Section>
+</Paper>
+

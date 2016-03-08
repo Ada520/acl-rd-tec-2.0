@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-3045">
+<Title>Synchronous Tree-Adjoining Grammars</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The unique properties of lree-adjoining grammars (TAG) present a challenge for the application of 'FAGs beyond the limited confines of syntax, for instance, to the task of semantic interpretation or automatic translation of natural h'mguage. We present a variant of &amp;quot;FAGs, called synchronous TAGs, which chmacterize correspondences between languages. &amp;quot;lq\]e formalism's intended usage is to relate expressions of natural languages to their associated semantics represented in a logical tbrm language, or to their translates in another natural language; in summary, we intend it to allow TAGs to be used beyond their role in syntax proper. We discuss the application of synchronous TAGs to concrete examples, mentioning primarily in passing some computational issues that tu:ise in its interpretation.</Paragraph>
+</Section>
+</Paper>
+

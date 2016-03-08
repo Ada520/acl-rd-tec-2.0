@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E95-1002">
+<Title>Principle Based Semantics for HPSG</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The paper presents a constraint based semantic formalism for HPSG. The syntax-semantics interface directly implements syntactic conditions on quantifier scoping and distributivity. 1 The construction of semantic representations is guided&amp;quot; by general principles governing the interaction between syntax and semantics. Each of these principles acts as a constraint to narrow down the set of possible interpretations of a sentence. Meanings of ambiguous sentences are represented by single partial representations (so-called U(nderspecified) D(iscourse) R(epresentation) S(tructure)s) to which further constraints can be added monotonically to gain more information about the content of a sentence. There is no need to build up a large number of alternative representations of the sentence which are then filtered by subsequent discourse and world knowledge. The advantage of UDRSs is not only that they allow for monotonic incremental interpretation but also that they are equipped with truth conditions and a proof theory that allows for inferences to be drawn directly on structures where quantifier scope is not resolved.</Paragraph>
+</Section>
+</Paper>
+

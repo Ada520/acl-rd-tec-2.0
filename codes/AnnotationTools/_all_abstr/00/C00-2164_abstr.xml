@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-2164">
+<Title>Perception, Concepts and Language: 7~oA~9 and IPaGe</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A two-level natural language generation system tbr situation and action descriptions (SADs) of a sinmlated assembly robot is presented, in the first step, multimodal inibrmation is used to obtain a conceptual representation (CR) of an event. The second step is the lmrallel, incremental surface realizatiou of utterances from the robot's t)erspecl;ive bascxl on the CR. Theoretical issues addressed are semantics of SAI)s and distribution of lexical and syntactic processing, leading to a natural type of in(:rementality in NLG.</Paragraph>
+</Section>
+</Paper>
+

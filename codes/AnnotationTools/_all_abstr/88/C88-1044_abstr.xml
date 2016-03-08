@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C88-1044">
+<Title>On the Generation and Interpretation of Demonstrative Expressions*</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. INTRODUCTION
+</SectionTitle>
+<Paragraph position="0"> The primary purpose of this paper is to present a set of necessary and sufficient conditions for the use of demonstrative expressions in English, based on a corpus of naturally occurring discourse from a variety of spoken and written genres. We propose a comprehensive set of constraints on demonstrative use and suggest how they can be incorporated into a computational processing model which integrates the local centering and global focusing aspects of discourse structure. Finally we show how our proposed algorithm for demonstratives can account for stressed pronouns as well.</Paragraph>
+<Paragraph position="1"> Existing computational work on demonstratives has been based on examples from only three genres: experimentallyelicited apartment descriptions (Linde 1979), technical dialogues (Reichman-Adar 1984), and scientific textbooks (Sidner 1983).</Paragraph>
+<Paragraph position="2"> Testing computational algorithms against multiple genres of natural discourse is important, especially given the universal scope of current frameworks (cf. Grosz and Sidner 1986). We have chosen to systematically examine texts from a broad range of genres, which vary in spoken versus written medium, number of participants, degree of pre-planning, and formality of situation. These genres include informal conversation, partiallyspontaneous televised discussion, newspaper articles, and planning and technical documents.</Paragraph>
+</Section>
+</Paper>
+

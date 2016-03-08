@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N03-1002">
+<Title>Japanese Named Entity Extraction with Redundant Morphological Analysis</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> Named Entity (NE) extraction aims at identifying proper nouns and numerical expressions in a text, such as persons, locations, organizations, dates, and so on. This is an important subtask of document processing like information extraction and question answering.</Paragraph>
+<Paragraph position="1"> A common standard data set for Japanese NE extraction is provided by IREX workshop (IREX Committee, editor, 1999). Generally, Japanese NE extraction is done in the following steps: Firstly, a Japanese text is segmented into words and is annotated with POS tags by a morphological analyzer. Then, a chunker brings together the words into NE chunks based on contextual information. However, such a straightforward method cannot extract NEs whose segmentation boundary contradicts that of morphological analysis outputs. For example, a sentence &amp;quot;a2a4a3a6a5a8a7a10a9a12a11a6a13a6a14a16a15a18a17a20a19a22a21a24a23 &amp;quot; is segmented as &amp;quot; a2a24a3 /a5a25a7a6a9 /a11a8a13 /a14 /a15a26a17 /a19 /a21a8a23 &amp;quot; by a morphological analyzer. &amp;quot;a2a24a3a27a5a28a7a6a9 &amp;quot; (&amp;quot;Koizumi Jun'ichiro&amp;quot; - family and first names) as a person name and &amp;quot;a15a29a17 &amp;quot; (&amp;quot;September&amp;quot;) as a date will be extracted by combining word units. On the other hand, &amp;quot;a23 &amp;quot; (abbreviation of North Korea) cannot be extracted as a name of location because it is contained by the word unit &amp;quot;a21a4a23 &amp;quot; (visiting North Korea). Figure 1 illustrates the example with English translation.</Paragraph>
+<Paragraph position="2"> Some previous works try to cope with the word unit problem: Uchimoto (Uchimoto et al., 2000) introduces transformation rules to modify the word units given by a morphological analyzer. Isozaki (Isozaki and Kazawa, 2002) controls the parameters of a statistical morphological analyzer so as to produce more fine-grained output.</Paragraph>
+<Paragraph position="3"> These method are used as a preprocessing of chunking.</Paragraph>
+<Paragraph position="4"> By contrast, we propose more straightforward method in which we perform the chunking process based on character units. Each character receives annotations with character type and multiple POS information of the words found by a morphological analyzer. We make use of redundant outputs of the morphological analysis as the base features for the chunker to introduce more information-rich features. We use a support vector machine (SVM)-based chunker yamcha (Kudo and Matsumoto, 2001) for the chunking process. Our method achieves better score than all the systems reported previously for IREX NE extraction task.</Paragraph>
+<Paragraph position="5"> Section 2 presents the IREX NE extraction task. Section 3 describes our method in detail. In section 4, we show the results of experiments, and finally we give conclusions in section 5.</Paragraph>
+</Section>
+</Paper>
+

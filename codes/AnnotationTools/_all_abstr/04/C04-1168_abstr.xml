@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1168">
+<Title>A Uni ed Approach in Speech-to-Speech Translation: Integrating Features of Speech Recognition and Machine Translation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Based upon a statistically trained speech translation system, in this study, we try to combine distinctive features derived from the two modules: speech recognition and statistical machine translation, in a log-linear model. The translation hypotheses are then rescored and translation performance is improved. The standard translation evaluation metrics, including BLEU, NIST, multiple reference word error rate and its position independent counterpart, were optimized to solve the weights of the features in the log-linear model. The experimental results have shown signi cant improvement over the baseline IBM model 4 in all automatic translation evaluation metrics. The largest was for BLEU, by 7.9% absolute.</Paragraph>
+</Section>
+</Paper>
+

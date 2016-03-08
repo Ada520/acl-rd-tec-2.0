@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-1016">
+<Title>Binding Constraints as Instructions of Binding Machines</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Binding constraints have resisted to be fully integrated into the course of grammatical processing despite its practical relevance and cross-linguistic generality. The ultimate root for this is to be found in the exponential &amp;quot;overgenerate &amp; filter&amp;quot; procedure of the mainstream rationale for their satisfaction.</Paragraph>
+<Paragraph position="1"> In this paper we design an alternative approach based on the view that nominals are binding machines.</Paragraph>
+<Paragraph position="2"> Introduction Binding constraints are an important set of filters in the process of anaphor resolution'. As they delimit the relative positioning of anaphors and their possible antecedents in the grammatical geometry, these constraints are of crucial importance for restricting the search space for antecedent candidates and enhancing the performance of resolvers. From an empirical perspective, they stem from quite robust generalizations and exhibit a universal character. given their parameterized validity across natural langnages. From a conceptual point of view, in turn, the relations anaong binding constraints involve non-trivial symmetry, which lends them a moduhtr nature. Accordingly, they have typically been taken as one of the most intriguing and robust gramnaar modules.</Paragraph>
+<Paragraph position="3"> I See Annex for examples and the definition of binding constraints.</Paragraph>
+<Paragraph position="4"> Ill contrast to this, however, the formal and computational handling of binding constraints has presented non-negligible resistance when it comes to their integration into the representation and processing of grammatical knowledge.</Paragraph>
+<Paragraph position="5"> In its mainstream formulation, the methodology for verifying the compliance of grammatical representations with binding constraints requires a series of extra grammatical parsing steps (Chomsky, 81). More recently, prominent unification-based frameworks either require special purpose extensions of the description formalism for a partial handling of these constraints (LFG: Dalrymple, 93), or offer no integration yet for them into the grammatical setup (HPSG: Pollard and Sag, 94.. Backofen et al., 96).</Paragraph>
+<Paragraph position="6"> Our primary aim in this paper is to bridge this gap between the gram,natical nature of binding constraints and their full integration into grammar processing. In Section 1, we review previous steps towards this goal proposed in the literature. Building on these contributions in Section 2, we introduce the rationale of a new methodology for the verification of binding constraints, in Section 3, in the light of this new approach, we show how these constraints are fully integrated into g,ammar and the drawbacks of current methodology are overcome.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A00-1028">
+<Title>Experiments with Corpus-based LFG Specialization</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Sophisticated grammar formalisms, such as LFG, allow concisely capturing complex linguistic phenomena. The powerful operators provided by such formalisms can however introduce spurious ambiguity, making parsing inefficient. A simple form of corpus-based grammar pruning is evaluated experimentally on two wide-coverage grammars, one Engiish and one French. Speedups of up to a factor 6 were obtained, at a cost in grammatical coverage of about 13%. A two-stage architecture allows achieving significant speedups without introducing additional parse failures.</Paragraph>
+</Section>
+</Paper>
+

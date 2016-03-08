@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P99-1063">
+<Title>Lexical Semantics to Disambiguate Polysemous Phenomena of Japanese Adnominal Constituents</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We exploit and extend the Generative Lexicon Theory to develop a formal description of adnominal constituents in a lexicon which can deal with linguistic phenomena found in Japanese adnominal constituents. We classify the problematic behavior into &amp;quot;static disambiguation&amp;quot; and &amp;quot;dynamic disambiguation&amp;quot; tasks. Static disambiguation can be done using lexical information in a dictionary, whereas dynamic disambiguation requires inferences at the knowledge representation level.</Paragraph>
+</Section>
+</Paper>
+

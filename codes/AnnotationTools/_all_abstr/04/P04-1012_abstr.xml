@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P04-1012">
+<Title>User Expertise Modelling and Adaptivity in a Speech-based E-mail System</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes the user expertise model in AthosMail, a mobile, speech-based e-mail system. The model encodes the system's assumptions about the user expertise, and gives recommendations on how the system should respond depending on the assumed competence levels of the user. The recommendations are realized as three types of explicitness in the system responses. The system monitors the user's competence with the help of parameters that describe e.g. the success of the user's interaction with the system. The model consists of an online and an offline version, the former taking care of the expertise level changes during the same session, the latter modelling the overall user expertise as a function of time and repeated interactions.</Paragraph>
+</Section>
+</Paper>
+

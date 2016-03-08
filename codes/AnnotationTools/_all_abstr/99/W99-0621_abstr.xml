@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W99-0621">
+<Title>A Learning Approach to Shallow Parsing*</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A SNoW based learning approach to shallow parsing tasks is presented and studied experimentally.</Paragraph>
+<Paragraph position="1"> The approach learns to identify syntactic patterns by combining simple predictors to produce a coherent inference. Two instantiations of this approach are studied and experimental results for Noun-Phrases (NP) and Subject-Verb (SV) phrases that compare favorably with the best published results are presented. In doing that, we compare two ways of modeling the problem of learning to recognize patterns and suggest that shallow parsing patterns are better learned using open/close predictors than using inside/outside predictors.</Paragraph>
+</Section>
+</Paper>
+

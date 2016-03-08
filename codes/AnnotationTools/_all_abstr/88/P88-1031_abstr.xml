@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P88-1031">
+<Title>Graph-structured Stack and Natural Language Parsing</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A general device for handling nondeterminism in stack operations is described. The device, called a Graph-structured Stack, can eliminate duplication of operations throughout the nondeterministic processes.</Paragraph>
+<Paragraph position="1"> This paper then applies the graph-structured stack to various natural language parsing methods, including ATN, LR parsing, categodal grammar and principle-based parsing. The relationship between the graph-structured stack and a chart in chart parsing is also discussed.</Paragraph>
+</Section>
+</Paper>
+

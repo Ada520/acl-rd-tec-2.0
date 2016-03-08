@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-2159">
+<Title>A Bootstrapping Method for Extracting Bilingual Text Pairs</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper proposes a method for extracting bilingual text pairs from a comparable corpus. The basic idea of the method is to apply bootstrapping to an existing corpus-based cross-language information retrieval (CLIR) approach. We conducted preliminary tests with English and Japanese bilingual corpora. The bootstrapping method led to much better results for the task of extracting translation pairs compared with a corpus-based CLIR method without bootstrapping, and the extracted translation pairs could be useftfl training data for improving results of the corpus-based CLIR method.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-0611">
+<Title>Learning the Meaning and Usage of Time Phrases from a Parallel Text-Data Corpus</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present an empirical corpus study of the meaning and usage of time phrases in weather forecasts; this is based on a novel corpus analysis technique where we align phrases from the forecast text with data extracted from a numerical weather simulation. Previous papers have summarised this analysis and discussed the substantial variations we discovered among individual writers, which was perhaps our most surprising finding. In this paper we describe our analysis procedure and results in considerably more detail, and also discuss our current work on using parallel text-data corpora to learn the meanings of other types of words.</Paragraph>
+</Section>
+</Paper>
+

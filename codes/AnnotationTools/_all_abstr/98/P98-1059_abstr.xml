@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-1059">
+<Title>Spelling Correction Using Context*</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a spelling correction system that functions as part of an intelligent tutor that carries on a natural language dialogue with its users.</Paragraph>
+<Paragraph position="1"> The process that searches the lexicon is adaptive as is the system filter, to speed up the process. The basis of our approach is the interaction between the parser and the spelling corrector. Alternative correction targets are fed back to the parser, which does a series of syntactic and semantic checks, based on the dialogue context, the sentence context, and the phrase context.</Paragraph>
+</Section>
+</Paper>
+

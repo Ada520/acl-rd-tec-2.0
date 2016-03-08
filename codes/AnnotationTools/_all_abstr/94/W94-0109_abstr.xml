@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W94-0109">
+<Title>Integrating Symbolic and Statistical Approaches in Speech and Natural Language Applications</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> Symbolic and statistical approaches have traditionally been kept separate and applied to very different problems.</Paragraph>
+<Paragraph position="1"> Symbolic techniques apply best where we have a priori knowledge of the language or the domain and where the application of a theory or study of selected examples can help leverage and extend our knowledge. Statistical approaches apply best where the results of decisions can be represented in a model and where we have sufficient training data to accurately estimate the parameters of the model. Another factor in selecting which approach to use in a particular situation is whether there is sufficient uncertainty to warrant the need to make educated guesses (statistical approach) rather than assertions (symbolic approach).</Paragraph>
+<Paragraph position="2"> In our work in gisting, word spotting, and topic classification, we have successfully integrated symbolic and statistical approaches in a range of tasks, including language modeling for speech recognition, information extraction from speech, and topic and event spotting. In this paper we outline the contributions and drawbacks of each approach and illustrate our points with the various components of our systems.</Paragraph>
+</Section>
+</Paper>
+

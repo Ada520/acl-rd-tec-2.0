@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-1001">
+<Title>A Trainable Message Understanding System*</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction and Background
+</SectionTitle>
+<Paragraph position="0"> The Message Understanding Conferences (MUCs) have given a great impetus to research in information extraction (IE). The systems which have participated in the MUCs have been quite successful at extracting information from the domains that they have been trained on (MUC-4, 1992), (MUC5, 1993), (MUC-6, 1995). The precision and recall statistics were around 60% and 50% respectively for MUC-6. However, these systems are domain dependent and customizing them to a new domain is a long and tedious process. For example, porting BBN's PLUM system from the Joint Ventures (MUC-5) domain to the Microelectronics (MUC-5) domain took approximately 3 person weeks (Weischedel, 1993).</Paragraph>
+<Paragraph position="1"> Moreover, training and adapting these systems to a particular domain is done by a group of computational linguists. These linguists determine all the ways in which the target information is expressed in a given corpus and then think of all the plausible variants of these ways, so that appropriate regular patterns can be written.</Paragraph>
+<Paragraph position="2"> The explosion in the amount of free text material on the Internet, and the use of this information by people from all walks of life, has made the issue of generalized information extraction a central one in Natural Language Processing. Many systems, including ones from NYU (Grishman, 1995), BBN (Weischedel, 1995), SRI (Appelt, 1995), SRA (Krupka, 1995), MITRE (Aberdeen, 1995), and the University of Massachusetts (Fisher, 1995), have taken steps to make the process of customizing a system for a particular domain an easy one. Appelt et al. write, &amp;quot;If information extraction systems are going to be used in a wide variety of applications, it will ultimately be necessary for the end users to be able to customize the systems themselves in a relatively short time.&amp;quot; (Appelt, 1995) We have built a system that attempts to provide Supported by Fellowships from IBM Corporation.</Paragraph>
+<Paragraph position="3"> any user with the ability to efficiently create and customize, for his or her own application, an information extraction system with competitive precision and recall statistics. This paper will present the theory of the system and some details of an implementation. It will also describe a test of the system in which a 3 hour training session produced precision and recall statistics in the 60% levels and above.</Paragraph>
+</Section>
+</Paper>
+

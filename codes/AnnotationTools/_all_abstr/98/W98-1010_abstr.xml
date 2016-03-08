@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-1010">
+<Title>A Morphological Analyzer for Akkadian Verbal Forms with a Model of Phonetic Transformations</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The paper describes a first attempt to design a morphological analyzer for Akkadian verbal forms. Akkadian is a semitic dead language which was used in the ancient Mesopotamia.</Paragraph>
+<Paragraph position="1"> The analyzer described has two levels: the first one is a deterministic and unique paradigm that describes the flexion of Akkadian verbs. The second level is a non deterministic rewriting system which describes possible phonetic transformations of the forms. The results obtained so far are encouraging.</Paragraph>
+</Section>
+</Paper>
+

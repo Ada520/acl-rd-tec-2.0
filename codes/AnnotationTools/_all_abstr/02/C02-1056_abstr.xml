@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C02-1056">
+<Title>Paraphrasing of Chinese Utterances</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> One of the key issues in spoken language translation is how to deal with unrestricted expressions in spontaneous utterances. This research is centered on the development of a Chinese paraphraser that automatically paraphrases utterances prior to transfer in Chinese-Japanese spoken language translation. In this paper, a pattern-based approach to paraphrasing is proposed for which only morphological analysis is required. In addition, a pattern construction method is described through which paraphrasing patterns can be efficiently learned from a paraphrase corpus and human experience. Using the implemented paraphraser and the obtained patterns, a paraphrasing experiment was conducted and the results were evaluated.</Paragraph>
+</Section>
+</Paper>
+

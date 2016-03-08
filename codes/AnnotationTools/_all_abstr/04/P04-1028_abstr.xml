@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P04-1028">
+<Title>Mining metalinguistic activity in corpora to create lexical resources using Information Extraction techniques: the MOP system</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes and evaluates MOP, an IE system for automatic extraction of metalinguistic information from technical and scientific documents. We claim that such a system can create special databases to bootstrap compilation and facilitate update of the huge and dynamically changing glossaries, knowledge bases and ontologies that are vital to modern-day research.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-1025">
+<Title>Processing Metonymy: a Domain-Model Heuristic Graph Traversal Approach*</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We address here the treatment of me, tonymie expressions from a knowledge representation perspe(:tive, that is, in the context of a text understanding system whi('h aims to build a (:onceptual representation from texts according to a domain mode, l ext)resse, d in a knowledge representation formalism. We focus in this t)aper on the part of tile semantic analyser which deals with semantic eoml)osition. We explain how we use tile domain model to handle metonymy dynamically, and more generally, to un(lerlie semantic (:omposition, using tile knowledge descriptions atta(:hed to ea(:h (:oneept of our olttology as a kind of eon('el)t-h;ve.l , multii)b.-role (lualia structure. YVe rely for this on ~t heuristic 1)ath search algorithm that exl)loits the gr~phic aspects of the eon(:eptual gratIhs formalism. The methods described have 1)een imi)lemente&lt;l and applie(l on French texts in the medical domain.</Paragraph>
+</Section>
+</Paper>
+

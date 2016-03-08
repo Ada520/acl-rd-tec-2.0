@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C88-1036">
+<Title>Metonymy and Metaphor: What's the Difference?</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> This p;~per describes a computational approach to metonymy and.metaphor that distinguishes betwecn them, literalness, and anomaly. Tile approach lends support to the views of Lakoff and Johnson (1980) that metonymy and metaphor are quite different phenomena, that metonymy is a means by which one entity stands for another, whereas metaphor is a way in which one entity is viewed as another.</Paragraph>
+<Paragraph position="1"> The tt,ee main features of tile computational approach are that: (a) literahtess, metaphor, and anomaly share common features and form a group distinct from metonymy which has characteristics that requires a quite different treatment; (b) chains of metonymies occur, supporting an observation by Reddy (1979); and (c) metonymies can co-occur with instances of either literalness, metaphor, or anomaly. An example is given of the computer analysis of a metonymy which illustrates the above three features. The example is analysed by a natural language program callext recta5 that uses Collative Semantics, hereafter CS. CS is a recently proposed domain-independent semantics for natural language processing which is, in many respects, a developmenl of Preference Semantics (Wilks 1973, 1975a, 1975b).</Paragraph>
+</Section>
+</Paper>
+

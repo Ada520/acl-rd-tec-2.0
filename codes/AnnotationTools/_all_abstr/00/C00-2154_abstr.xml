@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-2154">
+<Title>WebDIPLOMAT: A Web-Based Interactive Machine Translation System</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We have implenlented a.n interactive, Wel)-based, chat-style machine translation system, SUpl)ort;ing speech recognition and synthesis, local- or third-party correction of speech recognition and machine tra.nslation output, a.nd online learning. The underlying client-server architecture, implemented in .la.va TM, pl:ovides remote, distributed computation for the translation and speech sut)systems. We further describe our Web-based user interthces, whMi can easily produce different uscflfl eonfigllrartions.</Paragraph>
+</Section>
+</Paper>
+

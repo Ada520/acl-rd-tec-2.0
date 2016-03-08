@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C92-4207">
+<Title>Recorlstructirlg Spati~l hm~ge from Natural Language Texts</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This 1)al)(,r drs('ribrs tit(' un(h,rstanding l)ro('('ss of the spatial descriptions in ,lal)anese. In order to understatt(I tlw described worhl, tit(' a, it|hors 113&amp;quot; to r('('Ollstru('t tit(' gc(nm,tric model of tit(' gh)bal s('en(' frmn tlw scenic descriptions drawing a spaco. It is done by an experimental ('Omlmter itrogranl SPR INT. whiclt lakes natural language texts att,l l)roduces it nmdel of the described win'hi. To reconstruct the modvl, the altthors extract the qualitative ~patial constraints front the text, and represent Ihellt ;IS tlw nunierical constraints on the spatial attributes of the entities, This makes it lmssibh' to eXln'ess the vaguent,ss of tit(, spatial concepts attd to derive the ntaxinlally plausible interl)retation froltl it ('hllnk of illforltl&amp;tloil ;t('('llnmlated ;m tit(, constraints. The int('rln'ehdi(m r('fleets the tentlmrary 1)clief about the world.</Paragraph>
+</Section>
+</Paper>
+

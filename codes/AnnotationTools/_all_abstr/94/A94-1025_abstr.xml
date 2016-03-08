@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A94-1025">
+<Title>A robust category guesser for Dutch medical language</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we want to describe the architecture and some of the implementation issues of a large scale category guesser for Dutch medical vocabulary. We Mso provide numerical data on the precision and coverage of this category guesser, which has to cover for the moment only the vocabulary of the cardiology domain. The category guesser uses non-morphologic information (endstring matching) as well as truly morphologic knowledge (inflection, derivation and compounding). Since we deal with a sublanguage some linguistic features are easier to handle (Grishman and Kittredge, 1986), (Sager et al., 1987). Subsequently we will describe in detail the differents parts which interact to successfully identify unknown medical words.</Paragraph>
+</Section>
+</Paper>
+

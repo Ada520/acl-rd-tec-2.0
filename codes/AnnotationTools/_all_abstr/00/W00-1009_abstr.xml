@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-1009">
+<Title>A Common Theory of Information Fusion from Multiple Text Sources Step One: Cross-Document Structure</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We introduce CST (cross-document slructure theory), a paradigm for multi-document analysis. CST takes into aceount the rhetorical structure of clusters of related textual documents. We present a taxonomy of cross-document relationships. We argue that CST can be the basis for multi-document summarization guided by user preferences for summary length, information provenance, cross-source agreement, and chronological ordering of facts.</Paragraph>
+</Section>
+</Paper>
+

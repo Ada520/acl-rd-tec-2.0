@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A00-2043">
+<Title>An Empirical Assessment of Semantic Interpretation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We introduce a framework for semantic interpretation in which dependency structures are mapped to conceptual representations based on a parsimonious set of interpretation schemata. Our focus is on the empirical evaluation of this approach to semantic interpretation, i.e., its quality in terms of recall and precision. Measurements are taken with respect to two real-world domains, viz. information technology test reports and medical finding reports.</Paragraph>
+</Section>
+</Paper>
+

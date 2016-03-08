@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-0510">
+<Title>ThePotentialandLimitationsofAutomatic SentenceExtractionforSummarization</Title>
+<Section position="1" start_page="0" end_page="3" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Inthispaperwepresentanempiricalstudyof  thepotentialandlimitationofsentenceextraction in text summarization. Our results show that the single document generic summariza- null .Suchoracleextractsshowthe promise of sentence extraction algorithms; however, we first need to raise inter-human  agreementtobeabletoachievethisperformance level. We show that compression is a promisingdirectionandthatthecompression ratioofsummariesaffectsaveragehumanand systemperformance.</Paragraph>
+</Section>
+</Paper>
+

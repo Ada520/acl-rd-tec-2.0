@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-0830">
+<Title>The University of Jaen Word Sense Disambiguation System *</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes the architecture and results of the University of Jaen system presented at the SENSEVAL-3 for the English-lexical-sample and English-All-Words tasks.</Paragraph>
+<Paragraph position="1"> The system is based on a neural network approach. We have used the Learning Vector Quantization, which is a supervised learning algorithm based on the Kohonen neural model.</Paragraph>
+</Section>
+</Paper>
+

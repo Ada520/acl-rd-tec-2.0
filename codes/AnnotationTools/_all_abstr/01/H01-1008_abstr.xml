@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H01-1008">
+<Title>Assigning Belief Scores to Names in Queries</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> Assuming that the goal of a person name query is to find references to a particular person, we argue that one can derive better relevance scores using probabilities derived from a language model of personal names than one can using corpus based occurrence frequencies such as inverse document frequency (idf). We present here a method of calculating person name match probability using a language model derived from a directory of legal professionals. We compare how well name match probability and idf predict search precision of word proximity queries derived from names of legal professionals and major league baseball players. Our results show that name match probability is a better predictor of relevance than idf. We also indicate how rare names with high match probability can be used as virtual tags within a corpus to identify effective collocation features for person names within a professional class.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-3302">
+<Title>Ontology-Based Natural Language Query Processing for the Biological Domain</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a natural language query engine that enables users to search for entities, relationships, and events that are extracted from biological literature.</Paragraph>
+<Paragraph position="1"> The query interpretation is guided by a domain ontology, which provides a mapping between linguistic structures and domain conceptual relations. We focus on the usability of the natural language interface to users who are used to keyword-based information retrieval. Preliminary evaluation of our approach using the GENIA corpus and ontology shows promising results.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C02-1045">
+<Title>A Method of Cluster-Based Indexing of Textual Data</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a framework for clustering in text-based information retrieval systems. The prominent feature of the proposed method is that documents, terms, and other related elements of textual information are clustered simultaneously into small overlapping clusters. In the paper, the mathematical formulation and implementation of the clustering method are briefly introduced, together with some experimental results.</Paragraph>
+</Section>
+</Paper>
+

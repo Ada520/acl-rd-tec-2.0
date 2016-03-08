@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J87-3005">
+<Title>DISAMBIGUATING PREPOSITIONAL PHRASE ATTACHMENTS ON-LINE DICTIONARY DEFINITIONS BY USING</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+DISAMBIGUATING PREPOSITIONAL PHRASE ATTACHMENTS
+ON-LINE DICTIONARY DEFINITIONS
+BY USING
+</SectionTitle>
+<Paragraph position="0"> IBM Thomas J. Watson Research Center P.O. Box 218 Yorktown Heights, New York 10598 Standard on-line dictionaries offer a wealth of knowledge expressed in natural language form. We claim that such knowledge can and should be accessed by natural language processing systems to solve difficult ambiguity problems. This paper sustains that claim by describing a set of computational tools and techniques used to disambiguate prepositional phrase attachments in English sentences, by accessing on-line dictionary definitions. Such techniques offer hope for eliminating the time-consuming, and often incomplete, hand coding of semantic information that has been conventional in natural language understanding systems.</Paragraph>
+</Section>
+</Paper>
+

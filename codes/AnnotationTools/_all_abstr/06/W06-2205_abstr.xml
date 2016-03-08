@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-2205">
+<Title>Recognition of synonyms by a lexical graph</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Semantic relationships between words comprised by thesauri are essential features for IR, text mining and information extraction systems. This paper introduces a new approach to identification of semantic relations such as synonymy by a lexical graph. The graph is generated from a text corpus by embedding syntactically parsed sentences in the graph structure. The vertices of the graph are lexical items (words), their connection follows the syntactic structure of a sentence. The structure of the graph and distances between vertices can be utilized to define metrics for identification of semantic relations. The approach has been evaluated on a test set of 200 German synonym sets. Influence of size of the text corpus, word generality and frequency has been investigated. Conducted experiments for synonyms demonstrate that the presented methods can be extended to other semantic relations.</Paragraph>
+</Section>
+</Paper>
+

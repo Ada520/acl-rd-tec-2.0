@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H86-1001">
+<Title>Research and Development in Natural Language Processing at BBN Laboratories in the Strategic Computing Program</Title>
+<Section position="1" start_page="0" end_page="1" type="abstr">
+<SectionTitle>
+1 Background
+</SectionTitle>
+<Paragraph position="0"> BBN's responsibility is to conduct research and development in natural language interface technology. This responsibility has three aspects: o to demonstrate state-of-the-art technology in a Strategic Computing application, collecting data regarding the effectiveness of the demonstrated heuristics, ! o to conduct research in natural language interface technology, as itemized in the description of JANUS later in this note, and o to integrate technology from other natural language interface contractors, including USC/Information Sciences Institute, the University of Pennsylvania, and the University of Massachusetts.</Paragraph>
+<Paragraph position="1"> Of the three initial applications described in the overview, the Fleet Command Center Battle Management Program (FCCBMP) has been the application providing the domain in which our work is being carried out. The FCCBMP encompasses the development of expert system capabilities at the Pacific Fleet Command Center in Hawaii, and the development of an integrated natural language interface to these new capabilities as well as to the existing data bases and graphic display facilities. BBN is developing a series of increasingly sophisticated natural language understanding systems which will serve as an integrated interface to several facilities at the Pacific Fleet Command Center: the Integrated Data Base (IDB), which contains information about ships, their readiness states, their capabilities, etc.; the Operations Support Group Prototype (OSGP), a graphics system which can display locations and itineraries of ships on maps; and the Force Requirements Expert System (FRESH) which is being built by Texas Instruments.</Paragraph>
+<Paragraph position="2"> The target users for this application are naval officers involved in decision</Paragraph>
+</Section>
+</Paper>
+

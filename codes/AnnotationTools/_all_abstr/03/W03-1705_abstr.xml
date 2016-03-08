@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-1705">
+<Title>A Bottom-up Merging Algorithm for Chinese Unknown Word Extraction</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Statistical methods for extracting Chinese unknown words usually suffer a problem that superfluous character strings with strong statistical associations are extracted as well. To solve this problem, this paper proposes to use a set of general morphological rules to broaden the coverage and on the other hand, the rules are appended with different linguistic and statistical constraints to increase the precision of the representation. To disambiguate rule applications and reduce the complexity of the rule matching, a bottom-up merging algorithm for extraction is proposed, which merges possible morphemes recursively by consulting above the general rules and dynamically decides which rule should be applied first according to the priorities of the rules. Effects of different priority strategies are compared in our experiment, and experimental results show that the performance of proposed method is very promising.</Paragraph>
+</Section>
+</Paper>
+

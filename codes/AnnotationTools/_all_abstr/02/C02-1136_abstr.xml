@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C02-1136">
+<Title>Stochastic Dependency Parsing of Spontaneous Japanese Spoken Language</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes the characteristic features of dependency structures of Japanese spoken language by investigating a spoken dialogue corpus, and proposes a stochastic approach to dependency parsing. The method can robustly cope with inversion phenomena and bunsetsus which don't have the head bunsetsu by relaxing the syntactic dependency constraints. The method acquires in advance the probabilities of dependencies from a spoken dialogue corpus tagged with dependency structures, and provides the most plausible dependency structure for each utterance on the basis of the probabilities. An experiment on dependency parsing for driver's utterances in CIAIR in-car spoken dialogue corpus has been made. The experimental result has shown our method to be effective for robust parsing of spoken language.</Paragraph>
+</Section>
+</Paper>
+

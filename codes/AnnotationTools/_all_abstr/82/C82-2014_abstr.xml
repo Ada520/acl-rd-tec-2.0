@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C82-2014">
+<Title>amp;quot;YREB&amp;quot; ORDER LANGUAGES: AN EXPERZM~NTAL LEXICON BASED PARS~</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+&amp;quot;YREB&amp;quot; ORDER LANGUAGES: AN EXPERZM~NTAL LEXICON BASED PARS~
+</SectionTitle>
+<Paragraph position="0"> Zstituto di Pstoologia, Oonsiglio Nazionale delle Rioex~he Via dei Monti Tiburtini, 509, O0157-Roma Most of the work on natural language understanding (NLU) has been done on English. E~ish is a language with relatively rigid word order, a characteristic that has influenced all NLU systems proposed so far. These systems have dedicated only minor attention to problems that are of major importance in lemguagee with a freer ordering like Italian. Work on parsing partially un~ram~atioal sentences in rigid l~s (Hayes and Mo~radtan, 1980l Charniak, 1981) bears some similarity to work on p~rsing of &amp;quot;free&amp;quot; order language. Tn both oases an exclusively top-down model seems inappropriate. For instance, when considering an incomplete sentence it may still be advis.</Paragraph>
+<Paragraph position="1"> able to proceed in building some representation. The resulttng structure will then be inserted within a larger oo~xitive structure. The sane bottom-up way of proceedPSng must necessarily be part of an NLU eyste~ for &amp;quot;free&amp;quot; order languages. An ATN (Woods, 1970) type systaw, like the one developed for Ztalian (Cappelli etal., 1978), shows definite l~nitations even when it is furnished with heuristics for strate~ selection (Ferrari and 8took, 1980) based on adaptation to a coherent text. Other ideas such as passing infox~nation in the case of failure (Weisohedel and Black, 1980) or relaxing conditions on aras in certain oirotvastances (Kwasny and Sondheimet, 1979) do not seem to be satisfying solutions for our px~bl~.</Paragraph>
+<Paragraph position="2"> - 65 In other hand, we do not agree that syntax be given a subordinate role, as Schank's theoretical approach implies (though in Schank and Riesbeck's parser, ELI (Riesbeck and Schank, 1978), syntax has a more important role than would be expected). In any event, without enough syntax it becomes hard to analyze complex sentences and to explain a number of psycho-linguistic phenomena.</Paragraph>
+<Paragraph position="3"> 2. WEDNESDAY, the system proposed here, is the core of an extended mechanism we are developing and implementing in LISP (flg.1) (see Pariei and Castelfranchi, in press). It is an analyzer with semantic output based on word interpretation.</Paragraph>
+<Paragraph position="4"> The semantic information brought in by each word is progressively connected to get at the sentence's meaning according to syntactic constraints and expectations. Syntax is a set of instructions directly concerned with assembling semantic units.</Paragraph>
+</Section>
+</Paper>
+

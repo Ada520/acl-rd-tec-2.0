@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-2100">
+<Title>Good Bigrams</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A desired property of a measure of connective strength in bigrams is that the measure should be insensitive to corpus size. This paper investigates the stability of three different measures over text genres and expansion of the corpus. The measures are (1) the commonly used mutual information, (2) the difference in mutual information, and (3) raw occurrence. Mutual information is further compared to using knowledge about genres to remove overlap between genres. This last approach considers the difference between two products of the same process (human text-generation) constrained by different genres. The cancellation of overlap seems to provide the most specific word pairs for each genre.</Paragraph>
+</Section>
+</Paper>
+

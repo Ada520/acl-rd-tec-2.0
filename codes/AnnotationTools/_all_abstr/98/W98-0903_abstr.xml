@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-0903">
+<Title>Three Formal Extensions to Primitive Optimality Theory</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper proposes an expansion of set of primitive constraints available within the Primitive Optimality Theory framework (Eisner, 1997a).</Paragraph>
+<Paragraph position="1"> This expansion consists of the addition of a new family of constraints--existential implicational constraints, which allow the specification of faithfulness constraints that can be satisfied at a distance--and the definition of two ways to combine simple constraints into com: plex constraints, that is, constraint disjunction (Crowhurst and Hewitt, 1995) and local constraint conjunction (Smolensky, 1995).</Paragraph>
+</Section>
+</Paper>
+

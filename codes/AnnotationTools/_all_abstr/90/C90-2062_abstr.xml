@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-2062">
+<Title>An Explanation Facility for a Grammar Writing System</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Explanation has become a standard feature in many expert systems today. Adapting from this work, a study was made to determine the types of explanation required in a grammar writing system and to investigate design and iimplementation issues. The first version of this explanation facility is based on a derivational history of the inferencing process, and although no supplementary knowledge is used, this explanation facility is able to furnish answers to the traditional why, how and what type of queries, and even the what-if (simulation) query. The explanation is also enhanced through the use of special files containing canned-text for describing grammar rules and variables.</Paragraph>
+</Section>
+</Paper>
+

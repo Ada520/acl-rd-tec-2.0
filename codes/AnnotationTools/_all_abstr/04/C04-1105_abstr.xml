@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1105">
+<Title>Bilingual-Dictionary Adaptation to Domains</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Two methods using comparable corpora to select translation equivalents appropriate to a domain were devised and evaluated. The first method ranks translation equivalents of a target word according to similarity of their contexts to that of the target word. The second method ranks translation equivalents according to the ratio of associated words that suggest them. An experiment using the EDR bilingual dictionary together with Wall Street Journal and Nihon Keizai Shimbun corpora proved that the method using the ratio of associated words outperforms the method based on contextual similarity.</Paragraph>
+<Paragraph position="1"> Namely, in a quantitative evaluation using pseudo words, the maximum F-measure of the former method was 86%, while that of the latter method was 82%.</Paragraph>
+</Section>
+</Paper>
+

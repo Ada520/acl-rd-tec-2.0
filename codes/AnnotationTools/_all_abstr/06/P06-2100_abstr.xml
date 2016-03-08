@@ -1,0 +1,30 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P06-2100">
+<Title>Learning and Natural Language Processing: A</Title>
+<Section position="2" start_page="0" end_page="779" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we report our work on building a POS tagger for a morphologically rich language- Hindi. The theme of the research is to vindicate the stand that- if morphology is strong and harnessable, then lack of training corpora is not debilitating. We establish a methodology of POS tagging which the resource disadvantaged (lacking annotated corpora) languages can make use of. The methodology makes use of locally annotated modestly-sized corpora (15,562 words), exhaustive morpohological analysis backed by high-coverage lexicon and a decision tree based learning algorithm (CN2). The evaluation of the system was done with 4-fold cross validation of the corpora in the news domain (www.bbc.co.uk/hindi). The current accuracy of POS tagging is 93.45% and can be further improved.</Paragraph>
+<Paragraph position="1"> 1 Motivation and Problem De nition Part-Of-Speech (POS) tagging is a complex task fraught with challenges like ambiguity of parts of speech and handling of lexical absence (proper nouns, foreign words, derivationally morphed words, spelling variations and other unknown words) (Manning and Schutze, 2002). For English there are many POS taggers, employing machine learning techniques like transformation-based error-driven learning (Brill, 1995), decision trees (Black et al., 1992), markov model (Cutting et al. 1992), maximum entropy methods (Ratnaparkhi, 1996) etc. There are also taggers which are hybrid using both stochastic and rule-based approaches, such as CLAWS (Garside and Smith, 1997). The accuracy of these taggers ranges from 93-98% approximately. English has annotated corpora in abundance, enabling usage of powerful data driven machine learning methods. But, very few languages in the world have the resource advantage that English enjoys.</Paragraph>
+<Paragraph position="2"> In this scenario, POS tagging of highly inectional languages presents an interesting case study. Morphologically rich languages are characterized by a large number of morphemes in a single word, where morpheme boundaries are dif cult to detect because they are fused together. They are typically free-word ordered, which causes xed-context systems to be hardly adequate for statistical approaches (Samuelsson and Voutilainen, 1997). Morphology-based POS tagging of some languages like Turkish (O azer and Kuruoz, 1994), Arabic (Guiassa, 2006), Czech (Hajic et al., 2001), Modern Greek (Orphanos et al., 1999) and Hungarian (Megyesi, 1999) has been tried out using a combination of hand-crafted rules and statistical learning. These systems use large amount of corpora along with morphological analysis to POS tag the texts. It may be noted that a purely rule-based or a purely stochastic approach will not be effective for such  languages, since the former demands subtle linguistic expertise and the latter variously permuted corpora.</Paragraph>
+<Section position="1" start_page="779" end_page="779" type="sub_section">
+<SectionTitle>
+1.1 Previous Work on Hindi POS Tagging
+</SectionTitle>
+<Paragraph position="0"> There is some amount of work done on morphology-based disambiguation in Hindi POS tagging. Bharati et al. (1995) in their work on computational Paninian parser, describe a technique where POS tagging is implicit and is merged with the parsing phase. Ray et al. (2003) proposed an algorithm that identi es Hindi word groups on the basis of the lexical tags of the individual words. Their partial POS tagger (as they call it) reduces the number of possible tags for a given sentence by imposing some constraints on the sequence of lexical categories that are possible in a Hindi sentence. UPENN also has an online Hindi morphological tagger1 but there exists no literature discussing the performance of the tagger.</Paragraph>
+</Section>
+<Section position="2" start_page="779" end_page="779" type="sub_section">
+<SectionTitle>
+1.2 Our Approach
+</SectionTitle>
+<Paragraph position="0"> We present in this paper a POS tagger for Hindi- the national language of India, spoken by 500 million people and ranking 4th in the world. We establish a methodology of POS tagging which the resource disadvantaged (lacking annotated corpora) languages can make use of. This methodology uses locally annotated modestly sized corpora (15,562 words), exhaustive morphological analysis backed by high-coverage lexicon and a decision tree based learning algorithm- CN2 (Clark and Niblett, 1989).</Paragraph>
+<Paragraph position="1"> To the best of our knowledge, such an approach has never been tried out for Hindi. The heart of the system is the detailed linguistic analysis of morphosyntactic phenomena, adroit handling of suf xes, accurate verb group identi cation and learning of disambiguation rules.</Paragraph>
+<Paragraph position="2"> The approach can be used for other in ectional languages by providing the language speci c resources in the form of suf x replacement rules (SRRs), lexicon, group identi cation and morpheme analysis rules etc. and keeping the  processes the same as shown in Figure 1. The similar kind of work exploiting morphological information to assign POS tags is under progress for Marathi which is also an Indian language.</Paragraph>
+<Paragraph position="3"> In what follows, we discuss in section 2 the challenges in Hindi POS tagging followed by a section on morphological structure of Hindi.</Paragraph>
+<Paragraph position="4"> Section 4 presents the design of Hindi POS tagger. The experimental setup and results are given in sections 5 and 6. Section 7 concludes the paper. null</Paragraph>
+</Section>
+</Section>
+</Paper>
+

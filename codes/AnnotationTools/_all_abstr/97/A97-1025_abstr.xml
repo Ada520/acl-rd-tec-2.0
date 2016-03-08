@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A97-1025">
+<Title>Contextual Spelling Correction Using Latent Semantic Analysis</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Contextual spelling errors are defined as the use of an incorrect, though valid, word in a particular sentence or context. Traditional spelling checkers flag misspelled words, but they do not typically attempt to identify words that are used incorrectly in a sentence. We explore the use of Latent Semantic Analysis for correcting these incorrectly used words and the results are compared to earlier work based on a Bayesian classifier.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-0910">
+<Title>References</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+References
+</SectionTitle>
+<Paragraph position="0"> 1 Collin F. Baker , Charles J. Fillmore , John B. Lowe, The Berkeley FrameNet Project, Proceedings of the 17th international conference on Computational linguistics, August 10-14, 1998, Montreal, Quebec, Canada 2 Hoa Trang Dang, Karin Kipper, Martha Palmer, and Joseph Rosenzweig. 1998. Investigating regular sense extensions based on intersective levin classes. In Proceedings of ACL98, Montreal, Canada, August.</Paragraph>
+<Paragraph position="1"> 3 Hoa Trang Dang , Karin Kipper , Martha Palmer, Integrating compositional semantics into a verb lexicon, Proceedings of the 18th conference on Computational linguistics, July 31-August 04, 2000, Saarbrcken, Germany 4 Christiane Fellbaum, editor. 1998. WordNet: An Eletronic Lexical Database. Language, Speech and Communications. MIT Press, Cambridge, Massachusetts.</Paragraph>
+<Paragraph position="2"> 5 Daniel Gildea, Probabilistic models of verb-argument structure, Proceedings of the 19th international conference on Computational linguistics, p.1-7, August 24-September 01, 2002, Taipei, Taiwan 6 Paul Kingsbury and Martha Palmer. 2002. From treebank to propbank. In Proceedings of the 3rd International Conference on Language Resources and Evaluation (LREC-2002), Las Palmas, Canary Islands, Spain.</Paragraph>
+<Paragraph position="3"> 7 Karin Kipper , Hoa Trang Dang , Martha Palmer, Class-Based Construction of a Verb Lexicon, Proceedings of the Seventeenth National Conference on Artificial Intelligence and Twelfth Conference on Innovative Applications of Artificial Intelligence, p.691-696, July 30-August 03, 2000 8 Beth Levin. 1993. English Verb Classes and Alternation, A Preliminary Investigation. The University of Chicago Press.</Paragraph>
+<Paragraph position="4"> 9 Mitchell Marcus , Grace Kim , Mary Ann Marcinkiewicz , Robert MacIntyre , Ann Bies , Mark Ferguson , Karen Katz , Britta Schasberger, The Penn Treebank: annotating predicate argument structure, Proceedings of the workshop on Human Language Technology, March 08-11, 1994, Plainsboro, NJ 10 Diana McCarthy, Using semantic preferences to identify verbal participation in role switching alternations, Proceedings of the first conference on North American chapter of the Association for Computational Linguistics, p.256-263, April 29-May 04, 2000, Seattle, Washington 11 Paola Merlo , Suzanne Stevenson, Automatic verb classification based on statistical distributions of argument structure, Computational Linguistics, v.27 n.3, p.373-408, September 2001 12 George Miller. 1985. Wordnet: A dictionary browser. In Proceedings of the First International Conference on Information in Data, Waterloo, Ontario.</Paragraph>
+<Paragraph position="5"> 13 Marc Moens , Mark Steedman, Temporal ontology and temporal reference, Computational Linguistics, v.14 n.2, June 1988 14 Sabine Schulte im Walde, Clustering verbs semantically according to their alternation behaviour, Proceedings of the 18th conference on Computational linguistics, July 31-August 04, 2000, Saarbrcken, Germany</Paragraph>
+</Section>
+</Paper>
+

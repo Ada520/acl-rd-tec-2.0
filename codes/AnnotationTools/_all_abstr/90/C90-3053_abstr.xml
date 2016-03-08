@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-3053">
+<Title>The semantic representation of spatial configurations: a conceptual motivation for generation in Machine Translation</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper deals with the automatic translatiou of prepositions, which are highly polysemous. Moreover, the same real situation is often expressed by different prepositions in different languages. We proceed from the hypothesis that different usage patterns are due to different conceptualizations of the same real situation. Following cognitive principles of spatial conceptualization, we design, a semantic interpretation process for spatial relations in which our translation system uses semantic features derived from a semantic sort hierarchy. Thus we can differentiate subtle distinctions between spatially significant configurations.</Paragraph>
+</Section>
+</Paper>
+

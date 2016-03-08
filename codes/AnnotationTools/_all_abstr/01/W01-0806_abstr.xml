@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W01-0806">
+<Title>An algorithm for efficiently generating summary paragraphs using tree-adjoining grammara0</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present an algorithm which improves the efficiency of a search for the optimally aggregated paragraph which summarises a flat structured input specification. We model the space of possible paraphrases of possible paragraphs as the space of sequences of compositions of a set of tree-adjoining grammar (TAG) elementary trees. Our algorithm transforms this to a set with equivalent paraphrasing power but better computational properties. Also, it identifies an explicit mapping between input propositions and their possible surface realisations. null</Paragraph>
+</Section>
+</Paper>
+

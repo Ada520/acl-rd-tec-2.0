@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-0302">
+<Title>Tagging Gene and Protein Names in Full Text Articles</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Current information extraction efforts in the biomedical domain tend to focus on finding entities and facts in structured databases or MEDLINE abstracts. We apply a gene and protein name tagger trained on Medline abstracts (ABGene) to a randomly selected set of full text journal articles in the biomedical domain. We show the effect of adaptations made in response to the greater heterogeneity of full text.</Paragraph>
+</Section>
+</Paper>
+

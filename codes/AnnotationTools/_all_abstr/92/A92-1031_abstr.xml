@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A92-1031">
+<Title>ISSCO, Gen~ve t</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> Access to on-line corpora is a useful tool for studies in lexicography, linguistics, and translation. Many means of accessing such corpora are available, but few, if any, provide more than a language for matching character strings. As a result, the user is obliged to spend a great deal of time extracting information herself. As more and more texts are put in machine readable format, it becomes increasingly obvious that more specialized, intelligent tools are required to fully exploit the available data. BCP, the Bilingual Concordancy Program under development at ISSCO, is an instance of such a tool.</Paragraph>
+<Paragraph position="1"> In previous work done at ISSCO on BCP, a rather oversimplified view of text structure was taken \[Warwick et. al., 1989\]. Attention was focused on the difficulties of alignment and somewhat less so on access questions.</Paragraph>
+<Paragraph position="2"> Alignment remains a subject of active research, but experience has proven that text marking and morphology are not to be taken so lightly. Indeed, many small difficulties have shown themselves to be insurmountable without the aid of heuristic decision modules. As a result, the initial approach to text tagging and morphology has been thoroughly revised.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P06-1095">
+<Title>Machine Learning of Temporal Relations</Title>
+<Section position="2" start_page="37" end_page="37" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper investigates a machine learning approach for temporally ordering and anchoring events in natural language texts. To address data sparseness, we used temporal reasoning as an over-sampling method to dramatically expand the amount of training data, resulting in predictive accuracy on link labeling as high as 93% using a Maximum Entropy classifier on human annotated data. This method compared favorably against a series of increasingly sophisticated baselines involving expansion of rules derived from human intuitions.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A00-2042">
+<Title>Understanding &amp;quot;Each Other&amp;quot;</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Although natural language is ambiguous, various linguistic and extra-linguistic factors often help determine a preferred reading. In this paper, we show that model generation can be used to model this process in the case of reciprocal statements. The proposed analysis builds on insights from Dalrymple et al. 98 and is shown to provide an integrated, computational account of the interplay between model theoretic interpretation, knowledge-based reasoning and preferences that characterises the interpretation of reciprocals.</Paragraph>
+</Section>
+</Paper>
+

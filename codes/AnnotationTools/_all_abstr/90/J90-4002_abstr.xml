@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J90-4002">
+<Title>SENTENTIAL SEMANTICS FOR PROPOSITIONAL ATTITUDES</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+SENTENTIAL SEMANTICS FOR PROPOSITIONAL ATTITUDES
+</SectionTitle>
+<Paragraph position="0"> The sentential theory of propositional attitudes is very attractive to AI workers, but it is difficult to use such a theory to assign semantics to English sentences about attitudes. The problem is that a compositional semantics cannot easily build the logical forms that the theory requires. We present a new notation for a sentential theory, and a unification grammar that builds logical forms in our notation. The grammar is implemented using the standard implementation of definite clause grammars in Prolog.</Paragraph>
+</Section>
+</Paper>
+

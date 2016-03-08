@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H94-1074">
+<Title>Speech-Based Retrieval Using Semantic Co-Occurrence Filtering</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> In this paper we demonstrate that speech recognition can be effectively applied to information retrieval (IR) applications.</Paragraph>
+<Paragraph position="1"> Our system exploits the fact that the intended words of a spoken query tend to co-occur in text documents in close proximity whereas word combinations that are the result of recognition errors are usually not semantically correlated and thus do not appear together. Termed &amp;quot;Semantic Co-occurrence Filtering&amp;quot; this enables the system to simultaneously disambiguate word hypotheses and find relevant text for retrieval.</Paragraph>
+<Paragraph position="2"> The system is built by integrating standard IR and speech recognition techniques. An evaluation of the system is preseated and we discuss several refinements to the functionality.</Paragraph>
+</Section>
+</Paper>
+

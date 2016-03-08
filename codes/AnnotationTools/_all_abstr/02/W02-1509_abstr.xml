@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-1509">
+<Title>Coping with problems in grammars automatically extracted from treebanks</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We report in this paper on an experiment on automatic extraction of a Tree Adjoining Grammar from the WSJ corpus of the Penn Treebank. We use an automatic tool developed by (Xia, 2001) properly adapted to our particular need. Rather than addressing general aspects of the automatic extraction we focus on the problems we have found to extract a linguistically (and computationally) sound grammar and approaches to handle them.</Paragraph>
+</Section>
+</Paper>
+

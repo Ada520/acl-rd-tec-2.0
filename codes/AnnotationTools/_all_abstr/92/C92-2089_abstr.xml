@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C92-2089">
+<Title>A FEATURE-BASED MODEL FOR LEXICAL DATABASES</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+A FEATURE-BASED MODEL FOR LEXICAL DATABASES
+JEAN VI~RONIS, NANCY IDE
+</SectionTitle>
+<Paragraph position="0"> Groupe Reprdsentation et Traitement des Connaissances, Centre National de la Recherche Scientifique,  Abstract -- To date, no fully suitable data model for lexical databases has been proposed. As lexical databases have prolifcrated in multiple formats, there has been growing concern over the reusability of lexical resources. In this paper, we propose a model based on feature structures which overcomes most of the problems inherent in classical database models, anti in particular enables accessing, manipulating or merging information structured in multiple ways. Because of their widespread use in file representation of linguistic information, the applicability of feature structures to lexical databases seems natural, although to our knowledge this has not yet been implemented. The nse of feature structures in lexical databases also opens up the possibility of compatibility with computational lexicons.</Paragraph>
+</Section>
+</Paper>
+

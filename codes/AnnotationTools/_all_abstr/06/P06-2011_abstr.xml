@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P06-2011">
+<Title>Sydney, July 2006. c(c)2006 Association for Computational Linguistics A High-Accurate Chinese-English NE Backward Translation System Combining Both Lexical Information and Web Statistics</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Named entity translation is indispensable in cross language information retrieval nowadays. We propose an approach of combining lexical information, web statistics, and inverse search based on Google to backward translate a Chinese named entity (NE) into English. Our system achieves a high Top-1 accuracy of 87.6%, which is a relatively good performance reported in this area until present. null</Paragraph>
+</Section>
+</Paper>
+

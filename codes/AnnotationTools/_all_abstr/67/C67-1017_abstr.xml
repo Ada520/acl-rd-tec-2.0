@@ -1,0 +1,30 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C67-1017">
+<Title>The Application of FORTRAN to Automatic Translation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+I. Introduction
+</SectionTitle>
+<Paragraph position="0"> A multitude of problem-oriented programming languages are being created in order to facilitate programming in various fields.Th~se languages have two advantages for non-programmers who need a computer for solving their problems: I. they are not forced to spend much time on learning a complicated machine language; 2. they do not necessarily have to alter their programs when they are obliged to use a different machine. These advantages seem to justify the labour of writing a multitude of compilers that translate each problem-oriented language into the machine language of each machine.</Paragraph>
+<Paragraph position="1"> The existence of various problem-oriented languages, however, makes it difficult for the users of computers in various fields to exchange their experience. In addition there is the danger that a certain machine possesses only a limited number of compilers, and that therefore a program may have to be rewritten when for some reason or other a different machine has to be used. The question therefore arises whether it is not possible to have the advantages of problem-orlented languages without multiplying their number.</Paragraph>
+<Paragraph position="2"> This paper wants to show that one of the most widespread problem-oriented languages, originally created for mathematicians, may efficiently be used for non-numerical data-processing, if the necessary subroutines are available.</Paragraph>
+<Paragraph position="3"> Another object of this paper is to give a concrete picture of how linguistic problems may be handled by the computer to those readers who have only a theoretical knowledge of data-processing. For the benefit of these readers a few definitions will be given, so that the examples will be understood by everybody.</Paragraph>
+<Paragraph position="4"> bit = the smalles unit of information that may be stored in the computer, having one of two values symbolized by &amp;quot;I&amp;quot; or &amp;quot;O&amp;quot;. character = a letter of the alphabet, a decimal digit, or one of 11 special signs including the blank. A character is represented in the computer used for our examples (IBM 709@) by a combination of 6 bits.</Paragraph>
+<Paragraph position="5"> machlne-word = a string of six characters (represented in the computer by a combination of 36 bits).</Paragraph>
+<Paragraph position="6"> location = the place in the computer where a machine-word is stored. array = a combination of locations treated as a unit.</Paragraph>
+<Paragraph position="7"> subroutine = a program that may be called up by another program for performing a specific job.</Paragraph>
+<Paragraph position="8"> function = a subroutine that in addition to handling a certain job leaves a definite result in a certain location.</Paragraph>
+<Paragraph position="9"> IF-statement ~ an instruction of the program that enables a branch ing to one of three different statements in the program, depending on whether the value in the parentheses of this statement is negative, zero or positive. Its format is &amp;quot;IF (x) 1,m,n&amp;quot;, where 1,m and n are the numbers of the statements to which the program may branch.</Paragraph>
+<Paragraph position="10"> The application of a mathematically oriented programming language to linguistic problems will be exemplified by a Hebrew-English translation project written in FORTRAN with the aid of subroutines programmed at the Deutsches Rechenzentrum in Darmstadt. These subroutines handle data smaller than the machine-word (single bits,. single characters and their concatenation), the non-numerical machine-word and data larger than the machine-word.</Paragraph>
+<Paragraph position="11"> We shall now explain the subroutines used in our project and give examples of their application. In order to avoid a repeated explanation of the variables used in the formats of the subroutines, we introduce the following conventions.</Paragraph>
+<Paragraph position="12"> M = a positive integer not greater than 36, referring to one of the 36 bits of a machine-word.</Paragraph>
+<Paragraph position="13"> WORD = the location of a machine-word to be handled by the subroutine. If two machine-words are to be handled, we distlnguish between WORD1 and WORD2.</Paragraph>
+<Paragraph position="14"> BLOCK ~ the location of the first machine-word of an array containing the characters or the string to be handled by the subroutine. If two arrays are involved, we distinguish between BLOCKI and BLOCK2.</Paragraph>
+<Paragraph position="15"> NA = a positive integer indicating the position of the first character of a string in the array BLOCK to be handled by t~ subroutine. If two strings are to be handled, we distinguish between NA1 and NA2.</Paragraph>
+<Paragraph position="16"> N = an integer, usually positive, indicating the number of characters to be treated by the subroutine. ~will be negative if we count the characters from NA to the left.</Paragraph>
+<Paragraph position="17"> TABLE = an array containing characters to be used by a subroutine. This table is prepared before the subroutine is called.</Paragraph>
+<Paragraph position="18"> The subroutines will be described in the order of the units they handle, starting from the smallest units.</Paragraph>
+</Section>
+</Paper>
+

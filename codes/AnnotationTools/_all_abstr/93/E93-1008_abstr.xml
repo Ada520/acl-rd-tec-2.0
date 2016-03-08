@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E93-1008">
+<Title>Disjunctions and Inheritance in the Context Feature Structure System</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Substantial efforts have been made in order to cope with disjunctions in constraint based grammar formalisms (e.g. \[Kasper, 1987; Maxwell and Kaplan, 1991; DSrre and Eisele, 1990\].). This paper describes the roles of disjunctions and inheritance in the use of feature structures and their formal semantics. With the notion of contexts we abstract from the graph structure of feature structures and properly define the search space of alternatives. The graph unification algorithm precomputes nogood combinations, and a specialized search procedure which we propose here uses them as a controlling factor in order to delay decisions as long as there is no logical necessity for deciding. null</Paragraph>
+</Section>
+</Paper>
+

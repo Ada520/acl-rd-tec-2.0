@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A94-1001">
+<Title>References</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The EXCLASS system (Expert Job Evaluation Assistant) is intended to provide intelligent support for job description and classification in the Canadian Public Service. The Job Description Module (JDM) of EXCLASS is used to create conceptual representations of job descriptions, which are used for job evaluation and bilingual generation of textual job descriptions.</Paragraph>
+<Paragraph position="1"> The design of these representations was subject to two opposing constIaints: (1) that they be deep enough to resolve the ambiguities present in textual job descriptions, and (2) that they be close enough to surface linguistic forms that they can be conveniently manipulated by users with little specialized training. The close correspondence of concepts to surface words and phrases, as well as properties of the job description sublanguage, permit a simplified generator design, whereby phrases are prepackaged with a certain amount of linguistic structure, and combined according to a small set of mostly language-independent rules.</Paragraph>
+<Paragraph position="2"> Text planning, consisting mainly of grouping and ordering of conjoined phrases, is performed manually by the user, and composition of conceptual forms is supported by a &amp;quot;continuous text feedback&amp;quot; function.</Paragraph>
+</Section>
+</Paper>
+

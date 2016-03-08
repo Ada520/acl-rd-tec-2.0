@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-0702">
+<Title>Topic Detection Based on Dialogue History</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we propose a topic detection method using a dialogue history for selecting a scene in the automatic interpretation system (Ikeda et al., 2002). The method uses a k-nearest neighbor method for the algorithm, automatically clusters target topics into smaller topics grouped by similarity, and incorporates dialogue history weighted in terms of time to detect and track topics on spoken phrases. From the evaluation of detection performance using test corpus comprised of realistic spoken dialogue, the method has shown to perform better with clustering incorporated, and combined with time-weighted dialogue history of three sentences, gives detection accuracy of 77.0%.</Paragraph>
+</Section>
+</Paper>
+

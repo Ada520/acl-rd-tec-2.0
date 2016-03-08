@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-1216">
+<Title>Text Meaning Representation for Chinese</Title>
+<Section position="1" start_page="0" end_page="1" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes text meaning representation for Chinese. Text meaning representation is composed of a set of ontological concept instances along with ontological links among them. It integrates lexical, textual and world knowledge into a single hierarchical framework. In NLP application it serves as an inter-lingual representation for various processing.</Paragraph>
+<Paragraph position="1"> The methodology and implementation of text meaning representation is discussed in detail.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-1110">
+<Title>Sydney, July 2006. c(c)2006 Association for Computational Linguistics Towards Case-Based Parsing: Are Chunks Reliable Indicators for Syntax Trees?</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents an approach to the question whether it is possible to construct a parser based on ideas from case-based reasoning. Such a parser would employ a partial analysis of the input sentence to select a (nearly) complete syntax tree and then adapt this tree to the input sentence. The experiments performed on German data from the T&amp;quot;uba-D/Z treebank and the KaRoPars partial parser show that a wide range of levels of generality can be reached, depending on which types of information are used to determine the similarity between input sentence and training sentences. The results are such that it is possible to construct a case-based parser.</Paragraph>
+<Paragraph position="1"> The optimal setting out of those presented here need to be determined empirically.</Paragraph>
+</Section>
+</Paper>
+

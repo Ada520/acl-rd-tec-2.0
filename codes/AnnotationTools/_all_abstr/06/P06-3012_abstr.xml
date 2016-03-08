@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P06-3012">
+<Title>Language Generation</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We analyze the concept of focus in speech and the relationship between focus and speech acts for prosodic generation. We determinehowthespeaker'sutterancesare influenced by speaker's intention. The relationship between speech acts and focus information is used to define which parts of the sentence serve as the focus parts.</Paragraph>
+<Paragraph position="1"> We propose the Focus to Emphasize Tones (FET) structure to analyze the focus components. We also design the FET grammar to analyze the intonation patterns and produce tone marks as a result of our analysis. We present a proof-of-the-concept working example to validate our proposal.</Paragraph>
+<Paragraph position="2"> More comprehensive evaluations are part of our current work.</Paragraph>
+</Section>
+</Paper>
+

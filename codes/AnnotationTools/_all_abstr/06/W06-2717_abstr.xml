@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-2717">
+<Title>XML-based Phrase Alignment in Parallel Treebanks</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes the usage of XML for representing cross-language phrase alignments in parallel treebanks. We have developed a TreeAligner as a tool for interactively inserting and correcting such alignments as an independent level of treebank annotation.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C94-1044">
+<Title>Interlingual Lexical Organisation for Multilingual Lexical Databases in NADIA</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We propose a lexical organisation fi)r mullilingual lcxical databases (MLDB). This organisation is based on acceptions (word-senses). We detail this lexical organisation m~d show a mock-up built to experiment with it. We also present our current work in defining and prototyping a specialised system for the manage,ncnt of acception-based M LDB.</Paragraph>
+<Paragraph position="1"> Keywords: mnltilingual lexical database, acccplion, linguistic structure.</Paragraph>
+<Paragraph position="2"> Introduction Needs for large scale lexical resources for Natural Language Processing (NLP) in general and for Machine Translation (MT) in p:uticular, increase every day. These resources ,are considered to ::epresent the most expensive part of ahnost any NLP system. Ilcnce, an increasing interest in the development of reusable dictionaries can be observed.</Paragraph>
+<Paragraph position="3"> q'o develop a Multilingual Lexical Database (MLDB), we think of two main approaches. First, the tran.~'r approach where the links between the languages are realized via unidirectional bilingual dictionaries. This approach is used by many MT systems and by some lexical database projects (notably Acquilex or Multilex). Second, the interlingttal approach where the links between the languages arc realized via an nnique interlingual dictionary. The KBMT-89 project (Knowledge Based Machine Translation) at Carnegie Mellon University in the US and the EI)R. (Electronic Dictionary Research) project in Japan use tiffs approach. In the context of multilingnal MT systems, we arc interested in the problems posed when constructing &amp;quot;rod using an application and theory independent MLDB. Wc are developing a Lexical l)atabase Management SyslcIn, NADIA, based on an inlerlingual approach. Wc chose acceptions as inlerlingual milts. NADIA provides re:my tools for the management of MLI)Bs. Moreover, this system gives the linguist a great liberty in tbc choice of the linguistic structures.</Paragraph>
+<Paragraph position="4"> We first give ,an overview of the project, beginning with its lexical organization. Then, we give the results of our experimentations on this lexic,'d organization. Finaly, we present our current work: the definition and prolotyping of a specialized system for the management of acception-based MLDBs.</Paragraph>
+<Paragraph position="5"> NADIA is the continuation of a work done for the Multilex ESPRIT project. The coherence checkcr and software architecture have been defined for Multilex and adapted to our lexical orga,fizatinn.</Paragraph>
+<Paragraph position="6"> I. Acception-basod lexical organization After studying and comparing different projecls of lexic:d dat;dmses, including I&amp;quot;J)R (E\[31~. 1993), KBMT-89 (Nirenburg and 1)cfrise 1990; Good,nan and Nirenburg 1991) Multilex and of Mullilingual MT syslems, such as CICC (Uchida and Zhu 1991) and ULTRA (Farwcll, ,guthrie ctal. 1992), wc lmve concluded in favor of an iutcrlingual lexical organization for our MLDBs.</Paragraph>
+<Paragraph position="7"> Some of the inter,rational projects of lexical databases are based on a multbbilingual approach (e.g. Multilex) while others use knowledge representation as an interlingua (e.g. KBMT-89 or EI)P,). Much like ULTRA, our approach is interlingual and linguislic rather than knowledge-based.</Paragraph>
+</Section>
+</Paper>
+

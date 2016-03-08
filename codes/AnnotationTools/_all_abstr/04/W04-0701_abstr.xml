@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-0701">
+<Title>Overlap Features</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Multi-document person name resolution focuses on the problem of determining if two instances with the same name and from different documents refer to the same individual. We present a two-step approach in which a Maximum Entropy model is trained to give the probability that two names refer to the same individual. We then apply a modified agglomerative clustering technique to partition the instances according to their referents.</Paragraph>
+</Section>
+</Paper>
+

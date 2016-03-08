@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W91-0210">
+<Title>Lexical Structures for Linguistic Inference</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In order to resolve metonymy and other violations of selectional restrictions between lexical items, a language understander must be able to infer relationships that do not have explicit lexical analogs in tile sentence. Although such inferencing has typically been relegated to the world knowledge portion of a natural language processing system, there is also evidence, from both theoretical analysis in compositional semantics and distributional analysis of corpus data, that some cases of metonymy may best be processed with respect to more specific lexical and syntactic constructions. In this paper, we argue how the richer vocabulary for lexical semantics proposed in Pustejovsky's &amp;quot;Generative Lexicon&amp;quot; theory allows one to explore the role of lexical information in such cases, and therefore sheds more light on the distinction between lexical inferences, which follow from defaults associated with lexical items and rules of composition, and pragmatic inferences, which depend on reasoning with respect to the context of the utterance.</Paragraph>
+</Section>
+</Paper>
+

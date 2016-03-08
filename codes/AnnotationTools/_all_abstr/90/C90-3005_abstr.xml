@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-3005">
+<Title>A Karaka Based Approach to Parsing of Indian Languages</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A karaka based &amp;i)pro,'~cl'~ for' t),xYs{ng of \[nc/ian languages is described. I~ has been used for, building a parseL' of ttindi for a prototype Machine Translation system.</Paragraph>
+<Paragraph position="1"> A lex.\[ca\].\[sod gt'&amp;mlnaF formalism has been developed that a\].lovas constraints to be specified between 'demand' ~and 'source' ~;or'ds (e.g., between verb and its karaka roles). The parser has two important novel features: (.\[) It has a local word grouping phase in uhich wot&amp;quot;d gr'oups are formed using 'local' infor-marion onl~ ~. They are formed based on finite state machine specifications thu~ resulting in a fas~t grouper. (ii) The parser.</Paragraph>
+<Paragraph position="2"> is a general constraint :~o\]ver. It first transforms the constr'aints to ~n integer programming pr.ob\]em and then solves it.</Paragraph>
+<Paragraph position="3"> i. Introduction Languages belonging %o the Indian linguistic area shaFe several common features. They are relatively wor.d order free, nominals are inflected or- have post po::it ion case markers (collectively called as having vibhakti) , have verb complexes consisting of sequences of verbs (possibly joined together into a single word), etc. There ar'e also commonal\]ties in vocabulory, in senses spanned by a ~4ord in one language to those of its counterpart in another Indian language, etc.</Paragraph>
+<Paragraph position="4"> We base our grammar on the karaka (pronounced kaarak) structure. It is necessary to ment ion that although kaFakas are thought of as similar to c!~,'os, ~}~y ?,r'o fuDd;)mer~t:.a\] \] y ,7! { f f ei'e~\]+.: : &amp;quot;The pivotal categories of &amp;quot;the ~bstL'act syntactic Fepresentation are the karakas, the grammar ica\] functions as ~ signed to nominals in relation to the * verbal root. They ar'e ne\] ther' semantic nol.&amp;quot; morphological categories in themselves but cor'r'espond to semant {cs according to r'u\]. es specified in the grammar' and to mor.phology according to other rules specified in the grammar.&amp;quot; \[Kip&amp;rsky, 82\] .</Paragraph>
+<Paragraph position="5"> Before describing our grammar formalism, let us look at %he parser struc.-</Paragraph>
+<Paragraph position="7"> Function of the mor'phol ogi cal analyzer is to take each word in the input sentence and extract its root and other associated grammatical information. This information for, ms the input to the local word grouper (LWG).</Paragraph>
+<Paragraph position="9"></Paragraph>
+</Section>
+</Paper>
+

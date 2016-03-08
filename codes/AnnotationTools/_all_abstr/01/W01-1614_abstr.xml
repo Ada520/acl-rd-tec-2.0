@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W01-1614">
+<Title>Empirical Methods for Evaluating Dialog Systems</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We examine what purpose a dialog metric serves and then propose empirical methods for evaluating systems that meet that purpose. The methods include a protocol for conducting a wizard-of-oz experiment and a basic set of descriptive statistics for substantiating performance claims using the data collected from the experiment as an ideal benchmark or &amp;quot;gold standard&amp;quot; for comparative judgments. The methods also provide a practical means of optimizing the system through component analysis and cost valuation.</Paragraph>
+<Paragraph position="1"> Empirical Methods for Evaluating Dialog Systems</Paragraph>
+</Section>
+</Paper>
+

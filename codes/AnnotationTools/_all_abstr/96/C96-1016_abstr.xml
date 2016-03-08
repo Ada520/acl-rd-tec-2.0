@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-1016">
+<Title>Measuring Semantic Coverage</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The developlnent of natural language processing systems is currently driven to a large extent by measures of knowledge-base size and coverage of individual phenomena relative to a corpus. While these measures have led to significant advances for knowledge-lean applications, they do not adequately motivate progress in computational semantics leading to the development of large-scale, general purpose NLP systems. In this article, we argue that depth of semantic representation is essential for covering a broad range of phenomena in the computational treatment of language and propose (lepth as an important additional dimension for measuring the semantic coverage of NLP systems. We propose an operationalization of this measure and show how to characterize an NLP system along the dimensions of size, corpus coverage, and depth. The proposed framework is illustrated using sever~fl prominent NLP systems. We hope the preliminary proposals made in this article will lead to prolonged debates in the field and will continue to be refined.</Paragraph>
+</Section>
+</Paper>
+

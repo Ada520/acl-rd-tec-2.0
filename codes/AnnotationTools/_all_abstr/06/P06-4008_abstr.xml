@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P06-4008">
+<Title>K-QARD: A Practical Korean Question Answering Framework for Restricted Domain</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a Korean question answering framework for restricted domains, called K-QARD. K-QARD is developed to achieve domain portability and robustness, and the framework is successfully applied to build question answering systems for several domains.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P84-1107">
+<Title>Conceptual and Linguistic Decisions in Generation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> Generation of texts in natural language requires making conceptual and linguistic decisions. This paper shows first that these decisions involve the use of a discourse grammar, secondly that they are all dependent on one another but that there is a priori no reason to give priority to one decision rather than another. As a consequence, a generation algorithm must not be modularized in components that make these decisions in a fixed order.</Paragraph>
+</Section>
+</Paper>
+

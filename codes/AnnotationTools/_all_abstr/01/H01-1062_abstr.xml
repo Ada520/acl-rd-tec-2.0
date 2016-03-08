@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H01-1062">
+<Title>The RWTH System for Statistical Translation of Spoken Dialogues</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> This paper gives an overview of our work on statistical machine translation of spoken dialogues, in particular in the framework of the Verbmobil project. The goal of the Verbmobil project is the translation of spoken dialogues in the domains of appointment scheduling and travel planning. Starting with the Bayes decision rule as in speech recognition, we show how the required probability distributions can be structured into three parts: the language model, the alignment model and the lexicon model. We describe the components of the system and report results on the Verbmobil task. The experience obtained in the Verbmobil project, in particular a large-scale end-to-end evaluation, showed that the statistical approach resulted in significantly lower error rates than three competing translation approaches: the sentence error rate was 29% in comparison with 52% to 62% for the other translation approaches.</Paragraph>
+</Section>
+</Paper>
+

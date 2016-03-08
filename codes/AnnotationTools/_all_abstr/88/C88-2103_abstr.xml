@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C88-2103">
+<Title>Parshlg with look-ahead in real-time on-line translation system</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In order to increase parsing efficiency in a real-time on-line translation system interfaced with a keyboard conversation program, we have developed a version of the ATN formalism with a look-ahead function. By permitting future input to be scanned, arcs can be reordered or suppressed. Various mechanisms utilizing this capability are presented.</Paragraph>
+</Section>
+</Paper>
+

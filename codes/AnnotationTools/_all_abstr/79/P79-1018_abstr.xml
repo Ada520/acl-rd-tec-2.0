@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P79-1018">
+<Title>Winograd, Terry \[1971\] Procedures as a Repraentatian for Data in a Computer Program for Understanding Natural</Title>
+<Section position="2" start_page="2" end_page="2" type="abstr">
+<SectionTitle>
+3 They catzght him.
+</SectionTitle>
+<Paragraph position="0"> These examples show how to use the three sources of information to support or reject a predicted antecedence. In particular, inferencing is controlled by checking for consistency on a predicted choice rather than by search ~lsing general inference.</Paragraph>
+<Paragraph position="1"> The paper also indicates what additional requirements are needed for a full treatment of pronominal anphora. These include use of a representation such as that of Webber \[197g\]; linguistic rules such as the disjoint reference rules of Lasnik \[\[976\] and Reinhart \[\[976\] as well as rules of anapbora in logical form given by Cbomsky \[1976\]; and presence of actor loci such as they in D3. The nature of these requirements is discussed, while the computational inclusion of them is found in $idner \[ 1979\].</Paragraph>
+</Section>
+</Paper>
+

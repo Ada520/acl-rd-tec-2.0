@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-2102">
+<Title>Named Entity Chunking Techniques in Supervised Learning for Japanese Named Entity Recognition</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This 1)aper focuses on the issue of named entity chunking in Japanese named entity recognition.</Paragraph>
+<Paragraph position="1"> We apply the SUl)ervised decision list lean&gt; ing method to Japanese named entity recognition. We also investigate and in(:ori)orate several named-entity noun phrase chunking tech.niques and experimentally evaluate and con&gt; t)are their l)erfornlanee, ill addition, we t)rot)ose a method for incorporating richer (:ontextua\] ilflbrmation as well as I)atterns of constituent morphenms within a named entity, which h~ve not 1)een considered ill previous research, and show that the t)roi)osed method outt)erfi)rms these t)revious ai)proa('hes.</Paragraph>
+</Section>
+</Paper>
+

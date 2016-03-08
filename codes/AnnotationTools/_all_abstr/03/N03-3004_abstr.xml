@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N03-3004">
+<Title>Discriminating Among Word Senses Using McQuitty's Similarity Analysis</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents an unsupervised method for discriminating among the senses of a given target word based on the context in which it occurs. Instances of a word that occur in similar contexts are grouped together via McQuitty's Similarity Analysis, an agglomerative clustering algorithm. The context in which a target word occurs is represented by surface lexical features such as unigrams, bigrams, and second order co-occurrences. This paper summarizes our approach, and describes the results of a preliminary evaluation we have carried out using data from the SENSEVAL-2 English lexical sample and the line corpus.</Paragraph>
+</Section>
+</Paper>
+

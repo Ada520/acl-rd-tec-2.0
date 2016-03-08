@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P04-1006">
+<Title>Attention Shifting for Parsing Speech [?]</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a technique that improves the efficiency of word-lattice parsing as used in speech recognition language modeling. Our technique applies a probabilistic parser iteratively where on each iteration it focuses on a different subset of the wordlattice. The parser's attention is shifted towards word-lattice subsets for which there are few or no syntactic analyses posited. This attention-shifting technique provides a six-times increase in speed (measured as the number of parser analyses evaluated) while performing equivalently when used as the first-stage of a multi-stage parsing-based language model.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P06-1091">
+<Title>Sydney, July 2006. c(c)2006 Association for Computational Linguistics A Discriminative Global Training Algorithm for Statistical MT</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a novel training algorithm for a linearly-scored block sequence translation model. The key component is a new procedure to directly optimize the global scoring function used by a SMT decoder. No translation, language, or distortion model probabilities are used as in earlier work on SMT. Therefore our method, which employs less domain specific knowledge, is both simpler and more extensible than previous approaches.</Paragraph>
+<Paragraph position="1"> Moreover, the training procedure treats the decoder as a black-box, and thus can be used to optimize any decoding scheme.</Paragraph>
+<Paragraph position="2"> The training algorithm is evaluated on a standard Arabic-English translation task.</Paragraph>
+</Section>
+</Paper>
+

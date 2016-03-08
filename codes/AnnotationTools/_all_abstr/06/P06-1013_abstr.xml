@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P06-1013">
+<Title>Ensemble Methods for Unsupervised WSD</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Combination methods are an effective way of improving system performance. This paper examines the bene ts of system combination for unsupervised WSD. We investigate several voting- and arbiter-based combination strategies over a diverse pool of unsupervised WSD systems.</Paragraph>
+<Paragraph position="1"> Our combination methods rely on predominant senses which are derived automatically from raw text. Experiments using the SemCor and Senseval-3 data sets demonstrate that our ensembles yield signi cantly better results when compared with state-of-the-art.</Paragraph>
+</Section>
+</Paper>
+

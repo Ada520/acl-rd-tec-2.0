@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E06-1036">
+<Title>Recognizing Textual Parallelisms with edit distance and similarity degree</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Detection of discourse structure is crucial in many text-based applications. This paper presents an original framework for describing textual parallelism which allows us to generalize various discourse phenomena and to propose a unique method to recognize them. With this prospect, we discuss several methods in order to identify the most appropriate one for the problem, and evaluate them based on a manually annotated corpus.</Paragraph>
+</Section>
+</Paper>
+

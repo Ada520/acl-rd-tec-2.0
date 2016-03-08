@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-0702">
+<Title>Cross Document Co-Reference Resolution Applications for People in the Legal Domain</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> By combining information extraction and record linkage techniques, we have created a repository of references to attorneys, judges, and expert witnesses across a broad range of text sources. These text sources include news, caselaw, law reviews, Medline abstracts, and legal briefs among others. We briefly describe our cross document co-reference resolution algorithm and discuss applications these resolved references enable. Among these applications is one that shows summaries of relationships chains between individuals based on their document co-occurrence and cross document co-references.</Paragraph>
+</Section>
+</Paper>
+

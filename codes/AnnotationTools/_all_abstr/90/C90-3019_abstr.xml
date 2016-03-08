@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-3019">
+<Title>Organizing linguistic knowledge for multilingual generation*</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We propose an architecture for the organisation of linguistic knowledge which allows to (1) separately formulate generalizations for different types of linguistic information, and (2) state interrelations between partial information belonging to different levels of description. We use typed feature structures for encoding linguistic knowledge. We show the application of this representational device for the architecture of linguistic knowledge sources for nmltilingum generation. As an example, we describe the use of interacting collocational and syntactic constraints in the generation of French and German sentences.</Paragraph>
+</Section>
+</Paper>
+

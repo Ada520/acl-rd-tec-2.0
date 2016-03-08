@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-1520">
+<Title>Handling Unlike Coordinated Phrases in TAG by Mixing Syntactic Category and Grammatical Function</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Coordination of phrases of different syntactic categories has posed a problem for generative systems based only on syntactic categories. Although some prefer to treat them as exceptional cases that should require some extra mechanism (as for elliptical constructions), or to allow for unrestricted cross-category coordination, they can be naturally derived in a grammatic functional generative approach. In this paper we explore the ideia on how mixing syntactic categories and grammatical functions in the label set of a Tree Adjoining Grammar allows us to develop grammars that elegantly handle both the cases of same- and cross-category coordination in an uniform way.</Paragraph>
+</Section>
+</Paper>
+

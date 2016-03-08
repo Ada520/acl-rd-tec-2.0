@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1117">
+<Title>Cognate Mapping -- A Heuristic Strategy for the Semi-Supervised Acquisition of a Spanish Lexicon from a Portuguese Seed Lexicon</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We deal with the automated acquisition of a Spanish medical subword lexicon from an already existing Portuguese seed lexicon. Using two non-parallel monolingual corpora we determined Spanish lexeme candidates from Portuguese seed lexicon entries by heuristic cognate mapping. We validated the emergent lexical translation hypotheses by determining the similarity of fixed-window context vectors on the basis of Portuguese and Spanish text corpora. null</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-2901">
+<Title>A System for Searching and Browsing Spoken Communications</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> As the amount of spoken communications accessible by computers increases, searching and browsing is becoming crucial for utilizing such material for gathering information. It is desirable for multimedia content analysis systems to handle various formats of data and to serve varying user needs while presenting a simple and consistent user interface. In this paper, we present a research system for searching and browsing spoken communications. The system uses core technologies such as speaker segmentation, automatic speech recognition, transcription alignment, keyword extraction and speech indexing and retrieval to make spoken communications easy to navigate. The main focus is on telephone conversations and teleconferences with comparisons to broadcast news.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="M92-1007">
+<Title>Relevant Messages Irrelevant Messages Marginal Messages Required Templates</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+GOALS
+</SectionTitle>
+<Paragraph position="0"> Our mid-term to long-term goals in data extraction from text for the next one to three years are to achieve muc h greater portability to new languages and new domains, greater robustness, and greater scalability . The nove l aspect to our approach is the use of learning algorithms and probabilistic models to learn the domain-specific an d language-specific knowledge necessary for a new domain and new language. Learning algorithms should contribute to scalability by making it feasible to deal with domains where it would be infeasible to invest sufficient huma n effort to bring a system up. Probabilistic models can contribute to robustness by allowing for words, constructions, and forms not anticipated ahead of time and by looking for the most likely interpretation in context.</Paragraph>
+<Paragraph position="1"> We began this research agenda approximately two years ago. During the last twelve months, we have focused much of our effort on porting our data extraction system (PLUM) to a new language (Japanese) and to two ne w domains. During the next twelve months, we anticipate porting PLUM to two or three additional domains.</Paragraph>
+<Paragraph position="2"> For any group to participate in MUC is a significant investment. To be consistent with our mid-term and long term goals, we imposed the following constraints on ourselves in participating in MUC-4 : We would focus our effort on semi-automatically acquired knowledge.</Paragraph>
+<Paragraph position="3"> We would minimize effort on handcrafted knowledge, and most generally.</Paragraph>
+<Paragraph position="4"> We would minimize MUC-specific effort.</Paragraph>
+<Paragraph position="5"> Though the three self-imposed constraints meant our overall scores on the objective evaluation were not as high as if we had focused on handtuning and handcrafting the knowledge bases, MUC-4 became a vehicle for evaluating our progress on the long-term goals.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J89-3003">
+<Title>NON-SINGULAR CONCEPTS IN NATURAL LANGUAGE DISCOURSE</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+NON-SINGULAR CONCEPTS IN NATURAL LANGUAGE DISCOURSE
+</SectionTitle>
+<Paragraph position="0"> Burnaby, British Columbia VSA IS6 Canada We introduce a new approach to representing and manipulating various types of non-singular concepts in natural language discourse. The representation we describe is based on a partially ordered structure of levels in which the objects of the same relative singularity are assigned to the same level. Our choice of the representation has been motivated by the following main concerns: I. The representation should systematically distinguish between those language terms that are used to refer to objects of different singularity, that is, those classified within different but related levels of the model; 2. The representation should capture certain types of inter-sentential dependencies in discourse, most notably anaphoric-type cohesive links; 3. Finally, the representation should serve as a basis for defining a formal semantics of discourse paragraphs that would allow for capturing the exact truth conditions of sentences involving non-singular terms, and for computing interlevel inferences. In this paper we discuss (I) and (2) only.</Paragraph>
+<Paragraph position="1"> (3) is currently under investigation and will be the topic of a forthcoming article. We believe that our approach promotes computational feasibility, because we avoid the identification of general terms, like &amp;quot;temperature,&amp;quot; &amp;quot;water,&amp;quot; etc., with intensions, that is, functions over possible worlds. In our theory, the concept of non-singularity has a local (often subjective) character.</Paragraph>
+</Section>
+</Paper>
+

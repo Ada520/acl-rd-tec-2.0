@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P01-1024">
+<Title>Topological Dependency Trees: A Constraint-Based Account of Linear Precedence</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe a new framework for dependency grammar, with a modular decomposition of immediate dependency and linear precedence. Our approach distinguishes two orthogonal yet mutually constraining structures: a syntactic dependency tree and a topological dependency tree. The syntax tree is non-projective and even non-ordered, while the topological tree is projective and partially ordered.</Paragraph>
+</Section>
+</Paper>
+

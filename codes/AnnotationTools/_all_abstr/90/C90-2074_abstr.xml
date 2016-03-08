@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-2074">
+<Title>Morphological Analysis and Synthesis by Automated Discovery and Acquisition of Linguistic Rules</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> ':\[his paper describes a rule-based machine learning approach to morphological processing in the system called XMAS. XMAS discovers and acquires linguistic rules from examples of morphological combinations and accomplishes the morphological analysis and synthesis by applying the rules. This approach is independent of languages, saves time and effort for development and maintenance, and takes small lexicon space.</Paragraph>
+<Paragraph position="1"> A Korean version of XMAS is effectively working in the English-Korean machine translation system KSHALT.</Paragraph>
+</Section>
+</Paper>
+

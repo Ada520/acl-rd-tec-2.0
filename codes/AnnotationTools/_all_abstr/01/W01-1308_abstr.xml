@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W01-1308">
+<Title>Unifying TENSE, ASPECT and MODALITY across languages</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper computes the semantic representation of while as the pragmatically most relevant one which speakers select from a variety of grammatical constructions in which while may occur in current English. The semantic representation of while provides the condition for translating it into the adequate German equivalent. This computation is implemented in a unification-based formalism and may thus be applied in a machine translation system.</Paragraph>
+</Section>
+</Paper>
+

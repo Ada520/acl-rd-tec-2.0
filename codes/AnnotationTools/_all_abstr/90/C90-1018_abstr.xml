@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-1018">
+<Title>Semiautomatic Interactive Multilingual Style Analysis (SIMSA)</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+3 Recent Approaches
+2 Introduction
+Within ESPRIT II - Project 2315,
+</SectionTitle>
+<Paragraph position="0"> Translator's Workbench (TWB), a tool is under development which checks stylistic markers of texts. According to the goals of Translator's Workbench as an integrated multilingual toolkit, the concept of the style checker includes multilinguality, and it uses other tools of Translator's Workbench such as parser and lexicon, which provide SIMSA with more power than comparable approaches.</Paragraph>
+<Paragraph position="1"> Style as it is understood in SIMSA is not reduced to simply a personal impression.</Paragraph>
+<Paragraph position="2"> Its description is not restricted to informal classifications such as &amp;quot;good style&amp;quot;, &amp;quot;style like the style of author x&amp;quot;. Within a functional, group based definition, style is the selection of certain words, phrases, sentences or structures out of a set of grammatically correct words, phrases, sentences or structures. These linguistic features in which texts can differ stylistically are called style markers. Group based means that these style markers have equal characteristics within a certain group of texts.</Paragraph>
+<Paragraph position="3"> The stylistic characteristics of a group of texts, their values of style markers, can be set as a norm. Thus, different norms can be Similar approaches (but within different contexts) have been done during the last decade. Beside approaches translating style from one language to another via abstract universal categories like text complexity and readability (Dimarco/Hirst 1988), two approaches to style checking, Writer's Workbench and EPISTLE, should be mentioned.</Paragraph>
+<Paragraph position="4"> Writer's Workbench (Cherry 1983 et al.) has influenced the development of commercial software such as Rightwriter, PC-Style and Grammatik. It does style critiquing, but it cannot do critiquing that reqmres a parser output, such as noun phrase complexity. Embedded in EPISTLE (Heidorn et al. 1982) is a style checker which uses the parse tree of the grammar check. So, EPISTLE covers a wider range of style markers. Nevertheless, stylistic critiques have to be adapted to the field of application.</Paragraph>
+<Paragraph position="5"> Compared with Writer's Workbench and EPISTLE, SIMSA is a more universal approach. Its main feature is multilinguality. The same parser can be used for different languages (cf. Hellwig 1988), which allows to use the same format of parser output for the style analysis of different languages. Additionally, style markers are more universal and can be</Paragraph>
+<Paragraph position="7"> used in different languages too, as well as in different kinds of text. The adaptation to a language or a special kind of text will be done automatically if a sufficiently large text corpus is put in for the setting of a new norm (&amp;quot;Sufficiently large&amp;quot; means sufficient for significant values concerning each feature; therefore &amp;quot;sufficiently large&amp;quot; depends on the selected features).</Paragraph>
+</Section>
+</Paper>
+

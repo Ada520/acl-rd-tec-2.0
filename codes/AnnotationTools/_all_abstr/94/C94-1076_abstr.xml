@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C94-1076">
+<Title>Minimal Change and Bounded Incremental Parsing Mats Wirdn</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Ideally, the time that an incremental algorithm uses to process a change should be a fimction of the size of the change rather than, say, the size of the entire current input. Based on a formalization of &amp;quot;the set of things changed&amp;quot; by an increInental modification, this paper investigates how and to what extent it is possibh~' to give such a guarantee for a chart-ba.se(l parsing frmnework and discusses the general utility of a tninlmality notion in incremental processing)</Paragraph>
+</Section>
+</Paper>
+

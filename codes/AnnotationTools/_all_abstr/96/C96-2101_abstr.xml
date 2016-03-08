@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-2101">
+<Title>Goal Formulation based on Communicative Principles</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The paper presents the Constructive Dialogue Model as a new approach to formulate system goals in intelligent dialogue systems. The departure point is in general communicative principles which constrain cooperative and coherent communication. Dialogue participants are engaged in a cooperative task whereby a model of the joint purpose is constructed. Contributions are planned as reactions to the changing context, and no dialogue grammar is needed.</Paragraph>
+<Paragraph position="1"> Also speech act classification is abandoned, in favour of contextual reasoning and rationality considerations.</Paragraph>
+</Section>
+</Paper>
+

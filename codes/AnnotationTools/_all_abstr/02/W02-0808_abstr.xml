@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-0808">
+<Title>Sense Discrimination with Parallel Corpora</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes an experiment that uses translation equivalents derived from parallel corpora to determine sense distinctions that can be used for automatic sense-tagging and other disambiguation tasks. Our results show that sense distinctions derived from cross-lingual information are at least as reliable as those made by human annotators. Because our approach is fully automated through all its steps, it could provide means to obtain large samples of &amp;quot;sense-tagged&amp;quot; data without the high cost of human annotation.</Paragraph>
+</Section>
+</Paper>
+

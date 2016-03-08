@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-0904">
+<Title></Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we briefly and informally illustrate, using a few annotated examples, the static and dynamic knowledge resources of ontological semantics. We then present the main motivations and desiderata of our approach and then discuss issues related to making ontological-semantic applications feasible through the judicious stepwise enhancement of static and dynamic knowledge sources while at all times maintaining a working system.</Paragraph>
+</Section>
+</Paper>
+

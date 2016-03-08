@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-2201">
+<Title>A Connectionist Approach to Prepositional Phrase Attachment for Real World Texts</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Ill this paper we describe a neural network-based approach to prepositional phrase attachment disambiguation for real world texts. Although the use of semantic classes in this task seems intuitively to be adequate, methods employed to date have not used them very effectively. Causes of their poor results are discussed. Our model, which uses only classes, scores appreciably better than the other class-based methods which have been tested on the Wall Street Journal corpus. To date, the best result obtained using only classes was a score of 79.1%; we obtained an accuracy score of 86.8%. This score is among the best reported in the literature using this corpus.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P95-1038">
+<Title>Evaluation of Semantic Clusters</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Semantic clusters of a domain form an important feature that can be useful for performing syntactic and semantic disambiguation. Several attempts have been made to extract the semantic clusters of a domain by probabilistic or taxonomic techniques. However, not much progress has been made in evaluating the obtained semantic clusters. This paper focuses on an evaluation mechanism that can be used to evaluate semantic clusters produced by a system against those provided by human experts.</Paragraph>
+</Section>
+</Paper>
+

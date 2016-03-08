@@ -1,0 +1,26 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-0820">
+<Title>The upv-unige-CIAOSENSO WSD System</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The CIAOSENSO WSD system is based on Conceptual Density, WordNet Domains and frequences of WordNet senses. This paper describes the upv-unige-CIAOSENSO WSD system, we participated in the english all-word task with, and its versions used for the english lexical sample and the Word-Net gloss disambiguation tasks. In the last an additional goal was to check if the disambiguation of glosses, that has been performed during our tests on the SemCor corpus, was done properly or not.</Paragraph>
+<Paragraph position="1"> Introduction The CIAOSENSO WSD system is an unsupervised system based on Conceptual Density (Agirre and Rigau, 1995), frequencies of WordNet senses, and</Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+WordNet Domains (Magnini and Cavagli`a, 2000).
+</SectionTitle>
+<Paragraph position="0"> Conceptual Density (CD) is a measure of the correlation among the sense of a given word and its context. The foundation of this measure is the Conceptual Distance, defined as the length of the shortest path which connects two concepts in a hierarchical semantic net. The starting point for our work was the CD formula of Agirre and Rigau (Agirre and Rigau, 1995), which compares areas of subhierarchies. The noun sense disambiguation in the CIAOSENSO WSD system is performed by means of a formula combining Conceptual Density with WordNet sense frequency (Rosso et al., 2003).</Paragraph>
+<Paragraph position="1"> WordNet Domains is an extension of WordNet 1.6, developed at ITC-irst1, where each synset has been annotated with at least one domain label, selected from a set of about two hundred labels hierarchically organized (Magnini and Cavagli`a, 2000). Since the lexical resource used by the upv-unige-CIAOSENSO WSD system is WordNet 2.0 (WN2.0), it has been necessary to map the synsets of WordNet Domains from version 1.6 to the version 2.0. This has been done in a fully automated way, by using the WordNet mappings for nouns and</Paragraph>
+</Section>
+<Section position="2" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+Italy
+</SectionTitle>
+<Paragraph position="0"> verbs, and by checking the similarity of synset terms and glosses for adjectives and adverbs. Some domains have also been assigned by hand in some cases, when necessary.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

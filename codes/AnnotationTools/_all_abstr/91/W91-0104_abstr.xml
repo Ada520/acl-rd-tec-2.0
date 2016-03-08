@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W91-0104">
+<Title>Inherently Reversible Grammars, Logic Programming and Computability</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> This paper attempts to clarify two distinct notions of &amp;quot;reversibility&amp;quot;: (i) Uniformity of implementation of parsing and generation, and (it) reversibility as an inherent (or intrinsic) property of grammars. On the one hand, we explain why grammars specified as definite programs (or the various related &amp;quot;unification grammars&amp;quot;) lead to uniformity of implementation. On the other hand, we define different intrinsic reversibility properties for such grammars--the most important being finite reversibility, which says that both parsing and generation are finitely enumerable (see text)-- and give examples and counter-examples of grammars which possess or do not possess these intrinsic properties.</Paragraph>
+<Paragraph position="1"> We also show that, under a certain &amp;quot;moderation&amp;quot; condition on linguistic description, finite enumerability of parsing is equivalent to finite enumerability of generation.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-1316">
+<Title>A Machine Learning Approach to Answering Questions for :Reading Comprehension Tests</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we report results on answering questions for the reading comprehension task, using a machine learning approach. We evaluated our approach on the Remedia data set, a common data set used in several recent papers on the reading comprehension task. Our learning approach achieves accuracy competitive to previous approaches that rely on handcrafted, deterministic rules and algorithms.</Paragraph>
+<Paragraph position="1"> To the best of our knowledge, this is the first work that reports that the use of a machine learning approach achieves competitive results on answering questions for reading comprehension tests.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P02-1049">
+<Title>What's the Trouble: Automatically Identifying Problematic Dialogues in DARPA Communicator Dialogue Systems</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Spoken dialogue systems promise ef cient and natural access to information services from any phone. Recently, spoken dialogue systems for widely used applications such as email, travel information, and customer care have moved from research labs into commercial use. These applications can receive millions of calls a month. This huge amount of spoken dialogue data has led to a need for fully automatic methods for selecting a subset of caller dialogues that are most likely to be useful for further system improvement, to be stored, transcribed and further analyzed. This paper reports results on automatically training a Problematic Dialogue Identi er to classify problematic human-computer dialogues using a corpus of 1242 DARPA Communicator dialogues in the travel planning domain. We show that using fully automatic features we can identify classes of problematic dialogues with accuracies from 67% to 89%.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1204">
+<Title>Deep Linguistic Analysis for the Accurate Identification of Predicate-Argument Relations</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper evaluates the accuracy of HPSG parsing in terms of the identification of predicate-argument relations. We could directly compare the output of HPSG parsing with Prop-Bank annotations, by assuming a unique mapping from HPSG semantic representation into PropBank annotation. Even though PropBank was not used for the training of a disambiguation model, an HPSG parser achieved the accuracy competitive with existing studies on the task of identifying PropBank annotations.</Paragraph>
+</Section>
+</Paper>
+

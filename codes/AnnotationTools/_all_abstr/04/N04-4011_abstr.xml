@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N04-4011">
+<Title>Performance Evaluation and Error Analysis for Multimodal Reference Resolution in a Conversation System</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Multimodal reference resolution is a process that automatically identifies what users refer to during multimodal human-machine conversation. Given the substantial work on multimodal reference resolution; it is important to evaluate the current state of the art, understand the limitations, and identify directions for future improvement. We conducted a series of user studies to evaluate the capability of reference resolution in a multimodal conversation system. This paper analyzes the main error sources during real-time human-machine interaction and presents key strategies for designing robust multimodal reference resolution algorithms.</Paragraph>
+</Section>
+</Paper>
+

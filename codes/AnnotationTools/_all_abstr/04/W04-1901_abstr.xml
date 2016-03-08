@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-1901">
+<Title>The Hinoki Treebank: Working Toward Text Understanding</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we describe the construction of a new Japanese lexical resource: the Hinoki treebank.</Paragraph>
+<Paragraph position="1"> The treebank is built from dictionary de nition sentences, and uses an HPSG based Japanese grammar to encode the syntactic and semantic information.</Paragraph>
+<Paragraph position="2"> We show how this treebank can be used to extract thesaurus information from de nition sentences in a language-neutral way using minimal recursion semantics. null</Paragraph>
+</Section>
+</Paper>
+

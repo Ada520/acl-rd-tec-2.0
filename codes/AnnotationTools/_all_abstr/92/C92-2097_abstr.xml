@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C92-2097">
+<Title>Cooperation between Transfer and Analysis in Example-Based Framework</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+Transfer-Driven Machine Translation (TDMT) is
+</SectionTitle>
+<Paragraph position="0"> presented as a method which drives the translation processes according to the nature of the input. In TDMT, transfer knowledge is the central knowledge of translation, and various kinds aml levels of knowledge are cooperatively applied to input sentences. TDMT effectively utilizes an example-based framework for transfer and analysis knowledge. A consistent framework of examples makes the cooperation between transfer and analysis effective, and efficient translation is achieved. The TDMT prototype system, which translates Japanese spoken dialogs into English, has shown great promise.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P04-1050">
+<Title>Evaluating Centering-based metrics of coherence for text structuring using a reliably annotated corpus</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We use a reliably annotated corpus to compare metrics of coherence based on Centering Theory with respect to their potential usefulness for text structuring in natural language generation.</Paragraph>
+<Paragraph position="1"> Previous corpus-based evaluations of the coherence of text according to Centering did not compare the coherence of the chosen text structure with that of the possible alternatives. A corpus-based methodology is presented which distinguishes between Centering-based metrics taking these alternatives into account, and represents therefore a more appropriate way to evaluate Centering from a text structuring perspective.</Paragraph>
+</Section>
+</Paper>
+

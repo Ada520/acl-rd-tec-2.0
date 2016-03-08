@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-0703">
+<Title>Question Pre-Processing in a QA System on Internet Discussion Groups</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper proposes methods to pre-process questions in the postings before a QA system can find answers in a discussion group in the Internet.</Paragraph>
+<Paragraph position="1"> Pre-processing includes garbage text removal and question segmentation.</Paragraph>
+<Paragraph position="2"> Garbage keywords are collected and different length thresholds are assigned to them for garbage text identification.</Paragraph>
+<Paragraph position="3"> Interrogative forms and question types are used to segment questions. The best performance on the test set achieves 92.57% accuracy in garbage text removal and 85.87% accuracy in question segmentation, respectively.</Paragraph>
+</Section>
+</Paper>
+

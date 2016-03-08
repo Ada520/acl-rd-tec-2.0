@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W99-0614">
+<Title>Hybrid Disambiguation of Prepositional Phrase Attachment and Interpretation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, a hybrid disambiguation method for the prepositional phrase (PP) attachment and interpretation problem is presented. 1 The data needed, semantic PP interpretation rules and an annotated corpus, is described first.</Paragraph>
+<Paragraph position="1"> Then the three major steps of the disambiguation method are: explained. Cross-validated evaluation results', for German (88.6-94.4% correct for binary attachment ambiguities, 83.392.5% correct for interpretation ambiguities) show that disambiguation methods combining interpretation! rules and statistical methods might yield significantly better results than nonhybrid disambiguation methods.</Paragraph>
+</Section>
+</Paper>
+

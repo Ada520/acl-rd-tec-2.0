@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-2141">
+<Title>Local context templates for Chinese constituent boundary prediction</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract:
+</SectionTitle>
+<Paragraph position="0"> in this paper, we proposed a shallow syntactic knowledge description: constituent boundary representation and its simple and efficient prediction algorithm, based on different local context templates learned fiom the annotated corpus. An open test on 2780 Chinese real text sentences showed the satisfying results: 94%(92%) precision for the words with multiple (single) boundary tag output.</Paragraph>
+<Paragraph position="1"> llt simplified the complex constituent levels in parse trees and only kept the boundary information of every word in different constituents. Then, we developed a simple and efficient constituent boundary prediction algorithm, based on different local context templates learned flom the annotated corpus. An open test on 2780 Chinese real text sentences showed the satisfying results: 94%(92%) precision for lhe words with multiple (single) boundary lag output.</Paragraph>
+<Paragraph position="2"> I. Introduction Research on syntactic parsing has been a focus in natural language processing for a long lime. As the developlnent of corpus linguistics, many statistics-based parsers were proposed, such as Magerman(1995)'s statistical decision tree parser, Collins(1996)'s bigram dependency model parser, 1;/atnaparkhi(1997)'s maximum entropy model parser. All of lhem fried to get the complete parse trees of the input sentences, based on the statistical data extracted l'rom an annotated corpus. The besl parsing accuracy of these parsers was about 87%.</Paragraph>
+<Paragraph position="3"> Realizing the difficulties o1' complete parsing, many researches turned to explore the partial parsing techniques. Church(1988) proposed a silnple stochastic technique for lecognizing the non-recursive base noun phrases in English.</Paragraph>
+<Paragraph position="4"> \;outilaimen(1993) designed an English noun phrase recognition tool --~ NPTbol. Abney(1997) applied both rule-based and statistics-based approaches for parsing chunks in English. Due to the advantages of simplicity and robustness, these systems can be acted as good preprocessors for the further colnplete parsing.</Paragraph>
+<Paragraph position="5"> In tiffs paper, we will introduce our partial parsing aPl)roach for the Chinese language. We first proposed a shallow syntactic knowledge description: constituent boundary representation.</Paragraph>
+</Section>
+</Paper>
+

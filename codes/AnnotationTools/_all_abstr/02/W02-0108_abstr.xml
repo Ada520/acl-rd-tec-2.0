@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-0108">
+<Title>Using GATE as an Environment for Teaching NLP</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we argue that the GATE architecture and visual development environment can be used as an effective tool for teaching language engineering and computational linguistics.</Paragraph>
+<Paragraph position="1"> Since GATE comes with a customisable and extendable set of components, it allows students to get hands-on experience with building NLP applications. GATE also has tools for corpus annotation and performance evaluation, so students can go through the entire application development process within its graphical development environment. Finally, it offers comprehensive Unicode-compliant multi-lingual support, thus allowing students to create components for languages other than English. Unlike other NLP teaching tools which were designed specifically and only for this purpose, GATE is a system developed for and used actively in language engineering research. This unique duality allows students to contribute to research projects and gain skills in embedding HLT in practical applications.</Paragraph>
+</Section>
+</Paper>
+

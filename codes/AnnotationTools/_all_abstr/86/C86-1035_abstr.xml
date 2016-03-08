@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C86-1035">
+<Title>Reconnaissance-Attack Parsing*</Title>
+<Section position="2" start_page="159" end_page="160" type="abstr">
+<SectionTitle>
+S-&gt;NPVP NP-&gt;ARTN VP-&gt;VS
+</SectionTitle>
+<Paragraph position="0"> (if taken by themselves) imply that if a sentence contains two or more verbs, each noninitial one must be in its own embedded clause. From this it can be deduced that there can be only one main verb, but this information (which figures crucially in the definition of a legal ordination configuration) is not represented in an immediately accessible form. An added complication is represented by the fact that while arbitrary proper subsets of a set of PS-rules indicate what is PERMITTED, there is no way except from consideration of the grammar as a whole to determine what is PROHIBITED.</Paragraph>
+<Paragraph position="1"> Our approach facilitates the use of information at stages in the parsing process where that information is most useful, which has consequences not just for syntactic parsing alone but in integrating the syntactic and semantic aspects of the understanding process. It has long been recognized that some semantic decisions can be made before an entire syntactic parse is available, and that the results of these semantic decisions can be used to drive further results in the syntactic parse. It is further recognized that such early semantic processing makes good sense computationally, and some current systems make good use of this principle. We take this idea one step further by allowing the parser to anticipate on the basis of very rudimentary and low level cues many structural characteristics of the input which traditional approaches cannot recognize until substantial structure building has been done. For example, in the R-A model described in Kac 1981, it is possible to delineate the boundaries of complex NP's before their precise constituency is known.</Paragraph>
+<Paragraph position="2"> As noted earlier, R-A parsing is in principle consistent with a variety of assumptions about syntactic representation, and is not  rigidly tied to the assumption that the end result of syntactic parsing is a traditional phrase structure tree. (See Kac and Manaster-Ramer 1986 for discussion.) The goal of parsing is to provide an input to tile semantic component, and such an input can m principle take a variety of forms (such as a representation of predicate-argument structure).</Paragraph>
+<Paragraph position="3"> It is worth pointing out, if it is not already obvious, that we see the central issues as linguistic ones first and computational ones second in the sense that the kind of approach which seems to us to hold out the most promise is one in which efficient parsing is the product largely of an adequate qualitative picture of linguistic structure. This picture tells us two crucial things: what information there is in the input to be exploited, and when it first becomes available. We hope to have given at least a preliminary indication of how such a picture can contribute to insightful solutions to interesting problems in natural language processing.</Paragraph>
+<Section position="1" start_page="160" end_page="160" type="sub_section">
+<SectionTitle>
+Notes
+</SectionTitle>
+<Paragraph position="0"> *The listing of authors is strictly alphabetical.</Paragraph>
+<Paragraph position="1"> 1. On the other hand, a compromise model in which some features of R-A parsing are exploited has some attractions. For example, suppression of the optional that-complementizer in sentences like I believe (that) Mary likes Bill slightly increases comprehension difficulty, a phenomenon which can be naturally interpreted as a short-lived garden path. One possible way to distinguish between effects such as the one just mentioned and garden pathing from which there is evidently no possibility of recovery is to allow some guess-and-back-up processing in the reeonaissance phase and to attribute short-lived effects to garden pathing prior to the onset of tbe structure building (attack) phase. 2. We assume that lexical lookup for the entire sentence is done before any syntactic processing takes place. This yields the advantage of increased modularity, as compared to a system in which lexical lookup is incorporated into the syntax; it is thus possible to make modifications and revisions in the part of the parser which deals with CLAR without the need for corresponding revisions in other modules.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

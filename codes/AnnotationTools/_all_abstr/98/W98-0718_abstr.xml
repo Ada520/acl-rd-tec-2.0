@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-0718">
+<Title>Usage of WordNet in Natural Language Generation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> WordNet has rarely been applied to natural language generation, despite of its wide application in other fields. In this paper, we address three issues in the usage of WordNet in generation: adapting a general lexicon like WordNet to a specific application domain, how the information in WordNet can be used in generation, and augmenting WordNet with other types of knowledge that are helpful for generation. We propose a three step procedure to tailor Word-Net to a specific domain, and carried out experiments on a basketball corpus (1,015 game reports, 1.TMB).</Paragraph>
+</Section>
+</Paper>
+

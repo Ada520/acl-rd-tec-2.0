@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-1310">
+<Title>References</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe our work in progress on natural language analysis in medical question-answering in the context of a broader medical text-retrieval project. We analyze the limitations in the medical domain of the technologies that have been developed for general question-answering systems, and describe an alternative approach whose organizing principle is the identification of semantic roles in both question and answer texts that correspond to the fields of PICO format.</Paragraph>
+</Section>
+</Paper>
+

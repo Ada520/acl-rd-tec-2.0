@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P95-1056">
+<Title>A Minimalist Head-Corner Parser</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In the Minimalist Program (Chomsky, 1992) it is assumed that there are different types of projections (lexical and functional) and therefore different types of heads. This paper explains why functional heads are not treated as head-corners by the minirealist head-corner parser described here.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W05-0613">
+<Title>Probabilistic Head-Driven Parsing for Discourse Structure</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe a data-driven approach to building interpretable discourse structures for appointment scheduling dialogues. We represent discourse structures as headed trees and model them with probabilistic head-driven parsing techniques. We show that dialogue-based features regarding turn-taking and domain speci c goals have a large positive impact on performance. Our best model achieves an f-score of 43.2% for labelled discourse relations and 67.9% for unlabelled ones, signi cantly beating a right-branching base-line that uses the most frequent relations.</Paragraph>
+</Section>
+</Paper>
+

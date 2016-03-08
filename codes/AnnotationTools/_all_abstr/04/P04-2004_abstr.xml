@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P04-2004">
+<Title>Temporal Context: Applications and Implications for Computational Linguistics</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes several ongoing projects that are united by the theme of changes in lexical use over time. We show that paying attention to a document's temporal context can lead to improvements in information retrieval and text categorization. We also explore a potential application in document clustering that is based upon different types of lexical changes.</Paragraph>
+</Section>
+</Paper>
+

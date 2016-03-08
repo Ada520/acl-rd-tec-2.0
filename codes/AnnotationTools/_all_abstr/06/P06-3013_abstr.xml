@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P06-3013">
+<Title>Extraction of Tree Adjoining Grammars from a Treebank for Korean</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present the implementation of a system which extracts not only lexicalized grammars but also feature-based lexicalized grammars from Korean Sejong Treebank.</Paragraph>
+<Paragraph position="1"> We report on some practical experiments where we extract TAG grammars and tree schemata. Above all, full-scale syntactic tags and well-formed morphological analysis in Sejong Treebank allow us to extract syntactic features. In addition, we modify Treebank for extracting lexicalized grammars and convert lexicalized grammars into tree schemata to resolve limited lexical coverage problem of extracted lexicalized grammars.</Paragraph>
+</Section>
+</Paper>
+

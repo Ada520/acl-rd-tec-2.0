@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P93-1036">
+<Title>A Competition-Ba sed Explanation of Syntactic Attachment Preferences and Garden Path Phenomena</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a massively parallel parser that predicts critical attachment behaviors of the human sentence processor, without the use of explicit preference heuristics or revision strategies. The processing of a syntactic ambiguity is modeled as an active, distributed competition among the potential attachments for a phrase. Computationally motivated constraints on the competitive mechanism provide a principled and uniform account of a range of human attachment preferences and garden path phenolnena. null</Paragraph>
+</Section>
+</Paper>
+

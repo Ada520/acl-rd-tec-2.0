@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="I05-2001">
+<Title>A Classification-based Algorithm for Consistency Check of Part-of-Speech Tagging for Chinese Corpora</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Ensuring consistency of Part-of-Speech (POS) tagging plays an important role in constructing high-quality Chinese corpora. After analyzing the POS tagging of multi-category words in large-scale corpora, we propose a novel consistency check method of POS tagging in this paper. Our method builds a vector model of the context of multi-category words, and uses the CZ-NN algorithm to classify context vectors constructed from POS tagging sequences and judge their consistency. The experimental results indicate that the proposed method is feasible and effective.</Paragraph>
+</Section>
+</Paper>
+

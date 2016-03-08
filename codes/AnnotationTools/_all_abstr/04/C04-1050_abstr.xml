@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1050">
+<Title>Improving Japanese Zero Pronoun Resolution by Global Word Sense Disambiguation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper proposes unsupervised word sense disambiguation based on automatically constructed case frames and its incorporation into our zero pronoun resolution system. The word sense disambiguation is applied to verbs and nouns. We consider that case frames define verb senses and semantic features in a thesaurus define noun senses, respectively, and perform sense disambiguation by selecting them based on case analysis. In addition, according to the one sense per discourse heuristic, the word sense disambiguation results are cached and applied globally to the subsequent words.</Paragraph>
+<Paragraph position="1"> We integrated this global word sense disambiguation into our zero pronoun resolution system, and conducted experiments of zero pronoun resolution on two different domain corpora. Both of the experimental results indicated the effectiveness of our approach.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P95-1050">
+<Title>Identifying Word Translations in Non-Parallel Texts</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Common algorithms for sentence and word-alignment allow the automatic identification of word translations from paxalhl texts. This study suggests that the identification of word translations should also be possible with non-paxMlel and even unrelated texts. The method proposed is based on the assumption that there is a correlation between the patterns of word co-occurrences in texts of different languages.</Paragraph>
+</Section>
+</Paper>
+

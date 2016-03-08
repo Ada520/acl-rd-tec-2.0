@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0211">
+<Title>Towards a Bootstrapping Framework for Corpus Semantic Tagging</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Availability of source information for semantic tagging (or disambignating) words in corpora is problematic. A framework to produce a semantically tagged corpus in a domain specific perspective using as source a general purpose taxonomy (i.e. Word-Net) is here proposed. The tag set is derived from higher level Wordnet synsets. A methodology aiming to support semantic bootstrapping in a NLP application is defined. Results from large scale experiments are reported 1.</Paragraph>
+</Section>
+</Paper>
+

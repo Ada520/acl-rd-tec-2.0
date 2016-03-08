@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A00-3002">
+<Title>Efficient parsing strategies for syntactic analysis of closed captions</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present an efficient multi-level chart parser that was designed for syntactic analysis of closed captions (subtitles) in a real-time Machine Translation (MT) system. In order to achieve high parsing speed, we divided an existing English grammar into multiple levels. The parser proceeds in stages. At each stage, rules corresponding to only one level are used. A constituent pruning step is added between levels to insure that constituents not likely to be part of the final parse are removed. This results in a significant parse time and ambiguity reduction. Since the domain is unrestricted, out-of-coverage sentences are to be expected and the parser might not produce a single analysis spanning the whole input. Despite the incomplete parsing strategy and the radical pruning, the initial evaluation results show that the loss of parsing accuracy is acceptable. The parsing time favorable compares with a Tomita parser and a chart parser parsing time when run on the same grammar and lexicon.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="I05-3012">
+<Title>Integrating Collocation Features in Chinese Word Sense Disambiguation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The selection of features is critical in providing discriminative information for classifiers in Word Sense Disambiguation (WSD). Uninformative features will degrade the performance of classifiers. Based on the strong evidence that an ambiguous word expresses a unique sense in a given collocation, this paper reports our experiments on automatic WSD using collocation as local features based on the corpus extracted from People's Daily News (PDN) as well as the standard SENSEVAL-3 data set. Using the Naive Bayes classifier as our core algorithm, we have implemented a classifier using a feature set combining both local collocation features and topical features. The average precision on the PDN corpus has 3.2% improvement compared to 81.5% of the baseline system where collocation features are not considered. For the SENSEVAL-3 data, we have reached the precision rate of 37.6% by integrating collocation features into contextual features, to achieve 37% improvement over 26.7% of precision in the baseline system. Our experiments have shown that collocation features can be used to reduce the size of human tagged corpus.</Paragraph>
+</Section>
+</Paper>
+

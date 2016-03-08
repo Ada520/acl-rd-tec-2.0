@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-0910">
+<Title>Paraphrastic Grammars</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Arguably, grammars which associate natural language expressions not only with a syntactic but also with a semantic representation, should do so in a way that capture paraphrasing relations between sentences whose core semantics are equivalent. Yet existing semantic grammars fail to do so. In this paper, we describe an ongoing project whose aim is the production of a &amp;quot;paraphrastic grammar&amp;quot; that is, a grammar which associates paraphrases with identical semantic representations. We begin by proposing a typology of paraphrases. We then show how this typology can be used to simultaneously guide the development of a grammar and of a testsuite designed to support the evaluation of this grammar.</Paragraph>
+</Section>
+</Paper>
+

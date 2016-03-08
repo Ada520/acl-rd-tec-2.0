@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W90-0103">
+<Title>A Connectionist Treatment of Grammar for Generation: Relying on Emergents</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Parallel Ireatment of syntactic considerations in generation promises quality and speed. Parallelism should be used not only for simultaneous processing of several sub-parts of the output, but even within single parts. If beth types of parallelism are used with incremental generation it becomes unnecessary to build up and manipulate representations of sentence structure-- the syntactic form of the output can be emergent.</Paragraph>
+<Paragraph position="1"> FIG is a structured conneetionist generator bulk in this way.</Paragraph>
+<Paragraph position="2"> Constructions and their constituents are represented in the same network which encodes world knowledge and lexical knowledge.</Paragraph>
+<Paragraph position="3"> Grammatical output results from synergy among many construetions simultaneously active at run-time. FIG incorporates new ways of handling constituency, word order and optional constituents; and simple ways to avoid the problems of instantiatien and binding. Syntactic knowledge is expressed in a simple, readable form; this representation straightforwardly defines parts of the network.</Paragraph>
+</Section>
+</Paper>
+

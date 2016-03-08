@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-2197">
+<Title>An Education and Research Tool for Computational Semantics</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes an interactive graphical environment for computational semantics. The system provides a teaching tool, a stand alone extendible grapher, and a library of algorithms together with test suites. The teaching tool allows users to work step by step through derivations of semantic representations, and to compare the properties of various semantic formalisms such as Intensional Logic, DRT, and Situation Semantics. The system is freely available on the Internet.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C94-1045">
+<Title>Manipulating human-oriented dictionaries with very simple tools</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> It is possible to manipulate real-size human-oriented dictionaries on a Macintosh by using only very simple tools. Our methodology has been applied in the construction of a l:rench-Fnglish-Malay dictionary. This dictionary has been obtained by &amp;quot;crossing&amp;quot; .~mi-aulomatically two bilingual dictionaries. &amp;quot;1&amp;quot;o revise Ihe dictionary, Its well Its to obtain a publisluilile paper forli/ aiid an on-line electronic fornl, we rise only I'M Microsoft Word , a specialized langliage for writing transcriptors and a small but powerful diclionary 1ool.</Paragraph>
+<Paragraph position="1"> Keyword IAnguistic tools, Transducers, l)ictionary managenmnt, I htman-oriented dictionaries.</Paragraph>
+<Paragraph position="2"> Introduction In collaboration with Univcrsity Sains Malaysia (USM), we are working on a French-F.nglish-Malay human-oriented dictionary (F'EM project) obtained by &amp;quot;crossing&amp;quot; French-lhiglish and lh~glish-Malay dictionaries.</Paragraph>
+<Paragraph position="3"> Taking into account the reluclanee of lexicographcrs to revise dictionaries through database interfaces (dB AS ElIl -&amp;quot;~&amp;quot; or 41) TM), we have developed a me th(xlology based on using only very simple lools. For editing, we use Word and its styling facility, because no editor of slructured document is available on the Macinlosh. For iinl~oriing and exporting, we use I/l', a simple specialized langulige for writing transcriptors, and transfonn between representations (normalized ASCII, I{TF, etc.). Finally, we have developed ALEX, a dictionary tool, io support the electronic form. The methods defined have been applied on the FEM dictionary. They concern Ihe correction of errors which can :lppears in a manually buill dictionary and the formatting o1&amp;quot; this dicliona,y. We inlmduee first in more dot,ills lira situation we face with the FEM project. We expose the goals we tend to reach. Then we gives our generic methods and their applications to the specific case of the I:EM dictionary.  I. Situation 1. Presentation  The FFM dictionary is composed of two pa,ts: a general one (12,000 entries) and a specific one for computer-science tenniuology (2,300 Icnns). Both paper and elcctmnic forms will be iuodnced by mid-94.</Paragraph>
+<Paragraph position="4"> We have initially received ASCII files obtained firslly by oplieal characters recognition and corrected manually in which the informalions of the French-Faiglish and l{nglish-Malay dictionaries have been crossed.</Paragraph>
+</Section>
+</Paper>
+

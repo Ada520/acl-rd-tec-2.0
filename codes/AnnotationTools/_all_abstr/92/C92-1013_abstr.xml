@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C92-1013">
+<Title>SYNCtlRONOUS TAGs AND FRENCtt PRONOMINAL CLITICS</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. Motivation
+</SectionTitle>
+<Paragraph position="0"> French pronominal clitics have 'been subject to numerous studies in both thexwetical and computational linguistics.</Paragraph>
+<Paragraph position="1"> We restrict here our discussion 1o syntactic properties of clitics and thus ignore most of their morphological, 2 phonological or binding properties , We show that they cannot be handled by existing TAG variants such as FOTAGs or MCTAGs (unless major cMnges are made to the existing French TAG grammar) but Ihut Synchronous TAGs provide an elegant and uncxpensive solution.</Paragraph>
+<Paragraph position="2"> 1.1. Some linguistic properties of French citrics French pronominal citrics fall into 6 groups: tbe nominative ones @'e, or~, iL..), the 1st, 2d person and reflexivc ones (se. hie..), the accusative ones (le, la..), the dative ones (lui. leur..) plus en and y which each forms a class on its own. They follow each other in a rigid order: nora &lt; refl &lt; ace &lt; dat &lt; y &lt;en, and are subject to numerous corcstrictions3: no identical l. It is also the basis of an interactive NLF' enviromnent (Paroubek et al. 1992). See Joshi 1987a and Schabes eta\].  1988 f~)r an introduction to TAGs.</Paragraph>
+<Paragraph position="3"> 2. French pronominal clitics are subject to obligatory sandhi phenolnena such ms liaisolI and elision.</Paragraph>
+<Paragraph position="4"> 3. &amp;quot;I'tmse properties can easily be described with a finite automaton; Cf Gross 1989.</Paragraph>
+</Section>
+</Paper>
+

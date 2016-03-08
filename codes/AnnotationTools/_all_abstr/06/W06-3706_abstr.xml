@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-3706">
+<Title>Converser(TM): Highly Interactive Speech-to-Speech Translation for Healthcare</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe a highly interactive system for bidirectional, broad-coverage spoken language communication in the healthcare area.</Paragraph>
+<Paragraph position="1"> The paper briefly reviews the system's interactive foundations, and then goes on to discuss in greater depth our Translation Shortcuts facility, which minimizes the need for interactive verification of sentences after they have been vetted. This facility also considerably speeds throughput while maintaining accuracy, and allows use by minimally literate patients for whom any mode of text entry might be difficult.</Paragraph>
+</Section>
+</Paper>
+

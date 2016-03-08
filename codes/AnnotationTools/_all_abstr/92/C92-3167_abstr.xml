@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C92-3167">
+<Title>Recognizing Topics through the Use of Interaction Structures</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A crucial problem in topic recognition is how to identify topic continuation. Domain knowledge is generally indispensable for this. How~ ever, knowledge-based approaches are impractical because not all domain knowledge needed for the identification can be prepared in advance.</Paragraph>
+<Paragraph position="1"> This paper presents a topic recognition model using dialogue interaction structures. The model can deal with both task-oriented and non-task-oriented dialogues in any language. Topic continuation is identified without domain knowledge because utterances of relevant topics are indicated by certain interaction structures. The model avoids the weak point of knowledge-based approaches. The model is validated by the result of a topic recognition experiment.</Paragraph>
+</Section>
+</Paper>
+

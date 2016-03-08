@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E03-1083">
+<Title></Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+References
+</SectionTitle>
+<Paragraph position="0"> 1 Benson, M. (1990). Collocations and general-purpose dictionaries. International Journal of Lexicography, 3(1), 23--35.</Paragraph>
+<Paragraph position="1"> 2 Peter F. Brown , Jennifer C. Lai , Robert L. Mercer, Aligning sentences in parallel corpora, Proceedings of the 29th annual meeting on Association for Computational Linguistics, p.169-176, June 18-21, 1991, Berkeley, California 3 Catizone R., Russell G., and Warwick S. (1989). Deriving Translation Data from Bilingual Texts. In Proceedings of the First International Lexical Acquisition Workshop, Detroit.</Paragraph>
+<Paragraph position="2"> 4 Church, K., Gale, W., Hanks, P., and Hindle, D. (1991). Using Statistics in Lexical Analysis. In Zernick, U. (ed.), Lexical Acquisition: Exploiting On-Line Resources to Build a Lexicon, Lawrence Erlbaum Associates, pp. 115--164. 5 Ted Dunning, Accurate methods for the statistics of surprise and coincidence, Computational Linguistics, v.19 n.1, March 1993 6 William A. Gale , Kenneth W. Church, A program for aligning sentences in bilingual corpora, Computational Linguistics, v.19 n.1, March 1993 7 Gross, G. (1996). Les expressions figes en franais. OPHRYS, Paris.</Paragraph>
+<Paragraph position="3"> 8 Pierre Isabelle , Marc Dymetman , George Foster , Jean-Marc Jutras , Elliott Macklovitch , Francois Perrault , Xiaobo Ren , Michel Simard, Translation analysis and translation automation, Proceedings of the 1993 conference of the Centre for Advanced Studies on Collaborative research: distributed computing, October 24-28, 1993, Toronto, Ontario, Canada 9 Laenzlinger, C. and Wehrli, E. (1991). Fips, un analyseur interactif pour le franais. TA informations, 32(2): 35--49.</Paragraph>
+<Paragraph position="4"> 10 Christopher D. Manning , Hinrich Schtze, Foundations of statistical natural language processing, MIT Press, Cambridge, MA, 1999 11 Melby A. (1982). A Bilingual Concordance System and its Use in Linguistic Studies. In Proceedings of the Eighth LACUS Forum, Columbia, SC, pp. 541--549.</Paragraph>
+<Paragraph position="5"> 12 Romary L. and Bonhomme P. (2000). Parallel alignment of structured documents. Vronis J. (Ed.). Parallel Text Processing. Dordrecht: Kluwer.</Paragraph>
+</Section>
+</Paper>
+

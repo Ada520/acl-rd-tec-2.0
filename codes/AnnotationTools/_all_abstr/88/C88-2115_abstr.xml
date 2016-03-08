@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C88-2115">
+<Title>Machine Translation: The Languages Network (versus the intermediate language.)</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Jonathan Slocmn /Slocum, 1985/ divides MT techniques from a linguistic point of view into three two-way perspectives which are not quite disjunct: &amp;quot;direct versus indirect; interlingua versus transfer; and local versus global scope.&amp;quot;.</Paragraph>
+<Paragraph position="1"> in this paper we present a research paradigm which, in fact, does not exactly match any of these perspectives: The Languages Network.</Paragraph>
+<Paragraph position="2"> In this paradigm each pair of languages will he treated as within a transfer application hut with tbe characteristics of indirect translation: analysis of the source language and synthesis of the target language are not totally dependent on each other.</Paragraph>
+<Paragraph position="3"> The proees must be split up into a large number of pieces which can be connected into a huge network performing MT from and into several languages.</Paragraph>
+<Paragraph position="4"> hnplementations of this paradigm are |)eing carried out by the author hy means of the translator generator SYGMART (see /Chauch6/, /Chauch~, 1974/ and /Rolf, 1985/), which pernfits the linguist to implement whatever he wants in the field of MT in an efficient way on a wide range of computers (tY=om Atari1040STf via SUN's to IBM</Paragraph>
+</Section>
+</Paper>
+

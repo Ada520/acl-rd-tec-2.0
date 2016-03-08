@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-2213">
+<Title>A Method for Relating Multiple Newspaper Articles by Using Graphs, and Its Application to Webcasting</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes methods for relating (threading) multiple newspaper articles, and for visualizing various characteristics of them by using a directed graph. A set of articles is represented by a set of word vectors, and the similarity between the vectors is then calculated. The graph is constructed from the similarity matrix. By applying some constraints on the chronological ordering of articles, an efficient threading algorithm that runs in O(n) time (where n is the number of articles) is obtained. The constructed graph is visualized with words that represent the topics of the threads, and words that represent new information in each article. The threading technique is suitable for Webcasting (push) applications. A threading server determines relationships among articles from various news sources, and creates files containing their threading information.</Paragraph>
+<Paragraph position="1"> This information is represented in eXtended Markup Language (XML), and can be visualized on most Web browsers. The XML-based representation and a current prototype are described in this paper.</Paragraph>
+</Section>
+</Paper>
+

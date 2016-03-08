@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-2157">
+<Title>A Description Language for Syntactically Annotated Corpora</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper introduces a description language for syntactically annotated corpora which allows for encoding both the syntactic annotation to a corpus and the queries to a syntactically annotated corpus.</Paragraph>
+<Paragraph position="1"> In terms of descriptive adequacy and computational efficiency, the description language is a compromise between script-like corpus query languages and high-level, typed unification-based grammar formalisms.</Paragraph>
+</Section>
+</Paper>
+

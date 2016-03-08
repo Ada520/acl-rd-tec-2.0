@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-1059">
+<Title>Corpus-dependent Association Thesauri for Information Retrieval</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a method for automatically generating an association thesaurus from a text corpus, and demonstrates its application to information retrieval. The thesaurus generation method .consists of extracting tenns and co-occurrence data from a corpus and analyzing the correlation between terms statistically. A new method for disambiguating the structure of compound nouns, which is a key component for term extraction, is also proposed. The automatically generated thesaurus is effectively used as a tool for exploring infonnation. A thesaurus navigator having novel functions such as term clustering, thesaurus overview, and zooming-in is proposed.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-2223">
+<Title>A Pattern-based Machine Translation System Extended by Example-based Processing</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we describe a machine translation system called PalmTree which uses the &amp;quot;patternbased&amp;quot; approach as a fundamental framework. The pure pattern-based translation framework has several issues. One is the performance due to using many rules in the parsing stage, and the other is inefficiency of usage of translation patterns due to the exact-matching. To overcome these problems, we describe several methods; pruning techniques for the former, and introduction of example-based processing for the latter.</Paragraph>
+</Section>
+</Paper>
+

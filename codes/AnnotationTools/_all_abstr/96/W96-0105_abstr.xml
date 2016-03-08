@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W96-0105">
+<Title>Selective Sampling of Effective Example Sentence Sets for Word Sense Disambiguation</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper proposes an efficient example selection method for example-based word sense disambiguation systems. To construct a practical size database, a considerable overhead for manual sense disambiguation is required. Our method is characterized by the reliance on the notion of the training utility: the degree to which each example is informative for future example selection when used for the training of the system. The system progressively collects examples by selecting those with greatest utility. The paper reports the effectivity of our method through experiments on about one thousand sentences. Compared to experiments with random example selection, our method reduced the overhead without the degeneration of the performance of the system.</Paragraph>
+</Section>
+</Paper>
+

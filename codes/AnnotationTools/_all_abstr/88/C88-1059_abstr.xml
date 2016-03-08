@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C88-1059">
+<Title>Completion of Japanese Sentences by Inferring Function Words from Content Words</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A method of generating a Japanese sentence by inferring function words from content words using valency pa~terns is presented.</Paragraph>
+<Paragraph position="1"> A procedure for selecting an appropriate function word, on the assumption that correct content words have been selected for a given phrase lattice, is described. A method ol ~ inferring a correct verb when verbs are recognized less accurately than nouns by the speech recognition system is described. Sentences are produced from content words as inputs by using the valency patterns ohtained from collected dialogue sentences in a restricted 1ask domain. Using the semantic features of preceding nouns and valency patterns allow a \[airly restricted number of candidate verbs to be inferred.</Paragraph>
+<Paragraph position="2"> This method eliminates possible errors at the interface between speech recognition and machine translation (component technologies of an Automatic Telephone Interpretation system) and selects the most appropriate candidate from a lattice of typical phrases output by 1he speech recognition system.</Paragraph>
+<Paragraph position="3"> 1 Background and problems An Automatic Telephone Interpretation system is a facility which enables a person speaking in one language to communicate readily by telephone with someone speaking another. Three constituent technologies are necessary for such a system: speech recognition, machine translation, and speech synthesis.</Paragraph>
+<Paragraph position="4"> Basic research in each of these technologies to develop an interpretation system between Japanese and English has already started. For this purpose, however, an effective interface between speech recognition and machine translation is vital because output from the speech recognition module will inevitably contain errors which the machine translation module cannot accept.</Paragraph>
+<Paragraph position="5"> This paper proposes a method of generatinq a Japanese sentence by inferring function words from content words using valency patterns. This technique is aimed at the selection of the most appropriate candidate from a typical phrase lattice that may result from a speech recognition system.</Paragraph>
+</Section>
+</Paper>
+

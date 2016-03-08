@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W91-0101">
+<Title>MONOTONICITY, HEADEDNESS, AND REVERSIBLE GRAMMAR</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> The notion of reversibility that is salient for grammars rests on the idea that grammars are transducers between strings of words and some more abstract meaning representation. The grammar is reversible if the transducer will work in both directions. The notion was important in driving the evolution from procedural grammar formalisms, like ATN, to declaritive formalisms, like LFG and HPSG. The key was to replace the setting of registers with the unification of logical variables. The aim was to base grammars entirely on 'monotonic' operations. An issue has arisen more recently has to with the various notions of 'head of a construction'. After an attempt to place reversible grammars in their historical perspective, I will discuss the relation between mon0tonicty and headedness.</Paragraph>
+</Section>
+</Paper>
+

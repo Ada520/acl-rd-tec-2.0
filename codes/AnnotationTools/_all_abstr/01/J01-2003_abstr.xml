@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J01-2003">
+<Title>The Need for Accurate Alignment in Natural Language System Evaluation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+SRI International
+</SectionTitle>
+<Paragraph position="0"> As evaluations of computational linguistics technology progress toward higher-level interpretation tasks, the problem o/determining alignments between system responses and answer key entries may become less straightforward. We present an extensive analysis o/the alignment procedure used in the MUC-6 evaluation o/information extraction technology, which reveals effects that interfere with the stated goals of the evaluation. These effects are shown to be pervasive enough that they have the potential to adversely impact the technology development process. These results argue strongly/or the use o/accurate alignment criteria in natural language evaluations, and/or maintaining the independence o/alignment criteria and mechanisms used to calculate scores.</Paragraph>
+</Section>
+</Paper>
+

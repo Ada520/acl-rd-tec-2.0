@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P06-2070">
+<Title>Stochastic Iterative Alignment for Machine Translation Evaluation</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A number of metrics for automatic evaluation of machine translation have been proposed in recent years, with some metrics focusing on measuring the adequacy of MT output, and other metrics focusing on uency. Adequacy-oriented metrics such as BLEU measure n-gram overlap of MT outputs and their references, but do not represent sentence-level information. In contrast, uency-oriented metrics such as ROUGE-W compute longest common subsequences, but ignore words not aligned by the LCS. We propose a metric based on stochastic iterative string alignment (SIA), which aims to combine the strengths of both approaches. We compare SIA with existing metrics, and nd that it outperforms them in overall evaluation, and works specially well in uency evaluation.</Paragraph>
+</Section>
+</Paper>
+

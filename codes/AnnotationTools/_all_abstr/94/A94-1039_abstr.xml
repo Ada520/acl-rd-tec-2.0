@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A94-1039">
+<Title>Fukui-shi,Japan</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The &amp;quot;Selective Error Correction Method&amp;quot; to judge these three types of errors, and correct them, using ra-th order Markov chain model for Japanese 'kanji-kana' characters, has been proposed and shown to be useful to detect and correct errors generated randomly (Araki et al., 1994).</Paragraph>
+<Paragraph position="1"> In this paper, this method is applied to detect and correct erroneous characters in Japanese text input through an OCR.. The method is confirmed to be also elfective to detect and correct the errors introduced by the OCR.</Paragraph>
+</Section>
+</Paper>
+

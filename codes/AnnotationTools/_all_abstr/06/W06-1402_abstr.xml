@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-1402">
+<Title>Sydney, July 2006. c(c)2006 Association for Computational Linguistics A generation-oriented workbench for Performance Grammar: Capturing linear order variability in Geran and Dutch</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe a generation-oriented workbench for the Performance Grammar (PG) formalism, highlighting the treatment of certain word order and movement constraints in Dutch and German. PG enables a simple and uniform treatment of a heterogeneous collection of linear order phenomena in the domain of verb constructions (variably known as Cros-serial Dependencies, Verb Raising, Clause Union, Extraposition, Third Construction, Particle Hoping, etc.). The central data structures enabling this feature are clausal &amp;quot;topologies&amp;quot;: one-dimensional arrays associated with clauses, whose cells (&amp;quot;slots&amp;quot;) provide landing sites for the constituents of the clause. Movement operations are enabled by unification of lateral slots of topologies at adjacent levels of the clause hierarchy.</Paragraph>
+<Paragraph position="1"> The PGW generator assists the grammar developer in testing whether the implemented syntactic knowledge allows all and only the well-formed permutations of constituents.</Paragraph>
+</Section>
+</Paper>
+

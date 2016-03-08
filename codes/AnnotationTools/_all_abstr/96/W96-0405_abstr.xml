@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W96-0405">
+<Title>Input Specification in the WAG Sentence Generation System</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes the input specification language of the WAG Sentence Generation system.</Paragraph>
+<Paragraph position="1"> The input is described in terms of Halliday's (1978) three meaning components, ideational meaning (the propositional content to be expressed), interactional meaning (what the speaker intends the listener to do in making the utterance), and textual meaning (how the content is structured as a message, in terms of theme, reference, etc.).</Paragraph>
+</Section>
+</Paper>
+

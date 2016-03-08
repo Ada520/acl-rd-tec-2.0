@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-2170">
+<Title>Jurilinguistic Engineering in Cantonese Chinese: An N-gram-based Speech to Text Transcription System</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A Cantonese Chinese transcription system to automatically convert stenograph code to Chinese characters ix reported. The major challenge in developing such a system is the critical homocode problem because of homonymy. The statistical N-gram model is used to compute the best combination of characters. Supplemented with a 0.85 million character corpus of donmin-specific training data and enhancement measures, the bigram and trigrmn implementations achieve 95% and 96% accuracy respectively, as compared with 78% accuracy in the baseline model. The system perforlnance is comparable with other adwmced Chinese Speech-to-Text input applications under development. The system meets an urgent need o1' the .ludiciary ot: post-</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P01-1061">
+<Title>Computational properties of environment-based disambiguation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The standard pipeline approach to semantic processing, in which sentences are morphologically and syntactically resolved to a single tree before they are interpreted, is a poor fit for applications such as natural language interfaces. This is because the environment information, in the form of the objects and events in the application's run-time environment, cannot be used to inform parsing decisions unless the input sentence is semantically analyzed, but this does not occur until after parsing in the single-tree semantic architecture. This paper describes the computational properties of an alternative architecture, in which semantic analysis is performed on all possible interpretations during parsing, in polynomial time.</Paragraph>
+</Section>
+</Paper>
+

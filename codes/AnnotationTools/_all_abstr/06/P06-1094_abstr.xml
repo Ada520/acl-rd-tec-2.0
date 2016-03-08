@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P06-1094">
+<Title></Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The paper presents a new model for context-dependent interpretation of linguistic expressions about spatial proximity between objects in a natural scene. The paper discusses novel psycholinguistic experimental data that tests and verifies the model. The model has been implemented, and enables a conversational robot to identify objects in a scene through topological spatial relations (e.g. &amp;quot;X near Y&amp;quot;). The model can help motivate the choice between topological and projective prepositions.</Paragraph>
+</Section>
+</Paper>
+

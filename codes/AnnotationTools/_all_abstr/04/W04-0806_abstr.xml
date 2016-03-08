@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-0806">
+<Title>Senseval-3: The Spanish Lexical Sample Task</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> In this paper we describe the Spanish Lexical Sample task. This task was initially devised for evaluating the role of unlabeled examples in supervised and semi-supervised learning systems for WSD and it was coordinated with five other lexical sample tasks (Basque, Catalan, English, Italian, and Rumanian) in order to share part of the target words.</Paragraph>
+<Paragraph position="1"> Firstly, we describe the methodology followed to develop the linguistic resources necessary for the task: the MiniDir-2.1 lexicon and the MiniCors corpus. Secondly, we summarize the participant systems, the results obtained, and a comparative analysis. Participant systems include pure supervised, semi-supervised, and unsupervised learning.</Paragraph>
+</Section>
+</Paper>
+

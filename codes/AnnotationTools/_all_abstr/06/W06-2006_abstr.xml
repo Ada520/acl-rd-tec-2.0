@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-2006">
+<Title>Automatic Generation of Translation Dictionaries Using Intermediary Languages</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Wedescribeamethodwhichusesoneormore intermediary languages in order to automatically generate translation dictionaries. Such a method could potentially be used to efficiently create translation dictionaries for language groups which have as yet had little interaction. For any given word in the source language,ourmethodinvolvesfirsttranslating into the intermediary language(s), then into thetargetlanguage,backintotheintermediary language(s) and finally back into the source language. The relationship between a word andthe numberof possibletranslations in anotherlanguageismostoften1-to-many,andso null at each stage, the number of possible translationsgrowsexponentially.Ifwearrivebackat null the same starting point i.e. the same word in the sourcelanguage,thenwe hypothesisethat the meanings of the words in the chain have not diverged significantly. Hence we backtrack through the link structure to the target language word and accept this as a suitable translation. We havetestedourmethodbyusingEnglishasanintermediarylanguagetoau- null  tomaticallygenerateaSpanish-to-Germandictionary,andtheresultsareencouraging. null</Paragraph>
+</Section>
+</Paper>
+

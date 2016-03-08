@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P04-1034">
+<Title>The Sentimental Factor: Improving Review Classification via Human-Provided Information</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Sentiment classification is the task of labeling a review document according to the polarity of its prevailing opinion (favorable or unfavorable). In approaching this problem, a model builder often has three sources of information available: a small collection of labeled documents, a large collection of unlabeled documents, and human understanding of language. Ideally, a learning method will utilize all three sources. To accomplish this goal, we generalize an existing procedure that uses the latter two. We extend this procedure by re-interpreting it as a Naive Bayes model for document sentiment.</Paragraph>
+<Paragraph position="1"> Viewed as such, it can also be seen to extract a pair of derived features that are linearly combined to predict sentiment. This perspective allows us to improve upon previous methods, primarily through two strategies: incorporating additional derived features into the model and, where possible, using labeled data to estimate their relative influence.</Paragraph>
+</Section>
+</Paper>
+

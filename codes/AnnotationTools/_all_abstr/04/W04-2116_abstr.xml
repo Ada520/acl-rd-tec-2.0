@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-2116">
+<Title>Empirical Acquisition of Differentiating Relations from Definitions</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a new automatic approach for extracting conceptual distinctions from dictionary definitions. A broad-coverage dependency parser is first used to extract the lexical relations from the definitions. Then the relations are disambiguated using associations learned from tagged corpora. This contrasts with earlier approaches using manually developed rules for disambiguation.</Paragraph>
+</Section>
+</Paper>
+

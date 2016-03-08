@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C94-2198">
+<Title>WORD CLASS DISCOVERY FOR POSTPROCESSING CHINESE HANDWRITING RECOGNITION</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+WORD CLASS DISCOVERY FOR POSTPROCESSING
+CHINESE HANDWRITING RECOGNITION
+Chao-Huang Chang
+</SectionTitle>
+<Paragraph position="0"> E000/CCI~, Building 11, Industrial Technology Research Institute Chutung, Hsinchu 31015, TAIWAN, R.O.C.</Paragraph>
+<Paragraph position="1"> Summary This article presents a novel Chinese class n-gram model for contextual postprocessing of haudwriting recognition results. The word classes in the model are automatically discovered by a corpus-based simulated anuealing procedure. Three other language models, least-word, word-frequency, and the powerflfl inter-word character bigram model, have been constructed for comparison. Extensive experiments on large text corpora show that the discovered class bigram model outperforms the other three competing models.</Paragraph>
+</Section>
+</Paper>
+

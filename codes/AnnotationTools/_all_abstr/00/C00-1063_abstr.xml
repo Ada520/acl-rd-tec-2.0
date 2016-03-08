@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-1063">
+<Title>Japanese Case Structure Analysis</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In Japanese, case structure analysis is very imt)ortant to handle several troublesome characteristics of Japanese snch as scrambling, onfission of ease components, mid disappearance of case markers. However, fi)r lack of a wide-coverage ease frame dictionary, it has been difficult to perfornl case structure analysis accurat;ely. Although several methods to construct a ease fl'mne dictionary from analyzed corpora have been proposed, they cannot avoid data sparseness 1)rol)lem. This paper proposes an unsupervised method of constructing a case frame dictionary from an enormous raw corpus by using a robust and accurate parser. It also prorides a case structure analysis method based on the constructed dictionary.</Paragraph>
+</Section>
+</Paper>
+

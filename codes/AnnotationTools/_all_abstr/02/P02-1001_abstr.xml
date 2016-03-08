@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P02-1001">
+<Title>Parameter Estimation for Probabilistic Finite-State Transducers</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Weighted finite-state transducers suffer from the lack of a training algorithm. Training is even harder for transducers that have been assembled via finite-state operations such as composition, minimization, union, concatenation, and closure, as this yields tricky parameter tying. We formulate a &amp;quot;parameterized FST&amp;quot; paradigm and give training algorithms for it, including a general bookkeeping trick (&amp;quot;expectation semirings&amp;quot;) that cleanly and efficiently computes expectations and gradients.</Paragraph>
+</Section>
+</Paper>
+

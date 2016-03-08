@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C02-2008">
+<Title>Interactive Paraphrasing Based on Linguistic Annotation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We propose a method &amp;quot;Interactive Paraphrasing&amp;quot; which enables users to interactively paraphrasewordsinadocumentbytheirdefinitions, null making use of syntactic annotation and word sense annotation. Syntactic annotation is used for managing smooth integration of word sense definitionsintotheoriginaldocument,andword sense annotation for retrieving the correct word sense definition for a word in a document. In thisway, documentscanbeparaphrasedsothat they fit into the original context, preserving the semantics and improving the readability at the sametime. Noextralayer(window)isnecessary for showing the word sense definition as in conventional methods, and other natural language processing techniques such as summarization, translation, and voice synthesis can be easily applied to the results.</Paragraph>
+</Section>
+</Paper>
+

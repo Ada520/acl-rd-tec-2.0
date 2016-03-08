@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-1327">
+<Title>Using Semantically Motivated Estimates to Help Subcategorization Acquisition</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Research into the automatic acquisition of subcategorization frames from corpora is starting to produce large-scale computational lexicons which include valuable frequency information. However, the accuracy of the resulting lexicons shows room for improvement. One source of error lies in the lack of accurate back-off estimates for subcategorization frames, delimiting the performance of statistical techniques frequently employed in verbal acquisition. In this paper, we propose a method of obtaining more accurate, semantically motivated back-off estimates, demonstrate how these estimates can be used to improve the learning of subcategorization frames, and discuss using the method to benefit large-scale lexical acquisition.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-2931">
+<Title>Dependency Parsing Based on Dynamic Local Optimization</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a deterministic parsing algorithm for projective dependency grammar. In a bottom-up way the algorithm finds the local optimum dynamically. A constraint procedure is made to use more structure information. The algorithm parses sentences in linear time and labeling is integrated with the parsing.</Paragraph>
+<Paragraph position="1"> This parser achieves 63.29% labeled attachment score on the average in CoNLL-</Paragraph>
+</Section>
+</Paper>
+

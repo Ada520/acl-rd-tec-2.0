@@ -1,0 +1,36 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-1003">
+<Title>Towards a single proposal in spelling correction</Title>
+<Section position="1" start_page="0" end_page="22" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The study presented here relies on the integrated use of different kinds of knowledge in order to improve first-guess accuracy in non-word context-sensitive correction for general unrestricted texts. State of the art spelling correction systems, e.g.</Paragraph>
+<Paragraph position="1"> ispell, apart from detecting spelling errors, also assist the user by offering a set of candidate corrections that are close to the misspelled word. Based on the correction proposals of ispell, we built several guessers, which were combined in different ways.</Paragraph>
+<Paragraph position="2"> Firstly, we evaluated all possibilities and selected the best ones in a corpus with artificially generated typing errors. Secondly, the best combinations were tested on texts with genuine spelling errors. The results for the latter suggest that we can expect automatic non-word correction for all the errors in a free running text with 80% precision and a single proposal 98% of the times (1.02 proposals on average).</Paragraph>
+<Paragraph position="3"> Introduction The problem of devising algorithms and techniques for automatically correcting words in text remains a research challenge. Existing spelling correction techniques are limited in their scope and accuracy. Apart from detecting spelling errors, many programs assist users by offering a set of candidate corrections that are close to the misspelled word. This is true for most commercial word-processors as well as the Unix-based spelling-corrector ispelP (1993). These programs tolerate lower first guess accuracy by returning multiple guesses, allowing the user to make the final choice of the intended word. In i lspell was used for the spell-checking and correction candidate generation. Its assets include broad-coverage and excellent reliability.</Paragraph>
+<Paragraph position="4">  contrast, some applications will require fully automatic correction for general-purpose texts (Kukich 1992).</Paragraph>
+<Paragraph position="5"> It is clear that context-sensitive spelling correction offers better results than isolated-word error correction. The underlying task is to determine the relative degree of well formedness among alternative sentences (Mays et al. 1991). The question is what kind of knowledge (lexical, syntactic, semantic .... ) should be represented, utilised and combined to aid in this determination. This study relies on the integrated use of three kinds of knowledge (syntagmatic, paradigmatic and statistical) in order to improve first guess accuracy in non-word context-sensitive correction for general unrestricted texts. Our techniques were applied to the corrections posed by ispell.</Paragraph>
+<Paragraph position="6"> Constraint Grammar (Karlsson et al. 1995) was chosen to represent syntagmatic knowledge. Its use as a part of speech tagger for English has been highly successful. Conceptual Density (Agirre and Rigau 1996) is the paradigmatic component chosen to discriminate semantically among potential noun corrections. This technique measures &amp;quot;affinity distance&amp;quot; between nouns using Wordnet (Miller 1990). Finally, general and document word-occurrence frequency-rates complete the set of knowledge sources combined.</Paragraph>
+<Paragraph position="7"> We knowingly did not use any model of common misspellings, the main reason being that we did not want to use knowledge about the error source. This work focuses on language models, not error models (typing errors, common misspellings, OCR mistakes, speech recognition mistakes, etc.).</Paragraph>
+<Paragraph position="8"> The system was evaluated against two sets of texts: artificially generated errors from the Brown corpus (Francis and Kucera 1967) and genuine spelling errors from the Bank of EnglishL The remainder of this paper is organised as  follows. Firstly, we present the techniques that will be evaluated and the way to combine them.</Paragraph>
+<Paragraph position="9"> Section 2 describes the experiments and shows the results, which are evaluated in section 3.</Paragraph>
+<Paragraph position="10"> Section 4 compares other relevant work in context sensitive correction.</Paragraph>
+<Section position="1" start_page="22" end_page="22" type="sub_section">
+<SectionTitle>
+1.1 Constraint Grammar (CG)
+</SectionTitle>
+<Paragraph position="0"> Constraint Grammar was designed with the aim of being a language-independent and robust tool to disambiguate and analyse unrestricted texts.</Paragraph>
+<Paragraph position="1"> CG grammar statements are close to real text sentences and directly address parsing problems such as ambiguity. Its application to English (ENGCG 3) resulted a very successful part of speech tagger for English. CG works on a text where all possible morphological interpretations have been assigned to each word-form by the ENGTWOL morphological analyser (Voutilainen and Heikkil~i 1995). The role of CG is to apply a set of linguistic constraints that discard as many alternatives as possible, leaving at the end almost fully disambiguated sentences, with one morphological or syntactic interpretation for each word-form. The fact that CG tries to leave a unique interpretation for each word-form makes the formalism adequate to achieve our objective.</Paragraph>
+<Paragraph position="2"> Application of Constraint Grammar The text data was input to the morphological analyser. For each unrecognised word, ispell was applied, placing the morphological analyses of the correction proposals as alternative interpretations of the erroneous word (see example 1). EngCG-2 morphological disambiguation was applied to the resulting texts, ruling out the correction proposals with an incompatible POS (cf. example 2). We must note that the broad coverage lexicons of ispell and ENGTWOL are independent. This caused the correspondence between unknown words and ispell's proposals not to be one to one with those of the EngCG-2 morphological analyser, especially in compound words. Such problems were solved considering that a word was correct if it was covered by any of the lexicons.</Paragraph>
+</Section>
+<Section position="2" start_page="22" end_page="22" type="sub_section">
+<SectionTitle>
+1.2 Conceptual Density (CD)
+</SectionTitle>
+<Paragraph position="0"></Paragraph>
+</Section>
+</Section>
+</Paper>
+

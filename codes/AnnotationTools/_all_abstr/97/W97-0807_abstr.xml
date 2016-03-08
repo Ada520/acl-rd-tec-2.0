@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0807">
+<Title>Integration of Hand-Crafted and Statistical Resources in Measuring Word Similarity</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Hozumi TANAKA
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper proposes a new approach for word similarity measurement. The statistics-based computation of word similarity has been popular in recent research, but is associated with a significant computational cost. On the other hand, the use of hand-crafted thesauri as semantic resources is simple to implement, but lacks mathematical rigor. To integrate the advantages of these two approaches, we aim at calculating a statistical weight for each branch of a thesaurus, so that we can measure word similarity simply based on the length of the path between two words in the thesaurus. Our experiment on Japanese nouns shows that this framework upheld the inequality of statistics-based word similarity with an accuracy of more than 70%. We also report on the effectivity of our framework in the task of word sense disambiguation. null</Paragraph>
+</Section>
+</Paper>
+

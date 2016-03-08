@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-0141">
+<Title>Designing Special Post-processing Rules for SVM-based Chinese Word Segmentation</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We participated in the Third International Chinese Word Segmentation Bakeoff. Specifically, we evaluated our Chinese word segmenter NEUCipSeg in the close track, on all four corpora, namely Academis Sinica (AS), City University of Hong Kong (CITYU), Microsoft Research (MSRA), and University of Pennsylvania/University of Colorado (UPENN). Based on Support Vector Machines (SVMs), a basic segmenter is designed regarding Chinese word segmentation as a problem of character-based tagging. Moreover, we proposed post-processing rules specially taking into account the properties of results brought out by the basic segmenter. Our system achieved good ranks in all four corpora.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-1098">
+<Title>Combining a Chinese Thesaurus with a Chinese Dictionary</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we study the problem of combining a Chinese thesaurus with a Chinese dictionary by linking the word entries in the thesaurus with the word senses in the dictionary, and propose a similar word strategy to solve the problem. The method is based on the definitions given in the dictionary, but without any syntactic parsing or sense disambiguation on them at all. As a result, their combination makes the thesaurus specify the similarity between senses which accounts for the similarity between words, produces a kind of semantic classification of the senses defined in the dictionary, and provides reliable information about the lexical items on which the resources don't conform with each other.</Paragraph>
+</Section>
+</Paper>
+

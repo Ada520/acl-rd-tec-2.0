@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W01-1312">
+<Title>A Multilingual Approach to Annotating and Extracting Temporal Information</Title>
+<Section position="2" start_page="2" end_page="2" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper introduces a set of guidelines for annotating time expressions with a canonicalized representation of the times they refer to, and describes methods for extracting such time expressions from multiple languages.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-1037">
+<Title>Formal Syntax and Semantics of Case Stacking Languages</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this l)aper the t)henomenom of case stacking is investigated from a formM t)oint of view.</Paragraph>
+<Paragraph position="1"> We will define a formal language with ide~dized case marking behaviour and prove that stacked cases have the ability to encode structural intbrmation on the word thereby allowing tbr unrestricted word order. Furthermore, the case stacks help to comimte this structure with a low complexity bound. As a second part we propose a compositional semantics for languages with stacked cases and show how this proposal may work for our tbrmal language as well as tbr an example from Warlpiri.</Paragraph>
+</Section>
+</Paper>
+

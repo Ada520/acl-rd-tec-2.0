@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P03-1019">
+<Title>A Comparative Study on Reordering Constraints in Statistical Machine Translation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In statistical machine translation, the generation of a translation hypothesis is computationally expensive. If arbitrary word-reorderings are permitted, the search problem is NP-hard. On the other hand, if we restrict the possible word-reorderings in an appropriate way, we obtain a polynomial-time search algorithm.</Paragraph>
+<Paragraph position="1"> In this paper, we compare two different re-ordering constraints, namely the ITG constraints and the IBM constraints. This comparison includes a theoretical discussion on the permitted number of re-orderings for each of these constraints.</Paragraph>
+<Paragraph position="2"> We show a connection between the ITG constraints and the since 1870 known Schr&amp;quot;oder numbers.</Paragraph>
+<Paragraph position="3"> We evaluate these constraints on two tasks: the Verbmobil task and the Canadian Hansards task. The evaluation consists of two parts: First, we check how many of the Viterbi alignments of the training corpus satisfy each of these constraints. Second, we restrict the search to each of these constraints and compare the resulting translation hypotheses.</Paragraph>
+<Paragraph position="4"> The experiments will show that the base-line ITG constraints are not sufficient on the Canadian Hansards task. Therefore, we present an extension to the ITG constraints. These extended ITG constraints increase the alignment coverage from about 87% to 96%.</Paragraph>
+</Section>
+</Paper>
+

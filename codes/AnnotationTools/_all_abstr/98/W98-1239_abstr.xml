@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-1239">
+<Title>Morphemes as Necessary Concept for Structures Discovery from Untagged Corpora Hervd D~jean GREYC - CNRS - UPRESA 6072 Universit~ de Caen - Basse Normandie</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes an overview of a method which allows discovery of syntactic structures from untagged corpora. It is composed of three main steps: the discovery of the grammatical morphemes of the language. Then the construction of the chunks which axe a multilingual conceptual level allowing the bypass of the limping notion of words. And Finally the discovery of the relations between chunks. We give an overview of the ditferent procedures realized and we especially describe the discovery of morphemes. This operation is divided into three steps: the discovery of the most frequent morphemes of the language. Then the discovery of the other morphemes, and finally the segmentation of the words of the corpus.</Paragraph>
+<Paragraph position="1"> We concluded with the procedure of correction which required the chunk level. The concepts and algorithms were tested on a twenty natural languages like English, German, Turkish, Vietnamese, Swahili, Finnish, Latin, Indonesian. null</Paragraph>
+</Section>
+</Paper>
+

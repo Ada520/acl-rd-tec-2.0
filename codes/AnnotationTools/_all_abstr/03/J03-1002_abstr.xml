@@ -1,0 +1,28 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J03-1002">
+<Title>c(c) 2003 Association for Computational Linguistics A Systematic Comparison of Various Statistical Alignment Models</Title>
+<Section position="2" start_page="0" end_page="21" type="abstr">
+<SectionTitle>
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> We address in this article the problem of finding the word alignment of a bilingual sentence-aligned corpus by using language-independent statistical methods. There is a vast literature on this topic, and many different systems have been suggested to solve this problem. Our work follows and extends the methods introduced by Brown, Della Pietra, Della Pietra, and Mercer (1993) by using refined statistical models for the translation process. The basic idea of this approach is to develop a model of the translation process with the word alignment as a hidden variable of this process, to apply statistical estimation theory to compute the &amp;quot;optimal&amp;quot; model parameters, and to perform alignment search to compute the best word alignment.</Paragraph>
+<Paragraph position="1"> So far, refined statistical alignment models have in general been rarely used. One reason for this is the high complexity of these models, which makes them difficult to understand, implement, and tune. Instead, heuristic models are usually used. In heuristic models, the word alignments are computed by analyzing some association score metric of a link between a source language word and a target language word.</Paragraph>
+<Paragraph position="2"> These models are relatively easy to implement.</Paragraph>
+<Paragraph position="3"> In this article, we focus on consistent statistical alignment models suggested in the literature, but we also describe a heuristic association metric. By providing a detailed description and a systematic evaluation of these alignment models, we give the reader various criteria for deciding which model to use for a given task.</Paragraph>
+<Paragraph position="4">  [?] Information Science Institute (USC/ISI), 4029 Via Marina, Suite 1001, Marina del Rey, CA 90292. + Lehrstuhl f &amp;quot;ur Informatik VI, Computer Science Department, RWTH Aachen-University of Technology, D-52056 Aachen, Germany.</Paragraph>
+<Paragraph position="5">  Computational Linguistics Volume 29, Number 1 Figure 1 Example of a word alignment (VERBMOBIL task).</Paragraph>
+<Paragraph position="6"> We propose to measure the quality of an alignment model by comparing the quality of the most probable alignment, the Viterbi alignment, with a manually produced reference alignment. This has the advantage of enabling an automatic evaluation to be performed. In addition, we shall show that this quality measure is a precise and reliable evaluation criterion that is well suited to guide designing and training statistical alignment models.</Paragraph>
+<Paragraph position="7"> The software used to train the statistical alignment models described in this article is publicly available (Och 2000).</Paragraph>
+<Section position="1" start_page="20" end_page="21" type="sub_section">
+<SectionTitle>
+1.1 Problem Definition
+</SectionTitle>
+<Paragraph position="0"> We follow Brown, Della Pietra, Della Pietra, and Mercer (1993) to define alignment as an object for indicating the corresponding words in a parallel text. Figure 1 shows an example. Very often, it is difficult for a human to judge which words in a given target string correspond to which words in its source string. Especially problematic is the alignment of words within idiomatic expressions, free translations, and missing function words. The problem is that the notion of &amp;quot;correspondence&amp;quot; between words is subjective. It is important to keep this in mind in the evaluation of word alignment quality. We shall deal with this problem in Section 5.</Paragraph>
+<Paragraph position="1"> The alignment between two word strings can be quite complicated. Often, an alignment includes effects such as reorderings, omissions, insertions, and word-to-phrase alignments. Therefore, we need a very general representation of alignment.</Paragraph>
+<Paragraph position="2"> Formally, we use the following definition for alignment in this article. We are given  that have to be aligned. We define an alignment between the two word strings as a subset of the Cartesian product of the word positions; that is, an  Och and Ney Comparison of Statistical Alignment Models alignment A is defined as A[?]{(j, i): j = 1,..., J; i = 1,..., I} (1) Modeling the alignment as an arbitrary relation between source and target language positions is quite general. The development of alignment models that are able to deal with this general representation, however, is hard. Typically, the alignment models presented in the literature impose additional constraints on the alignment representation. Typically, the alignment representation is restricted in a way such that each source word is assigned to exactly one target word. Alignment models restricted in this way are similar to the concept of hidden Markov models (HMMs) in speech recognition. The alignment mapping in such models consists of associations j - i = a j from source position j to target position i = a  to account for source words that are not aligned with any target word. Constructed in such a way, the alignment is not a relation between source and target language positions, but only a mapping from source to target language positions.</Paragraph>
+<Paragraph position="3"> In Melamed (2000), a further simplification is performed that enforces a one-to-one alignment for nonempty words. This means that the alignment mapping a</Paragraph>
+</Section>
+</Section>
+</Paper>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-2103">
+<Title>Granularity Effects in Tense Translation</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> One of the daunting problems in machine translation (MT) is the mapping of tense. The paper singles out tile problem of translating German present tense into English. This problem seems particularly instructive as its solution requires calculation of aspect; as well as determination of tile temporal location of events with respect to the time of speech. We present a disambiguation algorithm which makes use of gram ularity calculations to establish the scopal order of temporal adverbial phrases. The described algorithm has been implemented and is running in the Verbmobil system.</Paragraph>
+<Paragraph position="1"> The paper is organized as follows. In sections 2 through 4 we 1)resent the problem and discuss the linguistic factors involved, always keeping an eye on their exploitation for disambiguation.</Paragraph>
+<Paragraph position="2"> Sections 5 and 6 are devoted to an abstract; def inition of temporal granularity and a discussion of granularity effects on scope resolution. In section 7 the actual disambiguation algorithm is presented, while section 8 describes its performance on the Verbmobil test data. A summary closes the paper.</Paragraph>
+</Section>
+</Paper>
+

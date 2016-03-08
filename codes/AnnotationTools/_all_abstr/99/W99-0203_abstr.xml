@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W99-0203">
+<Title>Identification of Coreference Between Names and Faces</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> To retrieve multimedia contents by their meaning, it is necessary to use not only the contents of distinct media, such as image or language, but also a certain semantic relation holding between them. For this purpose, in this paper, we propose a method to find coreferences between human names in the article of newspaper and human faces in the accompanying photograph.</Paragraph>
+<Paragraph position="1"> The method we proposed is based on the machine learning and the hypothesis driven combining method for identifying names and corresponding faces. Our experimental results show that the recall and precision rate of our method are better than those of the system which uses information exclusively from either text media or image media.</Paragraph>
+</Section>
+</Paper>
+

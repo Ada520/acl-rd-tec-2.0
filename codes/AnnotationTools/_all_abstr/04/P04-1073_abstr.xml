@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P04-1073">
+<Title>Question Answering using Constraint Satisfaction: QA-by-Dossier-with-Constraints</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> QA-by-Dossier-with-Constraints is a new approach to Question Answering whereby candidate answers' confidences are adjusted by asking auxiliary questions whose answers constrain the original answers. These constraints emerge naturally from the domain of interest, and enable application of real-world knowledge to QA. We show that our approach significantly improves system performance (75% relative improvement in F-measure on select question types) and can create a &amp;quot;dossier&amp;quot; of information about the subject matter in the original question.</Paragraph>
+</Section>
+</Paper>
+

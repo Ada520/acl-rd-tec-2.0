@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-0835">
+<Title>Explorations in Disambiguation Using XML Text Representation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In SENSEVAL-3, CL Research participated in four tasks: English all-words, English lexical sample, disambiguation of WordNet glosses, and automatic labeling of semantic roles. This participation was performed within the development of CL Research's Knowledge Management System, which massively tags texts with syntactic, semantic, and discourse characterizations and attributes. This System is fully integrated with CL Research's DIMAP dictionary maintenance software, which provides access to one or more dictionaries for disambiguation and representation. Our core disambiguation functionality, unchanged since SENSEVAL-2, performed at a level comparable to our previous performance. Our participation in the SENSEVAL-3 tasks was concerned primarily with text processing and representation issues and did not advance our disambiguation capabilities.</Paragraph>
+<Paragraph position="1"> Introduction CL Research participated in four SENSEVAL-3 tasks: English all-words, English lexical sample, disambiguation of WordNet glosses, and automatic labeling of semantic roles. We also ran the latter two tasks, but since their test sets were generated blindly, our results did not involve use of any prior information.</Paragraph>
+<Paragraph position="2"> Our participation in these tasks is a continuation and extension of our efforts to perform NLP tasks within an integrated text processing system known as the Knowledge Management System (KMS). KMS parses and processes text into an XML representation tagged with syntactic, semantic, and discourse properties. This representation is then used for such tasks as question answering and text summarization (Litkowski, 2004a; Litkowski, 2004b).</Paragraph>
+<Paragraph position="3"> The SENSEVAL-3 tasks were performed as part of CL Research's efforts to extend and improve the semantic characterizations in the KMS XML representations. For each SENSEVAL-3 task, the corresponding texts in the test sets were processed using the general KMS functionality. However, since the texts involved in the SENSEVAL tasks were quite small, the amount of processing was quite minimal. The descriptions below focus on the integration of disambiguation technology in a larger system and do not present any advancements in this technology.</Paragraph>
+</Section>
+</Paper>
+

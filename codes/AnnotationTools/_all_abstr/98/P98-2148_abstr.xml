@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-2148">
+<Title>A Stochastic Language Model using Dependency and Its Improvement by Word Clustering</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we present a stochastic language model for Japanese using dependency. The prediction unit in this model is all attribute of &amp;quot;bunsetsu&amp;quot;. This is represented by the product of the head of content words and that of function words. The relation between the attributes of &amp;quot;bunsetsu&amp;quot; is ruled by a context-free grammar. The word sequences axe predicted from the attribute using word n-gram model.</Paragraph>
+<Paragraph position="1"> The spell of Unknow word is predicted using character n-grain model. This model is robust in that it can compute the probability of an arbitrary string and is complete in that it models from unknown word to dependency at the same time.</Paragraph>
+</Section>
+</Paper>
+

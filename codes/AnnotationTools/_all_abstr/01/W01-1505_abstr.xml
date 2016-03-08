@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W01-1505">
+<Title>SiSSA - An Infrastructure for NLP Application Development</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Recently there has been a growing interest in infrastructures for sharing NLP tools and resources. This paper presents SiSSA, a project that aims at developing an infrastructure for prototyping, editing and validation of NLP application architectures. The system will provide the user with a graphical environment for (1) selecting the NLP activities relevant for the particular NLP task and the associated linguistic processors that execute them; (2) connecting new linguistic processors to SiSSA; (3) checking that the chosen architectural hypothesis corresponds to the functional specifications of the given application.</Paragraph>
+</Section>
+</Paper>
+

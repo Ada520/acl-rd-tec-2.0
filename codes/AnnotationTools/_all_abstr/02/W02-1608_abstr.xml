@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-1608">
+<Title>Extending the Coverage of a Valency Dictionary</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Information on subcategorization and selectional restrictions is very important for natural language processing in tasks such as monolingual parsing, accurate rule-based machine translation and automatic summarization.</Paragraph>
+<Paragraph position="1"> However, adding this detailed information to a valency dictionary is both time consuming and costly.</Paragraph>
+<Paragraph position="2"> In this paper we present a method of assigning valency information and selectional restrictions to entries in a bilingual dictionary, based on information in an existing valency dictionary. The method is based on two assumptions: words with similar meaning have similar subcategorization frames and selectional restrictions; and words with the same translations have similar meanings. Based on these assumptions, new valency entries are constructed for words in a plain bilingual dictionary, using entries with similar source-language meaning and the same target-language translations. We evaluate the e ects of various measures of similarity.</Paragraph>
+</Section>
+</Paper>
+

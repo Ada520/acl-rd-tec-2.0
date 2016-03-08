@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P95-1047">
+<Title>Acquiring a Lexicon from Unsegmented Speech</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present work-in-progress on the machine acquisition of a lexicon from sentences that are each an unsegmented phone sequence paired with a primitive representation of meaning. A simple exploratory algorithm is described, along with the direction of current work and a discussion of the relevance of the problem for child language acquisition and computer speech recognition.</Paragraph>
+</Section>
+</Paper>
+

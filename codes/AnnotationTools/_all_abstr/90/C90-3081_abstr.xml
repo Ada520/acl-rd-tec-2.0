@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-3081">
+<Title>ELU: an Environment for Machine Translation</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+2. ELU
+</SectionTitle>
+<Paragraph position="0"> ELU exploits the parser and unifier of UD (Johnson and Rosner, 1989), but differs from that earlier system in the addition of a generator (Russell et al., 1990) and a transfer component (Estival et al., 1990; Russell et al., 1989).</Paragraph>
+</Section>
+</Paper>
+

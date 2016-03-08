@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N06-1018">
+<Title>Understanding Temporal Expressions in Emails</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Recent years have seen increasing research on extracting and using temporal information in natural language applications. However most of the works found in the literature have focused on identifying and understanding temporal expressions in newswire texts. In this paper we report our work on anchoring temporal expressions in a novel genre, emails.</Paragraph>
+<Paragraph position="1"> The highly under-specified nature of these expressions fits well with our constraint-based representation of time, Time Calculus for Natural Language (TCNL). We have developed and evaluated a Temporal Expression Anchoror (TEA), and the result shows that it performs significantly better than the baseline, and compares favorably with some of the closely related work.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C92-2085">
+<Title>Linguistic Knowledge Generator</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> The difficulties in current NLP applications are seldom due to the lack of appropriate frameworks for encoding our linguistic or extra-linguistic knowledge, hut rather to the fact that we do not know in advance what actual znstances of knowledge should be, even though we know in advance what types of knowledge are required.</Paragraph>
+<Paragraph position="1"> It normally takes a long time and requires painful trial and error processes to adapt knowledge, for example, in existing MT systems in order to translate documents of a new text-type and of a new subject domain. Semantic classification schemes for words, for example, usually reflect ontologies of subject domains so that we cannot expect a single classification scheme to be effective across different domains. To treat different suhlanguages requires different word classification schemes. We have to construct appropriate schemes for given sublanguages from scratch \[1\].</Paragraph>
+<Paragraph position="2"> It has also been reported that not only knowledge concerned with extra-linguistic domains but also syntactic knowledge, such as subcategorization frames of verbs (which is usually conceived as a part of general language knowledge), often varies from one sublanguage to another \[2\].</Paragraph>
+<Paragraph position="3"> Though re-usability of linguistic knowledge is currently and intensively prescribed \[3\], our contention is that the adaptation of existing knowledge requires processes beyond mere re-use. That is,  1. There are some types of knowledge which we have to discover from scratch, and which should be integrated with already existing knowledge.</Paragraph>
+<Paragraph position="4"> 2. It is often the case that knowledge, which is nor null mally conceived as valid regardless of subject domains, text types etc., should be revised significantly. null In practical projects, the ways of achieving such adaptation and discovery of knowledge rely heavily *SEKINE is currently a visitor at U.M.I.S T. *eki~eOccl.umist. ac.uk on human introspection. In the adaptation of existing MT systems, linguists add and revise the knowledge by inspecting a large set of system translation results, and then try to translate another set of sentences from given domains, and so on. The very fact that this trial and error process is time consuming and not always satisfactory indicates that human introspection alone cannot effectively reveal regularities or closure properties of sublanguages.</Paragraph>
+<Paragraph position="5"> There have been some proposals to aid this procedure by using programs in combination with huge corpora \[4\] \[51 \[13\] \[7\]. But the acquisition prog .... in these reports require huge amounts of sample texts in given domains which often makes these methods unrealistic in actual application environments. Furthermore, the input corpora to such learning programs are often required to be properly tagged or annotated, which demands enormous manual effort, making them far less useful.</Paragraph>
+<Paragraph position="6"> In order to overcmne the difficulties of these methods, we propose a Linguistic Knowledge Generator (LKG) which working on the principle of &amp;quot;Gradual Approximation&amp;quot; involving both human introspection and discovery programs.</Paragraph>
+<Paragraph position="7"> In the following section, we will explain the Gradual Approximation approach. Then a scenario which embodies the idea and finally we describe an experiment which illustrates its use.</Paragraph>
+</Section>
+</Paper>
+

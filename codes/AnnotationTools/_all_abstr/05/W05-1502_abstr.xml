@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W05-1502">
+<Title>Predict A f[vectorB] := Ps Ph [?] &lt;Ps&gt; [A f[ * vectorB]; Ph; </Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe four different parsing algorithms for Linear Context-Free Rewriting Systems (Vijay-Shanker et al., 1987). The algorithms are described as deduction systems, and possible optimizations are discussed.</Paragraph>
+<Paragraph position="1"> The only parsing algorithms presented for linear context-free rewriting systems (LCFRS; Vijay-Shanker et al., 1987) and the equivalent formalism multiple context-free grammar (MCFG; Seki et al., 1991) are extensions of the CKY algorithm (Younger, 1967), more designed for their theoretical interest, and not for practical purposes. The reason for this could be that there are not many implementations of these grammar formalisms. However, since a very important subclass of the Grammatical Framework (Ranta, 2004) is equivalent to LCFRS/MCFG (Ljunglof, 2004a; Ljunglof, 2004b), there is a need for practical parsing algorithms.</Paragraph>
+<Paragraph position="2"> In this paper we describe four different parsing algorithms for Linear Context-Free Rewriting Systems. The algorithms are described as deduction systems, and possible optimizations are discussed.</Paragraph>
+</Section>
+</Paper>
+

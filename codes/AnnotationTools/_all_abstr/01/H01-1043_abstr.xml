@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H01-1043">
+<Title>Japanese Case Frame Construction by Coupling the Verb and its Closest Case Component</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0">  Thispaperdescribesamethodtoconstructacaseframedictionary automatically from a raw corpus. The main problem is how to handle the diversity of verb usages. We collect predicate-argument examples, which are distinguished by the verb and its closest case component in order to deal with verb usages, from parsed results of a corpus. Since these couples multiplyto millionsofcombinations, it isdifficult tomakeawide-coverage case framedictionaryfroma small corpus like an analyzed corpus. We, however, use a rawcorpus,sothatthisproblemcanbeaddressed. Furthermore, we cluster and merge predicate-argument examples whichdoes nothave different usages but belong todifferent case frames because of different closest case components.</Paragraph>
+<Paragraph position="1"> We also report on an experimental result of case structure analysis using the constructed case frame dictionary.</Paragraph>
+</Section>
+</Paper>
+

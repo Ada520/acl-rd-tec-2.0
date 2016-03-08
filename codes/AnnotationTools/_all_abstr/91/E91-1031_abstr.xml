@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E91-1031">
+<Title>Prediction in Chart Parsing Algorithms for Categorial Unification Grammar</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Natural language systems based on Categorial Unification Grammar (CUG) have mainly employed bottom-up parsing algorithms for processing. Conventional prediction techniques to improve the efficiency of the * parsing process, appear to fall short when parsing CUG.</Paragraph>
+<Paragraph position="1"> Nevertheless, prediction seems necessary when parsing grammars with highly ambiguous lexicons or with non-canonical categorial rules. In this paper we present a lexicalist prediction technique for CUG and show thai this may lead to considerable gains in efficiency for both bottom-up and top-down parsing.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-3060">
+<Title>VIRTEX a German-Russlan Translation Experiment</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ANALYSIS
+</SectionTitle>
+<Paragraph position="0"> The lexical .entries for German syntactic analysis are taken from the analysis dictionary which is combined with a system of inflection lists; an analysis of inflectional endings is embedded in the dictionary access. A word form entry contains word class information, morphological features and values, some semantic information and the name of the lexeme.</Paragraph>
+<Paragraph position="1"> While the system is running, the lists of information and features are converted</Paragraph>
+<Paragraph position="3"> into numbers.</Paragraph>
+<Paragraph position="4"> For syntactic parsing an ATN-grammar is used to recognize nominal and prepositio ~ nal phrases, adverbials and verbs or verbal groups. A special embedded program analyzes the verb constituents. Homonymous morphological and word class features are disambiguated as far as possible throughout the parsing process.</Paragraph>
+</Section>
+</Paper>
+

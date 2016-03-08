@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-0206">
+<Title>An Application of the Interlingua System ISS for Spanish-English Pronominal Anaphora Generation,</Title>
+<Section position="1" start_page="0" end_page="42" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this ~paper, we present the Interlingua system ISS to generate the pronominal anaphora into the Spanish and English languages. We also describe the main problems in the pronoun generation into both languages such as zero-subject constructions and number, gender and syntactic differences. Our system improves other proposals presented so far due to the fact that we are able to solve and generate intersentential anaphora, to detect coreference chains and to generate Spanish zero-pronouns into English, issues that are hardly considered by other systems. Finally, we provide outstanding results of our system on unrestricted corpora.</Paragraph>
+<Paragraph position="1"> Introduction One of the main problems of many commercial Machine Translation (MT) and experimental systems is that they do not carry out a correct pronominal anaphora generation. Solving the anaphora and extracting the antecedent are key issues in a correct generation into the target language. Unfortunately, the majority of MT systems do not deal with anaphora resolution and their successful operation usually does not go beyond the sentence level. In this paper, we present a complete approach that allows pronoun resolution and generation into the target language.</Paragraph>
+<Paragraph position="2"> Our approach works on unrestricted texts unlike other systems, like the KANT interlingua system (Leavitt et al. (1994)), that are designed for well-defined domains. Although full parsing of these texts could be applied, we have used partial parsing of the texts due to the unavoidable incompleteness of the grammar.</Paragraph>
+<Paragraph position="3"> This is a main difference with the majority of the interlingua systems such as the DLT system based on a modification of Esperanto (Witkam (1983)), the Rosetta system which is experimenting with Montague semantics as the basis for an interlingua (Appelo and Landsbergen (1986)), the KANT system, etc. as they use full parsing of the text.</Paragraph>
+<Paragraph position="4"> After the parsing and solving pronominal anaphora, an interlingua representation of the whole text is obtained. In the interlingua representation no semantic information is used as input, unlike some approaches that have as input semantic information of the constituents (Miyoshi et al. (1997), Castell6n et al. (1998), the DLT system, etc).</Paragraph>
+<Paragraph position="5"> From this interlingua representation, the generation of anaphora (including intersentential anaphora), the detection of coreference chains of the whole text and the generation of Spanish zero-pronouns into English have been carried out, issues that are hardly considered by other systems. Furthermore, this approach can be used for other different applications, e.g. Information Retrieval, Summarization, etc.</Paragraph>
+<Paragraph position="6"> The paper is organized as follows: In section 1, the complete approach that includes Analysis, Interlingua and Generation modules will be described. These modules will be explained in detail in the next three sections. In section 5, the Generation module has been evaluated in order ! This paper has been partly financed by the collaborative research project between Spain and The United Kingdom number HB 1998-0068.</Paragraph>
+<Paragraph position="7">  to measure the efficiency of our proposal. To do so, two experiments have been accomplished: the generation of Spanish zero-pronouns into English (syntactic generation module) and the generation of English pronouns into Spanish ones (morphological generation module).</Paragraph>
+<Paragraph position="8"> Finally, the conclusions of this work will be presented.</Paragraph>
+</Section>
+</Paper>
+

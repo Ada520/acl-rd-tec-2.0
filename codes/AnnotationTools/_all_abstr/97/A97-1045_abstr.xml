@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A97-1045">
+<Title>Construction and Visualization of Key Term Hierarchies</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a prototype system for key term manipulation and visualization in a real-world commercial environment. The system consists of two components. A preprocessor generates a set of key terms from a text dataset which represents a specific topic. The generated key terms are organized in a hierarchical structure and fed into a graphic user interface (GUI). The friendly and interactive GUI toolkit allows the user to visualize the key terms in context and explore the content of the original dataset.</Paragraph>
+</Section>
+</Paper>
+

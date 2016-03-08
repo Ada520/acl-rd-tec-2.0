@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H93-1112">
+<Title>Text Retrieval and Routing Techniques Based on an Inference Net</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+PROJECT GOALS
+</SectionTitle>
+<Paragraph position="0"> The TIPSTER detection project at the University of Massachusetts is focusing on information retrieval and routing techniques for large, full-text databases, including Japanese. The project approach is to use improved representations of text and information needs in the framework of a probabilistic inference net model of retrieval. null In this project, retrieval (and routing) is viewed as a probabilistic inference process which &amp;quot;compares&amp;quot; text representations based on different forms of linguistic and statistical evidence to representations of information needs based on similar evidence from natural language queries and user interaction. New techniques for learning (relevance feedback) and extracting term relationships from text are also being studied.</Paragraph>
+<Paragraph position="1"> Some of the specific research issues we are addressing are morphological analysis in English and Japanese, word sense disambiguation in English, the use of phrases and other syntactic structure in English and Japanese, the use of special purpose recognizers in representing documents and queries, analysing natural language queries to build structured representations of information needs, learning techniques appropriate for routing and structured queries, probability estimation techniques for indexing, and techniques for automatically building and using thesauri. A rctricval system based on the inference net approach, INQUERY, has been built for studying these issues and distribution.</Paragraph>
+</Section>
+</Paper>
+

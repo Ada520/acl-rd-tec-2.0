@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-2053">
+<Title>A New Parallel Algorithm for Generalized LR Parsing</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Tomita's parsing algorithm \[~Ibmita 86\], which adapted the LR parsing algorithm to context fl'ee grammars, makes use of a breadth-first strategy to handle LR table conflicts. As the breadth-first strategy is compatible with parallel processing, we can easily develop a parallel generalized LR parser b~ed on Tomita's algorithm \[Tanaka 89\]. However, there is a problem in that this algorithm synchronizes parsing processes on each shift a,:tion for the same input word to merge many st~ks :into Graph Structured Stacks (GSS). In other words, a process that has completed a shift action must wait until all other processes have ended theirs --- a strategy that reduces parallel performance. We have developed a new parallel parsing algorithm that does not need to wait for shift actions before merging many stacks, using stream communication of a concurrent logic programming language called GIIC \[Ueda 85\]. Thus we obtain a parallel generalized LR parser implemented in GHC.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C88-2163">
+<Title>Default Reasoning in Natural Language Processing lid ZERNIK Artificial Intelligence Program GE, Research and Development Center</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In natural )a~gnage, as in other computational task domains it is impox~ant tc~ operate by default assumptions. First, m~my constraints re(tni~'exl h)r constraint propagation are initially tmspecified, Second, in highly ambiguous tasks such as text analysis, ambiguity can be reduced by considering more plansi-.</Paragraph>
+<Paragraph position="1"> hie scenarios first. Default reasoning is problematic for first-order logic when allowing non-monotonic inferences. Whereas in monotonic logic facts can only be asserted, in non-monotonic logk: a system must be maintained consistent even as previously assumed defaults are being retracted.</Paragraph>
+<Paragraph position="2"> Non~monotoniety is pervasive in natural language due to the serial nature of utterances. When reading text left-to-fight, it happens that default assumptions made early in the sentence must be withdrawn as reading proceeds. Truth maintenance, which accounts for non-monotonic inferences, ctm resolve this issue and address important linguistic phenomena, hi this paper we describe, how in NMG (Non-Monotonic Grammar), by monitoring a logic parser, a truth maintenance system can significantly. enhauce the parser'g capabilities.</Paragraph>
+</Section>
+</Paper>
+

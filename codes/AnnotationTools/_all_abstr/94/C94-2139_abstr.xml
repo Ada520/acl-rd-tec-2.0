@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C94-2139">
+<Title>Analysis of Japanese Compound Nouns using Collocational Information</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Analyzing compound nouns is one of the crucial issues for natural language processing systems, in particular for those systems that aim at a wide coverage of domaius. In this paper, we propose a mcthod to analyze structures of Japanese compound nouns by using both word collocations statistics and a thesaurus. An experiment is conducted with 160,000 word collocations to analyze comlmund nouns of with an average length of 4.9 characters. The accuracy of this method is about 80%.</Paragraph>
+</Section>
+</Paper>
+

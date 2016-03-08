@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C92-4176">
+<Title>RIDDLES: ACCESSIBI1JTY AND KNOWRID(H'I I{I':t)IC/I~SI'INTA'I'ION</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. INTRODUCTION
+</SectionTitle>
+<Paragraph position="0"> In another study (Weiner and De Pahna 199,31, we determined that accessibility hierarchies among the meanings of po\]ysemous words play an ilnportant role in the generation and comprehension of a category of sinlple riddles, In that paper and this one we restrict our attention to riddles that fit this definition: d :/d(//e cons/Ms ol:a se)~/e se/e/enee &lt;lues/ean \[/FQJ /o/lowed by a s///g/: se/s/e/see aesswe/&amp;quot; ill/A/. //)e //Q flrese/e/s ~7 col/eel/by/o/a///':3u/e,s' wh/bl/ c'a:) apply to///ore/hal/o:/e AlP, /hu, r a//o#:/?/S :no/'e /he// one an.type/&amp;quot;/o/lye &lt;/uesl/m:. a/eddie an, re:el&amp;quot; \[#d) a/:d a .qm:~kl e/ns/v:.,:: /~e R~ //a,r bee:/eo/e.s'D&amp;quot;ueled :~ suc/: o way u,r 1o lead/lie/'/rid/re/opre~'z&amp;quot;/he .5't/reght answe:&amp;quot; over ttJe tIA.</Paragraph>
+<Paragraph position="1"> Lexical ambiguity is at the center of riddles of this type. Consider this riddle:  (1) RQ: What has a mouth and eamlot eat? RAp A river.</Paragraph>
+<Paragraph position="2">  Here the riddler intends by Iil~h the inanimate meaning but the sentence is constructed so that the anilnate one is the more natural reading, tn our 1993 paper, we showed how the existence of aeeessibililty hierarchies could account for this preference.</Paragraph>
+<Paragraph position="3"> We now turn our attention to the need to build this mechanism into any knowledge representation language that hopes to capture the full subtlety of natural language since it is our contention that riddles, violate the rules of normal discourse and thus represent a useful way % approach the study of these rules. To that end, we present a knowledge representation plan along wit.h an algorithm that uses the repl'esentatiou in order to generate riddles.</Paragraph>
+<Paragraph position="4"> Althou~g~ the representational structures that we use are in the style of lKl, ONE (Braehman and Sehlnolze), this is purely a convenience.</Paragraph>
+<Paragraph position="5"> Accessibility hierarci)ies must be built into ~ly system which can process natural language as well as one which can play the riddling game.</Paragraph>
+</Section>
+</Paper>
+

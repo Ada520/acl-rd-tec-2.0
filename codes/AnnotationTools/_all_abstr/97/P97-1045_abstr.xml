@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P97-1045">
+<Title>Automatic Extraction of Aspectual Information from a Monolingual Corpus</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes an approach to extract the aspectual information of Japanese verb phrases from a monolingual corpus.</Paragraph>
+<Paragraph position="1"> We classify Verbs into six categories by means of the aspectual features which are defined on the basis of the possibility of co-occurrence with aspectual forms and adverbs. A unique category could be identified for 96% of the target verbs. To evaluate the result of the experiment, we examined the meaning of -leiru which is one of the most fundamental aspectual markers in Japanese, and obtained the correct recognition score of 71% for the 200 sentences.</Paragraph>
+</Section>
+</Paper>
+

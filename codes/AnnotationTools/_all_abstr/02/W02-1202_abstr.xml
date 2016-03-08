@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-1202">
+<Title>Rajeev Sangal, Durgesh D Rao, LERIL : Collaborative Effort for Creating Lexical Resources, In Proc. of Workshop on Language Resources in</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> This paper describes a dependency based tagging scheme for creating tree banks for Indian languages. The scheme has been so designed that it is comprehensive, easy to use with linear notation and economical in typing effort. It is based on Paninian grammatical model.</Paragraph>
+<Paragraph position="1"> 1.BACKGROUND The name AnnCorra, shortened for &amp;quot;Annotated Corpora&amp;quot;, is for an electronic lexical resource of annotated corpora. The purpose behind this effort is to fill the lacuna in such resources for Indian languages. It will be an important resource for the development of Indian language parsers, machine learning of grammars, lakshancharts (discrimination nets for sense disambiguation) and a host of other such tools.</Paragraph>
+</Section>
+</Paper>
+

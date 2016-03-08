@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N04-1010">
+<Title>Acquiring Hyponymy Relations from Web Documents</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes an automatic method for acquiring hyponymy relations from HTML documents on the WWW. Hyponymy relations can play a crucial role in various natural language processing systems. Most existing acquisition methods for hyponymy relations rely on particular linguistic patterns, such as &amp;quot;NP such as NP&amp;quot;. Our method, however, does not use such linguistic patterns, and we expect that our procedure can be applied to a wide range of expressions for which existing methods cannot be used. Our acquisition algorithm uses clues such as itemization or listing in HTML documents and statistical measures such as document frequencies and verb-noun co-occurrences.</Paragraph>
+</Section>
+</Paper>
+

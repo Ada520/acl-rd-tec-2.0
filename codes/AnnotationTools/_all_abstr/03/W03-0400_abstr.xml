@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-0400">
+<Title>SPONSOR: CLIF (Computational Linguistics in Flanders)</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+SPONSOR:
+CLIF (Computational Linguistics in Flanders)
+INVITED SPEAKER:
+</SectionTitle>
+<Paragraph position="0"> This volume contains the papers accepted for presentation at the 2003 conference on Computational Natural Language Learning (CoNLL-2003), a SIGNLL meeting held in Edmonton, Canada, May 31 and June 1 in conjunction with the HLT-NAACL Conference.</Paragraph>
+<Paragraph position="1"> CoNLL-2003 is the seventh in a series of meetings organized by SIGNLL1, the ACL special interest group on natural language learning. The CoNLL meeting is intended to address all aspects of computational natural language learning.</Paragraph>
+<Paragraph position="2"> This year, we have a special theme on semi-supervised learning; the development of techniques for making use of the massively available unannotated text data in order to increase accuracy of trained language processing systems. Our keynote speaker, Steven Abney, fits this theme with a presentation about the Yarowsky algorithm.</Paragraph>
+<Paragraph position="3"> As in the previous three editions of CoNLL, we have a shared task session, coordinated by Erik Tjong Kim Sang and Fien De Meulder. This year the task is named-entity recognition. For this session, training and test data were made available, and researchers were invited to apply their learning system to this task. Seventeen systems have participated. You will find descriptions of these systems and their results in these proceedings.</Paragraph>
+<Paragraph position="4"> Of the 35 full papers submitted, the programme committee selected 17 papers, representative of the state of the art in computational language learning today. We are very grateful to our program committee and additional reviewers for the effort they put in reviewing the papers. We are also grateful to the HLT-NAACL-2003 conference organizers on whom we could rely for the local organization. Finally, we most gratefully acknowledge the support of our sponsor, the Computational Linguistics in Flanders research community (CLIF) for sponsoring the invited speaker.</Paragraph>
+</Section>
+</Paper>
+

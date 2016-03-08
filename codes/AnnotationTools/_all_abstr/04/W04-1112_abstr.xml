@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-1112">
+<Title>Chinese Term Extraction from Web Pages Based on Compound word Productivity</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we propose an automatic term recognition system for Chinese. Our idea is based on the relation between a compound word and its constituents that are simple words or individual Chinese character. More precisely, we basically focus on how many words/characters adjoin the word/character in question to form compound words. We also take into account the frequency of term. We evaluated word based method and character based method with several Chinese Web pages, resulting in precision of 75% for top ten candidate terms.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C82-1044">
+<Title>AN ENGLISH-JAPANESE MACHINE TRANSLATION SYSTEM BASED ON FORMAL SEMANTICS OF NATURAL LANGUAGE</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+AN ENGLISH-JAPANESE MACHINE TRANSLATION SYSTEM
+BASED ON FORMAL SEMANTICS OF NATURAL LANGUAGE
+</SectionTitle>
+<Paragraph position="0"> Tbls paper proposes a new model of machine translation. In this model, the lambda formula obtained from the syntactic and Semantic analysis of a source language sentence is viewed as a target language generating function and the target language sentence is obtained as a result of evaluating the formula by functional application or ~-calculus. This model provides a systematic and powerful way of incorporating human knowledge on the languages. A prototype is constructed on the LISP system. The performance was tested for four sample texts taken from existing technical reports and computer manuals.</Paragraph>
+</Section>
+</Paper>
+

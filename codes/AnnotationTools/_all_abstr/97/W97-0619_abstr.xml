@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0619">
+<Title>Corpus-Based Information Presentation for a Spoken Public Transport Information System* M.M.M. Rats and R.J. van Vark and J.P.M. de Vreught Knowledge Based Systems</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The Alparon project aims to improve Vxos, Openbaar Vervoer Reisinformatie's (OVa) automated speech processing system for public transport information, by using a corpus-based approach. The shortcomings of the current system have been investigated, and a study is made of how dialogues in the OVR domain usually occur between a human operator and a client. While centering our attention on the presentation of information by the Automated Speech Processing (ASP) system, we describe the implications of this corpus-based approach on the implementation of our prototype.</Paragraph>
+</Section>
+</Paper>
+

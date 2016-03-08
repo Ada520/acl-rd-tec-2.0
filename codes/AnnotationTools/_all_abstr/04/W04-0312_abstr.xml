@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-0312">
+<Title>Incremental Parsing, or Incremental Grammar?</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Standard grammar formalisms are de ned without re ection of the incremental and serial nature of language processing, and incrementality must therefore be re ected by independently de ned parsing and/or generation techniques.</Paragraph>
+<Paragraph position="1"> We argue that this leads to a poor setup for modelling dialogue, with its rich speaker-hearer interaction, and instead propose context-based parsing and generation models de ned in terms of an inherently incremental grammar formalism (Dynamic Syntax), which allow a straight-forward model of otherwise problematic dialogue phenomena such as shared utterances, ellipsis and alignment.</Paragraph>
+</Section>
+</Paper>
+

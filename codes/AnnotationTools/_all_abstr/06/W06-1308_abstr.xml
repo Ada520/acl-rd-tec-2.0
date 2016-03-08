@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-1308">
+<Title>Sydney, July 2006. c(c)2006 Association for Computational Linguistics Resolution of Referents Groupings in Practical Dialogues</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents an extension to the Reference Domain Theory (Salmon-Alt, 2001) in order to solve plural references.</Paragraph>
+<Paragraph position="1"> While this theory doesn't take plural reference into account in its original form, this paper shows how several entities can be grouped together by building a new domain and how they can be accessed later on. We introduce the notion of super-domain, representing the access structure to all the plural referents of a given type.</Paragraph>
+</Section>
+</Paper>
+

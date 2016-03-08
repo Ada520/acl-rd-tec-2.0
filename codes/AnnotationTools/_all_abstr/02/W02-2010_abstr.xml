@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-2010">
+<Title>Named Entity Recognition as a House of Cards: Classifier Stacking</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> This paper presents a classifier stacking-based approach to the named entity recognition task (NER henceforth). Transformation-based learning (Brill, 1995), Snow (sparse network of winnows (Munoz et al., 1999)) and a forward-backward algorithm are stacked (the output of one classifier is passed as input to the next classifier), yielding considerable improvement in performance. In addition, in agreement with other studies on the same problem, the enhancement of the feature space (in the form of capitalization information) is shown to be especially beneficial to this task.</Paragraph>
+</Section>
+</Paper>
+

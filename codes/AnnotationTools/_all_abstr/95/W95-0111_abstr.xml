@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W95-0111">
+<Title>I Automatic Suggestion of Significant Terms for a Predefined Topic</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> This paper presents a preliminary experiment in automatically suggesting significant terms for a predefined topic. The general method is to compare a topically focused sample created around the predefined topic with a larger and more general base sample. A set of statistical measures are used to identify significant word units in both samples. Identification of single word terms is based on the notion of word intervals. Two-word terms are identified through the computation of mutual information, and the extension of mutual information assists in capturing multi-word terms. Once significant terms of all these three types are identified, a comparison algorithm is applied to differentiate terms across the two data samples. If significant changes in the values of certain statistical variables are detected, associated terms will selected as being topic-oriented and included in a suggested list. To check the quality of the suggested terms, we compare them against terms manually determined by the domain expert. Though overlaps vary, we find that the automatical suggestion provides more terms that are useful for describing the predefined topic.</Paragraph>
+</Section>
+</Paper>
+

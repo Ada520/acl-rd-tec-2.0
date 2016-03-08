@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0803">
+<Title>Extending a thesaurus by classifying words</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper proposes a method for extending an existing thesaurus through classification of new words in terms of that thesaurus. New words are classified on the basis of relative probabilities of.a word belonging to a given word class, with the probabilities calculated using noun-verb co-occurrence pairs. Experiments using the Japanese Bunruigoihy5 thesaurus on about 420,000 co-occurrences showed that new words can be classified correctly with a maximum accuracy of more than 80%.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W05-0908">
+<Title>Proceedings of the ACL Workshop on Intrinsic and Extrinsic Evaluation Measures for Machine Translation and/or Summarization, pages 57-64, Ann Arbor, June 2005. c(c)2005 Association for Computational Linguistics On Some Pitfalls in Automatic Evaluation and Significance Testing for MT</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+3333 Coyote Hill Road, Palo Alto, CA 94304
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We investigate some pitfalls regarding the discriminatory power of MT evaluation metrics and the accuracy of statistical significance tests. In a discriminative reranking experiment for phrase-based SMT we show that the NIST metric is more sensitive than BLEU or F-score despite their incorporation of aspects of fluency or meaning adequacy into MT evaluation. In an experimental comparison of two statistical significance tests we show that p-values are estimated more conservatively by approximate randomization than by bootstrap tests, thus increasing the likelihood of type-I error for the latter. We point out a pitfall of randomly assessing significance in multiple pairwise comparisons, and conclude with a recommendation to combine NIST with approximate randomization, at more stringent rejection levels than is currently standard.</Paragraph>
+</Section>
+</Paper>
+

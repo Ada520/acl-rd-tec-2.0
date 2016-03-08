@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-1080">
+<Title>Chart Parsing and Constraint Programming</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, lmrsing-as-deduction and constraint programming are brought together to outline a procedure for the speeitication of constraint-based chart parsers. Fob lowing the proposal in Shieber et al. (1995), we show how to directly realize tim inference rules tbr deductive parsers as Constraint Handling Rules (Fr{ihwirlh, 1998) by viewing lhe items of a chart parser its constraints and lhe constraint base as a charl. This allows the direct use of constraint resolution to parse sentences.</Paragraph>
+</Section>
+</Paper>
+

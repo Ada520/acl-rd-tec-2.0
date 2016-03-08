@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-1659">
+<Title>Unsupervised Information Extraction Approach Using Graph Mutual Reinforcement</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Information Extraction (IE) is the task of extracting knowledge from unstructured text. We present a novel unsupervised approach for information extraction based on graph mutual reinforcement.</Paragraph>
+<Paragraph position="1"> The proposed approach does not require any seed patterns or examples. Instead, it depends on redundancy in large data sets and graph based mutual reinforcement to induce generalized &amp;quot;extraction patterns&amp;quot;. The proposed approach has been used to acquire extraction patterns for the ACE</Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+(Automatic Content Extraction) Relation
+Detection and Characterization (RDC)
+</SectionTitle>
+<Paragraph position="0"> task. ACE RDC is considered a hard task in information extraction due to the absence of large amounts of training data and inconsistencies in the available data.</Paragraph>
+<Paragraph position="1"> The proposed approach achieves superior performance which could be compared to supervised techniques with reasonable training data.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

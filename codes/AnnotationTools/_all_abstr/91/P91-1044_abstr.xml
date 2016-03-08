@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P91-1044">
+<Title>Action representation for NL instructions</Title>
+<Section position="1" start_page="0" end_page="333" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> The need to represent actions arises in many different areas of investigation, such as philosophy \[5\], semantics \[10\], and planning. In the first two areas, representations are generally developed without any computational concerns. The third area sees action representation mainly as functional to the more general task of reaching a certain goal: actions have often been represented by a predicate with some arguments, such as move(John, block1, room1, room2), augmented with a description of its effects and of what has to be true in the world for the action to be executable \[8\]. Temporal relations between actions \[1\], and the generation relation \[12\], \[2\] have also been explored.</Paragraph>
+<Paragraph position="1"> However, if we ever want to be able to give instructions in NL to active agents, such as robots and animated figures, we should start looking at the characteristics of action descriptions in NL, and devising formalisms that should be able to represent these characteristics, at least in principle. NL action descriptions axe complex, and so are the inferences the agent interpreting them is expected to draw.</Paragraph>
+<Paragraph position="2"> As far as the complexity of action descriptions goes, consider: Ex. 1 Using a paint roller or brush, apply paste to the wall, starting at the ceiling line and pasting down a few feet and covering an area a few inches wider than the width of the fabric.</Paragraph>
+<Paragraph position="3"> The basic description apply paste to the wall is augmented with the instrument to be used and with direction and eztent modifiers. The richness of the possible modifications argues against representing actions as predicates having a fixed number of arguments. null Among the many complex inferences that an agent interpreting instructions is assumed to be able to draw, one type is of particular interest to me, namely, the interaction between the intentional description of an action - which I'll call the goal or the why- and *This research was supported by DARPA grant no. N001485 -K0018.</Paragraph>
+<Paragraph position="4">  its executable counterpart - the how 1. Consider: Ex. 2 a) Place a plank between two ladders to create a simple scaffold.</Paragraph>
+<Paragraph position="5"> b) Place a plank between two ladders.</Paragraph>
+<Paragraph position="6"> In both a) and b), the action to be executed is aplace a plank between two ladders ~. However, Ex. 2.b would be correctly interpreted by placing the plank anywhere between the two ladders: this shows that in a) the agent must be inferring the proper position for the plank from the expressed why &amp;quot;to create a simple scaffoldL My concern is with representations that allow specification of both bow's and why's, and with reasoning that allows inferences such as the above to be made. In the rest of the paper, I will argue that a hybrid representation formalism is best suited for the knowledge I need to represent.</Paragraph>
+</Section>
+</Paper>
+

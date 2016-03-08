@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-3052">
+<Title>Typed Unification Grammars</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We introduce TFS, a computer formalism in the class of logic ibrmaiisms which integrates a powerful type system. Its basic data structures are typed feature structures.</Paragraph>
+<Paragraph position="1"> The type system encourages an object-oriented approach to linguistic description by providing a multiple inheritance mechanism and an inference mechanism which allows the specitication of relations between levels o\[ linguistic description defined as classes of objects. We illustrate this alcproach starting from a very simple DCG, and show how to make use of the typing system to enforce general constraints and modularize linguistic descriptions, and how further abstraction leads to a tlPSG-Iike grammar. null</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-1072">
+<Title>Learning to Recognize Names Across Languages</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+USA
+gallippi @ aludra.usc.edu
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The development of natural language proccssing (NLP) systems that perform machine translation (MT) and information retrieval (IR) has highlighted the need for the automatic recognition of proper names.</Paragraph>
+<Paragraph position="1"> While various name recognizers have been developed, they suffer from being too limited; some only recognize one name class, and all are language specific. This work develops an approach to multilingual name recognition that allows a system optimized for one language to be ported to another with little additional effort and resources.</Paragraph>
+<Paragraph position="2"> An initial core set of linguistic features, useful for name recognition in most languages, is identified. When porting to a new language, these features need to be converted (partly by hand, partly by on-line lists), after which point machine learning (ML) techniques build decision trees that map features to name classes. A system initially optimized for English has been successfully ported to Spanish and Japanese. Only a few days of human effort for each new language results in performance levels comparable to that of the best current English systems.</Paragraph>
+</Section>
+</Paper>
+

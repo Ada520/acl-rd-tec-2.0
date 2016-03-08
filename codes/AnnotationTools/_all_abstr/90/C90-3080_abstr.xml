@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-3080">
+<Title>QPATR and Constraint Threading</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+QPATR is an MS-DOS Arity/PROLOG implemen-
+</SectionTitle>
+<Paragraph position="0"> tation of the PATR-II formalism for unification grammar.</Paragraph>
+<Paragraph position="1"> The fbnnalism has been extended to include the constraints of LFG as well as negation and disjunction, which are implemented with the disjunction and negation-as-failure of PROLOG itself. A technique of constraint threading is employed to collect negative and constraining conditions in PROLOG difference lists. The parser of QPATR uses a left-corner algorithm for context-free grammars and includes a facility for identifying new lexical items in input on the basis of contextual information.</Paragraph>
+</Section>
+</Paper>
+

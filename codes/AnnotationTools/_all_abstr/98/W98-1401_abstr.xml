@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-1401">
+<Title>Natural Language Generation Journeys to Interactive 3D Worlds* Invited Talk Extended Abstract</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Interactive 3D worlds offer an intriguing testbed for the natural language generation community. To complement interactive 3D worlds' rich visualizations, they ~equire significant linguistic flexibility and communicative * power. We explore the major functionalities and ~rchitectural implications of natural language generation for three key classes of interactive 3D worlds: self. .&amp;quot; explaining 3D environments, habitable 3D learning environments, and interactive 3D narrative worlds. These are illustrated with .empirical investigations underway in our laboratory with severalsuch systems.</Paragraph>
+<Paragraph position="2"></Paragraph>
+</Section>
+</Paper>
+

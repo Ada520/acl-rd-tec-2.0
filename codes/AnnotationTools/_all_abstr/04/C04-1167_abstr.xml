@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1167">
+<Title>Statistical Language Modeling with Performance Benchmarks using Various Levels of Syntactic-Semantic Information</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Statistical language models using n-gram approach have been under the criticism of neglecting large-span syntactic-semantic information that influences the choice of the next word in a language. One of the approaches that helped recently is the use of latent semantic analysis to capture the semantic fabric of the document and enhance the n-gram model. Similarly there have been some approaches that used syntactic analysis to enhance the n-gram models. In this paper, we explain a framework called syntactically enhanced latent semantic analysis and its application in statistical language modeling. This approach augments each word with its syntactic descriptor in terms of the part-of-speech tag, phrase type or the supertag. We observe that given this syntactic knowledge, the model outperforms LSA based models significantly in terms of perplexity measure. We also present some observations on the effect of the knowledge of content or function word type in language modeling. This paper also poses the problem of better syntax prediction to achieve the benchmarks.</Paragraph>
+</Section>
+</Paper>
+

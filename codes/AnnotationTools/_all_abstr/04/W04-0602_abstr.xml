@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-0602">
+<Title>Towards Metadata Interoperability</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Within two European projects metadata interoperability is one of the central topics. While the INTERA project has as one of its goals to achieve an interoperability between two widely used metadata sets for the domain of language resources, the ECHO project created an integrated metadata domain of in total nine data providers from five different disciplines from the humanities. In both projects ad hoc techniques are used to achieve results. In the INTERA project, however, machine readable and ISO compliant concept definitions are created as a first step towards the Semantic Web.</Paragraph>
+<Paragraph position="1"> In the ECHO project a complex ontology was realized purely relying on XML. It is argued that concept definitions should be registered in open Data Category Repositories and that relations between them should be described as RDF assertions.</Paragraph>
+<Paragraph position="2"> Yet we are missing standards that would allow us to overcome the ad hoc solutions. null</Paragraph>
+</Section>
+</Paper>
+

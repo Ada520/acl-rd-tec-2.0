@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-2611">
+<Title>Abstraction Summarization for Managing the Biomedical Research Literature</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We explore a semantic abstraction approach to automatic summarization in the biomedical domain. The approach relies on a semantic processor that functions as the source interpreter and produces a list of predications. A transformation stage then generalizes and condenses this list, ultimately generating a conceptual condensate for a disorder input topic. The final condensate is displayed in graphical form. We provide a set of principles for the transformation stage and describe the application of this approach to multidocument input. Finally, we examine the characteristics and quality of the condensates produced.</Paragraph>
+</Section>
+</Paper>
+

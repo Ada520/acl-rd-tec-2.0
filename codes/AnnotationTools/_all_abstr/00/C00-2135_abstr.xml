@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-2135">
+<Title>Acquisition of Phrase-level Bilingual Correspondence using Dependency Structure</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a method to find phrase-level translation patterns from parallel corpora by applying dependency structure analysis. We use statistical dependency parsers to determine dependency relations between base phrases in a seN;ence. Our method is tested with a business expression corpus containing 10000 English Japanese sentence pairs and achieved approximately 90 % accuracy in extracting bilingual correspondences. The result shows that the use of dependency relation helps to acquire interesting translation patterns.</Paragraph>
+</Section>
+</Paper>
+

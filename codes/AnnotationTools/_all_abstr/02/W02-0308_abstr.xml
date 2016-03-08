@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-0308">
+<Title>Unsupervised, corpus-based method for extending a biomedical terminology</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Objectives: To automatically extend downwards an existing biomedical terminology using a corpus and both lexical and terminological knowledge. Methods: Adjectival modifiers are removed from terms extracted from the corpus (three million noun phrases extracted from MEDLINE), and demodified terms are searched for in the terminology (UMLS Metathesaurus, restricted to disorders and procedures). A phrase from MEDLINE becomes a candidate term in the Metathesaurus if the following two requirements are met: 1) a demodified term created from this phrase is found in the terminology and 2) the modifiers removed to create the demodified term also modify existing terms from the terminology, for a given semantic category. A manual review of a sample of candidate terms was performed. Results: Out of the 3 million simple phrases randomly extracted from MEDLINE, 125,000 new terms were identified for inclusion in the UMLS.</Paragraph>
+<Paragraph position="1"> 83% of the 1000 terms reviewed manually were associated with a relevant UMLS concept. Discussion: The limitations of this approach are discussed, as well as adaptation and generalization issues.</Paragraph>
+</Section>
+</Paper>
+

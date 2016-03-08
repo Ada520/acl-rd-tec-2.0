@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W05-0212">
+<Title>A Software Tool for Teaching Reading Based on Text-to-Speech Letter-to-Phoneme Rules</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Native speakers of English who are good readers can &amp;quot;sound out&amp;quot; words or names from printed text, even if they have never seen them before, although they may not be conscious of the strategies they use.</Paragraph>
+<Paragraph position="1"> No tools are available today that can convey that knowledge to learners, showing them the rules that apply in English text.</Paragraph>
+<Paragraph position="2"> We have adapted the letter-to-phoneme component of a text-to-speech synthesizer to a web-based software system that can teach word decoding to non-native speakers of English, English-speaking children, and adult learners.</Paragraph>
+</Section>
+</Paper>
+

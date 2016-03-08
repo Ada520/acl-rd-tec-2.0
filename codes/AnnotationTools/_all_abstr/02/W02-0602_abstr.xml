@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-0602">
+<Title>Unsupervised Learning of Morphology Using a Novel Directed Search Algorithm: Taking the First Step</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a system for the unsupervised learning of morphological suffixes and stems from word lists. The system is composed of a generative probability model and a novel search algorithm.</Paragraph>
+<Paragraph position="1"> By examining morphologically rich sub-sets of an input lexicon, the search identifies highly productive paradigms. Quantitative results are shown by measuring the accuracy of the morphological relations identified. Experiments in English and Polish, as well as comparisons with other recent unsupervised morphology learning algorithms demonstrate the effectiveness of this technique.</Paragraph>
+</Section>
+</Paper>
+

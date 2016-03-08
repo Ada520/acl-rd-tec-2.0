@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C92-1021">
+<Title>Hopfield Models as Nondeterministic Finite-State Machines</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Tbe use of neural networks for integrated linguistic analysis may be profitable. This paper presents the first results of our research on that subject: a Hopfield model for syntactical analysis. We construct a neural network as an implementation of a bounded push-down automaton, which can accept context-free languages with limited center-embedding. The network's behavior can be predicted a priori, so the presented theory can be tested. The operation of the network as an implementation of the acceptor is provably correct. Furthermore we found a solution to the problem of spurious states in Hopfield models: we use them as dynamically constructed representations of sets of states of the implemented acceptor. The so-called neural-network aceeptor we propose, is fast but large.</Paragraph>
+</Section>
+</Paper>
+

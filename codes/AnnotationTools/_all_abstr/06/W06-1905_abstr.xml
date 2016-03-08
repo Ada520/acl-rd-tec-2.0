@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-1905">
+<Title>Keyword Translation Accuracy and Cross-Lingual Question Answering in Chinese and Japanese</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we describe the extension of an existing monolingual QA system for English-to-Chinese and English-to-Japanese cross-lingual question answering (CLQA). We also attempt to characterize the influence of translation on CLQA performance through experimental evaluation and analysis. The paper also describes some language-specific issues for keyword translation in CLQA.</Paragraph>
+</Section>
+</Paper>
+

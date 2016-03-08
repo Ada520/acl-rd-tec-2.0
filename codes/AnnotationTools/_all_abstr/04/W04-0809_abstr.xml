@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-0809">
+<Title></Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+References
+</SectionTitle>
+<Paragraph position="0"> E. J. Briscoe and J. Carroll. 1997. Automatic extraction of subcategorization from corpora. ACL ANLP.</Paragraph>
+<Paragraph position="1"> E. J. Briscoe and J. Carroll. 2002. Robust accurate statistical annotation of general text. LREC.</Paragraph>
+<Paragraph position="2"> S. F. Chen and J. Goodman. 1996. An empirical study of smoothing techniques for language modeling. ACL.</Paragraph>
+<Paragraph position="3"> A. Korhonen and J. Preiss. 2003. Improving subcategorization acquisition using word sense disambiguation. ACL.</Paragraph>
+<Paragraph position="4"> A. Korhonen. 2002. Subcategorization acquisition. PhD. thesis, Univ. of Cambridge.</Paragraph>
+<Paragraph position="5"> G. Leech. 1992. 100 million words of English: the British National Corpus. Langauge Research.</Paragraph>
+<Paragraph position="6"> B. Levin. 1993. English verb classes and alternation. Chicago Univ. Press.</Paragraph>
+<Paragraph position="7"> C. D. Manning and H. Schutze. 1999. Foundations of Statisitcal NLP. MIT Press.</Paragraph>
+<Paragraph position="8"> M. Palmer and C. Fellbaum and S. Cotton and L. Delfs and H. T. Dang. 2002. English tasks: all-words and verb lexical sample. SENSEVAL-2: 2nd international workshop on evaluating word sense disambiguating systems. J. Preiss and D. Yarowsky, eds. 2002. SENSEVAL-2: 2nd international workshop on evaluating word sense disambiguating systems. J. Preiss and A. Korhonen and E. J. Briscoe. 2002. Subcategorisation acquisition as an evaluation method for WSD. LREC.</Paragraph>
+<Paragraph position="9"> J. Preiss. 2004. Probabilistic word sense disambiguation. Computer speech and language.</Paragraph>
+</Section>
+</Paper>
+

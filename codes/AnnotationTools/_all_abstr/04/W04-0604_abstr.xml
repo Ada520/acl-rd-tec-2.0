@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-0604">
+<Title>The semantics of markup: Mapping legacy markup schemas to a common semantics</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A method for mapping linguistic descriptions in plain XML into semantically rich RDF/OWL is outlined and demonstrated.</Paragraph>
+<Paragraph position="1"> Starting with Simons's (2003) original proof of concept of this method, we extend his Semantic Interpretation Language (SIL) for creating metaschemas to carry out the mapping, employ the General Ontology for Linguistic Description (GOLD) of Farrar and Langendoen (2003) as the target semantic schema, and make use of SeRQL, an RDF-aware search engine. This data migration effort is in keeping with the vision of a Semantic Web; it is part of an effort to build a 'community of practice' around semantically rich linguistic resources. null</Paragraph>
+</Section>
+</Paper>
+

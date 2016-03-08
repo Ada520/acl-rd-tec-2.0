@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A00-1015">
+<Title>J avox: A Toolkit for Building Speech-Enabled Applications</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> JAVOX provides a mechanism for the development of spoken-language systems from existing desktop applications. We present an architecture that allows existing Java 1 programs to be speech-enabled with no source-code modification, through the use of reflection and automatic modification to the application's compiled code. The grammars used in JAvox are based on the Java Speech Grammar Format (JSGF); JAVOX grammars have an additional semantic component based on our JAVOX Scripting Language (JSL). JAVOX has been successfully demonstrated on real-world applications.</Paragraph>
+</Section>
+</Paper>
+

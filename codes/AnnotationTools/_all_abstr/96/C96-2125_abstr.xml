@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-2125">
+<Title>Learning dialog act processing</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we describe a new approach for learning dialog act processing. In this approach we integrate a symbolic semantic segmentation parse,: with a learning dialog act network. In order to support the unforeseeable errors and variations of spoken language we have concentrated on robust data-driven learning. This approach already compares favorably with the statistical average plansibility method, produces a segmentation and dialog act assignment for all utteranccs in a robust manner, and redaces knowledge engineering since it can be bootstrapped from rather small corpora. Therefore, we consider this new approach as very promising for learning dialog act processing.</Paragraph>
+</Section>
+</Paper>
+

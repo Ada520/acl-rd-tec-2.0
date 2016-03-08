@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W05-1611">
+<Title>Discrete Optimization as an Alternative to Sequential Processing in NLG</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present an NLG system that uses Integer Linear Programming to integrate different decisions involved in the generation process. Our approach provides an alternative to pipeline-based sequential processing which has become prevalent in today's NLG applications.</Paragraph>
+</Section>
+</Paper>
+

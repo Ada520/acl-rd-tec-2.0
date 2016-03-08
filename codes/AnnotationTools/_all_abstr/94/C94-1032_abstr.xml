@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C94-1032">
+<Title>A Stochastic Japanese Morphological Analyzer Using a Forward-DP Backward-A* N-Best Search Algorithm</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a novel method for segmenting the input sentence into words and assigning parts of speech to the words. It consists of a statistical language model and an efficient two-pa~qs N-best search algorithm. The algorithm does not require delimiters between words.</Paragraph>
+<Paragraph position="1"> Thus it is suitable for written Japanese. q'he proposed Japanese morphological analyzer achieved 95. l% recall and 94.6% precision for open text when it was trained and tested on the ATI'C/ Corpus.</Paragraph>
+</Section>
+</Paper>
+

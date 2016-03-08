@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C94-2144">
+<Title>amp;quot;YD/2---A Type Description Language for Constraint-Based Grammars</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract 2 Motivation
+</SectionTitle>
+<Paragraph position="0"> This paper presents &amp;quot;FD~g, a typed feal, ure-bascd rein'csent, el;ion language att(l ild'erence system. Type definitions in TDL consis~ of type and feature constraints over the Imolean cmme(Mves. TDPS supports open- and closedworM reasoning over types and allows for par|;itions and iueompal;i\[)le I.ypes. Working with l)artially as well as with lhlly expanded types is possible. E\[lieienl. reasoning in &amp;quot;\]'1)12 is accomplished through Sl)Ccialized mtMules.</Paragraph>
+<Paragraph position="1"> Tot)teal Pat)er. 7t~pie Area: sofl,w;u'e fin&amp;quot; NI,I', gram-mar \['t)i'midism for Lyl)ed \['e~H.Hi't: st,rut:lures.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C02-1065">
+<Title>Measuring the Similarity between Compound Nouns in Difierent Languages Using Non-Parallel Corpora</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Thispaperpresentsamethodthatmeasuresthe similarity between compound nouns in difierent languagestolocatetranslationequivalentsfrom corpora. Themethodusesinformationfromunrelated corpora in difierent languages that do not have to be parallel. This means that many corporacanbeused. Themethodcomparesthe contexts of target compound nouns and translation candidates in the word or semantic attribute level. In this paper, we show how this measuring method can be applied to select the best English translation candidate for Japanese compoundnounsinmorethan70%ofthecases.</Paragraph>
+</Section>
+</Paper>
+

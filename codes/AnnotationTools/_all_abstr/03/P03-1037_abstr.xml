@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P03-1037">
+<Title>Parametric Models of Linguistic Count Data</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> It is well known that occurrence counts of words in documents are often modeled poorly by standard distributions like the binomial or Poisson. Observed counts vary more than simple models predict, prompting the use of overdispersed models like Gamma-Poisson or Beta-binomial mixtures as robust alternatives. Another deficiency of standard models is due to the fact that most words never occur in a given document, resulting in large amounts of zero counts. We propose using zero-inflated models for dealing with this, and evaluate competing models on a Naive Bayes text classification task. Simple zero-inflated models can account for practically relevant variation, and can be easier to work with than overdispersed models.</Paragraph>
+</Section>
+</Paper>
+

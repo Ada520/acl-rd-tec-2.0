@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H93-1053">
+<Title>Augmenting Lexicons Automatically: Clustering Semantically Related Adjectives</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> Our work focuses on identifying various types of lexical data in large corpora through statistical analysis. In this paper, we present a method for grouping adjectives according to their meaning, as a step towards the automatic identification of adjectival scales. We describe how our system exploits two sources of linguistic knowledge in a corpus to compute a measure of similarity between two adjectives, using statistical techniques and a clustering algorithm for grouping. We evaluate the significance of the results produced by our system for a sample set of adjecfives. null</Paragraph>
+</Section>
+</Paper>
+

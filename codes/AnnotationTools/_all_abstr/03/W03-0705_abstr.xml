@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-0705">
+<Title>Dialogue complexity with portability? Research directions for the Information State approach</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We review existing types of dialogue managers (DMs), and propose that the Information State (IS) approach may allow both complexity of dialogue and ease of portability. We discuss implementational drawbacks of the only existing IS DM, and describe our work underway to develop a new DM resolving those drawbacks.</Paragraph>
+</Section>
+</Paper>
+

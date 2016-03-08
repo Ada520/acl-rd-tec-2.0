@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="I05-6008">
+<Title>Linguistically enriched corpora for establishing variation in support verb constructions</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Many NLP tasks that require syntactic analysis necessitate an accurate description of the lexical components, morpho-syntactic constraints and the semantic idiosyncracies of fixed expressions. (Moon, 1998) and (Riehemann, 2001) show that many fixed expressions and idioms allow limited variation and modification inside their complementation. null This paper discusses to what extent a corpus-based method can help us establish the variation and adjectival modification potential of Dutch support verb constructions. We also discuss what problems the data poses when applying an automated data-driven method to solve the problem.</Paragraph>
+</Section>
+</Paper>
+

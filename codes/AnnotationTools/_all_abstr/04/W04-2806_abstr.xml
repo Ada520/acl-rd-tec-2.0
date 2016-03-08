@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-2806">
+<Title>Scaling Understanding up to Mental Spaces</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Mental Space Theory (Fauconnier, 1985) encompasses a wide variety of complex linguistics phenomena that are largely ignored in today's natural language processing systems.</Paragraph>
+<Paragraph position="1"> These phenomena include conditionals (e.g. If sentences), embedded discourse, and other natural language utterances whose interpretation depends on cognitive partitioning of contextual knowledge. A unification-based formalism, Embodied Construction Grammar (ECG) (Chang et al., 2002a) took initial steps to include space as a primitive type, but most of the details are yet to be worked out. The goal of this paper is to present a scalable computational account of mental spaces based on the Neural Theory of Language (NTL) simulation-based understanding framework (Narayanan, 1999; Chang et al., 2002b). We introduce a formalization of mental spaces based on ECG, and describe how this formalization fits into the NTL framework. We will also use English Conditionals as a case study to show how mental spaces can be parameterized from language.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-2209">
+<Title>A tagger/lemmatiser for Dutch medical language</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we want to describe a tagger/lemmatiser for Dutch medical vocabulary, which consists of a full-form dictionary and a morphological recogniser for unknown vocabulary coupled to an expert system-like disambiguation module. Attention is also paid to the main datastructures: a lexical database and feature bundles implemented as directed acyclic graphs. Some evaluation results are presented as well. The tagger/lemmatiser currently functions as a lexical front-end for a syntactic parser.</Paragraph>
+<Paragraph position="1"> For pure tagging/lemmatising purposes, a reduced tagset (not suited for sentence analysis) can be used as well.</Paragraph>
+</Section>
+</Paper>
+

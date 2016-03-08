@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-0825">
+<Title>Contextual Semantics for WSD</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> For Sinequa's second participation to the Senseval evaluation, two systems using contextual semantic have been proposed.</Paragraph>
+<Paragraph position="1"> Based on different approaches, they both share the same data preprocessing and enrichment. The first system is a combined approach using semantic classification trees and information retrieval techniques. For the second system, the words from the context are considered as clues. The final sense is determined by summing the weight assigned to each clue for a given example.</Paragraph>
+</Section>
+</Paper>
+

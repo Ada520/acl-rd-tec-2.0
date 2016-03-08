@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H01-1013">
+<Title>Conversational Sales Assistant for Online Shopping</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> Websites of businesses should accommodate both customer needs and business requirements. Traditional menu-driven navigation and key word search do not allow users to describe their intentions precisely. We have developed a conversational interface to online shopping that provides convenient, personalized access to information using natural language dialog. User studies show significantly reduced length of interactions in terms of time and number of clicks in finding products. The core dialog engine is easily adaptable to other domains.</Paragraph>
+</Section>
+</Paper>
+

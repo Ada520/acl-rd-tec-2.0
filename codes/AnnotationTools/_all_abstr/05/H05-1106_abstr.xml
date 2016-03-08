@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H05-1106">
+<Title>Language &amp; Information Engineering</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We here propose a new method which sets apart domain-speci c terminology from common non-speci c noun phrases. It is based on the observation that terminological multi-word groups reveal a considerably lesser degree of distributional variation than non-speci c noun phrases.</Paragraph>
+<Paragraph position="1"> We de ne a measure for the observable amount of paradigmatic modi ability of terms and, subsequently, test it on bigram, trigram and quadgram noun phrases extracted from a 104-million-word biomedical text corpus. Using a community-wide curated biomedical terminology system as an evaluation gold standard, we show that our algorithm signi cantly outperforms a variety of standard term identi cation measures. We also provide empirical evidence that our methodolgy is essentially domain- and corpus-size-independent.</Paragraph>
+</Section>
+</Paper>
+

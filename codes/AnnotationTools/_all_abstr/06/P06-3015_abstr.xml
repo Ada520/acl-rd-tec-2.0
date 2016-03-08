@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P06-3015">
+<Title>Clavius: Bi-Directional Parsing for Generic Multimodal Interaction</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We introduce a new multi-threaded parsingalgorithmonunificationgrammars designed specifically for multimodal interaction and noisy environments.</Paragraph>
+<Paragraph position="1"> By lifting some traditional constraints, namely those related to the ordering of constituents, we overcome several difficulties of other systems in this domain. We also present several criteria used in this model to constrain the search process using dynamically loadable scoring functions. Some early analyses of our implementation are discussed.</Paragraph>
+</Section>
+</Paper>
+

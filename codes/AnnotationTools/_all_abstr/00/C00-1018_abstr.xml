@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-1018">
+<Title>The Use of Instrumentation in Grammar Engineering</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper explores the usefltllmss of a technique from software engineering, (:ode instrumentation, tbr the developlnent of large-scale natural language grammars, hltbrlnation about the usage of gralnmar rules in test and corpus sentences is used to ilnprove grammar and testsuite, as well as adapting a grammar to a specific genre. Results show that less than half of a large-coverage grmnmar for German is actually tested by two large testsuites, and that 10 30% of testing time is redundant. This methodology applied can be seen as a re-use of grammar writing knowledge for testsuite compilation. The construction of genre-specific grmmnars results in peribrmance gains of a factor of four.</Paragraph>
+</Section>
+</Paper>
+

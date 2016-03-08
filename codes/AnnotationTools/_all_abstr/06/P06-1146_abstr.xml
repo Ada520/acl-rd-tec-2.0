@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P06-1146">
+<Title>Optimal Constituent Alignment with Edge Covers for Semantic Projection</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Given a parallel corpus, semantic projection attempts to transfer semantic role annotations from one language to another, typically by exploiting word alignments.</Paragraph>
+<Paragraph position="1"> In this paper, we present an improved method for obtaining constituent alignments between parallel sentences to guide the role projection task. Our extensions are twofold: (a) we model constituent alignment as minimum weight edge covers in a bipartite graph, which allows us to find a globally optimal solution efficiently; (b)weproposetreepruningasapromising strategy for reducing alignment noise. Experimental results on an English-German parallel corpus demonstrate improvements over state-of-the-art models.</Paragraph>
+</Section>
+</Paper>
+

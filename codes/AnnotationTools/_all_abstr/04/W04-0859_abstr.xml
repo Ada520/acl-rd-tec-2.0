@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-0859">
+<Title>The University of Alicante systems at SENSEVAL-3/</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The DLSI-UA team is currently working on several word sense disambiguation approaches, both supervised and unsupervised. These approaches are based on different ways to use both annotated and unannotated data, and several resources generated from or exploiting WordNet (Miller et al., 1993), WordNet Domains, EuroWordNet (EWN) and additional corpora. This paper presents a view of different system results for Word Sense Disambiguation in different tasks of SENSEVAL-3.</Paragraph>
+</Section>
+</Paper>
+

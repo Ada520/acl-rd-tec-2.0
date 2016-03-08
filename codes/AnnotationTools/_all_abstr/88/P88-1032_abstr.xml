@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P88-1032">
+<Title>AN EAR.LEY-TYPE PAR.SING ALGOR.ITHM FOR. TR.EE ADJOINING GR_kMMAR.S *</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+AN EAR.LEY-TYPE PAR.SING ALGOR.ITHM
+FOR. TR.EE ADJOINING GR_kMMAR.S *
+</SectionTitle>
+<Paragraph position="0"> We will describe an Earley-type parser for Tree Adjoining Grammars (TAGs). Although a CKY-type parser for TAGs has been developed earlier (Vijay-Shanker and :Icshi, 1985), this is the first practical parser for TAGs because as is well known for CFGs, the average behavior of Earley-type parsers is superior to that of CKY-type parsers.</Paragraph>
+<Paragraph position="1"> The core of the algorithm is described. Then we discuss modifications of the parsing algorithm that can parse extensions of TAGs such as constraints on adjunction, substitution, and feature structures for TAGs. We show how with the use of substitution in TAGs the system is able to parse directly CFGs and TAGs. The system parses unification formalisms that have a CFG skeleton and also those with a TAG skeleton. Thus it also allows us to embed the essential aspects of PATR-II.</Paragraph>
+</Section>
+</Paper>
+

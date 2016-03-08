@@ -1,0 +1,31 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C82-2056">
+<Title>ON THE TYPES OF SEMANTIC COMPRESSION OF TEXT</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ON THE TYPES OF SEMANTIC COMPRESSION OF TEXT
+</SectionTitle>
+<Paragraph position="0"> Any text is constructed in accordance with Implicit principles of semantic compression. The paper attempts to describe some of these principles.</Paragraph>
+<Paragraph position="1"> There are two main types of text semantic compression:  (1) the omission of &amp;quot;meaningful&amp;quot; parts, and (2) the omission of standard connections among parts of the text.</Paragraph>
+<Paragraph position="2"> 1. The first type of compression is subdivided into: (a) omission within a predication (by a predication is meant the structure- &amp;quot;predicate - P, its aotants - A&amp;quot;), and (b) omission of the whole predication.</Paragraph>
+<Paragraph position="3"> &amp;. In special conditions a part of a predication should be understood as the whole predication in accordance with 6 basic rules+/: A -~AP, P -~AP, A...P -~AP, Ai...A j -~ -FAIPA j, A i -~AiPA j, A i ~Aj-</Paragraph>
+<Paragraph position="5"> The patient was operated. -~ The patient was operated by surgeons.</Paragraph>
+<Paragraph position="6"> Ai...A j -~ AIPA j After t~e operation Nick feels good. -9 The operation was made on Nick.</Paragraph>
+<Paragraph position="7"> +/ In general, as it seems, rules of a text grammar, unlike most ruAea or most sentence grammars, should be not obligatory, but optional. - 229  null b. The omission of a predication is diagnosed by the presence of another predication (PRj), which is connected with the omitted predication (PR) by such relations (j)'as &amp;quot;ps~t&amp;quot; (including stsLrting, intermediate or final point or interval), &amp;quot;attribute&amp;quot;, &amp;quot;accompazkTing&amp;quot;, &amp;quot;reaction&amp;quot;, &amp;quot;cause&amp;quot;, etc. (the number of such relations seems not to exceed 20). In such cases the ~nderstanding of the text includes the rule: PR~-~. I~R.</Paragraph>
+<Paragraph position="8"> Examples.</Paragraph>
+<Paragraph position="9"> = attribute to put the foot in the stoup -~-to mount a horse</Paragraph>
+<Paragraph position="11"> The Sahalinians take meas~uces to liquidate the consequences of the typhoon. The roads and bridges sure being reconstructed. -- The roads and bridges were distroged by the typhoon.</Paragraph>
+<Paragraph position="12"> 2. The omission of standard connections among the parts of the text can either be universal or depend on the type of the text. The texts can be divided into two main ~p~cups&amp;quot;physically oriented&amp;quot; and &amp;quot;mentally oriented&amp;quot;. Roughly speaking, physically oriented texts describe events as they occ-r and ~p~oup the events in accordance with their sequence, while mentally oriented texts describe the events as they are reflected in the text author s mind and group the events into (individual or socially acknowledged) classes.</Paragraph>
+<Paragraph position="13"> an important subclass of (2) constitute the cases of &amp;quot;determinating&amp;quot;. We call a deteminer a unit which relates not only to its immediate context, but to snme larger piece of the text, up to the text as the whole. (Determinex~ can be either manifested or omitted in the text.) Let s compare two texts- null (i) Yesterday Nick went to the theatre. Today he is going to the cinema.</Paragraph>
+<Paragraph position="14"> (ii) Yesterday Nick went to the theatre. He met his friends. On returning home they discussed the pe~ox~n~nce.</Paragraph>
+<Paragraph position="15"> - 2.30  null In (i) the meaning &amp;quot;yesterday&amp;quot; relates only to one sentence, while in (ll) this meaning relates to the whole text. A piece of the text connected with a definite determiner is called ItJ &amp;quot;sphere of oper@tion&amp;quot;. Along with constant determiners (such as one in text (ii)) there are variable determlners: their meaning is regularly changed while moving through the text (something like a co~ter). An ex~nple of a variable determiner is a sequence of predicate time markers in physically oriented texts, which usually are partially omitted and should be reconstructed during the text aualysis.</Paragraph>
+<Paragraph position="16"> To process a constant determiner is to find its sphere of operation, to process a variable determiner is, besides, to find out a proportional change of its meaning.</Paragraph>
+<Paragraph position="17"> The reconstruction of text omissions demands using different kinds of information, among which an important role belonsm to &amp;quot;c~inon-sense&amp;quot; knowledge. This knowledge is diTided into general (typical relations of objects and events) and concrete. The concrqte knowledge is necessary, for instance, to maderstand such a sentence as Flamin~oes_bonos exploration Bhowe that the are ~f the birds is about 20 million years, where the linguistic meaning of the word ~ contradicts the concrete knowledge of the life limits of creatures, which cause the rereading of the sentense.</Paragraph>
+<Paragraph position="18"> Another interesting type of information needed is the information about a possibility of a &amp;quot;sub~ectiTe&amp;quot; description (from the point of Tiew of either the author or the object described) * Examples.</Paragraph>
+<Paragraph position="19"> Through the bus window she looked at a rooting building.</Paragraph>
+<Paragraph position="20"> -~ It was the bu but not the building which ,,oTed.</Paragraph>
+<Paragraph position="21"> The people of the Hungarian Tillage of Ekshu are proud of an interesting bullding- the chttrch shaping a m~hroomo -~ The church is situated in or near the</Paragraph>
+</Section>
+</Paper>
+

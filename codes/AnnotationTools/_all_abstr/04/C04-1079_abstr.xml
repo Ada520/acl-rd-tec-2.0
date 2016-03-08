@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1079">
+<Title>Generating Overview Summaries of Ongoing Email Thread Discussions</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The tedious task of responding to a backlog of email is one which is familiar to many researchers.</Paragraph>
+<Paragraph position="1"> As a subset of email management, we address the problem of constructing a summary of email discussions. Specifically, we examine ongoing discussions which will ultimately culminate in a consensus in a decision-making process. Our summary provides a snapshot of the current state-of-affairs of the discussion and facilitates a speedy response from the user, who might be the bottleneck in some matter being resolved. We present a method which uses the structure of the thread dialogue and word vector techniques to determine which sentence in the thread should be extracted as the main issue. Our solution successfully identifies the sentence containing the issue of the thread being discussed, potentially more informative than subject line.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H93-1023">
+<Title>Topic and Speaker Identification via Large Vocabulary Continuous Speech Recognition</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> In this paper we exhibit a novel approach to the problems of topic and speaker identification that makes use of a large vocabulary continuous speech recognizer. We present a theoretical framework which formulates the two tasks as complementary problems, and describe the symmetric way in which we have implemented their solution. Results of trials of the message identification systems using the Switchboard corpus of telephone conversations are reported.</Paragraph>
+</Section>
+</Paper>
+

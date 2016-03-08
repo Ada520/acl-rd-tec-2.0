@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J05-2004">
+<Title>A Mathematical Model of Historical Semantics and the Grouping of Word Meanings into Concepts</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> Ambiguity is ubiquitous in natural language. It is most dramatic when it concerns the parsing of a sentence in examples such as The High Court judges rape and murder suspects.</Paragraph>
+<Paragraph position="1"> I heard a giant swallow after seeing a horse fly.</Paragraph>
+<Paragraph position="2"> La petite brise la glace.</Paragraph>
+<Paragraph position="3"> ('The girl breaks the mirror.'/'The little breeze chills her.') (from Fuchs 1996) However, the most common form of ambiguity concerns the meanings of individual words, as in the following examples: The minister decided to leave the party.</Paragraph>
+<Paragraph position="4"> ('church minister'/'government minister', 'drinks party'/'political party') He's a curious individual. ('odd'/'nosey') Je suis un imb'ecile. ('I'm following an idiot.'/'I am an idiot.') [?] IRIT, Universit'e de Toulouse III, 118 route de Narbonne, 31062 Toulouse, France. E-mail: cooper@irit.fr. Submission received: 12th September 2003; Revised submission received: 29th April 2004; Accepted for publication: 7th December 2004 (c) 2005 Association for Computational Linguistics Computational Linguistics Volume 31, Number 2 The last example involves homographs (different words which happen to be spelled the same). However, it should be noted that only a small percentage of word sense ambiguity is due to homography. (We obtained an estimate of approximately 2% by random sampling of English and French dictionaries [12, 21, 22, 24].) Many words have gained multiple senses by metonymy or by figurative or metaphorical uses. The resulting senses are sufficiently different to be considered by lexicographers as distinct concepts (e.g., political party/drinks party). In information retrieval systems with natural language interfaces (Mandala, Tokunaga, and Tanaka 1999; Stevenson and Wilks 1999) or in models of human language processing via networks of semantic links (Fellbaum 1998; Hayes 1999; Vossen 2001), a fundamental question is what should correspond to a basic semantic concept. Is it a word, a word sense, or a group of word senses? This article presents a stochastic model of the evolution of language which allows us to answer this question. Applying the model to statistics obtained from a large number of monolingual and bilingual dictionaries provides convincing evidence that neither words nor individual word senses (as identified by lexicographers) correspond to concepts, but rather groups of word senses. Our model demonstrates that each word represents, on average, about 1.3 distinct concepts. This can be compared with the average 2.0 distinct senses per word listed in the dictionaries. This model also allows us to propose a novel and formal definition of the word concept. There are clear applications in artificial intelligence (Mandala, Tokunaga, and Tanaka 1999; Stevenson and Wilks 1999), cognitive science (Cruse 1995), lexicography, and historical linguistics (Algeo 1998; Antilla 1989; Schendl 2001; Geeraerts 1997).</Paragraph>
+</Section>
+</Paper>
+

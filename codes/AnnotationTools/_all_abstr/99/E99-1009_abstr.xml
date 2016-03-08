@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E99-1009">
+<Title>Geometry of Lexico-Syntactic Interaction</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Interaction of lexical and derivational semantics---for example substitution and lambda conversion--- is typically a part of the on-line interpretation process. Proof-nets are to categorial grammar what phrase markers are to phrase structure grammar: unique graphical structures underlying equivalence classes of sequential syntactic derivations; but the role of proof-nets is deeper since they integrate also semantics. In this paper we show how interaction of lexical and derivational semantics at the lexico-syntactic interface can be precomputed as a process of off-line lexical compilation comprising Cut elimination in partial proof-nets.</Paragraph>
+<Paragraph position="1"> Introduction Consider the paraphrase: following examples of  (1) a.</Paragraph>
+<Paragraph position="2"> b.</Paragraph>
+<Paragraph position="3"> C.</Paragraph>
+<Paragraph position="4"> Frodo lives in Bag End.</Paragraph>
+<Paragraph position="5"> Frodo inhabits Bag End.</Paragraph>
+<Paragraph position="6"> ((in b) (live\])) (2) a.</Paragraph>
+<Paragraph position="7"> b.</Paragraph>
+<Paragraph position="8"> C.</Paragraph>
+<Paragraph position="9">  John tries to find Mary.</Paragraph>
+<Paragraph position="10"> John seeks Mary.</Paragraph>
+<Paragraph position="11"> ((try (find rn ) ) j) Typically, for at least (lb) and (2b) the normalised semantic forms result from a process of substitution and lambda conversion subsequent to or simultaneous with syntactic derivation. We show how such interaction of lexical and derivational semantics at the lexico-syntactic interface can be precomputed as a process of off-line lexical compilation comprising Cut elimination in partial proof-nets.</Paragraph>
+<Paragraph position="12"> For accessibility, we devote in the initial sections a considerable proportion of space to an introduction to categorial grammar oriented towards proof-nets; see also Morrill (1994), Moortgat (1996) and Carpenter (1997).</Paragraph>
+</Section>
+</Paper>
+

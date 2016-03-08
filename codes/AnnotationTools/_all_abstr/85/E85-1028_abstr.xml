@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E85-1028">
+<Title>Fulboum~ Road</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The paper describes a progrmn which has been constructed to produce English strings from a case-labellea depenaency representation. The program uses an especially single and uniform control structure with a well defined separation of the different knowledge sources used during ge~,eration. Furthermore, the majority of t/le syst~n's knowledge is expressed in a declarative form, so in priciple the generator ' s knowledge bases could be used for purposes other than gex,eration. The ge~erator uses a two-pass control structure, the first translating from the s~nantically orientated case-labelled dependency structures into surface syntactic trees and the second translating from these trees into English str i~/s.</Paragraph>
+<Paragraph position="1"> The generator is very flexible: it can be run in such a way as to produce all the possible syntactically legitimate variations on a giveJ, utterance, and has built in facilities to do some synon~s substitution. It has been used in a nu, ber of application domains: notably as a part of a free text retrieval system and as part of a natural language front end to a relational database system.</Paragraph>
+<Paragraph position="2"> i. Introduction This pa\[~er describes a progrmn which has been constructed to translate from Boguraev ' s case-labelled depe~idency representations (Boguraev, 1979: see also 8oguraev and Sparck Jones, 1982) to English strings. Although the principles on which the program has been constructed are primarily a new mix of established idea~, the generator incorporates a number of novel features. In particular, it caLlbines an especially simple a,~ uniform control structure with a well defined separatlon of t/le differe~,t ka,owledge sources used du~ing generation. It operates in two passes, the f~rst translating from the semantically orientated case-labelled dependency structures into surface syntactic trees a~,d the secona translating fran these trees into English strings.</Paragraph>
+<Paragraph position="3"> The translation fran de\[~_ndency structures to surface syntactic trees is the more c~mplex of the two passes unaertaken by the generator a~ will be described here. The other, translation from instantiated surface trees to text strings is relatively straightforward and will not be dealt with in this paper. It is fundamentally a tree flattening process, and is described in detail in</Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+Tait and Sparck Jones (1983).
+</SectionTitle>
+<Paragraph position="0"></Paragraph>
+</Section>
+</Section>
+</Paper>
+

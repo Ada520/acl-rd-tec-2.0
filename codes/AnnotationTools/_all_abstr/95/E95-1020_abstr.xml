@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E95-1020">
+<Title>Distributional Part-of-Speech Tagging Hinrich Schfitze</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents an algorithm for tagging words whose part-of-speech properties are unknown. Unlike previous work, the algorithm categorizes word tokens in con$ezt instead of word ~ypes. The algorithm is evaluated on the Brown Corpus.</Paragraph>
+</Section>
+</Paper>
+

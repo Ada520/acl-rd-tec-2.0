@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W96-0506">
+<Title>References</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper 1 introduces a new line of research which ensures soundness and completeness in Natural Language text planners on top of an efficient control strategy. The work builds on the HUNTER-GATItERER analysis system (Beale.</Paragraph>
+<Paragraph position="1"> 96; Beale &amp; Nirenburg, 96). That system employs constraint satisfaction, branch-and-bound and solution synthesis techniques to produce near linear-time processing for knowledge-based semantic analysis. PICARD enables similar results for the field of text planning by recasting localized means-end planning instances into abstractions connected by usage constraints that allow HUNTER-GATHERER to process the global problem as a simple constraint satisfaction problem. PICARD is currently being used to plan Enghsh and Spanish text in the Mikrokosmos Machine Translation Project.</Paragraph>
+</Section>
+</Paper>
+

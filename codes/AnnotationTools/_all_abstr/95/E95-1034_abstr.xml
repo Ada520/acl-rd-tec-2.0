@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E95-1034">
+<Title>Integrating &amp;quot;Free&amp;quot; Word Order Syntax and Information Structure</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Multiset-CCG is a combinatory categorial formalism that can capture the syntax and interpretation of &amp;quot;free&amp;quot; word order in languages such as Turkish. The formalism compositionally derives the predicate-argument structure and the information structure (e.g. topic, focus) of a sentence, and uniformly handles word order variation among arguments and adjuncts within a clause, as well as in complex clauses and across clause boundaries.</Paragraph>
+</Section>
+</Paper>
+

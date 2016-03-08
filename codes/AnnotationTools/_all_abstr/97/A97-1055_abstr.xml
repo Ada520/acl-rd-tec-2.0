@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A97-1055">
+<Title>Automatic Selection of Class Labels from a Thesaurus for an Effective Semantic Tagging of Corpora.</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> It is widely accepted that tagging text with semantic information would improve the quality of lexical learning in corpus-based NLP methods.</Paragraph>
+<Paragraph position="1"> However available on-line taxonomies are rather entangled and introduce an unnecessary level of ambiguity. The noise produced by the redundant number of tags often overrides the advantage of semantic tagging. In this paper we propose an automatic method to select from WordNet a subset of domain-appropriate categories that effectively reduce the overambiguity of WordNet, and help at identifying and categorise relevant language patterns in a more compact way. The method is evaluated against a manually tagged corpus, SEMCOR.</Paragraph>
+</Section>
+</Paper>
+

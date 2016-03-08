@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P03-2034">
+<Title>A speech interface for open-domain question-answering</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Speech interfaces to question-answering systems offer significant potential for finding information with phones and mobile networked devices. We describe a demonstration of spoken question answering using a commercial dictation engine whose language models we have customized to questions, a Web-based textprediction interface allowing quick correction of errors, and an open-domain question-answering system, AnswerBus, which is freely available on the Web. We describe a small evaluation of the effect of recognition errors on the precision of the answers returned and make some concrete recommendations for modifying a question-answering system for improving robustness to spoken input.</Paragraph>
+</Section>
+</Paper>
+

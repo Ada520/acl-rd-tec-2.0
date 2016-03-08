@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-0107">
+<Title>Unsupervised Induction of Natural Language Morphology Inflection Classes</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We propose a novel language-independent framework for inducing a collection of morphological inflection classes from a monolingual corpus of full form words. Our approach involves two main stages. In the first stage, we generate a large data structure of candidate inflection classes and their interrelationships.</Paragraph>
+<Paragraph position="1"> In the second stage, search and filtering techniques are applied to this data structure, to identify a select collection of &amp;quot;true&amp;quot; inflection classes of the language. We describe the basic methodology involved in both stages of our approach and present an evaluation of our baseline techniques applied to induction of major inflection classes of Spanish. The preliminary results on an initial training corpus already surpass an F1 of 0.5 against ideal Spanish inflectional morphology classes.</Paragraph>
+</Section>
+</Paper>
+

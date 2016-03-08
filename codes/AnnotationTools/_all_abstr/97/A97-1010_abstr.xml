@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A97-1010">
+<Title>Applying Repair Processing in Chinese Homophone Disambiguation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Repair processing plays an important role in spoken language processing systems. This paper proposes a method for correcting Chinese repetition repairs and demonstrates the effects of repair processing in Chinese homophone disambiguation. The experimental results show that the precision rate of 93.87% and the recall rate of 90*65% can be achieved for the repair processing.</Paragraph>
+<Paragraph position="1"> At the same time, 50% of errors in the repairing segments can be reduced for Chinese homophone disambiguation.</Paragraph>
+</Section>
+</Paper>
+

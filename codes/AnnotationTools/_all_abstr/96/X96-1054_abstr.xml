@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="X96-1054">
+<Title>NameTag TM Japanese and Spanish Systems as Used for MET</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> We have participated in the Multilingual Entity Task (MET) for Japanese and Spanish using SRA's multilingual text-indexing software called NameTag TM.</Paragraph>
+<Paragraph position="1"> Its English version was used for the Named Entity Task (NE) in MUC-6 \[2\]. The NameTag Japanese and Spanish systems were customized to accommodate the MET-specific requirements and were able to achieve high performance in both recall and precision.</Paragraph>
+</Section>
+</Paper>
+

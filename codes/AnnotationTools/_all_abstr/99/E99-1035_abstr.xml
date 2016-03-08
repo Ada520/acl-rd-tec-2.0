@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E99-1035">
+<Title>A Cascaded Finite-State Parser for Syntactic Analysis of Swedish</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This report describes the development of a parsing system for written Swedish and is focused on a grammar, the main component of the system, semi-automatically extracted from corpora. A cascaded, finite-state algorithm is applied to the grammar in which the input contains coarse-grained semantic class information, and the output produced reflects not only the syntactic structure of the input, but grammatical functions as well. The grammar has been tested on a variety of random samples of different text genres, achieving precision and recall of 94.62% and 91.92% respectively, and average crossing rate of 0.04, when evaluated against manually disambiguated, annotated texts.</Paragraph>
+</Section>
+</Paper>
+

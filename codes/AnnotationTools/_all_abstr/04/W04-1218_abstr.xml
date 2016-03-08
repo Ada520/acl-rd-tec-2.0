@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-1218">
+<Title>Adapting an NER-System for German to the Biomedical Domain</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we report the adaptation of a named entity recognition (NER) system to the biomedical domain in order to participate in the &amp;quot;Shared Task Bio-Entity Recognition&amp;quot;. The system is originally developed for German NER that shares characteristics with the biomedical task. To facilitate adaptability, the system is knowledge-poor and utilizes unlabeled data. Investigating the adaptability of the single components and the enhancements necessary, we get insights into the task of bio-entity recognition.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-1077">
+<Title>Efficient Linear Logic Meaning Assembly</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> The &amp;quot;glue&amp;quot; approach to semantic composition in Lexical-Functional Grammar uses linear logic to assemble meanings from syntactic analyses (Dalrymple et al., 1993). It has been compurationally feasible in practice (Dalrymple et al., 1997b). Yet deduction in linear logic is known to be intractable. Even the propositional tensor fragment is NP complete(Kanovich, 1992).</Paragraph>
+<Paragraph position="1"> In this paper, we investigate what has made the glue approach computationally feasible and show how to exploit that to efficiently deduce underspecified representations.</Paragraph>
+<Paragraph position="2"> In the next section, we identify a restricted pattern of use of linear logic in the glue analyses we are aware of, including those in (Crouch and Genabith, 1997; Dalrymple et al., 1996; Dalrymple et al., 1995). And we show why that fragment is computationally feasible. In other words, while the glue approach could be used to express computationally intractable analyses, actual analyses have adhered to a pattern of use of linear logic that is tractable.</Paragraph>
+<Paragraph position="3"> The rest of the paper shows how this pattern of use can be exploited to efficiently capture all possible deductions. We present a conservative extension of linear logic that allows a reformulation of the semantic contributions to better exploit this pattern, almost turning them into Horn clauses. We present a deduction algorithm for this formulation that yields a compact description of the possible deductions. And finally, we show how that description of deductions can be turned into a compact underspecifled description of the possible meanings. Throughout the paper we will use the illustrative sentence &amp;quot;every gray cat left&amp;quot;. It has flHlctional structure  (1) \[PRED 'LEAVE' 1 PRED 'CAT' f: SUBJ g: \[SPEC 'EVERY'</Paragraph>
+</Section>
+</Paper>
+

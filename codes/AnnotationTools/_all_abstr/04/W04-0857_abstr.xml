@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-0857">
+<Title>Generative Models for Semantic Role Labeling</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes the four entries from the University of Utah in the semantic role labeling task of SENSEVAL-3. All the entries took a statistical machine learning approach, using the subset of the FrameNet corpus provided by SENSEVAL-3 as training data. Our approach was to develop a model of natural language generation from semantics, and train the model using maximum likelihood and smoothing. Our models performed satisfactorily in the competition, and can flexibly handle varying permutations of provided versus inferred information. null</Paragraph>
+</Section>
+</Paper>
+

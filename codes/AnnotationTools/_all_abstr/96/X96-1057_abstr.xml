@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="X96-1057">
+<Title>NTT DATA: DESCRIPTION OF THE ERIE SYSTEM USED FOR MUC-6</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 INTRODUCTION
+</SectionTitle>
+<Paragraph position="0"> Erie is a name recognition system developed for the Multilingual Entity Task (MET) in MUC-6.</Paragraph>
+<Paragraph position="1"> The pattern matching engine recognizes organization, person, and place names along with time and numeric expressions in Japanese text. Although our previous information extraction system Textract performed well in MUC-5, the pattern matching engine, which was written in AWK language, was slow\[2\]. System maintenance was also difficult, since the patterns were defined in both the matching engine and the pattern files. Erie solves these problems by generating a pattern matching engine in C language directly from the defined patterns.</Paragraph>
+</Section>
+</Paper>
+

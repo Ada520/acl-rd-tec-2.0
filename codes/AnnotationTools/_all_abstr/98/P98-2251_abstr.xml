@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-2251">
+<Title>Predicting Part-of-Speech Information about Unknown Words using Statistical Methods</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper examines the feasibility of using statistical methods to train a part-of-speech predictor for unknown words. By using statistical methods, without incorporating hand-crafted linguistic information, the predictor could be used with any language for which there is a large tagged training corpus. Encouraging results have been obtained by testing the predictor on unknown words from the Brown corpus.</Paragraph>
+<Paragraph position="1"> The relative value of information sources such as affixes and context is discussed. This part-of-speech predictor will be used in a part-of-speech tagger to handle out-of-lexicon words.</Paragraph>
+</Section>
+</Paper>
+

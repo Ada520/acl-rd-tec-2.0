@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-2109">
+<Title>Backward Beam Search Algorithm for Dependency Analysis of Japanese</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Backward beam search tbr dependency analysis of Japanese is proposed. As dependencies normally go fl'om left to right in Japanese, it is effective to analyze sentences backwards (from right to left). The analysis is based on a statistical method and employs a bemn search strategy. Based on experiments varying the bemn search width, we found that the accuracy is not sensitivc to the bemn width and even the analysis with a beam width of 1 gets ahnost the stone dependency accuracy as the best accuracy using a wider bemn width. This suggested a deterministic algorithm for backwards Japanese dependency analysis, although still the bemn search is eitbctive as the N-best sentence accuracy is quite high. The time of analysis is observed to be quadratic in the sentence length.</Paragraph>
+</Section>
+</Paper>
+

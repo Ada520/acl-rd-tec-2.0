@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P99-1017">
+<Title>Using aggregation for selecting content when generating referring expressions</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Previous algorithms for the generation of referring expressions have been developed specifically for this purpose. Here we introduce an alternative approach based on a fully generic aggregation method also motivated for other generation tasks. We argue that the alternative contributes to a more integrated and uniform approach to content determination in the context of complete noun phrase generation.</Paragraph>
+</Section>
+</Paper>
+

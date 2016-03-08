@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A92-1010">
+<Title>Integrating Natural Language Components into Graphical Discourse</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In our current research into the design of cognitively well-motivated interfaces relying primarily on the display of graphical information, we have observed that graphical information alone does not provide sufficient support to users particularly when situations arise that do not simply conform to the users' expectations. This can occur due to too much information being requested, too little, information of the wrong kind, etc. To solve this problem, we are working towards the integration of natural language generation to augment the interaction functionalities of the interface. This is intended to support the generation of flexible natural language utterances which pinpoint possible problems with a user's request and which further go on to outline the user's most sensible courses of action away from the problem. In this paper, we describe our first prototype, where we combine the graphical and interaction planning capabilities of our graphical information system SIC! with the text generation capabilities of the Penman system. We illustrate the need for such a combined system, and also give examples of how a general natural language facility beneficially augments the user's ability to navigate a knowledge base graphically.</Paragraph>
+</Section>
+</Paper>
+

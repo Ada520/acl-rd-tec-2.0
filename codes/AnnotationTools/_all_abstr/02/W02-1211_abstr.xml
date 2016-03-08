@@ -1,0 +1,35 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-1211">
+<Title>Constructing of a Large-Scale Chinese-English Parallel Corpus</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes the constructing of a large-scale (above 500,000 pair sentences) Chinese-English parallel corpus. The current status of Chinese corpora is overviewed with the emphasis on parallel corpus. The XML coding principles for Chinese-English parallel corpus are discussed. The sentence alignment algorithm used in this project is described with a computer-aided checking processing. Finally, we show the design of the concordance of the parallel corpus and the prospect to further development.</Paragraph>
+<Paragraph position="1"> Introduction With the development of the corpus linguistics, more and more language resources have been established and used in language engineering research and applications. As we all know, there are different kinds of corpora for different kinds applications. For example, the Chinese Part-Of-Speech annotation corpus used to train program for Chinese word segmentation and POS tag, the Chinese tree bank used to Chinese syntax study, and so on.</Paragraph>
+<Paragraph position="2"> In this paper the constructing of a large-scale Chinese-English parallel corpus, which is totally above 500,000 pair sentences and the first year task is 100,000 pair sentences, is described. The applications of the large-scale Chinese-English parallel corpus put emphasis on the sentence template extracting for EBMT (Example-Based Machine Translation) and translation model training for SBMT (Statistical-Based Machine Translation). The latent applications may include the bilingual lexicon extraction, special term or phase extraction, bilingual teaching, Chinese-English contrastive study, etc.</Paragraph>
+<Paragraph position="3"> Numerous corpus data gathering efforts exit all of the world. The rapid multiplication of such efforts has made it critical to create a set of standards for encoding corpora. CES (Corpus Encoding Standard), which is conformant to the TEI Guideline for Electronic Text Encoding and Interchange of the Text Encoding Initiative (TEI 2002), has been adopted by many corpus-based work. The XML Corpus Encoding Standard (XCES) is a part of the Guideline developed by the Expert Advisory Group on Language Engineering Standards (Ide, N., Bonhomme, P., Romary, L. 2000). The coding of our Chinese-English Parallel Corpus is in broad agreement with the TEI Guideline for electronic texts.</Paragraph>
+<Paragraph position="4"> In the following section, we first present a brief review of the current status of Chinese corpora with the emphasis on parallel corpus. Then the XML coding principles for Chinese-English parallel corpus are discussed in detail. Following this is the sentence alignment algorithm used in this project with a computer-aided checking processing. Finally, we show the design of the concordance of the parallel corpus and the prospect to further development.</Paragraph>
+<Paragraph position="5">  project is proposed in 1991 by State Language Commission in China. The Chinese texts used in this corpus are selected carefully under the condition of times, genre, and field. Now the corpus is about 20 million Chinese characters. From 1992, there are several large-scale Chinese corpus constructed by different institutes. The most noticeable in them is the Chinese POS annotation corpus accomplished by Institute of Computational Linguistics, Peking University, with the cooperation with Fujitsu Company. The content of this corpus is people's daily, one of the most popular newspapers in China. The Chinese texts are segmented and added POS tag with high precision. The total Chinese Characters are about 27 million.</Paragraph>
+<Paragraph position="6"> There are several Chinese corpora in Tsinghua University also. The corpus, which is used for Chinese segmentation study, includes 100 million Chinese characters. The Hua Yu corpus (2 million Chinese characters) is a POS tagged field-balance corpus. And the 10 percent of this corpus has been used for constructing Chinese tree bank.</Paragraph>
+<Paragraph position="7"> These are also other valuable Chinese corpora established in ShanXi University, Harbin</Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+technical University, ShangHai Normal
+</SectionTitle>
+<Paragraph position="0"> Pennsylvania and so on. Please refer to Zhiwei Feng (2001) for detail.</Paragraph>
+<Paragraph position="1"> In October 2001, a national corpus project, that is, national 863 project about Chinese Information Processing Platform, is launched. It's a cooperation project between five institutes in China, including Institute of Software, Chinese Academy of Sciences, Institute of</Paragraph>
+</Section>
+<Section position="2" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+Computational Linguistics, Peking University,
+Tsinghua University, Nanjing University and
+</SectionTitle>
+<Paragraph position="0"> Institute of Language, State Language Commission. The content of corpora and intended scale in this project are showed in table 1 in detail. The large-scale Chinese-English parallel corpus described in this paper is one of the scheming corpora in this project.</Paragraph>
+<Paragraph position="1"> The multilingual corpus is important for computational linguistics research and contrastive linguistics study. So there are many multilingual corpus have been established or being developed in many institutes in China mainland. The table 2 shows the Chinese-English parallel corpus had been constructed in Mainland China. There are also some bilingual corpora about other language pair, such as Chinese-Japanese, Chinese-German, etc.</Paragraph>
+<Paragraph position="2">  It has been noticed by many scholars that we should build a principle for sharing language resource in research work and to avoid the waste in time and effort in repeated construction.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

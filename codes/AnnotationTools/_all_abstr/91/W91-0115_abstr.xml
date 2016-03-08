@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W91-0115">
+<Title>Handling Pragmatic Information With A Reversible Architecture</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper propo~s a reversible architecture to handle not orily syntactic and semantic information but also pragmatic information.</Paragraph>
+<Paragraph position="1"> * I Existing architectures cannot represent pragmatic informatioil explicitly, and lack reasoning capability;given insufficient information. I argue that the techniques of plan representation and approximate reasoning are, in the enhanced argumentation system proposed here, effective for solving these problems. null</Paragraph>
+</Section>
+</Paper>
+

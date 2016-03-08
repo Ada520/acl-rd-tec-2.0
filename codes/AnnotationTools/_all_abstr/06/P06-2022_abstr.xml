@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P06-2022">
+<Title>Automatically Extracting Nominal Mentions of Events with a Bootstrapped Probabilistic Classifier[?]</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Most approaches to event extraction focus on mentions anchored in verbs. However, many mentions of events surface as noun phrases. Detecting them can increase the recall of event extraction and provide the foundation for detecting relations between events. This paper describes a weakly-supervised method for detecting nominal event mentions that combines techniques from word sense disambiguation (WSD) andlexicalacquisitiontocreateaclassifier thatlabelsnounphrasesasdenotingevents or non-events. The classifier uses bootstrapped probabilistic generative models of the contexts of events and non-events.</Paragraph>
+<Paragraph position="1">  Thecontextsarethelexically-anchoredsemantic dependency relations that the NPs appear in. Our method dramatically improves with bootstrapping, and comfortably outperforms lexical lookup methods  whicharebasedonverymuchlargerhandcrafted resources.</Paragraph>
+</Section>
+</Paper>
+

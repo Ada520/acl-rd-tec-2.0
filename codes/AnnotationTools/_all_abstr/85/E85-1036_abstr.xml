@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E85-1036">
+<Title>A RULE-BASED APPROACH TO EVALUATING IMPORTANCE IN DESCRIPTIVE TEXTS</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> Importance evaluation is one of the most challenging problems in the field of text processing. In the paper we focus on the notion of importance from a computational standpoint, and we propose a procedural, rule-based approach to importance evaluation. This novel approach is supported by a prototype experimental system, called importance evaluator, that can deal with descriptive texts taken from computer science literature on operating systems. The evaluator relies on a set of importance rules that are used to assign importance values to the different parts of a text and to resolve or explain conflicting evaluations. The system utilizes world knowledge on the subject domain contained in an encyclopedia and takes into account a goal assigned by the user for specifying the pragmatic aspects of the understanding activity. The paper describes the role of the evaluator in the frame of a larger system for text summarization (SUSY); it illustrates its overall mode of operation, and discusses some meaningful examples.</Paragraph>
+</Section>
+</Paper>
+

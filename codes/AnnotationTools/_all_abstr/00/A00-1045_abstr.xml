@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A00-1045">
+<Title>Improving Testsuites via Instrumentation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper explores the usefulness of a technique from software engineering, namely code instrumentation, for the development of large-scale natural language grammars. Information about the usage of grammar rules in test sentences is used to detect untested rules, redundant test sentences, and likely causes of overgeneration. Results show that less than half of a large-coverage grammar for German is actually tested by two large testsuites, and that i030% of testing time is redundant. The methodology applied can be seen as a re-use of grammar writing knowledge for testsuite compilation.</Paragraph>
+</Section>
+</Paper>
+

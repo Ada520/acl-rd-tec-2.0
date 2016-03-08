@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-2709">
+<Title>ANNIS: Complex Multilevel Annotations in a Linguistic Database</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present ANNIS, a linguistic database that aims at facilitating the process of exploiting richly annotated language data by naive users. We describe the role of the database in our research project and the project requirements, with a special focus on aspects of multilevel annotation. We then illustrate the usability of the database by illustrative examples. We also address current challenges and next steps.</Paragraph>
+</Section>
+</Paper>
+

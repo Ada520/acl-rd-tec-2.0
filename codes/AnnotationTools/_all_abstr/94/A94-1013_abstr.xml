@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A94-1013">
+<Title>Adaptive Sentence Boundary Disambiguation</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Labeling of sentence boundaries is a necessary prerequisite for many natural language processing tasks, including part-of-speech tagging and sentence alignment.</Paragraph>
+<Paragraph position="1"> End-of-sentence punctuation marks are ambiguous; to disambiguate them most systems use brittle, special-purpose regular expression grammars and exception rules.</Paragraph>
+<Paragraph position="2"> As an alternative, we have developed an efficient, trainable algorithm that uses a lexicon with part-of-speech probabilities and a feed-forward neural network. This work demonstrates the feasibility of using prior probabilities of part-of-speech assignments, as opposed to words or definite part-of-speech assignments, as contextual information. After training for less than one minute, the method correctly labels over 98.5% of sentence boundaries in a corpus of over 27,000 sentence-boundary marks. We show the method to be efficient and easily adaptable to different text genres, including single-case texts.</Paragraph>
+</Section>
+</Paper>
+

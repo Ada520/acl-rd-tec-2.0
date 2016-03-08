@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A92-1037">
+<Title>A Method of Automatic Hypertext Construction from an Encyclopedic Dictionary of a Specific Field</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> Nowadays, very large volume of texts are created and stored in computer, and as a result the retrieval of texts which fits to a user's demand has become a difficult problem. Hypertext is a typical system to answer this problem, whose primary objective is to establish flexible associative links between relevant text parts and to allow users to select and trace links to see relevant text contents which are connected by links. A difficult problem here is how to construct automatically a network structure in a given set of text data. This paper is concerned with (1) automatic conversion of a plain text set into a hypertext structure, and (2) construction of flexible human interface for the hypertext system. We applied natural language processing methods to locate important conceptual terms in a text corpus and to establish varieties of links between these terms and appropriate text portions.</Paragraph>
+</Section>
+</Paper>
+

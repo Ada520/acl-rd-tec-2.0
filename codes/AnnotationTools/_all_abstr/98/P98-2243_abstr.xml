@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-2243">
+<Title>How to thematically segment texts by using lexical cohesion?</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This article outlines a quantitative method for segmenting texts into thematically coherent units. This method relies on a network of lexical collocations to compute the thematic coherence of the different parts of a text from the lexical cohesiveness of their words. We also present the results of an experiment about locating boundaries between a series of concatened texts.</Paragraph>
+</Section>
+</Paper>
+

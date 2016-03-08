@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-1062">
+<Title>LFG Generation Produces Context-free Languages</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This pat}er examines the generation prol}lem for a ce\]:tain linguisti{:ally relevant sul0class of LFG grammars. Our main result; is that the set of strings that such a grammar relates to a particular f-structure is a context-free language. This result obviously exl;en{ls to other {:ontext-free base{l grammatical f(}rmalisIns, such its PATll,, and also to formalisms {,hal; 1)ermit a context-free skeleton to 1}e extracted (1)erhaps some variants {}f HPSG). The l)\]:(}{)f is c{mstru{:l;ive: from the given f-sl;ru{:ture a l)art;i{:ular c{}ntextfree grannnar is create, d whose, yM{l is the (lesire, d sel; Of S|;l'illgS. ~4aily existing generation sl;ral;e, gies (top-{lown, l}ottom-ul} , head-driven) can be understood as all:ernative ways of avoiding the creation of useless context-Dee productions. Our result can t}e estat)lished for the m{}re general {:lass of LFG grammars, but that is beyond the scope of the present paper.</Paragraph>
+</Section>
+</Paper>
+

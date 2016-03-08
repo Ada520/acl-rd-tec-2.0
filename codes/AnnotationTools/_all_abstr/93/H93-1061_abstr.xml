@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H93-1061">
+<Title>A SEMANTIC CONCORDANCE</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> A semantic concordance is a textual corpus and a lexicon So combined that every substantive word in the text is linked to its appropriate ~nse in the lexicon. Thus it can be viewed either as a corpus in which words have been tagged syntactically and semantically, or as a lexicon in which example sentences can be found for many definitions. A semantic concordance is being constructed to use in studies of sense resolution in context (semantic disambiguation). The Brown Corpus is the text and WordNet is the lexicon.</Paragraph>
+<Paragraph position="1"> Semantic tags (pointers to WordNet synsets) are inserted in the text manually using an interface, ConText, that was designed to facilitate the task. Another interface supports searches of the tagged text. Some practical uses for semantic concordances are proposed.</Paragraph>
+</Section>
+</Paper>
+

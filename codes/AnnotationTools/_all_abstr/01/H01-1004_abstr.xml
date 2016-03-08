@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H01-1004">
+<Title>Amount of Information Presented in a Complex List: Effects on User Performance</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+AT&amp;T Communicator is a state-of-the-art speech-enabled
+</SectionTitle>
+<Paragraph position="0"> telephony-based application that allows the end-user to, among other things, select and reserve airline itineraries. This experiment explores how the amount and structure of information presented in complex lists influences the user experience and the ability of subjects to successfully complete a selection task.</Paragraph>
+<Paragraph position="1"> Presenting all the relevant information needed for a decision at once was the factor that most positively influenced successful task completion and the user experience. Subjects preferred hearing all of the relevant information about each flight, without initiating additional dialog with the system. Additionally, successful task completion rates improved when all of the flights were presented at once, without any intervening questions from the system.</Paragraph>
+</Section>
+</Paper>
+

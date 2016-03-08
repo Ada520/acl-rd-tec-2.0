@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H05-2004">
+<Title>Demonstrating an Interactive Semantic Role Labeling System</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Semantic Role Labeling (SRL) is the task of performing a shallow semantic analysis of text (i.e., Who did What to Whom, When, Where, How). This is a crucial step toward deeper understanding of text and has many immediate applications.</Paragraph>
+<Paragraph position="1"> Preprocessed information on text, mostly syntactic, has been shown to be important for SRL. Current research focuses on improving the performance assuming that this lower level information is given without any attention to the overall efficiency of the final system, although minimizing execution time is a necessity in order to support real world applications. The goal of our demonstration is to present an interactive SRL system that can be used both as a research and an educational tool. Its architecture is based on the state-of-the-art system (the top system in the 2005 CoNLL shared task), modified to process raw text through the addition of lower level processors, while achieving effective real time performance.</Paragraph>
+</Section>
+</Paper>
+

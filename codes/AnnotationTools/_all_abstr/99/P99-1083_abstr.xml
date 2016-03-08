@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P99-1083">
+<Title>Modeling Filled Pauses in Medical Dictations</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Filled pauses are characteristic of spontaneous speech and can present considerable problems for speech recognition by being often recognized as short words. An um can be recognized as thumb or arm if the recognizer's language model does not adequately represent FP's.</Paragraph>
+<Paragraph position="1"> Recognition of quasi-spontaneous speech (medical dictation) is subject to this problem as well. Results from medical dictations by 21 family practice physicians show that using an FP model trained on the corpus populated with FP's produces overall better results than a model trained on a corpus that excluded FP's or a corpus that had random FP's.</Paragraph>
+<Paragraph position="2"> Introduction Filled pauses (FP's), false starts, repetitions, fragments, etc. are characteristic of spontaneous speech and can present considerable problems for speech recognition. FP's are often recognized as short words of similar phonetic quality. For example, an um can be recognized as thumb or arm if the recognizer's language model does not adequately represent FP's.</Paragraph>
+<Paragraph position="3"> Recognition of quasi-spontaneous speech (medical dictation) is subject to this problem as well. The FP problem becomes especially pertinent where the corpora used to build language models are compiled from text with no FP's. Shriberg (1996) has shown that representing FP's in a language model helps decrease the model' s perplexity. She finds that when a FP occurs at a major phrase or discourse boundary, the FP itself is the best predictor of the following lexical material; conversely, in a non-boundary context, FP's are predictable from the preceding words. Shriberg (1994) shows that the rate of disfluencies grows exponentially with the length of the sentence, and that FP's occur more often in the initial position (see also Swerts (1996)). This paper presents a method of using bigram probabilities for extracting FP distribution from a corpus of hand-transcribed dam. The resulting bigram model is used to populate another Iraining corpus that originally had no FP's. Results from medical dictations by 21 family practice physicians show that using an FP model trained on the corpus populated with FP's produces overall better results than a model trained on a corpus that excluded FP's or a corpus that had random FP's.</Paragraph>
+<Paragraph position="4"> Recognition accuracy improves proportionately to the frequency of FP's in the speech.</Paragraph>
+</Section>
+</Paper>
+

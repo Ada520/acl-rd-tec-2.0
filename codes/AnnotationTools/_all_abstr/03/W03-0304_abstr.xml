@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-0304">
+<Title>Statistical Translation Alignment with Compositionality Constraints</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This article presents a method for aligning words between translations, that imposes a compositionality constraint on alignments produced with statistical translation models. Experiments conducted within the WPT-03 shared task on word alignment demonstrate the effectiveness of the proposed approach.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P97-1046">
+<Title>A Comparison of Head Transducers and Transfer for a Limited Domain Translation Application</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We compare the effectiveness of two related * machine translation models applied to the same limited-domain task. One is a transfer model with monolingual head automata for analysis and generation; the other is a direct transduction model based on bilingual head transducers. We conclude that the head transducer model is more effective according to measures of accuracy, computational requirements, model size, and development effort.</Paragraph>
+</Section>
+</Paper>
+

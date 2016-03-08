@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E93-1060">
+<Title>Long Sentence Analysis by Domain-Specific Pattern Grammar</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+2 Domain-Specific Pattern Grammar
+</SectionTitle>
+<Paragraph position="0"> Our method analyzes the global structure of long sentences by using three knowledge-bases: domain-specific patterns that can be described as a phrase structure grammar, a list of keywords that denote constituents of the patterns, and a pure basic grammar. An input sentence is initially parsed and divided into its constituents with these knowledgebases, and then each constituent is parsed with a general grammar. Each constituent must be guaranteed uniformity by parsing with pure basic grammar.</Paragraph>
+<Paragraph position="1"> To obtain a pattern grammar of Japanese long sentences we analyzed the structures of about 750 long sentences from the leads of news articles in a Japanese newspaper, Asahi Shinbun, and identified several fixed global patterns. An example of pattern grammar is shown in Fig. 1. Using the pattern grammar and keyword list(a-c), the global structure of the sentence(d) was analyzed as f).</Paragraph>
+</Section>
+</Paper>
+

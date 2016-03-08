@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="I05-4009">
+<Title>Question Classification using Multiple Classifiers</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"></Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+The Open-domain Question Answering
+</SectionTitle>
+<Paragraph position="0"> system (QA) has been attached great attention for its capacity of providing compact and precise results for X sers.</Paragraph>
+<Paragraph position="1"> The question classification is an essential part in the system, affecting the accuracy of it. The paper studies question classification through machine learning approaches, namely, different classifiers and multiple classifier combination method. By using compositive statistic and rule classifiers, and by introducing dependency structure from Minipar and linguistic knowledge from Wordnet into question representation, the research shows high accuracy in question classification.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

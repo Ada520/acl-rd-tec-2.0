@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P84-1022">
+<Title>A PARSING ARCHITECTURE BASED ON DISTRIBUTED MEMORY MACHINES</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ENGLAND
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> The paper begins by defining a class of distributed memory machines which have useful properties as retrieval and filtering devices.</Paragraph>
+<Paragraph position="1"> These memory mechanisms store large numbers of associations on a single composite vector. They provide a natural format for encoding the syntactic and semantic constraints associated with linguistic elements. A computational architecture for parsing natural language is proposed which utillses the retrieval and associative features of these devices. The parsing mechanism is based on the principles of Lexlcal Functional Grammar and the paper demonstrates how these principles can be derived from the properties of the memory mechanisms.</Paragraph>
+</Section>
+</Paper>
+

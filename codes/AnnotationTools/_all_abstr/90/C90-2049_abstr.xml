@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-2049">
+<Title>Dependency Analyzer: A Knowledge-Based Approach to Structural Disambiguation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> To resolve structural ambiguities in syntactic analysis of natural language, which are caused by prepositional phrase attachment, relative clause attachment, and so on, we developed an experimental system called tile Dependency Anal!lzcr. The system uses instances of dependency structures extracted froth a terminology dictionary as a knowledge ba.~e. Structural (attachment) ambiguity is represented by showing that a word has several words as c;tndidate modiliees. Tim system resolves such ambiguity as follows.</Paragraph>
+<Paragraph position="1"> First, it searches the knowledge base for modification relationships (dependencies) between the word and each of its possible modifiees, then assigns an order of preference to these relationships, and finally seieets the most preferable deper.dency. The knowledge base can be constructed semi-automatically, since the source of knowledge exists in the form of texts, and these sentences can be analyzed by the parser and transformed into dependency structures by the system. We are realizing knowledge bootstrapping by adding the outputs of the system to its knowledge base.</Paragraph>
+</Section>
+</Paper>
+

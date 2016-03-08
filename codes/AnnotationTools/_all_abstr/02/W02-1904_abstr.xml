@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-1904">
+<Title>FAQ Mining via List Detection</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents an approach to FAQ mining via a list detection algorithm. List detection is very important for data collection since list has been widely used for representing data and information on the Web. By analyzing the rendering of FAQs on the Web, we found a fact that all FAQs are always fully/partially represented in a list-like form. There are two ways to author a list on the Web. One is to use some specific tags, e.g. &lt;li&gt; tag for HTML. The lists authored in this way can be easily detected by parsing those special tags.</Paragraph>
+<Paragraph position="1"> Another way uses other tags instead of the special tags. Unfortunately, many lists are authored in the second way. To detect lists, therefore, we present an algorithm, which is independent of Web languages. By combining the algorithm with some domain knowledge, we detect and collect FAQs from the Web. The mining task achieved a performance of 72.54% recall and 80.16% precision rates.</Paragraph>
+<Paragraph position="2"> Introduction The World Wide Web has become a fertile area, storing a vast amount of data and information. One of them we are interested is the Frequently Asked Questions (FAQs). For customer services, message providing, etc., many Websites have created and maintained their own FAQs.</Paragraph>
+<Paragraph position="3"> A large collection of FAQs is very useful for many research areas in natural language processing. Especially in question answering, it exemplifies many questions and their answers. It is also a database for the applications of FAQ retrieval, e.g. AskJeeves (www.ask.com), .faq finder (members.tripod.com/~FAQ_Home/), and FAQFinder (www1.ics.uci.edu/~burke/faqfinder/). By analysing the rendering of FAQs on the Web, we divide them into 6 types according to 2 viewpoints. Among these types, we found a fact that all FAQs are always fully/partially represented in the form of list as well as much useful information.</Paragraph>
+<Paragraph position="4"> There are two ways to represent a list in a Web Page. One is to use some specific tags, e.g. &lt;li&gt; tag for HTML. Another one is to use other tags. The lists authored in the first way can be easily detected by parsing those specific tags. However, most of FAQs are authored in the second way. Therefore, this paper presents an algorithm for detecting lists in Web Pages. Then, we verify each detected list whether it determines a set of FAQs or parts of it by some constraints of domain knowledge.</Paragraph>
+</Section>
+</Paper>
+

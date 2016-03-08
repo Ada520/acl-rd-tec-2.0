@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-1086">
+<Title>Inherited Feature-based Similarity Measure Based on Large Semantic Hierarchy and Large Text Corpus</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe a similarity calculation model called IFSM (Inherited Feature Similarity Measure) between objects (words/concepts) based on their common and distinctive features. We propose an implementation method for obtaining features based on abstracted triples extracted fi'om a large text eorpus utilizing taxonomical knowledge. This model represents an integration of traditional methods, i.e,. relation b~used sin&gt; itarity measure and distribution based similarity measure. An experiment, using our new concept abstraction method which we &lt;'all the fiat probability grouping method, over 80,000 surface triples, shows that the abstraction level of 3000 is a good basis for feature description.</Paragraph>
+</Section>
+</Paper>
+

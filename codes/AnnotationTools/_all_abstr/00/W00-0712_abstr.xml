@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-0712">
+<Title>Knowledge-Free Induction of Morphology Using Latent Semantic Analysis</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Morphology induction is a subproblem of important tasks like automatic learning of machine-readable dictionaries and grammar induction. Previous morphology induction approaches have relied solely on statistics of hypothesized stems and affixes to choose which affixes to consider legitimate. Relying on stem-and-affix statistics rather than semantic knowledge leads to a number of problems, such as the inappropriate use of valid affixes (&amp;quot;ally&amp;quot; stemming to &amp;quot;all&amp;quot;). We introduce a semantic-based algorithm for learning morphology which only proposes affixes when the stem and stem-plusaffix are sufficiently similar semantically. We implement our approach using Latent Semantic Analysis and show that our semantics-only approach provides morphology induction results that rival a current state-of-the-art system.</Paragraph>
+</Section>
+</Paper>
+

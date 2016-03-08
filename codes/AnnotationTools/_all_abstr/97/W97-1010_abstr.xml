@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-1010">
+<Title>Learning Stochastic Categorial Grammars</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Stochastic categorial grammars (SCGs) are introduced as a more appropriate formalism for statistical language learners to estimate than stochastic context free grammars. As a vehicle for demonstrating SCG estimation, we show, in terms of crossing rates and in coverage, that when training material is limited, SCG estimation using the Minimum Description Length Principle is preferable to SCG estimation using an indifferent prior.</Paragraph>
+</Section>
+</Paper>
+

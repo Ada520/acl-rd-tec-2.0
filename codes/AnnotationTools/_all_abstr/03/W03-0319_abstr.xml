@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-0319">
+<Title>An LSA Implementation Against Parallel Texts in French and English</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents the results of applying the Latent Semantic Analysis (LSA) methodology to a small collection of parallel texts in French and English. The goal of the analysis was to determine what the methodology might reveal regarding the difficulty level of either the machine-translation (MT) task or the text-alignment (TA) task.</Paragraph>
+<Paragraph position="1"> In a perfectly parallel corpus where the texts are exactly aligned, it is expected that the word distributions between the two languages be perfectly symmetrical.</Paragraph>
+<Paragraph position="2"> Where they are symmetrical, the difficulty level of the machine-translation or the text-alignment task should be low. The results of this analysis show that even in a perfectly aligned corpus, the word distributions between the two languages deviate and because they do, LSA may contribute much to our understanding of the difficulty of the MT and TA tasks.</Paragraph>
+</Section>
+</Paper>
+

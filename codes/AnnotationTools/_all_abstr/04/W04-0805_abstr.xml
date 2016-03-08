@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-0805">
+<Title>The Italian Lexical Sample Task at SENSEVAL-3</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The Italian lexical sample task at SENSEVAL-3 provided a framework to evaluate supervised and semi-supervised WSD systems. This paper reports on the task preparation - which offered the opportunity to review and refine the Italian MultiWordNet - and on the results of the six participants, focussing on both the manual and automatic tagging procedures.</Paragraph>
+</Section>
+</Paper>
+

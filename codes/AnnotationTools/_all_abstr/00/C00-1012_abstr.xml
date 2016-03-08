@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-1012">
+<Title>The effects of analysing cohesion on document summarisation</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We argue that in general, the analysis of lexical cohesion factors in a document can drive a summarizer, as well as enable other content characterization tasks.</Paragraph>
+<Paragraph position="1"> More narrowly, this paper focuses on how one particular cohesion factol~simple lexical repetition--can enhance an existing sentence extraction summarizer, by enabling strategies for overcoming some particularly jarring end-user effects in the summaries, typically due to coherence degradation, readability deterioration, and topical under-representation. Lexical repetition is instrumental to, among other things, the topical make-up of a text, and in our framework a lexical repetition-based model of discourse segmentation, capable of detecting topic shifts, is integrated with a linguistically-aware summarizer utilizing notions of salience and dynamically-adjustable summary size. We show that even by leveraging lexical repetition alone, summaries are of comparable, and under certain conditions bette~, quality than the ones delivered by a state-of-the-art summarizer. This is encouraging for a broad research platform focusing on the recognition and use of cohesive devices in text for a range of content characterisation and document management tasks.</Paragraph>
+</Section>
+</Paper>
+

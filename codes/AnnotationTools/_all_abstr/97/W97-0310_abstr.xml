@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0310">
+<Title>Assigning Grammatical Relations with a Back-off Model</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a corpus-based method to assign grammatical subject/object relations to ambiguous German constructs.</Paragraph>
+<Paragraph position="1"> It makes use of an unsupervised learning procedure to collect training and test data, and the back-off model to make assignment decisions.</Paragraph>
+</Section>
+</Paper>
+

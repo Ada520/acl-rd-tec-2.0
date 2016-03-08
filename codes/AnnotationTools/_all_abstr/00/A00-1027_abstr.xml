@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A00-1027">
+<Title>Compound Noun Segmentation Based on Lexical Data Extracted from Corpus*</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Compound noun analysis is one of the crucial problems in Korean language processing because a series of nouns in Korean may appear without white space in real texts, which makes it difficult to identify the morphological constituents. This paper presents an effective method of Korean compound noun segmentation based on lexical data extracted from corpus.</Paragraph>
+<Paragraph position="1"> The segmentation is done by two steps: First, it is based on manually constructed built-in dictionary for segmentation whose data were extracted from 30 million word corpus. Second, a segmentation algorithm using statistical data is proposed, where simple nouns and their frequencies are also extracted from corpus. The analysis is executed based on CYK tabular parsing and min-max operation. By experiments, its accuracy is about 97.29%, which turns out to be very effective.</Paragraph>
+</Section>
+</Paper>
+

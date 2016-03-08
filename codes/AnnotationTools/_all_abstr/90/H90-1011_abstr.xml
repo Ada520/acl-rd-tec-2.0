@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H90-1011">
+<Title>Performing Integrated Syntactic and Semantic Parsing Using Classification</Title>
+<Section position="2" start_page="57" end_page="57" type="abstr">
+<SectionTitle>
+Acknowledgment
+</SectionTitle>
+<Paragraph position="0"> This research was sponsored in part by the United States Defense Advanced Research Projects Agency under contract MDA903-87-C-641 and in part by the United States Air Force Office of Scientific Research under contract F49620-87-C0005. The opinions expressed here are solely those of the authors.</Paragraph>
+<Paragraph position="1"> Thanks to Bob MacGregor for many cooperative discussions and help with a partial implementation of these ideas using Loom.</Paragraph>
+</Section>
+</Paper>
+

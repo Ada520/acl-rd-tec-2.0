@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W95-0113">
+<Title>Development of a Partially Bracketed Corpus with Part-of-Speech Information Only</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Resea/ch based on a treebank is active for many natural language applications. However, the work to build a large scale treebank is laborious and tedious. This paper proposes a probabilistic chunker to help the development of a partially bracketed corpus. The chunker partitions the part-of-speech sequence into segments called chunks. Rather than using a treebank as our training corpus, a corpus which is tagged with part-of-speech information only is used. The experimental results show the probabilistic chunker has more than 92% correct rate in outside test. The well-formed partially bracketed corpus is a milestone in the development of a treebank. Besides, the simple but effective chunker can also be applied to many natural language applications.</Paragraph>
+</Section>
+</Paper>
+

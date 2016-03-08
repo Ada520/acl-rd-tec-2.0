@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-0204">
+<Title>PLASER: Pronunciation Learning via Automatic Speech Recognition</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> PLASER is a multimedia tool with instant feedback designed to teach English pronunciation for high-school students of Hong Kong whose mother tongue is Cantonese Chinese.</Paragraph>
+<Paragraph position="1"> The objective is to teach correct pronunciation and not to assess a student's overall pronunciation quality. Major challenges related to speech recognition technology include: allowance for non-native accent, reliable and corrective feedbacks, and visualization of errors.</Paragraph>
+<Paragraph position="2"> PLASER employs hidden Markov models to represent position-dependent English phonemes. They are discriminatively trained using the standard American English TIMIT corpus together with a set of TIMIT utterances collected from &amp;quot;good&amp;quot; local English speakers. There are two kinds of speaking exercises: minimal-pair exercises and word exercises.</Paragraph>
+<Paragraph position="3"> In the word exercises, PLASER computes a confidence-based score for each phoneme of the given word, and paints each vowel or consonant segment in the word using a novel 3-color scheme to indicate their pronunciation accuracy. PLASER was used by 900 students of grade 7 and 8 over a period of 2-3 months.</Paragraph>
+<Paragraph position="4"> About 80% of the students said that they preferred using PLASER over traditional English classes to learn pronunciation. A pronunciation test was also conducted before and after they used PLASER. The result from 210 students shows that the students' pronunciation skill was improved. (The statistics is significant at the 99% confidence level.) /Mr. Tam is now a graduate student at the Department of Computer Science at Carnegie Mellon University.</Paragraph>
+<Paragraph position="5"> yMr. Chan is now working at SpeechWorks Inc.</Paragraph>
+</Section>
+</Paper>
+

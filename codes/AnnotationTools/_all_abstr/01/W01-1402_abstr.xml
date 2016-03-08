@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W01-1402">
+<Title>Overcoming the customization bottleneck using example-based MT</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe MSR-MT, a large-scale hybrid machine translation system under development for several language pairs. This system's ability to acquire its primary translation knowledge automatically by parsing a bilingual corpus of hundreds of thousands of sentence pairs and aligning resulting logical forms demonstrates true promise for overcoming the so-called MT customization bottleneck. Trained on English and Spanish technical prose, a blind evaluation shows that MSR-MT's integration of rule-based parsers, example based processing, and statistical techniques produces translations whose quality exceeds that of uncustomized commercial MT systems in this domain.</Paragraph>
+</Section>
+</Paper>
+

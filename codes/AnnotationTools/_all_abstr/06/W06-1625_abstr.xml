@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-1625">
+<Title>Humor: Prosody Analysis and Automatic Recognition for F * R * I * E * N * D * S *</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We analyze humorous spoken conversations from a classic comedy television show, FRIENDS, by examining acoustic-prosodic and linguistic features and their utility in automatic humor recognition.</Paragraph>
+<Paragraph position="1"> Using a simple annotation scheme, we automatically label speaker turns in our corpus that are followed by laughs as humorous and the rest as non-humorous.</Paragraph>
+<Paragraph position="2"> Our humor-prosody analysis reveals significant differences in prosodic characteristics (such as pitch, tempo, energy etc.) of humorous and non-humorous speech, even when accounted for the gender and speaker differences. Humor recognition was carried out using standard supervised learning classifiers, and shows promising results significantly above the baseline.</Paragraph>
+</Section>
+</Paper>
+

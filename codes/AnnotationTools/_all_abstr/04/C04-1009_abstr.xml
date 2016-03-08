@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1009">
+<Title>Type-inheritance Combinatory Categorial Grammar</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper I outline Type-inheritance Combinatory Categorial Grammar (TCCG), an implemented feature structure based CCG fragment of English. TCCG combines the fully lexical nature of CCG with the type-inheritance hierarchies and complex feature structures of Head-driven Phrase Structure Grammars (HPSG).</Paragraph>
+<Paragraph position="1"> The result is a CCG/HPSG hybrid that combines linguistic generalizations previously only statable in one theory or the other, even extending the set of statable generalizations to those not easily captured by either theory.</Paragraph>
+</Section>
+</Paper>
+

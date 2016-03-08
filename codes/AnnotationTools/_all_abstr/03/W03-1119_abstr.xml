@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-1119">
+<Title>A Sentence Reduction Using Syntax Control</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper present a method based on the behavior of nonnative speaker for reduction sentence in foreign language. We demonstrate an algorithm using semantic information in order to produce two reduced sentences in two difference languages and ensure both grammatical and sentence meaning of the original sentence in reduced sentences. In addition, the orders of reduced sentences are able to be different from original sentences.</Paragraph>
+</Section>
+</Paper>
+

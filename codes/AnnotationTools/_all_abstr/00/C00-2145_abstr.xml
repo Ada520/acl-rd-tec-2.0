@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-2145">
+<Title>A Model of Competence for Corpus-Based Machine Translation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper I claborate a model of colnpetencc for corpus-based machine translation (CBMT) along the lines of the representations used in the translation system. Representations in CBMT-systems can be rich or austere, molecular or holistic and they can be fine-grained or coarse-grained. The paper shows that different CBMT architectures are required dependent on whether a better translation quality or a broader coverage is preferred according to Boitct (1999)'s formula: &amp;quot;Coverage * Quality = K&amp;quot;.</Paragraph>
+</Section>
+</Paper>
+

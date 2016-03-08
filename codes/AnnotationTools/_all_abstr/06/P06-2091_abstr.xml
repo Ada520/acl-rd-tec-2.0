@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P06-2091">
+<Title>Translating HPSG-style Outputs of a Robust Parser into Typed Dynamic Logic</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The present paper proposes a method by which to translate outputs of a robust HPSG parser into semantic representations of Typed Dynamic Logic (TDL), a dynamic plural semantics defined in typed lambda calculus. With its higher-order representations of contexts, TDL analyzes and describes the inherently inter-sentential nature of quantification and anaphora in a strictly lexicalized and compositional manner.</Paragraph>
+<Paragraph position="1"> The present study shows that the proposed translation method successfully combines robustness and descriptive adequacy of contemporary semantics. The present implementation achieves high coverage, approximately 90%, for the real text of the Penn Treebank corpus.</Paragraph>
+</Section>
+</Paper>
+

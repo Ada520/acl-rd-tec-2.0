@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-2302">
+<Title>Stochastic Language Generation in a Dialogue System: Toward a Domain Independent Generator</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Until recently, surface generation in dialogue systems has served the purpose of simply providing a backend to other areas of research.</Paragraph>
+<Paragraph position="1"> The generation component of such systems usually consists of templates and canned text, providing inflexible, unnatural output. To make matters worse, the resources are typically specific to the domain in question and not portable to new tasks. In contrast, domain-independent generation systems typically require large grammars, full lexicons, complex collocational information, and much more.</Paragraph>
+<Paragraph position="2"> Furthermore, these frameworks have primarily been applied to text applications and it is not clear that the same systems could perform well in a dialogue application. This paper explores the feasibility of adapting such systems to create a domain-independent generation component useful for dialogue systems. It utilizes the domain independent semantic form of The Rochester Interactive Planning System (TRIPS) with a domain independent stochastic surface generation module. We show that a written text language model can be used to predict dialogue utterances from an over-generated word forest. We also present results from a human oriented evaluation in an emergency planning domain.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C92-3130">
+<Title>An Abstraction Method Using a Semantic Engine Based on Language Information Structure</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paperdescribes the framework for a new abstraction method that utilizes event-tmits written in sentences. Event-units are expressed in Language Information Structnrc (LIS) form and the projection of LIS from a sentence is f)cffonned by a semantic engine. ABEX (ABstraction EXtraction system) utilizes the LIS outpttt of the semantic engine. ABI';X can extract events from sentences and classify them. Since ABEX and the LIS form nsc only limited knowledge , the system need not construct or nlaintain a large amount of knowledge.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-1819">
+<Title>SS</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a rule-learning approach towards Chinese prosodic phrase prediction for TTS systems. Firstly, we prepared a speech corpus having about 3000 sentences and manually labelled the sentences with two-level prosodic structure. Secondly, candidate features related to prosodic phrasing and the corresponding prosodic boundary labels are extracted from the corpus text to establish an example database. A series of comparative experiments is conducted to figure out the most effective features from the candidates.</Paragraph>
+<Paragraph position="1"> Lastly, two typical rule learning algorithms (C4.5 and TBL) are applied on the example database to induce prediction rules. The paper also suggests general evaluation parameters for prosodic phrase prediction. With these parameters, our methods are compared with RNN and bigram based statistical methods on the same corpus. The experiments show that the automatic rule-learning approach can achieve better prediction accuracy than the non-rule based methods and yet retain the advantage of the simplicity and understandability of rule systems. Thus it is justified as an effective alternative to prosodic phrase prediction.</Paragraph>
+</Section>
+</Paper>
+

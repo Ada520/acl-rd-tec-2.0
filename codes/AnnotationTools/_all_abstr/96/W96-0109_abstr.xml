@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W96-0109">
+<Title>EXPLOITING TEXT STRUCTURE FOR TOPIC IDENTIFICATION</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+EXPLOITING TEXT STRUCTURE FOR TOPIC
+IDENTIFICATION
+</SectionTitle>
+<Paragraph position="0"> nomoto@harl, hitachi, co. jp  matsu@is, aist-nara, ac. jp Summary The paper demonstrates how information on text structure can be used to improve the performance on the identification of topical words in texts, which is based on a probabilistic model of text categorization. We use texts which are not explicitly structured. A text structure is identified by measuring the similarity between segments comprising the text and its title. It is shown that a text structure thus identified gives a good clue to finding out parts of the text most relevant to its content. The significance of exploiting information on the structure for topic identification is demonstrated by a set of experiments conducted on the 19Mb of Japanese newspaper articles. The paper also brings concepts from the rhetorical structure theory (RST) to the statistical analysis of a text structure. Finally, it is shown that information on text structure is more effective for large documents than for small documents.</Paragraph>
+</Section>
+</Paper>
+

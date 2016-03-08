@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C73-1002">
+<Title>Let A and B be sets. Then denotes: P(A) : the set of all subsets of A (the powerset of A) A* : the free monoid over A A x B: the cartesian product of A and B</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+WERNER BRECHT
+MORPHOLOGICAL ANALYSIS (A FORMAL APPROACH)
+1. MOTIVATION AND BASIC IDEAS
+</SectionTitle>
+<Paragraph position="0"> Since 1972 a researcher team in Bonn has been working on the automatic syntax-analysis of the german language. The morphoJogical analysis is a part of this work that has already been formalized and programmed by the author. We can consider the following paper as a generalization of this formalized description.</Paragraph>
+<Paragraph position="1"> In this first chapter some expressions like &amp;quot;text&amp;quot; or &amp;quot;lexicon &amp;quot; are considered clear by intuition. Later on we'll get to know the exact definitions. The basis of each description of a text of any language is a morphological analysis of this text. One can easily agree that such a description has to be derived from the words or sentences of the text which is to be described. The expression &amp;quot;description of a text&amp;quot; is understood in a very general sense.. One can imagine a syntactic description or a semantic interpretation or a combination of both of them or any other information.</Paragraph>
+<Paragraph position="2"> In a natural language the number of the possible texts is not finite.</Paragraph>
+<Paragraph position="3"> That's easy to prove because of the following sentences: One is a number Two is a number Hence it's impossible in practice to use a lexicon of the following form text 1 description of text 1 text 2 description of text 2 o,w deg.deg</Paragraph>
+</Section>
+</Paper>
+

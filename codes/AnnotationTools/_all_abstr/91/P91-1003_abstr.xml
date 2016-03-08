@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P91-1003">
+<Title>Event-building through Role-filling and Anaphora Resolution</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> In this study we map out a way to build event representations incrementally, using information which may be widely distributed across a discourse. An enhanced Discourse Representation (Kamp, 1981) provides the vehicle both for carrying open event roles through the discourse until they can be instantiated by NPs, and for resolving the reference of these otherwise problematic NPs by binding them to the event roles.</Paragraph>
+</Section>
+</Paper>
+

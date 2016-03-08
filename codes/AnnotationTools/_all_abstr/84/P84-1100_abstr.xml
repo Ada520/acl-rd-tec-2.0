@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P84-1100">
+<Title>EXPERT SYSTEMS AND OTHER NEW TECHNIQUES IN MT SYSTEMS</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+FRANCE
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> Our MT systems integrate many advanced concepts from the fields of computer science, linguistics, and AI : specialized languages for linguistic programming based on production systems, complete linguistic programming environment, multilevel representations, organization of the lexicons around &amp;quot;lexical units&amp;quot;, units of translation of the size of several paragraphs, possibility of using text-driven heuristic strategies.</Paragraph>
+<Paragraph position="1"> We are now beginning to integrate new techniques : unified design of an &amp;quot;integrated&amp;quot; lexical data-base containing the lexicon in &amp;quot;natural&amp;quot; and &amp;quot;coded&amp;quot; form, use of the &amp;quot;static grammars&amp;quot; formalism as a specification language, addition of expert systems equipped with &amp;quot;extralinguistic&amp;quot; or &amp;quot;metalinguistic&amp;quot; knowledge, and design of a kind of structural metaeditor (driven by a static grammar) allowing the interactive construction of a document in the same way as syntactic editors are used for developing programs. We end the paper by mentioning some projects for long-term research.</Paragraph>
+</Section>
+</Paper>
+

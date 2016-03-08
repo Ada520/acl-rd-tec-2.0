@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C92-2088">
+<Title>Lexi(:al Knowledge Acquisition ti'om Bilingual Col'por&amp;</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> I)br practical research in natnral language processing, it is indisl)ensM)le to develop a large scale semantic dictionary for computers. It is cspeciany important to improve thc tcclmiqucs tbr compiling semantic dictionaries ti'orn natural language texts such as those in existing human dictionaries or in large corpora, llowever, there are at least two ditlicultics in analyzing existing texts: tbe l)roblem of syntactic ambiguities and the probtcm of polysemy. Our approaclL to solve these difficulties is to make use of translation exampies in two distinct languages that have (lnite different syntactic structures and word meanings. The roe.son we took this at)preach is that in many cases both syn: tactic aLrd semantic ambignitics arc resolved by comparing analyzed resnlts from botb languages. In this paper, we propose a method Ibr resolving the syntactic ambiguities of translation cxaml&gt;lcs of bilingual corpora and a method for acquiring lexical knowledge, such as ease frames of verbs and attribute sets el noons.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C02-1033">
+<Title>Using collocations for topic segmentation and link detection</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present in this paper a method for achieving in an integrated way two tasks of topic analysis: segmentation and link detection. This method combines word repetition and the lexical cohesion stated by a collocation network to compensate for the respective weaknesses of the two approaches. We report an evaluation of our method for segmentation on two corpora, one in French and one in English, and we propose an evaluation measure that specifically suits that kind of systems.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P00-1058">
+<Title>Statistical parsing with an automatically-extracted tree adjoining grammar</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We discuss the advantages of lexicalized tree-adjoining grammar as an alternative to lexicalized PCFG for statisticalparsing,describingthe induction of a probabilistic LTAG model from the Penn Treebank and evaluating its parsing performance. We #0Cnd that this induction method is an improvementover the EM-based method of #28Hwa, 1998#29, and that the induced model yields results comparable to lexicalized PCFG.</Paragraph>
+</Section>
+</Paper>
+

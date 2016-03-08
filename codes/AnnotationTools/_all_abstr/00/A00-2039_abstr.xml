@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A00-2039">
+<Title>Finite-State Reduplication in One-Level Prosodic Morphology</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Reduplication, a central instance of prosodic morphology, is particularly challenging for state-of-the-art computational morphology, since it involves copying of some part of a phonological string. In this paper I advocate a finite-state method that combines enriched lexical representations via intersection to implement the copying. The proposal includes a resource-conscious variant of automata and can benefit from the existence of lazy algorithms.</Paragraph>
+<Paragraph position="1"> Finally, the implementation of a complex case from Koasati is presented.</Paragraph>
+</Section>
+</Paper>
+

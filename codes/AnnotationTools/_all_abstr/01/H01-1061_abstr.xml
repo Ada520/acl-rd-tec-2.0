@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H01-1061">
+<Title>Robust Knowledge Discovery from Parallel Speech and Text Sources</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. INTRODUCTION
+</SectionTitle>
+<Paragraph position="0"> As a by-product of the recent information explosion, the same basic facts are often available from multiple sources such as the Internet, television, radio and newspapers. We present here a project currently in its early stages that aims to take advantage of the redundancies in parallel sources to achieve robustness in automatic knowledge extraction.</Paragraph>
+<Paragraph position="1"> Consider, for instance, the following sampling of actual news from various sources on a particular day: CNN: James McDougal, President Bill Clinton's former business partner in Arkansas and a cooperating witness in the Whitewater investigation, died Sunday while serving a federal prison term. He was 57.</Paragraph>
+<Paragraph position="2"> MSNBC: Fort Worth, Texas, March 8. Whitewater figure James McDougal died of an apparent heart attack in a private community hospital in Fort Worth, Texas, Sunday. He was 57.</Paragraph>
+<Paragraph position="3"> ABC News: Washington, March 8. James McDougal, a key figure in Independent Counsel Kenneth Starr's Whitewater investigation, is dead.</Paragraph>
+<Paragraph position="4"> The Detroit News: Fort Worth. James McDougal, a key witness in Kenneth Starr's Whitewater investigation of President Clinton and First Lady Hillary Rodham Clinton, died of a heart attack in a prison hospital Sunday. He was 57.</Paragraph>
+<Paragraph position="5"> San Jose Mercury News: James McDougal, the wily Arkansas banking rogue who drew Bill Clinton and Hillary Rodham Clinton into real estate deals that have come to haunt them, died Sunday of cardiac arrest just months before he hoped to be released from prison. He was 57.</Paragraph>
+<Paragraph position="6"> The Miami Herald: Washington. James McDougal, the wily Arkansas financier and land speculator at the center of the original Whitewater probe against President Clinton, died  We propose to align collections of stories, much like the example above, from multiple text and speech sources and then develop methods that exploit the resulting parallelism both as a tool to improve recognition accuracy and to enable the development of systems that can reliably extract information from parallel sources. Our goal is to develop systems that align text sources and recognize parallel speech streams simultaneously in several languages by making use of all related text and speech. The initial systems we intend to develop will process each language independently. However, our ultimate and most ambitious objective is to align text sources and recognize speech using a single, integrated multilingual ASR system. Of course, if sufficiently accurate automatic machine translation (MT) techniques ([1]) were available, we could address multilingual processing and single language systems in the same way. However MT techniques are not yet reliable enough that we expect all words and phrases recognized within languages to contribute to recognition across languages. We intend to develop methods that identify the particular words and phrases that both can be translated reliably and also used to improve story recognition. As MT technology improves it can be incorporated more extensively within the processing paradigm we propose. We consider this proposal a framework within which successful MT techniques can eventually be used for multilingual acoustic processing.</Paragraph>
+</Section>
+</Paper>
+

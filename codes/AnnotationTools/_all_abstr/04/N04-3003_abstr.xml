@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N04-3003">
+<Title>Limited-Domain Speech-to-Speech Translation between English and Pashto</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a prototype system for near-real-time spontaneous, bidirectional translation between spoken English and Pashto, a language presenting many technological challenges because of its lack of resources, including both data and expert knowledge. Development of the prototype is ongoing, and we propose to demonstrate a fully functional version which shows the basic capabilities, though not yet their final depth and breadth.</Paragraph>
+</Section>
+</Paper>
+

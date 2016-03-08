@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W01-0706">
+<Title>Exploring Evidence for Shallow Parsinga0</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Significant amount of work has been devoted recently to develop learning techniques that can be used to generate partial (shallow) analysis of natural language sentences rather than a full parse. In this work we set out to evaluate whether this direction is worthwhile by comparing a learned shallow parser to one of the best learned full parsers on tasks both can perform -- identifying phrases in sentences. We conclude that directly learning to perform these tasks as shallow parsers do is advantageous over full parsers both in terms of performance and robustness to new and lower quality texts.</Paragraph>
+</Section>
+</Paper>
+

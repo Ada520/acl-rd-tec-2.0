@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-0831">
+<Title>Finding optimal parameter settings for high performance word sense disambiguation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This article describes the four systems sent by the author to the SENSEVAL-3 contest, the English lexical sample task. The best recognition rate obtained by one of these systems was 72.9% (fine grain score) .</Paragraph>
+</Section>
+</Paper>
+

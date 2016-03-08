@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W96-0415">
+<Title>Denotation I t~not~tion I Denotation E co,n,\[ x Connotatiot~ Connotatior~ Colmolation I Partial / Partial \[ Partial C SemSpec SemSpec I SemSpec \[ 0 Alternation~ Altffnafio~ Alternations N MorphSyn |MorphSynt I MorphSynt Generation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We sketch the architecture of a sentence generation module that maps a language-neutral &amp;quot;deep&amp;quot; representation to a language-specific sentence-semantic specification, which is given to a front-end generator. Lexicalizat, ion is tlm main instrument tbr the mapl~ing step, and we examine the role of verb semantics in the process. In particular, we propose a set of rules that derive a range of verb alternations from a single base form, which is one source of lexical paraphrasing in the system.</Paragraph>
+</Section>
+</Paper>
+

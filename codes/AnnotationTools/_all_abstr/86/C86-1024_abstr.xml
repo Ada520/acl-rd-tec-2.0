@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C86-1024">
+<Title>Lexieal-Functional Transfer: A Transfer Framework in a Machine Translation System Based on LFG</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a transfer framework called LFT (Lexical-functional Transfer) for a machine translation system based on LFG (Lexical-functional Grammar). The translation process consists of subprocesses of analysis, transfer and generation. We adopt the so called f-structures of LFG as the intermediate representations or interfaces between those subprocesses, thus the transfer process converts a source f-structure into a target fstructure. Since LFG is a grammatical framework for sentence structure analysis of one language, for the purpose, we propose a new framework for specifying transfer rules with LFG schemata, which incorporates corresponding lexical functions of two different languages into an equational representation. The transfer process, therefore, is to solve equations called target f-descriptions derived from the transfer rules applied to the source f-structure and then to produce a target f-structure.</Paragraph>
+</Section>
+</Paper>
+

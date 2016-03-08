@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E99-1005">
+<Title>Determinants of Adjective-Noun Plausibility</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper explores the determinants of adjective-noun plausibility by using correlation analysis to compare judgements elicited from human subjects with five corpus-based variables: co-occurrence frequency of the adjective-noun pair, noun frequency, conditional probability of the noun given the adjective, the log-likelihood ratio, and Resnik's (1993) selectional association measure. The highest correlation is obtained with the co-occurrence frequency, which points to the strongly lexicalist and collocational nature of adjective-noun combinations. null</Paragraph>
+</Section>
+</Paper>
+

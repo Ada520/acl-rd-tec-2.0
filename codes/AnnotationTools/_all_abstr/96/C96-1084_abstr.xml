@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-1084">
+<Title>Bridging Textual Ellipses</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract (1) a.
+</SectionTitle>
+<Paragraph position="0"> We present a hybrid text understanding methodology for the resolution of textual ellipsis. It integrates language-independent conceptual criteria and language-dependent functional constraints. The methodological framework for text ellipsis resolution is the centering model that has been adapted to constraints reflecting the functional information structure within utterances, i.e., the distinction between context-bound and unbound discourse elements.</Paragraph>
+<Paragraph position="1"> b.</Paragraph>
+<Paragraph position="2"> e.</Paragraph>
+<Paragraph position="3"> Der 316127&amp;quot; wird mit einem Nicke l-Metatt-llydride-Akku bestfickt.</Paragraph>
+<Paragraph position="4"> 0&amp;quot;he 316LT is - with a nickel-metal-hydride accumulator - equipped.) Der Rechner wird durch diesen neuartigen Akku ftir 4 Stunden mit Strom versorgt.</Paragraph>
+<Paragraph position="5"> (l'he computer is - because of this new type of accumulator - for 4 hours - with power - provided.) Dariaberhinmls ist die Ladezeit mit 1,5 Smnden sehr kurz.</Paragraph>
+<Paragraph position="6"> (Also - is - the charge time of 1.5 hours quite short.)</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-1015">
+<Title>Flexible Speech Act Based Dialogue Management</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present an application independent dialogue engine that reasons on application dependent knowledge sources to calculate predictions about how a dialogue might continue. Predictions are language independent and are translated into language dependent structures for recognition and synthesis. Further, we discuss how the predictions account for different kinds of dialogue, e.g., question-answer or mixed initiative.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A97-1024">
+<Title>EasyEnglish: A Tool for Improving Document Quality</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe the authoring tool, EasyEnglish, which is part of IBM's internal SGML editing environment, Information Development Workbench. EasyEnglish helps writers produce clearer and simpler English by pointing out ambiguity and complexity as well as performing some standard grammar checking. Where appropriate, EasyEnglish makes suggestions for rephrasings that may be substituted directly into the text by using the editor interface.</Paragraph>
+<Paragraph position="1"> EasyEnglish is based on a full parse by English Slot Grammar; this makes it possible to produce a higher degree of accuracy in error messages as well as handle a large variety of texts.</Paragraph>
+</Section>
+</Paper>
+

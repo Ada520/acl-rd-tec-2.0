@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-1521">
+<Title>Parsing TAG with Abstract Categorial Grammar</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents informally an Earley algorithm for TAG which behaves as the algorithm given by (Schabes and Joshi, 1988). This algorithm is a specialization to TAG of a more general algorithm dedicated to second order ACGs. As second order ACGs allows to encode Linear Context Free Rewriting Systems (LCFRS) (de Groote and Pogodalla, 2004), the presentation of this algorithm gives a rough presentation of the formal tools which can be used to design efficient algorithms for LCFRS. Furthermore, as these tools allow to parse linear l-terms, they can be used as a basis for developping algorithms for generation.</Paragraph>
+</Section>
+</Paper>
+

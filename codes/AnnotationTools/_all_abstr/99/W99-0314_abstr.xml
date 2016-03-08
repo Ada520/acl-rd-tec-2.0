@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W99-0314">
+<Title>Automatically Extracting</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Automatically Extracting
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes how to automatically extract grounding features and segment a dialogue into discourse units, once the dialogue has been annotated with the DR/ backward- and forward-looking tags. Such an approach eliminates the need for separate annotation of grounding, making dialogue annotation quicker and removing a possible source of error. A preliminary test of the mapping against a human annotator is presented.</Paragraph>
+</Section>
+</Paper>
+

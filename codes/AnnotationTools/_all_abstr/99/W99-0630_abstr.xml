@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W99-0630">
+<Title>Automatically Merging Lexicons that have Incompatible Part-of-Speech Categories</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a new method to automatically merge lexicons that employ different incompatible POS categories. Such incompatibilities have hindered efforts to combine lexicons to maximize coverage with reasonable human effort. Given an &amp;quot;original lexicon&amp;quot;, our method is able to merge lexemes from an &amp;quot;additional lexicon&amp;quot; into the original lexicon, converting lexemes from the additional lexicon with about 89% precision. This level of precision is achieved with the aid of a device we introduce called an anti-lexicon, which neatly summarizes all the essential information we need about the co-occurrence of tags and lemmas. Our model is intuitive, fast, easy to implement, and does not require heavy computational resources nor training corpus.</Paragraph>
+<Paragraph position="1">  lemma I tag apple INN boy NN calculate VB Example entries in Brill lexicon</Paragraph>
+</Section>
+</Paper>
+

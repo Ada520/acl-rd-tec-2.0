@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H01-1072">
+<Title>T&amp;quot;uSBL: A Similarity-Based Chunk Parser for Robust Syntactic Processing</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> Chunk parsing has focused on the recognition of partial constituent structures at the level of individual chunks. Little attention has been paid to the question of how such partial analyses can be combined into larger structures for complete utterances.</Paragraph>
+<Paragraph position="1"> The T&amp;quot;uSBL parser extends current chunk parsing techniques by a tree-construction component that extends partial chunk parses to complete tree structures including recursive phrase structure as well as function-argument structure. T&amp;quot;uSBL's tree construction algorithm relies on techniques from memory-based learning that allow similarity-based classification of a given input structure relative to a pre-stored set of tree instances from a fully annotated treebank.</Paragraph>
+<Paragraph position="2"> A quantitative evaluation of T&amp;quot;uSBL has been conducted using a semi-automatically constructed treebank of German that consists of appr. 67,000 fully annotated sentences. The basic PARSEVAL measures were used although they were developed for parsers that have as their main goal a complete analysis that spans the entire input. This runs counter to the basic philosophy underlying T&amp;quot;uSBL, which has as its main goal robustness of partially analyzed structures. null</Paragraph>
+</Section>
+</Paper>
+

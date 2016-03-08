@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W94-0331">
+<Title>Generation in the LOLITA system&amp;quot; An engineering approach.</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> This short paper Will outline NLG work in the LOLITA (Large-scale Object-based Linguistic Interactor Translator and Analyser) system. Section 2 will provide background into the natural language engineering principles employed in the development of the system together with a brief overview of LOLITA itself. Section 3 will then provide an overview of the generation process and outline two specific stages in this process: abstract transformations and realisation.</Paragraph>
+</Section>
+</Paper>
+

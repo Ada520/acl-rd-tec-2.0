@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-0608">
+<Title>Why can't Jos'e read? The problem of learning semantic associations in a robot environment</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We study the problem of learning to recognise objects in the context of autonomous agents.</Paragraph>
+<Paragraph position="1"> We cast object recognition as the process of attaching meaningful concepts to specific regions of an image. In other words, given a set of images and their captions, the goal is to segment the image, in either an intelligent or naive fashion, then to find the proper mapping between words and regions. In this paper, we demonstrate that a model that learns spatial relationships between individual words not only provides accurate annotations, but also allows one to perform recognition that respects the real-time constraints of an autonomous, mobile robot.</Paragraph>
+</Section>
+</Paper>
+

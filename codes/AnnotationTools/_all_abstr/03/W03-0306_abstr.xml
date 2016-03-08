@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-0306">
+<Title>Word Alignment Baselines</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Simple baselines provide insights into the value of scoring functions and give starting points for measuring the performance improvements of technological advances. This paper presents baseline unsupervised techniques for performing word alignment based on geometric and word edit distances as well as supervised fusion of the results of these techniques using the nearest neighbor rule.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H91-1106">
+<Title>The Penman Natural Language Project Systemics-Based Machine Translation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+OBJECTIVE
+</SectionTitle>
+<Paragraph position="0"> The development of an integrated knowledge-based machine-aided translation system based on Systemic Linguistics. Parts of the system are to function as modules to be incorporated in the MAT system being codeveloped with CMU and CRL. Our work involves the enhancement of Penman's existing parsing technology to match the level of the language generation system; the development of ancillary knowledge sources and software (such as bilingual lexicons and interlingua/transfer structures); the maintenance and continued distribution of the sentence generator; and the embedding of all these parts into the joint system.</Paragraph>
+</Section>
+</Paper>
+

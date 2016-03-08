@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W99-0807">
+<Title>A Corpus-Based Grammar Tutor for Education in Language and Speech Technology</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe work in progress on a corpus-based tutoring system for educat, ion in traditional and formal grammar. It is mainly intended for language and speech technology students and gives them the opportunity to learn grammar and grammatical analysis from authentic language material. The exercises offered by the system are based on pedagogically adapted versions of formalisms and tools that are likely to be of relevance to the students also later in their professional life. The system will be continuously evaluated in universitylevel courses, both in order to assess its effectiveness as a learning aid and to provide guidance in its further development.</Paragraph>
+</Section>
+</Paper>
+

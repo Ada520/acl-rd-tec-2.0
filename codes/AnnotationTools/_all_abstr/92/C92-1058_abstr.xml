@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C92-1058">
+<Title>The Primordial Soup Algorithm A Systematic Approach to the Specification of Parallel Parsers</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A general framework for parallel parsing is presented, which allows for a unitied, systematic approach to parallel parsing. The l'rimordial Soup Algorithm creates trees by alh)wing partial parse trees to combine arbitrarily. By adding constraints to the general algorithm, a large, class of parallel parsing strategies can be detined. This is exemplified by CYK, (hot, torn up) Earley and de Vreught &amp; Honig parsers. From such a parsing strategy algorithms for various machine architectures can be derived in a systematic way.</Paragraph>
+</Section>
+</Paper>
+

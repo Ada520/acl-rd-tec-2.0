@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-2161">
+<Title>Querying Temporal Databases Using Controlled Natural Language*</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Recent years have shown a surge in interest in temporal database systems, which allow users to store time-dependent intbrmation. We present a novel controlled natural language interface to temporal databases, based on translating natural language questions into SQL/Telnporal, a temporal database query language. The syntactic analysis is done using the Type-Logical Grammar framework, highlighting its utility not; only as a theoretical fralnework but also as a practical tool. The semantic analysis is done using a novel theory of the semantics of temporal questions, focusing on the role of temporal preposition phrases rather than the more traditional focus on tense and aspect. Our translation method is considerably simpler than previous attempts in this direction. We present a prototype software implementation.</Paragraph>
+</Section>
+</Paper>
+

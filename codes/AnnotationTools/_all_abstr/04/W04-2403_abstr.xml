@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-2403">
+<Title>A Semantic Kernel for Predicate Argument Classification</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Automatically deriving semantic structures from text is a challenging task for machine learning. The flat feature representations, usually used in learning models, can only partially describe structured data. This makes difficult the processing of the semantic information that is embedded into parse-trees.</Paragraph>
+<Paragraph position="1"> In this paper a new kernel for automatic classification of predicate arguments has been designed and experimented. It is based on sub-parse-trees annotated with predicate argument information from PropBank corpus. This kernel, exploiting the convolution properties of the parse-tree kernel, enables us to learn which syntactic structures can be associated with the arguments defined in PropBank. Support Vector Machines (SVMs) using such a kernel classify arguments with a better accuracy than SVMs based on linear kernel.</Paragraph>
+</Section>
+</Paper>
+

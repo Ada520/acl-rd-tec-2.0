@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A00-2017">
+<Title>A Classification Approach to Word Prediction*</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The eventual goal of a language model is to accurately predict the value of a missing word given its context. We present an approach to word prediction that is based on learning a representation for each word as a function of words and linguistics predicates in its context. This approach raises a few new questions that we address. First, in order to learn good word representations it is necessary to use an expressive representation of the context. We present a way that uses external knowledge to generate expressive context representations, along with a learning method capable of handling the large number of features generated this way that can, potentially, contribute to each prediction. Second, since the number of words &amp;quot;competing&amp;quot; for each prediction is large, there is a need to &amp;quot;focus the attention&amp;quot; on a smaller subset of these. We exhibit the contribution of a &amp;quot;focus of attention&amp;quot; mechanism to the performance of the word predictor. Finally, we describe a large scale experimental study in which the approach presented is shown to yield significant improvements in word prediction tasks.</Paragraph>
+</Section>
+</Paper>
+

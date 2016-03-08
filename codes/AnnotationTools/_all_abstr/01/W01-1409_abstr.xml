@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W01-1409">
+<Title>Building a Statistical Machine Translation System from Scratch: How Much Bang for the Buck Can We Expect?</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We report on our experience with building a statistical MT system from scratch, including the creation of a small parallel Tamil-English corpus, and the results of a task-based pilot evaluation of statistical MT systems trained on sets of ca. 1300 and ca.</Paragraph>
+<Paragraph position="1"> 5000 parallel sentences of Tamil and English data. Our results show that even with apparently incomprehensible system output, humans without any knowledge of Tamil can achieve performance rates as high as 86% accuracy for topic identification, 93% recall for document retrieval, and 64% recall on question answering (plus an additional 14% partially correct answers).</Paragraph>
+</Section>
+</Paper>
+

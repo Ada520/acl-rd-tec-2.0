@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1064">
+<Title>Dependency-based Sentence Alignment for Multiple Document Summarization</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we describe a method of automatic sentence alignment for building extracts from abstracts in automatic summarization research. Our method is based on two steps. First, we introduce the &amp;quot;dependency tree path&amp;quot; (DTP). Next, we calculate the similarity between DTPs based on the ESK (Extended String Subsequence Kernel), which considers sequential patterns. By using these procedures, we can derive one-to-many or many-to-one correspondences among sentences. Experiments using different similarity measures show that DTP consistently improves the alignment accuracy and that ESK gives the best performance.</Paragraph>
+</Section>
+</Paper>
+

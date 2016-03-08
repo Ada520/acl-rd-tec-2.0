@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-1713">
+<Title>News-Oriented Automatic Chinese Keyword Indexing</Title>
+<Section position="2" start_page="2" end_page="2" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In our information era, keywords are very useful to information retrieval, text clustering and so on. News is always a domain attracting a large amount of attention. However, the majority of news articles come without keywords, and indexing them manually costs highly. Aiming at news articles' characteristics and the resources available, this paper introduces a simple procedure to index key-words based on the scoring system. In the process of indexing, we make use of some relatively mature linguistic techniques and tools to filter those meaningless candidate items. Furthermore, according to the hierarchical relations of content words, keywords are not restricted to extracting from text. These methods have improved our system a lot. At last experimental results are given and analyzed, showing that the quality of extracted keywords are satisfying. null</Paragraph>
+</Section>
+</Paper>
+

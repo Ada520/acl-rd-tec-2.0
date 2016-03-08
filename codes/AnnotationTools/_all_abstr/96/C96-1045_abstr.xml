@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-1045">
+<Title>Direct and Underspecified Interpretations of LFG f-structures</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe an approach to interpreting LFG f-structures (Kaplan &amp; Bresnan, 1982) truth-conditionally as underspecifled quasi-logical forms. F-structures are either interpreted indirectly in terms of a homomorphic embedding into Quasi Logical Form (QLF) (Alshawi, 1992; Alshawi &amp; Crouch, 1992; Cooper et al., 1994a) representations or directly in terms of adapting QLF interpretation clauses to f-structure representations. We provide a reverse mapping from QLFs to f-structures and establish isomorphic subsets of the QLF and LFG formalism. A simple maI)ping which switches off QLF contextual resolution can be shown to be truth preserving with respect to an independently given semantics (Dalrymple et al., 1995). We compare our proposal with approaches discussed in the literature.</Paragraph>
+</Section>
+</Paper>
+

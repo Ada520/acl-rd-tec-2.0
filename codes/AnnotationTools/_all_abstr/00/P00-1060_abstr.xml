@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P00-1060">
+<Title>An Information-Theory-Based Feature Type Analysis for the Modelling of Statistical Parsing SUI Zhifang +++ , ZHAO Jun + , Dekai WU + +</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The paper proposes an information-theory-based method for feature types analysis in probabilistic evaluation modelling for statistical parsing. The basic idea is that we use entropy and conditional entropy to measure whether a feature type grasps some of the information for syntactic structure prediction. Our experiment quantitatively analyzes several feature types' power for syntactic structure prediction and draws a series of interesting conclusions.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C92-2105">
+<Title>Self-Monitoring with Reversible Grammars</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe a method and its implementation for self-monitoring during natural language generation. In situations of communication where the generation of ambiguous utterances should be avoided our method is able to compute an un-ambiguous utterance for a given semantic input.</Paragraph>
+<Paragraph position="1"> The proposed method is based on a very strict integration of parsing and generation. During the monitored generation step, a previously generated (possibly) ambiguous utterance is parsed and the obtained alternative derivation trees are used as a 'guide' for re-generating the utterance.</Paragraph>
+<Paragraph position="2"> To achieve such an integrated approach the underlying grammar must be reversible.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-0611">
+<Title>Sydney, July 2006. c(c)2006 Association for Computational Linguistics Corpus annotation by generation</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> As the interest in annotated corpora is spreading, there is increasing concern with using existing language technology for corpus processing. In this paper we explore the idea of using natural language generation systems for corpus annotation.</Paragraph>
+<Paragraph position="1"> Resources for generation systems often focus on areas of linguistic variability that are under-represented in analysis-directed approaches. Therefore, making use of generation resources promises some significant extensions in the kinds of annotation information that can be captured.</Paragraph>
+<Paragraph position="2"> We focus here on exploring the use of the KPML (Komet-Penman MultiLingual) generation system for corpus annotation.</Paragraph>
+<Paragraph position="3"> We describe the kinds of linguistic information covered in KPML and show the steps involved in creating a standard XML corpus representation from KPML's generation output.</Paragraph>
+</Section>
+</Paper>
+

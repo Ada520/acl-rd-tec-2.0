@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-1003">
+<Title>Clustering Words with the MDL Principle</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We address the probhml of automaticMly constructing a thesaurus by clustering words based on corpus data. We view this problem as that of estimating a joint distribution over the (:artesian product of a partition of a set of nouns and a partition of a set of verbs, and propose a learning a.lgorithm based on the Mininmm Description Length (MDL) Principle for such estimation. We empirically compared the performance of our method based on the MDL Principle against the Maximum Likelihood Estimator in word clustering, and found that the former outperforms the latter. ~C/Ve also evaluated the method by conducting pp-attachment disambiguation experiments using an automaticMly constructed thesaurus. Our experimental results indicate that such a thesaurus can be used to improve accuracy in disambiguation. null</Paragraph>
+</Section>
+</Paper>
+

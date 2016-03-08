@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C92-2113">
+<Title>A Method of Utilizing Domain and Language specific Constraints in Dialogue Translation</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> One of the characteristics of dialogue translation is that it is strongly dependent on the situation or the communicative goal where the utterance is spoken.</Paragraph>
+<Paragraph position="1"> Moreover, the distance between the language pair is great, the possibilities of the transfer diverse and it would be difficult to guarantee the equivalence of translation.</Paragraph>
+<Paragraph position="2"> In this article, we propose a method of utilizing domain and language specific constraints from the view~ point of transfer phase in a dialogue translation system. q~ansfer processing sometimes requires various kinds of information: e.g., domain knowledge for ellipsis resolution, language dependent communicative structures(focus, theme, rheme, ...).</Paragraph>
+<Paragraph position="3"> Our standpoint is that there are certain language specific strategies on producing utterances in communication. As steps towards clarifying those stratcgies, we first discuss tim issue of typical idiosyncratic gaps between two language pairs. Next, to resolve such problems we suggest a new framework of incorporating domain and language specific knowledge a.s transfer rides for dialogue translation from the viewpoint of transfer phase. Finally we will mention related issues and further investigation.</Paragraph>
+</Section>
+</Paper>
+

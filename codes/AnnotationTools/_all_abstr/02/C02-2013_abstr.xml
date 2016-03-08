@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C02-2013">
+<Title>SOAT: A Semi-Automatic Domain Ontology Acquisition Tool from Chinese Corpus</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we focus on the domain ontology acquisition from Chinese corpus by extracting rules designed for Chinese phrases. These rules are noun sequences with part-of-speech tags.</Paragraph>
+<Paragraph position="1"> Experiments show that this process can construct domain ontology prototypes efficiently and effectively.</Paragraph>
+</Section>
+</Paper>
+

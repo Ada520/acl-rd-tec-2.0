@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-1082">
+<Title>A step towards the detection of semantic variants of terms in technical documents</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper reports the results of a preliminary experiment on the detection of semantic variants of terms in a French technical document.</Paragraph>
+<Paragraph position="1"> The general goal of our work is to help the structuration of terminologies. Two kinds of semantic variants can be found in traditional terminologies : strict synonymy links and fuzzier relations like see-also. We have designed three rules which exploit general dictionary information to infer synonymy relations between complex candidate terms. The results have been examined by a human terminologist. The expert has judged that half of the overall pairs of terms are relevant for the semantic variation.</Paragraph>
+<Paragraph position="2"> He validated an important part of the detected links as synonymy. Moreover, it appeared that numerous errors are due to few mis-interpreted links: they could be eliminated by few exception rules.</Paragraph>
+</Section>
+</Paper>
+

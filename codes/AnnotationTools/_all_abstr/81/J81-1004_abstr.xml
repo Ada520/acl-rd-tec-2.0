@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J81-1004">
+<Title>Technical Correspondence A Note on the Utility of Computing Inferences in a Real Data Base Query Environment</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+6. Damerau mentions that queries with non-empty
+</SectionTitle>
+<Paragraph position="0"> responses can also make presumptions. This is certainly true, even in more subtle ways than noted. (For example, &amp;quot;What is the youngest assistant professors salary?&amp;quot; presumes that there is more than one assistant professor.) Issues such as these are indeed currently under investigation.</Paragraph>
+<Paragraph position="1"> Overall, we are pleased to see that Damerau has raised some very important issues and we hope that this exchange will be helpful to the natural language processing community.</Paragraph>
+<Paragraph position="2">  Reply to Joshi and Kaplan In general, there is little to disagree with in Joshi and Kaplan's comments, but perhaps a couple of points could be clarified.</Paragraph>
+<Paragraph position="3"> As Joshi and Kaplan suspected (point 3), the users of this system did indeed thoroughly understand the data base. This makes quite a difference in thinking about the relative importance of facilities in a natural language query system. In particular, such users tend to check strange answers, so that a reply of &amp;quot;no&amp;quot;, as in their point 4, would probably result in an additional question of &amp;quot;How many parcels ... &amp;quot; With regard to their remarks on implementations that incur no additional cost (points 2 and 5), I would be interested in seeing how presupposition analysis can be done without extra data base retrievals. It would seem that the system would either have to make special retrievals at marked times, as in CO-OP, or would have to make the relevant retrievals for every question so as to have the results available when needed. However, even if the execution time increase were to be zero, we still have a great many other things which we would like to add to our system before we add inference checking.</Paragraph>
+<Paragraph position="4"> Fred J. Damerau</Paragraph>
+</Section>
+</Paper>
+

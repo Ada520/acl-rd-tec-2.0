@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P06-1090">
+<Title>Sydney, July 2006. c(c)2006 Association for Computational Linguistics A Clustered Global Phrase Reordering Model for Statistical Machine Translation</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we present a novel global re-ordering model that can be incorporated into standard phrase-based statistical machine translation. Unlike previous local reordering models that emphasize the re-ordering of adjacent phrase pairs (Tillmann and Zhang, 2005), our model explicitly models the reordering of long distances by directly estimating the parameters from the phrase alignments of bilingual training sentences. In principle, the global phrase reordering model is conditioned on the source and target phrases that are currently being translated, and the previously translated source and target phrases. To cope with sparseness, we use N-best phrase alignments and bilingual phrase clustering, and investigate a variety of combinations of conditioning factors. Through experiments, we show, that the global reordering model significantly improves the translation accuracy of a standard Japanese-English translation task.</Paragraph>
+</Section>
+</Paper>
+

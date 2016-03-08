@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H91-1057">
+<Title>A Dynamic Language Model for Speech Recognition</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> In the case of a trlgr~m language model, the probability of the next word conditioned on the previous two words is estimated from a large corpus of text. The resulting static trigram language model (STLM) has fixed probabilities that are independent of the document being dictated. To improve the language mode\] (LM), one can adapt the probabilities of the trigram language model to match the current document more closely. The partially dictated document provides significant clues about what words ~re more likely to be used next. Of many methods that can be used to adapt the LM, we describe in this paper a simple model based on the trigram frequencies estimated from the partially dictated document. We call this model ~ cache trigram language model (CTLM) since we are c~chlng the recent history of words. We have found that the CTLM red,aces the perplexity of a dictated document by 23%. The error rate of a 20,000-word isolated word recognizer decreases by about 5% at the beginning of a document and by about 24% after a few hundred words.</Paragraph>
+</Section>
+</Paper>
+

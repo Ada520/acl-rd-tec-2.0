@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-1083">
+<Title>N|)a, NP AP I I N A I I st, chose Serl?e NPv N P,, Nl)~t NP PP ~ I ~ NP AP NP A P N /' Xl' I I I I I I I N A N /I</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> When trying to identify essential concepts and relationships in a medium-size corpus, it is not always possible to rely on statistical methods, as the frequencies are too low. We present an alternative method, symbolic, based on the simplification of parse trees. We discuss the resuits on nominal phrases of two technical corpora, analyzed by two different robust parsers used for terminology updating in an industrial company. We compare our results with Hindle's scores of similarity.</Paragraph>
+<Paragraph position="1"> Subjects Clustering, ontology development, robust parsing, knowledge acquisition from corpora, computational terminology</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P02-1058">
+<Title>From Single to Multi-document Summarization: A Prototype System and its Evaluation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> NeATS is a multi-document summarization system that attempts to extract relevant or interesting portions from a set of documents about some topic and present them in coherent order. NeATS is among the best performers in the large scale summarization evaluat ion DUC 2001.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0306">
+<Title>Mistake-Driven Learning in Text Categorization</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Learning problems in the text processing domain often map the text to a space whose dimensions are the measured features of the text, e.g., its words. Three characteristic properties of this domain are (a) very high dimensionality, (b) both the learned concepts and the instances reside very sparsely in the feature space, and (c) a high variation in the number of active features in an instance. In this work we study three mistake-driven learning algorithms for a typical task of this nature text categorization.</Paragraph>
+<Paragraph position="1"> We argue that these algorithms- which categorize documents bY learning a linear separator in the feature space - have a few properties that make them ideal for this domain. We then show that a quantum leap in performance is achieved when we further modify the algorithms to better address some of the specific characteristics of the domain. In particular, we demonstrate (1) how variation in document length can be tolerated by either normalizing feature weights or by using negative weights, (2) the positive effect of applying a threshold range in training, (3) alternatives in considering feature frequency, and (4) the benefits of discarding features while training. Overall, we present an algorithm, a variation of Littlestone's Winnow, which performs significantly better than any other algorithm tested on this task using a similar feature set.</Paragraph>
+<Paragraph position="2"> *Partly supported by a grant no. 8560195 from the Israeh Ministry of Science.</Paragraph>
+<Paragraph position="3"> tPartly supported by a grant from the Israeli Ministry of Science. Part of this work was done while visiting at Harvard University, supported by ONR grant N0001496-1-0550. null</Paragraph>
+</Section>
+</Paper>
+

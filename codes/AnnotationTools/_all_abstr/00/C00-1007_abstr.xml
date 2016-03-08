@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-1007">
+<Title>Exploiting a Probabilistic Hierarchical Model for Generation</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Previous stochastic approaches to generation do not include a tree-based representation of syntax. While this may be adequate or even advantageous for some applications, other applications profit from using as much syntactic knowledge as is available, leaving to a stochastic model only those issues that are not determined by the grammar. We present initial resuits showing that a tree-based model derived from a tree-annotated corpus improves on a tree model derived from an unannotated corpus, and that a tree-based stochastic model with a hand-crafted grammar outpertbrms both.</Paragraph>
+</Section>
+</Paper>
+

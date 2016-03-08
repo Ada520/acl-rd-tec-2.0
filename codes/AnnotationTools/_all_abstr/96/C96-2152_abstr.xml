@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-2152">
+<Title>Disambiguation by Prioritized Circumscription</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper 1)r(,.sents a nml;ho(t of resolving ambiguity by using ;~ wu'imlt; of cir(:ums(:ril)l:ion, p'rio'ritizcd circwm, scriptio'm In a disa,ntbigu~tion task, human s/:(',ms to use various t)r(',fcrcnccs whi(:h have various str(mgi;h, hi llrioril,izcd cir-.</Paragraph>
+<Paragraph position="1"> (:umscription, we (:;m ('.xt)ress thes/', t/ref erences as defe;~sibh~ (:onstr~fints with various strength and we infer the, most 1)referabh ', logical models which s~l,ist',y stronger COllStra,ill|;S ?l,s 11111c\]1 as t)ossi bh',. This ret)resenl,adon is very m~tu-.</Paragraph>
+<Paragraph position="2"> ral for (tis;mfl)iguation sin(:c w(; (:;m r(~.</Paragraph>
+<Paragraph position="3"> ga, rd a logi(:al interprelqal;ion a.s a possibh,. r('.a(ling a.nd 1:lie most prefer;d)lc logical models as the most pr('.f('.ra,bh'~ r(.'a(lings. Wc argue l,hat 1)rioritize.d (:ircums(:ril)tion is a,nol;her promising method for the task. We a\]so dis(:uss an imt)hmmntation of l)rioritized (:ircums(:riplion by a hiera.rchi(:a.l logic programlning (\]tCIA)) 1;ulgu~tge.</Paragraph>
+</Section>
+</Paper>
+

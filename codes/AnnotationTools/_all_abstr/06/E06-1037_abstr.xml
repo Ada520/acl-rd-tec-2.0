@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E06-1037">
+<Title>Using Reinforcement Learning to Build a Better Model of Dialogue State</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Given the growing complexity of tasks that spoken dialogue systems are trying to handle, Reinforcement Learning (RL) has been increasingly used as a way of automatically learning the best policy for a system to make. While most work has focused on generating better policies for a dialogue manager, very little work has been done in using RLto construct abetter dialogue state. This paper presents a RL approach for determining what dialogue features are important to a spoken dialogue tutoring system. Our experiments show that incorporating dialogue factors such as dialogue acts, emotion, repeated concepts and performance play a significant role in tutoring and should be taken into account when designing dialogue systems. null</Paragraph>
+</Section>
+</Paper>
+

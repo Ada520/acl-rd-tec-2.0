@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J93-1003">
+<Title>Accurate Methods for the Statistics of Surprise and Coincidence</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> There has been a recent trend back towards the statistical analysis of text. This trend has resulted in a number of researchers doing good work in information retrieval and natural language processing in general. Unfortunately much of their work has been characterized by a cavalier approach to the statistical issues raised by the results.</Paragraph>
+<Paragraph position="1"> The approaches taken by such researchers can be divided into three rough categories. null .</Paragraph>
+<Paragraph position="2"> .</Paragraph>
+<Paragraph position="3"> Collect enormous volumes of text in order to make straightforward, statistically based measures work well.</Paragraph>
+<Paragraph position="4"> Do simple-minded statistical analysis on relatively small volumes of text and either 'correct empirically' for the error or ignore the issue.  3. Perform no statistical analysis whatsoever.</Paragraph>
+<Paragraph position="5"> The first approach is the one taken by the IBM group researching statistical approaches to machine translation (Brown et al. 1989). They have collected nearly one * Computing Research Laboratory, New Mexico State University, Las Cruces, NM 88003-0001. (c) 1993 Association for Computational Linguistics  Computational Linguistics Volume 19, Number 1 billion words of English text from such diverse sources as internal memos, technical manuals, and romance novels, and have aligned most of the electronically available portion of the record of debate in the Canadian parliament (Hansards). Their efforts have been Augean, and they have been well rewarded by interesting results. The statistical significance of most of their work is above reproach, but the required volumes of text are simply impractical in many settings.</Paragraph>
+<Paragraph position="6"> The second approach is typified by much of the work of Gale and Church (Gale and Church this issue, and in press; Church et al. 1989). Many of the results from their work are entirely usable, and the measures they use work well for the examples given in their papers. In general, though, their methods lead to problems. For example, mutual information estimates based directly on counts are subject to overestimation when the counts involved are small, and z-scores substantially overestimate the significance of rare events.</Paragraph>
+<Paragraph position="7"> The third approach is typified by virtually all of the information-retrieval literature. Even recent and very innovative work such as that using Latent Semantic Indexing (Dumais et al. 1988) and Pathfinder Networks (Schvaneveldt 1990) has not addressed the statistical reliability of the internal processing. They do, however, use good statistical methods to analyze the overall effectiveness of their approach. Even such well-accepted techniques as inverse document frequency weighting of terms in text retrieval (Salton and McGill 1983) is generally only justified on very sketchy grounds.</Paragraph>
+<Paragraph position="8"> The goal of this paper is to present a practical measure that is motivated by statistical considerations and that can be used in a number of settings. This measure works reasonably well with both large and small text samples and allows direct comparison of the significance of rare and common phenomena. This comparison is possible because the measure described in this paper has better asymptotic behavior than more traditional measures.</Paragraph>
+<Paragraph position="9"> In the following, some sections are composed largely of background material or mathematical details and can probably be skipped by the reader familiar with statistics or by the reader in a hurry. The sections that should not be skipped are marked with **, those with substantial background with *, and detailed derivations are unmarked. This 'good parts' convention should make this paper more useful to the implementer or reader only wishing to skim the paper.</Paragraph>
+</Section>
+</Paper>
+

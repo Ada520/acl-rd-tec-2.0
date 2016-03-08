@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-0722">
+<Title>Minimal Commitment and Full Lexical Disambiguation: Balancing Rules and Hidden Markov Models</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we describe the construction of a part-of-speech tagger both for medical document retrieval purposes and XP extraction.</Paragraph>
+<Paragraph position="1"> Therefore we have designed a double system: for retrieval purposes, we rely on a rule-based architecture, called minimal commitment, which is likely to be completed by a data-driven tool (HMM) when full disambiguation is necessary.</Paragraph>
+</Section>
+</Paper>
+

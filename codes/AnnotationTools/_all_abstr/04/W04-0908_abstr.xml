@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-0908">
+<Title>Input Text Linguistic Component Formal Description Visualizer Component OutputAnimation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a system to create animated 3D scenes of car accidents from reports written in Swedish. The system has been developed using news reports of varying size and complexity. The text-to-scene conversion process consists of two stages. An information extraction module creates a structured representation of the accident and a visual simulator generates and animates the scene.</Paragraph>
+<Paragraph position="1"> We first describe the overall structure of the text-to-scene conversion and the structure of the representation. We then explain the information extraction and visualization modules. We show snapshots of the car animation output and we conclude with the results we obtained.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P84-1014">
+<Title>Interaction of Knowledge Sources in a Portable Natural Language Interface</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a general approach to the design of natural language interfaces that has evolved during the development of DATALOG, an English database query system based on Cascaded ATN grammar. By providing separate representation schemes for linguistic knowledge, general world knowledge, and application domain knowledge, DATALOG achieves a high degree of portability and extendability.</Paragraph>
+</Section>
+</Paper>
+

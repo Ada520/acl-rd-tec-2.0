@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W05-0205">
+<Title>Towards Intelligent Search Assistance for Inquiry-Based Learning</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+In Online Inquiry-Based Learning (OIBL)
+</SectionTitle>
+<Paragraph position="0"> learners search for information to answer driving questions. While learners conduct sequential related searches, the search engines interpret each query in isolation, and thus are unable to utilize task context.</Paragraph>
+<Paragraph position="1"> Consequently, learners usually get less relevant search results. We are developing a NLP-based search agent to bridge the gap between learners and search engines.</Paragraph>
+<Paragraph position="2"> Our algorithms utilize contextual features to provide user with search term suggestions and results re-ranking. Our pilot study indicates that our method can effectively enhance the quality of OIBL.</Paragraph>
+</Section>
+</Paper>
+

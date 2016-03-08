@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A92-1046">
+<Title>The Role of Testing in Grammar Engineering</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> In the past grammars have been developed either with an art approach (building up a coherent system; prescriptive grammars like the Latin grammars of the Middle Ages) or with a science approach (describing the laws of nature; descriptive and contrastive grammars). We propose to regard grammar development in Computational Linguistics as an engineering task analogous to software engineerkig: one that requires analysis, specification, implementation, testing, integration and maintenance.</Paragraph>
+<Paragraph position="1"> The different phases in the software development process correspond to phases in grammar development in the following way: * The problem analysis and definition phase corresponds to an analysis of the linguistic data (texts of written or spoken language).</Paragraph>
+<Paragraph position="2"> * Problem specification means setting up grammar rules that describe the observed data. The grammar formalism thus provides the formal language for the specification.</Paragraph>
+<Paragraph position="3"> * The implementation phase includes putting the rules into the specific format of the computational grammar system. This is a computer program to process a grammar in the framework of a grammar theory. The implementation effort decreases the closer the format of the grammar approaches the format of the computational system.</Paragraph>
+<Paragraph position="4"> * The testing phase comprises checking the grammar implementation against the linguistic data, i.e. judging grammaticality and the assigned structure.</Paragraph>
+<Paragraph position="5"> * Integration, installation and maintenance are no different in the context of an NLP system than in other software systems.</Paragraph>
+<Paragraph position="6"> Our project focusses on the testing aspect of the process. Testing can never be exhaustive but must be representative. We therefore propose an archive of test sentences (hence: ATS) to govern the incremental development and the testing of grammar implementations.</Paragraph>
+</Section>
+</Paper>
+

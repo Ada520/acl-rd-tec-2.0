@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-3505">
+<Title>Scaling Natural Language Understanding via User-driven Ontology Learning Berenike Loos</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Non-statistical natural language understanding components need world knowledge of the domain for which they are applied in a machine-readable form. This knowledge can be represented by manually created ontologies. However, as soon as new concepts, instances or relations are involved in the domain, the manually created ontology lacks necessary information, i.e. it becomes obsolete and/or incomplete. This means its &amp;quot;world model&amp;quot; will be insufficient to understand the user.</Paragraph>
+<Paragraph position="1"> The scalability of a natural language understanding system, therefore, essentially depends on its capability to be up to date. The approach presented herein applies the information provided by the user in a dialog system to acquire the knowledge needed to understand him or her adequately. Furthermore, it takes the position that the type of incremental ontology learning as proposed herein constitutes a viable approach to enhance the scalability of natural language systems.</Paragraph>
+</Section>
+</Paper>
+

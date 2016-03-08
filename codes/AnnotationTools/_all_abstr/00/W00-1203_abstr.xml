@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-1203">
+<Title>Knowledge Extraction for Identification of Chinese Organization Names</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> In this paper, a knowledge extraction process was proposed to extract the knowledge for identifying Chinese organization names. The knowledge extraction process utilizes the structure property, statistical property as well as partial linguistic knowledge of the organization names to extract new organizations from domain texts. The knowledge extraction processes were experimented on large amount of texts retrieved from WWW. With high standard of threshold values, new organization names can be identified with very high precision. Therefore the knowledge extraction processes can be carried out automatically to self improve the performance in the future.</Paragraph>
+</Section>
+</Paper>
+

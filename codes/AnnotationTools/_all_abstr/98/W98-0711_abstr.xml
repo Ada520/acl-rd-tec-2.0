@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-0711">
+<Title>Automatic Adaptation of WordNet to Sublanguages and to Computational Tasks</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Semantically tagging a corpus is useful for many intermediate NLP tasks such as: acquisition of word argument structures in sublanguages, acquisition of syntactic disambiguation cues, terminology learning, etc. Semantic categories allow the generalization of observed word patterns, and facilitate the discovery of irecurrent sublanguage phenomena and selectional rules of various types. Yet, as opposed to POS tags in morphology, there is no consensus in literature about the type and granularity of the category inventory. In addition, most available on-line taxonomies, as WordNet, are over ambiguous and, at the same time, may not include many domain-dependent senses of words. In this paper we describe a method to adapt a general purpose taxonomy to an application sub\[anguage: flint, we prune branches of the Wordnet hierarchy that are too &amp;quot; fine grained&amp;quot; for the domain: then. a statistical model of classes is built from corpus contexts to sort the different classifications or assign a classification to known and unknown words, respectively.</Paragraph>
+</Section>
+</Paper>
+

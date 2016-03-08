@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P99-1046">
+<Title>Statistical Models for Topic Segmentation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Most documents are about more than one subject, but many NLP and IR techniques implicitly assume documents have just one topic. We describe new clues that mark shifts to new topics, novel algorithms for identifying topic boundaries and the uses of such boundaries once identified. We report topic segmentation performance on several corpora as well as improvement on an IR task that benefits from good segmentation.</Paragraph>
+<Paragraph position="1"> Introduction Dividing documents into topically-coherent sections has many uses, but the primary motivation for this work comes from information retrieval (IR). Documents in many collections vary widely in length and while the shortest may address one topic, modest length and long documents are likely to address multiple topics or be comprised of sections that address various aspects of the primary topic. Despite this fact, most IR systems treat documents as indivisible units and index them in their entirety.</Paragraph>
+<Paragraph position="2"> This is problematic for two reasons. First, most relevance metrics are based on word frequency, which can be viewed as a function of the topic being discussed (Church and Gale, 1995). (For example, the word header is rare in general English, but it enjoys higher frequency in documents about soccer.) In general, word frequency is a good indicator of whether a document is relevant to a query, but consider a long document containing only one section relevant to a query. If a keyword is used only in the pertinent section, its overall frequency in the document will be low and, as a result, the document as a whole may be judged irrelevant despite the relevance of one section.</Paragraph>
+<Paragraph position="3"> The second reason it would be beneficial to index sections of documents is that, once a search engine has identified a relevant document, users would benefit from direct access to the relevant sections. This problem is compounded when searching multimedia documents. If a user wants to find a particular news item in a database of radio or television news programs, they may not have the patience to suffer through a 30 minute broadcast to find the one minute clip that interests them.</Paragraph>
+<Paragraph position="4"> Dividing documents into sections based on topic addresses both of these problems. IR engines can index the resulting sections just like documents and subsequently users can peruse those sections their search engine deems relevant. In the next section we will discuss the nature of our approach, then briefly describe previous work, discuss various indicators of topic shifts, outline novel algorithms based on them and present our results.</Paragraph>
+</Section>
+</Paper>
+

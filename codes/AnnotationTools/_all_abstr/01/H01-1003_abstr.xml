@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H01-1003">
+<Title>Advances in Meeting Recognition</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. INTRODUCTION
+</SectionTitle>
+<Paragraph position="0"> Speech recognition has advanced considerably, but has been limited almost entirely either to situations in which close speaking microphones are natural and acceptable (telephone, dictation, command&amp;control, etc.) or in which high-quality recordings are ensured. Furthermore, most recognition applications involve controlled recording environments, in which the user turns the recognition event on and off and speaks cooperatively for the purpose of being recognized.</Paragraph>
+<Paragraph position="1"> Unfortunately, the majority of situations in which humans speak with each other fall outside of these limitations. When we meet with others, we speak without turning on or off equipment, or we don't require precise positioning vis a vis the listener. Recognition of speech during human encounters, or &amp;quot;meeting recognition&amp;quot;, therefore represents the ultimate frontier for speech recognition, as it forces robustness, knowledge of context, and integration in an environment and/or human experience.</Paragraph>
+</Section>
+</Paper>
+

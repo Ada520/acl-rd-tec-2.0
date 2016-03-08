@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1131">
+<Title>Word sense disambiguation criteria: a systematic study</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This article describes the results of a systematic in-depth study of the criteria used for word sense disambiguation. Our study is based on 60 target words: 20 nouns, 20 adjectives and 20 verbs. Our results are not always in line with some practices in the field. For example, we show that omitting non-content words decreases performance and that bigrams yield better results than unigrams.</Paragraph>
+</Section>
+</Paper>
+

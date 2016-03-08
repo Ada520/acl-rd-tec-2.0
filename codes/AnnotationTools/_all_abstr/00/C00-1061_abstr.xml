@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-1061">
+<Title>English-to-Korean Transliteration using Multiple Unbounded Overlapping Phoneme Chunks</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present in this paper the method of English-to-Korean(E-K) transliteration and back-transliteration. In Korean technical documents, many English words are transliterated into Korean words in w~rious tbrms in diverse ways. As English words and Korean transliterations are usually technical terms and proper nouns, it; is hard to find a transliteration and its variations in a dictionary. Theretbre an automatic transliteration system is needed to find the transliterations of English words without manual intervention.</Paragraph>
+<Paragraph position="1"> 3?.o explain E-K transliteration t)henomena, we use phoneme chunks that do not have a length limit. By aI)plying phoneme chunks, we combine different length intbrmation with easy. The E-K transliteration method h~m three stet)s. In the first, we make a t)honeme network that shows all possible transliterations of the given word. In the second step, we apply t)honeme chunks, extracted fl'om training data, to calculate the reliability of each possible transliteration. Then we obtain probable transliterations of the given English word.</Paragraph>
+</Section>
+</Paper>
+

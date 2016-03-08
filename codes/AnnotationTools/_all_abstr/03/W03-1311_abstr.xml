@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-1311">
+<Title>Lyudmila</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Natural language processing (NLP) is critical for improvement of the healthcare process because it has the potential to encode the vast amount of clinical data in textual patient reports. Many clinical applications require coded data to function appropriately, such as decision support and quality assurance applications. However, in order to be applicable in the clinical domain, performance of the NLP systems must be adequate. A valuable clinical application is the detection of infectious diseases, such as surveillance of healthcare-associated pneumonia in newborns (e.g. neonates) because it produces significant rates of morbidity and mortality, and manual surveillance of respiratory infection in these patients is a challenge.</Paragraph>
+<Paragraph position="1"> Studies have already demonstrated that automated surveillance using NLP tools is a useful adjunct to manual clinical management, and is an effective tool for infection control practitioners. This paper presents a study aimed at evaluating the feasibility of an NLP-based electronic clinical monitoring system to identify healthcare-associated pneumonia in neonates. We estimated sensitivity, specificity, and positive predictive value by comparing the detection with clinicians' judgments and our results demonstrated that the automated method was indeed feasible. Sensitivity (recall) was 87.5%, and specificity (true negative rates) was 94.1%.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A97-1008">
+<Title>An Evaluation of Strategies for Selective Utterance Verification for Spoken Natural Language Dialog</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> As with human-human interaction, spoken human-computer dialog will contain situations where there is miscommunication. In experimental trials consisting of eight different users, 141 problem-solving dialogs, and 2840 user utterances, the Circuit Fix-It Shop natural language dialog system misinterpreted 18.5% of user utterances. These miscommunications created various problems for the dialog interaction, ranging from repetitive dialog to experimenter intervention to occasional failure of the dialog. One natural strategy for reducing the impact of miscommunication is selective verification of the user's utterances. This paper reports on both context-independent and context-dependent strategies for utterance verification that show that the use of dialog context is crucial for intelligent selection of which utterances to verify.</Paragraph>
+</Section>
+</Paper>
+

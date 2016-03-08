@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C69-3001">
+<Title>WAEG UNG</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+2 -
+2. Terminology and linguistic notions
+21 Code
+</SectionTitle>
+<Paragraph position="0"> Data processing calls for explicit notation, therefore the investigation is based on written German. The graphemio representation of language is henceforth called 2) n a t u r a 1 c o d e. The code employed here differs somewhat from normal German because the available computer code was to be used directly: only capital letters are allowed - thus the graphematic distinction between nouns and non-nouns in German is eliminated, which is of little importance in dictionary work, German &amp;quot;Umlaute&amp;quot; ~,~,0 appear ~ as AE, OE, UE respectively, and &amp;quot;B&amp;quot; is written SS.</Paragraph>
+<Paragraph position="1"> The explicit notation of grammatical statements about graphemic sequences, for example the classification of sequences as a noun or verb, is called the a r t i f i c i a 1 c o d e; it will he introduced in detail later.</Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+22 Status of definitions
+</SectionTitle>
+<Paragraph position="0"> Two ways of defining language entities are employed.</Paragraph>
+<Paragraph position="1"> L a n g u a g e u n i t is used as term for intuitively won entities which are obviously present in at least the German language but cannot without elaborations and without severe restrictions be exactly defined. W o r d is the class of language units to be discussed. The word definition, which is often used for data processing purposes, stating that a word is &amp;quot;the sequence of graphemes between two blanks&amp;quot;, rests solely upon graphematic properties 2)This means, that phonological aspects are a priori excluded and the spelling conventions of contemporary German as laid down in dictionaries are accepted as part of the investigated phenomenon, although these'conventlons certainly deserve some critical attention and revision.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

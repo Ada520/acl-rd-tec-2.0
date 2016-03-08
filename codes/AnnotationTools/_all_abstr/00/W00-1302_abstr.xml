@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-1302">
+<Title>What's yours and what's mine: Determining Intellectual Attribution in Scientific Text</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We believe that identifying the structure of scientific argumentation in articles can help in tasks such as automatic summarization or the automated construction of citation indexes. One particularly important aspect of this structure is the question of who a given scientific statement is attributed to: other researchers, the field in general, or the authors themselves.</Paragraph>
+<Paragraph position="1"> We present the algorithm and a systematic evaluation of a system which can recognize the most salient textual properties that contribute to the global argumentative structure of a text. In this paper we concentrate on two particular features, namely the occurrences of prototypical agents and their actions in scientific text.</Paragraph>
+</Section>
+</Paper>
+

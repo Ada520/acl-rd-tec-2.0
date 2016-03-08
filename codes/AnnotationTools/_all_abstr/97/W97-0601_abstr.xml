@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0601">
+<Title>Evaluating Interactive Dialogue Systems: Extending Component Evaluation to Integrated System Evaluation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper discusses the range of ways in which spoken dialogue system components have been evaluated and discusses approaches to evaluation that attempt to integrate component evaluation into an overall view of system performance. We will argue that the PARADISE (PARAdigm for Dialogue System Evaluation) framework has several advantages over other proposals.</Paragraph>
+</Section>
+</Paper>
+

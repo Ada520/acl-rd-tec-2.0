@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-1024">
+<Title>Managing information at linguistic interfaces*</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A large spoken dialogue translation system imposes both engineering and linguistic constraints on the way in which linguistic information is communicated between modules. We describe the design and use of interface terms, whose formal, functional and communicative role has been tested in a sequence of integrated systems and which have proven adequate to these constraints.</Paragraph>
+</Section>
+</Paper>
+

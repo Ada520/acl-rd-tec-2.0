@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-1006">
+<Title>Extracting Word Correspondences from Bilingual Corpora Based on Word Co-occurrence Information</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> A new method has been developed for extracting word correspondences from a bilingual corpus. First, the co-occurrence infi~rmation for each word in both languages is extracted li'om the corpus. Then, the correlations between the co-occurrence features of the words are calculated pairwisely with tile assistance of a basic word bilingual dictionary. Finally, the pairs of words with the highest correlations are output selectively. This method is applicable to rather small, unaligned corpora; it can extract correspondences between compound words as well as simple words. An experiment using bilingual patent-specification corpora achieved 28% recall and 76% precision; this demonstrates that the method effectively reduces the cost of bilingual dictionary augmentation.</Paragraph>
+</Section>
+</Paper>
+

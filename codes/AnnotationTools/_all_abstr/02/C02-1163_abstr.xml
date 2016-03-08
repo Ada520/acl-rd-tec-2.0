@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C02-1163">
+<Title>Machine Translation by Interaction between Paraphraser and Transfer</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A machine translation model has been proposed where an input is translated through both source-language and target-language paraphrasing processes. We have implemented our prototype model for the Japanese-Chinese language pair. This paper describes our core idea of translation, where a source language paraphraser and a language transfer cooperates in translation by exchanging information about the source input.</Paragraph>
+</Section>
+</Paper>
+

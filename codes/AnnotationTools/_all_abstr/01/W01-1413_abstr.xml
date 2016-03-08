@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W01-1413">
+<Title>Using the Web as a Bilingual Dictionary</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a system for extracting an English translation of a given Japanese technical term by collecting and scoring translation candidates from the web. We first show that there are a lot of partially bilingual documents in the web that could be useful for term translation, discovered by using a commercial technical term dictionary and an Internet search engine. We then present an algorithm for obtaining translation candidates based on the distance of Japanese and English terms in web documents, and report the results of a preliminary experiment.</Paragraph>
+</Section>
+</Paper>
+

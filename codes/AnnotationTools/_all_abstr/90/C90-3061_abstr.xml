@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-3061">
+<Title>Modelling Variations in Goal-Directed Dialogue</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> This research investigates human dialogue variations by having simulated agents converse about a simple map navigation task using a computational theory of human dialogue strategies. The theory to be tested is that agents have a variety of strategies which they use in goM-directed dialogue for deciding what information to include, how to present it, how to construct references, and how to handle interactions. Agents choose strategies for each of these a.speets of the dialogue depending on the complexity of the current task, responses from the partner, and the task's importance; in general, agents try to minimize the collaborative effort spent on the task but still complete it satisfactorily. The software allows simulated agents to be constructed using any combination of strategies, showing how the strategies interact and allowing the decisions made in human dialogues about the same task to be modelled. Currently, the system works on a subset of the strategies found in Shadbolt \[6\], but a corpus of human dialogues is being studied to construct, an improved theory of dialogue strategies, and these strategies will be incorporated into later versions of the system.</Paragraph>
+</Section>
+</Paper>
+

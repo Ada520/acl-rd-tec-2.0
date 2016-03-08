@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W01-1315">
+<Title>The Annotation of Temporal Information in Natural Language Sentences</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The aim of this paper is to present a language-neutral, theory-neutral method for annotating sentence-internal temporal relations. The annotation method is simple and can be applied without special training. The annotations are provided with a well-defined model-theoretic interpretation for use in the content-based comparison of annotations.</Paragraph>
+<Paragraph position="1"> Temporally annotated corpora have a number of applications, in lexicon/induction, translation and linguistic investigation. A searchable multi-language database has already been created.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1127">
+<Title>Cross-lingual Information Extraction System Evaluation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we discuss the performance of cross-lingual information extraction systems employing an automatic pattern acquisition module. This module, which creates extraction patterns starting from a user's narrative task description, allows rapid customization to new extraction tasks. We compare two approaches: (1) acquiring patterns in the source language, performing source language extraction, and then translating the resulting templates to the target language, and (2) translating the texts and performing pattern discovery and extraction in the target language. We demonstrate an average of 8-10% more recall using the first approach. We discuss some of the problems with machine translation and their effect on pattern discovery which lead to this difference in performance.</Paragraph>
+</Section>
+</Paper>
+

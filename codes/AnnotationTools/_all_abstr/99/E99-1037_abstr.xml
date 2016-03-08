@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E99-1037">
+<Title>Dialogue Processing in a CALL-System</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In a CALL-environment (Computerassisted language learning) programs should ideally allow the learner to train his/her communicative competence, which is one of the main goals of foreign language teaching nowadays. This can be reached by allowing learners to use and train their knowledge of a foreign language in realistic dialogue-style exercises. All levels of linguistic and communicational analysis have to be considered to realize such a system. In this paper I will concentrate on the dialogue component of the concept, which relies on two main knowledge sources. The discourse grammar structures the dialogue elements (or dialogue acts) as possible parts of a dialogue and the dialogue knowledge base provides the possible contents of dialogues. Additionally, a framing discourse structure has to be built to provide the specific dialogue-exercise. A FSA (finite state automaton) based on the discourse grammar determines the possible moves which the dialogue might take. On the one hand this concept is restricted enough to allow for (relatively) easy maintenance as well as expansion and on the other hand it is advanced enough to allow for simulated complex dialogues.</Paragraph>
+</Section>
+</Paper>
+

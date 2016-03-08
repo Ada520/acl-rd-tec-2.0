@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C02-1162">
+<Title>Identifying Concepts Across Languages: A First Step towards a Corpus-based Approach to Automatic Ontology Alignment</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> The growing importance of multilingual information retrieval and machine translation has made multilingual ontologies an extremely valuable resource.</Paragraph>
+<Paragraph position="1"> Since the construction of an ontology from scratch is a very expensive and time consuming undertaking, it is attractive to consider ways of automatically aligning monolingual ontologies, which already exist for many of the world's major languages.</Paragraph>
+<Paragraph position="2"> This paper presents a first step towards the creation of a bilingual ontology through the alignment of two monolingual ontologies: the American English WordNet and the Mandarin Chinese HowNet.</Paragraph>
+<Paragraph position="3"> These two ontologies have structures which are very different from each other, as well as being constructed for two very different languages, which makes this an appropriate and challenging task for our algorithm.</Paragraph>
+</Section>
+</Paper>
+

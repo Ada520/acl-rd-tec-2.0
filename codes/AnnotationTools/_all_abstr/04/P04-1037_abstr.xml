@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P04-1037">
+<Title>Unsupervised Sense Disambiguation Using Bilingual Probabilistic Models</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe two probabilistic models for unsupervised word-sense disambiguation using parallel corpora. The rst model, which we call the Sense model, builds on the work of Diab and Resnik (2002) that uses both parallel text and a sense inventory for the target language, and recasts their approach in a probabilistic framework. The second model, which we call the Concept model, is a hierarchical model that uses a concept latent variable to relate different language speci c sense labels. We show that both models improve performance on the word sense disambiguation task over previous unsupervised approaches, with the Concept model showing the largest improvement. Furthermore, in learning the Concept model, as a by-product, we learn a sense inventory for the parallel language.</Paragraph>
+</Section>
+</Paper>
+

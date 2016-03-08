@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-1072">
+<Title>The Automated Acquisition of Topic Signatures for Text Summarization</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In order to produce, a good summary, one has to identify the most relevant portions of a given text. We describe in this t)at)er a method for automatically training tel)it, signatures--sets of related words, with associated weights, organized around head topics and illustrate with signatm'es we cre;tt.ed with 6,194 TREC collection texts over 4 selected tot)ics. We descril)e the l)ossible integration of' tolli(: signatures with ontoh)gies and its evaluaton on an automate(l text summarization system.</Paragraph>
+</Section>
+</Paper>
+

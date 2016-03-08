@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P06-2001">
+<Title>Using Machine Learning Techniques to Build a Comma Checker for Basque</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we describe the research using machine learning techniques to build a comma checker to be integrated in a grammar checker for Basque. After several experiments, and trained with a little corpus of 100,000 words, the sys tem guesses correctly not placing com mas with a precision of 96% and a re call of 98%. It also gets a precision of 70% and a recall of 49% in the task of placing commas. Finally, we have shown that these results can be im proved using a bigger and a more ho mogeneous corpus to train, that is, a bigger corpus written by one unique au thor.</Paragraph>
+</Section>
+</Paper>
+

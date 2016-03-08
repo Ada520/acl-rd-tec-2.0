@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-1313">
+<Title>Combining Utterance-Boundary and Predictability Approaches to Speech Segmentation</Title>
+<Section position="1" start_page="93" end_page="93" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper investigates two approaches to speech segmentation based on di erent heuristics: the utterance-boundary strategy, and the predictability strategy. On the basis of former empirical results as well as theoretical considerations, it is suggested that the utterance-boundary approach could be used as a preprocessing step in order to lighten the task of the predictability approach, without damaging the resulting segmentation. This intuition leads to the formulation of an explicit model, which is empirically evaluated for a task of word segmentation on a child-oriented phonemically transcribed French corpus. The results show that the hybrid algorithm outperforms its component parts while reducing the total memory load involved.</Paragraph>
+</Section>
+</Paper>
+

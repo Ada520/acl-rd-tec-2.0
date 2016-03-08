@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W99-0513">
+<Title>Electronic Dictionaries and Linguistic Analysis of Italian Large Corpora</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In thts paper we wdl show how Itahan electronic dictionaries have been budt within the methodological framework of Lexicon-grammar We wdl see the structure of electromc d~ctlonanes of simple and compound words, and we wdl show how to analyse texts employing these hngmst~c tools within INTEX.</Paragraph>
+<Paragraph position="1"> a morphological analyser Finally, we wdl show how electromc grammars (budt w~th INTEX) interact with dlctlonarles and allow recogmctlon of sequences of slmple and compound words m large corpora</Paragraph>
+</Section>
+</Paper>
+

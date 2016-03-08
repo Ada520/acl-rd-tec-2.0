@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-1016">
+<Title>Spectral Clustering for German Verbs</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe and evaluate the application of a spectral clustering technique (Ng et al., 2002) to the unsupervised clustering of German verbs.</Paragraph>
+<Paragraph position="1"> Our previous work has shown that standard clustering techniques succeed in inducing Levinstyle semantic classes from verb subcategorisation information. But clustering in the very high dimensional spaces that we use is fraught with technical and conceptual di culties. Spectral clustering performs a dimensionality reduction on the verb frame patterns, and provides a robustness and e ciency that standard clustering methods do not display in direct use. The clustering results are evaluated according to the alignment (Christianini et al., 2002) between the Gram matrix de ned by the cluster output and the corresponding matrix de ned by a gold standard.</Paragraph>
+</Section>
+</Paper>
+

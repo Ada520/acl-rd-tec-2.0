@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-1112">
+<Title>Categories \] % Alignable PN Precision Recall Person \]LO0% Place Organisation Law Title Publication</Title>
+<Section position="1" start_page="0" end_page="103" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes how complementary techniques can be employed to align multiword expressions in a parallel corpus or bitext. The bitext used for experimentation has two main features: (i) it contains bilingual documents from a dedicated domain of legal and administrative publications rich in specialized jargon; (ii) it involves two languages, Spanish and Basque, which are typologically very distinct (both lexically and morpho-syntactically). The former feature provides a good basis for testing techniques of collocation detection. The latter presents quite a challange to a number of reported algorithms, in particular to the alignment of sentence internal segments.</Paragraph>
+<Paragraph position="1"> 1 Tagged bitexts as large language resources Much literature has been produced in the area of sentence alignment of parallel biligual corpora or bitexts. Fewer references concern the alignment of intra-sentential segments such as word or multiword collocations (Eijk 93), (Kupiek 93), (Dagan &amp; Church 94), and (Smadja et al. 96). The difficulty of aligning bi-texts depends of a number of factors such as the quality of the bitext (whether is truely parallel or not), the proximity between the languages (either structurally, morpho-syntactically or alphabetically), the additional coded information that bitexts may have (richer or poorer markup), among others.</Paragraph>
+<Paragraph position="2"> While stuying bitext alignment techniques it was decided that an optimal approach was to tag the corpus. Descriptive annotations can account for linguistic information at all levels, from discourse structure to phonetic features, as well as semantics, syntax and morphology. The process of annotating the corpus in this manner is very labour intensive, even when largely automated, however it produces rewarding results. Thoroughly tagged bitexts become rich and productive language resources (Abaitua et al. 98). SGML based TEI conformant mark-up (Ide &amp; Veronis 95) has been the adopted mark-up option and it was discussed in (Martinez et al. 97).</Paragraph>
+<Paragraph position="3"> Continuing with the work of (Martinez et al. 98), where sentence alignment based on rich mark-up was described, we present here two further achievements. Section 2 shows how proper names have been aligned, and Section 3 presents the techniques employed in attempting the aligning of multiword collocations. Results are evaluated in Section 4 and Section 5 offers  some discussion.</Paragraph>
+<Paragraph position="4"> 2 Proper name alignment 2.1 Proper name tagging  The module for the recognition of proper names relies on patterns of typography (capitalisation and punctuation) and on contextual information. It also makes use of lists with most common person, organisation, law, publication and place names. The tagger annotates a multi-word chain as a proper name &lt;rs&gt; when each word in the chain is uppercase initial. A closed list of functional words (prepositions, conjunctions, determiners, etc.) is allowed to appear  inside the proper name chain, see examples in  percase initial words in sentence initial position or in other exceptional cases.</Paragraph>
+<Paragraph position="5"> Just us (Smadja et al. 96) distinguished between two types of collocations, we too distinguish between: Fixed names: Compound proper names labeled 'fixed', such as Boletin Oficial de Bizkaia, are rigid compounds. Spanish proper names all correspond to this type.</Paragraph>
+<Paragraph position="6"> Flexible names: Compound proper names labeled 'flexible' are compounds that can be separated by intervening text elements such as in Adrninistrazio Publikoetarako Ministeritzaren &lt;date&gt;..</Paragraph>
+<Paragraph position="7"> &lt;/date&gt; Agindua, where a date splits the tokens within the compound. There is a small but significative number of these in Basque, as has been previously noted by (Aduriz et al. 96b).</Paragraph>
+<Paragraph position="8"> After proper names have been successfully identified (Table 2), the next step is their alignment. Two types of alignment can take place: * 1 to 1 alignment: one to one correspondence between fixed names in the source and target documents.</Paragraph>
+<Paragraph position="9"> * 1 to N alignment: one to none or more than one correspondences between fixed names in the source language and flexible names in the target language.</Paragraph>
+<Paragraph position="10"> Alignment has been achieved by resorting to:  1. Proper name categorization, as shown in</Paragraph>
+<Paragraph position="12"> Reduction of the alignment space to previously aligned sentences, Identification of cognate nouns, aided by a set of phonological rules that apply when Basque loan terms are directly derived from Spanish terms.</Paragraph>
+<Paragraph position="13"> The application of the TasC algorithm (Martinez et al. 98) adapted to proper name alignment.</Paragraph>
+<Section position="1" start_page="102" end_page="102" type="sub_section">
+<SectionTitle>
+2.2 Identification of cognates
+</SectionTitle>
+<Paragraph position="0"> Points one and two above may suffice to work up the alignment of fixed proper names belonging to a single category that shows up only once in the alignment space (i.e. in the sentence).</Paragraph>
+<Paragraph position="1"> Nevertheless, there can be sentences with flexible proper names or more than one fixed proper name belonging to the same category. Therefore it may be necessary to determine the correct alignment among possible candidates. As additional criteria in these cases we reinforce the identification of lexical cognates with a set of phonological correlation rules.</Paragraph>
+<Paragraph position="2"> These are two examples of phonological correlation rules: (i) The Spanish prefix 'tel-' always correlates with the prefix 'erl-' in Basque loans (e.g.</Paragraph>
+<Paragraph position="3"> reloj / erloju; relacidn / erlazio) (ii) The Spanish suffix '-cidn' often correlates with the suffix '-zio' in Basque loans (e.g.</Paragraph>
+<Paragraph position="4"> nocidn / nozio; adrninistracidn / administrazio) null We use a set of up to 33 rules of this type. For some loan terms in Basque e.g. universidad / unibertsitate), several of these rules may apply: -v- ~ -b- ;-rs- ~ -rts- ;-dad ~ -tare.</Paragraph>
+<Paragraph position="5"> Although the application of these phonological rules for identifying Basque loan words is quite regular, not every new term in Basque is derived in this way. In many other cases a Spanish term has a genuine Basque counterpart, (e.g. sociedad / elkarte). In any case, this set of phonological rules provides a very efficient aid for the identification of a high proportion of Spanish/Basque cognates (86.45 % on average, as shown in Table 3).</Paragraph>
+<Paragraph position="6"> Therefore, when aligning proper names, cognate identification will help not only in obvious cases such as personal or place names, but also in categories of proper names such as organization, law or title.</Paragraph>
+</Section>
+<Section position="2" start_page="102" end_page="103" type="sub_section">
+<SectionTitle>
+2.3 Calculating the similarity between
+</SectionTitle>
+<Paragraph position="0"> Basque and Spanish proper names In order to determine whether two proper names belonging to the same category are translation equivalencies of each other, Dice's coefficient (Dice 45) is applied in two phases: first at token level and then, at proper name level.</Paragraph>
+<Paragraph position="1">  1. In the first level, each token in the source  proper name is compared with all the tokens in the target proper name. In order to determine whether two tokens are cognates, bigrams are compared trying to apply, if they are not equal, the rules of phonological derivation. Only when the resulting coefficient is bigger than a threshold, the tokens are considered cognates. The threshold has been established in 0.5 as a result of different experimental tests.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

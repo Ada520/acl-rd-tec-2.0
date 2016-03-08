@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C88-1041">
+<Title>Iqae PSI/PHI architecture for prosodic parsing</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper an architecture and an implementation for a linguistically based prosodic analyser is presented. The implementation is designed to handle typical prosodic input in the form of parallel input channels, and processes each input channel independently in a data-directed, phonologically motivated configuration of partly parallel, partly cascaded feature modules and module clusters, each implemented as finite transducers, producing intonationally relevant categories as output. The design criteria included maximal restriction of computational power (the system could be compiled into one massive finite transducer); relevance to computational linguistic formalisms with a view to developing an integrated model mapping prosodic structures on to textual structures; relatability to speech recognition algorithms, and to phonological theories. It was implemented in an object oriented environment with parallel processing simulation (CheOPS), and a linguistically interesting surface language (BATLAN).</Paragraph>
+</Section>
+</Paper>
+

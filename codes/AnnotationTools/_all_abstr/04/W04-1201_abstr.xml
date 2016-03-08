@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-1201">
+<Title>Recognizing Names in Biomedical Texts using Hidden Markov Model and SVM plus Sigmoid</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> In this paper, we present a named entity recognition system in the biomedical domain, called PowerBioNE. In order to deal with the special phenomena in the biomedical domain, various evidential features are proposed and integrated through a Hidden Markov Model (HMM). In addition, a Support Vector Machine (SVM) plus sigmoid is proposed to resolve the data sparseness problem in our system. Finally, we present two post-processing modules to deal with the cascaded entity name and abbreviation phenomena. Evaluation shows that our system achieves the F-measure of 69.1 and 71.2 on the 23 classes of GENIA V1.1 and V3.0 respectively. In particular, our system achieves the F-measure of 77.8 on the &amp;quot;protein&amp;quot; class of GENIA V3.0. It shows that our system outperforms the best published system on GENIA V1.1 and V3.0.</Paragraph>
+</Section>
+</Paper>
+

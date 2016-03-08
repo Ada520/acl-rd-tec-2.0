@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-1010">
+<Title>An Empirical Evaluation of LFG-DOP</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents an empirical assessment of the LFG-DOP model introduced by Bed &amp; Kaplan (1998). The parser we describe uses fragments l'rom LFG-aunotated sentences to parse new sentences and Monte Carlo techniques to compute the most probable parse. While our main goal is to test Bed &amp; Kaplan's model, we will also test a version of LFG-DOP which treats generalized fragments as previously unseen events. Experiments with the Verbmobil and Itomecentre corpora show that our version of LFG-DOP outperforms Bed &amp; Kaplan's model, and that LFG's functional information improves the parse accuracy of Iree structures.</Paragraph>
+</Section>
+</Paper>
+

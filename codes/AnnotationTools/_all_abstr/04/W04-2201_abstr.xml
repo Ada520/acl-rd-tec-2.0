@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-2201">
+<Title>References</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The paper presents the work done at the Institute for Information Transmission Problems (Russian Academy of Sciences, Moscow) on the multifunctional linguistic processor ETAP-3. Its two multilingual options are discussed - machine translation in a variety of language pairs and translation to and from UNL, a meaning representation language.</Paragraph>
+<Paragraph position="1"> For each working language, ETAP has one integral dictionary, which is used in all applications both for the analysis and synthesis (generation) of the given language. In difficult cases, interactive dialogue with the user is used for disambiguation. Emphasis is laid on multiple use of lexical resources in the multilingual environment.</Paragraph>
+</Section>
+</Paper>
+

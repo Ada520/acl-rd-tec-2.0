@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-1313">
+<Title>References</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a dialogue manager for &amp;quot;Call for Fire&amp;quot; training dialogues. We describe the training environment, the domain, the features of its novel information state-based dialogue manager, the system it is a part of, and preliminary evaluation results.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P03-2012">
+<Title>High-precision Identification of Discourse New and Unique Noun Phrases</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Coreference resolution systems usually attempt to find a suitable antecedent for (almost) every noun phrase. Recent studies, however, show that many definite NPs are not anaphoric. The same claim, obviously, holds for the indefinites as well.</Paragraph>
+<Paragraph position="1"> In this study we try to learn automatically two classifications, a0a2a1a4a3a6a5a8a7a10a9a12a11a14a13a4a5a12a15 a16a17a15a19a18 and a0a2a11a14a16a20a3a22a21a12a11a23a15 , relevant for this problem. We use a small training corpus (MUC-7), but also acquire some data from the Internet.</Paragraph>
+<Paragraph position="2"> Combining our classifiers sequentially, we achieve 88.9% precision and 84.6% recall for discourse new entities.</Paragraph>
+<Paragraph position="3"> We expect our classifiers to provide a good prefiltering for coreference resolution systems, improving both their speed and performance. null</Paragraph>
+</Section>
+</Paper>
+

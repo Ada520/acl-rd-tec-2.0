@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W99-0806">
+<Title>Web Access to Corpora: the W3Corpora Project*</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> In this day an age, some corpus linguistics should be part of every course to do with language. But learning about corpus linguistics -- its possibilities and limitations -- is not just a matter of acquiring information. The best way to learn about corpus linguistics is to do it, and the best way to teach corpus linguistics is to put students into a position where they can do it ((Leech, 1997), (Fligelstone, 1993)). This requires corpora, and tools, in addition to teaching materials.</Paragraph>
+<Paragraph position="1"> For a number of reasons, the World Wide Web offers a good method for delivering this (see below). This paper will present a resource that enables students to get a general introduction to corpus linguistics via the Web. The resource is currently available for general use. See Table 1 for URLs.</Paragraph>
+<Paragraph position="2"> No very great claims will be made for the resource in terms of being highly original or visionary in style of interaction or implementation. On the contrary, the model of learning is rather traditional, and the approach taken was very simple and straightforward. However, this in itself may be interesting as providing a baseline against which more visionary approaches can be compared -- this is probably the simplest way one could go about providing Internet based education. In addition, some of the design decisions and lesson learned may be of interest.</Paragraph>
+<Paragraph position="3"> Section 2 presents the motivation for the project that produced the resource. Section 3 will give an Tile project was the joint work of Ylva Berglund, Natalia Brines-Moya, Martin Rondell and the author in the period 1996-8. The results can be seen at: http://clwww.essex.ac.uk/w3c/. The project was funded by JISC (the Joint Information Systems Committee of the UK Higher Education Funding Councils), as part of JTAP, the JISC Technonology Application Programme. Thanks also to the anonymous workshop referees for valuable comments. None of this shifts responsibility for errors and other imperfections fronl Inc.</Paragraph>
+<Paragraph position="4"> overview of the resource. Section 4 describes and compares some similar resources that are available. Section 5 describes some problems and lessons that can be learned, and notes some open questions.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W99-0903">
+<Title>Dual Distributional Verb Sense Disambiguation with Small Corpora and Machine Readable Dictionaries*</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a system for unsupervised verb sense disambiguation using small corpus and a machine-readable dictionary (MRD) in Korean.</Paragraph>
+<Paragraph position="1"> The system learns a set of typical usages listed in the MRD usage examples for each of the senses of a polysemous verb in the MRD definitions using verb-object co-occurrences acquired from the corpus. This paper concentrates on the problem of data sparseness in two ways. First, extending word similarity measures from direct co-occurrences to co-occurrences of co-occurred words, we compute the word similarities using not co-occurred words but co-occurred clusters. Second, we acquire IS-A relations of nouns from the MRD definitions. It is possible to cluster the nouns roughly by the identification of the IS-A relationship. By these methods, two words may be considered similar even if they do not share any words. Experiments show that this method can learn from very small training corpus, achieving over 86% correct disambiguation performance without a restriction of word's senses.</Paragraph>
+</Section>
+</Paper>
+

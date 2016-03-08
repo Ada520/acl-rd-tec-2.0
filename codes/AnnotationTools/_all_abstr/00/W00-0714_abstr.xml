@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-0714">
+<Title>Using Perfect Sampling in Parameter Estimation of a Whole Sentence Maximum Entropy Language Model*</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The Maximum Entropy principle (ME) is an appropriate framework for combining information of a diverse nature from several sources into the same language model. In order to incorporate long-distance information into the ME framework in a language model, a Whole Sentence Maximum Entropy Language Model (WSME) could be used. Until now MonteCarlo Markov Chains (MCMC) sampling techniques has been used to estimate the paramenters of the WSME model. In this paper, we propose the application of another sampling technique: the Perfect Sampling (PS). The experiment has shown a reduction of 30% in the perplexity of the WSME model over the trigram model and a reduction of 2% over the WSME model trained with MCMC.</Paragraph>
+</Section>
+</Paper>
+

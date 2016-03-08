@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P01-1011">
+<Title>Underspecified Beta Reduction</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> For ambiguous sentences, traditional semantics construction produces large numbers of higher-order formulas, which must then be a0 -reduced individually. Underspecified versions can produce compact descriptions of all readings, but it is not known how to perform a0 -reduction on these descriptions. We show how to do this using a0 -reduction constraints in the constraint language for a1 -structures (CLLS).</Paragraph>
+</Section>
+</Paper>
+

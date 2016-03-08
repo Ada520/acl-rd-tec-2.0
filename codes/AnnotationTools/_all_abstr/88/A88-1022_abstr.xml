@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A88-1022">
+<Title>A Preliminary Linguistic Framework for Eurotra in : Proceedings of the Conference on Theoretical and Nethodologtcal Issues In Machine Translation of Natural Languages</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+INTBODUCTION
+</SectionTitle>
+<Paragraph position="0"> This paper tries to glve an up-to-date picture of the Eurotra project as of the third quarter of 1987, both concerning the state of the Implementation of the system and a critical evaluation of the Eurotra formalism.</Paragraph>
+<Paragraph position="1"> The paper Is structured as follows : In Section i we briefly summarize the purposes and organization of the project and the consequences for the design of the Eurotra framework.</Paragraph>
+<Paragraph position="2"> In Section 2 we outline and motivate the distinctive aspects of the framework in view of the extrinsic requirements outlined in Section i and the Intrinsic requirements of multlllngual machine translation (NMT).</Paragraph>
+<Paragraph position="3"> In Section 3 we give the linguistic assumptions underlying the first small-scale Implementation, which will be described in some detail In Section 5.</Paragraph>
+<Paragraph position="4"> Section 4 contains an evaluation of the framework, both for Its positive and Its negative aspects, in the light of the Implementation carried out to date.</Paragraph>
+<Paragraph position="5"> In Section 5 we describe the design modifications carried out in order to overcome some of the problems spotted during the Implementation and report on the recodlng effort which was necessary to-date to adapt the original grammars to the modified framework.</Paragraph>
+<Paragraph position="6"> I. GOALS AND ORGANIZATION OF Tim ETJROTRA</Paragraph>
+</Section>
+</Paper>
+

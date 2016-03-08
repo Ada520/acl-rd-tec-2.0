@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-0721">
+<Title>Maximum entropy Markov models for information extraction and segmentation. In Proc. of ICML-</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We study the problem of identifying phrase structure. We formalize it as the problem of combining the outcomes of several different classifiers in a way that provides a coherent inference that satisfies some constraints, and develop two general approaches for it. The first is a Markovian approach that extends standard HMMs to allow the use of a rich observations structure and of general classifiers to model state-observation dependencies. The second is an extension of constraint satisfaction formalisms. We also develop efficient algorithms under both models and study them experimentally in the context of shallow parsing. 1</Paragraph>
+</Section>
+</Paper>
+

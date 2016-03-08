@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P06-1046">
+<Title>Scaling Distributional Similarity to Large Corpora</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Accurately representing synonymy using distributional similarity requires large volumes of data to reliably represent infrequent words. However, the na&amp;quot;ive nearest-neighbour approach to comparing context vectors extracted from large corpora scales poorly (O(n2) in the vocabulary size).</Paragraph>
+<Paragraph position="1"> In this paper, we compare several existing approaches to approximating the nearest-neighbour search for distributional similarity. We investigate the trade-off between efficiency and accuracy, and find that SASH (Houle and Sakuma, 2005) provides the best balance.</Paragraph>
+</Section>
+</Paper>
+

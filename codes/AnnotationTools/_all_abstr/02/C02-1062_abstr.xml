@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C02-1062">
+<Title>Inferring knowledge from a large semantic network</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we present a rich semantic network based on a differential analysis.</Paragraph>
+<Paragraph position="1"> We then detail implemented measures that take into account common and differential features between words. In a last section, we describe some industrial applications.</Paragraph>
+</Section>
+</Paper>
+

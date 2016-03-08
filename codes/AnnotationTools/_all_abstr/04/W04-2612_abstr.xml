@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-2612">
+<Title>FBI Uniform Crime Reporting: Data Collection Guidelines</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We discuss a computational mechanism for comparing and integrating lexical definitional knowledge, meanings and concept definitions of English words and phrases available from different sources such as dictionaries, encyclopedias, corpora of texts, and personal beliefs. Such a mechanism is needed in order to automate comparison and reconciliation of the definitional differences because completeness and correctness of definitional knowledge seriously affect the results of text processing, particularly classification, question answering, and summarization.</Paragraph>
+</Section>
+</Paper>
+

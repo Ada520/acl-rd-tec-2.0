@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A00-2020">
+<Title>Detecting Errors within a Corpus using Anomaly Detection</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a method for automatically detecting errors in a manually marked corpus using anomaly detection. Anomaly detection is a method for determining which elements of a large data set do not conform to the whole.</Paragraph>
+<Paragraph position="1"> This method fits a probability distribution over the data and applies a statistical test to detect anomalous elements. In the corpus error detection problem, anomalous elements are typically marking errors. We present the results of applying this method to the tagged portion of the Penn Treebank corpus.</Paragraph>
+</Section>
+</Paper>
+

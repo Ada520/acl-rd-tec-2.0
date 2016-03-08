@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P91-1007">
+<Title>A TRIPARTITE PLAN-BASED MODEL OF DIALOGUE</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract 1
+</SectionTitle>
+<Paragraph position="0"> This paper presents a tripartite model of dialogue in which three different kinds of actions are modeled: domain actions, problem-solving actions, and discourse or communicative actions. We contend that our process model provides a more finely differentiated representation of user intentions than previous models; enables the incremental recognition of communicative actions that cannot be recognized from a single utterance alone; and accounts for implicit acceptance of a communicated proposition.</Paragraph>
+</Section>
+</Paper>
+

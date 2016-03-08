@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-2016">
+<Title>Integrating Stress and Intonation into a Concept-to-Speech System</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> The goal of the system, a part of which is described in this paper, was to synthesize speech utterances starting from a conceptual representation of the knowledge to be uttered (concept-to-speech system). Compared to speech reproduction, our approach is far more flexible. In contrast to text-to-speech synthesis (Frenkenberger et.al.</Paragraph>
+<Paragraph position="1"> 1988) on the other hand, our approach allows for an easier integration of prosodic elements, as syntactic data such as phrases and tree dependencies are directly available.</Paragraph>
+<Paragraph position="2">  Appropriate formalisms for obtaining a basis for stress and pitch information were introduced by Kiparski (1973), who proposed an algorithm for computing a stress hierarchy for a whole sentence, and Bierwisch (1973), who showed how to determine pitch variation patterns depending on the phrasal structure of a sentence. Like Kiparsky's stress markers, the boundary indices introduced by Bierwisch can be computed from the syntactic structure of the sentence.</Paragraph>
+<Paragraph position="3"> In this respect, concept-to-speech contrasts with text-to-speech systems: In text-to-speech synthesis - at least for the German language - it is virtually impossible to carry out a complete syntactic analysis because of the large number of ambiguities which can only be resolved at the semantic level. Thus, the derivation of prosodic information in existing text-to-speech systems is based on a very rudimentary syntactic analysis which consists in a purely linear segmentation of the input sentences (e.g. Kulas &amp; Riihl 1982, Zingle 1982, Schnabel 1988, Frenkenberger et al.</Paragraph>
+<Paragraph position="4"> 1988).</Paragraph>
+<Paragraph position="5"> In concept-to-speech synthesis, on the other hand, we are in a position to exploit the inherently available syntactic structure of the given text, so that we can apply the formalisms described by Bierwisch and Kiparsky.</Paragraph>
+<Paragraph position="6"> Both processes are only theoretically developed and have not been fully implemented in a working system before. We have integrated these processes into the surface generator of our concept-to-speech system and applied some necessary changes and adaptations to them.</Paragraph>
+<Paragraph position="7"> In this paper we concentrate on the computation of stress and intonation markers, integrated into the surface generation component. The reader interested in the overall structure of the system, an application domain and the first phase of generation which starts with concepts and produces 1) This work was supported by the Jubiliiumsfonds der Oesterreichischen Nationalbank, as part of project no. 2901.</Paragraph>
+<Paragraph position="9"> the input structure to the surface generator (henceforth 'deep structure') is referred to Dorffner, Trost &amp; Buchberger (1988).</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A97-1049">
+<Title>An Intelligent Multilingual Information Browsing and Retrieval System Using Information Extraction</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we describe our multilingual (or cross-linguistic) information browsing and retrieval system, which is aimed at monolingual users who are interested in information from multiple language sources.</Paragraph>
+<Paragraph position="1"> The system takes advantage of information extraction (IE) technology in novel ways to improve the accuracy of cross-linguistic retrieval and to provide innovative methods for browsing and exploring multilingual document collections. The system indexes texts in different languages (e.g., English and Japanese) and allows the users to retrieve relevant texts in their native language (e.g., English). The retrieved text is then presented to the users with proper names and specialized domain terms translated and hyperlinked. Moreover, the system allows interactive information discovery from a multilingual document collection. null</Paragraph>
+</Section>
+</Paper>
+

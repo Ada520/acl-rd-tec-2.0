@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W99-0627">
+<Title>Taking the load off the conference chairs: towards a digital paper-routing assistant</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes and extensively evaluates a system for the automatic routing of submitted papers to reviewers and area committees, without the need for any human annotation from the reviewers or the program chair. Routing is based on a profile of previous writings obtainable on-line for the reviewer pool, a generally stable and reusable resource that requires no manual adaptation for new submission streams.</Paragraph>
+<Paragraph position="1"> The paper explores a wide set of variations and extensions on the core model, and achieves system accuracy approaching that of several human judges on the same task.</Paragraph>
+</Section>
+</Paper>
+

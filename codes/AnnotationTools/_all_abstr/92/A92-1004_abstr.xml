@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A92-1004">
+<Title>A PARSER FOR REAL-TIME SPEECH SYNTHESIS OF CONVERSATIONAL TEXTS</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> In this paper, we concern ourselves with an application of text-to-speech for speech-impaired, deaf, and hard of hearing people. The application is unusual because it requires real-time synthesis of unedited, spontaneously generated conversational texts transmitted via a Telecommunications Device for the Deaf (TDD). We describe a parser that we have implemented as a front end for a version of the Bell Laboratories text-to-speech synthesizer (Olive and Liberman 1985). The parser prepares TDD texts for synthesis by (a) performing lexical regularization of abbreviations and some non-standard forms, and (b) identifying prosodic phrase boundaries. Rules for identifying phrase boundaries are derived from the prosodic phrase grammar described in Bachenko and Fitzpatrick (1990). Following the parent analysis, these rules use a mix of syntactic and phonological factors to identify phrase boundaries but, unlike the parent system, they forgo building any hierarchical structure in order to bypass the need for a stacking mechanism; this permits the system to operate in near real time. As a component of the text-to-speech system, the parser has undergone rigorous testing during a successful three-month field trial at an AT&amp;T telecommunications center in California. In addition, laboratory evaluations indicate that the parser's performance compares favorably with human judgments about phrasing.</Paragraph>
+</Section>
+</Paper>
+

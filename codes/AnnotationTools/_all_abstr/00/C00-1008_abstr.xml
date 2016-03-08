@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-1008">
+<Title>Incremental Identification of Inflectional Types</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present an al)proach to the increnmntal accrual of lexical int'ornmtion fl)r unknown words t;hat is consl;raint-based and conll)atil)le with s(.andard unification-liased granlnmrs. All;hough the techniques are language-ind(:l)en(lent and can l)('. al)plied to all kinds of informal;ion, ill (;his 1)al)er we concen(;rate on the domain of German noun intl('ction. We show how morl)hological intbrnm.tion, est)ecially inflectional class, is successfully acquired using a tyl)e-based HPSG-like analysis. 15lrthernlore, we sketch an alternative strategy which nmkes use of finite.sl;ate (;rans(lucers.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P96-1031">
+<Title>An Efficient Compiler for Weighted Rewrite Rules</Title>
+<Section position="2" start_page="0" end_page="231" type="abstr">
+<SectionTitle>
+1. Motivation
+</SectionTitle>
+<Paragraph position="0"> Rewrite rules are used in many areas of natural language and speech processing, including syntax, morphology, and phonology 1. In interesting applications, the number of rules can be very large.</Paragraph>
+<Paragraph position="1"> It is then crucial to give a representation of these rules that leads to efficient programs.</Paragraph>
+<Paragraph position="2"> Finite-state transducers provide just such a compact representation (Mohri, 1994). They are used in various areas of natural language and speech processing because their increased computational power enables one to build very large machines to model interestingly complex linguistic phenomena. They also allow algebraic operations such as union, composition, and projection which are very useful in practice (Berstel, 1979; Eilenberg, 1974 1976). And, as originally shown by Johnson (1972), rewrite rules can be modeled as 1 Parallel rewrite rules also have interesting applications in biology. In addition to their formal language theory interest, systems such as those of Aristid Lindenmayer provide rich mathematical models for biological development (Rozenberg and Sa\]omaa, 1980).</Paragraph>
+<Paragraph position="3">  finite-state transducers, under the condition that no rule be allowed to apply any more than a finite number of times to its own output.</Paragraph>
+<Paragraph position="4"> Kaplan and Kay (1994), or equivalently Karttunen (1995), provide an algorithm for compiling rewrite rules into finite-state transducers, under the condition that they do not rewrite their non-contextual part 2. We here present a new algorithm for compiling such rewrite rules which is both simpler to understand and implement, and computationally more efficient. Clarity is important since, as pointed out by Kaplan and Kay (1994), the representation of rewrite rules by finite-state transducers involves many subtleties. Time and space efficiency of the compilation are also crucial. Using naive algorithms can be very time consuming and lead to very large machines (Liberman, 1994).</Paragraph>
+<Paragraph position="5"> In some applications such as those related to speech processing, one needs to use weighted rewrite rules, namely rewrite rules to which weights are associated. These weights are then used at the final stage of applications to output the most probable analysis. Weighted rewrite rules can be compiled into weighted finite-state transducers, namely transducers generalized by providing transitions with a weighted output, under the same context condition. These transducers are very useful in speech processing (Pereira et al., 1994). We briefly describe how we have augmented our algorithm to handle the compilation of weighted rules into weighted finite-state transducers. null In order to set the stage for our own contribution, we start by reviewing salient aspects of the Kaplan and Kay algorithm.</Paragraph>
+<Paragraph position="6"> 2The genera\] question of the decidability of the halting problem even for one-rule semi-Thue systems is still open. Robert McNaughton (1994) has recently made a positive conjecture about the class of the rules without self overlap.</Paragraph>
+<Paragraph position="8"></Paragraph>
+</Section>
+</Paper>
+

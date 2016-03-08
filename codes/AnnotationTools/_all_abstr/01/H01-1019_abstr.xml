@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H01-1019">
+<Title>English-Chinese CLIR using a Simplified PIRCS System</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> A GUI is presented with our PIRCS retrieval system for supporting English-Chinese cross language information retrieval.</Paragraph>
+<Paragraph position="1"> The query translation approach is employed using the LDC bilingual wordlist. Given an English query, different translation methods and their retrieval results can be demonstrated.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0213">
+<Title>A Perspective on Word Sense Disambiguation Methods and Their Evaluation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this position paper, we make several observations about the state of the art in automatic word sense disambiguation. Motivated by these observations, we offer several specific proposals to the community regarding improved evaluation criteria, common training and testing resources, and the definition of sense inventories.</Paragraph>
+</Section>
+</Paper>
+

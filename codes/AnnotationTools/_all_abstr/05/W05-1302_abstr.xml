@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W05-1302">
+<Title>Adaptive String Similarity Metrics for Biomedical Reference Resolution</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we present the evaluation of a set of string similarity metrics used to resolve the mapping from strings to concepts in the UMLS MetaThesaurus.</Paragraph>
+<Paragraph position="1"> String similarity is conceived as a single component in a full Reference Resolution System that would resolve such a mapping. Given this qualification, we obtain positive results achieving 73.6 F-measure (76.1 precision and 71.4 recall) for the task of assigning the correct UMLS concept to a given string. Our results demonstrate that adaptive string similarity methods based on Conditional Random Fields outperform standard metrics in this domain. null</Paragraph>
+</Section>
+</Paper>
+

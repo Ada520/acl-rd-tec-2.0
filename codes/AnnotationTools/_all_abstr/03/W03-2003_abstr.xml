@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-2003">
+<Title>Overview of Patent Retrieval Task at NTCIR-3</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe the overview of patent retrieval task at NTCIR-3. The main task was the technical survey task, where participants tried to retrieve relevant patents to news articles. In this paper, we introduce the task design, the patent collections, the characteristics of the submitted systems, and the results overview. We also arranged the free-styled task, where participants could try anything they want as far as the patent collections were used. We describe the brief summaries of the proposals submitted to the free-styled task.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-0914">
+<Title>Semantic Forensics: An Application of Ontological Semantics to Information Assurance</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The paper deals with the latest application of natural language processing (NLP), specifically of ontological semantics (ONSE) to natural language information assurance and security (NL IAS). It demonstrates how the existing ideas, methods, and resources of ontological semantics can be applied to detect deception in NL text (and, eventually, in data and other media as well). After stating the problem, the paper proceeds to a brief introduction to ONSE, followed by an equally brief survey of our 5-year-old effort in &amp;quot;colonizing&amp;quot; IAS. The main part of the paper deals with the following issues: * human deception detection abilities and NLP modeling of it; * manipulation of fact repositories for this purpose beyond the current state of the art; * acquisition of scripts for complex ontological concepts; * degrees of lying complexity and feasibility of their automatic detection.</Paragraph>
+<Paragraph position="1"> This is not a report on a system implementation but rather an applicationestablishing proof-of-concept effort based on the algorithmic and machine-tractable recombination and extension of the previously implemented ONSE modules. The strength of the approach is that it emphasizes the use of the existing NLP applications, with very few domain- and goalspecific adjustments, in a most promising and growing new area of IAS. So, while clearly dealing with a new application, the paper addresses theoretical and methodological extensions of ONSE, as defined currently, that will be useful for other applications as well.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-1210">
+<Title>Finding Structure via Compression</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A statistical language model may be used to segment a data sequence by thresholding its instantaneous entropy. In this paper we describe how this process works, and we apply it to the problem of discovering separator symbols in a text. Our results show that language models which bootstrap themselves with structure found in this way undergo a reduction in perplexity. We conclude that these techniques may be useful in the design of generic grammatical inference systems.</Paragraph>
+</Section>
+</Paper>
+

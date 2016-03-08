@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C92-1046">
+<Title>On Representing the Temporal Structure of a Natural Language Text*</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A proposal to deal with tenses in the framework of Discourse Representation Theory is presented, ms it has been implemented for a fragment at the IMS for the project LILOG. It is based on the theory of tenses of H. Kamp and Ch. Rohrer. The system uses tile tense and aspect information, the information about the temporal discourse structure of tile preceding text stored in a specific list of possible reference times, and background knowledge. These types of information interact in order to choose a suited temporal anchor for the event of a new sentence.</Paragraph>
+<Paragraph position="1"> With respect to extended texts, choosing the right reference time for a new event is a problem which has been largely neglected in the literature.</Paragraph>
+</Section>
+</Paper>
+

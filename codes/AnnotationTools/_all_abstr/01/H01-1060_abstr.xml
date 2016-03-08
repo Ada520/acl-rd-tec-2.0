@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H01-1060">
+<Title>Rapidly Retargetable Interactive Translingual Retrieval</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> This paper describes a system for rapidly retargetable interactive translingual retrieval. Basic functionality can be achieved for a new document language in a single day, and further improvements require only a relatively modest additional investment. We applied the techniquesfirst to searchChinese collections using English queries, and have successfully added French, German, and Italian document collections. We achievethis capability through separation of language-dependent and language-independent components and through the application of asymmetric techniquesthat leverage an extensiveEnglish retrieval infrastructure.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-1043">
+<Title>References</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes the integration of several knowledge-based natural language processing techniques into a Question Answering system, capable of mining textual answers from large collections of texts. Surprizing quality is achieved when several lightweight knowledge-based NLP techniques com-I)lement mostly shallow, surface-based approaclms.</Paragraph>
+</Section>
+</Paper>
+

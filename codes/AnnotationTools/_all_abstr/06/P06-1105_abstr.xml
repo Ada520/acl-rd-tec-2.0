@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P06-1105">
+<Title>Japanese Dependency Parsing Using Co-occurrence Information and a Combination of Case Elements</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we present a method that improves Japanese dependency parsing by using large-scale statistical information. It takes into account two kinds of information not considered in previous statistical (machine learning based) parsing methods: information about dependency relations among the case elements of a verb, and information about co-occurrence relations between a verb and its case element. This information can be collected from the results of automatic dependency parsing of large-scale corpora. The results of an experiment in which our method was usedtoreranktheresultsobtainedusingan existing machine learning based parsing method showed that our method can improve the accuracy of the results obtained using the existing method.</Paragraph>
+</Section>
+</Paper>
+

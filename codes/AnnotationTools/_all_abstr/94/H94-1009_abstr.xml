@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H94-1009">
+<Title>The Hub and Spoke Paradigm for CSR Evaluation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> In this paper, we introduce the new paradigm used in the most recent ARPA-sponsored Continuous Speech Recognition (CSR) evaluation and then discuss the important features of the test design.</Paragraph>
+<Paragraph position="1"> The 1993 CSR evaluation was organized in a novel fashion in an attempt to accomodate research over a broad variety of important problems in CSR while maintaining a clear program-wide research focus. Furthermore, each test component in the evaluation was designed as an experiment to extract as much information as possible from the results.</Paragraph>
+<Paragraph position="2"> The evaluation was centered around a large vocabulary speaker-independent (SI) baseline test, which was required of every participating site. This test was dubbed the 'Hub' since it was common to all sites and formed the basis for controlled inter-system comparisons. null The Hub test was augmented with a variety of problem-specific optional tests designed to explore a variety of important problems in CSR, mostly involving some kind of mismatch between the training and test conditions. These tests were known as the 'Spokes' since they all could be informatively compared to the Hub, but were otherwise independent.</Paragraph>
+<Paragraph position="3"> In the first trial of this evaluation paradigm in November, 1993, 11 research groups participated, yielding a rich array of comparative and contrastive results, all calibrated to the current state of the art in large vocabulary CSR.</Paragraph>
+</Section>
+</Paper>
+

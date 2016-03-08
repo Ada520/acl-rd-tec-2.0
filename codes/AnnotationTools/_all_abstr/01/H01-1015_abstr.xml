@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H01-1015">
+<Title>DATE: A Dialogue Act Tagging Scheme for Evaluation of Spoken Dialogue Systems</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> This paper describes a dialogue act tagging scheme developed for the purpose of providing finer-grained quantitative dialogue metrics for comparing and evaluating DARPA COMMUNICATOR spoken dialogue systems. We show that these dialogue act metrics can be used to quantify the amount of effort spent in a dialogue maintaining the channel of communication or, establishing the frame for communication, as opposed to actually carrying out the travel planning task that the system is designed to support. We show that the use of these metrics results in a 7% improvement in the fit in models of user satisfaction. We suggest that dialogue act metrics can ultimately support more focused qualitative analysis of the role of various dialogue strategy parameters, e.g. initiative, across dialogue systems, thus clarifying what development paths might be feasible for enhancing user satisfaction in future versions of these systems.</Paragraph>
+</Section>
+</Paper>
+

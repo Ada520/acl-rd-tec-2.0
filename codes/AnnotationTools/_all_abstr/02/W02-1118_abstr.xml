@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-1118">
+<Title>Sorry, what was your name again, or how to overcome the tip-of-the tongue problem with the help of a computer?</Title>
+<Section position="2" start_page="0" end_page="1" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A speaker or writer has to find words for expressing his thoughts. Yet, knowing a word does not guarantee its access. Who hasn't experienced the problem of looking for a word he knows, yet is unable to access (in time) ? Work done by psychologists reveals that people being in this so called tip-of-the-tongue state (TOT) know a lot about the word : meaning, number of syllables, origine, etc. Speakers are generally able to recognize the word, and if they produce an erroneous word, that token shares many things with the target word (initial/final letter/phoneme, part of speech, semantic field, etc.). This being so, one might want to take advantage of the situation and build a program that assists the speaker/writer by revealing the word that's on his/her mind (tongue/pen).</Paragraph>
+<Paragraph position="1"> Three methods will be presented, the first one being implemented.</Paragraph>
+<Paragraph position="2">  whose goal is to build a huge multilingual lexical data-base (English-French-Japanese, Thai) from which one can extract digital bilingual dictionaries. The latter can be customized to fit different needs: dictionaries to be used by people vs. dictionaries to be used by machines (e.g. automatic translation). null One of the ideas is to enhance this dictionary by adding certain functions, in order to capitalize on the data. Rather than being a  http://www.papillon-dictionary.org component supporting a single task, the dictionary is at the centre, supporting the user in a variety of tasks like reading, writing, memorization of words or automation of syntactic structures. Particular emphasis will be given to word access, the topic of this paper, because, what is a dictionary good for, if one cannot access the data it contains? The approach taken is generic, hence, it applies not only within this particular context.</Paragraph>
+<Paragraph position="3"> Word access being a fundamental task in language production, one might wonder what could be learned by gleaning at work done in the context of automatic text generation.</Paragraph>
+</Section>
+</Paper>
+

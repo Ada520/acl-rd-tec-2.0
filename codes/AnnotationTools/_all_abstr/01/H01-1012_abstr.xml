@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H01-1012">
+<Title>A Conversational Interface for Online Shopping</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> We present a deployed, conversational dialog system that assists users in finding computers based on their usage patterns and constraints on specifications. We discuss findings from a market survey and two user studies. We compared our system to a directed dialog system and a menu driven navigation system. We found that the conversational interface reduced the average number of clicks by 63% and the average interaction time by 33% over a menu driven search system. The focus of our continuing work includes developing a dynamic, adaptive dialog management strategy, robustly handling user input and improving the user interface.</Paragraph>
+</Section>
+</Paper>
+

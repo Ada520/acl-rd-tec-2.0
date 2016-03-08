@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-0906">
+<Title>Question Answering Using Ontological Semantics</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes the initial results of an experiment in integrating knowledge-based text processing with real-world reasoning in a question answering system. Our MOQA &amp;quot;meaning-oriented question answering&amp;quot; system seeks answers to questions not in open text but rather in a structured fact repository whose elements are instances of ontological concepts extracted from the text meaning representations (TMRs) produced by the OntoSem text analyzer. The query interpretation and answer content formulation modules of MOQA use the same knowledge representation substrate and the same static knowledge resources as the ontological semantic (OntoSem) semantic text analyzer.</Paragraph>
+<Paragraph position="1"> The same analyzer is used for deriving the meaning of questions and of texts from which the fact repository content is extracted.</Paragraph>
+<Paragraph position="2"> Inference processes in question answering rely on ontological scripts (complex events) that also support reasoning for purely NLP-related purposes, such as ambiguity resolution in its many guises.</Paragraph>
+</Section>
+</Paper>
+

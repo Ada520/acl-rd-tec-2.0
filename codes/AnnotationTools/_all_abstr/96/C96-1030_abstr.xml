@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-1030">
+<Title>Example-Based Machine Translation in the Pangloss System</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> Pangloss (Nirenburg el; al., 1995) is a multi-engine machine translation system, in which several translation engines are. run in parallel to propose translations of various portions of the input, Dora which the final translation is selected by a statistical language model. Panl'3BMT is one of the translation engines used by Pangloss.</Paragraph>
+<Paragraph position="1"> EBMT is essentially translation-by-analogy: given a source-language passage S and a collection of aligned source/target text pairs, lind the &amp;quot;best&amp;quot; match for S in the source-language half of the text collection, and accept the target-language half of that match as the translation. PanEBMT, like other example-based translation systems, uses essentially no knowledge about its source or target languages; what little knowledge it does use is optional, and is supplied in a eonIiguration file. Its 1This work as part of the l'angloss project was supported I)y tim U.S. I)epartment of Defense three main knowledge sources arc: a sententiallyaligned parallel bilingual corpus; a bilingual dictionary; and a target-language root/synonym list,.</Paragraph>
+<Paragraph position="2"> The fourth (minor and optional) knowledge source is the hmguage-specific information provided in the conliguration tile, which consists of n list of tokenizations equating words within classes such as w0ekdays, a list of words which ntay be elided during alignment (such as artMes), and a list of words which may be inserted</Paragraph>
+</Section>
+</Paper>
+

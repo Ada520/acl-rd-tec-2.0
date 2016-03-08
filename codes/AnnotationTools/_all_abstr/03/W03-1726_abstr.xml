@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-1726">
+<Title></Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we roughly described the procedures of our segmentation system, including the methods for resolving segmentation ambiguities and identifying unknown words. The CKIP group of Academia Sinica participated in testing on open and closed tracks of Beijing University (PK) and Hong Kong Cityu (HK).</Paragraph>
+<Paragraph position="1"> The evaluation results show our system performs very well in either HK open track or HK closed track and just acceptable in PK tracks. Some explanations and analysis are presented in this paper.</Paragraph>
+</Section>
+</Paper>
+

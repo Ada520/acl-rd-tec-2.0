@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-2187">
+<Title>Software Reuse, Object-Orientated Frameworks</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Much progress has been made in the provision of reusable data resources for Natural Language Engineering, such as grammars, lexicons, thesauruses. Although a number of projects have addressed the provision of reusable algorithmic resources (or 'tools'), takeup of these resources has been relatively slow.</Paragraph>
+<Paragraph position="1"> This paper describes GATE, a General Architecture for Text Engineering, which is a freely-available system designed to help alleviate the problem.</Paragraph>
+</Section>
+</Paper>
+

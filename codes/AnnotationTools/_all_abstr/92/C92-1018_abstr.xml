@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C92-1018">
+<Title>A Lexicalist Account of Icelandic Case Marking</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Recent theoretical descriptions of the Icelandic case system distinguish between lexicai and structural case. Lexical case is assigned in ttle lexi-COIl, whereas structural case is assigned in syntax, under tim provision that it does not override lexicai case assignment. This analysis is problematic for grammatical theories such as Categorial Unification Grammar (CUG) and Head-driven Phrase Structure Grammar (HPSG) as the introducion of a syntactic case cmnponent is incompatible with the lexicalist ideology underlying these frameworks. Furthermore, the default character of syntactic case introduces a procedural aspect into the grammar which goes against the derlarative spirit of unification-based frameworks in general. In this paper, I propose an alternative anMysis, formulated in terms of CUC,, in which all case constraints are expressed lexically and in which default reasoning is restricted to nonmonotonic inheritance of lexicai information only.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-2503">
+<Title>Relating WordNet Senses for Word Sense Disambiguation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The granularity of word senses in current general purpose sense inventories is often too fine-grained, with narrow sense distinctions that are irrelevant for many NLP applications. This has particularly been a problem with WordNet which is widely used for word sense disambiguation (WSD). There have been several attempts to group WordNet senses given a number of different information sources in order to reduce granularity. We propose relating senses as a matter of degree to permit a softer notion of relationships between senses compared to fixed groupings so that granularity can be varied according to the needs of the application. We compare two such approaches with a gold-standard produced by humans for this work. We also contrast this gold-standard and another used in previous research with the automatic methods for relating senses for use with back-off methods for WSD.</Paragraph>
+</Section>
+</Paper>
+

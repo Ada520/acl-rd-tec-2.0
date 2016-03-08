@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J88-3003">
+<Title>MODELING THE USER'S PLANS AND GOALS</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+MODELING THE USER'S PLANS AND GOALS
+</SectionTitle>
+<Paragraph position="0"> This work is an ongoing research effort aimed both at developing techniques for inferring and constructing a user model from an information-seeking dialog and at identifying strategies for applying this model to enhance robust communication. One of the most important components of a user model is a representation of the system's beliefs about the underlying task-related plan motivating an information-seeker's queries. These beliefs can be used to interpret subsequent utterances and produce useful responses. This paper describes the IREPS system, emphasizing its dynamic construction of the task-related plan motivating the information-seeker's queries and the application of this component of a user model to handling utterances that violate the pragmatic rules of the system's world model. By reasoning on a model of the user's plans and goals, the system often can deduce the intended meaning of faulty utterances and allow the dialogue to continue without interruption. Some limitations of current plan inference systems are discussed. It is suggested that the problem of detecting and recovering from discrepancies between the system's model of the user's plan and the actual plan under construction by the user requires an enriched model that differentiates among its components on the basis of the support the system accords each component as a correct and intended part of the user's plan.</Paragraph>
+</Section>
+</Paper>
+

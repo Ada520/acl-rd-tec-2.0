@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P06-1039">
+<Title>Sydney, July 2006. c(c)2006 Association for Computational Linguistics Bayesian Query-Focused Summarization</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present BAYESUM (for &amp;quot;Bayesian summarization&amp;quot;), a model for sentence extraction in query-focused summarization.</Paragraph>
+<Paragraph position="1"> BAYESUM leverages the common case in which multiple documents are relevant to a single query. Using these documents as reinforcement for query terms, BAYESUM is not afflicted by the paucity of information in short queries. We show that approximate inference in BAYESUM is possible on large data sets and results in a state-of-the-art summarization system. Furthermore, we show how BAYESUM can be understood as a justified query expansion technique in the language modeling for IR framework.</Paragraph>
+</Section>
+</Paper>
+

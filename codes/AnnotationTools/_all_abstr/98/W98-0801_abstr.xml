@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-0801">
+<Title>i~::'~:::i~~i~ ~:i~.!!?.::!~!:!~i,i-~. * .:;:..: ~::&amp;quot;: N~RTEL HORTI'I~ RH TELECOM Recognition of spontaneous speech</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Current speech recognition systems are capable of performing complex tasks for co-operative users by determining their requirements through a conversation. Most systems have been constructed without attempting to accurately model spontaneous speech. Some components, such as the parser, can be easily made robust to some of the artifacts of conversational speech.</Paragraph>
+<Paragraph position="1"> Others, such as the pronunciation models, simply ignore the possibility that incomplete words can occur. This results in some recognition errors, and may cause the application to begin to perform the wrong the action. Typically, however, the next several conversation turns can identify and correct the error.</Paragraph>
+<Paragraph position="2"> This talk gives a brief overview of state-of-the-art of spoken language systems and describes how some of the components are affected by artifacts of spontaneous speech.</Paragraph>
+<Paragraph position="3"> Large bodies of accurately transcribed spontaneous speech are required to learn the properties of spontaneous events.</Paragraph>
+<Paragraph position="4"> : ;:i:! fi~!~i i,~i O Utli n e</Paragraph>
+</Section>
+</Paper>
+

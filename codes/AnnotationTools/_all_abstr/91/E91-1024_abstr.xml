@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E91-1024">
+<Title>cation of default inheritance mechanisms. In</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> The representation of lexical entries requires special means which basic PATR systems do not include. The language DATR, however, can be used to define an inheritance network serving as the lexical component. The integration of such a module into an existing PATR system leads to various problems which are discussed together with possible solutions in this paper.</Paragraph>
+<Paragraph position="1"> means that associated information is represented together or bundled. One advantage of this bundled information is its reusability, which allows redundancy to be reduced. The representation of lexical information should enable us to express a further kind of generalization, namely the relations between regularity, subregularity, and irregularity. Furthermore, the representation has to be computationaUy tractable and -- possibly with the addition of&amp;quot;syntactic sugar&amp;quot; -- more or less readable for human users.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W05-1523">
+<Title>Parsing Generalized ID/LP Grammars</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> The Generalized ID/LP (GIDLP) grammar formalism (Daniels and Meurers 2004a,b; Daniels 2005) was developed to serve as a processing backbone for linearization-HPSG grammars, separating the declaration of the recursive constituent structure from the declaration of word order domains. This paper shows that the key aspects of this formalism the ability for grammar writers to explicitly declare word order domains and to arrange the right-hand side of each grammar rule to minimize the parser's search space - lead directly to improvements in parsing efficiency.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A00-2003">
+<Title>A Probabilistic Genre-Independent Model of Pronominalization</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Our aim in this paper is to identify genre-independent factors that influence the decision to pronominalize. Results based on the annotation of twelve texts from four genres show that only a few factors have a strong influence on pronominalization across genres, i.e. distance from last mention, agreement, and form of the antecedent. Finally, we describe a probabilistic model of pronominalization derived from our data.</Paragraph>
+</Section>
+</Paper>
+

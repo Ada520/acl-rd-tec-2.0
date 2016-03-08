@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="I05-2036">
+<Title>Svetlana.Hensman@comp.dit.ie</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a non-statistical approach for semantic annotation of documents by analysing their syntax and by using semantic/syntactic behaviour patterns described in VerbNet. We use a two-stage approach, firstly identifying the semantic roles in a sentence, and then using these roles to represent some of the relations between the concepts in the sentence and a list of noun behaviour patterns to resolve some of the unknown (generic) relations between concepts. All outlined algorithms were tested on two corpora which differs in size, type, style and genre, and the performance does not vary significantly.</Paragraph>
+</Section>
+</Paper>
+

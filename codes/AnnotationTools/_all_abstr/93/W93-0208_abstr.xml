@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W93-0208">
+<Title>REFERENCES</Title>
+<Section position="2" start_page="0" end_page="28" type="abstr">
+<SectionTitle>
+INTERACTION TYPES FOR DIALOG SCHEMAS: The simplest interaction types
+</SectionTitle>
+<Paragraph position="0"> consist of one linguistic or spatial move by the student or tutor and then one by the other of them.</Paragraph>
+<Paragraph position="1"> We have identified nine pedagogically useful types for language learning, listed below, each involving language use in one or both of its two moves. The names, initially a convenient shorthand for the tutor's role, evoke motivationally useful tutor personality traits (Murray, 1987; 1992); in each specification, S = student and T = tutor:  1. Tourguide 2. Commander 3. Narrator 4. Celebrity 5. Quizmaster 6. Movecaster 7. Oracle 8. Servant 9. Interpreter T acts and comments; S acknowledges</Paragraph>
+<Paragraph position="3"> S asks a question; T answers it S makes a command; T executes it S says something; T enacts it More complex types are needed for language errors and communication repair. The dialog schemas composed from these interaction types will differ depending on whether the student is to learn language or the subject matter of the microworld. Examples for the language case appear in Hashim and Hamburger (1992).</Paragraph>
+<Paragraph position="4"> Interaction types work jointly with domain-level plans in the determination of the student's intentions. The plans place expectations on the sequence of actions and their resulting states, while the interaction types determine which agent is in control of the visual channel. Recognition of intentions leads in turn to the possibility of detecting the student's misunderstandings or misconceptions and repainng them. Spatial actions are implicitly associated with intentional structures, which the tutor may check for congruency with the currently active plan. For example, picking up an object typically induces in the observer the belief that the picker intends to use it. When the recognized intentions depart from the expectations, the system planner chooses a perspective (a view, see below) from which to deal with the misfit. In such a case, the realization of the tutor's turn may imply rhetorical acts such as drawing attention, arguing, suggesting. The following dialog (typical of FLUENT-1 and of what we are working on generatively in  That's the toothpaste. You can't wash your face with toothpaste. Pick up the soap instead.</Paragraph>
+<Paragraph position="5"> The same rhetorical structunng of the tutor's reply might result from violations of microworld constraints (Murray, 1987): TUTOR: That's a glass table. You can't put the box on it.</Paragraph>
+<Paragraph position="6"> The box is too heavy and the glass would break.</Paragraph>
+<Paragraph position="7"> From this point of view, this approach presents some similarities with the one taken by Maybury (1993).</Paragraph>
+<Paragraph position="8"> The presence of the extra, visual medium in a communication system has significant effects on the use of the language medium, notably in the handling of the discourse phenomenon of reference identification, where it may be unnecessary and even infelicitous to include certain information that is visually available. Consider this sequence:  The table is clear now.</Paragraph>
+<Paragraph position="9"> Here &amp;quot;the table&amp;quot; identifies the table that the red book was previously on, and which is visible. Suppose that another physically identical table is present, and consider the awkwardness of  unnecessarily distinguishing them with a relative clause, thereby replacing the tutor's last comment with: TUTOR: The table from which you picked up the red book is clear now.</Paragraph>
+<Paragraph position="10"> These comments hinge on the visual availability of the relationship between the book and the table, which allows the two tables to be visually distinguished. If this exchange were to take place by telephone the conclusions would be different.</Paragraph>
+</Section>
+</Paper>
+

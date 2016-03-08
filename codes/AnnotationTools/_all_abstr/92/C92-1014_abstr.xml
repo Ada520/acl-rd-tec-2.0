@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C92-1014">
+<Title>A High-level Morphological Description Language Exploiting Inflectional Paradigms</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A high-level language lor the description of inflectional morphology is presented, in which the organization of word lormation rules into an ii~herilance hierarchy of paradigms allows lora natural encoding of the kinds of nfles typically pre~uted in grammar txroks. We show how tim language, composed of orthographic rides, word formation rules, and paradigm inheritance, can be compiled into a run-time data structure for efficient morphological analysis and generation with a dynamic secondary storage lexicon.</Paragraph>
+</Section>
+</Paper>
+

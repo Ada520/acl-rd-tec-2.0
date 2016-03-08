@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0612">
+<Title>A Robust Dialogue System with Spontaneous Speech Understanding and Cooperative Response</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> A spoken dialogue system that can understand spontaneous speech needs to handle extensive range of speech in comparision with the read speech that has been studied so far. The spoken language has looser restriction of the grammar than the written language and has ambiguous phenomena such as interjections, ellipses, inversions, repairs, unknown words and so on. It must be noted that the recognition rate of the speech recognizer is limited by the trade-off between the looseness of linguistic constraints and recognition precision , and that the recognizer may output a sentence as recognition results which human would never say. Therefore, the interpreter that receives recognized sentences must cope not only with spontaneous sentences but also with illegal sentences having recognition errors. Some spoken language systems focus on robust matching to handle ungrammatical utterances and illegal sentences.</Paragraph>
+<Paragraph position="1"> The Template Matcher (TM) at the Stanford Research Institute (Jackson et al., 91) instantiates competing templates, each of which seeks to fill its slots with appropriate words and phrases from the utterance. The template with the highest score yields the semantic representation. Carnegie Mellon Univer~ sity's Phoenix (Ward and Young, 93) uses Recursive Transition Network formalism; word patterns correspond to semantic tokens, some of which appear as slots in frame structures. The system fills slots in different frames in parallel, using a form of dynamic programming beam search. The score for frame is the number of input words it accounts for.</Paragraph>
+<Paragraph position="2"> Recently many multi-modal systems, which combine speech with touch screen, have been developed.</Paragraph>
+<Paragraph position="3"> For example, Tell and Bellik developed the tool for drawing coloured geometric objects on a computer display using speech, tactile and a mouse (Tell and Bellik, 91). We also developed a multi-modal dialogue system based on the robust spoken dialogue system.</Paragraph>
+<Paragraph position="4"> In Section 2, we present an overview of our spoken dialogue system through multi-modalities. In Section 3, we describe the robust interpreter from errorful speech recognition results and illegal sentences, and in Section 4, we describe the cooperative response generator. In Section 5, we show the results of the evaluation experiments.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H94-1073">
+<Title>Assessing the Retrieval Effectiveness of a Speech :Retrieval System by Simulating Recognition Errors</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> We show how the recognition performance of a speech recognition component in a speech retrieval system affects the retrieval effectiveness. A speech retrieval system facilitates content-based retrieval of speech documents, i.e. audio recordings containing spoken text. The speech retrieval process receives queries from users and for every query it ranks the speech documents in decreasing order of their probabilities that they are relevant to the query. The speech recognition component is an important part of a speech retrieval system, since it detects the occurrences of indexing features in the documents. Because the recognition of indexing features in continuous speech is error prone, the question arises how much an error prone recognition of indexing features affects the retrieval effectiveness. As an answer to this question and main contribution of this paper we simulated the recognition of indexing features in speech documents on standard information retrieval test collections and show the resulting retrieval accuracies.</Paragraph>
+</Section>
+</Paper>
+

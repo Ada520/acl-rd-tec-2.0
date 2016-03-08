@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="X98-1015">
+<Title>Japanese IE System and Customization Tool</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> This paper reports on the development of thee Japanese Information Extraction system and the Japanese Information Extraction customization tool. These systems are based on the corresponding English systems, the Proteus Information Extraction system (Grishman 97) and the Proteus Extraction Tool (Yangarber and Grishman 97), developed at NYU. In this paper, we will, in particular, describe the differences between the Japanese systems and English systems.</Paragraph>
+</Section>
+</Paper>
+

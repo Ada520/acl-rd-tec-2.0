@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W01-1314">
+<Title></Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+References
+</SectionTitle>
+<Paragraph position="0"> 1 D. Battistelli. 2000. Passer du texte une squence d'images, analyse spatio-temporelle de textes, modelisation et ralisation informatique (systme SPAT). Ph.D. thesis, Universit Paris - Sorbonne.</Paragraph>
+<Paragraph position="1"> 2 S. Ben Hazez and J.-L. Minel. 2000. Designing tasks of identification of complex patterns used for text-filtering. In RIAO, pages 1558--1567.</Paragraph>
+<Paragraph position="2"> 3 J.-P Descls, E. Cartier, A. Jackiewicz, and J.-L. Minel. 1997. Textual processing and contextual exploration method. In CONTEXT'97, pages 189--197, Brasil. Universidade Federal do Rio de Janeiro.</Paragraph>
+<Paragraph position="3"> 4 J.-P. Descls, 1997. Systmes d'exploration contextuelle. Co-texte et calcul du sens, pages 215 232. Presses Universitaires de Caen.</Paragraph>
+<Paragraph position="4"> 5 L. Ferro, I. Mani, B. Sundheim, and G. Wilson. 2001. Tides temporal annotation guidelines. Technical Report MTR 00W0000094, The MITRE Corporation.</Paragraph>
+<Paragraph position="5"> 6 Inderjeet Mani , George Wilson , Lisa Ferro , Beth Sundheim, Guidelines for annotating temporal information, Proceedings of the first international conference on Human language technology research, p.1-3, March 18-21, 2001, San Diego 7 J.-L. Minel and J-P. Descls. 2000. Rsum Automatique et Filtrage des textes. Ingnierie des langues. Editions Herms, Paris.</Paragraph>
+<Paragraph position="6"> 8 Nikolai Vazov, Context-Scanning Strategy in Temporal Reasoning, Proceedings of the Second International and Interdisciplinary Conference on Modeling and Using Context, p.389-402, September 01, 1999 9 H. Verkuyl. 1993. A theory of aspectuality. The interaction between temporal and atemporal structure. Cambridge Studies in Lingustics. Cambridge University Press.</Paragraph>
+<Paragraph position="7"> 10 Bonnie Lynn Webber, Tense as discourse anaphor, Computational Linguistics, v.14 n.2, June 1988 11 Dina Wonsever , Jean-Luc Minel, Contextual Rules for Text Analysis, Proceedings of the Second International Conference on Computational Linguistics and Intelligent Text Processing, p.509-523, February 18-24, 2001</Paragraph>
+</Section>
+</Paper>
+

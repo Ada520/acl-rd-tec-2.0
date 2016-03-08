@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C92-3140">
+<Title>PARTIAL SYNTHESIS OF SENTENCES BY COROUT1NING CONSTRAINTS ON DIFFERENT LEVELS OF WELL-FORMEDNESS</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+PARTIAL SYNTHESIS OF SENTENCES BY COROUT1NING
+CONSTRAINTS ON DIFFERENT LEVELS OF WELL-FORMEDNESS
+GERARD MILHAUD ROBERT PASERO PAUL SABATIER
+</SectionTitle>
+<Paragraph position="0"></Paragraph>
+</Section>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> We show how the two main characteristics of the ILLICO natural language interface -guided composition mode by partial synthesis, and the modularity of the encoding of li,aguistic knowledge specifying the lexical, syntactic, semantic and conceptual levels of well-formedness -- have lead us to develop an approach and a system in which all the constraints on the different levels of well-formedness are coroutined when the system analyzes a given sentence or synthesizes a partial one. We describe the principle of the general coroutining process and the associated Prolog program.</Paragraph>
+</Section>
+</Paper>
+

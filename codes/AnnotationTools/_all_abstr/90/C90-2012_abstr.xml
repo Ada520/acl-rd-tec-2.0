@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-2012">
+<Title>The E-Framework: Emerging Problems</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> Beth &amp; Nygaard (1988) have described a formalism for NLP, the E-Framework (EFW).</Paragraph>
+<Paragraph position="1"> Two kinds of problem are emerging. Formally, there are problems with a complete formalisation of certain details of the EFW, but these will not be examined in this paper. Substantively, the question arises as to what mileage there is in this formalism tbr the MT problem.</Paragraph>
+<Paragraph position="2"> Possibly this question arises about any new NLP formalism, but Raw et al (1988) describe the EFW in an MT context.</Paragraph>
+<Paragraph position="3"> The EFW arose in reaction to the CAT forrealism for MT (Arnold &amp; des Tombe (1987), Arnold et al (1986)). This was a sequential stratificational formalism in which each level of representation was policed by its own grammar. The essentials of this process can be di- null *This research has been carried out within the British Group of the EUROTRA project, jointly funded by the Conunission of the European Colranunities and the United Khlgdom's Department of Trade and Industry. I an1 grateful for suggestions and comments from Doug Arnold, Lee Hmnphreya, Louisa Sadler, Andrew Way, and a COLING reviewer.</Paragraph>
+<Paragraph position="4"> The &amp;quot;t-rules&amp;quot; of the t-grammars were the problem.</Paragraph>
+<Paragraph position="5"> In the most compact version of this notation, that of Sharp (1988), the t-rules consist of little more than the annotated subtree on each end of the mapping. For instance, in a t,grammar mapping from a predicate-argument representation to a surface one, such as might be necessary i n the monolingual modules of an MT system, there might be a t-rule like (2) (?,{cat:s}).\[ $GOV: (gov,{cat=v}), $ARGI: argl,</Paragraph>
+<Paragraph position="7"> This had the attractiveness of explicitness and clarity, but when it was applied over a wider range of phenomena, two problems emerged. Firstly, the right-hand side (RttS) of the t-rules repeated the target grammar.</Paragraph>
+<Paragraph position="8"> In (2), the RtlS repeats the statement of the surface grammar that the verb and object are dominated by a VP. Secondly, the set oft-rules exploded combinatorially. How this emerged depended on details of the grammars involved.</Paragraph>
+<Paragraph position="9"> For example, in the above case, if a second 66 1 rule were added Ibr passive sentences, then a third and fourth would be needed inserting will on the RHS in future active and passive sentences. \[t is impossible to nmke separate provision for passive and future--there is a passive simple-tense rule and a passive future rule. To add provision to lower the negation operator into its surface adverbial position now requires not another rule but another four rules.</Paragraph>
+<Paragraph position="10"> The general route of the EFW to solving these problems is to separate the output of the t-grammar from the finished representation in the following way, as described in Bech &amp; Ny- null gaard (1988): (3) Repni I</Paragraph>
+<Paragraph position="12"> The RtIS of each t-rule specifies a local part of a special representation called a DE-SCRIPTOR. This descriptor is then further processed by the grammar to produce a true representation. So (2) becomes  The descriptor %treed by the I~ttS is then, crucially, parsed according to the target grammar. All structures defined by the grammar with that mother at the top and those daughters at the bottom are built: specifically, VP is inserted above the verb and object. Given the extra devices available within grammars, will could be added to the descriptor of a future tense sentence after t-rule application, so the four rules covering voice and simple/future tense mentioned above could be reduced to two (or one using the unorderedness device described in Bach &amp; Nygaard (1988)).</Paragraph>
+<Paragraph position="13"> This is what makes the EFW the EFW.</Paragraph>
+<Paragraph position="14"> Without the separate entity called the descriptor being parsed to create the representation, the EFW would lose its defining characteristic. So is there any mileage in this insight for MT? It should be noted that what is at issue here is the special characteristics of the EFW, those which distinguish it from other stratificational systems such as CAT. The latter have no analogue of the EFW's &amp;quot;consolidation&amp;quot; idea and therefore no analogue of the particular problems discussed here. The EFW is not in these respects representative of stratificationM MT formalisms in general.</Paragraph>
+</Section>
+</Paper>
+

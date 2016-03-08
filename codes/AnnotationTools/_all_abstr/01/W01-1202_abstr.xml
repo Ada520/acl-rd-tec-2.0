@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W01-1202">
+<Title>MAYA: A Fast Question-answering System Based On A Predictive Answer Indexer*</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+(Currently Visiting CSLI Stanford University)
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We propose a Question-answering (QA) system in Korean that uses a predictive answer indexer. The predictive answer indexer, first, extracts all answer candidates in a document in indexing time. Then, it gives scores to the adjacent content words that are closely related with each answer candidate. Next, it stores the weighted content words with each candidate into a database. Using this technique, along with a complementary analysis of questions, the proposed QA system can save response time because it is not necessary for the QA system to extract answer candidates with scores on retrieval time. If the QA system is combined with a traditional Information Retrieval system, it can improve the document retrieval precision for closed-class questions after minimum loss of retrieval time.</Paragraph>
+</Section>
+</Paper>
+

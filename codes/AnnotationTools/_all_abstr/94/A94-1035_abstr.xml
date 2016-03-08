@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A94-1035">
+<Title>English Adverb Generation in Japanese to English Machine Translation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper proposes an English adverb ordering method based on adverb grammatical functions (subjuncts, adjuncts, disjuncts and conjuncts) and meanings (process, space, time etc.), preferred positions in sentences (initial, medial, end, pre, post), and priorities between adverbs with the same preferred position.</Paragraph>
+</Section>
+</Paper>
+

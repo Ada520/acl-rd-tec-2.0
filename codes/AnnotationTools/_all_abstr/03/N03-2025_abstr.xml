@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N03-2025">
+<Title>Decision List NE Learning HMM NE Learning Concept-based Seeds</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A novel bootstrapping approach to Named Entity (NE)tagging using concept-based seeds and successive learners is presented. This approach only requires a few common noun or pronoun seeds that correspond to the concept for the targeted NE, e.g. he/she/man/woman for PERSON NE. The bootstrapping procedure is implemented as training two successive learners. First, decision list is used to learn the parsing-based NE rules. Then, a Hidden Markov Model is trained on a corpus automatically tagged by the first learner. The resulting NE system approaches supervised NE performance for some NE types.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-1205">
+<Title>Look-Back and Look-Ahead in the Conversion of Hidden Markov Models into Finite State Transducers</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes the conversion of a Hidden Markov Model into a finite state transducer that closely approximates the behavior of the stochastic model. In some cases the transducer is equivalent to the HMM. This conversion is especially advantageous for part-of-speech tagging because the resulting transducer can be composed with other transducers that encode correction rules for the most frequent tagging errors. The speed of tagging is also improved. The described methods have been implemented and successfully tested.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="I05-3001">
+<Title>Detecting Segmentation Errors in Chinese Annotated Corpus</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper proposes a semi-automatic method to detect segmentation errors in a manually annotated Chinese corpus in order to improve its quality further. A particular Chinese character string occurring more than once in a corpus may be assigned different segmentations during a segmentation process. Based on these differences our approach outputs the segmentation error candidates found in a segmented corpus and then on which the segmentation errors are identified manually. Segmentation error rate of a gold standard corpus can be given using our method. In Peking  segmentation error rates are detected by our method. These errors decrease the F-measure of SIGHAN Bakeoff1 baseline test by 1.36% in PK test data and 1.93% in AS test data respectively.</Paragraph>
+<Paragraph position="1"> This work was done while Chengjie Sun was visiting Microsoft Research Asia.</Paragraph>
+</Section>
+</Paper>
+

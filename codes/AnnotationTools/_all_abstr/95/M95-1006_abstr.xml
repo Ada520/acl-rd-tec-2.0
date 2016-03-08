@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="M95-1006">
+<Title>Regarding ST</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> This paper provides a quick summary of our technical approach, which has been developing since 1991 and wa s first fielded in MUC-3 . First a quick review of what is new is provided, then a walkthrough of system components.</Paragraph>
+<Paragraph position="1"> Perhaps most interesting is out analysis, following the walkthrough, of what we learned through MUC-6 and o f what directions we would take now to break the performance barriers of cur rent information extraction technology.</Paragraph>
+</Section>
+</Paper>
+

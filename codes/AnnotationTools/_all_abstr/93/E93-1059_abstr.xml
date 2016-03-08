@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E93-1059">
+<Title>Enhancing a large scale dictionary with a two-level system</Title>
+<Section position="2" start_page="1" end_page="1" type="abstr">
+<SectionTitle>
+3 Results
+</SectionTitle>
+<Paragraph position="0"> We tested this transducer on a 1,300,000 words corpus containing 58,000 different graphical forms. Our transducer analyzed 75% of these graphical forms, which is 3% more that the transducer of DELAF alone, at a speed of 1,100 words per second. Hence, more than 97% of the word occurrences of our corpus have been analyzed in the following way: algorithmisation ~ algorithme,N*iser,V*Ation,N* f*.s</Paragraph>
+</Section>
+</Paper>
+

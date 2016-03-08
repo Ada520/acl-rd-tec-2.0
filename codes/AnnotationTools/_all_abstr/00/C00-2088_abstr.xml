@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-2088">
+<Title>A Formal Semantics for Generating and Editing Plurals</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Wc present a formal semantics for an object-oriented formalism which allows for the representation of plura, l objects (such as 'Three N', 'Most of the N', 'Some N',...). The semantics is given in terms of it mapping to a variant of Discourse Representation Theory. It is motivated by its suitability lkw natural language generation and interactive editing of the representations.</Paragraph>
+</Section>
+</Paper>
+

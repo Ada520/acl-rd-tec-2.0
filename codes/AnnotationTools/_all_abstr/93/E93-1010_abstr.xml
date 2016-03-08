@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E93-1010">
+<Title>Head-driven Parsing for Lexicalist Grammars: Experimental Results</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present evidence that head-driven parsing strategies lead to efficiency gains over standard parsing strategies, for lexicalist, concatenative and unification-based grammars. A head-driven parser applies a rule only after a phrase matching the head has been derived. By instantiating the head of the rule important information is obtained about the left-hand-side and the other elements of the right-hand-side. We have used two different head-driven parsers and a number of standard parsers to parse with lexicalist grammars for English and for Dutch. The results indicate that for important classes of lexicalist grammars it is fruitful to apply parsing strategies which are sensitive to the linguistic notion 'head'.</Paragraph>
+</Section>
+</Paper>
+

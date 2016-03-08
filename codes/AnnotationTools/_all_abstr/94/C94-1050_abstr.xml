@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C94-1050">
+<Title>Analysis of Scene Identification Ability of Associative Memory with Pictorial Dictionary</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Semantic disambiguation depends on a process of defining the appropriate knowledge context. Recent research directions suggest a eonnectionist approach which use dictionaries, but there remain problems of scale, analysis, and interpretation. IIere we focus on word disambiguation as scene selection, based on the Oxford Pictorial English Dictionary. We present a results of a spatial-scene identification ability using our original associative mcmor~j, We show both theoretical and experimental analysis, based on a several different measures including information entropy.</Paragraph>
+</Section>
+</Paper>
+

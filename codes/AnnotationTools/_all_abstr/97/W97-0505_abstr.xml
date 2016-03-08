@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0505">
+<Title>Inflected Languages. Application to Basque Language</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Several word prediction methods to help the communication of people with disabilities can be found in the recent literature. Most Of them have been developed for English or other non-inflected languages.</Paragraph>
+<Paragraph position="1"> While most of these methods can be modified to be used in other languages with similar structures, they may not be directly adapted to inflected languages. In this paper some word prediction techniques are reviewed and the difficulties to apply them to inflected languages are studied. Possibilities for word prediction methods that cope with the enormous number of different inflexions of each word are proposed, using Basque as the target language. Finally, conclusions about word prediction for inflected languages are extracted from the experience with the Basque language.</Paragraph>
+</Section>
+</Paper>
+

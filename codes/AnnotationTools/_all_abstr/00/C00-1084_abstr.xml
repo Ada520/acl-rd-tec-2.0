@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-1084">
+<Title>Automatic Semantic Sequence Extraction from Unrestricted Non-Tagged Texts</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Mophological processing, syntactic parsing and other useflfl tools have been proposed in the field of natural language processing(NLP). Many of those NLP tools take dictionary-based approaches. Thus these tools are often not very efficient with texts written in casual wordings or texts which contain maw domain-specific terms, because of the lack of vocabulary.</Paragraph>
+<Paragraph position="1"> In this paper we propose a simple method to obtain domain-specific sequences from unrestricted texts using statist;ical information only. This method is language-independent.</Paragraph>
+<Paragraph position="2"> We had experiments oil sequence extraction on email l;exts in Japanese, and succeeded in extracting significant semantic sequences in the test corpus. We tried morphological parsing on the test corpus with ChaSen, a Japanese dictionary-based morphological parser, and examined our system's efficiency in extraction of semantic sequences which were not recognized with ChaSen. Our system detected 69.06% of the unknown words correctly.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C02-1099">
+<Title>An English-Korean Transliteration Model Using Pronunciation and Contextual Rules</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> There is increasing concern about English-Korean (E-K) transliteration recently. In the previous works, direct converting methods from English alphabets to Korean alphabets were a main research topic. In this paper, we present an E-K transliteration model using pronunciation and contextual rules. Unlike the previous works, our method uses phonetic information such as phoneme and its context. We also use word formation information such as English words of Greek origin. With them, our method shows significant performance increase about 31% in word accuracy.</Paragraph>
+<Paragraph position="1"> 1.Introduction In Korean, many technical terms in a domain specific text, especially science and engineering are from foreign origin. Sometimes they are written in their original forms and sometimes they are transliterated into Korean words in various forms. This makes difficult to handle them in natural language processing. Especially information retrieval, words with the same meanings are treated as different ones because of their different forms.</Paragraph>
+<Paragraph position="2"> One possible solution can be a dictionary, which contains English words and their possible transliterated forms. However, this is not a practical solution because technical terms, which mainly cause the problem, usually have rich productivity. The other solution can be automatic transliteration. There have been works on automatic transliteration from English to other languages - English to Japanese (Kang et al., 1996; Knight et al., 1997), and English to Korean (Kang et al., 2000; Kang et al., 2001; Kim et al., 1999; Lee et al., 1998).</Paragraph>
+<Paragraph position="3"> In E-K transliteration, direct converting methods from English alphabet to Korean alphabet were a main research topic (Kang et al., 2000; Kang et al., 2001; Kim et al., 1999; Lee et al., 1998). In the works, machine learning techniques such as a decision tree and a neural network were used. However, transliteration is more phonetic process than orthographic process: 'h' in the Johnson does not make any Korean character (Knight et al., 1997). Therefore, patterns for E-K transliteration acquired from English/Korean alphabets as in the previous works, may not be effective. In the previous works, they did not consider origin of English - pure English (e.g., board), English words with Greek origin (e.g., hernia) and so on In E-K transliteration, origin of English words determine the way of transliteration. Our method uses phonetic information such as phoneme and its context as well as orthography. English words of Greek origin are also considered in transliteration. This paper organized as follows. In section 2, we survey related works. In section 3, we will describe the details of our method. In section 4, the results of experiments are represented.</Paragraph>
+<Paragraph position="4"> Finally, the conclusion follows in section 5.</Paragraph>
+</Section>
+</Paper>
+

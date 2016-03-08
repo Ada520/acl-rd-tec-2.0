@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N04-1035">
+<Title>What's in a translation rule?</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We propose a theory that gives formal semantics to word-level alignments defined over parallel corpora. We use our theory to introduce a linear algorithm that can be used to derive from word-aligned, parallel corpora the minimal set of syntactically motivated transformation rules that explain human translation data.</Paragraph>
+</Section>
+</Paper>
+

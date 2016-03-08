@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-2409">
+<Title>A Comparison of Manual and Automatic Constructions of Category Hierarchy for Classifying Large Corpora</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We address the problem dealing with a large collection of data, and investigate the use of automatically constructing category hierarchy from a given set of categories to improve classification of large corpora. We use two well-known techniques, partitioning clustering, CZ-means and a D0D3D7D7 CUD9D2CRD8CXD3D2 to create category hierarchy. CZ-means is to cluster the given categories in a hierarchy. To select the proper number of CZ, we use a D0D3D7D7 CUD9D2CRD8CXD3D2 which measures the degree of our disappointment in any differences between the true distribution over inputs and the learner's prediction. Once the optimal number of CZ is selected, for each cluster, the procedure is repeated. Our evaluation using the 1996 Reuters corpus which consists of 806,791 documents shows that automatically constructing hierarchy improves classification accuracy.</Paragraph>
+</Section>
+</Paper>
+

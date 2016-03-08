@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P01-1020">
+<Title>A machine learning approach to the automatic evaluation of machine translation</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a machine learning approach to evaluating the well-formedness of output of a machine translation system, using classifiers that learn to distinguish human reference translations from machine translations.</Paragraph>
+<Paragraph position="1"> This approach can be used to evaluate an MT system, tracking improvements over time; to aid in the kind of failure analysis that can help guide system development; and to select among alternative output strings. The method presented is fully automated and independent of source language, target language and domain.</Paragraph>
+</Section>
+</Paper>
+

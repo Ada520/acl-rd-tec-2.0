@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-2008">
+<Title>Natural Language Analysis of Patent Claims</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We propose a NLP methodology for analyzing patent claims that combines symbolic grammar formalisms with data-intensive methods while enhancing analysis robustness. The output of our analyzer is a shallow interlingual representation that captures both the structure and content of a claim text. The methodology can be used in any patent-related application, such as machine translation, improving readability of patent claims, information retrieval, extraction, summarization, generation, etc. The methodology should be universal in the sense that it could be applied to any language, other parts of patent documentation and text as such.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P04-2003">
+<Title>Searching for Topics in a Large Collection of Texts</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe an original method that automatically finds specific topics in a large collection of texts. Each topic is first identified as a specific cluster of texts and then represented as a virtual concept, which is a weighted mixture of words. Our intention is to employ these virtual concepts in document indexing.</Paragraph>
+<Paragraph position="1"> In this paper we show some preliminary experimental results and discuss directions of future work.</Paragraph>
+</Section>
+</Paper>
+

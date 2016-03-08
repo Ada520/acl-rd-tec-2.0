@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0706">
+<Title>A Proposal for Task-based Evaluation of Text Summarization Systems</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Evaluauon is a key part of any research and development effort, but the goals and focus of evaluat:ons are often narrow m scope, addressing a specific algonthm or technique, or analyzing a single result All of the evaluation work clone to date on text summarization systems has been by the developers of mdlvldual systems, usually to study and improve sentence selection cntena Under TIPSTER III, DARPA ~s sponsoring a task-based evaluauon of multiple text summarization systems This focus of this evaluation wall be on user needs, and the feaslbdlty of applying summarization technology to a variety of tasks</Paragraph>
+</Section>
+</Paper>
+

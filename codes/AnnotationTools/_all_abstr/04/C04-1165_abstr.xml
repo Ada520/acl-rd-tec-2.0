@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1165">
+<Title>Construction of an Objective Hierarchy of Abstract Concepts via Directional Similarity</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The method of organization of word meanings is a crucial issue with lexical databases. Our purpose in this research is to extract word hierarchies from corpora automatically. Our initial task to this end is to determine adjective hyperonyms. In order to find adjective hyperonyms, we utilize abstract nouns. We constructed linguistic data by extracting semantic relations between abstract nouns and adjectives from corpus data and classifying abstract nouns based on adjective similarity using a self-organizing semantic map, which is a neural network model (Kohonen 1995).</Paragraph>
+<Paragraph position="1"> In this paper we describe how to hierarchically organize abstract nouns (adjective hyperonyms) in a semantic map mainly using CSM. We compare three hierarchical organizations of abstract nouns, according to CSM, frequency (Tf.CSM) and an alternative similarity measure based on coefficient overlap, to estimate hyperonym relations between words.</Paragraph>
+</Section>
+</Paper>
+

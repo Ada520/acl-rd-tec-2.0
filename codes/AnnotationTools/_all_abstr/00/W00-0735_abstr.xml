@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-0735">
+<Title>Single-Classifier Memory-Based Phrase Chunking</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> In the shared task for CoNLL-2000, words and tags form the basic multi-valued features for predicting a rich phrase segmentation code.</Paragraph>
+<Paragraph position="1"> While the tag features, containing WSJ paxt-ofspeech tags (Marcus et al., 1993), have about 45 values, the word features have more than 10,000 values. In our study we have looked at how memory-based learning, as implemented in the TiMBL software system (Daelemans et al., 2000), can handle such features. We have limited our search to single classifiers, thereby explicitly ignoring the possibility to build a meta-learning classifier architecture that could be expected to improve accuracy. Given this restriction we have explored the following:  1. The generalization accuracy of TiMBL with default settings (multi-valued features, overlap metric, feature weighting).</Paragraph>
+<Paragraph position="2"> 2. The usage of MVDM (Stanfill and Waltz, 1986; Cost and Salzberg, 1993) (Section 2), which should work well on word value pairs with a medium or high frequency, but may work badly on word value pairs with low frequency.</Paragraph>
+<Paragraph position="3"> 3. The straightforward unpacking of feature values into binary features. On some tasks we have found that splitting multi-valued features into several binary features can enhance performance of the classifier.</Paragraph>
+<Paragraph position="4"> 4. A heuristic search for complex features on  the basis of all unpacked feature values, and using these complex features for the classification task.</Paragraph>
+</Section>
+</Paper>
+

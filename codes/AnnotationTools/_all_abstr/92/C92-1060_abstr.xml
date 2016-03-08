@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C92-1060">
+<Title>An Algorithm for Estimating the Parameters of Unrestricted I-Iidden Stochastic Context-Free Grammars</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> A new algorithm is presented for estimating the parameters of a stochastic context-free grammar (SCFG) from ordinary unparsed text. Unlike the Inside/Outside I/O) algorithm which requires a grammar to be speefled in Chomsky normal form, the new algorithm can estimate an arbitrary SCFG without ally need for transformation. The algorithm has worst-case cubic complexity in the length of a sentence and the number of nonterminais in the grammar. Instead of the binary branching tree structure used by the i/O algorithm, the new algorithm makes use of a trellis structure for computation. The trellis is a generalization of that used by the Baum-Welcb algorithm which is used for estimating hidden stochastic regular grammars. Tile paper describes tile relationship between the trellis and the more typical parse tree representation.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-2185">
+<Title>Engineering Platform): An Open Architecture for Language Engineering. CEC and Cray Sys-</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Language engineering implenicnts functions of a language and inforillation via computers. '\['he need for language engineering plattbrms has been generally recognized and several researches are being undertaken around the worhl. Our goal is to establish Korean inforn-iation platform of linguistic resources and tools for Korean language and information colnumnities. The platform will support researchers and engineers with well-developed and standardized resources and al)plication tools thereby avoiding duplicate activities fi'om scratch a.nd aniplifyiilg overall effort on the domain.</Paragraph>
+<Paragraph position="1"> This paper reports tile components and the current status of the project, and the importance of the effort.</Paragraph>
+</Section>
+</Paper>
+

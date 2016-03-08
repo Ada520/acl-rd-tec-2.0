@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-2161">
+<Title>Positioning Unknown Words in a Thesaurus by Using Information Extracted from a Corpus</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This p~q)er describes a. method for positio,ing unknown words in an existing thesa,rus by using word-to-word rela.tionships with relation (case) markers extracted from a large corpus. A suitable area (if the thesaurus for an unknown woM ix estimated l)y integrating the human intuition I)urled in the thesaurus and statistical data extracted from the corpus. To overcome the prohlem of data sparseness, distinguishing features of each node, called &amp;quot;viewpoints&amp;quot; are. extracted a.utomatically and used to calcMa.te the similarity between the unknown woM and a.</Paragraph>
+<Paragraph position="1"> word in the thesaurus. The results of a.tl experiment confirm the COrltril)ution of viewl)oints to the I)ositioning task.</Paragraph>
+</Section>
+</Paper>
+

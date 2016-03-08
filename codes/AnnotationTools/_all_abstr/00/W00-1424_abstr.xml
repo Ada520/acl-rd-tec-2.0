@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-1424">
+<Title>Generating Vague Descriptions</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper deals with the generation of definite (i.e., uniquely referring) descriptions containing semantically vague expressions ('large', 'small', etc.).</Paragraph>
+<Paragraph position="1"> Firstly, the paper proposes a semantic analysis of vague descriptions that does justice to the context-dependent meaning of the vague expressions in them. Secondly, the paper shows how this semantic analysis can be implemented using a modification of the Dale and Reiter (1995) algorithm for the generation of referring expressions. A notable feature of the new algorithm is that, unlike Dale and Reiter (1995), it covers plural as well as singular NPs. This algorithm has been implemented in an experimental NLG program using ProFIT. The paper concludes by formulating some pragmatic constraints that could allow a generator to choose between different semantically correct descriptions.</Paragraph>
+</Section>
+</Paper>
+

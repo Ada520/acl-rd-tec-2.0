@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P06-2014">
+<Title>Soft Syntactic Constraints for Word Alignment through Discriminative Training</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Word alignment methods can gain valuable guidance by ensuring that their alignments maintain cohesion with respect to the phrases specified by a monolingual dependency tree. However, this hard constraint can also rule out correct alignments, and its utility decreases as alignment models become more complex. We use a publicly available structured output SVM to create a max-margin syntactic aligner with a soft cohesion constraint. The resulting aligner is the first, to our knowledge, to use a discriminative learning method to train an ITG bitext parser.</Paragraph>
+</Section>
+</Paper>
+

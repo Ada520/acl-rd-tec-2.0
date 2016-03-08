@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-0420">
+<Title>Maximum Entropy Models for Named Entity Recognition</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we describe a system that applies maximum entropy (ME) models to the task of named entity recognition (NER). Starting with an annotated corpus and a set of features which are easily obtainable for almost any language, we first build a baseline NE recognizer which is then used to extract the named entities and their context information from additional non-annotated data. In turn, these lists are incorporated into the final recognizer to further improve the recognition accuracy.</Paragraph>
+</Section>
+</Paper>
+

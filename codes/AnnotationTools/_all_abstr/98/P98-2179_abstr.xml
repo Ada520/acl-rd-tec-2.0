@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-2179">
+<Title>Generating the Structure of Argument</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper demonstrates that generating arguments in natural language requires planning at an abstract level, and that the appropriate abstraction cannot be captured by approaches based solely upon coherence relations. An abstraction based planning system is presented which employs operators motivated by empirical study and rhetorical maxims. These operators include a subset of traditional deductive rules of inference, argumentation theoretic rules of refutation, and inductive reasoning patterns. The paper presents a unified system in which the various argument forms are employed in generating rich, complex structures for persuasive text.</Paragraph>
+<Paragraph position="1"> Introduction The ability to generate arguments in natural language is attracting wide-ranging research interest, and it is becoming clear that the problem is also stimulating investigation of a number of problems of importance to natural language generation (NLG) as a whole (Reed and Long, 1997a). Argumentation is particularly appropriate as an NLG problem both because it is more highly structured than other forms of natural language, and because there are a variety of established metrics developed in rhetoric and social psychology for judging the resultant quality of a text. These advantages are being exploited in the design and implementation of the ~hetor/ca system, of which the current work forms a part.</Paragraph>
+</Section>
+</Paper>
+

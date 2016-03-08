@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-3004">
+<Title>Virtual Modality: a Framework for Testing and Building Multimodal Applications</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper introduces a method that generates simulated multimodal input to be used in testing multimodal system implementations, as well as to build statistically motivated multi-modal integration modules. The generation of such data is inspired by the fact that true multimodal data, recorded from real usage scenarios, is difficult and costly to obtain in large amounts. On the other hand, thanks to operational speech-only dialogue system applications, a wide selection of speech/text data (in the form of transcriptions, recognizer outputs, parse results, etc.) is available. Taking the textual transcriptions and converting them into multimodal inputs in order to assist multimodal system development is the underlying idea of the paper. A conceptual framework is established which utilizes two input channels: the original speech channel and an additional channel called Virtual Modality. This additional channel provides a certain level of abstraction to represent non-speech user inputs (e.g., gestures or sketches). From the transcriptions of the speech modality, pre-defined semantic items (e.g., nominal location references) are identified, removed, and replaced with deictic references (e.g., here, there). The deleted semantic items are then placed into the Virtual Modality channel and, according to external parameters (such as a pre-defined user population with various deviations), temporal shifts relative to the instant of each corresponding deictic reference are issued. The paper explains the procedure followed to create Virtual Modality data, the details of the speech-only database, and results based on a multimodal city information and navigation application.</Paragraph>
+</Section>
+</Paper>
+

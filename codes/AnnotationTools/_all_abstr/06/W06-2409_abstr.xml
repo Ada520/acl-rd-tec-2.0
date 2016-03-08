@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-2409">
+<Title>Modeling Monolingual and Bilingual Collocation Dictionaries in Description Logics</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper discusses an approach to modeling monolingual and bilingual dictionaries in the description logic species of the OWL Web Ontology Language (OWL DL). The central idea is that the model of a bilingual dictionary is a combination of the models of two monolingual dictionaries, in addition to an abstract translation model. The paper addresses the advantages of using OWL DL for the design of monolingual and bilingual dictionaries and proposes a generalized architecture for that purpose. Moreover, mechanisms for querying and checking the consistency of such models are presented, and it is concluded that DL provides means which are capable of adequately meeting the requirements on the design of multilingual dictionaries. null</Paragraph>
+</Section>
+</Paper>
+

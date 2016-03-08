@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W05-0210">
+<Title>amp; Spoken Language Communication Research Laboratories</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ATR
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper proposes the automatic generation of Fill-in-the-Blank Questions (FBQs) together with testing based on Item Response Theory (IRT) to measure English proficiency. First, the proposal generates an FBQ from a given sentence in English. The position of a blank in the sentence is determined, and the word at that position is considered as the correct choice.</Paragraph>
+<Paragraph position="1"> The candidates for incorrect choices for the blank are hypothesized through a thesaurus.</Paragraph>
+<Paragraph position="2"> Then, each of the candidates is verified by using the Web. Finally, the blanked sentence, the correct choice and the incorrect choices surviving the verification are together laid out to form the FBQ. Second, the proficiency of non-native speakers who took the test consisting of such FBQs is estimated through IRT.</Paragraph>
+<Paragraph position="3"> Our experimental results suggest that: (1) the generated questions plus IRT estimate the non-native speakers' English proficiency; (2) while on the other hand, the test can be completed almost perfectly by English native speakers; and (3) the number of questions can be reduced by using item information in IRT.</Paragraph>
+<Paragraph position="4"> The proposed method provides teachers and testers with a tool that reduces time and expenditure for testing English proficiency. null</Paragraph>
+</Section>
+</Paper>
+

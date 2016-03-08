@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C86-1091">
+<Title>Towards the Automatic Acquisition of Lexical Data</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Creating a knowledge base has always been a bottleneck in the implementation of AI systems. This is also true for Natural I,anguage Understanding (NhU) systems, particularly \[or data-driven ones. While a perfect system for automatic acquisition of all sorts of knowledge is still far from being realized, partial solutions are possib\]e. This holds especial\] y for \]exica\] data. Nevertheless, the task is not trivial, in particular when deal :i ng with \] anguages rich in inflectional forms like German. Out system is to be used by persons with no specJ&lt;\]c linguistic knowledge, thus linguistic expertise \]\]as been put int:o the system to ascertain correct clas!;ifJcation o\[ words.</Paragraph>
+<Paragraph position="1"> C\]assJ lication is done by means of ~I small rule ba~ed sy'stem wJ th i ex\] ca\] know\] edge and \] anguage -speci fic houri sties. 'Phe key idea is the Jdent:i fJcatJon e~ three sorts o\[ knowledge which are processed distinctly and the optLma\] use el knowledge already contained in the existing lexicon.</Paragraph>
+</Section>
+</Paper>
+

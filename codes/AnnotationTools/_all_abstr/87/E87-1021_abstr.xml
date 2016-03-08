@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E87-1021">
+<Title>RUSLAN - AN NT SYSTEM BETWEEN CLOSELY RELATED LANGUAGES</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> A project of machine translation of Czech computer manuals into Russian is described, presenting first a description of the overall system structure and concentrating then mainly on input text preparation and a parsing algorithm based on bottom-up parser programmed in Colmerauer's Q-systems.</Paragraph>
+</Section>
+</Paper>
+

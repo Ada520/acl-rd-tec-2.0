@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-2207">
+<Title>A Hybrid Approach for the Acquisition of Information Extraction Patterns</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we present a hybrid approach for the acquisition of syntactico-semantic patterns from raw text. Our approach co-trains a decision list learner whose feature space covers the set of all syntactico-semantic patterns with an Expectation Maximization clustering algorithm that uses the text words as attributes. We show that the combination of the two methods always outperforms the decision list learner alone. Furthermore, using a modular architecture we investigate several algorithms for pattern ranking, the most important component of the decision list learner.</Paragraph>
+</Section>
+</Paper>
+

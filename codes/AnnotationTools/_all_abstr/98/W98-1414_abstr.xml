@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-1414">
+<Title>Institut fiir Wissensund Sprachverarbeitung -Abstract</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+DISCOURSE MARKER CHOICE
+IN SENTENCE PLANNING
+</SectionTitle>
+<Paragraph position="0"> In text, discourse markers signal the kind of coherence relation holding between adjacent text spans; for example, because, since; and for this reason are different markers for causal relations.</Paragraph>
+<Paragraph position="1"> For any but the most simple applications of text generation, marker Selection is an important aspect of producing cohesive text. However, present systems use markers in fairly simplistic ways andcannot make use of the full potential of markers that language offers for a given relation.</Paragraph>
+<Paragraph position="2"> * To improve this situation, we propose a specialized lexicon for discourse markers, which holds the relevant constraints and preferences associated with the markers, and which can be used by a text generator to make an informed choice among alternative ways of expressing a relation in the given context, we demonstrate how .the lexicon can be employed in the generation * process and propose to perform discourse marker choice in the sentence planning stage, where the interactions with other generation* decisions can be accounted for.</Paragraph>
+</Section>
+</Paper>
+

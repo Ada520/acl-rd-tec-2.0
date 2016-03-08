@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J99-3002">
+<Title>The Computational Complexity of the Correct-Prefix Property for TAGs Mark-Jan Nederhof* German Research Center for Artificial Intelligence</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> Traditionally, parsers and recognizers for regular and context-free languages process input from left to right. If a syntax error occurs in the input they often detect that error immediately after its position is reached. The position of the syntax error can be defined as the rightmost symbol of the shortest prefix of the input that cannot be extended to be a correct sentence in the language L.</Paragraph>
+<Paragraph position="1"> In formal notation, this prefix for a given erroneous input w ~ L is defined as the string va, where w = vax, for some x, such that vy E L, for some y, but vaz ~ L, for any z. (The symbols v, w .... denote strings, and a denotes an input symbol.) The occurrence of a in w indicates the error position.</Paragraph>
+<Paragraph position="2"> If the error is detected as soon as it is reached, then all prefixes of the input that have been processed at preceding stages are correct prefixes, or more precisely, they are prefixes of some correct strings in the language. Hence, we speak of the correct-prefix property. 1 An important application can be found in the area of grammar checking: upon finding an ungrammatical sentence in a document, a grammar checker may report to the user the presumed position of the error, obtained from a parsing algorithm with the correct-prefix property.</Paragraph>
+<Paragraph position="3"> For context-free and regular languages, the correct-prefix property can be satisfied without additional costs of space or time. Surprisingly, it has been claimed by Schabes and Waters (1995) that this property is problematic for the mildly context-sensitive languages represented by tree-adjoining grammars (TAGs): the best practical parsing algorithms for TAGs have time complexity Cg(n 6) (Vijay-Shankar and Joshi \[1985\]; see Satta \[1994\] and Rajasekaran and Yooseph \[1995\] for lower theoretical upper bounds), whereas the only published algorithm with the correct-prefix property--that by Schabes and Joshi (1988)--has complexity O(n9).</Paragraph>
+<Paragraph position="4"> In this paper we present an algorithm that satisfies the correct-prefix property and operates in Cq(n 6) time. This algorithm merely recognizes input, but it can be extended  Computational Linguistics Volume 25, Number 3 to be a parsing algorithm with the ideas from Schabes (1994), which also suggest how it can be extended to handle substitution in addition to adjunction. The complexity results carry over to linear indexed grammars, combinatory categorial grammars, and head grammars, since these formalisms are equivalent to TAGs (Vijay-Shanker and Weir 1993, 1994).</Paragraph>
+<Paragraph position="5"> We present the actual algorithm in Section 3, after the necessary notation has been discussed in Section 2. The correctness proofs are discussed in Section 4, and the time complexity in Section 5. The ideas in this paper give rise to a number of questions for further research, as discussed in Section 6.</Paragraph>
+</Section>
+</Paper>
+

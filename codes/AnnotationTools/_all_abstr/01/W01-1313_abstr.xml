@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W01-1313">
+<Title>Assigning Time-Stamps to Event-Clauses</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe a procedure for arranging into a time-line the contents of news stories describing the development of some situation.</Paragraph>
+<Paragraph position="1"> We describe the parts of the system that deal with 1. breaking sentences into event-clauses and 2. resolving both explicit and implicit temporal references. Evaluations show a performance of 52%, compared to humans.</Paragraph>
+</Section>
+</Paper>
+

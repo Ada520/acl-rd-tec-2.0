@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-1033">
+<Title>FeasPar - A Feature Structure Parser Learning to Parse Spoken Language</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe and experimentally evaluate a system, FeasPar, that learns parsing spontaneous speech. To train and run FeasPar (Feature Structure Parser), only limited handmodeled knowledge is required.</Paragraph>
+<Paragraph position="1"> The FeasPar architecture consists of neural networks and a search. The networks spilt the incoming sentence into chunks, which are labeled with feature values and chunk relations. Then, the search finds the most probable and consistent feature structure.</Paragraph>
+<Paragraph position="2"> FeasPar is trained, tested and evaluated with the Spontaneous Schednling Task, and compared with a handmodeled LRparser. The handmodeling effort for FeasPar is 2 weeks. The handmodeling effort for the LR-parser was 4 months.</Paragraph>
+<Paragraph position="3"> FeasPar performed better than the LR-parser in all six comparisons that are made.</Paragraph>
+</Section>
+</Paper>
+

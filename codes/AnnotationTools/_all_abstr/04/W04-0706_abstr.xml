@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-0706">
+<Title>Using word similarity lists for resolving indirect anaphora</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this work we test the use of word similarity lists for anaphora resolution in Portuguese corpora. We applied an automatic lexical acquisition technique over parsed texts to identify semantically similar words. After that, we made use of this lexical knowledge to resolve coreferent definite descriptions where the head-noun of the anaphor is different from the head-noun of its antecedent, which we call indirect anaphora.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1166">
+<Title>and Eleazar Eskin. 1999. Detecting Text Similarity over Short Passages: Exploring Linguistic Feature Combinations via Machine Learning. In Proceedings of EMNLP/VLC- 99, College Park, United States. Martin Kay, Jean Mark Gawron, and Peter Norvig. 1994. Verbmobil { A Translation System for Face-to-Face Dialog. CSLI Lecture Notes.</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents an approach to normalize documents in constrained domains.</Paragraph>
+<Paragraph position="1"> This approach reuses resources developed for controlled document authoring and is decomposed into three phases. First, candidate content representations for an input document are automatically built. Then, the content representation that best corresponds to the document according to an expert of the class of documents is identifled. This content representation is flnally used to generate the normalized version of the document. The current version of our prototype system is presented, and its limitations are discussed.</Paragraph>
+</Section>
+</Paper>
+

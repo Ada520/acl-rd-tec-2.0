@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W94-0323">
+<Title>Real-time Natural Language Generation in NL-Soar</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> NL-Soar is a computer system that performs language comprehension and generation within the framework of the Soar architecture \[New90\]. NL-Soar provides language capabilities for systems working in a real-time environment. Responding in real time to changing situations requires a flexible way to shift control between language and task operations. To provide this flexibility, NL-Soar organizes generation as a sequence of incremental steps that can be interleaved with task actions as the situation requires. This capability has been demonstrated via the integration of NL-Soar with two different independentlydeveloped Soar-based systems.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P03-1069">
+<Title>Probabilistic Text Structuring: Experiments with Sentence Ordering</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Ordering information is a critical task for natural language generation applications.</Paragraph>
+<Paragraph position="1"> In this paper we propose an approach to information ordering that is particularly suited for text-to-text generation. We describe a model that learns constraints on sentence order from a corpus of domain-specific texts and an algorithm that yields the most likely order among several alternatives. We evaluate the automatically generated orderings against authored texts from our corpus and against human subjects that are asked to mimic the model's task. We also assess the appropriateness of such a model for multidocument summarization. null</Paragraph>
+</Section>
+</Paper>
+

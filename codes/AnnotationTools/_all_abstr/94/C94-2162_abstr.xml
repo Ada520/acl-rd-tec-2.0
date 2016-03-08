@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C94-2162">
+<Title>Towards a Proper Linguistic and Computational Treatment of Scrambling: An Analysis of Japanese</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+4 Independence Way, Princeton NJ 08540. USA
+</SectionTitle>
+<Paragraph position="0"> sandi~ay@research, nj. nec. corn .Abstract This paper describes how recent linguistic results in explaining Japanese short and long distance scram hling (:an be directly incorporated into an existing principles-and-parameters-based parser with only triviM modifications. '.\['he fact that this is realizable on a parser originally designed for a fixed-word-order language, together with the fact thai; Japanese scrambling is complex, attests to the high degree of cross linguistic generalization present in the theory.</Paragraph>
+</Section>
+</Paper>
+

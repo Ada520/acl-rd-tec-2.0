@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-1204">
+<Title>Evaluation of Features for Sentence Extraction on Different Types of Corpora</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We report evaluation results for our summarization system and analyze the resulting summarization data for three different types of corpora. To develop a robust summarization system, we have created a system based on sentence extraction and applied it to summarize Japanese and English newspaper articles, obtained some of the top results at two evaluation workshops. We have also created sentence extraction data from Japanese lectures and evaluated our system with these data. In addition to the evaluation results, we analyze the relationships between key sentences and the features used in sentence extraction. We find that discrete combinations of features match distributions of key sentences better than sequential combinations. null</Paragraph>
+</Section>
+</Paper>
+

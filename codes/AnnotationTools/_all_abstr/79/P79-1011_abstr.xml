@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P79-1011">
+<Title>ON THE AUTOMATIC TRANSFORMATION OF CLASS MEMBERSHIP CRITERIA</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ON THE AUTOMATIC TRANSFORMATION
+OF CLASS MEMBERSHIP CRITERIA
+</SectionTitle>
+<Paragraph position="0"> This paper addresses a problem that may arise in c\]assificatzon tasks: the design of procedures for matching an instance with a set ~f criteria for class membership in such a way as to permit the intelligent handling ~f inexact, as well as exact matches. An inexact match is a comparlson between an instance and a set of criteria (or a second instance) which has the result that some, but not all, of the criteria described (or exemplified) in the second are found to be satisfied in the first. An exact match is such a comparison for which all of the criteria of the second are found to be satisfied in the first. The approach presented in this paper is t~ transform the set of criteria for class membership into an exemplary instance of a member of the class, which exhibits a set ~f characteristics whose presence is necessary and sufficient for membership in that class. Use of this exemplary instance during the matching process appears to permit important functions associated with inexact matching to be easi\]y performed, and also to have a beneficial effect on the overaJ\] efficiency of the matching process.</Paragraph>
+</Section>
+</Paper>
+

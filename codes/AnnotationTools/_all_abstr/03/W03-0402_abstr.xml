@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-0402">
+<Title>An SVM Based Voting Algorithm with Application to Parse Reranking</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper introduces a novel Support Vector Machines (SVMs) based voting algorithm for reranking, which provides a way to solve the sequential models indirectly. We have presented a risk formulation under the PAC framework for this voting algorithm. We have applied this algorithm to the parse reranking problem, and achieved labeled recall and precision of 89.4%/89.8% on WSJ section 23 of Penn Treebank.</Paragraph>
+</Section>
+</Paper>
+

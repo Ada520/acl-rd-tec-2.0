@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-1097">
+<Title>Improving Automatic Indexing through Concept Combination and Term Enrichment</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Although indexes may overlap, the output of an automatic indexer is generally presented as a fiat and unstructured list of terms. Our purpose is to exploit term overlap and embedding so as to yield a substantial qualitative and quantitative improvement in automatic indexing through concept combination. The increase in the volume of indexing is 10.5% for free indexing and 52.3% for controlled indexing.</Paragraph>
+<Paragraph position="1"> The resulting structure of the indexed corpus is a partial conceptual analysis.</Paragraph>
+</Section>
+</Paper>
+

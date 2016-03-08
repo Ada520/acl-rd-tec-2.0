@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H94-1079">
+<Title>The Lincoln Large-Vocabulary Stack-Decoder Based HMM CSR*</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The system described here is a large.vocabulary continuous-speech recognition (CSR) system with results obtained using the Wall Street Journal-based database \[15\]. The recognizer uses a stack decoder-based search strategy\[l, 7, 14\] with a left-to-rlght stochastic language model. This decoder has been shown to function effectively on 20K and 64K-word recognition of continuous speech. It operates left-to-right and can produce final textual output while continuing to accept additional input speech. Thus it need not wait for the end of the sentence and can be structured so that it can accept an unbounded length stream of input speech. The recognizer also features recognition-time adaptation to the user's voice. This system showed improvements of 42% for a 5K vocabnlary and 35% for a 20K vocabulary compared to the November 92 evaluatien test system.</Paragraph>
+<Paragraph position="1"> I. The Basic HMM CSR System The basic system described here uses two (TM-2) or three (TM3) obs~vation streams: mel-cepstra~ time differential mebcepstra, and second time-differential mel-cepstra. The system uses Gaussian tied mixture \[4, 6\] with grand variance pdfs and treats each observation stream as if it were statistically independent of all others. Cross-word sex-dependent triphone models are used to model phonetic coarticulation and a coarse speaker grouping. These triphone models are smoothed with reduced context phone models \[20\] using Bayesian smoothing weights. Each phone model is a &amp;quot;linear&amp;quot; (no skip transitions) three state HMM. The phone modeis are trained by the forward-backward algorithm using a bootstrapping procedure which requires only the orthographic transcription. The trainer can also use sentence dependent background models to allow for variation in the training-data recording eenvlrronment. Both the trainer and the recognizer used the Dragon WSJ dictionary and can use multiple pronunciatkms for any word.</Paragraph>
+<Paragraph position="2"> The recognizer extrapolates (estimates) untrained phone models, splits long-duration states to enforce minimum durations, contains an adaptive background model, allows optional inte~rnediate silences between words, performs optional channel compensation, can use any left-to-right stochastic language model (LM), and can adapt to the speaker with or without supervision. The recognizer uses a Viterbi decoder with a ML decision rule. The recognition search is implemented using a stack decoder \[1, 7, 14\] with a two-pass fast match. The stack decoder includes a proposed CSI:t-NL interface\[lq to access an external LM module.</Paragraph>
+<Paragraph position="3"> *This work was sponsored by the Advanced Research Projects Agency. The views expressed are those of the author and do not reflect the official policy or position of the U.S. Government.</Paragraph>
+</Section>
+</Paper>
+

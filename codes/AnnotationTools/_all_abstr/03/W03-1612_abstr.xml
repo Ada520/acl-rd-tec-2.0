@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-1612">
+<Title>Paraphrasing Rules for Automatic Evaluation of Translation into Japanese</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Automatic evaluation of translation quality has proved to be useful when the target language is English. In this paper the evaluation of translation into Japanese is studied. An existing method based on n-gram similarity between translations and reference sentences is difficult to apply to the evaluation of Japanese because of the agglutinativeness and variation of semantically similar expressions in Japanese. The proposed method applies a set of paraphrasing rules to the reference sentences in order to increase the similarity score for the expressions that differ only in their writing styles. Experimental results show the paraphrasing rules improved the correlation between automatic evaluation and human evaluation from 0.80 to 0.93.</Paragraph>
+</Section>
+</Paper>
+

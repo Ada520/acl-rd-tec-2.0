@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-1091">
+<Title>An Empirical Evaluation of Probabilistic Lexicalized Tree Insertion Grammars *</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present an empirical study of the applicability of Probabilistic Lexicalized Tree Insertion Grammars (PLTIG), a lexicalized counterpart to Probabilistic Context-Free Grammars (PCFG), to problems in stochastic natural-language processing. Comparing the performance of PLTIGs with non-hierarchical N-gram models and PCFGs, we show that PLTIG combines the best aspects of both, with language modeling capability comparable to N-grams, and improved parsing performance over its non-lexicalized counterpart. Furthermore, training of PLTIGs displays faster convergence than PCFGs.</Paragraph>
+</Section>
+</Paper>
+

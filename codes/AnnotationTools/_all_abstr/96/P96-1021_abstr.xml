@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P96-1021">
+<Title>A Polynomial-Time Algorithm for Statistical Machine Translation</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We introduce a polynomial-time algorithm for statistical machine translation. This algorithm can be used in place of the expensive, slow best-first search strategies in current statistical translation architectures. The approach employs the stochastic bracketing transduction grammar (SBTG) model we recently introduced to replace earlier word alignment channel models, while retaining a bigram language model. The new algorithm in our experience yields major speed improvement with no significant loss of accuracy.</Paragraph>
+</Section>
+</Paper>
+

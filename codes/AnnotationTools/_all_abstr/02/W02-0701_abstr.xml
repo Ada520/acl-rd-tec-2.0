@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-0701">
+<Title>Corpus-Centered Computation</Title>
+<Section position="1" start_page="0" end_page="3" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> To achieve translation technology that is adequate for speech-to-speech translation (S2S), this paper introduces a new attempt named Corpus-Centered Computation, (abbreviated to C  and pronounced c-cube). As opposed to conventional approaches adopted by machine translation systems for written language, C  places corpora at the center of the technology. For example, translation knowledge is extracted from corpora, translation quality is gauged by referring to corpora and the corpora themselves are normalized by paraphrasing or filtering. High-quality translation has been demonstrated in the domain of travel conversation, and the prospects of this approach are promising due to the benefits of synergistic effects.  Introduction Text-based MT systems are not suitable for speech-to-speech translation (S2S) partly because they have not been designed to cope with the deviations from conventional grammar that characterize spoken language input and partly because they have been designed to be as general as possible to cover as many domains as possible. Consequently, the translation quality is not good  enough for S2S purposes. Furthermore, since such systems have been constructed by human experts, the development of machine translation  For our travel domain, a famous translation system on the WEB between Japanese and English produced a good translation for only about 10~20% of our test sentences.</Paragraph>
+<Paragraph position="1"> systems and porting them to different domains are expensive and snail-paced processes. This paper introduces a new attempt  and pronounced c-cube). C  places corpora at the center of the technology, where, for example, translation knowledge is extracted from corpora, translation quality is gauged by referring to corpora, and the corpora themselves are normalized by paraphrasing or filtering.</Paragraph>
+</Section>
+</Paper>
+

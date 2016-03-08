@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-1306">
+<Title>On the Acquisition of Phonological Representations</Title>
+<Section position="1" start_page="41" end_page="41" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Language learners must acquire the grammar (rules, constraints, principles) of their language as well as representations at various levels. I will argue that representations are part of the grammar and must be acquired together with other aspects of grammar; thus, grammar acquisition may not presuppose knowledge of representations. Further, I will argue that the goal of a learning model should not be to try to match or approximate target forms directly, because strategies to do so are defeated by the disconnect between principles of grammar and the effects they produce. Rather, learners should use target forms as evidence bearing on the selection of the correct grammar. I will draw on two areas of phonology to illustrate these arguments. The first is the grammar of stress, or metrical phonology, which has received much attention in the learning model literature. The second concerns the acquisition of phonological features and contrasts. This aspect of acquisition turns out, contrary to first appearances, to pose challenging problems for learning models.</Paragraph>
+</Section>
+</Paper>
+

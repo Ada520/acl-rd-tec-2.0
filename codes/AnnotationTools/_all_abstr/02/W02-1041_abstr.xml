@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-1041">
+<Title>Information Extraction from Voicemail Transcripts</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Voicemail is not like email. Even such basic information as the name of the caller/ sender or a phone number for returning calls is not represented explicitly and must be obtained from message transcripts or other sources. We discuss techniques for doing this and the challenges these tasks present.</Paragraph>
+</Section>
+</Paper>
+

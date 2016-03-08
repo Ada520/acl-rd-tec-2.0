@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-3120">
+<Title>Adri a de Gispert</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper reports translation results for the Exploiting Parallel Texts for Statistical Machine Translation (HLT-NAACL Workshop on Parallel Texts 2006). We have studied different techniques to improve the standard Phrase-Based translation system. Mainly we introduce two re-ordering approaches and add morphological information.</Paragraph>
+</Section>
+</Paper>
+

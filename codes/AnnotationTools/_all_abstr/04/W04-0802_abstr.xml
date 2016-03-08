@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-0802">
+<Title>The SENSEVAL-3 Multilingual English-Hindi Lexical Sample Task</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes the English-Hindi Multilingual lexical sample task in SENSEVAL-3. Rather than tagging an English word with a sense from an English dictionary, this task seeks to assign the most appropriate Hindi translation to an ambiguous target word. Training data was solicited via the Open Mind Word Expert (OMWE) from Web users who are fluent in English and Hindi.</Paragraph>
+</Section>
+</Paper>
+

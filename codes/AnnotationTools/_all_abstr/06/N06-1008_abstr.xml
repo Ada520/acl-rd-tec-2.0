@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N06-1008">
+<Title>Acquiring Inference Rules with TemporalConstraints by Using Japanese Coordinated Sentences and Noun-Verb Co-occurrences</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper shows that inference rules with temporal constraints can be acquired by using verb-verb co-occurrences in Japanese coordinated sentences and verb-noun cooccurrences. For example, our unsupervised acquisition method could obtain the inference rule If someone enforces a law, usually someone enacts the law at the same time as or before the enforcing of the law since the verbs enact and enforce frequently co-occurred in coordinated sentences and the verbs also frequently co-occurred with the noun law. We also show that the accuracy of the acquisition is improved by using the occurrence frequency of a single verb, which we assume indicates how generic the meaning of the verb is.</Paragraph>
+</Section>
+</Paper>
+

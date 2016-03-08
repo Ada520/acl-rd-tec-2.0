@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P82-1016">
+<Title>An Improved Heuristic for Ellipsis Processing*</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+I. Introduction
+</SectionTitle>
+<Paragraph position="0"> Robust response to ellipsis (fragmentary sentences) is essential to acceptable natural language interfaces. For instance, an experiment with the REL English query system showed 10% elliptical input (Thompson, 1980).</Paragraph>
+<Paragraph position="1"> In Quirk, et al. (1972), three types of contextual ellipsis have been identified: null I. repetition, if the utterance is a fragment of the previous sentence.</Paragraph>
+<Paragraph position="2"> 2. replacement, if the input replaces a structure in the previous sentence.</Paragraph>
+<Paragraph position="3"> 3. expansion, if the input adds a new type of structure to those used in the previous sentence.</Paragraph>
+<Paragraph position="4"> Instances of the three types appear in the following example.</Paragraph>
+<Paragraph position="5"> Were you angry? a) I was.</Paragraph>
+<Paragraph position="6">  b) Furious.</Paragraph>
+<Paragraph position="7"> c) Probably.</Paragraph>
+<Paragraph position="8"> d) For a time.</Paragraph>
+<Paragraph position="9"> e) Very.</Paragraph>
+<Paragraph position="10"> f) I did not want to be.</Paragraph>
+<Paragraph position="11"> g) Yesterday I was.</Paragraph>
+<Paragraph position="12">  In addition to appearing as answers following questions, any of the three types can appear in questions following statements, statements following statements, or in the utterances of a single speaker. This paper presents a method of automatically interpreting ellipsis based on dialogue context. Our method expands on p~evious work by allowing for expansion ellipsis and by allowing for all combinations of statement following question, question following statement, question following question, etc.</Paragraph>
+<Paragraph position="13"> *This material is based upon work partially supported by the National Science Foundation under Grant No. IST-8009673.</Paragraph>
+</Section>
+</Paper>
+

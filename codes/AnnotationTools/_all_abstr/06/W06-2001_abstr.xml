@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-2001">
+<Title>Multilingual Extension of a Temporal Expression Normalizer using Annotated Corpora</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents the automatic extension to other languages of TERSEO, a knowledge-based system for the recognition and normalization of temporal expressions originally developed for Spanish1. TERSEO was first extended to English through the automatic translation of the temporal expressions. Then, an improved porting process was applied to Italian, where the automatic translation of the temporal expressions from English and from Spanish was combined with the extraction of new expressions from an Italian annotated corpus. Experimental results demonstrate how, while still adhering to the rule-based paradigm, the development of automatic rule translation procedures allowed us to minimize the effort required for porting to new languages.</Paragraph>
+<Paragraph position="1"> Relying on such procedures, and without any manual effort or previous knowledge of the target language, TERSEO recognizes and normalizes temporal expressions in Italian with good results (72% precision and 83% recall for recognition).</Paragraph>
+</Section>
+</Paper>
+

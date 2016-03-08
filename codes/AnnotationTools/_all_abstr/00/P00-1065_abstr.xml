@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P00-1065">
+<Title>Automatic Labeling of Semantic Roles</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a system for identifying the semantic relationships, or semantic roles, #0Clledby constituents of asentence within a semantic frame.</Paragraph>
+<Paragraph position="1"> Various lexical and syntactic features are derived from parse trees and used to derive statistical classi#0Cers from hand-annotated training data.</Paragraph>
+</Section>
+</Paper>
+

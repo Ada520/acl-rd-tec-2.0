@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P97-1057">
+<Title>String Transformation Learning</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> String transformation systems have been introduced in (Brill, 1995) and have several applications in natural language processing. In this work we consider the computational problem of automatically learning from a given corpus the set of transformations presenting the best evidence. We introduce an original data structure and efficient algorithms that learn some families of transformations that are relevant for part-of-speech tagging and phonological rule systems. We also show that the same learning problem becomes NP-hard in cases of an unbounded use of don't care symbols in a transformation.</Paragraph>
+</Section>
+</Paper>
+

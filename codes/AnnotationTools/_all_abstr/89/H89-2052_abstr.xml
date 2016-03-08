@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H89-2052">
+<Title>Using Structural Constraints for Speech Act Interpretation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> We present a speech act interpretation system that has the generality of previous plan-based approaches but also can distinguish subtleties of phrasing. As a result, a sentence such as Can you pass the salt can be recognized as a request to pass the salt, whereas Tell me whether you are able to pass the salt is a question about the hearer's abilities. The system also provides a framework for integrating spoken language information, namely intonation and prosody, into the speech act interpretation process. The resulting system is more accurate than previous approaches and is considerably more efficient in dealing with everyday conventional sentences.</Paragraph>
+</Section>
+</Paper>
+

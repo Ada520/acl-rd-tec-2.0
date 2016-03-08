@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W96-0414">
+<Title>A Study of some Lexical Differences between French and English Instructions in a Multilingual Generation Framework* Farid Cerbah Dassault Aviation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes ongoing research on the lexicalisation problem in a multilingual generation framework. We will focus in particular on two major types of verbal differences observed in a corpus of bilingual (French - English) procedural texts extracted from aircraft maintenance manuals. To deal with these two types of differences, we propose lexicalisation mechanisms, which proceed from the same semantic representation for both French and English realisations. We will however discuss at the end of the paper other types of lexical differences which may require language-specific inputs.</Paragraph>
+<Paragraph position="1"> keywords: Multilingual generation, lexical choice, controlled languages.</Paragraph>
+</Section>
+</Paper>
+

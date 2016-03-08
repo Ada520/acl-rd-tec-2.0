@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="I05-2003">
+<Title>A Hybrid Chinese Language Model based on a Combination of Ontology with Statistical Method</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we present a hybrid Chinese language model based on a combination of ontology with statistical method. In this study, we determined the structure of such a Chinese language model. This structure is firstly comprised of an ontology description framework for Chinese words and a representation of Chinese lingual ontology knowledge. Subsequently, a Chinese lingual ontology knowledge bank is automatically acquired by determining, for each word, its co-occurrence with semantic, pragmatics, and syntactic information from the training corpus and the usage of Chinese words will be gotten from lingual ontology knowledge bank for a actual document. To evaluate the performance of this language model, we completed two groups of experiments on texts re-ordering for Chinese information retrieval and texts similarity computing.</Paragraph>
+<Paragraph position="1"> Compared with previous works, the proposed method improved the precision of nature language processing.</Paragraph>
+</Section>
+</Paper>
+

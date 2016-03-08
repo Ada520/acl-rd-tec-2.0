@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-2158">
+<Title>Anaphor Resolution and the Scope of Syntactic Constraints</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> An anal)hor resolution algorithm is presented which relies on a combination of strategies for narrowing down and selecting ti'om antecedent sets fl)r reflexive pronouns, nonreflexive pronom~s, and common 11011118. ~lqle work focuses on syntactic restrictions which are derived froin Chomsky's Binding Theory. It is discussed how these constraints can be incorporated adequately in an anaphor resolution algorithm. Moreover, by showing that t)ragmatic inferences may t)e necessary, the limits of syntactic restrictions are ehleidated.</Paragraph>
+</Section>
+</Paper>
+

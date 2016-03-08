@@ -1,0 +1,26 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-0202">
+<Title>Fourth International Conference on Autonomous</Title>
+<Section position="2" start_page="0" end_page="14" type="abstr">
+<SectionTitle>
+4 PAR as anIL
+</SectionTitle>
+<Paragraph position="0"> The PAR representation for an action can be seen as a general template. PAR schemas include, as part of the basic sub-categorization frame, properties of 4There are several other ways to generate motions, for example, through inverse kinematics, dynamics and keyframing. null the action that can occur linguistically either as the main verb or as adjuncts to the main verb phrase.</Paragraph>
+<Paragraph position="1"> This captures problems of divergences, such as the ones described by Talmy (Talmy, 1991), for verb-framed versus satellite-framed languages.</Paragraph>
+<Paragraph position="2"> New information may come from a sentence in natural language that modifies the action's inherent properties, such as in John hit the ball slowly, where 'slowly' is not part of the initial representation of the action 'hit'. This new information is added to the PAR schema.</Paragraph>
+<Paragraph position="3"> Verb- versus Satellite-framed languages Verb-Framed Languages (VFL) map the motion (path or path + ground location) onto the verb, and the manner either onto a satellite or an adjunct, while Satellite-Framed Languages (SFL) map the motion into the satellite, and the manner onto the main verb.</Paragraph>
+<Paragraph position="4"> English and other Germanic languages are considered satellite-framed languages, expressing the path in the satellite; Spanish, among other Romance languages, is a verb-framed language and expresses the path in the main verb. The pairs of sentences (1) and (2) from Talmy (1991) show examples of these divergences. In (1), in English, the exit of the bottle is expressed by the preposition out, in Spanish the same concept is incorporated in the main verb salir (to exit). In (2), the concept of blowing out the candle is represented differently in English and</Paragraph>
+<Section position="1" start_page="0" end_page="14" type="sub_section">
+<SectionTitle>
+4.1 Motion
+</SectionTitle>
+<Paragraph position="0"> In order to capture generalizations about motion actions, we have a generalized PAR schema for motion, and our hierarchy includes different types of motion actions such as inherently directed motion and manner of motion actions that inherit from the more general schema, as shown in Figure 4. Directed motion actions, such as enter and exit, don't bring with them the manner by which the action is carried out but they have a inherent termination condition.</Paragraph>
+<Paragraph position="1"> For example, 'enter a room' may be done by walking, crawling or flying depending on the agents' ca- null pabilities, but it should end when the agent is in the room. In contrast, manner of motion verbs express the action explicitly and don't have an intrinsic termination condition.</Paragraph>
+<Paragraph position="2"> Motion is a type of framing event where the path is in the main verb for VFLs and in the satellite for SFLs. In (3), we see the English sentence expressing the 'enter' idea in the preposition into whereas the Spanish sentence expresses it in the main verb entrar (to enter).</Paragraph>
+<Paragraph position="3"> (3) The bottle floated into the cave La botella entr5 flotando a la cueva (the bottle entered floating the cave) The PAR schemas don't distinguish the representation for these sentences, because there is a single schema which includes both the manner and the path without specifying how they are realiized linguistically. Mappings from the lexical items to the schemas or to constraints in the schemas can be seen in Figure 5. 5 Independent of which is the source language, the PAR schema selected is motion, the activity field, which determines how the action is performed (in this case, by floating), is filled by float (the main verb in English, or the adjunct in Spanish). The termination condition, which says that action ends when the agent is in the object, is added from the preposition in English and is part of the semantics of the main verb to enter in Spanish.</Paragraph>
+<Paragraph position="4">  Because all of the necessary elements for a translation are specified in this representation, it is up 5A lexical item may have several mappings to reflect its semantics: For instance, float in English can be used also in the non-motion sense, in which case there will be two entries to capture that distinction.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

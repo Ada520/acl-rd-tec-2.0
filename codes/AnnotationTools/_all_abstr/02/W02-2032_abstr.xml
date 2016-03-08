@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-2032">
+<Title></Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+References
+</SectionTitle>
+<Paragraph position="0"> 1 Steven Abney. 1996. Partial Parsing via Finite-State Cascades. In Proceedings of the ESSLLI-96 Workshop on &amp;quot;Robust Parsing&amp;quot;, Prague.</Paragraph>
+<Paragraph position="1"> 2 Thorsten Brants, TnT: a statistical part-of-speech tagger, Proceedings of the sixth conference on Applied natural language processing, p.224-231, April 29-May 04, 2000, Seattle, Washington 3 Christian Braun. 1999. Flaches und robustes Parsen deutscher Satzgefge. Diplomarbeit, Universitt des Saarlandes, Saarbrcken.</Paragraph>
+<Paragraph position="2"> 4 Walter Daelemans, Jakub Zavrel, Ko van der Sloot, and Antal van den Bosch. 2001. Tilburg Memory Based Learner, version 4.0, Reference Guide. Technical Report 01--04, ILK, Tilburg. 5 Peter Eisenberg. 1999 Grundri der deutschen Grammatik, volume 2: Der Satz. Metzler, Stuttgart.</Paragraph>
+<Paragraph position="3"> 6 C. Grover, C. Matheson, A. Mikheev, and M. Moens. 2000. LT TTT - a Flexible To-kenisation Tool. In Proceedings of the Second Language Resources and Evaluation Conference (LREC2000), 31 May--2 June. 7 Erhard W. Hinrichs, Sandra Kbler, Frank H. Mller, and Tylman Ule. 2002. A Hybrid Archictecture for Robust Parsing of German. In Proceedings of the 3rd International Conference on Language Resources and Evaluation (LREC 2002), Las Palmas, Gran Canaria. 8 Tilman Hhle. 1986. Der Begriff 'Mittelfeld', Anmerkungen ber die Theorie der topologischen Felder. In Akten des Siebten Internationalen Germanistenkongresses, pages 329--340, Gttingen.</Paragraph>
+<Paragraph position="4"> 9 Walt Detmar Meurers. 2002. On the use of electronic corpora for theoretical linguistics. Case studies from the syntax of German. Lingua. Forthcoming.</Paragraph>
+<Paragraph position="5"> 10 Gnter Neumann , Christian Braun , Jakub Piskorski, A divide-and-conquer strategy for shallow parsing of German free texts, Proceedings of the sixth conference on Applied natural language processing, p.239-246, April 29-May 04, 2000, Seattle, Washington 11 Li-Shiuan Peh and Christopher H. Ting. 1996. A Divide-and-Conquer Strategy for Parsing. In Proceedings of the ACL/SIGPARSE Fifth International Workshop on Parsing Technologies, pages 57--66.</Paragraph>
+<Paragraph position="6"> 12 L. A. Ramshaw and M. P. Marcus. 1995. Text Chunking using Transformation-Based Learning. In Proc. of third workshop on very large corpora, pages 82--94, June.</Paragraph>
+<Paragraph position="7"> 13 Helmut Schmid. 2000. Lopar: Design and Implementation. Arbeitspapiere des Sonderforschungsbereichs 340, Linguistic Theory and the Foundations of Computational Linguistics, 149, Institut fr Maschinelle Sprachverarbeitung, Universitt Stuttgart. 14 Rosmary Stegmann, Heike Telljohann, and Erhard W. Hinrichs. 2000. Stylebook for the German Treebank in VERBMOBIL. Technical Report Verbmobil-Report 239, Universitt Tbingen.</Paragraph>
+</Section>
+</Paper>
+

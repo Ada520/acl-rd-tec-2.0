@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-0307">
+<Title>Enhanced Free Text Access to Anatomically-Indexed Data</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe our use of an existing resource, the Mouse Anatomical Nomenclature, to improve a symbolic interface to anatomically-indexed gene expression data. The goal is to reduce user effort in specifying anatomical structures of interest and increase precision and recall.</Paragraph>
+</Section>
+</Paper>
+

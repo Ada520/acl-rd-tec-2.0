@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-0503">
+<Title>Multi-document summarization using off the shelf compression software</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This study examines the usefulness of common off the shelf compression software such as gzip in enhancing already existing summaries and producing summaries from scratch. Since the gzip algorithm works by removing repetitive data from a file in order to compress it, we should be able to determine which sentences in a summary contain the least repetitive data by judging the gzipped size of the summary with the sentence compared to the gzipped size of the summary without the sentence. By picking the sentence that increased the size of the summary the most, we hypothesized that the summary will gain the sentence with the most new information. This hypothesis was found to be true in many cases and to varying degrees in this study.</Paragraph>
+</Section>
+</Paper>
+

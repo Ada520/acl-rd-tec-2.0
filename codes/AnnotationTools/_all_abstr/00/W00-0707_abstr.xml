@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-0707">
+<Title>Incorporating Position Information into a Maximum Entropy/Minimum Divergence Translation Model</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> I describe two methods for incorporating information about the relative positions of bilingual word pairs into a Maximum Entropy/Minimum Divergence translation model. The better of the two achieves over 40% lower test corpus perplexity than an equivalent combination of a trigram language model and the classical IBM translation model 2.</Paragraph>
+</Section>
+</Paper>
+

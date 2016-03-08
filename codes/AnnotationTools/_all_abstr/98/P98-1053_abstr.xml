@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-1053">
+<Title>Accumulation of Lexical Sets: Acquisition of Dictionary Resources and Production of New Lexical Sets</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents our work on accumulation of lexical sets which includes acquisition of dictionary resources and production of new lexical sets from this. The method for the acquisition, using a context-free syntax-directed translator and text modification techniques, proves easy-to-use, flexible, and efficient.</Paragraph>
+<Paragraph position="1"> Categories of production are analyzed, and basic operations are proposed which make up a formalism for specifying and doing production.</Paragraph>
+<Paragraph position="2"> About 1.7 million lexical units were acquired and produced from dictionaries of various ~pes and complexities. The paper also proposes a combinatorial and dynamic organization for lexical systems, which is based on the notion of virtual accumulation and the abstraction levels of lexical sets.</Paragraph>
+<Paragraph position="3"> Keywords: dictionary resources, lexical acquisition, lexical production, lexical accumulation, computational lexicography.</Paragraph>
+<Paragraph position="4"> Introduction Acquisition and exploitation of dictionary resources (DRs) (machine-readable, on-line dictionaries, computational lexicons, etc) have long been recognized as important and difficult problems. Although there was a lot of work on DR acquisition, such as Byrd &amp; al (1987), Neff &amp; Boguraev (1989), Bl~isi &amp; Koch (1992), etc, it is still desirable to develop general, powerful, and easy-to-use methods and tools for this.</Paragraph>
+<Paragraph position="5"> Production of new dictionaries, even only crude drafts, from available ones, has been much less treated, and it seems that no general computational framework has been proposed (see eg, Byrd &amp; al (1987), Tanaka &amp; Umemura (1994), Don&amp;quot; &amp; al (1995)).</Paragraph>
+<Paragraph position="6"> This paper deals with two problems: acquiring textual DRs by converting them into structured forms, and producing new lexical sets from those acquired. These two can be considered as two main activities of a more general notion: the accumulation of lexical sets. The term &amp;quot;lexical set&amp;quot; (LS) is used here to be a generic term for more specific ones such as &amp;quot;lexicon&amp;quot;, &amp;quot;dictionary&amp;quot;, and &amp;quot;lexical database&amp;quot;. Lexical data accumulated will be represented as objects of the Common Lisp Object System (CLOS) (Steel 1990). This object-oriented high-level programming environment facilitates any further manipulations on them, such as presentation (eg in formatted text), exchange (eg in SGML), database access, and production of new lexical structures, etc; the CLOS object form is thus a convenient pivot form for storing lexical units. This environment also helps us develop our methods and tools easily and efficiently.</Paragraph>
+<Paragraph position="7"> In this paper, we will also discuss some other relevant issues: complexity measures for dictionaries, heuristic decisions in acquisition, the idea of virtual accumulation, abstraction levels on LSs, and a design for organization and exploitation of large lexical systems based on the notions of accumulation.</Paragraph>
+</Section>
+</Paper>
+

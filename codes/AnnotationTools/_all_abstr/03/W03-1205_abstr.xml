@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-1205">
+<Title>An evolutionary approach for improving the quality of automatic summaries</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Automatic text extraction techniques have proved robust, but very often their summaries are not coherent. In this paper, we propose a new extraction method which uses local coherence as a means to improve the overall quality of automatic summaries. Two algorithms for sentence selection are proposed and evaluated on scientific documents.</Paragraph>
+<Paragraph position="1"> Evaluation showed that the method ameliorates the quality of summaries, noticeable improvements being obtained for longer summaries produced by an algorithm which selects sentences using an evolutionary algorithm.</Paragraph>
+</Section>
+</Paper>
+

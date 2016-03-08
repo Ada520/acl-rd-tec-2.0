@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-1116">
+<Title>Generation that Exploits Corpus-Based Statistical Knowledge</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe novel aspects of a new natural language generator called Nitrogen. This generator has a highly flexible input representation that allows a spectrum of input from syntactic to semantic depth, and shifts' the burden of many linguistic decisions to the statistical post-processor. The generation algorithm is compositional, making it efficient, yet it also handles non-compositional aspects of language.</Paragraph>
+<Paragraph position="1"> Nitrogen's design makes it robust and scalable, operating with lexicons and knowledge bases of one hundred thousand entities.</Paragraph>
+</Section>
+</Paper>
+

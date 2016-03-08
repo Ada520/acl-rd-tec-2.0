@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-1107">
+<Title></Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We treat nouns that behave adjectively, which we call adjectival nouns, extracted from large corpora.</Paragraph>
+<Paragraph position="1"> For example, in &amp;quot;financial world&amp;quot; and &amp;quot;world of finance,&amp;quot; &amp;quot;financial&amp;quot; and &amp;quot;finance&amp;quot; are different parts of speech, but their semantic behaviors are similar to each other. We investigate how adjectival nouns are similar to adjectives and different from non-adjectival nouns by using self-organizing semantic maps. We create five kinds of semantic maps, i.e., semantic maps of abstract nouns organized via (1) adjectives, (2) adjectival nouns, (3) non-adjectival nouns and (4) adjectival and adjectival nouns and a semantic map of adjectives, adjectival nouns and non-adjectival nouns organized via collocated abstract nouns, and compare them with each other to find similarities and differences.</Paragraph>
+</Section>
+</Paper>
+

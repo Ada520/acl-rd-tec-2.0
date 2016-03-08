@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J79-1034">
+<Title>S-P S : A FORMALISM FOR SEMANTIC INTERPRETATION AND ITS USE</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+PROCEEDINGS
+13TH AWNUAL MEETING
+ASSOCIATION FOR COMPUTATIONAL LINGUISTI cs
+</SectionTitle>
+<Paragraph position="0"> The talks presented in Session 3 of the 13th ACL rneeting dealt with three facets of the language understafiding process: the integration of knowledge sources axt ton and A. Robinson), syntactic processing (Bates and J Robinson), md semantic processing (Hendrix, Sondheimer and Perry, and Cercone). The first four talks were oriented toward speech nput while the talk by Sondhe~er and Perry assumed phrase structure trees as input and the talk by Cercone assumed textual input. The paper from which Bates's talk was drawn was much too extensive for inclusion bere and will be published separately My special thanks to Stan Petrick who agreed to chair this session on very short notice.</Paragraph>
+<Paragraph position="1">  The Nature and Computational. Use of a Meaning Representation for Word C~ncept s Nick Cercone .......... 64</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="M93-1002">
+<Title>TASKS, DOMAINS, AND LANGUAGE S</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+TASKS
+</SectionTitle>
+<Paragraph position="0"> The Fifth Message Understanding Conference (MUC-5) involved the same tasks, domains and languages as th e information extraction portion of the ARPA TIPSTER program . These tasks center on automatically filling object oriented data structures, called templates, with information extracted from free text in news stories (for discussion o f templates and objects, see &amp;quot;Template Design for Information Extraction&amp;quot; in this volume) . For each task, a generic type of information that is specified for extraction corresponds to each of the slots in the templates . With text as input, the MUC-5 systems first detect whether the text contains relevant information . If available, the systems extract specific instances of the generic types from the text and output that information by filling the template slots with the appropriately formatted data representations . These slots are then scored by using an automatic scoring program wit h analyst-produced templates as the keys . Human analysts also prepared development set templates for each domain , which served as training models for system developers (for discussion of the data preparation effort, see &amp;quot;Corpora and Data Preparation&amp;quot; in this volume).</Paragraph>
+<Paragraph position="1"> With the TIPSTER program goal of demonstrating domain and language-independent algorithms, extractio n tasks for two domains (joint ventures and microelectronics) for both English and Japanese were identified . The selection criteria for this pair of languages included linguistic diversity, availability of on-line resources, and availabilit y of computer support resources. The four pairs include EJV, JJV, EME, JME, abbreviated to reflect the language (E o r J) and the domain (JV or ME) . In MUC-5, non-TIPSTER participants could choose to perform in one of the domain s in Japanese and/or English . Of the TIPSTER participants, three performed in all four pairs, and the fourth in bot h domains but only in English.</Paragraph>
+</Section>
+</Paper>
+

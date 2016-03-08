@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A97-1051">
+<Title>Mixed-Initiative Development of Language Processing Systems</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Historically, tailoring language processing systems to specific domains and languages for which they were not originally built has required a great deal of effort.</Paragraph>
+<Paragraph position="1"> Recent advances in corpus-based manual and automatic training methods have shown promise in reducing the time and cost of this porting process. These developments have focused even greater attention on the bottleneck of acquiring reliable, manually tagged training data. This paper describes a new set of integrated tools, collectively called the Alembic Workbench, that uses a mixed-initiative approach to &amp;quot;bootstrapping&amp;quot; the manual tagging process, with the goal of reducing the overhead associated with corpus development. Initial empirical studies using the Alembic Workbench to annotate &amp;quot;named entities&amp;quot; demonstrates that this approach can approximately double the production rate. As an ~ benefit, the combined efforts of machine and user produce domain-specific annotation rules that can be used to annotate similar texts automatically through the Alembic NLP system. The ultimate goal of this project is to enable end users to generate a practical domain-specific information extraction system within a single session.</Paragraph>
+</Section>
+</Paper>
+

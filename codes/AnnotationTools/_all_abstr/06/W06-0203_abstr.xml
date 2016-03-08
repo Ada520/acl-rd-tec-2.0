@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-0203">
+<Title>Parser Errors</Title>
+<Section position="2" start_page="0" end_page="1" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper deals with the use of computational linguistic analysis techniques for information access and ontology learning within the legal domain. We present a rule-based approach for extracting and analysing definitions from parsed text and evaluate it on a corpus of about 6000 German court decisions. The results are applied to improve the quality of a text based ontology learning method on this corpus.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C02-1104">
+<Title>From Shallow to Deep Parsing Using Constraint Satisfaction</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present in this paper a technique allowing to choose the parsing granularity within the same approach relying on a constraint-based formalism.</Paragraph>
+<Paragraph position="1"> Its main advantage lies in the fact that the same linguistic resources are used whatever the granularity. Such a method is useful in particular for systems such as text-to-speech that usually need a simple bracketing, but in some cases requires a precise syntactic structure. We illustrate this method in comparing the results for three different granularity levels and give some figures about their respective performance in parsing a tagged corpus.</Paragraph>
+<Paragraph position="2"> Introduction Some NLP applications make use of shallow parsing techniques (typically the ones treating large data), some others rely on deep analysis (e.g. machine translation). The respective techniques are quite different: the former usually relies on stochastic methods where the later uses symbolic ones. However, this can constitute a problem for applications relying on shallow parsing techniques and needing in some occasions deep analysis. This is typically the case for text-to-speech systems. Such applications usually rely on shallow parsers in order to calculate intonative groups on the basis of syntactic units (or more precisely on chunks). But in some cases, such a superficial syntactic information is not precise enough. One solution would then consist in using a deep analysis for some constructions. No system exists implementing such an approach. This is in particular due to the fact that this would require two different treatments, the second one redoing the entire job. More precisely, it is difficult to imagine in the generative framework how to implement a parsing technique capable of calculating chunks and, in some cases, phrases with a possible embedded organization.</Paragraph>
+<Paragraph position="3"> We present in this paper a formalism relying on constraints that constitutes a possible answer to this problem. This approach allows the use of a same linguistic resource (i.e. a unique grammar) that can be used fully or partially by the parser. This approach relies on the fact that (1) all linguistic information is represented by means of constraints and (2) the constraints are of regular types. The idea consists then in implementing a technique that can make use of some constraints in the case of shallow parsing, and the entire set of them for deep analysis. In our formalism, constraints are organized into different types.</Paragraph>
+<Paragraph position="4"> Tuning the granularity of the parse consists then in selecting the types of constraints to be verified.</Paragraph>
+<Paragraph position="5"> In the first part of this paper, we present the property grammar formalism, its main advantages both in terms of representation and implementation. In the second part, we describe the parsing technique and the different approaches used for shallow and deep parsing.</Paragraph>
+<Paragraph position="6"> We address in particular in this section some complexity aspects illustrating the properties of the parsing techniques and we propose an evaluation over a corpus. In the third part, we illustrate the respective characteristics of the different approaches in describing for the same example the consequences of tuning the parse granularity. We conclude in presenting some perspectives for such a technique.</Paragraph>
+</Section>
+</Paper>
+

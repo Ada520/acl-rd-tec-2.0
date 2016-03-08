@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-1415">
+<Title>Clause Aggregation Using Linguistic Knowledge</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> By combining multiple clauses into one single sentence, a text generation system can express the same amount of information in fewer words and at the same time, produce a great variety of complex constructions. In this paper, we describe hypotactic and paratactic operators for generating complex sentences from clause-sized semantic representations. These two types of operators are portable and reusable because they are based on general resources such as the lexicon and the grammar.</Paragraph>
+</Section>
+</Paper>
+

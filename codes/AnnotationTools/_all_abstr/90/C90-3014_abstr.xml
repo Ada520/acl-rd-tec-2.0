@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-3014">
+<Title>A Phonological</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+A Phonological
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes the framework of a Korean phonological knowledge base system using the unification-based grammar formalism : Korean Phonology Structure Grammar (KPSG). The approach of KPSG provides an explicit development model for constructing a computational phonological system : speech recognition and synthesis system.</Paragraph>
+<Paragraph position="1"> We show that the proposed approach is more describable than other approaches such as those employing a traditional generative phonological approach.</Paragraph>
+</Section>
+</Paper>
+

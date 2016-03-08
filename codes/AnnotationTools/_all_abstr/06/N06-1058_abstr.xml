@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N06-1058">
+<Title>Paraphrasing for Automatic Evaluation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper studies the impact of paraphrases on the accuracy of automatic evaluation. Given a reference sentence and a machine-generated sentence, we seek to nd a paraphrase of the reference sentence that is closer in wording to the machine output than the original reference.</Paragraph>
+<Paragraph position="1"> We apply our paraphrasing method in the context of machine translation evaluation.</Paragraph>
+<Paragraph position="2"> Our experiments show that the use of a paraphrased synthetic reference re nes the accuracy of automatic evaluation. We also found a strong connection between the quality of automatic paraphrases as judged by humans and their contribution to automatic evaluation.</Paragraph>
+</Section>
+</Paper>
+

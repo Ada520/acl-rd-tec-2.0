@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J92-4006">
+<Title>Computer Rules, Conversational Rules</Title>
+<Section position="2" start_page="533" end_page="534" type="abstr">
+<SectionTitle>
+4 For a clear exposition of how a third alternative to mentalism and behaviorism is possible, see Preston (in press).
+</SectionTitle>
+<Paragraph position="0"> David Chapman Computer Rules, Conversational Rules Button is right that the conversation analytical rules should not be represented as expert-system-like rules. But the fact that computers are governed by one sort of rules (programs) does not preclude their orienting to another sort (such as those of conversation analysis). Does the fact that the rules of conversation are not represented mean that we must eschew Lisp and use holistic neural networks? No. There's nothing mystical about the guts of a network file system: procedures manipulate data structures representing packets and connections and host addresses. Yet the program uses a protocol it does not represent.</Paragraph>
+<Paragraph position="1"> Of course network communication is in almost all other respects unlike human conversation; it would be wrong to suggest that Ethernet controllers orient to the no-collisions rule. But this example suggests that if the fourth issue--the normative character of rules--were addressed, Button's argument may not hold water. I think this, and not the representational issue, is the hard and interesting challenge of conversation analysis for computational linguistics.</Paragraph>
+<Paragraph position="2"> What does it mean that the rules of conversation have the force of social norms? I doubt that there can be a general answer to this question. Conversation analysts, following Garfinkel's ethnomethodological critique of the appropriation of common-sense categories like &amp;quot;social norm&amp;quot; as theoretical terms (Garfinkel 1991; Heritage 1984), would not even attempt to answer it. However, some elementary observations may point in the right direction. First, social action is accountable in the sense that one may be required to produce an account of the rationality of one's action. This requirement is relatively unproblematic; it could be argued that some existing AI systems produce such accounts. Second, when social interaction runs into trouble, as it regularly does, the participants are required to make an effort to find the location of difficulty, to determine which participant is responsible for the problem, and to take steps to repair it. Third, this process of trouble location and repair is not a mechanical one; it requires interactive work and a commitment to negotiating the specifics of concrete marginal cases.</Paragraph>
+<Paragraph position="3"> I believe it is possible to build a natural language system whose rule use satisfies the first three criteria in the same way the Ethernet controller does, and whose action is arguably subject to social norms in virtue of producing accounts, repairing misunderstandings, and negotiating assignment of the location of difficulties. This would not show that computers can engage in conversation; there are many other obstacles.</Paragraph>
+<Paragraph position="4"> It would, however, demonstrate that the particular problems Button raises are not the stumbling blocks.</Paragraph>
+</Section>
+</Paper>
+

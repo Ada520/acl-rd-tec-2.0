@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E99-1026">
+<Title>Japanese Dependency Structure Analysis Based on Maximum Entropy Models</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a dependency structure analysis of Japanese sentences based on the maximum entropy models. Our model is created by learning the weights of some features from a training corpus to predict the dependency between bunsetsus or phrasal units. The dependency accuracy of our system is 87.2% using the Kyoto University corpus. We discuss the contribution of each feature set and the relationship between the number of training data and the accuracy. null</Paragraph>
+</Section>
+</Paper>
+

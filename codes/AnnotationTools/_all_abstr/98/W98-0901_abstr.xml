@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-0901">
+<Title>Generating Interlanguage Syllabification in Optimality Theory&amp;quot;</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper proposes an Optimality Theory (Prince &amp; Smolensky, 1993) \[OT\]-based generator of the Interlanguage \[IL\] I syllabification of Korean speakers of English. Basically, I accept the ideas of 'cyclic CON-EVAL loop' and 'locally encoded finite candidate set' proposed by Hammond (1995, 1997b).</Paragraph>
+<Paragraph position="1"> However, in order to treat some features of Korean accented English such as vowel epenthesis, segment modification (stop voicing, devoicing, nasalization, etc.), and ambisyllabicity, I suppose that the input string of phonemes be linked to two templates of candidate grid sets; one for syllable position, and the other for (finite) possible output segments for each input segment. I will also use the ALIGN family of constraints to treat the Korean coda neutralization phenomena effectively.</Paragraph>
+</Section>
+</Paper>
+

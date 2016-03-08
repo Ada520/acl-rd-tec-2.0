@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W01-1613">
+<Title>A Study of Automatic Pitch Tracker Doubling/Halving &amp;quot;Errors&amp;quot;</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Manually verified pitch data were compared with output from a commonly used pitchtracking algorithm. The manual pitch data made statistically significantly better &amp;quot;final rise&amp;quot; predictions than the automatic pitch data, in spite of great similarity between the two sets of measurements. Pitch Tracking doubling/halving errors are described.</Paragraph>
+<Paragraph position="1"> Introduction Automatic ally captured pros odic information is relevant to both automatic speech recognition and speech synthesis. Pitch information, though regarded as highly relevant, has not been scrutinized in detail as with respect to automatic pitch trackers. This study presents a comparison of hand-verified pitch measurements (&amp;quot;hand&amp;quot;) with measurements from a commonly used pitch tracking algorithm (&amp;quot;automatic&amp;quot;), Talkin (1995). For this paper pitch will be defined as the aurally perceived information that loosely correlates with the fundamental frequency of a section of a speech waveform. The organization of this paper is as follows: First, the corpus used is described and justified. The next section describes comparisons of the hand-corrected pitch measurements and the automatic pitch tracker output. Next, results are presented with respect to the detection of utterance-final rises and falls. Lastly, the future work section connects conclusions from this specific study to related work on pitch and perception, and describes discourse-related applications that could benefit from a study of this kind.</Paragraph>
+</Section>
+</Paper>
+

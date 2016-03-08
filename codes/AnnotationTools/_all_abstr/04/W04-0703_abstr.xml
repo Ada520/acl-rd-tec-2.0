@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-0703">
+<Title>Event Clustering on Streaming News Using Co-Reference Chains and Event Words</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Event clustering on streaming news aims to group documents by events automatically.</Paragraph>
+<Paragraph position="1"> This paper employs co-reference chains to extract the most representative sentences, and then uses them to select the most informative features for clustering. Due to the long span of events, a fixed threshold approach prohibits the latter documents to be clustered and thus decreases the performance. A dynamic threshold using time decay function and spanning window is proposed. Besides the noun phrases in co-reference chains, event words in each sentence are also introduced to improve the related performance. Two models are proposed. The experimental results show that both event words and co-reference chains are useful on event clustering.</Paragraph>
+</Section>
+</Paper>
+

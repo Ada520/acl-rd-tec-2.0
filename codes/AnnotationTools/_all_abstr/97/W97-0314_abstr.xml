@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0314">
+<Title>Inducing Terminology for Lexical Acquisition</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Few attention has been paid to terminology extraction for what concerns the possibilities it offers to corpus linguistics and lexical acquisition. The problem of detecting terms in textual corpora has been approached in a complex framework. Terminology is seen as the acquisition of domain specific knowledge (i.e. semantic features, selectional restrictions) for complex terms and /or unknown words. This has useful implications on more complex text processing tasks (e.g. information extraction). An hybrid symbolic and probabilistic approach to terminology extraction has been defined.</Paragraph>
+<Paragraph position="1"> The proposed inductive method puts a specific attention to the linguistic description of what terms are as well as to the statistical characterization of terms as complex units of information typical of domain sub-.</Paragraph>
+<Paragraph position="2"> languages. Experimental evidence of the proposed method are discussed.</Paragraph>
+</Section>
+</Paper>
+

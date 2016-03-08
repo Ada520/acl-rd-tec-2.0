@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A92-1047">
+<Title>Lexical Processing in the CLARE System</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> In many language processing systems, uncertainty in the boundaries of linguistic units means that data are represented not as a well-defined sequence of units but as a lattice of possibilities. This is often the case in speech recognition, syntactic parsing and Japanese kana-kanji conversion. In contrast, however, it is often assumed that, for languages written with interword spaces, it is sufficient to prepare an input character stream for parsing by grouping it deterministically into a sequence of words, punctuation symbols and perhaps other items.</Paragraph>
+<Paragraph position="1"> But for typed input, spaces do not necessarily correspond to boundaries between lexical items, because of errors and other, linguistic, phenomena. This means that a lattice representation, not a simple sequence, should be used throughout front end (pre-parsing) analysis. The CLARE system under development at SRI Cambridge uses such a representation, allowing it to deal straight-forwardly with combinations or multiple occurrences of phenomena that would be difficult or impossible to process correctly under a sequence representation. This paper concentrates on CLARE's ability to deal with typing and spelling errors, which are especially common in interactive use, for which CLARE is designed.</Paragraph>
+<Paragraph position="2"> The word identity and word boundary ambiguities encountered in the interpretation of errorful input often require the application of syntactic and semantic knowledge on a phrasal or even sentential scale. Such knowledge may be applied as soon as the problem is encountered; however, this brings major problems with it, such as the need for adequate lookahead, and the difficulties of engineering large systems where the processing levels are tightly coupled. To avoid such problems, CLARE adopts a staged architecture, in which indeterminacy is preserved until the knowledge needed to resolve it is ready to be applied. An appropriate representation is of course the key to doing this efficiently.</Paragraph>
+<Paragraph position="3"> *CLARE is being developed as part of a collaborative project involving SRI International, British Aerospace, BP Research, British Telecom, Cambridge University, the UK Defence Research Agency, and the UK Department of Trade and Industry.</Paragraph>
+</Section>
+</Paper>
+

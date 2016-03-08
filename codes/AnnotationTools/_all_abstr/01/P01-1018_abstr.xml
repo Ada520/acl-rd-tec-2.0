@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P01-1018">
+<Title>Constraints on strong generative power</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We consider the question &amp;quot;How much strong generative power can be squeezed out of a formal system without increasing its weak generative power?&amp;quot; and propose some theoretical and practical constraints on this problem. We then introduce a formalism which, under these constraints, maximally squeezes strong generative power out of context-free grammar.</Paragraph>
+<Paragraph position="1"> Finally, we generalize this result to formalisms beyond CFG.</Paragraph>
+</Section>
+</Paper>
+

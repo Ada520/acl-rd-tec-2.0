@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-3510">
+<Title></Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Fluid Construction Grammar (FCG) is a new linguistic formalism designed to explore in how far a construction grammar approach can be used for handling open-ended grounded dialogue, i.e. dialogue between or with autonomous embodied agents about the world as experienced through their sensory-motor apparatus. We seek scalable, open-ended language systems by giving agents both the ability to use existing conventions or ontologies, and to invent or learn new ones as the needs arise. This paper contains a brief introduction to the key ideas behind FCGanditscurrentstatus.</Paragraph>
+</Section>
+</Paper>
+

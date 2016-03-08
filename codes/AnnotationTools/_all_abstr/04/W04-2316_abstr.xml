@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-2316">
+<Title></Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Acknowledgments, e.g., &amp;quot;yeah&amp;quot; and &amp;quot;uh-huh,&amp;quot; are ubiquitous in human conversation but are rarer in human-computer interaction. What  interfacefactorsmightcontributetothisdifference? Using a simple spoken-language interface that responded to acknowledgments, we compared subjects' use of acknowledgments when the interface used recorded speech with that seen when the interface used synthesized speech. Contrary to our hypothesis, we saw a  dropinthenumbersofsubjectsusingacknowledgments: subjects appeared to interpret the recorded-voice interface as signalling a more limitedinterface.Theseresultswereconsistent for both Mexican Spanish and American English versions of the interface.</Paragraph>
+</Section>
+</Paper>
+

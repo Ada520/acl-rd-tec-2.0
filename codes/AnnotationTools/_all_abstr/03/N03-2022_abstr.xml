@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N03-2022">
+<Title>Semantic Extraction with Wide-Coverage Lexical Resources</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We report on results of combining graphical modeling techniques with Information Extraction resources (Pattern Dictionary and Lexicon) for both frame and semantic role assignment. Our approach demonstrates the use of two human built knowledge bases (WordNet and FrameNet) for the task of semantic extraction.</Paragraph>
+</Section>
+</Paper>
+

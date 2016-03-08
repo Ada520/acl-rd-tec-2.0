@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C94-1020">
+<Title>AN ENGLISH-TO-KOI~EAN MACHINE TI~ANSLATOR, : * ~' .:~ MA~ ES/EK</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This note introduces at, English-to-Korean Machiue 'lYanslation System MA!t'ES/EK, which ha.s been developed as a research prototype and is still under upgrading in KAIST (Korea Advanced Institute of Science and Technology). MATES/EK is a transfl:r.-ba.~ed system and it has several subsystems tt, at can be used to support other MT-developments. They are gram-.</Paragraph>
+<Paragraph position="1"> mar developing environment systems, dictionary developing tools, a set of angmented context free gritm Inars for English syntactic analysis, and so on.</Paragraph>
+</Section>
+</Paper>
+

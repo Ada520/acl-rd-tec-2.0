@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-1102">
+<Title>A Practical Text Summarizer by Paragraph Extraction for Thai</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we propose a practical approach for extracting the most relevant paragraphs from the original document to form a summary for Thai text. The idea of our approach is to exploit both the local and global properties of paragraphs. The local property can be considered as clusters of significant words within each paragraph, while the global property can be though of as relations of all paragraphs in a document. These two properties are combined for ranking and extracting summaries. Experimental results on real-world data sets are encouraging.</Paragraph>
+</Section>
+</Paper>
+

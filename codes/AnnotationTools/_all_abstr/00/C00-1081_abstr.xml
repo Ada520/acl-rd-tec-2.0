@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-1081">
+<Title>A Stochastic Parser Based on a Structural Word Prediction Model Shinsuke MORI, Masafumi NISHIMURA, Nobuyasu ITOH,</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> \]in this paper, we present a stochastic language model using dependency. This model considers a sentence as a word sequence and predicts each word from left to right. The history at each step of prediction is a sequence of partial parse krees covering the preceding words. First ore: model predicts the partial parse trees which have a dependency relation with the next word among them and then predicts the next word fi'om only the trees which have a dependency relation with the next word. Our: model is a generative stochastic model, thus this can be used not only as a parser but also as ~ language model of a speech recognizer. In our experiment, we prepared about 1,000 syntactically annotated Japanese sentences extracted fl'om a financial newspaper and estimated the parameters of our model. We built a parser based on our: model and tested it on approximately 10O sentences of the same newspaper. The accuracy of the dependency relation was 89.9%, the highest, accuracy level obtained by Japanese stochastic parsers.</Paragraph>
+</Section>
+</Paper>
+

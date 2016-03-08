@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H89-1037">
+<Title>Elements of a Computational Model of Cooperative Response Generation*</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> If natural language question-answering (NLQA) systems are to be truly effective and useful, they must respond to queries cooperatively, recognizing and accommodating in their replies a questioner's goals, plans, and needs. This paper concerns the design of cooperative response generation (CRG) systems, NLQA systems that are able to produce integrated cooperative responses. We propose two characteristics of a computational model of cooperative response generation. First, we argue that CRG systems should be able to explicitly reason about and choose among the different response options available to them in a given situation. Second, we suggest that some choices of response content motivate others--that through a process called reflection, respondents detect the need to explain, justify, clarify or otherwise augment information they have already decided to convey.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-2127">
+<Title>Automatic Retrieval and Clustering of Similar Words</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+lindek@ cs.umanitoba.ca
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Bootstrapping semantics from text is one of the greatest challenges in natural language learning.</Paragraph>
+<Paragraph position="1"> We first define a word similarity measure based on the distributional pattern of words. The similarity measure allows us to construct a thesaurus using a parsed corpus. We then present a new evaluation methodology for the automatically constructed thesaurus. The evaluation results show that the thesaurns is significantly closer to WordNet than Roget Thesaurus is.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-1403">
+<Title>Sydney, July 2006. c(c)2006 Association for Computational Linguistics CCG Chart Realization from Disjunctive Inputs</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a novel algorithm forefficientlygeneratingparaphrasesfrom disjunctive logical forms. The algorithm is couched in the framework of Combinatory Categorial Grammar (CCG) and has been implemented as an extension to the OpenCCG surface realizer. The algorithm makes use of packed representations similar to those initially proposed by Shemtov (1997), generalizing the approach in a more straightforward waythan in the algorithm ultimately adopted therein.</Paragraph>
+</Section>
+</Paper>
+

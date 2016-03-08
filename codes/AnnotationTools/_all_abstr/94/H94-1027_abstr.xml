@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H94-1027">
+<Title>Translating Collocations for Use in Bilingual Lexicons</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> Collocations are notoriously difficult for non-native speakers to translate, primarily because they are opaque and can not be translated on a word by word basis. We describe a program named Champollion which, given a pair of parallel corpora in two different languages, automatically produces translations of an input list of collocations.</Paragraph>
+<Paragraph position="1"> Our goal is to provide a tool to compile bilingual lexical information above the word level in multiple languages and domains. The algorithm we use is based on statistical methods and produces p word translations of n word collocations in which n and p need not be the same; the collocations can be either flexible or fixed compounds.</Paragraph>
+<Paragraph position="2"> For example, Champollion translates &amp;quot;to make a decision,&amp;quot; &amp;quot;employment equity,&amp;quot; and &amp;quot;stock market,&amp;quot; respectively into: &amp;quot;prendre une decision,&amp;quot; &amp;quot;tquit6 en mati~re d'emploi,&amp;quot; and &amp;quot;bourse.&amp;quot; Testing and evaluation of Champollion on one year's worth of the Hansards corpus yielded 300 collocations and their translations, evaluated at 77% accuracy. In this paper, we describe the statistical measures used, the algorithm, and the implementation of Champollion, presenting our results and evaluation.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-1237">
+<Title>Position Paper on Appropriate Audio/Visual Turing Test</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> Dr. Hugh Loebner in his 1994 article in Communications \[1\] makes the statement regarding future LP competitions, &amp;quot;the winner of the Loebner Grand Prize must develop a computer with associated hardware that can respond 'intelligently' to audio visual input in the manner that a human would .... Turing wrote, 'The question and answer method seems suitable for introducing any one of the fields of human endeavor that we wish to include.' Well, I would like to ask questions about images and pattern recognition. If the computer answers appropriately it is intelligent.&amp;quot; Some have said that requiring competitors to submit their programs to this kind of audio/visual interrogation is going overboard for what AI and robotics technology are prepared to offer \[2\]. The audio/visual requirement may prevent competitors from achieving the Loebner Grand Prize in the next ten years (yet I doubt it would have to take that long). However, observe how successful the scientists at Carnegie Mellon were able to be with the Navlab automated driving project in ten years \[3\].</Paragraph>
+<Paragraph position="1"> Improved technologies for object and speech recognition (major component parts of the imagined program/hardware) are continuely being developed \[4\].</Paragraph>
+<Paragraph position="2"> Little work has been done to consolidate neural recogition technologies and computational linguistics, to my knowledge \[5\]. Still, I believe that the most uncharted ground remains with determining sofrware requirements for passing the conventional Turing Test. The 'thinking' element which should allow a TT to be successfully passed is still largely unknown; i.e. the modeling of executive cognitive functions.</Paragraph>
+</Section>
+</Paper>
+

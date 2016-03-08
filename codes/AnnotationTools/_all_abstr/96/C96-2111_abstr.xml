@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-2111">
+<Title>Top-Down Predictive Linking and Complex-Feature-Based Formalisms</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Automatic compilation of the linking relation employed in certain parsing algorithms for context-free languages is examined. Special problems arise in the extension of these algorithms to the possibly infinite domain of feature structures. A technique is proposed which is designed specifically for left-recursive categories and is based on the generalization of their occurrences in a derivation. Particular attention is drawn to the top-down predictive character of the linking relation and to its significance not only as a filter for increasing the efficiency of syntactic analysis but as a device for the top-down instantiation of information, which then serves as a key to the directed analysis of inflected forms as well as &amp;quot;unknown&amp;quot; or &amp;quot;new&amp;quot; words.</Paragraph>
+</Section>
+</Paper>
+

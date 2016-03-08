@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C94-1061">
+<Title>CONCURRENT IJ~XICAIJZEI) I)EI)ENI)ENCY PARSING: THE ParseTalk MODEL</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+CONCURRENT IJ~XICAIJZEI) I)EI)ENI)ENCY PARSING:
+THE ParseTalk MODEL
+</SectionTitle>
+<Paragraph position="0"> Norbert Br6keh Udo Hahn &amp; Susanne Schacht Abstract. A grammar ,nodel for concurrent, object-oriented natural language l)arsing is introduced. Complete lexical distribution of grmnmatical knowledge is achieved huilding upon the head-oriented notions of valency and dependency, while inheritance mechanisms tire uscd to capture lexic;tl generalizations. The underlying concurrent computation m(xlel relies upon the actor l)aradigm. We consider message passing protocols for establishing del)cndency relations and amhiguity handling.</Paragraph>
+</Section>
+</Paper>
+

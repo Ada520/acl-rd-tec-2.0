@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P00-1063">
+<Title>Term Recognition Using Technical Dictionary Hierarchy</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In recent years, statistical approaches on ATR (Automatic Term Recognition) have achieved good results. However, there are scopes to improve the performance in extracting terms still further. For example, domain dictionaries can improve the performance in ATR. This paper focuses on a method for extracting terms using a dictionary hierarchy. Our method produces relatively good results for this task.</Paragraph>
+<Paragraph position="1"> Introduction In recent years, statistical approaches on ATR</Paragraph>
+<Paragraph position="3"> 1992; Dagan et al, 1994; Justeson and Katz, 1995; Frantzi, 1999) have achieved good results.</Paragraph>
+<Paragraph position="4"> However, there are scopes to improve the performance in extracting terms still further. For example, the additional technical dictionaries can be used for improving the accuracy in extracting terms. Although, the hardship on constructing an electronic dictionary was major obstacles for using an electronic technical dictionary in term recognition, the increasing development of tools for building electronic lexical resources makes a new chance to use them in the field of terminology. From these endeavour, a number of electronic technical dictionaries (domain dictionaries) have been acquired.</Paragraph>
+<Paragraph position="5"> Since newly produced terms are usually made out of existing terms, dictionaries can be used as a source of them. For example, 'distributed database' is composed of 'distributed' and 'database' that are terms in a computer science domain. Further, concepts and terms of a domain are frequently imported from related domains.</Paragraph>
+<Paragraph position="6"> For example, the term 'Geographical Information System (GIS)' is used not only in a computer science domain, but also in an electronic domain. To use these properties, it is necessary to build relationships between domains. The hierarchical clustering method used in the information retrieval offers a good means for this purpose. A dictionary hierarchy can be constructed by the hierarchical clustering method. The hierarchy helps to estimate the relationships between domains. Moreover the estimated relationships between domains can be used for weighting terms in the corpus. For example, a domain of electronics may have a deep relationship to that of computer science. As a result, terms in the dictionary of electronics domain have a higher probability to be terms of computer science domain than terms in the dictionary of others do (Felber, 1984).</Paragraph>
+<Paragraph position="7"> The recent works on ATR identify the candidate terms using shallow syntactic information and score the terms using statistical measure such as frequency. The candidate terms are ranked by the score and are truncated by the thresholds. However, the statistical method solely may not give accurate performance in case of small sized corpora or very specialized domains, where the terms may not appear repeatedly in the corpora.</Paragraph>
+<Paragraph position="8"> In our approach, a dictionary hierarchy is used to avoid these limitations. In the next section, we describe the overall method description. In section 2, section 3, and section 4, we describe primary methods and its details. In section 5, we describe experiments and results</Paragraph>
+</Section>
+</Paper>
+

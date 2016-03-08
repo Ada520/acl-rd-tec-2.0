@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W94-0333">
+<Title>Cross Modal Comprehension in ZARDOZ An English to Sign-Language Translation System</Title>
+<Section position="2" start_page="249" end_page="249" type="abstr">
+<SectionTitle>
+4. Interlingua and Schematization
+</SectionTitle>
+<Paragraph position="0"> To decouple the input and output languages, ZARDOZ adopts an lnterlingua approach (e.g.</Paragraph>
+<Paragraph position="1"> Mitamura et al 1991), which places a language-independent interface between source and target. Rather than attempting to construct a universal grammar generalising over the syntactic forms of many languages, we take the knowledge based path of modelling sentence meaning in the interlingua. This reflects the origins of ZARDOZ in the TWIG knowledge-acquisition system (Veale &amp; Cunningham 1992).</Paragraph>
+<Paragraph position="2"> The first-cut interlingua representation of an utterance is derived compositionally from lexeme-toconcept correspondences. Next schematization removes conventional metonymies and metaphors as illustrated in Figure 2, which demonstrates the use of the core English metaphor POSSESSION-AS-ABSTRACT-STATE (see Veale &amp; Keane 1992 for a discussion of the computational treatment of metaphor).</Paragraph>
+<Paragraph position="3"> The first-cut representation is the interlingua frame HAVE-0, with the concepts *SPEAKER* and HEADACHE-0 in the slots POSSESSOR and POSSESSION. Next the system looks for the most suitable schema for this frame, using spreading activation from the nodes HAVE, *SPEAKER* and HEADACHE. On finding a suitable schema, SUFFER-FROM-AILMENT, the concepts *SPEAKER* and HEADACHE-0 are re-mapped into the slots SUFFERER and AILMENT.</Paragraph>
+<Paragraph position="4"> The importance of the schematization phase can be seen when one considers that ASL has a sign for HAVE (possession), but does not use the metaphor of possession for ailments. Thus a translation from the first-cut representation meaning &amp;quot;I posses a headache&amp;quot; is possible, but incorrect in ASL.</Paragraph>
+<Paragraph position="5"> I have a terrible headache</Paragraph>
+</Section>
+</Paper>
+

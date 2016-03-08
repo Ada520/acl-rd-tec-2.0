@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0401">
+<Title>Discourse particles and routine formulas in spoken language translation</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The problem of polysemy has received much attention when dealing with contentwords, but it is just as difficult for discourse particles: In spoken language, they often perform various functions for dialogue management, rather than contributing to propositional content. Different languages have evolved different conventions on using such particles, which renders the task for spoken language translation quite difficult. We focus here on particles in German, suggest a framework for representing their roles in utterances, and sketch an approach for adequately translating them into English.</Paragraph>
+</Section>
+</Paper>
+

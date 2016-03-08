@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-0503">
+<Title>At Your Service: Embedded MT As a Service</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A growing trend in Machine Translation (MT) is to view MT as an embedded part of an overall process instead of an end result itself. For the last four years, we have fielded (primarily) Commercial-Off-The-Shelf (COTS) MT systems in an operational process. MT has been used to facilitate cross-language information retrieval (IR), topic detection and other, wide-scoped scenarios. These uses caused a fundamental shift in our views about MT - everything from user interface to system evaluation to the basic system structures. This paper presents our lessons learned in developing an MT service for a wide range of user needs.</Paragraph>
+<Paragraph position="1"> Introduction .-, The foreign language material to be handled by the government is increasingly diverse and problematic. Foreign language processing needs are increasing because of the changing conditions of the world. Traditionally, users could focus on just a few foreign languages and a limited number of sources of foreign language materials. As we begin the 21 ~' century, users of online materials are faced with having to process, utilise and exploit documents that may be in one of many languages or a combination of languages. It is not feasible to expect a given user to know all of the languages related to their topic of research. It is equally unrealistic to expect to have on-demand translators available in every language whenever they are needed.</Paragraph>
+<Paragraph position="2"> Because of the expanding need, tools are being developed to automate the use of foreign language materials.</Paragraph>
+<Paragraph position="3"> Unlike previous views of tools, the current vision for machine translation (MT) is as a small part of a larger, mostly automated process. For many users, this does not mean yet another tool with yet another interface, but a nearly invisible companion that incorporates translation and necessary support technologies. One such system, the Army Research Lab (ARL) FALCON system, combines scanning, optical character recognition (OCR), translation and filtering into a single process. Another view of this is the DARPA Translingual Information Detection, Extraction and Summarisation effort (TIDES). TIDES represents the pinnacle of information access and is a real challenge for MT. MT supports the translingual aspects of the effort and can be viewed as an embedded tool which facilitates other technologies. Finally, the integration of MT into the process for intelligence analysis serves as the basis for the CyberTrans project. For this paper, we will discuss the CyberTrans project, the lessons learned and the supporting technologies necessary for the successful integration of MT into other systems.</Paragraph>
+</Section>
+</Paper>
+

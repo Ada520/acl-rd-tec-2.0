@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1136">
+<Title>Significance tests for the evaluation of ranking methods</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a statistical model that interprets the evaluation of ranking methods as a random experiment. This model predicts the variability of evaluation results, so that appropriate significance tests for the results can be derived. The paper concludes with an empirical validation of the model on a collocation extraction task.</Paragraph>
+</Section>
+</Paper>
+

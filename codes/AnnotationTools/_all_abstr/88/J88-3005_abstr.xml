@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J88-3005">
+<Title>REASONING ON A HIGHLIGHTED USER MODEL TO RESPOND TO MISCONCEPTIONS</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+REASONING ON A HIGHLIGHTED USER MODEL
+TO RESPOND TO MISCONCEPTIONS
+</SectionTitle>
+<Paragraph position="0"> Responses to misconceptions given by human conversational partners very often contain information refuting possible reasoning which may have led to the misconceptions. Surprisingly there is a great deal of regularity in these responses across different domains of discourse. For instance, one reason a user might have given an object a property it does not have is that the user confused the object with another similar object. In correcting such a misconception, a human conversational partner is likely to point out this possible confusion.</Paragraph>
+<Paragraph position="1"> This work describes a method for generating responses like the one just described by reasoning on a highlighted model of the user to identify possible sources of the error. Through a transcript study a number of response strategies were abstracted. Each strategy was associated with a structural configuration of the user model. For example, the above mentioned strategy of pointing out a similar confused object is associated with a configuration of the user model that indicates the user believes there is an important similar object that has the property involved in the misconception. Upon finding that configuration in the highlighted user model, the system can respond with the associated strategy.</Paragraph>
+<Paragraph position="2"> Notice that the reasoning must be done on a highlighted user model since the perception of both an object's importance and its similarity with another object change with the perspective being taken on the domain. This paper investigates how domain perspective can be modeled to provide the needed highlighting and introduces a similarity metric that is sensitive to the highlighting provided by the domain perspective. Finally, the paper shows how the highlighting affects misconception responses.</Paragraph>
+</Section>
+</Paper>
+

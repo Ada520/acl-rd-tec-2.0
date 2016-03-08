@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-2110">
+<Title>Automatic Identification of English Verb Particle Constructions using Linguistic Features</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a method for identifying token instances of verb particle constructions (VPCs) automatically, based on the output of the RASP parser. The proposed method pools together instances of VPCs and verb-PPs from the parser output and uses the sentential context of each such instance to differentiate VPCs from verb-PPs. We show our technique to perform at an F-score of 97.4% at identifying VPCs in Wall Street Journal and Brown Corpus data taken from the Penn Treebank. null</Paragraph>
+</Section>
+</Paper>
+

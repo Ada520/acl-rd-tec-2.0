@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-2099">
+<Title>Segmenting Sentences into Linky Strings Using D-bigram Statistics</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> It is obvious that segmentation takes an important role in natural language processing(NLP), especially for the languages whose sentences are not easily separated into morphemes. In this study we propose a method of segmenting a sentence. The system described in this paper does not use any grammatical information or knowledge in processing. Instead, it uses statistical information drawn from non-tagged corpus of the target language. Most of the segmenting systems are to pick out conventional morphemes which is defined for human use. However, we still do not know whether those conventional morphemes are good units for computational processing.</Paragraph>
+<Paragraph position="1"> In this paper we explain our system's algorithm and its experimental results on Japanese, though this system is not designed for a particular language.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-1092">
+<Title>Applying Lexical Rules Under Subsumption</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Lexical rules are used in constraint-based grammar formalisms such as llead-Driven l)hrase Structure Grammar (IIPSG) (Pollard and Sag 1994) to express generalizations atnong lexical entries. '\['his paper discusses a number of lexical rules from recent I\[PSG analyses of German (tlinri&lt;;hs and Nakazawa 1994) and shows that the grammar in some cases vastly overgenerates and in other cases introduces massive spurious structural ambiguity, if lexical rules ap: ply under unification. Such l)rot)lems of overgeneration or spurious ambiguity do not arise, if a lexical rule al)plies to a given lexical ent;ry iff the lexical entry is subsumed by the left:hand side of the lexical rule. I,'inally, the paper discusses computational consequcnce~s of at)plying lexical rules under subsuml)tion.</Paragraph>
+</Section>
+</Paper>
+

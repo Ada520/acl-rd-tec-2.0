@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-1051">
+<Title>Committee-based Decision Making in Probabilistic Partial Parsing</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper explores two directions ibr the next step beyond the state of the art of statistical parsing: probabilistic partial parsing and committee-based decision making. Probabilistic partial parsing is a probabilistic extension of the existing notion of partial parsing~ which enables fine-grained arbitrary choice on the trade-off between accuracy and coverage. Committee-based decision making is to combine the outputs from different systems to make a better decision. While varions committee-based techniques for NLP have recently been investigated, they would need to be fln'ther extended so as to be applicable to probabilistic partial parsing. Aiming at this coupling, this paper gives a general fl'amework to committee-based decision making, which consists of a set of weighting flmctions and a combination function, and discusses how it can be coupled with probabilistic partial parsing. Our ext)eriments have so far been producing promising results.</Paragraph>
+</Section>
+</Paper>
+

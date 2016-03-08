@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W01-1412">
+<Title>A Comparative Study on Translation Units for Bilingual Lexicon Extraction</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents on-going research on automatic extraction of bilingual lexicon from English-Japanese parallel corpora. The main objective of this paper is to examine various N-gram models of generating translation units for bilingual lexicon extraction. Three N-gram models, a baseline model (Bound-length N-gram) and two new models (Chunk-bound N-gram and Dependency-linked N-gram) are compared. An experiment with 10000 English-Japanese parallel sentences shows that Chunk-bound N-gram produces the best result in terms of accuracy (83%) as well as coverage (60%) and it improves approximately by 13% in accuracy and by 5-9% in coverage from the previously proposed baseline model.</Paragraph>
+</Section>
+</Paper>
+

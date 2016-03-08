@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-0121">
+<Title>Chinese Word Segmentation with Maximum Entropy and N-gram Language Model</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents the Chinese word segmentation systems developed by Speech and Hearing Research Group of National Laboratory on Machine Perception (NLMP) at Peking University, which were evaluated in the third International Chinese Word Segmentation Bakeoff held by SIGHAN. The Chinese character-based maximum entropy model, which switches the word segmentation task to a classification task, is adopted in system developing. To integrate more linguistics information, an n-gram language model as well as several post processing strategies are also employed. Both the closed and open tracks regarding to all four corpora MSRA, UPUC, CITYU, CKIP are involved in our systems' evaluation, and good performance are achieved. Especially, in the closed track on MSRA, our system ranks 1st.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-1207">
+<Title>Classifying Particle Semantics in English Verb-Particle Constructions</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Previous computational work on learning the semantic properties of verb-particle constructions (VPCs) has focused on their compositionality, and has left unaddressed the issue of which meaning of the component words is being used in a given VPC.</Paragraph>
+<Paragraph position="1"> We develop a feature space for use in classification of the sense contributed by the particle in a VPC, and test this on VPCs using the particle up. The features that capture linguistic properties of VPCs that are relevant to the semantics of the particle outperform linguistically uninformed word co-occurrence features in our experiments on unseen test VPCs.</Paragraph>
+</Section>
+</Paper>
+

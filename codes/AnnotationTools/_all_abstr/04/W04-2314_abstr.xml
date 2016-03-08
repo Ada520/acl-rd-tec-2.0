@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-2314">
+<Title>Bootstrapping Spoken Dialog Systems with Data Reuse</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Building natural language spoken dialog systems requires large amounts of human transcribed and labeled speech utterances to reach useful operational service performances. Furthermore, the design of such complex systems consists of several manual steps. The User Experience (UE) expert analyzes and de nes by hand the system core functionalities: the system semantic scope (call-types) and the dialog manager strategy which will drive the human-machine interaction. This approach is extensive and error prone since it involves several non-trivial design decisions that can only be evaluated after the actual system deployment. Moreover, scalability is compromised by time, costs and the high level of UE know-how needed to reach a consistent design. We propose a novel approach for bootstrapping spoken dialog systems based on reuse of existing transcribed and labeled data, common reusable dialog templates and patterns, generic language and understanding models, and a consistent design process. We demonstrate that our approach reduces design and development time while providing an effective system without any application speci c data.</Paragraph>
+</Section>
+</Paper>
+

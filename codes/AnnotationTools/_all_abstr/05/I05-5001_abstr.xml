@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="I05-5001">
+<Title>Support Vector Machines for Paraphrase Identification and Corpus Construction</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The lack of readily-available large corpora of aligned monolingual sentence pairs is a major obstacle to the development of Statistical Machine Translation-based paraphrase models. In this paper, we describe the use of annotated datasets and Support Vector Machines to induce larger monolingual paraphrase corpora from a comparable corpus of news clusters found on the World Wide Web. Features include: morphological variants; WordNet synonyms and hypernyms; loglikelihood-based word pairings dynamically obtained from baseline sentence alignments; and formal string features such as word-based edit distance. Use of this technique dramatically reduces the Alignment Error Rate of the extracted corpora over heuristic methods based on position of the sentences in the text.</Paragraph>
+</Section>
+</Paper>
+

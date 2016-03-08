@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-1006">
+<Title>Voyellation automatique de l'arabe</Title>
+<Section position="1" start_page="0" end_page="42" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We tackle the problem of automatic, or at least assisted, voc..aliT~tiorl, a problem that arises from the almost universal absence of vowels in Arabic texts.</Paragraph>
+<Paragraph position="1"> We show that the problem of vocalization resides in the fact that the majority of Arabic words accept several potential vocalizations and are therefore ambiguous.</Paragraph>
+<Paragraph position="2"> In essence, the problem reduces to choosing, in context, the correct vocalization from among several. We focus here on the results obtained by starting with morphological analysis and proceeding to a grammatical (part-of-speech) tagging.</Paragraph>
+<Paragraph position="3"> In the proposed system, the vocalic ambiguity is detected by means of a double dictiona~ ofvoweled and non-voweled forms. The process of resolution is set in motion starting with morphological analysis and continuing through subsequent steps. The experiments described here concern the treatment as far as grammatical (part-of-speech) tagging.</Paragraph>
+<Paragraph position="4"> R&amp;um~ Nous abordons le probl~me de la voyellation que nous voulons automatique ou du moins assistS, probl~me issu de l'absence quasi syst~matique des voyelles dans les textes arubes.</Paragraph>
+<Paragraph position="5"> Nous montrons que le probl~me de la voyellation r~side darts le fait clue les mots arabes a~-ptent dans leur majofit6 plusieurs voyellatious potentielles, qu'ils sent done ambigus. De fa~on essentielle, le probl~me revient fi choisir en contexte la bonne voyellation parm/plusieurs.</Paragraph>
+<Paragraph position="6"> Nous focalisons ici sur les r&amp;ultats obtenus au sonir de l'armlyse morphologique d'abord et de l'~tiquetage grammatical ensuite.</Paragraph>
+<Paragraph position="7"> Darts le syst~me propose, l'ambiguit~ vo~lique est d~te~a~ au moyen d'un double di~ionnaire non voyell~/voyell~. Le processus de r&amp;olution est enclenchd d~s l'analyse morphologique et se continue dans les drapes ult&amp;ieures. Les ex~rimentafions d&amp;rites ici concement les traitements qui vent jusqu'fi l'~tiquetage grammatical.</Paragraph>
+</Section>
+</Paper>
+

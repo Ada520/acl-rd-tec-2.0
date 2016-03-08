@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-0112">
+<Title>Sydney, July 2006. c(c)2006 Association for Computational Linguistics A Hybrid Approach to Chinese Base Noun Phrase Chunking</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we propose a hybrid approach to chunking Chinese base noun phrases (base NPs), which combines SVM (Support Vector Machine) model and CRF (Conditional Random Field) model. In order to compare the result respectively from two chunkers, we use the discriminative post-processing method, whose measure criterion is the conditional probability generated from the CRF chunker. With respect to the special structures of Chinese base NP and complete analyses of the first two results, we also customize some appropriate grammar rules to avoid ambiguities and prune errors. According to our overall experiments, the method achieves a higher accuracy in the final results.</Paragraph>
+</Section>
+</Paper>
+

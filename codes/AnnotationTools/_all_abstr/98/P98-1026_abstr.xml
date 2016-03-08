@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-1026">
+<Title>Separating Surface Order and Syntactic Relations in a Dependency Grammar</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+D-70174 Stuttgart
+NOBI~IMS. UNI-STUTTGART. DE
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper proposes decoupling the dependency tree from word order, such that surface ordering is not determined by traversing the dependency tree. We develop the notion of a word order domain structure, which is linked but structurally dissimilar to the syntactic dependency tree. The proposal results in a lexicalized, declarative, and formally precise description of word order; features which lack previous proposals for dependency grammars. Contrary to other lexicalized approaches to word order, our proposal does not require lexical ambiguities for ordering alternatives. null</Paragraph>
+</Section>
+</Paper>
+

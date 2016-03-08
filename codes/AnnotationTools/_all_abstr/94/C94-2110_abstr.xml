@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C94-2110">
+<Title>Virtual Polysemy</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present an approach to lexical knowledge representation where different uses of the same word can be conflated into a single meta-entry which encodes regnlarities about sense/usage extensibility.</Paragraph>
+<Paragraph position="1"> This approach makes it possible to solve lexical anrbiguities by using contextual information (luring language processing to ground underspecified word entries, and can be efficiently implemented within a typed feature structure formalism.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W99-0509">
+<Title>An Overt Semantics with a Machine-guided Approach for Robust LKBs</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we report on our experience in buildmg computational semantic lexicons for use in NLP applications In a machine-graded approach, the computer reduces part of the semantic knowledge to be acquired by an acqulrer An overt semantics can help predict the syntactic behavior of words By overt semantics we mean applying the hnkmg or lexlcal rules at the semantic level and not on lexlcal base forms More specffically~ we address the different strategies of acqms~tlon arguing for an applicationdriven, training-intensive effort We also report on how to develop lexicons using off the shelf resources, and address multlhngual issues We will try to provide an assessment of the difficulties we encountered and some directions to bypass them</Paragraph>
+</Section>
+</Paper>
+

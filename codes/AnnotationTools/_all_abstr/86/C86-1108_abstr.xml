@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C86-1108">
+<Title>User Specification of Syntactic Case Frames in TELI, A Transportable, User-Customized Natural Language Processor</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> In this paper, we present methods that allow the users of a natural language processor (NLP) to define, inspect, and modify any case frame information associated with the words and phrases known to the system. An implementation of this work forms a critical part of the Transportable English-Language Interface (TELI) system. However, our techniques have enabled customization capabilities largely independent of the specific NLP for which information is being acquired.</Paragraph>
+<Paragraph position="1"> The primary goal of the syntactic acquisitions of TELI is to redress the fact that many NL prototypes have failed (1) to make known to users exactly what inputs are allowed (e.g. what words and phrases are defined) and (2) to meet the needs of a given user or group of users (e.g. appropriate vocabulary, syntax, and semantics). Experience has shown that neither users nor system designers can predict in advance all the words, phrases, and associated meanings that will arise in accessing a given database (cf. Tennant, 1977). Thus, we have chosen to make TELl &amp;quot;transportable&amp;quot; in an extreme sense, where customizations may be performed (1) by end users, as opposed to computer professionals, and (2) at any time during English processing.</Paragraph>
+<Paragraph position="2"> The current prototype of TELI, which runs on a Symbolics Lisp Machine, derives from work at Duke University on the LDC project (Ballard, 1982; Ballard, 1984; Ballard, Lusth, and Tinkharn, 1984; Ballard and Tinkham, 1984). The top-level menu of TELl, and also a sample snapshot of a session with TELl, which may give the flavor of how the System operates, are shown in</Paragraph>
+</Section>
+</Paper>
+

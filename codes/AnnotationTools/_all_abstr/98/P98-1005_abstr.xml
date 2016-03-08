@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-1005">
+<Title>Parole et traduction automatique : le module de reconnaissance RAPHAEL</Title>
+<Section position="2" start_page="36" end_page="36" type="abstr">
+<SectionTitle>
+2 Le Module RAPHAEL
+</SectionTitle>
+<Paragraph position="0"> L'architecture du module de reconnaissance RAPHAEL est pr6sent6e sur la \[Fig. 3\].</Paragraph>
+<Paragraph position="1"> L'analyse de la parole produit une suite de vecteurs de param6tres acoustiques. Ces vecteurs sont utilis6s par un moteur de recherche base de CMC pour estimer la suite des phon6mes 6none6s. Un module de langage stochastique /~ bigramme et trigramme, et un dictionnaire des variantes phon6tiques sont en parall61e exploit6s pour restreindre le champ de recherche I. Au cours de la recherche le dictionnaire phon6tique fournit le(s) phon6me(s) suivant(s). Le mod61e probabiliste de langage base de bigramme et de trigramme est utilis6 lors de la transition entre deux mots pour fournir un ensemble de mots \[Fig. 4\].</Paragraph>
+<Section position="1" start_page="36" end_page="36" type="sub_section">
+<SectionTitle>
+2.1 Cha\[ne de Markov Cach~es
+</SectionTitle>
+<Paragraph position="0"> Pour utiliser les CMC il faut conduire une phase d'apprentissage pr6alable dans laquelle on adapte les probabilit6s des transitions et des symboles sortis pour un phon6me donn6 de mani~re /~ ce que la probabilit6 du processus  d'apprentissage.</Paragraph>
+<Paragraph position="1"> RAPHAEL comporte 45 CMC repr6sentant 42 phonemes de base du frangais et 3 mod61es pour le silence et le bruit. A quelques exceptions pros les CMC se composent de trois 6tats. Le vecteur de param~tres d'entr6e est de dimension 122. Les CMC ont 16 distributions Gaussiennes pour chaque 6tat.</Paragraph>
+<Paragraph position="2"> Lors de l'apprentissage nous produisons la transcription phon6tique correspondante /~ chaque 6nonc6 (cela se fait /~ l'aide du dictionnaire phon6tique). Pour chaque 6nonc6 les CMC correspondant aux phon6mes sont concat6n6es pour cr6er une longue chaSne.</Paragraph>
+<Paragraph position="3"> Ensuite l'algorithme de Viterbi \[5\] propose un alignement de l'6nonc6 avec cette chaine. Avec</Paragraph>
+</Section>
+</Section>
+</Paper>
+

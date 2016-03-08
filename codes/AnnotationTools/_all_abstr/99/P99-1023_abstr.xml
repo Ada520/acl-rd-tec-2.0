@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P99-1023">
+<Title>A Second-Order Hidden Markov Model for Part-of-Speech Tagging</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes an extension to the hidden Markov model for part-of-speech tagging using second-order approximations for both contextual and lexical probabilities. This model increases the accuracy of the tagger to state of the art levels. These approximations make use of more contextual information than standard statistical systems. New methods of smoothing the estimated probabilities are also introduced to address the sparse data problem.</Paragraph>
+</Section>
+</Paper>
+

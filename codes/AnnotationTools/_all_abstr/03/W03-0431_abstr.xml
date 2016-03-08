@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-0431">
+<Title>Meta-Learning Orthographic and Contextual Models for Language Independent Named Entity Recognition</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a named entity classification system that utilises both orthographic and contextual information. The random subspace method was employed to generate and refine attribute models. Supervised and unsupervised learning techniques used in the recombination of models to produce the final results.</Paragraph>
+</Section>
+</Paper>
+

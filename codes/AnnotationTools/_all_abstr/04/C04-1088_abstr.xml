@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1088">
+<Title>Linguistic correlates of style: authorship classification with deep linguistic analysis features</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The identification of authorship falls into the category of style classification, an interesting sub-field of text categorization that deals with properties of the form of linguistic expression as opposed to the content of a text. Various feature sets and classification methods have been proposed in the literature, geared towards abstracting away from the content of a text, and focusing on its stylistic properties. We demonstrate that in a realistically difficult authorship attribution scenario, deep linguistic analysis features such as context free production frequencies and semantic relationship frequencies achieve significant error reduction over more commonly used &amp;quot;shallow&amp;quot; features such as function word frequencies and part of speech trigrams. Modern machine learning techniques like support vector machines allow us to explore large feature vectors, combining these different feature sets to achieve high classification accuracy in style-based tasks.</Paragraph>
+</Section>
+</Paper>
+

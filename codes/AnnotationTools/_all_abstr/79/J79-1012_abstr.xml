@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J79-1012">
+<Title>American Journal of Computational Linguistics</Title>
+<Section position="1" start_page="0" end_page="1" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Yerkish, the language descritr4d in this paper, was devigrred for the purpose of exploring the extent to which non-human organisms (e.g.</Paragraph>
+<Paragraph position="1"> great apes) could be t-,rougiit to acquire linguistic skills. First attempts at teaching a spoken language to non-human primates had failed, app3rently because ol tlle animals' incapacity vocally. to produce tlle phonemes of a natural language. Subsequent work (Gardner G Cardner, 1971; I'remack, 1971) demonstrated that colr.munication could be achieved Ey means of visual signs or symbols.</Paragraph>
+<Paragraph position="2"> Yerkish is a visual language with a lexicon of gsaplric word symbols (lexigrams), each of whicl;l is a combination of discrete recursive-design elements. Each lexigram is represented on one of 125 keys of a keyboard, Sentences are formed by pressing keys in successive order. Sentence length, at present, is limited to seven lexigrams. Input from the keyboard is monitored and recorded by a computer that, contains in its core the lexicon, A parser, and certain response capabilities.</Paragraph>
+<Paragraph position="3"> The grammar is strictly interpretive and was derived fror t1:e  correlational' systkm implenlented in the ?Iult is tore parser for 1:n~lisP. sentences (von Clasersfeld.&amp; Pisani, 197-0). ?he parser works on the basis of essentially non-lingui~tic classifications of items arkd relational concepts (tables of the operational classes are provided in this Faper). It produces a structural analysis in terms of imr?.ediat,e constituents. If an input string yields one comprehensive structure, the string is deemed grammat.ica1. The first- lexigram functions as a sentence marker indicating the mood of the utterance: affirmative, negative, interrogative, and imperative. In the case of certain requests (imperatives), the conputer activates mechanical devices that fulfil the request (dispensing food, drink, toys, playing music or a movie, etc.) Given this response capability, a 24-hour learning situation is created in which there .is always some 'potential incentive for the animal to use linguistic communication.</Paragraph>
+<Paragraph position="4"> Yerkish lexigrams and sentences are easily translated into English, but semantics and sentence structure are somewhat restricted. Lexigrarns alvays have only one meaning of the corresponding English and the rules for their concatenation \$ere designed to reduce ambiguities to a minimum.</Paragraph>
+<Paragraph position="5"> The paper explains deviations from ~nglish grammar by means of structural diagrams and demonstrates that, in spite of the many simpli f ications, Yerkish allows for embedded clau-ses and is, indeed, capable of expansion in many directions.</Paragraph>
+<Paragraph position="6"> ? Three examples of conversqtions' with the young female chimpanzee that is being taught the use of Yerkish are added as an appendix to the paper.</Paragraph>
+</Section>
+</Paper>
+

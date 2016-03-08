@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P95-1048">
+<Title>Semantic Information Preprocessing for Natural Language Interfaces to Databases</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> An approach is described for supplying selectional restrictions to parsers in natural language interfaces (NLIs) to databases by extracting the selectional restrictions from semantic descriptions of those NLIs. Automating the process of finding selectional restrictions reduces NLI development time and may avoid errors introduced by hand-coding selectional restrictions.</Paragraph>
+</Section>
+</Paper>
+

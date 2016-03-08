@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H93-1009">
+<Title>A * Bilingual VOYAGER System 1</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> This paper describes our initial efforts at porting the VOYAGER spoken language system to Japanese. In the process we have reorganized the structure of the system so that language dependent information is separated from the core engine as much as possible. For example, this information is encoded in tabular or rule-based form for the natural language understanding and generation components. The internal system manager, discourse and dialogue component, and database are all maintained in language transparent form.</Paragraph>
+<Paragraph position="1"> Once the generation component was ported, data were collected from 40 native speakers of Japanese using a wizard collection paradigm. A portion of these data was used to train the natural language and segment-based speech recognition components. The system obtained an overall understanding accuracy of 52~0 on the test data, which is similar to our earlier reported results for English \[i\].</Paragraph>
+</Section>
+</Paper>
+

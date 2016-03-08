@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-1023">
+<Title>Word Sense Disambiguation of Adjectives Using Probabilistic Networks</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, word sense dismnbiguation (WSD) accuracy achievable by a probabilistic classifier, using very milfimal training sets, is investigated. \Ve made the assuml)tiou that there are no tagged corpora available and identified what information, needed by an accurate WSD system, can and cmmot be automatically obtained. The lesson learned can then be used to locus on what knowledge needs malmal annotation. Our system, named Bayesian Hierarchical Disambiguator (BHD), uses the Internet, arguably tile largest corlms in existence, to address the st)arse data problem, and uses WordNet's hierarchy tbr semantic contextual features. In addition, Bayesian networks are automatically constructed to represent knowledge learned from training sets by lnodeling the selectional i)retbrence of adjectives. These networks are then applied to disaml)iguation by pertbrming inferences on unseen adjective-noun pairs.</Paragraph>
+<Paragraph position="1"> We demonstrate that this system is able to disambiguate adjectives in um'estricl;ed text at good initial accuracy rates without tile need tbr tagged corpora.</Paragraph>
+<Paragraph position="2"> The learning and extensibility aspects of the model are also discussed, showing how tagged corpora and additional context can be incorporated easily to improve accm'acy, and how this technique can be used to disambiguate other types of word pairs, such as verb-noun and adverb-verb pairs.</Paragraph>
+</Section>
+</Paper>
+

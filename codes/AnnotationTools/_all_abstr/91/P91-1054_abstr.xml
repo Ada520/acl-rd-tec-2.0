@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P91-1054">
+<Title>Current Research in the Development of a Spoken Language Understanding System using PARSEC*</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> We are developing a spoken language system which would more effectively merge natural language and speech recognition technology by using a more flexible parsing strategy and utilizing prosody, the suprasegmental information in speech such as stress, rhythm, and intonation.</Paragraph>
+<Paragraph position="1"> There is a considerable amount of evidence which indicates that prosodic information impacts human speech perception at many different levels \[5\]. Therefore, it is generally agreed that spoken language systems would benefit from its addition to the traditional knowledge sources such as acoustic-phonetic, syntactic, and semantic information. A recent and novel approach to incorporating prosodic information, specifically the relative duration of phonetic segments, was developed by Patti Price and John Bear \[1, 4\].</Paragraph>
+<Paragraph position="2"> They have developed an algorithm for computing break indices using a hidden Markov model, and have modified the context-free grammar rules to incorporate links between non-terminals which corresponded to the break indices. Although incorporation of this information reduced the number of possible parses, the processing time increased because of the addition of the link nodes in the grammar.</Paragraph>
+</Section>
+</Paper>
+

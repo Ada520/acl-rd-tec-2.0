@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-2321">
+<Title>On the use of confidence for statistical decision in dialogue strategies</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes an interpretation and decision strategy that minimizes interpretation errors and perform dialogue actions which may not depend on the hypothesized concepts only, but also on confidence of what has been recognized. The concepts introduced here are applied in a system which integrates language and interpretation models into Stochastic Finite State Transducers (SFST). Furthermore, acoustic, linguistic and semantic confidence measures on the hypothesized word sequences are made available to the dialogue strategy. By evaluating predicates related to these confidence measures, a decision tree automatically learn a decision strategy for rescoring a n-best list of candidates representing a user's utterance. The different actions that can be then performed are chosen according to the confidence scores given by the tree.</Paragraph>
+</Section>
+</Paper>
+

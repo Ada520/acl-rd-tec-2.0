@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P04-3025">
+<Title>Incorporating topic information into sentiment analysis models</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper reports experiments in classifying texts based upon their favorability towards the subject of the text using a feature set enriched with topic information on a small dataset of music reviews hand-annotated for topic. The results of these experiments suggest ways in which incorporating topic information into such models may yield improvement over models which do not use topic information.</Paragraph>
+</Section>
+</Paper>
+

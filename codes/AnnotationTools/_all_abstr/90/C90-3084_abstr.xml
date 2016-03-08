@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-3084">
+<Title>A PARLOG Implementation of Government-Binding Theory</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+USA
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> Tile purpose of this paper is to report on research on a parallel parser based on the principles and constraints of Government-Binding Theory. The parser outputs a set of licensing relations, notably thematic or 0-role assignments and antecedent/anaphor and other binding relationships, The primary goal of the system ix as a liaguistics tool for exploring concurrency and autonomy among ir~odules of tile theory.</Paragraph>
+</Section>
+</Paper>
+

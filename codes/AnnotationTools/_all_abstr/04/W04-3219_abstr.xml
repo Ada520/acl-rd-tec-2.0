@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-3219">
+<Title>Monolingual Machine Translation for Paraphrase Generation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We apply statistical machine translation (SMT) tools to generate novel paraphrases of input sentences in the same language.</Paragraph>
+<Paragraph position="1"> The system is trained on large volumes of sentence pairs automatically extracted from clustered news articles available on the World Wide Web. Alignment Error Rate (AER) is measured to gauge the quality of the resulting corpus. A monotone phrasal decoder generates contextual replacements.</Paragraph>
+<Paragraph position="2"> Human evaluation shows that this system outperforms baseline paraphrase generation techniques and, in a departure from previous work, offers better coverage and scalability than the current best-of-breed paraphrasing approaches.</Paragraph>
+</Section>
+</Paper>
+

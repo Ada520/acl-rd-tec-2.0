@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A94-1028">
+<Title>Robust Text Processing in Automated Information Retrieval</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We report on the results of a series of experiments with a prototype text retrieval system which uses relatively advanced natural language processing techniques in order to enhance the effectiveness of statistical document retrieval. In this paper we show that large-scale natural language processing (hundreds of millions of words and more) is not only required for a better retrieval, but it is also doable, given appropriate resources. In particular, we demonstrate that the use of syntactic compounds in the representation of database documents as well as in the user queries, coupled with an appropriate term weighting strategy, can considerably improve the effectiveness of retrospective search. The experiments reported here were conducted on TIP-STER database in connection with the Text REtrieval Conference series (TREC). 1</Paragraph>
+</Section>
+</Paper>
+

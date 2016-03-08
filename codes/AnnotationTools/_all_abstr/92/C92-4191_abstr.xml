@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C92-4191">
+<Title>Indexation de textes : l'apprentissage des concepts</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> hi technical fields, mmly documents go unread due to a lack of awareness of their existence. A system which indexes texts can find all relevant texts in response to a query. The problem is to establish the indexation. At present, adwmced full text systems automatically index texts on the complete thesaurus with computed weights. Another way of doing this carl be a person choosing the set of relevant concepts. This second solution is better but more costly and dependent on the classification choices made by the operator.</Paragraph>
+<Paragraph position="1"> To meet these problems, ANA (Auomatic Natural Acquisition) had been developed. This system automatically extracts relevant concepts from free texts to produce a semantic network. It does not rely on grammar or lexicon but, instead, is based on ,an original statistical method.</Paragraph>
+<Paragraph position="2"> This research brings about two developments : oll one hand the system is also capable of extracting the simple grammatical structures it encounters, most often in order to improve its performance, and on the other hand this will lead to an automatic definition of semantic classes of concepts, in order to structure the network.</Paragraph>
+</Section>
+</Paper>
+

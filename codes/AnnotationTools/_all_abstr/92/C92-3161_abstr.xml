@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C92-3161">
+<Title>Shalt2 a Symmetric Machine Translation System with</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> Shall2 is a knowledge-based machine translation system with a symmetric architecture. The grammar rules, mapping rules between syntactic and conceptual (semantic) representations, and transfer rules for conceptual paraphrasing are all bi-directional knowledge sources used by both a parser and a generator.</Paragraph>
+</Section>
+</Paper>
+

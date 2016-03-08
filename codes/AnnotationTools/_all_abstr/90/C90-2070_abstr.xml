@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-2070">
+<Title>MacWhinney, B. Competition and Lexical Categoriza-</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+L lntrmiucfion
+</SectionTitle>
+<Paragraph position="0"> This paper is concerned with the acquisition of the lexicon. In particular, we propose a method that uses ann o lo~,ical reasoning to hypothesize new polysemous word se,ses. This method is one of a number of knowledge acquisition devices to be included in DIRC (Domain Independent Retargetable Consultant). DIRC is a kind ol intelligent, natm'al language-capable consultant kit that can be retargeted at different domains. DIRC is essentially &amp;quot;emptyoUC&amp;quot; (UNIX Consultant, Wilensky et al., 1988). DIRC is to include the language and reasoning mechanisms of UC, plus a large grammar and a ge, neral lexicon. The user must then add domain kr~owledge, user knowledge and lexieal kqlowledge for th,~ area of interest.</Paragraph>
+</Section>
+</Paper>
+

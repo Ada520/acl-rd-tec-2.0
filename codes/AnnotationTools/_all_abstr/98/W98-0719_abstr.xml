@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-0719">
+<Title>I I I I I I I I I I</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The study of lexical semantics has produced a systematic analysis of binary relationships between content words that has greatly benefited lexical search tools and natural language processing algorithms.</Paragraph>
+<Paragraph position="1"> We first introduce a database system called FreeNet that facilitates the description and exploration of finite binary relations. We then describe the design and implementation of Lexical FreeNet, a semantic network that mixes WordNet-derived semantic relations with data-derived and phonetically-derived relations. We discuss how Lexical FreeNet has aided in lexical discovery, the pursuit of linguistic and factual knowledge by the computer-aided exploration of lexical relations.</Paragraph>
+</Section>
+</Paper>
+

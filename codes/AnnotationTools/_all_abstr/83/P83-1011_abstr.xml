@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P83-1011">
+<Title>TELEGRAM: A GRAMMAR FORMALISM FOR LANGUAGE PLANNING</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+TELEGRAM:
+A GRAMMAR FORMALISM
+FOR LANGUAGE PLANNING
+Douglas E. Appelt
+Artificial Intelligence Center
+SRI International
+</SectionTitle>
+<Paragraph position="0"></Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+Menlo Park, California
+</SectionTitle>
+<Paragraph position="0"> O. Abstract Planning provides the basis for a theory of language generation that considers the communicative goals of the speaker when producing utterances. One central problem in designing a system based on such a theory is specifying the requisite linguistic knowledge in a form that interfaces well with a planning system and allows for the encoding of discourse information. The TELEGRAM (TELEological GRAMmar'} system described in this paper solves this problem by annotating a unification grammar with assertions about how grammatical choices are used to achieve various goals, and by enabling the planner to augment the functional description of an utterance as it is being unified. The control structures of the planner and the grammar unifier are then merged in a manner that makes it possible for general planning to be guided by unification of a particular functional description.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

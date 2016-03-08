@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0711">
+<Title>A Scalable Summarization System Using Robust NLP</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe a scalable summarization system which takes advantage of robust NLP technology such as corpus-based statlshcal NLP techmques, information extractmn and readily available on-hne resources The system attempts to compensate for the bottlenecks of traditional frequency-based, knowledge-based or discourse-based summanzatlon approaches by uhhzlng features derived by these robust techniques Prehrmnary evaluation results are reported, and the multi-dimensional summary viewer is described</Paragraph>
+</Section>
+</Paper>
+

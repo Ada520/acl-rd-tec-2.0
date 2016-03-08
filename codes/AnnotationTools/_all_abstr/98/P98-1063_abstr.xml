@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-1063">
+<Title>Combining Stochastic and Rule-Based Methods for Disambiguation in Agglutinative Languages</Title>
+<Section position="1" start_page="0" end_page="380" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we present the results of the combination of stochastic and rule-based disambiguation methods applied to Basque languagel. The methods we have used in disambiguation are Constraint Grammar formalism and an HMM based tagger developed within the MULTEXT project.</Paragraph>
+<Paragraph position="1"> As Basque is an agglutinative language, a morphological analyser is needed to attach all possible readings to each word. Then, CG rules are applied using all the morphological features and this process decreases morphological ambiguity of texts. Finally, we use the MULTEXT project tools to select just one from the possible remaining tags.</Paragraph>
+<Paragraph position="2"> Using only the stochastic method the error rate is about 14%, but the accuracy may be increased by about 2% enriching the lexicon with the unknown words. When both methods are combined, the error rate of the whole process is 3.5%. Considering that the training corpus is quite small, that the HMM model is a first order one and that Constraint Grammar of Basque language is still in progress, we think that this combined method can achieve good results, and it would be appropriate for other agglutinative languages.</Paragraph>
+<Paragraph position="3"> Introduction Based on the results of the combination of stochastic and rule-based disambiguation methods applied to Basque language, we will show that the results of the combination are significantly better than the ones obtained applying the methods separately.</Paragraph>
+<Paragraph position="4"> As Basque is an agglutinative and highly in-This research has been supported by the Education Department of the Government of the Basque Country and the Interministerial Commision for  fleeted language, a morphological analyser is needed to attach all possible interpretations to each word. This process, which may not be necessary in other languages such as English, makes the tagging task more complex. We use MORFEUS, a robust morphological analyser for Basque developed at the University of the Basque Country (Alegria et al., 1996). We present it briefly in section 1, in the overview of the whole system, the lemmatiser/tagger for Basque EUSLEM.</Paragraph>
+<Paragraph position="5"> We have added to MOKFEUS a lemma disambiguation process, described in section 2, which discards some of the analyses of the word based on statistical measures.</Paragraph>
+<Paragraph position="6"> Another important issue concerning a tagger is the tagset itself. We discuss the design of the tagset in section 3.</Paragraph>
+<Paragraph position="7"> In section 4, we present the results of the application of rule-based and stochastic disambiguation methods to Basque.</Paragraph>
+<Paragraph position="8"> These results are deeply improved by combining both methods as explained in section 5. Finally, we discuss some possible improvements of the system and future research. 1 Overview of the system The disambiguation system is integrated in EUSLEM, a lemmatiser/tagger for Basque (Aduriz et al., 1996). EUSLEM has three main modules: * MORFEUS, the morphological analyser based on the two-level formalism. It is a robust and wide coverage analyser for Basque. * the module that treats multiword lexical units. It has not been used in the experiments in order to simplify the process.</Paragraph>
+<Paragraph position="9"> * the disambiguation module, which will be described in sections 5 and 6.</Paragraph>
+<Paragraph position="10"> MORFEUS plays an important role in the lemmatiser/tagger, because it assigns every token all the morphological features. The most important functions are: * incremental analysis, which is divided in  three phases, using the two level formalism in all of them: 1) the standard analyser processes words according to the standard lexicon and standard rules of the language; 2) the analyser of linguistic variants analyses dialectal variants and competence errors2; and 3) the analyser of unknown words or guesser processes the remaining words.</Paragraph>
+<Paragraph position="11"> * lemma disambiguation, presented below.</Paragraph>
+</Section>
+</Paper>
+

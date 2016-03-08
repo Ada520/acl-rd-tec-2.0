@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-1016">
+<Title>Discourse Processing in MT: Problems in Pronominal Translation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Keywords: Machine Translation, Anaphora, Discourse Representation Theory, Focus
+1. Intrcnluction
+</SectionTitle>
+<Paragraph position="0"> Translation of anaphoric expressions has been problematic in most of the MT systems (Key 1986).</Paragraph>
+<Paragraph position="1"> One ot' the main reasons for the difficulties lies in the lack of discourse information representation in the MT systems. In this paper, we report an implementation of  the Discourse Representation Theory in an LFG-based English-to-Japanese MT program, and discuss problems in translating anaphoric expressions in this system.</Paragraph>
+<Paragraph position="2"> 2. Problems in Translating Anaplmra Problems in translation of anaphoric expressions  can be seen on three different but interactive levels of linguistic information: lexical, syntactic and pragmatic.</Paragraph>
+<Paragraph position="3"> The main problem on the lexical level is due to a difference in the language specific parameters in the pronominal system such as F features (person, gender, number, etc.). Surface forms of pronominals depend on the F features of their antecedents, so that the translation of a particular pronominal form cannot be determined sorely by the pronominal itself. For example, 'ship' in English is feminine, but its translation, 'hune', is neutral in Japanese. Thus, a preform 'she' for 'ship' should not be translated as 'kanojo' (3rd, sing, fem), but as 'sore' (3rd, sing, neut). Problems on the syntactic level are mainly due to a difference in the distribution of anaphoric expressions. Mapping relations between English pronominals and their Japanese counterparts are shown below:  The most crucial case is English overt pronouns. As Kuroda noted (1965:107), overt pronouns are not repeatable in Japanese, while they are in English. (1) a. He does Iris work when he feels like doing it. b. *Kare-wa kare-ga sitai toki-ni kare-no he 'FOP he NOM like to do when his GEN sigoto-wo suru.</Paragraph>
+<Paragraph position="4"> work ACC do Instead of repeating overt pronouns, zero pronominals and 'zibun' should be used though there are some variations in their use.</Paragraph>
+<Paragraph position="5"> c. Kare-wa 0 sitai toki-ni ~ sigoto-wo suru.</Paragraph>
+<Paragraph position="6"> d. Kare-wa zibun-ga sitai toki-ni 0 sigoto-wo sum. e. Kare-wa 0 sitai toki-ni zil)un-no sigoto-wo suru. Resumptive pronouns are also problematic.</Paragraph>
+<Paragraph position="7"> Possessive relative pronoun 'whose' in English must be translated as a resumptive pronoun whose antecedent is the head NP of a relative clause in Japanese. The last set of problems is on the level o1' pragmatics. It has been known that in many languages certain types of pronominal expressions represent a focus in a discourse. For example, in English, overt pronouns play this role while zero pronouns (topiczero) do the job in Japanese. In a certain discourse context, a discourse focus should be translated as a reflexive 'zibun' instead of a zero pronoun.</Paragraph>
+<Paragraph position="8"> Some cases may be induced to lexical properties of predicates and pronominals such as functional and psuedo-functional control cases and reflexivity.</Paragraph>
+<Paragraph position="9"> Nonetheless, most of the above problems are not easily separable; they should better be solved in a unified model.</Paragraph>
+</Section>
+</Paper>
+

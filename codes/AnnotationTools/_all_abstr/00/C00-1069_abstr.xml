@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-1069">
+<Title>Multilinguality in a Text Generation System For Three Slavic Languages Geert-Jan Kruijff a, Elke Teich t', John Bateman ~, Ivana Kruijit;Korbayovfi&amp;quot;,</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a lnultilingual text generation system in the domain of CAD/CAM software in-structions tbr Bulgarian, Czech and l:\[ussian. Starting from a language-independent semantic representation, the system drafts natural, continuous text as typically found in software inammls. The core modules for strategic and tactical gene,'ation are implemented using the KPML platform for linguistic resource development and generation. Prominent characteristics of the approach implemented a.re a treatment of multilinguality that makes maximal use of the cominonalities between languages while also accounting for their differences and a common representational strategy for both text planning and sentence generation.</Paragraph>
+</Section>
+</Paper>
+

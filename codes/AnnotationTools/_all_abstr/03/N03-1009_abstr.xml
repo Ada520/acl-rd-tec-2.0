@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N03-1009">
+<Title>Simpler and More General Minimization for Weighted Finite-State Automata</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Previous work on minimizing weighted finite-state automata (including transducers) is limited to particular types of weights.</Paragraph>
+<Paragraph position="1"> We present efficient new minimization algorithms that apply much more generally, while being simpler and about as fast.</Paragraph>
+<Paragraph position="2"> We also point out theoretical limits on minimization algorithms. We characterize the kind of &amp;quot;well-behaved&amp;quot; weight semirings where our methods work. Outside these semirings, minimization is not well-defined (in the sense of producing a unique minimal automaton), and even finding the minimum number of states is in general NP-complete and inapproximable.</Paragraph>
+</Section>
+</Paper>
+

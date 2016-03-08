@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P05-1043">
+<Title>Learning Stochastic OT Grammars: A Bayesian approach using Data Augmentation and Gibbs Sampling</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+Stochastic Optimality Theory (Boersma,
+</SectionTitle>
+<Paragraph position="0"> 1997) is a widely-used model in linguistics that did not have a theoretically sound learning method previously. In this paper, a Markov chain Monte-Carlo method is proposed for learning Stochastic OT Grammars. Following a Bayesian framework, the goal is finding the posterior distribution of the grammar given the relative frequencies of input-output pairs. The Data Augmentation algorithm allows one to simulate a joint posterior distribution by iterating two conditional sampling steps.</Paragraph>
+<Paragraph position="1"> This Gibbs sampler constructs a Markov chain that converges to the joint distribution, and the target posterior can be derived as its marginal distribution.</Paragraph>
+</Section>
+</Paper>
+

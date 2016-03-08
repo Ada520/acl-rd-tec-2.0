@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0208">
+<Title>Sense Tagging: Semantic Tagging with a Lexicon</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Sense tagging, the automatic assignment of the appropriate sense from some lexicon to each of the words in a text, is a specialised instance of the general problem of semantic tagging by category or type. We discuss which recent word sense disambignation algorithms are appropriate for sense tagging.</Paragraph>
+<Paragraph position="1"> It is our belief that sense tagging can be carried out effectively by combining several simple, independent, methods and we include the design of such a tagger. A prototype of this system has been implemented, correctly tagging 86% of polysemous word tokens in a small test set, providing evidence that our hypothesis is correct.</Paragraph>
+</Section>
+</Paper>
+

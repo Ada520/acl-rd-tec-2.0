@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-1601">
+<Title>Generation of single-sentence paraphrases from predicate#2Fargument structure using lexico-grammatical resources</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Paraphrases, which stem from the variety of lexical and grammatical means of expressing meaning available in a language, pose challenges for a sentence generation system. In this paper, we discuss the generation of paraphrases from predicate#2Fargument structure using a simple, uniform generation methodology. Central to our approach are lexico-grammatical resources which pair elementary semantic structures with their syntactic realization and a simple but powerful mechanism for combining resources.</Paragraph>
+</Section>
+</Paper>
+

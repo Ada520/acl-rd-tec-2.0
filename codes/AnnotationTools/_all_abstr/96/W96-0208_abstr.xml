@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W96-0208">
+<Title>Comparative Experiments on Disambiguating Word Senses: An Illustration of the Role of Bias in Machine Learning</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes an experimental comparison of seven different learning algorithms on the problem of learning to disambiguate the meaning of a word from context. The algorithms tested include statistical, neural-network, decision-tree, rule-based, and case-based classification techniques. The specific problem tested involves disambiguating six senses of the word &amp;quot;line&amp;quot; using the words in the current and proceeding sentence as context. The statistical and neural-network methods perform the best on this particular problem and we discuss a potential reason for this observed difference. We also discuss the role of bias in machine learning and its importance in explaining performance differences observed on specific problems.</Paragraph>
+<Paragraph position="1"> Introduction Recent research in empirical (corpus-based) natural language processing has explored a number of different methods for learning from data. Three general approaches are statistical, neural-network, and symbolic machine learning and numerous specific methods have been developed under each of these paradigms (Wermter, Riloff, &amp; Scheler, 1996; Charniak, 1993; Reilly &amp; Sharkey, 1992).</Paragraph>
+<Paragraph position="2"> An important question is whether some methods perform significantly better than others on particular types of problems. Unfortunately, there have been very few direct comparisons of alternative methods on identical test data.</Paragraph>
+<Paragraph position="3"> A somewhat indirect comparison of applying stochastic context-free grammars (Periera &amp; Shabes, 1992), a transformation-based method (Brill, 1993), and inductive logic programming (Zelle &amp; Mooney, 1994) to parsing the</Paragraph>
+</Section>
+</Paper>
+

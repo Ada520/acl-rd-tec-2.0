@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C92-1044">
+<Title>An Acquisition Model for both Choosing and Resolving Anaphora in Conjoined Mandarin Chinese Sentences</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Anaphoric reference is an important linguistic phenomenon to understand the discourse structure and content. In Chinese natural language processing, there are both the problems of choosing and resolving anaphora. In Mandarin Chinese, several linguists have attempted to propose criteria to ezplain the phenomenon of anaphora but with controversial results.</Paragraph>
+<Paragraph position="1"> On the other hand, search-based computational techniques for resolving anaphora are neither the best way to resolve Chinese anaphora nor to facilitate choosing anaphora. Thus, to facilitate both choosing and resolving anaphora with accuracy and efficiency, we propose a case-based learning model G-UNIMEM to automatically acquire anaphorie regularity from a sample set of training sentences i, which are annotated with a list of features. The regularity acquired from training was then tested and compared with other approaches in both choosing and resolving anaphora.</Paragraph>
+<Paragraph position="2"> Keywords: anaphoric reference, semantic roles(case), natural language acquisition, ease-based learning.</Paragraph>
+<Paragraph position="3"> i Introduction In discourse, there may be anaphora in two consecutive sentences. When anaphora appear in a pair of consecutive sentences, the two consecutive sentences are called conjoined sentences. In real life conversation, we frequently choose and resolve anaphora to understand the utterances. There are primarily three types of anaphora in Mandarin Chinese: zero (ellipsis), pronominal (using pronoun) and nominal anaphora\[4\]. Let's take the conjoined Chinese sentencez in (B) to illustrate the phenomenon. The con- null to thank Dr. Martha Pollack for valuable comments during 1991 UCSC linguistic institute.</Paragraph>
+<Paragraph position="4"> joined sentence in (C) is the English translation of the Chinese sentences m (B).</Paragraph>
+<Paragraph position="5"> (B) Yueh-haa sheng-bing. \[ \] i-thing hui-chia-le.</Paragraph>
+<Paragraph position="6"> John got sick \[ \] already gone home (C) Because John .as sick, he has gone home.</Paragraph>
+<Paragraph position="7"> Because the anaphora in (B) is a zero anaphora and there is no zero anaphora in English, the antecedent of zero anaphora in (B) must be resolved first before choosing an appropriate pronominal anaphora in Chinese to English translation. In the translation from (C) to (B), it is not good to directly translate an English pronoun to a Chinese pronoun. A better way is to resolve the anaphora ire (C) and then choose an appropriate type of anaphora in Chinese.</Paragraph>
+<Paragraph position="8"> In natural language processing, better results seems to be attainable if rich linguistic or domain knowledge is available. However it generally costs much and doesn't seem to be realistic. The same situation applies for resolving and choosing anaphora in Mandarin Chinese. If we only used search-based approaches(those that merely used heuristic and algorithmic methods without much linguistic knowledge), the performance was limited. However, when we intended to adopt linguistic knowledge, we found linguists' theories tended to be controversial and less computable. Thus, it motivated us to pursue an acquisition model that could acquire linguistic regularity from corpora and then used the regularity to resolve and choose anaphora.</Paragraph>
+</Section>
+</Paper>
+

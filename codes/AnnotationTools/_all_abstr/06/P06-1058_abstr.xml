@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P06-1058">
+<Title>Sydney, July 2006. c(c)2006 Association for Computational Linguistics An Equivalent Pseudoword Solution to Chinese Word Sense Disambiguation</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a new approach based on Equivalent Pseudowords (EPs) to tackle Word Sense Disambiguation (WSD) in Chinese language. EPs are particular artificial ambiguous words, which can be used to realize unsupervised WSD.</Paragraph>
+<Paragraph position="1"> A Bayesian classifier is implemented to test the efficacy of the EP solution on Senseval-3 Chinese test set. The performance is better than state-of-the-art results with an average F-measure of 0.80.</Paragraph>
+<Paragraph position="2"> The experiment verifies the value of EP for unsupervised WSD.</Paragraph>
+</Section>
+</Paper>
+

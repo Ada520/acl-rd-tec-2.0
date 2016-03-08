@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-0610">
+<Title>On Distance between Deep Syntax and Semantic Representation</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a comparison of two formalisms for representing natural language utterances, namely deep syntactical Tectogrammatical Layer of Functional Generative Description (FGD) and a semantic formalism, MultiNet. We discuss the possible position of MultiNet in the FGD framework and present a preliminary mapping of representational means of these two formalisms.</Paragraph>
+</Section>
+</Paper>
+

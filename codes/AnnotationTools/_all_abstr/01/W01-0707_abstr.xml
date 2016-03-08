@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W01-0707">
+<Title>Probabilistic Models for PP-attachment Resolution and NP Analysis</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a general model for PP attachment resolution and NP analysis in French.</Paragraph>
+<Paragraph position="1"> We make explicit the different assumptions our model relies on, and show how it generalizes previously proposed models. We then present a series of experiments conducted on a corpus of newspaper articles, and assess the various components of the model, as well as the different information sources used.</Paragraph>
+</Section>
+</Paper>
+

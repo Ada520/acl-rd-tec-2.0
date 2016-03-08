@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P96-1020">
+<Title>Pattern-Based Context-Free Grammars for Machine Translation</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper proposes the use of &amp;quot;pattern-based&amp;quot; context-free grammars as a basis for building machine translation (MT) systems, which are now being adopted as personal tools by a broad range of users in the cyberspace society. We discuss major requirements for such tools, including easy customization for diverse domains, the efficiency of the translation algorithm, and scalability (incremental improvement in translation quality through user interaction), and describe how our approach meets these requirements.</Paragraph>
+</Section>
+</Paper>
+

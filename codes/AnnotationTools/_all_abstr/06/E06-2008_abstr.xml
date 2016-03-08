@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E06-2008">
+<Title>ELLEIPO: A module that computes coordinative ellipsis for language generators that don't</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Many current sentence generators lack the ability to compute elliptical versions of coordinated clauses in accordance with the rules for Gapping, Forward and</Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+Backward Conjunction Reduction, and
+</SectionTitle>
+<Paragraph position="0"> SGF (Subject Gap in clauses with Finite/Fronted verb). We describe a module (implemented in JAVA, with German and Dutch as target languages) that takes non-elliptical coordinated clauses as input and returns all reduced versions licensed by coordinative ellipsis. It is loosely based on a new psycholinguistic theory of coordinative ellipsis proposed by Kempen. In this theory, coordinative ellipsis is not supposed to result from the application of declarative grammar rules for clause formation but from a procedural component that interacts with the sentence generator and may block the overt expression of certain constituents.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-2326">
+<Title>Annotating Student Emotional States in Spoken Tutoring Dialogues</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present an annotation scheme for student emotions in tutoring dialogues. Analyses of our scheme with respect to interannotator agreement and predictive accuracy indicate that our scheme is reliable in our domain, and that our emotion labels can be predicted with a high degree of accuracy. We discuss issues concerning the implementation of emotion prediction and adaptation in the computer tutoring dialogue system we are developing.</Paragraph>
+</Section>
+</Paper>
+

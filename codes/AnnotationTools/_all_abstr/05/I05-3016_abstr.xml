@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="I05-3016">
+<Title>Resolving Pronominal References in Chinese with the Hobbs Algorithm</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This study addresses pronominal anaphora resolution, including zero pronouns, in Chinese. A syntactic, rule-based pronoun resolution algorithm, the &amp;quot;Hobbs algorithm&amp;quot; was run on &amp;quot;gold standard&amp;quot; hand parses from the Penn Chinese Treebank. While first proposed for English, the algorithm counts for its success on two characteristics that Chinese and English have in common. Both languages are SVO, and both are fixed word order languages. No changes were made to adapt the algorithm to Chinese. The accuracy of the algorithm on overt, third-person pronouns at the matrix level was 77.6%, and the accuracy for resolving matrix-level zero pronouns was 73.3%. In contrast, the accuracy of the algorithm on pronouns that appeared in subordinate constructions was only 43.3%, providing support for Miltsakaki's two-mechanism proposal for resolving inter- vs. intra-sentential anaphors.</Paragraph>
+</Section>
+</Paper>
+

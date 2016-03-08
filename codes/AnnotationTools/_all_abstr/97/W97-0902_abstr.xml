@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0902">
+<Title>Developing a new grammar checker for English as a second language</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we describe the prototype of a new grammar checker specifically geared to the needs of French speakers writing in English. Most commercial grammar checkers on the market today are meant to be used by native speakers of a language who have good intuitions about their own language competence. Non-native speakers of a language, however, have different intuitions and are very easily confused by false alarms, i.e. error messages given by the grammar checker when there is in fact no error in the text. In our project aimed at developing a complete writing tool for the non-native speaker, we concentrated on building a grammar checker that keeps the rate of over-flagging down and on developing a user-friendly writing environment which contains, among other things, a series of on-line helps. The grammar checking component, which is the focus of this paper, uses island processing (or chunking) rather than a full parse. This approach is both rapid and appropriate when a text contains many errors. We explain how we use automata to identify multi-word units, detect errors (which we first isolated in a corpus of errors) and interact with the user. We end with a short evaluation of our prototype and compare it to three currently available commercial grammar checkers.</Paragraph>
+</Section>
+</Paper>
+

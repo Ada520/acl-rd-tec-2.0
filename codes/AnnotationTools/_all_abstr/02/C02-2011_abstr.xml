@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C02-2011">
+<Title>Semantic Case Role Detection for Information Extraction</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> If information extraction wants to make its results more accurate, it will have to resort increasingly to a coherent implementation of natural language semantics. In this paper, we will focus on the extraction of semantic case roles from texts. After setting the essential theoretical framework, we will argue that it is possible to detect case roles on the basis of morphosyntactic and lexical surface phenomena. We will give a concise overview of our methodology and of a preliminary test that seems to confirm our hypotheses.</Paragraph>
+<Paragraph position="1"> Introduction Information extraction (IE) from texts currently receives a large research interest. Traditionally, it has been associated with the - often verbatim - extraction of domain-specific information from free text (Riloff &amp; Lorenzen 1999). Input documents are scanned for very specific relevant information elements on a particular topic, which are used to fill out empty slots in a predefined frame. Other types of systems try to acquire this knowledge automatically by detecting reoccurring lexical and syntactic information from manually annotated example texts (e.g. Soderland 1999).</Paragraph>
+<Paragraph position="2"> Most of these techniques are inherently limited because they exclude natural language semantics as much as possible. This is understandable for reasons of efficiency and genericity but it restricts the algorithms' possibilities and it disregards the fact that - at least in free text - IE has much to do with identifying semantic roles. In most of these systems, case role detection as a goal in itself has been treated in a rather trivial way. Our research will try to provide a systematic approach to case role detection as an independent extraction task. Using notions from systemic-functional grammar and presupposing a possible mapping between morphosyntactic properties and functional role patterns, we will develop a general model for case role extraction. The idea is to learn domain-independent case role patterns from a tagged corpus, which are then (automatically) specialized to particular domain-dependent case role sets and which can be reassigned to previously unseen text. In this paper, we will focus on the first part of this task. For IE, an accurate and speedy detection of functional case roles is of major importance, since they describe events (or states) and participants to these events and thus allow for identifying real-world entities, their properties and interactions between them.</Paragraph>
+</Section>
+</Paper>
+

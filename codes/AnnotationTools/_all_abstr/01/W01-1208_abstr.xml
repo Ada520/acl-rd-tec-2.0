@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W01-1208">
+<Title>Question Answering Using Encyclopedic Knowledge Generated from the Web</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We propose a question answering system which uses an encyclopedia as a knowledge base. However, since existing encyclopedias lack technical/new terms, we use an encyclopedia automatically generated from the World Wide Web. For this purpose, we first search the Web for pages containing a term in question. Then linguistic patterns and HTML structures are used to extract text fragments describing the term. Finally, extracted term descriptions are organized based on word senses and domains. We also evaluate our system by way of experiments, where the Japanese Information-Technology Engineers Examination is used as a test collection.</Paragraph>
+</Section>
+</Paper>
+

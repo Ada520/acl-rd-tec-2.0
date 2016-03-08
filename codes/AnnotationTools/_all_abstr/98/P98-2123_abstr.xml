@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-2123">
+<Title>A Freely Available Morphological Analyzer, Disambiguator and Context Sensitive Lemmatizer for German</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we present Morphy, an integrated tool for German morphology, part-of-speech tagging and context-sensitive lemmatization. Its large lexicon of more than 320,000 word forms plus its ability to process German compound nouns guarantee a wide morphological coverage. Syntactic ambiguities can be resolved with a standard statistical part-of-speech tagger. By using the output of the tagger, the lemmatizer can determine the correct root even for ambiguous word forms. The complete package is freely available and can be downloaded from the World Wide Web.</Paragraph>
+<Paragraph position="1"> Introduction Morphological analysis is the basis for many NLP applications, including syntax parsing, machine translation and automatic indexing.</Paragraph>
+<Paragraph position="2"> However, most morphology systems are components of commercial products. Often, as for example in machine translation, these systems are presented as black boxes, with the morphological analysis only used internally. This makes them unsuitable for research purposes. To our knowledge, the only wide coverage morphological lexicon readily available is for the English language (Karp, Schabes, et al., 1992). There have been attempts to provide free morphological analyzers to the research community for other languages, for example in the MULTEXT project (Armstrong, Russell, et al., 1995), which developed linguistic tools for six European languages. However, the lexicons provided are rather small for most language~. In the case of German, we hope to significantly improve this situation with the development of a new version of our morphological analyzer Morphy.</Paragraph>
+<Paragraph position="3"> In addition to the morphological analyzer, Morphy includes a statistical part-of-speech tagger and a context-sensitive lemmatizer. It can be downloaded from our web site as a complete package including documentation and lexicon (http://www-psycho.uni-paderborn.de/lezius/).</Paragraph>
+<Paragraph position="4"> The lexicon comprises 324,000 word forms based on 50,500 stems. Its completeness has been checked using Wahrig Deutsches WOrterbuch, a standard dictionary of German (Wahrig, 1997). Since Morphy is intended not only for linguists, but also for second language learners of German, the current version has been implemented with Delphi for a standard Windows 95 or Windows NT platform and great effort has been put in making it as user friendly as possible. For UNIX users, an export facility is provided which allows generating a lexicon of full forms together with their morphological descriptions in text format.</Paragraph>
+</Section>
+</Paper>
+

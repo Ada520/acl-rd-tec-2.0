@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-1607">
+<Title>Phrasetable Smoothing for Statistical Machine Translation</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We discuss different strategies for smoothing the phrasetable in Statistical MT, and give results over a range of translation settings. We show that any type of smoothing is a better idea than the relative-frequency estimates that are often used.</Paragraph>
+<Paragraph position="1"> The best smoothing techniques yield consistent gains of approximately 1% (absolute) according to the BLEU metric.</Paragraph>
+</Section>
+</Paper>
+

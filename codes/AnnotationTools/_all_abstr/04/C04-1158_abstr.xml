@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1158">
+<Title>Efficient Confirmation Strategy for Large-scale Text Retrieval Systems with Spoken Dialogue Interface</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Adequate confirmation for keywords is indispensable in spoken dialogue systems to eliminate misunderstandings caused by speech recognition errors. Spoken language also inherently includes out-of-domain phrases and redundant expressions such as disfluency, which do not contribute to task achievement. It is necessary to appropriately make confirmation for important portions. However, a set of key-words necessary to achieve the tasks cannot be predefined in retrieval for a large-scale knowledge base unlike conventional database query tasks. In this paper, we describe two statistical measures for identifying portions to be confirmed. A relevance score represents the matching degree with the target knowledge base. A significance score detects portions that consequently affect the retrieval results. These measures are defined based on information that is automatically derived from the target knowledge base. An experimental evaluation shows that our method improved the success rate of retrieval by generating confirmation more efficiently than using a conventional confidence measure.</Paragraph>
+</Section>
+</Paper>
+

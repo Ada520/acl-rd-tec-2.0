@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C88-2148">
+<Title>Topic/Focus Ar'ticulation a~d l~te~sio~al Logic</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A semantic analysis of topic and focus as two parts of tectogrammstical representation by means of transparent intenslonal logic (TIL) is presented. It is pointed out that two sentences (more precisely, their teotogrameatlcal representations} differing Just in the topic~focus articulation (TFA) denote different propositions, i.e. that TFA has an effect upon the semantic content of the sentence. An informal short description of an algorithm handling the TFA in the translation o~ teotogramsstlcal representations into the constructions of TIL is added. The TFA algorithm divides a representation into two parts corresponding to the topic and focus; every part is analyzed (translated) in isolation and then the resulting construction is put together. The TIL construction d~soussad here reflect the scope of negation and some of the presuppositions observed.</Paragraph>
+<Paragraph position="1"> I. Introduction: TranBparent intenaional logic One of the current tasks of semantic studies consists in finding * procedure translating the disambiguated linguistic meanings of sentences (see SOS11 et el., 1986) into the constructions of Intensional logic. The core of such procedure was developed (Ylk, 1987), but a description of this procedure exceeds the scope of the present paper. The aim of this paper is rather to present some ideas used in the algorithm handling the toplol~oous articulation within the translation.</Paragraph>
+<Paragraph position="2"> Sufficient means for the semantic analysis of natural language are given by Tichy's Transparent intensional logic (TIL), Referring to exact definitions to Tiohy (1980) and Katerna 41985), we reproduce here only a brief characterization of TIL.</Paragraph>
+<Paragraph position="3"> Let o = ( T, F } be a set of truth-values, let L be a set of individuals (the universe of discourse) and let C/U be s set of possible worlds (the logical space). Then  B : ( o, ~ ,~} is an episteaic basis. Then (i) any member of Bite!a type over B, (ii) if ~,~,,.,~ are I types over B, then (~'&amp;quot;\[~) is n type over B, where (~- ~) is the met of (total end partial)  functions from \[, X ...x ~ to ~ .</Paragraph>
+<Paragraph position="4"> (iii) the types over B ere just those introduced in (1),(ii).</Paragraph>
+<Paragraph position="5"> Any member of type ~ is called an object of type ~ , or an ~.-objeot. An object is an ~-obJect for shy ~ * For every type a denumermbly infinite set of -variables is at our disposal.</Paragraph>
+<Paragraph position="6"> The constructions are the ways in which objects can be given. They ere detined inductively: (1) any ~-objeot, and alma any ~-vsriable, is an ~ -constructlon (called the atomic construction}. null (ii} let F be 8 (~ ~ ~}-oonstruotion, X, a ~;-conatruotion for i=l,..,n. Then the appliostion \[F Xt Xt ... X,) o~ F to Xt, X,, ... , X~ is an ~-conetruotion.</Paragraph>
+<Paragraph position="7"> (PSii) let Y be an ~-construotion and x,, xs,... , x. dlstlnot varlables of types ~,..., ~ , respectively. Then the sbstraotlon \[XXl Xe ... Xm Y\] of Y on xl, xl,..., x~ is s (~ ~,..~)-oonstructlon.</Paragraph>
+<Paragraph position="8"> (iv) there are no constructions except those defined in (i)-(iii).</Paragraph>
+<Paragraph position="9"> Let us characterize some important objects of TIL. For every type ~ we have objects ~, T~ ~ of the type  (o(o~)), such that (i) and (ii) hold: (i) \[~ X\] - if X is empty class then F else T (iS) \[TT ~ X\] =~ ~y. ~\[X y\]  For every type ~ we have the ~-singulurizsr Z~of the type ( ~ (o ~ )), which is defined on eingle-elemM)nt -classes only and returns the single element of the respeotlve class. Propositions are objects of the type (o~).</Paragraph>
+<Paragraph position="10"> The following notation will be used throughout the paper. The outermost parentheses and brackets will be sometimes omitted. FurthermOre, * dot viii represent s left bracket whose corresponding right bracket is to be imagined as far to the right as is compatible with other pairs of brackets. The notation with an apostrophe will be used in the following meaning: X' :fix w\] if X is of type (~) for any</Paragraph>
+<Paragraph position="12"> where X is a construction end w is a particular -variable.</Paragraph>
+<Paragraph position="13"> We write ~ x.Y in place of ~ Ax Y and ~x.Y in place of Tr~ ~x Y, 9 x.Y in place of \[I t ~x Y\]. Logical connectives and identity will be written in the standard way, e.g. a &amp; b, e * b in place of (&amp; 8 b\], (=~ s b\], respectively.</Paragraph>
+</Section>
+</Paper>
+

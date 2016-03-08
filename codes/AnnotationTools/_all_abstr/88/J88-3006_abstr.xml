@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J88-3006">
+<Title>TAILORING OBJECT DESCRIPTIONS TO A USER'S LEVEL OF EXPERTISE</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+TAILORING OBJECT DESCRIPTIONS TO A USER'S LEVEL OF EXPERTISE
+</SectionTitle>
+<Paragraph position="0"> A question answering program providing access to a large amount of data will be most useful if it can tailor its answers to each individual user. In particular, a user's level of knowledge about the domain of discourse is an important factor in this tailoring if the answer provided is to be both informative and understandable to the user. In this research, we address the issue of how the user's domain knowledge can affect an answer. By studying texts, we found that the user's level of domain knowledge affected the kind of information provided and not just the amount of information, as was previously assumed.</Paragraph>
+<Paragraph position="1"> Depending on the user's assumed domain knowledge, a description can be either parts-oriented or process-oriented. Thus the user's level of expertise in a domain can guide a system in choosing the appropriate facts from the knowledge base to include in an answer. We propose two distinct descriptive strategies that can be used in a question answering program, and show how they can be mixed to include the appropriate information from the knowledge base, given the user's domain knowledge. We have implemented these strategies in TAILOR, a computer system that generates descriptions of devices.</Paragraph>
+<Paragraph position="2"> TAILOR uses one of the two discourse strategies identified in texts to construct a description for either a novice or an expert. It can merge the strategies automatically to produce a wide range of different descriptions to users who fall between the extremes of novice or expert, without requiring an a priori set of user stereotypes.</Paragraph>
+</Section>
+</Paper>
+

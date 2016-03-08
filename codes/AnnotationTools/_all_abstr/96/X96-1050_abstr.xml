@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="X96-1050">
+<Title>MULTILINGUAL ENTITY TASK (MET): JAPANESE RESULTS</Title>
+<Section position="2" start_page="449" end_page="449" type="abstr">
+<SectionTitle>
+PERCENT
+</SectionTitle>
+<Paragraph position="0"> As in English, the typical Japanese contextual pattern for generating a valid PERCENT tag was an Arabic numeral + the &amp;quot;%&amp;quot; sign, e.g., &amp;quot;70%.&amp;quot; The fact that the systems collectively scored less than 100% (96%) indicates that this pattern was not universal.</Paragraph>
+<Paragraph position="1"> Indeed, the Japanese development and test articles represented percentages in various other ways such as an  the kanji for percent, e.g., &amp;quot;-tS-~lJ.&amp;quot; In addition, the MET Japanese Guidelines \[4\] stipulated that fractions such as &amp;quot; 1 0 ~0D--&amp;quot; (1/10), which are easily calculable as percentages, should also be identified.</Paragraph>
+<Paragraph position="2"> Although the above-mentioned patterns are more varied than what one typically encounters in English texts, they nevertheless constitute a standard finite list which the participant systems processed well.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W94-0114">
+<Title>Statistical versus symbolic parsing for captioned-information retrieval</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. Summary
+</SectionTitle>
+<Paragraph position="0"> We discuss implementation issues of MARIE-l, a mostly symbolic parser fully implemented, and MARIE-2, a more statistical parser partially implemented. They address a corpus of 100,000 picture captions. We argue that the mixed approach of MARIE-2 should be better for this corpus because its algorithms (not data) are simpler.</Paragraph>
+<Paragraph position="1"> Subject areas: parser implementation, binary word correlation probabilities.</Paragraph>
+</Section>
+</Paper>
+

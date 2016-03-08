@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-2189">
+<Title>Using sentence connectors for evaluating MT output</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper elaborates on the design of a machine translation evaluation method that aims to determine to what degree the meaning of an original text is preserved in translation, without looking into the grammatical correctness of its constituent sentences. The basic idea is to have a human evaluator take the sentences of the translated text and, for each of these sentences, determine the semantic relationship that exists between it and the sentence immediately preceding it. In order to minimise evaluator dependence, relations between sentences are expressed in terms of the eonjuncts that can connect them, rather than through explicit categories. For an n-sentence text this results in a list of n - 1 sentence-to-sentence relationships, which we call the text's conneetivlty profile. This can then be compared to the connectivity profile of the original text, and the degree of correspondence between the two would be a measure for the quality of the translation.</Paragraph>
+<Paragraph position="1"> A set of &amp;quot;essential&amp;quot; conjuncts was extracted for English and Japanese, and a computer interface was designed to support the task of inserting the most fitting conjuncts between sentence pairs. With these in place, several sets of experiments were performed.</Paragraph>
+</Section>
+</Paper>
+

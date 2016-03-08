@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-0108">
+<Title>A confidence-based framework for disambiguating geographic terms</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe a purely confidence-based geographic term disambiguation system that crucially relies on the notion of &amp;quot;positive&amp;quot; and &amp;quot;negative&amp;quot; context and methods for combining confidence-based disambiguation with measures of relevance to a user's query.</Paragraph>
+</Section>
+</Paper>
+

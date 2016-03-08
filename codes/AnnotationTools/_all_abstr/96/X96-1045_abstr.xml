@@ -1,0 +1,41 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="X96-1045">
+<Title>Reason for Proposed Change Requestor Requestor</Title>
+<Section position="1" start_page="0" end_page="348" type="abstr">
+<SectionTitle>
+1.0 EXECUTIVE SUMMARY
+</SectionTitle>
+<Paragraph position="0"> This document presents the TIPSTER Text Phase II Configuration Management (CM) Plan for identifying, controlling, and auditing the TIPSTER Architecture status and configuration definition.</Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+1.1 Configuration Management Goals
+</SectionTitle>
+<Paragraph position="0"> The CM process will support the following TIPSTER goals: use of API's, modular substitution, and conformance to applicable standards.</Paragraph>
+<Paragraph position="1"> The CM process will document the conformance of each TIPSTER application to the Architecture Design Document and with any applicable APIs. The most important affect of the CM process will be to promote modular substitution, software re-use, and reduced risk of project planning. This will allow for the orderly upgrading of installed systems as technology improves in the future. It will also facilitate the sharing of developed software between Government agencies and offices.</Paragraph>
+</Section>
+<Section position="2" start_page="0" end_page="345" type="sub_section">
+<SectionTitle>
+1.2 TIPSTER Application Conformance Assessment Document
+</SectionTitle>
+<Paragraph position="0"> The CM review process, described in detail below, will result in a document which details the ways in which an application or vendor product conforms to the Architecture Design Document and is in agreement with the TIPSTER Architecture design. This document is a TIPSTER Application Conformance Assessment Document (TACAD).</Paragraph>
+<Paragraph position="1"> In order for an application or vendor product to successfully acquire a TACAD, the following conditions must be met: For TIPSTER Application development: * The TIPSTER Application development complies with the TIPSTER CM process, the details which are contained in this document. In short, the TIPSTER Application must undergo a Preliminary Design Review (PDR) and a Final Operating Capability (FOC) review. At these reviews, any discrepancy or deviation from the TIPSTER Architecture must be documented and justified/explained.</Paragraph>
+<Paragraph position="2"> * Any new code or capabilities for the TIPSTER Application must be developed in accordance with the TIPSTER Architecture. Failure to do so will be documented and justified in the TACAD.</Paragraph>
+<Paragraph position="3"> * To the extent possible and in the Government's best interest, existing code and capability to be incorporated into the TIPSTER Application will be re-engineered in accordance with the TIPSTER Architecture. Failure to do so will be documented and justified in the TACAD.</Paragraph>
+<Paragraph position="4"> For Vendor Products: * If the vendor's product is used in a TIPSTER Application, the criteria stated above in &amp;quot;For TIPSTER Application development&amp;quot; will apply.</Paragraph>
+<Paragraph position="5"> * A vendor's product may be determined to be TIPSTER compliant with the use of a TACAD independent of actually being part of a TIPSTER Application. To support the development of this TACAD, the vendor will demonstrate, by inspection, module-by-module compliance with the TIPSTER Architecture.</Paragraph>
+<Paragraph position="6"> On the basis of the TACAD, the Configurations Control Board (CCB) will determine that a TIPSTER Application is conformant or non-conformant, if it exhibits sufficient overlap with the Architecture Design Document. The extent of TIPSTER Conformance will be determined on a &amp;quot;per module&amp;quot; basis and documented in the TACAD. As a result of the TIPSTER Application reviews (described in section 1.2, below) a summary matrix will be available as shown in Appendix A, Figure A-I, below.</Paragraph>
+<Paragraph position="7">  The TACAD may be used by Vendors to facilitate teaming with other Vendors or insertions of new capability into existing TIPSTER systems.</Paragraph>
+</Section>
+<Section position="3" start_page="345" end_page="348" type="sub_section">
+<SectionTitle>
+1.3 Configuration Management in a TIPSTER Application LifeCycle
+</SectionTitle>
+<Paragraph position="0"> The TIPSTER CM process imposes two control gates, PDR and FOC, on the TIPSTER Application development lifecycle, as shown in Figure 1-2. In preparation for these control gates, it is expected that the developing contractor and the SE/CM will work together to prepare the documentation and to identify any discrepancies between the Architecture Design and the TIPSTER Application's design. This cooperation will be in the form of an Engineering Review Board (ERB).</Paragraph>
+<Paragraph position="1"> At the PDR control gate, the following TIPSTER Application documentation is expected to be put in the TACAD  The Architecture Committee will determine whether a TIPSTER Application has successfully passed a PDR and FOC control gate ERBs. In practice, the Architecture Committee will appoint a small group of people to sit on the Configuration Control Board (CCB) to examine, in detail, the documentation and justifications provided at the PDR and FOC control gates. The CCB will then make a recommendation to the Architecture Committee as to whether or not the control gate has been satisfied. The specifics of how to run the CCB and the control gates are given in Section 3.0, below.</Paragraph>
+<Paragraph position="2"> The CCB will assign and use an Engineering Review Board (ERB) to compile the documentation necessary for the CCB's review. The ERB will be comprised of the SE/CM and the developing contractor's representatives. The specifics of how to run the ERB are given in Section 3.0, below.</Paragraph>
+<Paragraph position="3"> Discrepancies will originate from the ERB and will primarily be presented by the developing contractor's representatives. The discrepancies will be submitted to the CCB for disposition, which can be one of the following:</Paragraph>
+</Section>
+</Section>
+</Paper>
+

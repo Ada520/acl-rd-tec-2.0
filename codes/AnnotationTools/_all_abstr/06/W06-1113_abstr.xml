@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-1113">
+<Title>Variants of tree similarity in a Question Answering task</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The results of experiments on the application of a variety of distance measures to a question-answering task are reported.</Paragraph>
+<Paragraph position="1"> Variants of tree-distance are considered, including whole-vs-sub tree, node weighting, wild cards and lexical emphasis. We derive string-distance as a special case of tree-distance and show that a particular parameterisation of tree-distance out-performs the string-distance measure.</Paragraph>
+</Section>
+</Paper>
+

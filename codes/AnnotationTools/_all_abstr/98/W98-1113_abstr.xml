@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-1113">
+<Title>Towards Unsupervised Extraction of Verb Paradigms from Large Corpora</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A verb paradigm is a set of inflectional categories for a single verb lemma. To obtain verb paradigms we extracted left and right bigrams for the 400 most frequent verbs from over 100 million words of text, calculated the Kullback Leibler distance for each pair of verbs for left and right contexts separately, and ran a hierarchical clustering algorithm for each context.</Paragraph>
+<Paragraph position="1"> Our new method for finding unsupervised cut points in the cluster trees produced results that compared favorably with results obtained using supervised methods, such as gain ratio, a revised gain ratio and number of correctly classified items. Left context clusters correspond to inflectional categories, and right context clusters correspond to verb lemmas. For our test data, 91.5% of the verbs are correctly classified for inflectional category, 74.7% are correctly classified for lemma, and the correct joint classification for lemma and inflectional category was obtained for 67.5% of the verbs. These results are derived only from distributional information without use of morphological information.</Paragraph>
+</Section>
+</Paper>
+

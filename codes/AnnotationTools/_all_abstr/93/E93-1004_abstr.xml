@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E93-1004">
+<Title>Talking About Trees</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we introduce a modal language L T for imposing constraints on trees, and an extension LT(L r) for imposing constraints on trees decorated with feature structures. The motivation for introducing these languages is to provide tools for formalising grammatical frameworks perspicuously, and the paper illustrates this by showing how the leading ideas of GPS6 can be captured in LT(LF).</Paragraph>
+<Paragraph position="1"> In addition, the role of modal languages (and in particular, what we have called layered modal languages) as constraint formalisms for linguistic theorising is discussed in some detail.</Paragraph>
+</Section>
+</Paper>
+

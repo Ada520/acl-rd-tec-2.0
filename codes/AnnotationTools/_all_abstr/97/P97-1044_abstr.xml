@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P97-1044">
+<Title>Maximal Incrementality in Linear Categorial Deduction</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Recent work has seen the emergence of a common framework for parsing categorial grammar (CG) formalisms that fall within the 'type-logical' tradition (such as the Lambek calculus and related systems), whereby some method of linear logic theorem proving is used in combination with a system of labelling that ensures only deductions appropriate to the relevant grammatical logic are allowed. The approaches realising this framework, however, have not so far addressed the task of incremental parsing -- a key issue in earlier work with 'flexible' categorial grammars. In this paper, the approach of (Hepple, 1996) is modified to yield a linear deduction system that does allow flexible deduction and hence incremental processing, but that hence also suffers the problem of 'spurious ambiguity'.</Paragraph>
+<Paragraph position="1"> This problem is avoided via normalisation.</Paragraph>
+</Section>
+</Paper>
+

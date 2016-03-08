@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0702">
+<Title>[6\] Defense Advanced Research Prolects Agency Fourth Message Understanding Conference (MUC-4), McLean, VlrgTaua, 1992 Software and Intelhgent Systems</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Tradmonally, the document summansatlon task has been tackled rather as a natural language processing problem, with an. mstanhatecl meaning template being rendered into coherent prose, or as a. passage (~xtractlon problem, where certain .fragments (typ,cally sentences) of the souse document are deemed to be hlghly representahveof.</Paragraph>
+<Paragraph position="1"> its content, and thus dehvered as meanmgfid &amp;quot;approxtmahons&amp;quot; of R Balancing the confltctmg reqmremants of depth and accuracy of a summary, on the one hand, and document and domain mdependence, on the other, has proven a very hard problem This paper describes a novel approach to content charactensatlon of text documents It ts domain- and genre-independent, by wrtue of not reqmrmg an m-depth analysm of the fifll meanmg At hhe same trine, it remmns closer to the core meaning by choosing a different granulm'xty of Its representahons (phrasal expresstous rather than sentences or paragraphs), by exploiting a notion of dmcourse contlgmty and coherence for the purposes ofumform coverage and context maintenance, and by utdmmg a strong lmgmstm nohon of sahence, as a more appropriate and representabye measure of a document's &amp;quot;aboutness&amp;quot;</Paragraph>
+</Section>
+</Paper>
+

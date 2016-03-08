@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-1042">
+<Title>Statistical Morphological Disambiguation for Agglutinative Languages</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this 1)aper, we present sta.tistical models for morphological disambiguation in Tm'kish. Turkish presents an interesting problem for statistical ,nodcls since the potential tag set size is very large because of the productive, derivational morl/hology. \Ve propose to handle this by breaking Ul) 1;11(; morhosyntactic tags into inflectional groups, each of which contains the inflectional features ti)r each (internmdiate) derived tbrm. Our statistical models score the probability of each morhosyntactic tag by considering statistics over the individual inflection groups in a trigram model. Among the three models that we have deveh)l)ed and tested, (;11(; simplest model ignoring the lo(:al mort)hota(:ties within words l)ertbrms the best. Ollr })('.st; trigram model 1)erfornls with 93.95% accuracy on otir test data getting all 1;11o lllorhosyllta(;ti(; aild semantic fc.atul'es correct. If we are just interested in syntactically relevant features alld igilore a very sinall set of semantic features, then (;tie accuracy increases to 95.07%.</Paragraph>
+</Section>
+</Paper>
+

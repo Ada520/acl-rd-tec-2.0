@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J79-1007">
+<Title>OF CONTEXT FREE LANGUAGES</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> A formal definition for the semantics of a context free language, called a phrase-structure semantics., is given. The definition is a model of the notion that it is phrases which have meaning and that the meaning of a phrase is a function of its syntactic structure and of the meanings of its constituents. Next we give a definitim for translation on context free languages. We then study a certain kind of translation on cf 1's.</Paragraph>
+<Paragraph position="1"> which proceeds by translating on the phrase trees of the languages, and is specified by a finite set of tree-replacement rules. We present a procedure which, given a cfg and phrase-structure semantics for a source language and a cfg and phrase-structure semantics for a target language, will (usually) produce the finite set of ttee-replacement rules for tne translation, if the translation exists. The procedure may be viewed as a computer program which is a translator generator, and which produces another program that is a translator.</Paragraph>
+</Section>
+</Paper>
+

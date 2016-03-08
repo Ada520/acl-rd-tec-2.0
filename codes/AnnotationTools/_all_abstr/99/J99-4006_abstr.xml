@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J99-4006">
+<Title>Conceptions of Limited Attention and Discourse Focus-</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> Attention constrains the structure and processing of discourse. This fact has been important to computational research on discourse since the work of Grosz (1977b).</Paragraph>
+<Paragraph position="1"> A recent article by Walker (1996) argues that the attentional mechanism has limited capacity, that this limited capacity determines the accessibility of information in discourse processing, and that certain linguistic behavior can only be explained in terms of this limited capacity. Walker presents as an alternative to the focus space stack previously proposed to model global attentional state (Grosz 1977a; Grosz and Sidner 1986) a cache model in which linear recency and a highly constrained cache capacity play primary roles. As critical evidence, Walker presents an analysis of anaphora in discourses with interruptions and of informationally redundant utterances (IRUs). In addition, she cites psychological evidence on the limited capacity of human information processing. In this response, we discuss the relationship between the focus-space stack model and the cache model, examine Walker's evidence with respect to the two models, and review psychological evidence concerning the contributions of limited capacity and recency to the understanding of discourse. We identify problems with Walker's analysis and deficiencies in the cache model.</Paragraph>
+</Section>
+</Paper>
+

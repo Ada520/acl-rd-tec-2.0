@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-1008">
+<Title>Identifying Semantic Roles Using Combinatory Categorial Grammar</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a system for automatically identifying PropBank-style semantic roles based on the output of a statistical parser for Combinatory Categorial Grammar.</Paragraph>
+<Paragraph position="1"> This system performs at least as well as a system based on a traditional Treebank parser, and outperforms it on core argument roles.</Paragraph>
+</Section>
+</Paper>
+

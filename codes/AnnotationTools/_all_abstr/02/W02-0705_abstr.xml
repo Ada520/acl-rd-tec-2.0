@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-0705">
+<Title>Speech Translation Performance of Statistical Dependency Transduction and Semantic Similarity Transduction</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we compare the performance of two methods for speech translation.</Paragraph>
+<Paragraph position="1"> One is a statistical dependency transduction model using head transducers, the other a case-based transduction model involving a lexical similarity measure. Examples of translated utterance transcriptions are used in training both models, though the case-based model also uses semantic labels classifying the source utterances. The main conclusion is that while the two methods provide similar translation accuracy under the experimental conditions and accuracy metric used, the statistical dependency transduction method is significantly faster at computing translations. null</Paragraph>
+</Section>
+</Paper>
+

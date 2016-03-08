@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H92-1080">
+<Title>Applying SPHINX-II to the DARPA Wall Street Journal CSR Task</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> This paper reports recent efforts to apply the speaker-independent SPHINX-H system to the DARPA Wall Street Journal continuous speech recognition task. In SPHINX-H, we incorporated additional dynamic and speaker-normalized features, replaced discrete models with sex-dependent semi-continuous hidden Markov models, augmented within-word triphones with between-word triphones, and extended generalized triphone models to shared-distribution models. The configuration of SPHINX-II being used for this task includes sex-dependent, semi-continuous, shared-distribution hidden Markov models and left context dependent between-word triphones. In applying our technology to this task we addressed issues that were not previously of concern owing to the (relatively) small size of the Resource Management task. 1</Paragraph>
+</Section>
+</Paper>
+

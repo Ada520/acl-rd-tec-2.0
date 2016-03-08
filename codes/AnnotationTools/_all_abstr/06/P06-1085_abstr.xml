@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P06-1085">
+<Title>Contextual Dependencies in Unsupervised Word Segmentation[?]</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Developing better methods for segmenting continuous text into words is important for improving the processing of Asian languages, and may shed light on how humans learn to segment speech. We propose two new Bayesian word segmentation methods that assume unigram and bi-gram models of word dependencies respectively. The bigram model greatly out-performs the unigram model (and previous probabilistic models), demonstrating the importance of such dependencies for word segmentation. We also show that previous probabilistic models rely crucially on sub-optimal search procedures.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-1035">
+<Title>Exploiting Syntactic Structure for Language Modeling</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The paper presents a language model that develops syntactic structure and uses it to extract meaningful information from the word history, thus enabling the use of long distance dependencies. The model assigns probability to every joint sequence of words-binary-parse-structure with headword annotation and operates in a left-to-right manner -therefore usable for automatic speech recognition.</Paragraph>
+<Paragraph position="1"> The model, its probabilistic parameterization, and a set of experiments meant to evaluate its predictive power are presented; an improvement over standard trigram modeling is achieved.</Paragraph>
+</Section>
+</Paper>
+

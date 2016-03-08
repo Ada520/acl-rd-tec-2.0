@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C92-1061">
+<Title>PROOF-NETS AND DEPENDENCIES</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+PROOF-NETS AND DEPENDENCIES
+Alain LECOMTE
+GRIL
+Universit6 Blaise Pascal
+34 Avenue Carnot
+63037- CLERMONT-FERRAND codex (France)
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Proof-Nets (Roorda 1990) are a good device for processing with eategorial grammars, mainly because they avoid spurious ambiguities. Nevertheless, they do not provide easily readable structures and they hide the true proximity between Categorial Grammars and Dependency Grammars.</Paragraph>
+<Paragraph position="1"> We give here an other kind of Proof-Nets which is much related to Dependency Structures similar to those we meet in, for instance (Hudson 1984). These new Proof-Nets are called Connection Nets. We show that Connection Nets provide not only easily interpretable structures, but also that processing with them is more efficient. 1 1,Introduction Nowadays, two formalisms are very attractive in Natural  Language Processing: - Categorial Grammars, and - Dependency Grammars.</Paragraph>
+<Paragraph position="2">  Numerous studies try to shed light on their similarities and differences. We may quote for instance works by Hudson (1984, 1990), Barry &amp; Picketing(1990), Hausser (1990), Hepple (1991). One interesting particularity common to these two formalisms seems to be the capacity of leading to an incremental processing, which, in turn, leads to an on-line processing.</Paragraph>
+<Paragraph position="3"> Moreover, these formalisms are now very well known. Categorial Grammars have been much studied recently, particularly since the article of Ades and Steedman (1982) and the re-discovering of previous works done by Lambek (1958, 1961). The most comprehensive form taken by Categorial Grammars is the Lambek Calculus, studied by many authors like Moortgat (1988, 1990), Buszkowski (1986, 1988), Descl6s (1990)etc. Since the recent work by J-Y Girard (see for instance Girard 1987), which led to the framework of Linear Logic, it has become apparent that the Lambek Calculus amounts to a non-commutative version of a sub-system of Linear Logic, where a structural rule forbids seqnents with an empty antecedent.</Paragraph>
+<Paragraph position="4"> Semantic properties of this system have been studied by Buszkowski (1986, 1988) and Wansing (1990). Two models are often given: one consists of residuation semigroups spread over free semigroups, and another one is given by the directional typed lambda-calculus.</Paragraph>
+<Paragraph position="5"> Dependency Grammars are originating from earlier works by the French linguist Tesnitre (1965). They were theoretically studied by Gaifman, who demonstrated theorems on the Generative Capacity of Dependency Grammars. We will consider here that the formalism of &amp;quot;Word Grammar&amp;quot; (Hudson 1984, 1990) is representative of this trend.</Paragraph>
+<Paragraph position="6"> Our purpose in this communication is to show that building dependency structures gives an other kind of semantics for the Lambek Calculus and various subsystems. This semantics is useful in that it will allow us to conceive extensions of the Lambek Calculus. Moreover, the correspondance proposed between these two aspects provides us with a method of parsing related to the conception of &amp;quot;parsing as deduction&amp;quot;, together with a method for avoiding spurious ambiguities. We will show that it is isomorphic to the method of proof-nets (Girard 1987, Danos and Regnier 1989, Roorda 1990, 1991), but that it has the advantage over this last method of being more effieient and of providing more clarity on the result of processing. The devices we obtain are more readable, because they are interpretable in terms of dependency structures.</Paragraph>
+<Paragraph position="7"> Otherwi~, the parsing method can be an incremental one.</Paragraph>
+</Section>
+</Paper>
+

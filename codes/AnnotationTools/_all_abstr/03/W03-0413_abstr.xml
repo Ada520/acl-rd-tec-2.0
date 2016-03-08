@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-0413">
+<Title>Confidence Estimation for Translation Prediction</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The purpose of this work is to investigate the use of machine learning approaches for confidence estimation within a statistical machine translation application. Specifically, we attempt to learn probabilities of correctness for various model predictions, based on the native probabilites (i.e. the probabilites given by the original model) and on features of the current context. Our experiments were conducted using three original translation models and two types of neural nets (single-layer and multi-layer perceptrons) for the confidence estimation task.</Paragraph>
+</Section>
+</Paper>
+

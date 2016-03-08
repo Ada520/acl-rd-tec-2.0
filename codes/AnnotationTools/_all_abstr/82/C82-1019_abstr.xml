@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C82-1019">
+<Title>AN EXPERIMENTAL PARSER</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+AN EXPERIMENTAL PARSER
+</SectionTitle>
+<Paragraph position="0"></Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+Sweden
+</SectionTitle>
+<Paragraph position="0"> Oppsala Chart Processor is a linguistic processor for phonological, morphological, and syntactic analysis.</Paragraph>
+<Paragraph position="1"> It incorporates the basic mechanisms of the General Syntactic Processor. Linguistic rules as well as dictionary articles are presented to the processor in a procedural formalism, the UCP-formelism. The control of the processing rests upon the grammar and the dictionaries. Special attention has been devoted to problems concerning the interplay between different kinds of linguistic processes.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

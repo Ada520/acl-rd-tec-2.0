@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E87-1011">
+<Title>A Multi-Purpose Interface to an On-line Dictionary</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We argue that there are two qualitatively different modes of using a machine-readable dictionary in the context of research in computational linguistics: batch processing of the source with the purpose of collating information for subsequent use by a natural language application, and placing the dictionary on-line in an environment which supports fast interactive access to data selected on the basis of a number of linguistic constraints. While it is the former mode of dictionary use which is characteristic of most computational linguistics work to date, it is the latter which has the potential of making maximal use of the information typically found in a machine-readable dictionary. We describe the mounting of the machine-readable source of the Longman Dictionary of Contemporary English on a single user workstation to make it available as a development tool for a number of research projects.</Paragraph>
+</Section>
+</Paper>
+

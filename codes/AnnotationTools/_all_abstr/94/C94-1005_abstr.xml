@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C94-1005">
+<Title>Towards Machine \]ranslal; on U. inf C, onC(,xt, m,1 hfforma,tion</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A proposal is made for the use of contextual information in the machine translation of Japanese and English. This paper describes the use of a Context Monitor to nlaintaill contextual infortmttion dyn,'unically and the ~tugmenlalion of appropriate features to ~t semantic network to enahh~ simple inference. The al}proach taken is that {}t&amp;quot; &amp;quot;best gucs~?' processing with the cont~extual information being hal~dled with semantic inf{~rmalion on ~ shallow level.</Paragraph>
+</Section>
+</Paper>
+

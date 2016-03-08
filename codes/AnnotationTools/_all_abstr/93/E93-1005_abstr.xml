@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E93-1005">
+<Title>Decidability and Undecidability in stand-alone Feature Logics</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper investigates the complexity of the satisfiability problem for feature logics strong enough to code entire grammars unaided. We show that feature logics capable of both enforcing re-entrancy and stating linguistic generalisations will have undecidable satisfiability problems even when most Boolean expressivity has been discarded.</Paragraph>
+<Paragraph position="1"> We exhibit a decidable fragment, but the restrictions imposed to ensure decidability render it unfit for stand-alone use. The import of these results is discussed, and we conclude that there is a need for feature logics that are less homogeneous in their treatment of linguistic structure.</Paragraph>
+</Section>
+</Paper>
+

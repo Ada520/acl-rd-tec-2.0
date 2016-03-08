@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-1020">
+<Title>A Client/Server Architecture for Word Sense Disambiguation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a robust client/server implementation of a word sense disambiguator for English.</Paragraph>
+<Paragraph position="1"> This system associates a word with its meaning in a given context using dictionaries as tagged corpora in order to extract semantic disambiguation rules.</Paragraph>
+<Paragraph position="2"> Semantic rules are used as input of a semantic application program which encodes a linguistic strategy in order to select the best disambiguation rule for the word to be disambiguated. The semantic disambiguation rule application program is part of the client/server architecture enabling the processing of large corpora.</Paragraph>
+</Section>
+</Paper>
+

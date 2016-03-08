@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E91-1055">
+<Title>REFERENCES</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> It seems highly desirable to use a single representation of linguistic knowledge for both analysis and generation. We argue that the only part of the average NL system's knowledge that we can have any faith in is its vocabulary and, to a lesser extent, its syntactic rules, and we investigate the consequences of this for generation.</Paragraph>
+</Section>
+</Paper>
+

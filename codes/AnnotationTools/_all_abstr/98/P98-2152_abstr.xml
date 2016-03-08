@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-2152">
+<Title>Japanese OCR Error Correction using Character Shape Similarity and Statistical Language Model</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a novel OCR error correction method for languages without word delimiters that have a large character set, such as Japanese and Chinese.</Paragraph>
+<Paragraph position="1"> It consists of a statistical OCR model, an approximate word matching method using character shape similarity, and a word segmentation algorithm using a statistical language model. By using a statistical OCR model and character shape similarity, the proposed error corrector outperforms the previously published method. When the baseline character recognition accuracy is 90%, it achieves 97.4% character recognition accuracy.</Paragraph>
+</Section>
+</Paper>
+

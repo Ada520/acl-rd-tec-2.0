@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-2169">
+<Title>Processing Self Corrections in a speech to speech system</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Speech repairs occur often in spontaneous spoken dialogues. The ability to detect and correct those repairs is necessary for any spoken language system. We present a framework to detect and correct speech repairs where all televant levels of information, i.e., acoustics, lexis, syntax and semantics can be integrated. The basic idea is to reduce the search space for repairs as soon as possible by cascading filters that involve more and more features. At first an acoustic module generates hypotheses about the existence of a repair. Second a stochastic model suggests a correction for every hypothesis. Well scored corrections are inserted as new paths in the word lattice. Finally a lattice parser decides on accepting the repair.</Paragraph>
+</Section>
+</Paper>
+

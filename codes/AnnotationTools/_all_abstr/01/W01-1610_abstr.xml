@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W01-1610">
+<Title>Labeling Corrections and Aware Sites in Spoken Dialogue Systems</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper deals with user corrections and aware sites of system errors in the TOOT spoken dialogue system. We rst describe our corpus, and give details on our procedure to label corrections and aware sites. Then, we show that corrections and aware sites exhibit some prosodic and other properties which set them apart from `normal' utterances. It appears that some correction types, such as simple repeats, are more likely to be correctly recognized than other types, suchasparaphrases. We also present evidence that system dialogue strategy aects users' choice of correction type, suggesting that strategy-specic methods of detecting or coaching users on corrections may be useful. Aware sites tend to be shorter than other utterances, and are also more difcult to recognize correctly for the ASR system.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A92-1038">
+<Title>Datenbank-DIALOG and the Relevance of Habitability</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> The paper focusses on the issue of habitability and how it is accounted for in Datenbank-DIALOG 1. Examples from the area of comparisons and measures--both ilnportant for many application domains and non-trivial from a linguistic point of view--demonstrate how design strategies can SUl)port the development of a habitahle system.</Paragraph>
+<Paragraph position="1"> Datenbank-DIALOG is a German language interface to relational databases. Since the development of a first prototype (1985-88) it has been tested in different enviromnents and continually been improved. Currently, in a large field test, Datenbank-DIALOG interfaces to a database about AI research in Austria. Questions sent by einail 2 are answered automatically.</Paragraph>
+<Paragraph position="2"> The system consists of four main components. The scanner breaks up the natural language query into tokens for morphological analysis. The parser l)erforms syntactic and semantic analysis creating one or--in case of ambiguities--more caseframes containing the query representation at the domain level. The interpretation of the query is performed in three stages. The mapping from domain-level to database-level predicates results in a DB-Caseframe, then a linearization step produces the Logical Form and finally a syntactic transformation leads to an SQL query. The answer is then given directly by the DBMS as the result of executing the SQL query.</Paragraph>
+</Section>
+</Paper>
+

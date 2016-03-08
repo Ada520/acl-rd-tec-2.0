@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="I05-2008">
+<Title>A System to Solve Language Tests for Second Grade Students</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a system which solves language tests for second grade students (7 years old). In Japan, there are materials for students to measure understanding of what they studied, just like SAT for high school students in US. We use textbooks for the students as the target material of this study. Questions in the materials are classified into four types: questions about Chinese character (Kanji), about word knowledge, reading comprehension, and composition. This program doesn't resolve the composition and some other questions which are not easy to be implemented in text forms. We built a subsystem for each finer type of questions. As a result, we achieved 55% 83% accuracy in answering questions in unseen materials.</Paragraph>
+</Section>
+</Paper>
+

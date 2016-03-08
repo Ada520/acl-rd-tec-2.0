@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W01-1011">
+<Title>GIST-IT: Summarizing Email Using Linguistic Knowledge and Machine Learning Evelyne Tzoukermann</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a system for the automatic extraction of salient information from email messages, thus providing the gist of their meaning. Dealing with email raises several challenges that we address in this paper: heterogeneous data in terms of length and topic. Our method combines shallow linguistic processing with machine learning to extract phrasal units that are representative of email content.</Paragraph>
+<Paragraph position="1"> The GIST-IT application is fully implemented and embedded in an active mailbox platform. Evaluation was performed over three machine learning paradigms.</Paragraph>
+<Paragraph position="2"> Introduction The volume of email messages is huge and growing. A qualitative and quantitative study of email overload [Whittaker and Sidner (1996)] shows that people receive a large number of email messages each day (~ 49) and that 21% of their inboxes (about 334 messages) are long messages (over 10 Kbytes). Therefore summarization techniques adequate for real-world applications are of great interest and need [Berger and Mittal (2000), McKeown and Radev (1995), Kupiec et al (1995), McKeown et al (1999), Hovy (2000)].</Paragraph>
+<Paragraph position="3"> In this paper we present GIST-IT, an automatic email message summarizer that will convey to the user the gist of the document through topic phrase extraction, by combining linguistic and machine learning techniques. Email messages and web documents raise several challenges to automatic text processing, and the summarization task addresses most of them: they are free-style text, not always syntactically or grammatically well-formed, domain and genre independent, of variable length and on multiple topics. Furthermore, due to the lack of well-formed syntactic and grammatical structures, the granularity of document extracts presents another level of complexity. In our work, we address the extraction problem at phrase-level [Ueda et al (2000), Wacholder et al (2000)], identifying salient information that is spread across multiple sentences and paragraphs.</Paragraph>
+<Paragraph position="4"> Our novel approach first extracts simple noun phrases as candidate units for representing document meaning and then uses machine learning algorithms to select the most prominent ones. This combined method allows us to generate an informative, generic, &amp;quot;at-a-glance&amp;quot; summary.</Paragraph>
+<Paragraph position="5"> In this paper, we show: (a) the efficiency of the linguistic approach for phrase extraction in comparing results with and without filtering techniques, (b) the usefulness of vector representation in determining proper features to identify contentful information, (c) the benefit of using a new measure of TF*IDF for the noun phrase and its constituents, (d) the power of machine learning systems in evaluating several classifiers in order to select the one performing the best for this task.</Paragraph>
+</Section>
+</Paper>
+

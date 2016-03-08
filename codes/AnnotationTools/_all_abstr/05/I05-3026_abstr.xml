@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="I05-3026">
+<Title>Description of the HKU Chinese Word Segmentation System for Sighan Bakeoff 2005</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we describe in brief our system for the Second International</Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+Chinese Word Segmentation Bakeoff
+</SectionTitle>
+<Paragraph position="0"> sponsored by the ACL-SIGHAN. We participated in all tracks at the bakeoff. The evaluation results show our system can achieve an F measure of 0.9400.967 for different testing corpora.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

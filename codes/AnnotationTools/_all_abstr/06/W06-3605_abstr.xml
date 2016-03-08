@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-3605">
+<Title>Using semantic relations to refine coreference decisions. In Proceedings of Human Language Technology Conference and Conference on Empirical Methods</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We consider the problem of identifying among many candidates a single best solution which jointly maximizes several domain-specific target functions. Assuming that the candidate solutions can be generated incrementally, we model the error in prediction due to the incompleteness of partial solutions as a normally distributed random variable. Using this model, we derive a probabilistic search algorithm that aims at finding the best solution without the necessity to complete and rank all candidate solutions. We do not assume a Viterbi-type decoding, allowing a wider range of target functions.</Paragraph>
+<Paragraph position="1"> We evaluate the proposed algorithm on the problem of best parse identification, combining simple heuristic with more complex machine-learning based target functions. We show that the search algorithm is capable of identifying candidates with a very high score without completing a significant proportion of the candidate solutions. null</Paragraph>
+</Section>
+</Paper>
+

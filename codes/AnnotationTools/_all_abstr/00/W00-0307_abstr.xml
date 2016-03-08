@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-0307">
+<Title></Title>
+<Section position="2" start_page="0" end_page="34" type="abstr">
+<SectionTitle>
+4. Important Contributions
+</SectionTitle>
+<Paragraph position="0"> While a number of robust dialogue systems have been built in recent years, they mostly have operated in domains that require little if any reasoning. Rather, the task is hard-coded into the system operation. One of the major goals of the TRIPS project has been to develop dialogue models and system architectures that support conversational interaction in domains where complex reasoning systems are required. One goal has been to build a fairly generic model in which different domains can then be specified fairly easily. On this front, we are seeing some success as we have now constructed versions of TRIPS in three different domains, and TRIPSdeg 911 will be the fourth. In developing the system for new domains, the bulk of the work by far has been in system enhancements rather than in developing the domain models.</Paragraph>
+<Paragraph position="1"> The TRIPS-911 domain has forced a rethinking of the relationship between dialogue- null chitecture is designed to support research into mixed-initiative interactions, incremental generation of content (in which the user might intervene before the system completes all it has to say), rich reference resolution models, and the introduction of plan monitoring and plan repair into the suite of plan management operations supported. The domain also can support longer and richer dialogues than in previous domains.</Paragraph>
+<Paragraph position="2"> More complex domains mean even more complex dialogues. The complexity arises from many factors. First, more complex dialogues will involve topic progression, development and resumption, and more complex referential phenomena. On the problem solving front, there will be more complex corrections, elaborations and modifications--forcing us to develop richer discourse models. In addition, the complexity of the domain demonstrates a need for better grounding behavior and a need for incremental dialogue-based generation.</Paragraph>
+<Paragraph position="3"> We have by no means solved these problems.</Paragraph>
+<Paragraph position="4"> Rather we have built a rich testbed, designed and implemented a plausible architecture, and have constructed an initial system to demonstrate basic capabilities in each of the problem areas.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-2153">
+<Title>Semantic Construction from Parse Forests</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The paper describes a system which uses packed parser output directly to build semantic representations. More specifically, the system takes as input Packed Shared Forests in the sense of Tomita (l_bmita, 1985) and produces packed</Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+Underspeeified Discourse Representation
+</SectionTitle>
+<Paragraph position="0"> Structures. The algorithm visits every node in the Parse Forest only a bounded number of times, so that a significant increase in efficiency is registered for ambiguous sentences.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

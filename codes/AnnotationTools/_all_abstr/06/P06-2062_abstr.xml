@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P06-2062">
+<Title>GF Parallel Resource Grammars and Russian</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A resource grammar is a standard library for the GF grammar formalism. It raises the abstraction level of writing domain-specific grammars by taking care of the general grammatical rules of a language.</Paragraph>
+<Paragraph position="1"> GF resource grammars have been built in parallel for eleven languages and share a common interface, which simplifies multi-lingual applications. We reflect on our experience with the Russian resource grammar trying to answer the questions: how well Russian fits into the common interface and where the line between language-independent and language-specific should be drawn.</Paragraph>
+</Section>
+</Paper>
+

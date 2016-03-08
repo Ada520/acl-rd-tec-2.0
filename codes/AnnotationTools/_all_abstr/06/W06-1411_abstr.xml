@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-1411">
+<Title>Sydney, July 2006. c(c)2006 Association for Computational Linguistics Group-based Generation of Referring Expressions</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Past work of generating referring expressions mainly utilized attributes of objects and binary relations between objects in order to distinguish the target object from others. However, such an approach does not work well when there is no distinctive attribute among objects. To overcome this limitation, this paper proposes a novel generation method utilizing perceptual groups of objects and n-ary relations among them. The evaluation using 18 subjects showed that the proposed method could effectively generate proper referring expressions.</Paragraph>
+</Section>
+</Paper>
+

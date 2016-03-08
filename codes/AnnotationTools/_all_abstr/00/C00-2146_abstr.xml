@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-2146">
+<Title>Structural disambiguation of morpho-syntactic categorial parsing for Korean *</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The Korean Combinatory Categorial Grammar (KCCG) tbrmalism can unitbrmly handle word order variation among arguments and adjuncts within a clause as well as in complex clauses and across clause boundaries, i.e., long distance scrambling. Ill this paper, incremental parsing technique of a morpheme graph is developed using the KCCG. We present techniques for choosing the most plausible parse tree using lexical information such as category merge probability, head-head co-occurrence heuristic, and the heuristic based on the coverage of subtrees. The performance results for various models for choosing the most plausible parse tree are compared.</Paragraph>
+</Section>
+</Paper>
+

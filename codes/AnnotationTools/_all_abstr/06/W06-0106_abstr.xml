@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-0106">
+<Title>Sydney, July 2006. c(c)2006 Association for Computational Linguistics A Clustering Aproach for Unsupervised Chinese Coreference Resolution</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Coreference resolution is the process of identifying expressions that refer to the same entity. This paper presents a clustering algorithm for unsupervised Chinese coreference resolution. We investigate why Chinese coreference is hard and demonstrate that techniques used in coreference resolution for English can be extended to Chinese. The proposed system exploits clustering as it has advantages over traditional classification methods, such as the fact that no training data is required and it is easily extended to accommodate additional features. We conduct a set of experiments to investigate how noun phrase identification and feature selection can contribute to coreference resolution performance. Our system is evaluated on an annotated version of the TDT3 corpus using the MUC-7 scorer, and obtains comparable performance. We believe that this is the first attempt at an unsupervised approach to Chinese noun phrase coreference resolution.</Paragraph>
+</Section>
+</Paper>
+

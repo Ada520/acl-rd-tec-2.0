@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-1402">
+<Title></Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+References
+</SectionTitle>
+<Paragraph position="0"> 1 Didier Bourigault, Christian Jacquemin, and Mairie-Claude L'Homme. 2001. Recent Advances in Computational Terminology. John Benjamins Publishing Company, Amsterdam/Philadelphia.</Paragraph>
+<Paragraph position="1"> 2 Peter F. Brown , Stephen A. Della Pietra , Vincent J. Della Pietra , Meredith J. Goldsmith , Jan Hajic , Robert L. Mercer , Surya Mohanty, But dictionaries are data too, Proceedings of the workshop on Human Language Technology, March 21-24, 1993, Princeton, New Jersey 3 Michael Carl, Johann Haller, Christoph Horschmann, Dieter Maas, and Jrg Schtz. 2002. The TETRIS Terminology Tool. TAL, Structuration de terminologie(1).</Paragraph>
+<Paragraph position="2"> 4 Thierry Hamon and Adeline Nazarenko. 2001. Detection of synonymy links between terms: Experiment and results. In in (Bourigault et al., 2001), pages 185--208.</Paragraph>
+<Paragraph position="3"> 5 Christian Jacquemin, A symbolic and surgical acquisition of terms through variation, Connectionist, Statistical, and Symbolic Approaches to Learning for Natural Language Processing, p.425-438, January 1996 6 Philipe Langlais. 2002. Ressources terminologiques et traduction probabiliste: premiers pas positifs vers un systme adaptatif. In TALN.</Paragraph>
+<Paragraph position="4"> 7 Elliott Macklovitch. 1995. Can terminological consistency be validated automatically? Technical report, CITI/RALI, Montral, Canada.</Paragraph>
+<Paragraph position="5"> 8 Ingrid Meyer. 2001. Extracting knowledge-rich contexts for terminography. In in (Bourigault et al., 2001), pages 279--302.</Paragraph>
+<Paragraph position="6"> 9 Raymond J. Mooney. 2000. Integrating abduction and induction in machine learning. In P. Flach and A. Kakas, editors, Abduction and Induction, pages 181--191, Kluwer Academic Publishers.</Paragraph>
+<Paragraph position="7"> 10 Franz Josef Och , Hermann Ney, A comparison of alignment models for statistical machine translation, Proceedings of the 18th conference on Computational linguistics, July 31-August 04, 2000, Saarbrcken, Germany 11 Oliver Streiter. 2001. Treebank Development with Deductive and Abductive Explanation-based Learning: Exploratory Experiments. unpublished draft.</Paragraph>
+</Section>
+</Paper>
+

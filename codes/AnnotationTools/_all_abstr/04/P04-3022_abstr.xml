@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P04-3022">
+<Title>Combining Lexical, Syntactic, and Semantic Features with Maximum Entropy Models for Extracting Relations</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Extracting semantic relationships between entities is challenging because of a paucity of annotated data and the errors induced by entity detection modules. We employ Maximum Entropy models to combine diverse lexical, syntactic and semantic features derived from the text. Our system obtained competitive results in the Automatic Content Extraction (ACE) evaluation. Here we present our general approach and describe our ACE results.</Paragraph>
+</Section>
+</Paper>
+

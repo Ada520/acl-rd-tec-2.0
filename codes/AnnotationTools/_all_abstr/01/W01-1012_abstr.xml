@@ -1,0 +1,56 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W01-1012">
+<Title>What are the points? What are the stances? Decanting for question-driven retrieval and executive summarization</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Decanter illustrates a heuristic approach to extraction for information retrieval and question answering.</Paragraph>
+<Paragraph position="1"> Generic information about argumentative text is found and stored, easing user-focused, question-driven access to the core information. The emphasis is placed on the argumentative dimension, to address in particular three types of questions: &amp;quot;What are the points?&amp;quot;, &amp;quot;Based on what?&amp;quot; &amp;quot;What are the comments?&amp;quot;. The areas of application of this approach include: question-answering, information retrieval, summarization, critical thinking and assistance to speed reading.</Paragraph>
+<Paragraph position="2">  Introduction Decanter is a prototype to detect and display high-level information from argumentative text. The game is one of situating and contextualizing.</Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+Queries and Requests
+</SectionTitle>
+<Paragraph position="0"> Information requests can be classified by types of questions, bearing for example on: descriptive knowledge (&amp;quot;tell me about Pakistan&amp;quot;), narratives/updates (&amp;quot;what happened in Camp David?&amp;quot;), know-how (&amp;quot;how can I replace the ink cartridge on my XYZ printer?&amp;quot;), evaluation or advice (&amp;quot;Is Netscape 6 stable?&amp;quot;; &amp;quot;Should I install Netscape 6?&amp;quot;).</Paragraph>
+<Paragraph position="1"> One can take them on face value or not. In explicitly argumentative, and in loaded topics (like politics) it is in the interest of the user to have elements of context in the cognitive modeling he/she is doing of the text contents.</Paragraph>
+<Paragraph position="2"> Paying due attention to argumentation contributes in two ways: - by giving contexts to answers, helping qualify them for credibility - By answering to questions about opinions and stances: what Levels of Answering: on topic, on question, with justifications (and references), with a stance Level zero is answering on topic. This has been the only concern of &amp;quot;classical IR&amp;quot; (and still, word-sense disambiguation is not quite there yet...).</Paragraph>
+<Paragraph position="3"> Level one of question-answering is then to answer to the point semantically or pragmatically (depending of what kind of information need there is, relevance is of a different nature: in a nutshell, answering a practical question can require action-oriented information, but answers a la AskJeeves talking of travel agents when one just wants the distance from Paris to London are waylaid). As I stress heavily in my IR course (Delannoy 2001c) answers, and summaries alike, have to address relations, not just concepts. Answers should not just be &amp;quot;about&amp;quot; the keywords, but give the right kind of information: the height, the name, the colour, the description rather than the price, etc. (in many cases, a wholesale description may be judged satisfactory, but the user incurs a post-filtering overhead).</Paragraph>
+<Paragraph position="4"> There is another dimension, though: context, in a broad sense. Context includes: who gives the answer; on what medium; what it the answer based on in terms of auctorial or demonstration; is it convincing for other reasons. A valuable answer is one given with good ... reason: the answer should be rational, i.e. plausible, checkable, supported by authority of source and/or good demonstration. There is here an idea of critical thinking.</Paragraph>
+<Paragraph position="5"> Critical thinking (Toulmin 84, Little et al. 89, Mendenhall 90; Aristotle's Organon) is the study of formal argumentation, and of what can be accepted reasonably in not-so-formal argumentation (what dose of induction; what auctoritas). This is often met with derision by various brands of relativism in and outside academia, although people of this suasion too play the argumentation game: they offer elements of proof; they rarely fling totally nonlogical-looking rhetoric. But bottom lines there are, and, in the apt words of the title of Little et al. 1989, good reasoning matters! How to track it then? The next section is about the &amp;quot;decanting&amp;quot; done by our prototype; Section 3 is about retrieving what has been decanted, via questioning.</Paragraph>
+</Section>
+<Section position="2" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+Decanting
+</SectionTitle>
+<Paragraph position="0"> The input consists of one or several texts, by one or several authors and possibly mentioning several &amp;quot;actors&amp;quot; (who are also often &amp;quot;utterers&amp;quot;, but ).</Paragraph>
+<Paragraph position="1"> The general workflow is the following.</Paragraph>
+<Paragraph position="2">  1. segment 2. extract entities, in particular the actors 3. detect utterances 4. analyze them argumentatively in a simple way: links of claims-evidence, evidence-evidence (contribute, contrast) 5. infer underlying goals and values (e.g. prioritizing equity over efficiency; immediate goals vs stability) 6. detect polarity: for, against 7. link authors to utterances (who said  what), and to points of view (what are the stances) Topics are registered in a knowledge base (e.g. economics, war, elections) and issues (most efficient course of action, objective measurement of income or turnover, objectivity of declarations by public figures, etc.). It is considered to implement a module of semi-automatic acquisition: the user, prompted with lists of potential entries, would select and edit them for incorporation into the knowledge base. The output comes in multiple forms, as selected by the user:  - list of entities - main structure of the claims - quotes - marked-up text (entities, reasoning) - table of points and stances (and their holders) on the issues at hand.</Paragraph>
+<Paragraph position="3"> - extractive summary based on claims rather  than evidence) and, classically, position, importance cues and keyword density (Delannoy et al. 98).</Paragraph>
+</Section>
+<Section position="3" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+Representation
+Keys
+</SectionTitle>
+<Paragraph position="0"> Three keys give viewing angles on the information: actors, topics, and issues, correspond to basic factual questions a reader may have (Table 1).</Paragraph>
+<Paragraph position="1"> key attributes question An actor utters quotes What did X say? has stances on issues What does X think on I, i.e. is s/he for or against? and stances on  Background knowledge Some knowledge is pre-encoded or reused from previous processing, and some is built during the analysis.</Paragraph>
+<Paragraph position="2"> For repeated analysis of texts on the same topic, the knowledge built can of course be reused.  - list of topics and issues, and the corresponding heuristics used to determine which are expected to be relevant to a given text - list text types, and associated heuristics - values: e.g. equity, egalitarianism, vital minimum/income, safety, ethnic identity, personal freedom, access to information, democracy Knowledge built with the processing: - actors in the input text; other entities - quotes in the text; their association with actors - claims - evidence - association of actors with claims, evidence  The general working is the following. Situate and segment the text  - guess text topic, from keywords situating know topics; this is done easily - segment the text into clauses (the various clauses of the same utterance are then linked) Extract elements - extract entities, in particular the actors - detect utterances Assign relations: - articulate utterance components (main relations: evidence-of, support, contrast) - assign entity-to-utterance relations (who said what, textually) - polarities (who is for/contra what; including the author of the document) - infer underlying goals and values (e.g.  identifying, if possible, whether an author prioritizes equity over efficiency; immediate goals vs stability) - link authors to utterances (who said what), and to points of view (what are the stances).</Paragraph>
+<Paragraph position="3"> The program uses a small knowledge base about the known topics (e.g. economics, war, elections) and issues (most efficient course of action, objective measurement of income or turnover, objectivity of declarations by public figures, etc.).</Paragraph>
+<Paragraph position="4"> The processing uses heuristic rules and pattern-matching to recognize syntactic-semantic  patterns, e.g.: - entities regular expressions - cues to topic - syntactic patterns of direct and report speech, to assign quotes - cues to polarity - argumentation operators.</Paragraph>
+<Paragraph position="5">  It is being considered to implement a module of semi-automatic acquisition: the user, prompted with lists of potential entries, would select and edit them for incorporation into the knowledge base.</Paragraph>
+</Section>
+<Section position="4" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+Querying/Questioning
+</SectionTitle>
+<Paragraph position="0"> Various questions can be asked and answered using the structures produced, and especially:  - What? -&gt; What are the points made? - Why so? -&gt; What are the justifications? - What are the points of view or comments? (including of the authors themselves)  (actual example) From a simple input: Ehud Barak, the Israeli president, said &amp;quot;we want peace&amp;quot;.</Paragraph>
+<Paragraph position="1"> He added: &amp;quot;This is our main goal.&amp;quot; &amp;quot;We want peace too&amp;quot;, OLP Leader Arafat answered.</Paragraph>
+<Paragraph position="2"> Arafat added that Barak said that Israel may pull out of Gaza.</Paragraph>
+<Paragraph position="3"> Because Barak and Arafat have different standpoints, the peace process is fragile, even though they both want a peaceful resolution.</Paragraph>
+<Paragraph position="4"> we derive the following structures.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

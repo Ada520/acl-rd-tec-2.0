@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-0836">
+<Title>Senseval-3: The Catalan Lexical Sample Task</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> In this paper we describe the Catalan Lexical Sample task. This task was initially devised for evaluating the role of unlabeled examples in supervised and semi-supervised learning systems for WSD and it is the counterpart of the Spanish Lexical Sample task. It was coordinated also with other lexical sample tasks (Basque, English, Italian, Rumanian, and Spanish) in order to share part of the target words.</Paragraph>
+<Paragraph position="1"> Firstly, we describe the methodology followed for developing the specific linguistic resources necessary for the task: the MiniDir-Cat lexicon and the MiniCors-Cat corpus. Secondly, we briefly describe the seven participant systems, the results obtained, and a comparative evaluation between them.</Paragraph>
+<Paragraph position="2"> All participant teams applied only pure supervised learning algorithms.</Paragraph>
+</Section>
+</Paper>
+

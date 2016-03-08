@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A97-1002">
+<Title>Natural Language in Four Spatial Interfaces</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe our experiences building spoken language interfaces to four demonstration applications all involving 2- or 3-D spatial displays or gestural interactions: an air combat command and control simulation, an immersive VR tactical scenario viewer, a map-based air strike simulation tool with cartographic database, and a speech/gesture controller for mobile robots.</Paragraph>
+</Section>
+</Paper>
+

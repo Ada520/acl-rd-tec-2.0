@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1124">
+<Title>Detecting Multiword Verbs in the English Sublanguage of MEDLINE Abstracts</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we investigate the multiword verbs in the English sublanguage of MEDLINE abstracts. Based on the integration of the domain-specific named entity knowledge and syntactic as well as statistical information, this work mainly focuses on how to evaluate a proper multiword verb candidate. Our results present a sound balance between the low- and high-frequency multiword verb candidates in the sublanguage corpus. We get a F-measure of 0.753, when tested on a manual sample subset consisting of multiword candidates with both low- and high-frequencies.</Paragraph>
+</Section>
+</Paper>
+

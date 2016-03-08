@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E06-2010">
+<Title>Generating and Visualizing a Soccer Knowledge Base</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This demo abstract describes the SmartWeb Ontology-based Annotation system (SOBA).</Paragraph>
+<Paragraph position="1"> A key feature of SOBA is that all information is extracted and stored with respect to the SmartWeb Integrated Ontology (SWIntO). In this way, other components of the systems, which use the same ontology, can access this information in a straightforward way. We will show how information extracted by SOBA is visualized within its original context, thus enhancing the browsing experience of the end user.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-2147">
+<Title>The Week at a Glance - Cross-language Cross-document Information Extraction and Translation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Work oll tile production of texts in English describing instances of a particular event type from multiple news sources will be described. A system has been developed which extracts events , such as meetings, fi-om texts hi English, P, ussian, Spanish, and Japanese. The extraction is currently carried out using only ontological information. Tile results of a set of such extractions were combined to produce a table of event instances, date stamped, with links back to the original documents. The original documents can then be summarized and translated by the system on demand.</Paragraph>
+<Paragraph position="1"> By using techniques flom information retrieval, information extraction, summarization, and machine translation, in a multi-lingual cnvironl-nent, new documents can be produced which provide &amp;quot;at a ghmce&amp;quot; access to news ell events fron3 multiple sources.</Paragraph>
+<Paragraph position="2"> The paper concludes with a discussion of the key resources which need to be developed to enhance tile accuracy and coverage of the techniques used in our experiment.</Paragraph>
+</Section>
+</Paper>
+

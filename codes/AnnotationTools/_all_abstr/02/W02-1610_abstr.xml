@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-1610">
+<Title>Learning Domain-Specific Transfer Rules: An Experiment with Korean to English Translation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe the design of an MT system that employs transfer rules induced from parsed bitexts and present evaluation results. The system learns lexico-structural transfer rules using syntactic pattern matching, statistical co-occurrence and error-driven filtering. In an experiment with domain-specific Korean to English translation, the approach yielded substantial improvements over three base-line systems.</Paragraph>
+</Section>
+</Paper>
+

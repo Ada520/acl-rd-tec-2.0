@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-0214">
+<Title>Navigating maps with little or no sight: An audio-tactile approach</Title>
+<Section position="1" start_page="0" end_page="95" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper first presents a review of the options available for conveying maps and graphics to visually impaired and blind people. A novel audio-tactile methodology is described, and the results from its pilot study reported. Communication of spatial media, such as map, is problematic without sight. Tactile perception is serial rather than synoptic. By building a working model of the environment that is uses both tactile and auditory feedback, a map is made far more accessible. Results from the pilot study demonstrated simplicity and enjoyment of use of this novel approach which integrates speech, verbal landmarks, earcons and recorded environmental sound to build a small spatial hypermedia system.</Paragraph>
+<Paragraph position="1"> Introduction Whether blind, visually impaired, or sighted, our quality of life is greatly dependent on our ability to make informed spatial decisions.</Paragraph>
+<Paragraph position="2"> Space is fundamental to human existence and has great influence on human thinking. Access to representations of the geographic world (a map for example) are frequently denied a blind individual due to his or her lack of sight. For a long time tactile maps have sought to solve this problem. Tactile maps are static, cumbersome to create and have many associated cartographic problems. The fingertip's resolution is far less than the eye, it perceives serially - its &amp;quot;bandwidth&amp;quot; is very low compared to vision. The sighted cartographer is faced with the problems of simplification,  generalisation, classification and symbolisation to render a visual map tactile. A common problem with tactile maps is labelling. Braille labelling is inflexible and when enough labels are applied to facilitate suitable understanding the map often becomes cluttered and illegible (Tatham 1991). Using labels in a separate legend or key reduces the immediacy of the graphic and introduces interpretative problems as referencing is disrupted (Hinton 1993).</Paragraph>
+<Paragraph position="3"> Technologies are evolving to help address some of these problems. The aim of this research is to create a way of accessing map information that is easy to learn and use, and supports interaction that is natural, flexible and efficient. It is hoped that this will expand the availability of maps to a broader spectrum of the population.</Paragraph>
+</Section>
+</Paper>
+

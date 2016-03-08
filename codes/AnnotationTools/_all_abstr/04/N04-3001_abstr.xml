@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N04-3001">
+<Title>Columbia Newsblaster: Multilingual News Summarization on the Web</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present the new multilingual version of the Columbia Newsblaster news summarization system. The system addresses the problem of user access to browsing news from multiple languages from multiple sites on the internet.</Paragraph>
+<Paragraph position="1"> The system automatically collects, organizes, and summarizes news in multiple source languages, allowing the user to browse news topics with English summaries, and compare perspectives from different countries on the topics.</Paragraph>
+</Section>
+</Paper>
+

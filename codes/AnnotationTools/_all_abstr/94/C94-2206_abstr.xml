@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C94-2206">
+<Title>Incremental Construction of a Lexical Transducer for Korean</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> The paper describes the construction of a lexical transducer for Korean that can be used for stemming and generation. The method contains two innovations: (1) two h.'vel rules ms well-formedness constraints in the initial phase; (2) the combination of intersection and composition of rule transducers in a dee\[) cascade \['or the final re.suit.</Paragraph>
+</Section>
+</Paper>
+

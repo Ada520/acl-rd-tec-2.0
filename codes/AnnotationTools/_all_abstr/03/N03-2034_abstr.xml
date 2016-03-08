@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N03-2034">
+<Title>Building lexical semantic representations for Natural Language instructions</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We report on our work to automatically build a corpus of instructional text annotated with lexical semantics information. We have coupled the parser LCFLEX with a lexicon and ontology derived from two lexical resources, VerbNet for verbs and CoreLex for nouns. We discuss how we built our lexicon and ontology, and the parsing results we obtained.</Paragraph>
+</Section>
+</Paper>
+

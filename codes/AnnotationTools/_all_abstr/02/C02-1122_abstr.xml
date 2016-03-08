@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C02-1122">
+<Title>Fertilization of Case Frame Dictionary for Robust Japanese Case Analysis</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper proposes a method of fertilizing a Japanese case frame dictionary to handle complicated expressions: double nominative sentences, non-gapping relation of relative clauses, and case change. Our method is divided into two stages. In the first stage, we parse a large corpus and construct a Japanese case frame dictionary automatically from the parse results. In the second stage, we apply case analysis to the large corpus utilizing the constructed case frame dictionary, and upgrade the case frame dictionary by incorporating newly acquired information. null</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-2414">
+<Title>Memory-based semantic role labeling: Optimizing features, algorithm, and output</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> In this paper we interpret the semantic role labeling problem as a classification task, and apply memory-based learning to it in an approach similar to Buchholz et al.</Paragraph>
+<Paragraph position="1"> (1999) and Buchholz (2002) for grammatical relation labeling. We apply feature selection and algorithm parameter optimization strategies to our learner. In addition, we investigate the effect of two innovations: (i) the use of sequences of classes as classification output, combined with a simple voting mechanism, and (ii) the use of iterative classifier stacking which takes as input the original features and a pattern of outputs of a first-stage classifier.</Paragraph>
+<Paragraph position="2"> Our claim is that both methods avoid errors in sequences of predictions typically made by simple classifiers that are unaware of their previous or subsequent decisions in a sequence.</Paragraph>
+</Section>
+</Paper>
+

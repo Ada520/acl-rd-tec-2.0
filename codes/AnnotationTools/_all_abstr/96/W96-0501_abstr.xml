@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W96-0501">
+<Title>An Overview of SURGE: a Reusable Comprehensive Syntactic Realization Component</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> This paper describes a short demo providing an overview of SURGE (Systemic Unification Realization Grammar of English) a syntactic realization front-end for natural language generation systems. Developed over the last seven years 1 it embeds one of the most comprehensive computational grammar of English for generation available to date. It has been successfully re-used in eight generators, that have little in common in terms of architecture. It has also been used for teaching natural language generation at several academic institutions. null We first define the task of a stand-alone syntactic realization component within the overall generation process. We then briefly survey the computational formalism underlying the implementation of SURGg as well as the syntactic theories that it integrates. We then describe the structure of the grammar.</Paragraph>
+<Paragraph position="1"> 1The research presented in this paper started out while the authors were doing their PhD. at. Columbia University, New York. We are both indebted to Kathleen McKeown for her guidance and support during those years.</Paragraph>
+</Section>
+</Paper>
+

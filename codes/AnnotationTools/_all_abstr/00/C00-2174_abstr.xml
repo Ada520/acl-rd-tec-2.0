@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-2174">
+<Title>Chinese Generation in a Spoken Dialogue Translation System</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract:
+</SectionTitle>
+<Paragraph position="0"> A Chinese generation module in a speech to speech dialogue translation system is presented he:re. The input of the generation module is the underspecified semantic representation. Its design is strongly influenced by the underspecification of the inlmtS and the necessity of real-time and robust processing. We design an efficient generation system comprising a task-oriented microplanner and a general surface realization module for Chinese. The microplanner performs the lexical and syntactic choice and makes inferences fiOln the input and domain knowledge.</Paragraph>
+<Paragraph position="1"> The output of the microplanner is fully instantiated. This enables the surface realizer to traverse ltle input in a top-down, depth-first fashion, which in turn speeds the whole generation procedure. The surface realizer also combines the template method and deep generation technology in the same formalism.</Paragraph>
+<Paragraph position="2"> Preliminary results are also presented in this paper.</Paragraph>
+</Section>
+</Paper>
+

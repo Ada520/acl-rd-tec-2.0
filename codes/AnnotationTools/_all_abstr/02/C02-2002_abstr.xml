@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C02-2002">
+<Title>Dynamic Lexical Acquisition in Chinese Sentence Analysis</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Dynamic lexical acquisition is a procedure where the lexicon of an NLP system is updated automatically during sentence analysis. In our system, new words and new attributes are proposed online according to the context of each sentence, and then get accepted or rejected during syntactic analysis. The accepted lexical information is stored in an auxiliary lexicon which can be used in conjunction with the existing dictionary in subsequent processing. In this way, we are able to process sentences with an incomplete lexicon and fill in the missing info without the need of human editing. As the auxiliary lexicons are corpus-based, domain-specific dictionaries can be created automatically by combining the existing dictionary with different auxiliary lexicons. Evaluation shows that this mechanism significantly improves the coverage of our parser.</Paragraph>
+<Paragraph position="1"> Introduction The quality of many NLP systems depends heavily on the completeness of the dictionary they use. However, no dictionary can ever be complete since new words are being coined constantly and the properties of existing words can change over time. In addition, a dictionary can be relatively complete for a given domain but massively incomplete for a different domain.</Paragraph>
+<Paragraph position="2"> The traditional way to make a dictionary more complete is to edit the dictionary itself, either by hand or through batch updates using data obtained from other sources. This approach is  undesirable because (1) it can be very expensive due to the amount of hand work required; (2) the job will never be complete since new words and new usages of words will continue to appear.</Paragraph>
+<Paragraph position="3"> (3) certain words and usages of words decay  after a while or only exist in a certain domain, and it is inappropriate to make them a permanent part of the dictionary.</Paragraph>
+<Paragraph position="4"> This paper discusses an alternative approach where, instead of editing a static dictionary, we acquire lexical information dynamically during sentence analysis. This approach is currently implemented in our Chinese system and Chinese examples will be used to illustrate the process. In Section 1, we will discuss how the new lexical information is discovered. Section 2 discusses how such information is filtered, lexicalized, and used in future processing. Section 3 is devoted to evaluation.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J94-3000">
+<Title>amp;quot;.on a -</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. Overview
+</SectionTitle>
+<Paragraph position="0"> Despite being the oldest discipline in linguistics, phonology remains largely unexplored from a computational standpoint. While phonology gave us such innovations as the 'distinctive feature,' now heavily used in computational linguistics, phonology itself has yet to reap the benefits of the formal and technological developments it gave rise to.</Paragraph>
+<Paragraph position="1"> Recently, however, computational phonology has been rapidly gaining recognition as an independent area of inquiry within computational linguistics. The ACL Special Interest Group in Computational Phonology (SIGPHON) was formed in 1991 and has served as a focus for ongoing work in the area. In June of that year I proposed that there be a special issue of Computational Linguistics dedicated to computational phonology, since there were many good-quality papers in circulation that had no obvious venue for publication. The resulting collection, which you have before you, is a representative sample of this work; some submissions not ready in time for this volume will appear in subsequent regular issues. Other work in this area is to be found in the Proceedings of the First Meeting of the ACL Special Interest Group in Computational Phonology, published by the ACL in 1994, and in two edited collections (Bird 1991; Ellison and Scobbie 1993).</Paragraph>
+<Paragraph position="2"> The purpose of this short piece is to introduce computational phonology and the special issue. I shall begin by presenting some background to the field, followed by a survey of the research themes currently under investigation. Next, an overview of the papers in this collection is given, concluding with an explanation of the one-page commentaries that follow each paper. So, what is phonology, and why should computational linguists care about it?</Paragraph>
+</Section>
+</Paper>
+

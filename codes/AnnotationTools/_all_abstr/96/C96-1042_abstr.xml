@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-1042">
+<Title>Semantics of Portions and Partitive Nouns for NLP</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a system of representation of nouns denoting portions, segments and relative quantities of entities, in order to account for this case of part-whole relationship. The semantics of both constructions denoting portions aad nouns used to build them arc discussed and eventually formalised in a unification-based formalism  (LKB-IA~L) in terms of Pustciovsky's Theory of Qualia and Jackendoff's Conceptual Semantics.</Paragraph>
+<Paragraph position="1"> 1. Introduction and Motivation  Processes of inference of meaning concerning part-whole relations can be drawn from a lexicon bearing meronymic links between words (ef. \[WAI~881) e.g. component-whole links (hand-arm), membercollection (tree-forest) and so. The case of portions, segments and relalivc quantities of objects or substances (slices, lumps, buckets, spoon.rids, grains, tops or tips of things) is the exception, since this is a relation which is encoded in the language by means of constructions. Coutrm'y to that which some authors posit (\[CIIAS8\], \[WIN87\]), it doesn't seem to be a productive linguistic gencr~disation to set in a lexicon some part-of link between slice and cake. In any case, such relalion would exist between cake and slice of cake -namely, the part-of relalion shouhl stand between slice and any sliceable thing.</Paragraph>
+<Paragraph position="2"> Generally speaking, the relation portion may be charactcriscd, semantically, in Ihat lhe whole preexists the part and the part retains most of the properties of lhe whole (\[IRI88\]), and, syntactically, as surfacing in &lt;X of NP&gt; structures, being potentially &lt;X&gt; an apparently heterogeneous collection of words which, henceforlh, billowing \[CO1x)2\] We will refer to ~ts Partitive Nouns (l'Ns). On Ihc other hand, portions denoted by such constructions differ from their wholes in some aspects, basically iudividuation, quantity, process of bringing about, and shalx:. Such properties, since they are present in &lt;X of NI~ but they were not in &lt;N1)&gt;, are assumed to be carried to the coustruclion by the noun (&lt;X&gt;).</Paragraph>
+<Paragraph position="3"> I'll try to show here Ihat it is plausible to give a glob~d account of such heterogeneous set of words, since they bear a range of common and distinctive linguistic features, and 1'11 try to provide a representation feasible for NLP which account both for PNs as a general class and for the homogeneous subclasses which wilhin them could be distinguished and defined 1.</Paragraph>
+</Section>
+</Paper>
+

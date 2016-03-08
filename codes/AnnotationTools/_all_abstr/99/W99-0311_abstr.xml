@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W99-0311">
+<Title>Discourse-level argumentation in scientific articles: human and automatic annotation</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we present a rhetorically defined annotation scheme which is part of our corpus-based method for the summarisation of scientific articles. The annotation scheme consists of seven non-hierarchical labels which model prototypical academic argumentation and expected intentional 'moves'. In a large-scale experiments with three expert coders, we found the scheme stable and reproducible. We have built a resource consisting of 80 papers annotated by the scheme, and we show that this kind of resource can be used to train a system to automate the annotation work.</Paragraph>
+</Section>
+</Paper>
+

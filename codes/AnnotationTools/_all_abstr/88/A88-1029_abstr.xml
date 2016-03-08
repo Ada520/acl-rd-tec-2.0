@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A88-1029">
+<Title>TIC : PARSING INTERESTING TEXT.</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. INTRODUCTION
+</SectionTitle>
+<Paragraph position="0"> The overall goal of the TICC project is to show the potential benefits of automatically broadcasting local traffic information. Our target system, dealing with traffic incidents in the Sussex area, is to be completed by September 1989. The project forms part of the Alvey Mobile Information Systems large-scale Demonstrator.</Paragraph>
+<Paragraph position="1"> The Natural Language Summariser component of this system is being developed at Sussex University. Its function is to accept a series of free text messages describing traffic incidents, and to extract from these messages any information that might be relevant for broadcast to other motorists.</Paragraph>
+<Paragraph position="2"> The Natural Language Summariser is designed to work in a restricted domain, and only needs to solve a subset of the problems of text understanding. The TICC's output messages are short and very simple assemblies of canned text, posing no significant natural language generation problems. Our main concern is that the messages should be useful to motorists, i.e that they be reliable indications of the state of the roads at the time they are broadcast.</Paragraph>
+<Paragraph position="3"> Programs such as METEO \[Chevalier et al. 1978\] have demonstrated that in a restricted domain with a restricted sub-language, automatic information broadcasts can be usefuL Programs such as FRUMP \[De Jong 1979, De Jong 1982\] have also demonstrated that expectation-driven analysers can often successfully capture the gist of free text.</Paragraph>
+<Paragraph position="4"> However, the top-down depth-first confirmation of expectations based on sketchy scripts, ignoring most of the input structure, can lead to serious misinterpretations \[Riesbeck 82\]. Our concern for accuracy of interpretation has led us to a processing strategy in which the Natural Language Summariser analyses the input text at a far greater level of detail than is given in the output messages, so the system &amp;quot;knows more&amp;quot; about the traffic incidents it is describing than it says in its broadcasts. Our parser uses both syntactic and semantic information to guide its search for phrases in the input that might be directly or indirectly relevant to motorists, and explores alternative possible interpretations bottom-up using an active chart \[Farley 1970, Kay 1973\].</Paragraph>
+<Paragraph position="5"> This is an ongoing research project, and we do not claim to have solved all the problems involved in developing a successful system yet. The current paper considers the particular natural language problems we are addressing and describes the &amp;quot;interesting-corner parser&amp;quot; that has been implemented in the prototype system.</Paragraph>
+</Section>
+</Paper>
+

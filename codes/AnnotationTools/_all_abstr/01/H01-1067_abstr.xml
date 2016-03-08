@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H01-1067">
+<Title>The CBDDD2BWCXC3BTCCCT Text Knowledge Base Generator</Title>
+<Section position="1" start_page="0" end_page="3" type="abstr">
+<SectionTitle>
+1. INTRODUCTION
+</SectionTitle>
+<Paragraph position="0"></Paragraph>
+<Section position="1" start_page="0" end_page="3" type="sub_section">
+<SectionTitle>
+2.2 Text-Level Understanding
+</SectionTitle>
+<Paragraph position="0"></Paragraph>
+<Paragraph position="2"> Compaq sells a Notebook with a hard disk that is manufactured by Seagate.</Paragraph>
+<Paragraph position="4"></Paragraph>
+<Paragraph position="6"></Paragraph>
+</Section>
+<Section position="2" start_page="3" end_page="3" type="sub_section">
+<SectionTitle>
+2.3 Textual Learning
+</SectionTitle>
+<Paragraph position="0"></Paragraph>
+</Section>
+</Section>
+</Paper>
+

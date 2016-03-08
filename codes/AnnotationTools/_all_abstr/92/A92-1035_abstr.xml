@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A92-1035">
+<Title>Practical World Modeling for NLP Applications</Title>
+<Section position="2" start_page="235" end_page="235" type="abstr">
+<SectionTitle>
+3 Conclusions
+</SectionTitle>
+<Paragraph position="0"> We have addressed some of the issues that arise when world modeling is viewed as.a component of knowledge support for natural language processing. In DIONYSUS, the interdependence of ontology, lexicon and text meaning representation is such that ontology acquisition never proceeds in an isolated fashion. The discussion presented here regarding scalar attributes is just one example of ontological decision making in context. We would like to thank the members of the DIONYSUS project- Ralf Brown, Ted Gibson, Todd Kaufmann, John Leavitt, Ingrid Meyer, Eric Nyberg and Boyan Onyshkevych.</Paragraph>
+<Paragraph position="1"> Thanks also to Irene Nirenburg and Ken Goodman.</Paragraph>
+</Section>
+</Paper>
+

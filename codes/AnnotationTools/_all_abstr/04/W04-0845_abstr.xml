@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-0845">
+<Title>Semantic Role Labeling with Boosting, SVMs, Maximum Entropy, SNOW, and Decision Lists</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes the HKPolyU-HKUST systems which were entered into the Semantic Role Labeling task in Senseval-3. Results show that these systems, which are based upon common machine learning algorithms, all manage to achieve good performances on the non-restricted Semantic Role Labeling task.</Paragraph>
+</Section>
+</Paper>
+

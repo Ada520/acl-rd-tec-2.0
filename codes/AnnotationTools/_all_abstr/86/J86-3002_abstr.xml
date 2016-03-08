@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J86-3002">
+<Title>DISCOVERY PROCEDURES FOR SUBLANGUAGE SELECTIONAL PATTERNS: INITIAL EXPERIMENTS</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+DISCOVERY PROCEDURES FOR SUBLANGUAGE SELECTIONAL PATTERNS:
+INITIAL EXPERIMENTS
+</SectionTitle>
+<Paragraph position="0"> Selectional constraints specify, for a particular domain, the combinations of semantic classes acceptable in subject-verb-object relationships and other syntactic structures. These constraints are important in blocking incorrect analyses in natural language processing systems. However, these constraints are domain-specific and hence must be developed anew when a system is ported to a new domain. A discovery procedure for selectional constraints is therefore essential in enhancing the portability of such systems.</Paragraph>
+<Paragraph position="1"> This paper describes a semi-automated procedure for collecting the co-occurrence patterns from a sample of texts in a domain, and then using these patterns as the basis for selectional constraints in analyzing further texts. We discuss some of the difficulties in automating the collection process, and describe two experiments that measure the completeness of these patterns and their effectiveness compared with manually-prepared patterns. We then describe and evaluate a procedure for selectional constraint relaxation, intended to compensate for gaps in the set of patterns. Finally, we suggest how these procedures could be combined with a system that queries a domain expert, in order to produce a more efficient discovery procedure.</Paragraph>
+</Section>
+</Paper>
+

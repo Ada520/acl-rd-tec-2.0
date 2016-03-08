@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-2148">
+<Title>Integrating compositional semantics into a verb lexicon</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a class-based approach to building a verb lexicon that makes explicit the close association between syntax and semantics for Levin classes. We have used Lexicalized Tree Adjoining Grammars to capture the syntax associated with each verb class and have augmented the trees to include selectional restrictions. In addition, semantic predicates are associated with each tree, which allow for a colnpositional interpretation.</Paragraph>
+</Section>
+</Paper>
+

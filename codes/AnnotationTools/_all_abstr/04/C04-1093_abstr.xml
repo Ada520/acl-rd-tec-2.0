@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1093">
+<Title>Summarizing Encyclopedic Term Descriptions on the Web</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We are developing an automatic method to compile an encyclopedic corpus from the Web. In our previous work, paragraph-style descriptions for a term are extracted from Web pages and organized based on domains.</Paragraph>
+<Paragraph position="1"> However, these descriptions are independent and do not comprise a condensed text as in hand-crafted encyclopedias. To resolve this problem, we propose a summarization method, which produces a single text from multiple descriptions. The resultant summary concisely describes a term from different viewpoints. We also show the effectiveness of our method by means of experiments. null</Paragraph>
+</Section>
+</Paper>
+

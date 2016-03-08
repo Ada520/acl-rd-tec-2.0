@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-3232">
+<Title>Identifying Broken Plurals in Unvowelised Arabic Text</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> Broken plurals constitute ~10% of texts in large Arabic corpora (Goweder and De Roeck, 2001), and ~41% of plurals (Boudelaa and Gaskell, 2002).</Paragraph>
+<Paragraph position="1"> Detecting broken plurals is therefore an important issue for light-stemming algorithms developed for applications such as information retrieval, yet the effect of broken plural identification on the performance of information retrieval systems has not been examined. We present several methods for BP detection, and evaluate them using an unseen test set containing 187,309 words. We also developed a new light-stemming algorithm incorporating a BP recognition component, and evaluated it within an information retrieval context, comparing its performance with other stemming algorithms.</Paragraph>
+<Paragraph position="2"> We give a brief overview of Arabic in Section 2.</Paragraph>
+<Paragraph position="3"> Several approaches to BP detection are discussed in Section 3, and their evaluation in Section 4. In Section 5, we present an improved light stemmer and its evaluation. Finally in Section 6, our conclusions are summarised.</Paragraph>
+</Section>
+</Paper>
+

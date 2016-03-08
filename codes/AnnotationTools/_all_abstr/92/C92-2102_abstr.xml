@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C92-2102">
+<Title>Interaction between Structural Changes in Machine Translation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper discusses coml)lex structural changes during transfer within a non-destructive transfer framework. Though the description of each individual structural change is not difficult, special provision must be made when they are combined, because interaction between them sometimes causes unexpected problems. Transfer of coordinate structures is also discussed a.q this sometimes necessitates a structural change and interacts with other structural changes in a problematic way.</Paragraph>
+</Section>
+</Paper>
+

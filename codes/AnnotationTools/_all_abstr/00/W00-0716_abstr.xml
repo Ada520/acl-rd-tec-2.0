@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-0716">
+<Title>Generating Synthetic Speech Prosody with Lazy Learning in Tree Structures</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present ongoing work on prosody prediction for speech synthesis. This approach considers sentences as tree structures and infers the prosody from a corpus of such structures using machine learning techniques. The prediction is achieved from the prosody of the closest sentence of the corpus through tree similarity measurements, using either the nearest neighbour algorithm or an analogy-based approach.</Paragraph>
+<Paragraph position="1"> We introduce two different tree structure representations, the tree similarity metrics considered, and then we discuss the different prediction methods. Experiments are currently under process to qualify this approach.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-0812">
+<Title>SDL--A Description Language for Building NLP Systems</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present the system description language SDL that offers a declarative way of specifying new complex NLP systems from already existing modules with the help of three operators: sequence, parallelism, and unrestricted iteration. Given a system description and modules that implement a minimal interface, the SDL compiler returns a running Java program which realizes exactly the desired behavior of the original speciPScation. The execution semantics of SDL is complemented by a precise formal semantics, dePSned in terms of concepts of function theory. The SDL compiler is part of the SProUT shallow language platform, a system for the development and processing of multilingual resources.</Paragraph>
+</Section>
+</Paper>
+

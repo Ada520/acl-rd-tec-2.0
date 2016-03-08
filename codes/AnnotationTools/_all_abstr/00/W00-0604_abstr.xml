@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-0604">
+<Title>Answer Extraction Towards better Evaluations of NLP Systems</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We argue that reading comprehension tests are not particularly suited for the evaluation of NLP systems. Reading comprehension tests are specifically designed to evaluate human reading skills, and these require vast amounts of world knowledge and common-sense reasoning capabilities. Experience has shown that this kind of full-fledged question answering (QA) over texts from a wide range of domains is so difficult for machines as to be far beyond the present state of the art of NLP. To advance the field we propose a much more modest evaluation set:up, viz.</Paragraph>
+<Paragraph position="1"> Answer Extraction (AE) over texts from highly restricted domains. AE aims at retrieving those sentences from documents that contain the explicit answer to a user query. AE is less ambitious than full-fledged QA but has a number of important advantages over QA. It relies mainly on linguistic knowledge and needs only a very limited amount of world knowledge and few inference rules. However, it requires the solution of a number of key linguistic problems. This makes AE a suitable task to advance NLP techniques in a measurable way. Finally, there is a real demand for working AE systems in techni: cal domains. We outline how evaluation procedures for AE systems over real world domains might look like and discuss their feasibility.</Paragraph>
+</Section>
+</Paper>
+

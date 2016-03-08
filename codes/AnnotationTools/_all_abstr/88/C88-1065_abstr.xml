@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C88-1065">
+<Title>Exploiting Lexical Regularities in Designing Natural Language Systems</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+-- Lewis Carroll, Through the Looking-Glass
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents the lexical component of the STAttT Question Answering system developed at the MIT Artificial Intelligence Laboratory. START is able to interpret correctly a wide range of semantic relationships associated with alternate expressions of the arguments of verbs. The design of the system takes advantage of the results of recent linguistic research into the structure of the lexicon, allowing START to attain a broader range of coverage than many existing systems while maintaining modular organization.</Paragraph>
+</Section>
+</Paper>
+

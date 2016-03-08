@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N04-4003">
+<Title>Example-based Rescoring of Statistical Machine Translation Output</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Conventional statistical machine translation (SMT) approaches might not be able to find a good translation due to problems in its statistical models (due to data sparseness during the estimation of the model parameters) as well as search errors during the decoding process. This paper1 presents an example-based rescoring method that validates SMT translation candidates and judges whether the selected decoder output is good or not. Given such a validation filter, defective translations can be rejected. The experiments show a drastic improvement in the overall system performance compared to translation selection methods based on statistical scores only.</Paragraph>
+</Section>
+</Paper>
+

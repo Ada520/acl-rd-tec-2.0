@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-0850">
+<Title>The Duluth Lexical Sample Systems in SENSEVAL-3</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Two systems from the University of Minnesota, Duluth participated in various SENSEVAL-3 lexical sample tasks. The supervised learning system is based on lexical features and bagged decision trees. It participated in lexical sample tasks for the English, Spanish, Catalan, Basque, Romanian and MultiLingual English-Hindi data. The unsupervised system uses measures of semantic relatedness to find the sense of the target word that is most related to the senses of its neighbors. It participated in the English lexical sample task.</Paragraph>
+</Section>
+</Paper>
+

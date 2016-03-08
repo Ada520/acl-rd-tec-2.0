@@ -1,0 +1,26 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-3047">
+<Title>Unbounded Dependency: Tying strings to rings</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+38050 Povo (TN)
+FFALY
+</SectionTitle>
+<Paragraph position="0"> Abstract: This paper outlines a framework for connectionist representation based on the composition of connectionist states under vector space operators. The framework is used to specify a level of connectionist structure defined in terms of addressable superposition space hierarchies. Direct and relative address systems (:an be defined for such structures which use the functional components of linguistic structures as labels. Unbounded dependency phenomena are shown to be related to the different properties of these labelling structures.</Paragraph>
+<Paragraph position="1"> Introduction One of the major problems facing connectionist approaches to NLP is how best to r~ccommodate the role of structure (Slack, \]984). Fodor and Pylyshyn (1988) have argued that connectionist representations lack combinatorial syntactic and semantic structure. t::urthermore, they claim that the processes that operate on connectionist representational states function without regard to the inherent structure of the encoded data. The thrust of their criticism is that mental functions, such as NLP, are appropriately described in terms of the manipulation of combinatorial structures, such as formal languages, and that, at best, connectionisrn provides an implementation paradigm for mapping NLP structures and proceses onto their underlying neural substrates.</Paragraph>
+<Paragraph position="2"> If Fodor and Pylyshyn's arguments are correct then there can be no connectionist principles which influence the nature of theories developed at the level of symbolic representation. However, the present paper shows that it is possible to define a level of connectionist structure, and moreover, that this level is involved in the explanation of certain linguistic phenomena, such as unbounded dependency.</Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+Connectionist Structure
+</SectionTitle>
+<Paragraph position="0"> A theory of connectionist representation must show how combinatorial structure can be preserved in passing from the symbolic level of explanation to the connectionist level. One way of achieving this is by positing an intermediate level of description, called the level of Connectionist Structure (CS), at which combinatorial structure is preserved but in terms of connectionist combinatory operators rather than the operators of formal languages.</Paragraph>
+<Paragraph position="1"> A framework for connectionist representation is illustrated in figure 1. In a connectionist system the formal medium for encoding representations is a numerical vector corresponding to a point in a Vector Space, V. Formally, all connectionist representanons can be expressed as vectors of length k, defined over some numerical range.</Paragraph>
+<Paragraph position="2">  atomic symbols, and a set of symbolic combinatory operators; the symbolic alphabet is mapped into V-space under the alphabet mapping, f~a. This mapping might have one or more desirable properties, such as faid,fulness, orthogonaIity, etc..</Paragraph>
+<Paragraph position="3"> The other major component of the framework, f~co, maps symbolic combinatory operators onto corresponding vector combinatory operators. The CS level is defined in terms of structured vectors which are generated through applying the V-space combinatory operators to the set of vectors in the codomain of the alphabet mapping. The main reason for differentiating the CS level of representation is thatonly certain combinatory operators are available at this level, the most useful ones being association and superposition, and this restricts the range of symbolic structures that can be encoded directly under a connectionist representation.</Paragraph>
+<Paragraph position="4"> Essentially, the CS level preserves the connectivity properties of the symbolic structures.</Paragraph>
+<Paragraph position="5"> Within this framework the CS level can be defined formally as a semiring, as follows Definition. The CS level comprises the  quintuple (V, +, **, 0, 0) 1 where 1. (V, +, 0) is a commutative monoid defining the superposition operator; 2. (V, **, 0) is a monoid defining the association operator; 3. ** distributes over +:  The two identity elements correspond to identity vectors, where ~ is defined for zerocentred vectors (Slack, 1984). The vector combining operations of association and superposition are used to build connectivity configurations in memory. Moreover, using an appropriate threshold function, the superposition operator can simulate a rudimentary form of unification (Slack, I986). The most general ciass of structures that can be defined at the CS level using the two combinatory operators are addressable superposition space hierarchies (refen'ed to as ASSHs).</Paragraph>
+</Section>
+</Section>
+</Paper>
+

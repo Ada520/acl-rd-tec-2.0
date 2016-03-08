@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-1046">
+<Title>Pronouncing Text by Analogy</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Pronunciation-by-analogy (PbA) is an emerging technique for text-phoneme conversion based on a psychological model of reading aloud. This paper explores the impact of certain basic implementational choices on the performance of various PbA models. These have been tested on their ability to pronounce sets of short pseudowords previously used in similar studies, as well as lexical words temporarily removed from the dictionary. Best results of 85.7% and 67.9% words correct are obtained lor the pseudo-words and lexical words respectively, casting doubt on certain previous-reported performance figures in the literature.</Paragraph>
+</Section>
+</Paper>
+

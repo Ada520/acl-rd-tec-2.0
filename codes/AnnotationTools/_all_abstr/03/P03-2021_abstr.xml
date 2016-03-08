@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P03-2021">
+<Title>iNeATS: Interactive Multi-Document Summarization</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe iNeATS - an interactive multi-document summarization system that integrates a state-of-the-art summarization engine with an advanced user interface. Three main goals of the system are: (1) provide a user with control over the summarization process, (2) support exploration of the document set with the summary as the staring point, and (3) combine text summaries with alternative presentations such as a map-based visualization of documents.</Paragraph>
+</Section>
+</Paper>
+

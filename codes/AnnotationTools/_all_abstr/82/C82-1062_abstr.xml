@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C82-1062">
+<Title>The Transfer Phase in an English-Japanese Translation System</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Kyoto
+JAPAN
+I INTRODUCTION
+</SectionTitle>
+<Paragraph position="0"> We will discuss in ~his paper several topics in a machine translation system from English to Japanese which was implemented by using ARIANE 78 at GETA (Groupe dSEtudes pour la Traduction Automatique, Grenoble, France). The system basically follows the same princilpes as the other GETA~s systems.</Paragraph>
+<Paragraph position="1"> First of all, it uses the English analysis program in common with the other two systems, the systems from English to Bahasa, and to Chinese. This means that the same interface structure of English is used for generating three different languages. One of the research objectives is to verify the structure by applying it to Japanese.</Paragraph>
+<Paragraph position="2"> As GETAIs basic ideas were explained in (I) and (2) in detail, we will concentrate here on the problems in generating Japanese, especially those in Transfer Phase.</Paragraph>
+<Paragraph position="3"> Our generation process is, as in the other GETASs systems, divided into four independent phases, Lexical Trans- null sequently executed in this order. The first two phases which we call &amp;quot;Transfer Phase&amp;quot; are responsible for transferrir~ English oriented structures into Japanese oriented ones, on which necessary opera,ions will be performed in the sueoeediag phases (GS and @M) to p~erate syntactioally and morphologically eorreot Japanese.</Paragraph>
+<Paragraph position="4"> Amom~ others, the problems of transferring &amp;quot;Valance Structures&amp;quot; add &amp;quot;Tense and Aspect Expressions&amp;quot; are discussed in detail in 2 ~ 3, not only because they are important problems in Transfer Phase, but also because these problems show us what kinds of &amp;quot;semantic&amp;quot; processings are necessary (or unnecessary) for transferring linguistic structures of two languages belonging to quite different language families such as Japanese and English.</Paragraph>
+<Paragraph position="5"> They also give us interesting insig~hts into the roles of &amp;quot;semantics&amp;quot; in natural language processing in general.</Paragraph>
+<Paragraph position="6"> Some of them are summarized in 4.</Paragraph>
+</Section>
+</Paper>
+

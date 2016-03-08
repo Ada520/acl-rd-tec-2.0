@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-1812">
+<Title>Segmentation Rate(%) Number of Words Economics Engineering Correct Segmentation Rate Unsegmentation Rate</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We have proposed a method of word segmentation for non-segmented language using Inductive Learning. This method uses only surface information of a text, so that it has an advantage that is entirely not dependent on any specific language. In this method, we consider that a character string of appearing frequently in a text has a high possibility as a word. The method predicts unknown words by recursively extracting common character strings. With the proposed method, the segmentation results can adapt to different users and fields. To evaluate effectivety for Chinese word segmentation and adaptability for different fields, we have done the evaluation experiment with Chinese text of the two fields.</Paragraph>
+</Section>
+</Paper>
+

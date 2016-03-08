@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-1303">
+<Title>Putting Meaning into Grammar Learning</Title>
+<Section position="1" start_page="17" end_page="17" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper proposes a formulation of grammar learning in which meaning plays a fundamental role. We present a computational model that aims to satisfy convergent constraints from cognitive linguistics and crosslinguistic developmental evidence within a statistically driven framework. The target grammar, input data and goal of learning are all designed to allow a tight coupling between language learning and comprehension that drives the acquisition of new constructions. The model is applied to learn lexically specific multi-word constructions from annotated child-directed transcript data.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0609">
+<Title>Turn off the Radio and Call Again: How Acoustic Clues can Improve Dialogue Management</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> Traditionally, the most imPortant input to the dialogue management component of a natural language system are semantic representations (e.g., formulae of first-order predicate calculus). Only recently, other kinds of information (e.g., phonetic transcriptions of unknown words) has been used. There is, however, room for the utilization of additional knowledge sources. In what follows, we first explicate how information from the accoustic level (e.g., the presence of certain kinds of background noise from a radio) enables better system performance. Our argumentation is that this is possible since the dialogue manager can use acoustic clues, on the one hand, to establish better recognition conditions, and on the other hand to generate more co-operative interactions. After this argumentation, we indicate how the acoustic cues for dialogue management components can be generated.</Paragraph>
+</Section>
+</Paper>
+

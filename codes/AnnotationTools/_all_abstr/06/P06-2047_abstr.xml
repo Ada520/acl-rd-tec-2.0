@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P06-2047">
+<Title>Graph Branch Algorithm: An Optimum Tree Search Method for Scored Dependency Graph with Arc Co-occurrence Constraints</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Various kinds of scored dependency graphs are proposed as packed shared data structures in combination with optimum dependency tree search algorithms. This paper classifies the scored dependency graphs and discusses the specific features of the &amp;quot;Dependency Forest&amp;quot; (DF) which is the packed shared data structure adopted in the &amp;quot;Preference Dependency Grammar&amp;quot; (PDG), and proposes the &amp;quot;Graph Branch Algorithm&amp;quot; for computing the optimum dependency tree from a DF. This paper also reports the experiment showing the computational amount and behavior of the graph branch algorithm.</Paragraph>
+</Section>
+</Paper>
+

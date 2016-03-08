@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P84-1024">
+<Title>Semantic Interpretation Using KL-ONE 1</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents extensions to the work of Bobrow and Webber \[Bobrow&amp;Webber 80a, Bobrow&amp;Webber 80b\] on semantic interpretation using KL-ONE to represent knowledge.</Paragraph>
+<Paragraph position="1"> The approach is based on an extended case frame formalism applicable to all types of phrases, not just clauses. The frames are used to recognize semantically acceptable phrases, identify their structure, and, relate them to their meaning representation through translation rules. Approaches are presented for generating KL-ONE structures as the meaning of a sentence, for capturing semantic generalizations through abstract case frames, and for handling pronouns and relative clauses.</Paragraph>
+</Section>
+</Paper>
+

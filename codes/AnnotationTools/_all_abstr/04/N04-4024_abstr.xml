@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N04-4024">
+<Title>Direct Maximization of Average Precision by Hill-Climbing, with a Comparison to a Maximum Entropy Approach</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe an algorithm for choosing term weights to maximize average precision. The algorithm performs successive exhaustive searches through single directions in weight space. It makes use of a novel technique for considering all possible values of average precision that arise in searching for a maximum in a given direction. We apply the algorithm and compare this algorithm to a maximum entropy approach.</Paragraph>
+</Section>
+</Paper>
+

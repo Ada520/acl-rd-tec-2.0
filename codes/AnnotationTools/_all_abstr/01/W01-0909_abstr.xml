@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W01-0909">
+<Title>A cross-comparison of two clustering methods</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Many Natural Language Processing applications require semantic knowledge about topics in order to be possible or to be efficient. So we developed a system, SEGAPSITH, that acquires it automatically from text segments by using an unsupervised and incremental clustering method. In such an approach, an important problem consists of the validation of the learned classes. To do that, we applied another clustering method, that only needs to know the number of classes to build, on the same sub-set of text segments and we reformulate our evaluation problem in comparing the two classifications. So, we established different criteria to compare them, based either on the words as class descriptors or on the thematic units.</Paragraph>
+<Paragraph position="1"> Our first results lead to show a great correlation between the two classifications. null</Paragraph>
+</Section>
+</Paper>
+

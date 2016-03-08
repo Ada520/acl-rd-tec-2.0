@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H90-1022">
+<Title>Definition of &amp;quot;Class A&amp;quot; Class A queries will be identified by exception. Class A</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> There has been a long-standing methodology for evaluating work in speech recognition (SR), but until recently no community-wide methodology existed for either natural language (NL) researchers or speech understanding (SU) researchers for evaluating the systems they developed.</Paragraph>
+<Paragraph position="1"> Recently considerable progress has been made by a number of groups involved in the DARPA Spoken Language Systems (SLS) program to agree on a methodology for comparative evaluation of SLS systems, and that methodology is being used in practice for the first time.</Paragraph>
+<Paragraph position="2"> This paper gives an overview of the process that was followed in creating a meaningful evaluation mechanism, describes the current mechanism, and presents some directions for future development.</Paragraph>
+</Section>
+</Paper>
+

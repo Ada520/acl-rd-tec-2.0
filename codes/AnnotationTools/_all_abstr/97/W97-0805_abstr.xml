@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0805">
+<Title>Lexical Discrimination with the Italian Version of WORDNET</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a prototype of the Italian version of WORDNET, a general computational lexical resource. Some relevant extensions are discussed to make it usable for parsing: in particular we add verbal selectional restrictions to make lexical discrimination effective. Italian WORDNET has been coupled with a parser and a number of experiments have been performed to individuate the methodology with the best trade-off between disambiguation rate and precision. Results confirm intuitive hypothesis on the role of selectional restrictions and show evidences for a WORDNET-Iike organization of lexical senses.</Paragraph>
+</Section>
+</Paper>
+

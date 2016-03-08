@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="I05-3034">
+<Title>Chinese Word Segmentation Based On Direct Maximum Entropy Model</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Chinese word segmentation is a fundamental and important issue in Chinese information processing. In order to find a unified approach for Chinese word segmentation, the author develop a Chinese lexical analyzer PCWS using direct maximum entropy model. The paper presents the general description of PCWS, as well as the result and analysis of its performance at the Second International Chinese Word Segmentation Bakeoff.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-2166">
+<Title>Fast Generation of Abstracts from General Domain Text Corpora by Extracting Relevant Sentences</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a system for generating text abstracts which relies on a general, purely statistical principle, i.e., on the notion of &amp;quot;relevance&amp;quot;, as it is defined in terms of the combination of tf*idf weights of words in a sentence. The system generates abstracts from newspaper articles by selecting the &amp;quot;most relevant&amp;quot; sentences and combining them in text order. Since neither domain knowledge nor text-sort-specific heuristics are involved, this system provides maximal generality and flexibility.</Paragraph>
+<Paragraph position="1"> Also, it is fast and can be efficiently ilnplemented for both on-line and off-line purposes. An experiment shows that recall and precision for the extracted sentences (taking the sentences extracted by human subjects as a baseline) is within the same range as recall/precision when the human subjects are coinpared amongst each other: this means in fact that tile performance of the system is indistinguishable from the performance of a human abstractor. Finally, the system yields significantly better results than a default &amp;quot;lead&amp;quot; algorithm does which chooses just some initial sentences from the text.</Paragraph>
+</Section>
+</Paper>
+

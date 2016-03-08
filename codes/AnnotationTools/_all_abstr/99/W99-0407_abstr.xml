@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W99-0407">
+<Title>FAME: a Functional Annotation Meta-scheme for multi-modal and multi-lingual Parsing Evaluation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The paper describes FAME, a functional annotation meta-scheme for comparison and evaluation of existing syntactic annotation schemes, intended to be used as a flexible yardstick in multi-lingual and multi-modal parser evaluation campaigns. We show that FAME complies with a variety of non-trivial methodological requirements, and has the potential for being effectively used as an &amp;quot;interlingua&amp;quot; between different syntactic representation formats.</Paragraph>
+</Section>
+</Paper>
+

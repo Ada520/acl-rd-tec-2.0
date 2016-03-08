@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H01-1039">
+<Title>Integrated Information Management: An Interactive, Extensible Architecture for Information Retrieval</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. INTRODUCTION
+</SectionTitle>
+<Paragraph position="0"> Most current IR research is focused on specific technologies, such as filtering, classification, entity extraction, question answering, etc. There is relatively little research on merging multiple technologies into sophisticated applications, due in part to the high cost of integrating independently-developed text processing modules.</Paragraph>
+<Paragraph position="1"> In this paper, we present the Integrated Information Management (IIM) architecture for component-based development of IR applications1. The IIM architecture is general enough to model different types of IR tasks, beyond indexing and retrieval. Rather than providing a single framework or toolkit, our goal is to create a higher-level framework which is used to build a variety of different class libraries or toolkits for different problems. Another goal is to promote the educational use of IR software, from an &amp;quot;exploratory programming&amp;quot; perspective. For this reason, it is also important to provide a graphical interface for effective task visualization and real-time control.</Paragraph>
+<Paragraph position="2"> Prior architecture-related work has focused on toolkits or class libraries for specific types of IR or NLP problems. Examples include the SMART system for indexing and retrieval [17], the FIRE [18] and InfoGrid [15] class models for information retrieval applications, and the ATTICS [11] system for text categorization and machine learning. Some prior work has also focused on the user interface, notably FireWorks [9] and SketchTrieve [9]2. Other systems such as GATE [4] and Corelli [20] have centered on specific approaches to NLP applications.</Paragraph>
+<Paragraph position="3"> The Tipster II architecture working group summarized the requirements for an ideal IR architecture [6], which include:  a0 Standardization. Specify a standard set of functions and interfaces for information services.</Paragraph>
+<Paragraph position="4"> a0 Rapid Deployment. Speed up the initial development of new applications.</Paragraph>
+<Paragraph position="5"> a1 This work is supported by National Science Foundation (KDI) grant number 9873009.</Paragraph>
+<Paragraph position="6"> a2 For further discussion on how these systems compare with the present work, see Section 7.</Paragraph>
+<Paragraph position="7"> .</Paragraph>
+<Paragraph position="8"> a0 Maintainability. Use standardized modules to support plug-and-play updates.</Paragraph>
+<Paragraph position="9"> a0 Flexibility. Enhance performance by allowing novel combinations of existing components.</Paragraph>
+<Paragraph position="10"> a0 Evaluation. Isolate and test specific modules side-by-side in  the same application.</Paragraph>
+<Paragraph position="11"> One of the visions of the Tipster II team was a &amp;quot;marketplace of modules&amp;quot;, supporting mix-and-match of components developed at different locations. The goals of rapid deployment and flexibility require an excellent user interface, with support for drag-and-drop task modeling, real-time task visualization and control, and uniform component instrumentation for cross-evaluation. The modules themselves should be small, downloadable files which run on a variety of hardware and software platforms. This vision is in fact a specialized form of component-based software engineering (CBSE) [14], where the re-use environment includes libraries of reusable IR components, and the integration process includes real-time configuration, control, and tuning.</Paragraph>
+<Paragraph position="12"> Section 2 summarizes the architectural design of IIM. Section 3 provides more detail regarding the system's current implementation in Java. In Section 5 we describe three different task libraries that have been constructed using IIM's generic modules. Current instrumentation, measurement, and results are presented in Section 6. We conclude in Section 7 with some relevant comparisons of IIM to related prior work.</Paragraph>
+</Section>
+</Paper>
+

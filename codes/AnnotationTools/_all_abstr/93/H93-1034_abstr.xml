@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H93-1034">
+<Title>Efficient Collaborative Discourse: A Theory and Its Implementation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> An architecture for voice dialogue machines is described with emphasis on the problem solving and high level decision making mechanisms. The architecture provides facilities for generating voice interactions aimed at cooperative human-machine problem solving.</Paragraph>
+<Paragraph position="1"> It assumes that the dialogue will consist of a series of local selfconsistent subdialogues each aimed at subgoals related to the overall task. The discourse may consist of a set of such subdiaiogues with jumps from one subdialogue to the other in a search for a successful conclusion. The architecture maintains a user model to assure that interactions properly account for the level of competence of the user, and it includes an ability for the machine to take the initiative or yield the initiative to the user. It uses expectation from the dialogue processor to aid in the correction of errors from the speech recognizer.</Paragraph>
+</Section>
+</Paper>
+

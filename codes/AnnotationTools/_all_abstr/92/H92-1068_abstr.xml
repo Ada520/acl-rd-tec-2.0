@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H92-1068">
+<Title>Spontaneous Speech Effects In Large Vocabulary Speech Recognition Applications</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> We describe three analyses on the effects of spontaneous speech on continuous speech recognition performance. We have found that: (1) spontaneous speech effects significantly degrade recognition performance, (2) fluent spontaneous speech yields word accuracies equivalent to read speech, and (3) using spontaneous speech training data can significantly improve performance for recognizing spontaneous speech. We conclude that word accuracy can be improved by explicitly modeling spontaneous effects in the recognizer, and by using as much spontaneous speech training data as possible. Inclusion of read speech training data, even within the task domain, does not significantly improve performance.</Paragraph>
+</Section>
+</Paper>
+

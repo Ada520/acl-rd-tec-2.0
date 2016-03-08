@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-1201">
+<Title>Probabilistic Model of Acoustic/Prosody/ Concept Relationships for Speech Synthesis</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes the formalism for incorporating emerging linguistic theory in a joint model of the acoustic/prosody/concept relationships. It makes use of binary decision trees to estimate model parameters, the conditional probabilities. In doing so, the model remains general, and can accommodate the results of our evolving understanding of the interaction between factors that determine prosody. While this model has been successful in both speech synthesis and analysis applications, it has made use of syntactic and pragmatic information alone.</Paragraph>
+<Paragraph position="1"> Extension of this model to map prosodic structure to other higher order linguistic structures that more fully describe the meaning that an utterance is straightforward. As hypotheses are developed in the ranking of competing constraints, including focus structure, and in the role of discourse history, they can be integrated into the model as features in the binary decision tree.</Paragraph>
+</Section>
+</Paper>
+

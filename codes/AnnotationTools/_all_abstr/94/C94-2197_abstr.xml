@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C94-2197">
+<Title>A Bayesian Approach for User Modeling in Dialogue Systems</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> User modeling is an iml&gt;ortant COlnponents of dialog systems. Most previous approaches are rule-based methods, hi this paper, we proimse to represent user models through Bayesian networks. Some advantages of the Bayesian approach over the rule-based approach are as follows. First, rules for updating user models are not necessary because up&lt;lating is directly performed by the ewduation of the network base&lt;l on probal&gt;ility theory; this provides us a more formal way of dealing with uncertainties. Second, the Bayesian network pro: rides more detailed information of users' knowledge, because the degree of belief on each concept is provided in terms of prol~ability. We prove these advantages through a prelinfinary experiment.</Paragraph>
+</Section>
+</Paper>
+

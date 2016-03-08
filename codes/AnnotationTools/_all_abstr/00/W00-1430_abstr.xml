@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-1430">
+<Title>From Context to Sentence Form</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> When generating utterances, humans may choose among a number of alternative sentence forms expressing the same propositional content. The context determines these decisions to a large extent.</Paragraph>
+<Paragraph position="1"> This paper presents a strategy to allow for such context-sensitive variation when generating text for a wearable, advice giving device. Several dimensions of context feed a model of the heater's attention space, which, in terms of Information Structure Theory, determines the form of the sentence to be generated.</Paragraph>
+</Section>
+</Paper>
+

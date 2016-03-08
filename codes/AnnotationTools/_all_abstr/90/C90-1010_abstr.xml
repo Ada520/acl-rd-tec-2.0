@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-1010">
+<Title>The translation of constitutent structure into connectionist networks</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> We are going to describe a connectivity structure which is a quasi neuronal representation of the computational knowledge usually presented in terms of rules and algorithms. Our system provide.,; the proof that connectionist networks can represent cognitive knowledge of high complexity a fact that has recently been questioned by critics of connectionism (cp.</Paragraph>
+<Paragraph position="1"> FODOR and PYLYSHYN 1988). However, our system is of the variety of an implementational connectionism implementing systems, whose computational knowledge is already defined by rules - it is not a system which generates new knowledge structures through learning.</Paragraph>
+<Paragraph position="2"> More specifically, our system implements parsers for constituent structure grammars according to Earley's rules in terms of networks of Boolean operators. The implementation is automatic, i.e. executed by a compi-ler which automatically translates a grammar into a set of Boolean equations. Our connectionist net is thus like a special purpose parser network defined by the Boolean equations in the same way as any costums specific circuit definition. We shall now explain the essential ideas which characterize the parallel (connectionist) networks compiled from constituent structure rule systems through parallelizing Earley's algorithm. The formal def'mifions of the compilation algorittun and of the definition of the resulting connectionist network can be found in SCHNELLE and DOUST (1989).</Paragraph>
+<Paragraph position="3"> In the following paragraphs our essential ideas will be presented by means of a simple example, the system of constituent structure rules S deg-&gt; aA, S --&gt; Ab, A --&gt; aa, A --&gt; a to be applied in a parsing process on the string aab.</Paragraph>
+</Section>
+</Paper>
+

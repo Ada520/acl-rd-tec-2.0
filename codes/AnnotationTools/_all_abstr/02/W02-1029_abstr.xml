@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-1029">
+<Title>Ensemble Methods for Automatic Thesaurus Extraction</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Ensemble methods are state of the art for many NLP tasks. Recent work by Banko and Brill (2001) suggests that this would not necessarily be true if very large training corpora were available. However, their results are limited by the simplicity of their evaluation task and individual classi ers.</Paragraph>
+<Paragraph position="1"> Our work explores ensemble ef cacy for the more complex task of automatic thesaurus extraction on up to 300 million words. We examine our con icting results in terms of the constraints on, and complexity of, different contextual representations, which contribute to the sparsenessand noise-induced bias behaviour of NLP systems on very large corpora.</Paragraph>
+</Section>
+</Paper>
+

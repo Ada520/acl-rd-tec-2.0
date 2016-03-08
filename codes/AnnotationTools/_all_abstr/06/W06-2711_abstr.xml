@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-2711">
+<Title>The SAMMIE Multimodal Dialogue Corpus Meets the Nite XML Toolkit</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We demonstrate work in progress1 using the Nite XML Toolkit on a corpus of multimodal dialogues with an MP3 player collected in a Wizard-of-Oz (WOZ) experiments and annotated with a rich feature set at several layers. We designed an NXT data model, converted experiment log file data and manual transcriptions into NXT, and are building annotation tools using NXT libraries.</Paragraph>
+</Section>
+</Paper>
+

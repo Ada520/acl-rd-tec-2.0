@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W93-0102">
+<Title>Product Formation Vector Network Bayesian Vector Network</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Automatic corpus-based sense resolution, or sense dlsambiguation, techniques tend to focus either on very local context or on topical context. Both components axe needed for word sense resolution. A contextual representation of a word sense consists of topical context and local context. Our goal is to construct contextual representations by automatically extracting topical and local information from textual corpora. We review an experiment evaluating three statistical classifiers that automatically extract topical context. An experiment designed to examine human subject performance with similar input is described. Finally, we investigate a method for automatically extracting local context from a corpus. Preliminary results show improved performs, nce.</Paragraph>
+</Section>
+</Paper>
+

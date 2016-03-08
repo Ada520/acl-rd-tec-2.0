@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C94-1092">
+<Title>ANNOTATING 200 MILLION WORDS: THE BANK OF ENGLISH PROJECT</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The llank of English is an international English hmguage project sponsored by llarper-Collins Publishers, Glasgow, and conducl;ed by the COBUILD team at the University of Birrnhlgham, UK. The text hank will comprise some 200 million words of both written and spoken English. The whole 200 million word col pns is being annotated morphologically and syntactically during 1993-94 at the Research Unit for Cor,,-Imtational Linguistics (IL/I(3L), University of Ilelsinkl, using the Fmglish nmrphological analyser (ENC,-TW()I,) and English Constraint (:h'ammar (EN(:I(:.'(:~) parser. The first half of the texts (103 million words) has ah'eady been processed in 1993. The project is lead by Prof. 3ohn Sinchdr in Birmingham, and l'rof.</Paragraph>
+<Paragraph position="1"> Fred Karlsson in Ilelsinld. The present author is responsible for conducting the annotation.</Paragraph>
+<Paragraph position="2"> In the introdnction of this paper the r,.:mtines Ibr dealing with htrge text corpora are presented and our analysing system outlined. Chapter 2 gives an' overlook how the texts are preprocessed. Chapter 3 descrihes the lexicon updating, which is a preliminary step to the analysis. The last part presents the li;N(:'C(~ parser and the ongoing developtnel,t of it.s syntactic cornponent.</Paragraph>
+</Section>
+</Paper>
+

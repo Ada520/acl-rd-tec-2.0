@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W01-1203">
+<Title>Parsing and Question Classification for Question Answering</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes machine learning based parsing and question classification for question answering. We demonstrate that for this type of application, parse trees have to be semantically richer and structurally more oriented towards semantics than what most treebanks offer. We empirically show how question parsing dramatically improves when augmenting a semantically enriched Penn treebank training corpus with an additional question treebank.</Paragraph>
+</Section>
+</Paper>
+

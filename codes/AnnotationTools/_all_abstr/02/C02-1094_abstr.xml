@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C02-1094">
+<Title>Integrating Linguistic and Performance-Based Constraints for Assigning Phrase Breaks</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The mapping between syntactic structure and prosodic structure is a widely discussed topic in linguistics. In this work we use insights gained from research on syntax-to-prosody mapping in order to develop a computational model which assigns prosodic structure to unrestricted text. The resulting structure is intended to help a text-to-speech (TTS) system to predict phrase breaks. In addition to linguistic constraints, the model also incorporates a performance-oriented parameter which approximates the effect of speaking rate. The model is rule-based rather than probabilistic, and does not require training. We present the model and implementations for both English and German, and give evaluation results for both implementations. We then examine how far the approach can account for the different break patterns which are associated with slow, normal and fast speech rates.</Paragraph>
+</Section>
+</Paper>
+

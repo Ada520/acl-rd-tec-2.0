@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N06-2027">
+<Title>Using Semantic Authoring for Blissymbols Communication Boards</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Natural language generation (NLG) refers to the process of producing text in a spoken language, starting from an internal knowledge representation structure. Augmentative and Alternative Communication (AAC) deals with the development of devices and tools to enable basic conversation for language-impaired people.</Paragraph>
+<Paragraph position="1"> We present an applied prototype of an AAC-NLG system generating written output in English and Hebrew from a sequence of Bliss symbols. The system does not &amp;quot;translate&amp;quot; the symbols sequence, but instead, it dynamically changes the communication board as the choice of symbols proceeds according to the syntactic and semantic content of selected symbols, generating utterances in natural language through a process of semantic authoring.</Paragraph>
+</Section>
+</Paper>
+

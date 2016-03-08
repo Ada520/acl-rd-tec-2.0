@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-1051">
+<Title>Error Driven Word Sense Disambiguation</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we describe a method for performing word sense disambiguation (WSD). The method relies on unsupervised learning and exploits functional relations among words as produced by a shallow parser. By exploiting an error driven rule learning algorithm (Brill 1997), the system is able to produce rules for WSD, which can be optionally edited by humans in order to increase the performance of the system.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-0856">
+<Title>Pattern Abstraction and Term Similarity for Word Sense Disambiguation: IRST at Senseval-3</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper summarizes IRST's participation in Senseval-3. We participated both in the English all-words task and in some lexical sample tasks (English, Basque, Catalan, Italian, Spanish). We followed two perspectives. On one hand, for the all-words task, we tried to re ne the Domain Driven Disambiguation that we presented at Senseval-2.</Paragraph>
+<Paragraph position="1"> The re nements consist of both exploiting a new technique (Domain Relevance Estimation) for domain detection in texts, and experimenting with the use of Latent Semantic Analysis to avoid reliance on manually annotated domain resources (e.g. WORD-NET DOMAINS). On the other hand, for the lexical sample tasks, we explored the direction of pattern abstraction and we demonstrated the feasibility of leveraging external knowledge using kernel methods. null</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0620">
+<Title>Dialogue Strategies for Improving the Usability of Telephone Human-Machine Communication</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Interactions with spoken language systems may present breakdowns that are due to errors in the acoustic decoding of user utterances. Some of these errors have important consequences in reducing the naturalness of human-machine dialogues. In this paper we identify some typologies of recognition errors that cannot be recovered during the syntactico-semantic analysis, but that may be effectively approached at the dialogue level. We will describe how non-understanding and the effects of misrecognition are dealt with by Dialogos, a real-time spoken dialogue system that allows users to access a database of railway information by telephone. We will discuss the importance of supporting confirmation turns, and clarification and correction subdialogues. We will show the positive effects of robust dialogue management and dialogue state dependent language modeling, by taking into account both the recognition and understanding performance, and the success rate of dialogue transactions.</Paragraph>
+</Section>
+</Paper>
+

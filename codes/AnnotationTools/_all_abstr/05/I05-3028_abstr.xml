@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="I05-3028">
+<Title>Chinese Word Segmentation with Multiple Postprocessors in HIT-IRLab</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents the results of the system IRLAS1 from HIT-IRLab in the Second International Chinese Word Segmentation Bakeoff. IRLAS consists of several basic components and multiple postprocessors. The basic components include basic segmentation, factoid recognition, and named entity recognition. These components maintain a segment graph together. The postprocessors include merging of adjoining words, morphologically derived word recognition, and new word identification. These postprocessors do some modifications on the best word sequence which is selected from the segment graph. Our system participated in the open and closed tracks of PK corpus and ranked #4 and #3 respectively.</Paragraph>
+<Paragraph position="1"> Our scores were very close to the highest level. It proves that our system has reached the current state of the art.</Paragraph>
+</Section>
+</Paper>
+

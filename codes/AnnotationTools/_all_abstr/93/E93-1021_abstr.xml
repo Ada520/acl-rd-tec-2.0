@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E93-1021">
+<Title>Towards a proper treatment of coercion phenomena *</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The interpretation of coercion constructions (to begin a book) has been recently considered as resulting from the operation of type changing. For instance, a phrase of type o (object) is coerced to a phrase of type e (event) under the influence of the predicate. We show that this procedure encounters empirical difficulties. Focussing on the begin/commencer case, we show that the coercion interpretation results both from general semantic processes and properties of the predicate, and we argue that it is best represented at the lexical level. The solution is formulated in the HPSG formalism, where the lexical description of heads includes a specification of the argument and articulates syntax and semantics. We propose that the properties attached to the complement remain the same as they are oustside the construction, but that the semantics of the predicate is enriched to include an abstract predicate of which the complement is an argument.</Paragraph>
+</Section>
+</Paper>
+

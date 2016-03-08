@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-1058">
+<Title>Constraints over Lambda-Structures in Semantic Underspecification</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We introduce a first-order language for semantic underspecification that we call Constraint Language for Lambda-Structures (CLLS). A A-structure can be considered as a A-term up to consistent renaming of bound variables (aequality); a constraint of CLLS is an underspecified description of a A-structure. CLLS solves a capturing problem omnipresent in underspecified scope representations. CLLS features constraints for dominance, lambda binding, parallelism, and anaphoric links. Based on CLLS we present a simple, integrated, and underspecified treatment of scope, parallelism, and anaphora.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C92-2107">
+<Title>Machine Translation by Case Generalization</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Case-based machine translation is a promising ~ppreach to resolving problems in rule-based machine translation systems, such as difficulties in control of rules and low adaptability to specific domains. We propose a new mechanism for case-based machine translation, in which a large set of cases is generalized into a smaller set of cases by using a thesaurus.</Paragraph>
+</Section>
+</Paper>
+

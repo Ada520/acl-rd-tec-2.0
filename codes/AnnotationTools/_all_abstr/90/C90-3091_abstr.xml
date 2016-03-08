@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-3091">
+<Title>A MATRIX REPRESENTATION OF THE INFLECTIONAL FORMS OF ARABIC WORDS: A STUDY OF CO-OCCURRENCE PATTERNS</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. INTRODUCTION
+</SectionTitle>
+<Paragraph position="0"> Over the past few years there has been a marked increase in the use of computers in the Arabic speaking countries. Many applications programs in Arabic have been developed, but the field of computational linguistics is relatively new in Arabic and presents a unique challenge, due to the highly inflected nature of the Arabic language.</Paragraph>
+<Paragraph position="1"> In the present work, we have attempted to represent the morphological rules governing the inflections of Arabic words in a compact form which can simplify the processing of Arabic words by computers and which is independent of the a particular application. There have been other attempts to show the conjugations of Arabic verbs &lt;2&gt; but the treatment does not delve into sufficient depth and not all enclitics, which are an essential part of Arabic verbs, are considered. Moreover, the treatment in &lt;2&gt; does not extend to nouns.</Paragraph>
+<Paragraph position="2"> By studying some 2,500 stems out of a high frequency Arabic wordlist due to Landau &lt;1&gt;, certain systematic co-occurrence patterns governing verb enclitics and noun possessive pronouns have been observed. These patterns are what we call &amp;quot;Matrices&amp;quot; in this paper; each unique &amp;quot;Matrix&amp;quot; reflects a different semantic behaviour.</Paragraph>
+<Paragraph position="3"> To summarize Arabic morphology in a nutshell, about 80~. of Arabic words can be derived from a For example,if we consider the root ,~ .'. J (K T B), we can form words such as .</Paragraph>
+<Paragraph position="4"> (?aKTuB - ! write) and ~J &amp;quot; &lt; (KiTa:B - book), by subjecting the root to various &amp;quot;forms&amp;quot; or &amp;quot;moulds&amp;quot; and by undergoing certain morpho-phonemic (and possibly also morpho-graphemic) changes. For a full discussion of traditional Arabic morphology see &lt;9&gt; and &lt;10&gt;. In this paper, we shall define such an inflected form to be a &amp;quot;STEM&amp;quot;.</Paragraph>
+<Paragraph position="5"> Thus a stem may contain infixes and certain prefixes which are part of the &amp;quot;mould&amp;quot; but may not contain any suffixes. Suffixes for verbs are subject and object pronouns, wblle for nouns they are possessive pronouns.</Paragraph>
+<Paragraph position="6"> One further definition which is used in the proposed representaion is the &amp;quot;Core&amp;quot;; this is simply the inflected form with all prefixes and suffixes stripped off. The core may or may not be a valid word.</Paragraph>
+<Paragraph position="7"> In comparison with other work in the area of traditional Arabic morphology (&lt;3&gt;,&lt;4&gt;), where the concern is with the rules which cause the inflected form to be derived from the ROOT, we have studied the rules governing the derivation of all possible inflected forms from the STEM, as defined above.</Paragraph>
+</Section>
+</Paper>
+

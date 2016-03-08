@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="I05-5010">
+<Title>Automatic generation of large-scale paraphrases</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Research on paraphrase has mostly focussed on lexical or syntactic variation within individual sentences. Our concern is with larger-scale paraphrases, from multiple sentences or paragraphs to entire documents. In this paper we address the problem of generating paraphrases of large chunks of texts.</Paragraph>
+<Paragraph position="1"> We ground our discussion through a worked example of extending an existing NLG system to accept as input a source text, and to generate a range of fluent semantically-equivalent alternatives, varying not only at the lexical and syntactic levels, but also in document structure and layout.</Paragraph>
+</Section>
+</Paper>
+

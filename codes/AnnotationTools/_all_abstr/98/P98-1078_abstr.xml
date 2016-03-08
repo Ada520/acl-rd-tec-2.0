@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-1078">
+<Title>References</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Separable verbs are verbs with prefixes which, depending on the syntactic context, can occur as one word written together or discontinuously. They occur in languages such as German and Dutch and constitute a problem for NLP because they are lexemes whose forms cannot always be recognized by dictionary lookup on the basis of a text word. Conventional solutions take a mixed lexical and syntactic approach. In this paper, we propose the solution offered by Word Manager, consisting of string-based recognition by means of rules of types also required for periphrastic inflection and clitics. In this way, separable verbs are dealt with as part of the domain of reusable lexical resources. We show how this solution compares favourably with conventional approaches.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C94-2180">
+<Title>CUSTOMIZING AND EVALUATING A MULTILINGUAL DISCOURSE MODULE</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> In this papeh we first describe how we have customized our data-driven multilingu~fl discourse module within our text understanding system lor dill'erent lm~guages and for a particular NLP application by utilizing hierm'chic~dly organized discourse KB's. Then, we report qum~titalive and qmditative findings from ewduating the system both with and without discourse processing, ~md discuss how resolving certain kinds of mmphora affects system perh)rlnance. null</Paragraph>
+</Section>
+</Paper>
+

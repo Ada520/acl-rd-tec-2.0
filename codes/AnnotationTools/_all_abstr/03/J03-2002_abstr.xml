@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J03-2002">
+<Title>c(c) 2003 Association for Computational Linguistics Implementing the Binding and Accommodation Theory for Anaphora Resolution and Presupposition Projection</Title>
+<Section position="2" start_page="0" end_page="180" type="abstr">
+<SectionTitle>
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> The last decade has seen an increase of formal interest in combining what were previously thought as of being two distinct phenomena: anaphora and presupposition. In particular what I will refer to as binding and accommodation theory (BAT) (Van der Sandt and Geurts 1991; Van der Sandt 1992; Geurts 1999), in which presuppositional expressions are essentially analyzed as rich anaphora, played an important role here. Not only does this theory help us gain new insights into the nature of presuppositions, it also accounts for an impressive range of problems related to linguistic behavior of presuppositions.</Paragraph>
+<Paragraph position="1"> In this paper I will put BAT in a computational perspective. The time is ripe to enter into this endeavor for two major reasons. First, because BAT is stipulated in the now well established and extensively formulated discourse representation theory (DRT) (Kamp and Reyle 1993), we have at our disposal a formalism covering a wide range of linguistic phenomena, including anaphora, plurals, tense, aspect, and scope ambiguities. Second, recent results in automated deduction, especially the performance of first-order theorem provers, open the doors for implementing a genuine inference component within a wider context of discourse processing (Blackburn et al. 2001).</Paragraph>
+<Paragraph position="2"> This is important, because in BAT, reasoning is required for correctly dealing with presuppositional phenomena.</Paragraph>
+<Paragraph position="3"> I start by giving an overview of linguistic aspects of the problems introduced by presuppositional expressions, summarize DRT, and show how BAT accounts for presuppositional expressions (Section 2). I then explain what constitutes a proper representation for presuppositions, give examples of lexical entries for presupposition triggers within a compositional framework, and introduce formal tools required for [?] Division of Informatics, 2 Buccleuch Place, Edinburgh EH8 9LW, Scotland UK. E-mail: jbos@cogsci.ed.ac.uk.</Paragraph>
+<Paragraph position="4">  Computational Linguistics Volume 29, Number 2 resolving presuppositions (Section 3). After presenting this formal machinery, I present an efficient version of the presupposition resolution algorithm in Section 4 and implement the various acceptability constraints imposed by BAT. Finally, in Section 5, I discuss implementational issues and report on the performance of the algorithm against a corpus of route instructions, and I investigate the use of general-purpose first-order theorem provers to carry out inference tasks imposed by BAT.</Paragraph>
+</Section>
+</Paper>
+

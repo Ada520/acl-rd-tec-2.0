@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P06-2007">
+<Title>Sydney, July 2006. c(c)2006 Association for Computational Linguistics N Semantic Classes are Harder than Two</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We show that we can automatically classify semantically related phrases into 10 classes. Classification robustness is improved by training with multiple sources of evidence, including within-document cooccurrence, HTML markup, syntactic relationships in sentences, substitutability in query logs, and string similarity. Our work provides a benchmark for automatic n-way classification into WordNet's semantic classes, both on a TREC news corpus and on a corpus of substitutable search query phrases.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A92-1044">
+<Title>SEISD: An environment for extraction of Semantic Information from on-line dictionaries</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+2 Methodology.
+</SectionTitle>
+<Paragraph position="0"> The final goal of a system like ours \[Agent et al., 91a\] is to obtain a large conceptual structure where the nodes would correspond to the lexical senses in the dictionary, the information present in definitions would be encoded within the nodes and the relations would be made explicit.</Paragraph>
+<Paragraph position="1"> The kind of relations we can set between senses are the relations that appear, in an explicit or implicit form, in the dictionary entries. The most important relation is, of course, the ISA one, which allows us to build a taxonomy of concepts related by the hypemym-hyponym links.</Paragraph>
+<Paragraph position="2"> Although a brute force approach is used sometimes for limited purposes, we cannot follow this for two main reasons: * The lack of limitations over the words that could appear in the dictionary definitions that would imply the use of a general-purpose morphological analyzer with a very large coverage.</Paragraph>
+<Paragraph position="3"> * The need for different grammars to parse entry definitions belonging to distant semantic fields (we use different grammars for parsing entries belonging to &amp;quot;substance&amp;quot;, &amp;quot;food&amp;quot; or &amp;quot;instrument&amp;quot; fields).</Paragraph>
+<Paragraph position="4"> The conclusion was to build the whole conceptual structure from several &amp;quot;chunks&amp;quot; of conceptual nets, so that each one would correspond to a narrow domain and would be built independently. For each of these domains we have selected one or more starting words or senses (that correspond to the root of the taxonomies we intend to extrac0 and proceeded top-down from them.</Paragraph>
+</Section>
+</Paper>
+

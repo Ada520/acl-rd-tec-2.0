@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-3037">
+<Title>Coordination in an A xlomatl Grammar*</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> For some time there has been interest in the idea of parsing as deduction. Here we present a grammatical tbrmalism, 'Axiomatic Grammar', which is based upon a small number of linguistically motivated ax-toms and deduction rules. Each axiom or rule combines a 'category' with a string of words to form a further category. This contrasts with the usual 'treestructure' approach to syntactic analysis where constituents are combined with each other to form a further constituent.</Paragraph>
+<Paragraph position="1"> We describe a grammar for English which has a good coverage of 'non-constituent' coordination.</Paragraph>
+<Paragraph position="2"> The grammar has been integrated with a toy semantics, and has been implemented in a left-to-right parser with incremental semantic interpretation. The parser does not suffer fi'om spurious ambiguity. null</Paragraph>
+</Section>
+</Paper>
+

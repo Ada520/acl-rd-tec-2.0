@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H94-1068">
+<Title>vIicrophone Arrays and Neural Networks for Robust Speech Recognition</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> This paper explores use of synergistically-integrated systems of microphone arrays and neural networks for robust speech recognition in variable acoustic environments, where the user must not be encumbered by microphone equipment. Existing speech recognizers work best for &amp;quot;high-quality close-talking speech.&amp;quot; Performance of these recognizers is typically degraded by environmental interference and mismatch in training conditions and testing conditions. It is found that use of microphone arrays and neural network processors can elevate the recognition performance of existing speech recognizers in an adverse acoustic environment, thus avoiding the need to retrain the recognizer, a complex and tedious task. We also present results showing that a system of microphone arrays and neural networks can achieve a higher word recognition accuracy in an unmatched training/testing condition than that obtained with a retrained speech recognizer using array speech for both training and testing, i.e., a matched training/testing condition.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J90-3004">
+<Title>DISJUNCTION WITHOUT TEARS</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+DISJUNCTION WITHOUT TEARS
+</SectionTitle>
+<Paragraph position="0"></Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+Ireland
+</SectionTitle>
+<Paragraph position="0"> It is now common practice to use structured sets of features to describe syntactic structures, and to compare such structured sets by some form of unification. It is extremely tempting to try to encode disjunctive information within this framework; unfortunately, general unification of disjunctive structures is NPcomplete, which is not a desirable property for the basic operation involved in comparing descriptions. We note that certain kinds of disjunctfve specifications can be converted to conjunctive ones. This enables us to describe a restricted set of disjunctive phenomena without incurring the costs associated with general disjunctive unification.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

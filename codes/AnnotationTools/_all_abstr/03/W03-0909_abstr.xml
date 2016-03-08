@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-0909">
+<Title>Surfaces and Depths in Text Understanding: The Case of Newspaper Commentary</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Using a specific example of a newspaper commentary, the paper explores the relationship between 'surface-oriented' and 'deep' analysis for purposes such as text summarization. The discussion is followed by a description of our ongoing work on automatic commentary understanding and the current state of the implementation. null</Paragraph>
+</Section>
+</Paper>
+

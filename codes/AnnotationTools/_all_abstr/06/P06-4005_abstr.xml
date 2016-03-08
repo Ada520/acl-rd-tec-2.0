@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P06-4005">
+<Title>Sydney, July 2006. c(c)2006 Association for Computational Linguistics An intelligent search engine and GUI-based efficient MEDLINE search tool based on deep syntactic parsing</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a practical HPSG parser for English, an intelligent search engine to retrieve MEDLINE abstracts that represent biomedical events and an efficient MEDLINE search tool helping users to find information about biomedical entities such as genes, proteins, and the interactions between them.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1118">
+<Title>Controlling Gender Equality with Shallow NLP Techniques</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper introduces the \Gendercheck Editor&amp;quot;, a tool to check German texts for gender discriminatory formulations. It relays on shallow rule-based techniques as used in the Controlled Language Authoring Technology (CLAT). The paper outlines major sources of gender imbalances in German texts. It gives a background on the underlying CLAT technology and describes the marking and annotation strategy to automatically detect and visualize the questionable pieces of text. The paper provides a detailed evaluation of the editor.</Paragraph>
+</Section>
+</Paper>
+

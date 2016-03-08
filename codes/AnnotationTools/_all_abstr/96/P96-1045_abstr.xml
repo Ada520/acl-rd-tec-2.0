@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P96-1045">
+<Title>Generating an LTAG out of a principle-based hierarchical representation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Lexicalized Tree Adjoining Grammars have proved useful for NLP. However, numerous redundancy problems face LTAGs developers, as highlighted by Vijay-Shanker and Schabes (92).</Paragraph>
+<Paragraph position="1"> We present and a tool that automatically generates the tree families of an LTAG. It starts from a compact hierarchical organization of syntactic descriptions that is linguistically motivated and carries out all the relevant combinations of linguistic phenomena.</Paragraph>
+</Section>
+</Paper>
+

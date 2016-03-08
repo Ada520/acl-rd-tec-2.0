@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H89-2034">
+<Title>Speaker Adaptation Using Multiple Reference Speakers</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> We introduce a new technique for using the speech of multiple reference speakers as a basis for speaker adaptation in large vocabulary continuous speech recognition. In contrast to other methods that use a pooled reference model, this technique normalizes the training speech from multiple reference speakers to a single common feature space before pooling it. The normalized and pooled speech can then be treated as if it came from a single reference speaker for training the reference hidden Markov model (HMM). Our usual prohabilistic spectrum transformation can be applied to the reference HMM to model a new (target) speaker. In this paper, we describe our baseline (single reference speaker) speaker-adaptation system and give current performance results from a recent formal evaluation of the system. We also describe our proposal for adapting from multiple reference speakers and report on recent preliminary experimental results in support of the proposed technique.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="I05-5012">
+<Title>a1 Information and Communication Technologies</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Summary sentences are often paraphrases of existing sentences. They may be made up of recycled fragments of text taken from important sentences in an input document. We investigate the use of a statistical sentence generation technique that recombines words probabilistically in order to create new sentences. Given a set of event-related sentences, we use an extended version of the Viterbi algorithm which employs dependency relation and bigram probabilities to find the most probable summary sentence. Using precision and recall metrics for verb arguments as a measure of grammaticality, we find that our system performs better than a bi-gram baseline, producing fewer spurious verb arguments.</Paragraph>
+</Section>
+</Paper>
+

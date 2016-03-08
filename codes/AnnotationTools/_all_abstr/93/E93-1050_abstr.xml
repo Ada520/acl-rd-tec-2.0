@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E93-1050">
+<Title></Title>
+<Section position="1" start_page="0" end_page="425" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> Klein \[Klein, 1986\] introduced Predicate-DRSs for the resolution of VP Ellipsis. In that approach a Predicate~DRS (henceforth PDRS) serves as the representation of a verb phrase, as will be shown in an example now. Consider: Nancy likes a cat.</Paragraph>
+<Paragraph position="1"> (1) Betty does too.</Paragraph>
+<Paragraph position="2"> This discourse is interpreted as meaning that Nancy and Betty both like a cat (though not necessarily the same cat). The source clause, Nancy likes a cat, parallels the target clause Betty does too, where the subjects are parallel elements. The phrase does too represents a trace of the VP in the target clause. Klein's treatment of (1) is shown in (2).</Paragraph>
+<Paragraph position="3"> (2)</Paragraph>
+<Paragraph position="5"> In the second sentence of (1), a do-anaphor appears that must be linked to a marker which has already been introduced into the universe of the DtLS. The value of this marker, which is P1, as we can see in (2), is constrained by the conditions associated with the previous VP in the discourse \[Klein, 1986\]. Following Klein, we call P1 a predicate marker, and the Sub-DRS that is associated with Pt a Predicate-DRS. To the domain of P1, a distinguished reference marker Yl (indicated by square brackets) is added, which plays the role of the individual, in this case xl which is applied to the predicate. This application can also be shown as a lambda expression:  (3) A Yl (cat(ys) A like (YhYs)) (xl)  In (2) the condition Ps(xs) in the main DRS will apply the object xs to the predicate and solve the do-anaphor in (1). The scope of marker Ys is defined by the PDILS, instead of the main DRS, which allows that Nancy and Betty do not necessarily like the same cat.</Paragraph>
+<Paragraph position="6"> But this same feature introduces a problem for pronoun resolution. This problem occurs when pronouns refer to indefinite NPs which are in the universe of a PDRS and therefore inaccessible. Let us give an example by considering the DRS (5) as the translation of (4).</Paragraph>
+<Paragraph position="7"> Nancyt likes a cats.</Paragraph>
+<Paragraph position="8">  (4) She1 strokes its.</Paragraph>
+<Paragraph position="9"> (5)</Paragraph>
+<Paragraph position="11"> Since, in DRT, an anaphor can only refer to antecedents from its own domain or from universes that its DRS subordinates, the pronoun it cannot be anaphorically linked to the indefinite description a cat. This means, in the situation of (5), candidate antecedents for it can only be found in the main D1LS, since Pz is subordinated to it. The desirable antecedent y2 in P1 is blockedJ A solution to the problem of the indefinite descriptions appearing in PDRSs, is to make them accessible in the main DRS. This paper shows, by slightly modifying Klein's PDRSs, how that can be done, without losing their desirable characteristics.</Paragraph>
+<Paragraph position="12"> Firstly, we outline informally how indefinite descriptions in PDRSs are made accessible. Then we show how this idea relates to aspects like negation, disjunction, quantification and the strict/sloppy identity of VP Ellipsis. Finally, we report about the implementation under development.</Paragraph>
+<Paragraph position="13"> 1Notice, that proper names and definite descriptions do not give rise to this problem. In DRT, these are usually added to the universe of the main DRS \[Kamp and Reyle, 1990\] or accommodated to it \[Van derSandt, 1992\].</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E93-1015">
+<Title>Automating the Acquisition of Bilingual Terminology</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> As the acquisition problem of bilingual lists of terminological expressions is formidable, it is worthwhile to investigate methods to compile such lists as automatically as possible. In this paper we discuss experimental results for a number of methods, which operate on corpora of previously translated texts.</Paragraph>
+<Paragraph position="1"> Keywords: parallel corpora, tagging, terminology acquisition.</Paragraph>
+</Section>
+</Paper>
+

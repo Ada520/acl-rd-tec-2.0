@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H91-1053">
+<Title>Bayesian Learning of Gaussian Mixture Densities for Hidden Markov Models</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> An investigation into the use of Bayesian learning of the parameters of a multivariate Gaassian mixture density has been carried out.</Paragraph>
+<Paragraph position="1"> In a continuous density hidden Markov model (CDHMM) framework, Bayesian learning serves as a unified approach for parameter smoothing, speaker adaptation, speaker clustering, and corrective training.</Paragraph>
+<Paragraph position="2"> The goal of this study is to enhance model robustness in a CDHMM-based speech recognition system so as to improve performance. Our approach is to use Bayesian learning to incorporate prior knowledge into the CDHMM training process in the form of prior densities of the HMM parameters. The theoretical basis for this procedure is presented and preliminary results applying to HMM parameter smoothing, speaker adaptation, and speaker clustering are given.</Paragraph>
+<Paragraph position="3"> Performance improvements were observed on tests using the DARPA RM task. For speaker adaptation, under a supervised learning mode with 2 minutes of speaker-specific training data, a 31% reduction in word error rate was obtained compared to speaker-lndependent results.</Paragraph>
+<Paragraph position="4"> Using Baysesian learning for HMM parameter smoothing and sex-dependent modeling, a 21% error reduction was observed on the FEB91 test.</Paragraph>
+</Section>
+</Paper>
+

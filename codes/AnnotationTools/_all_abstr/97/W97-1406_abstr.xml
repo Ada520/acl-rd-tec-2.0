@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-1406">
+<Title>I Active and Passive Gestures - Problems with the Resolution of Deictic and Elliptic Expressions in a Multimodal System</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+m
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper deals with aspects of the resolution of deictic and elliptic expressions that are related to gestures. It discusses different approaches to distinguish between deictic pointing and manipulative gestures. We compare two strategies of combining natural multimodal communication with direct manipulation. The first approach uses click free mouse gestures for deictic pointing, while manipulative gestures are performed by using mouse button events as is usual in graphic interfaces. The second approach uses a touchscreen as gestural input device.</Paragraph>
+</Section>
+</Paper>
+

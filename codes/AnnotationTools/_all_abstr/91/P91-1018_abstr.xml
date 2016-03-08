@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P91-1018">
+<Title>regier@cogsci.Berkeley.ED U * TR &amp;quot;Above&amp;quot; Figure 1: Learning to Associate Scenes with Spatial Terms</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> A method is presented for acquiring perceptually-grounded semantics for spatial terms in a simple visual domain, as a part of the L0 miniature language acquisition project. Two central problems in this learning task are (a) ensuring that the terms learned generalize well, so that they can be accurately applied to new scenes, and (b) learning in the absence of explicit negative evidence. Solutions to these two problems are presented, and the results discussed.</Paragraph>
+</Section>
+</Paper>
+

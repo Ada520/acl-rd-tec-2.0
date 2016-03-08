@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-0432">
+<Title>Named Entity Recognition Using a Character-based Probabilistic Approach</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a named entity recognition and classification system that uses only probabilistic character-level features. Classifications by multiple orthographic tries are combined in a hidden Markov model framework to incorporate both internal and contextual evidence. As part of the system, we perform a preprocessing stage in which capitalisation is restored to sentence-initial and all-caps words with high accuracy. We report f-values of 86.65 and 79.78 for English, and 50.62 and 54.43 for the German datasets.</Paragraph>
+</Section>
+</Paper>
+

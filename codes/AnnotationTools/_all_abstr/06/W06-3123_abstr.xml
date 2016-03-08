@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-3123">
+<Title>Constraining the Phrase-Based, Joint Probability Statistical Translation Model</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The joint probability model proposed by Marcu and Wong (2002) provides a strong probabilistic framework for phrase-based statistical machine translation (SMT). The model's usefulness is, however, limited by the computational complexity of estimating parameters at the phrase level. We present the first model to use word alignmentsforconstrainingthespaceofphrasal null alignments searched during Expectation Maximization (EM) training. Constraining the joint model improves performance,  showingresultsthatareveryclosetostateof-the-art phrase-based models. It also allows it to scale up to larger corpora and therefore be more widely applicable.</Paragraph>
+</Section>
+</Paper>
+

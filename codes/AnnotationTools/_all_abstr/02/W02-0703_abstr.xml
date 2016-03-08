@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-0703">
+<Title>Spoken Language Parsing Using Phrase-Level Grammars and Trainable Classifiers</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we describe a novel approach to spoken language analysis for translation, which uses a combination of grammar-based phrase-level parsing and automatic classification. The job of the analyzer is to produce a shallow semantic interlingua representation for spoken task-oriented utterances. The goal of our hybrid approach is to provide accurate real-time analyses while improving robustness and portability to new domains and languages.</Paragraph>
+</Section>
+</Paper>
+

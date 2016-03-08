@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C94-2133">
+<Title>Multi-Modal Definite Clause Grammar</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes the first reported grammatical framework for a nmltimodal interface. Although multimodal interfaces offer the promise of a flexible and user fl'iendly means of human-coml)uter interaction, no study has yet appeared on formal granunatical f'l'ameworks for theln. We have developed Multi-</Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+Modal Definite Clause Ch'ammar (MM-I)CG),
+</SectionTitle>
+<Paragraph position="0"> an extension of Definite Clause Gramumr. The major features of MM-I)CG inch, de eal)ability to handle an arbitrary mlmber of modes and temporal information in grammar rules, l:urther, we have developed MM-DCG translator to transfer rules in MM-DCG into Prolog predicates. null</Paragraph>
+</Section>
+</Section>
+</Paper>
+

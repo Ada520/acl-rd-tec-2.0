@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P97-1018">
+<Title>Integrating Symbolic and Statistical Representations: The Lexicon Pragmatics Interface</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe a formal framework for interpretation of words and compounds in a discourse context which integrates a symbolic lexicon/grammar, word-sense probabilities, and a pragmatic component. The approach is motivated by the need to handle productive word use. In this paper, we concentrate on compound nominals.</Paragraph>
+<Paragraph position="1"> We discuss the inadequacies of approaches which consider compound interpretation as either wholly lexico-grammatical or wholly pragmatic, and provide an alternative integrated account.</Paragraph>
+</Section>
+</Paper>
+

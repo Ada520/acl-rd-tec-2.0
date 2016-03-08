@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-3211">
+<Title>Mixing Weak Learners in Semantic Parsing</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We apply a novel variant of Random Forests (Breiman, 2001) to the shallow semantic parsing problem and show extremely promising results.</Paragraph>
+<Paragraph position="1"> The final system has a semantic role classification accuracy of 88.3% using PropBank gold-standard parses. These results are better than all others published except those of the Support Vector Machine (SVM) approach implemented by Pradhan et al. (2003) and Random Forests have numerous advantages over SVMs including simplicity, faster training and classification, easier multi-class classification, and easier problem-specific customization. We also present new features which result in a 1.1% gain in classification accuracy and describe a technique that results in a 97% reduction in the feature space with no significant degradation in accuracy.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A00-2036">
+<Title>Left-To-Right Parsing and Bilexical Context-Free Grammars</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We compare the asymptotic time complexity of left-to-right and bidirectional parsing techniques for bilexical context-free grammars, a grammar formalism that is an abstraction of language models used in several state-of-the-art real-world parsers. We provide evidence that left-to-right parsing cannot be realised within acceptable time-bounds if the so called correct-prefix property is to be ensured. Our evidence is based on complexity results for the representation of regular languages.</Paragraph>
+</Section>
+</Paper>
+

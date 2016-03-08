@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A97-1044">
+<Title>Building Effective Queries In Natural Language Information Retrieval</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+4 Huntington Street, New Brunswick, NJ 08903
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> In this paper we report on our natural language information retrieval (NLIR) project as related to the recently concluded 5th Text Retrieval Conference (TREC-5).</Paragraph>
+<Paragraph position="1"> The main thrust of this project is to use natural language processing techniques to enhance the effectiveness of full-text document retrieval. One of our goals was to demonstrate that robust if relatively shallow NLP can help to derive a better representation of text documents for statistical search. Recently, we have turned our attention away from text representation issues and more towards query development problems. While our NLIR system still performs extensive natural language processing in order to extract phrasal and other indexing terms, our focus has shifted to the problems of building effective search queries. Specifically, we are interested in query construction that uses words, sentences, and entire passages to expand initial topic specifications in an attempt to cover their various angles, aspects and contexts. Based on our earlier results indicating that NLP is more effective with long, descriptive queries, we allowed for long passages from related documents to be liberally imported into the queries. This method appears to have produced a dramatic improvement in the performance of two different statistical search engines that we tested (Cornell's SMART and NIST's Prise) boosting the average precision by at least 40%. In this paper we discuss both manual and automatic procedures for query expansion within a new stream-based information retrieval model.</Paragraph>
+</Section>
+</Paper>
+

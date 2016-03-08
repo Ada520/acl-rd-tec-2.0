@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0106">
+<Title>I I I I I, I l Grammar Acquisition Based on Clustering Analysis and Its Application to Statistical Parsing</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper proposes a new method for learning a context-sensitive conditional probability context-free grammar from an unlabeled bracketed corpus based on clustering analysis and describes a natural language parsing model which uses a probability-based scoring function of the grammar to rank parses of a sentence. By grouping brackets in s corpus into a number of sire;far bracket groups based on their local contextual information, the corpus is automatically labeled with some nonterm~=a\] labels, and consequently a grammar with conditional probabilities is acquired. The statistical parsing model provides a framework for finding the most likely parse of a sentence based on these conditional probabilities. Experiments using Wall Street Journal data show that our approach achieves a relatively high accuracy: 88 % recaJ1, 72 % precision and 0.7 crossing brackets per sentence for sentences shorter than 10 words, and 71 ~ recall, 51 ~0 precision and 3.4 crossing brackets for sentences between 10-19 words. This result supports the assumption that local contextual statistics obtained from an unlabeled bracketed corpus are effective for learnln~ a useful grammar and parsing.</Paragraph>
+</Section>
+</Paper>
+

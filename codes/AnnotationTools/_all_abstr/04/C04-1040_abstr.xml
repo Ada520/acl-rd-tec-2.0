@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1040">
+<Title>A Deterministic Word Dependency Analyzer Enhanced With Preference Learning</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Word dependency is important in parsing technology. Some applications such as Information Extraction from biological documents benefit from word dependency analysis even without phrase labels. Therefore, we expect an accurate dependency analyzer trainable without using phrase labels is useful. Although such an English word dependency analyzer was proposed by Yamada and Matsumoto, its accuracy is lower than state-of-the-art phrase structure parsers because of the lack of top-down information given by phrase labels. This paper shows that the dependency analyzer can be improved by introducing a Root-Node Finder and a Prepositional-Phrase Attachment Resolver.</Paragraph>
+<Paragraph position="1"> Experimental results show that these modules based on Preference Learning give better scores than Collins' Model 3 parser for these subproblems. We expect this method is also applicable to phrase structure parsers.</Paragraph>
+</Section>
+</Paper>
+

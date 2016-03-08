@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-1037">
+<Title>j schang@cs.nthu.edu.tw</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we propose an algorithm for aligning words with their translation in a bilingual corpus. Conventional algorithms are based on word-by-word models which require bilingual data with hundreds of thousand sentences for training. By using a word-based approach, less frequent words or words with diverse translations generally do not have statistically significant evidence for confident alignment. Consequently, incomplete or incorrect alignments occur. Our algorithm attempts to handle the problem using class-based rules which are automatic acquired from bilingual materials such as a bilingual corpus or machine readable dictionary. The procedures for acquiring these rules is also described. We found that the algorithm can align over 80% of word pairs while maintaining a comparably high precision rate, even when a small corpus was used in .training. The algorithm also poses the advantage of producing a tagged corpus for word sense disambiguation.</Paragraph>
+</Section>
+</Paper>
+

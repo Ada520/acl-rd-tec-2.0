@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-2157">
+<Title>Prefix Probabilities from Stochastic Tree Adjoining Grammars*</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Language models for speech recognition typically use a probability model of the form Pr(an\[al,a2,...,an-i). Stochastic grammars, on the other hand, are typically used to assign structure to utterances, A language model of the above form is constructed from such grammars by computing the prefix probability ~we~* Pr(al.-.artw), where w represents all possible terminations of the prefix al...an.</Paragraph>
+<Paragraph position="1"> The main result in this paper is an algorithm to compute such prefix probabilities given a stochastic Tree Adjoining Grammar (TAG).</Paragraph>
+<Paragraph position="2"> The algorithm achieves the required computation in O(n 6) time. The probability of sub-derivations that do not derive any words in the prefix, but contribute structurally to its derivation, are precomputed to achieve termination.</Paragraph>
+<Paragraph position="3"> This algorithm enables existing corpus-based estimation techniques for stochastic TAGs to be used for language modelling.</Paragraph>
+</Section>
+</Paper>
+

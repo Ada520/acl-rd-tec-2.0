@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-2044">
+<Title>Disambiguating Cue Phrases in Text and Speech</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Cue phrases are linguistic expressions such as 'now' and 'welg that may explicitly mark the structure of a discourse. For example, while the cue phrase 'inczdcntally' may be used SENTENTIALLY as an adverbial, the DISCOUaSE use initiates a digression. In \[8\], we noted the ambiguity of cue phrases with respect to discourse and sentential usage and proposed an intonational model for their disambiguation. In this paper, we extend our previous characterization of cue phrases aald generalize its domain of coverage, based on a larger and more comprehensive empirical study: an examination of all cue phrases produced by a single ,~peaker in recorded natural speech. We also associate this prosodic model with orthographic and part-of-speech analyses of cue phrases in text. Such a dual model provides both theoretical justification for current computational models of discourse and practical application to the generation of synthetic speech.</Paragraph>
+</Section>
+</Paper>
+

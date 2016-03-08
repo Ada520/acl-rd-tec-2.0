@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-1815">
+<Title>CombiningClassifiersforChineseWordSegmentation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we report results of a supervised machine-learning approach to Chinese word segmentation. First, a maximum entropytaggeristrainedonmanuallyannotated datatoautomaticallylabelsthecharacterswith tagsthatindicatethepositionofcharacterwithin a word. An error-driven transformation-based tagger is then trained to clean up the tagging inconsistencies of the first tagger. The tagged output is then converted into segmented text.</Paragraph>
+<Paragraph position="1"> Thepreliminaryresultsshowthatthisapproach is competitive comparedwith othersupervised machine-learning segmenters reported in previousstudies.</Paragraph>
+</Section>
+</Paper>
+

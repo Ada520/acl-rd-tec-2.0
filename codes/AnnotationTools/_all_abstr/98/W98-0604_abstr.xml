@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-0604">
+<Title>Using NOMLEX to Produce Nominalization Patterns for Information Extraction</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes how NOMLEX, a dictionary of nominalizations, can be used in Information Extraction (IE). This paper details a procedure which maps syntactic and semantic information designed for writing an IE pattern for an active clause (IBM appointed Alice Smith as vice president) into a set of patterns for nominalizations (e.g., IBM's appointment of Alice Smith as vice president and Alice Smith's appointment as vice president).</Paragraph>
+</Section>
+</Paper>
+

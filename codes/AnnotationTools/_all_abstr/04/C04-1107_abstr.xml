@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1107">
+<Title>Probabilistic Sentence Reduction Using Support Vector Machines</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper investigates a novel application of support vector machines (SVMs) for sentence reduction.</Paragraph>
+<Paragraph position="1"> We also propose a new probabilistic sentence reduction method based on support vector machine learning. Experimental results show that the proposed methods outperform earlier methods in term of sentence reduction performance.</Paragraph>
+</Section>
+</Paper>
+

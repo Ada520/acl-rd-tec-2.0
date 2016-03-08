@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-1603">
+<Title>Preliminary Lexical Framework for English-Arabic Semantic Resource Construction</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes preliminary work concerning the creation of a Framework to aid in lexical semantic resource construction. The Framework consists of 9 stages during which various lexical resources are collected, studied, and combined into a single combinatory lexical resource. To evaluate the general Framework it was applied to a small set of English and Arabic resources, automatically combining them into a single lexical knowledge base that can be used for query translation and disambiguation in Cross-</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-0424">
+<Title>Language Independent NER using a Maximum Entropy Tagger</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Named Entity Recognition (NER) systems need to integrate a wide variety of information for optimal performance. This paper demonstrates that a maximum entropy tagger can effectively encode such information and identify named entities with very high accuracy. The tagger uses features which can be obtained for a variety of languages and works effectively not only for English, but also for other languages such as German and Dutch.</Paragraph>
+</Section>
+</Paper>
+

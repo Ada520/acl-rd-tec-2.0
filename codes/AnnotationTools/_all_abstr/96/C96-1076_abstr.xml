@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-1076">
+<Title>Modularizing Contexted Constraints</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a nlethod for compiling a constraint-based grammar into a potentially inore efficient form for processing. This method takes dependent disjunctions within a constraint formula and factors them into non-interacting groups whenever possibh; by determining their independence. When a group of dependent disjunctions is split into slnaller groups, an exponential amount of redundant information is reduced. At runtime, this ineans that all exponential alnount of processing can be saved as well. Since the performance of an algorithm ibr processing constraints with dependent disjmmtions is highly deterxnined by its input, the transformatioll presented in this paper should prove beneficial for all such algorithms.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-3203">
+<Title>Induction of Greedy Controllers for Deterministic Treebank Parsers</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Most statistical parsers have used the grammar induction approach, in which a stochastic grammar is induced from a treebank. An alternative approach is to induce a controller for a given parsing automaton. Such controllers may be stochastic; here, we focus on greedy controllers, which result in deterministic parsers.</Paragraph>
+<Paragraph position="1"> We use decision trees to learn the controllers.</Paragraph>
+<Paragraph position="2"> The resulting parsers are surprisingly accurate and robust, considering their speed and simplicity. They are almost as fast as current part-of-speech taggers, and considerably more accurate than a basic unlexicalized PCFG parser. We also describe Markov parsing models, a general framework for parser modeling and control, of which the parsers reported here are a special case.</Paragraph>
+</Section>
+</Paper>
+

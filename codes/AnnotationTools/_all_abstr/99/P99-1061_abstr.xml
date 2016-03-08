@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P99-1061">
+<Title>A Bag of Useful Techniques for Efficient and Robust Parsing</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes new and improved techniques which help a unification-based parser to process input efficiently and robustly. In combination these methods result in a speed-up in parsing time of more than an order of magnitude. The methods are correct in the sense that none of them rule out legal rule applications.</Paragraph>
+</Section>
+</Paper>
+

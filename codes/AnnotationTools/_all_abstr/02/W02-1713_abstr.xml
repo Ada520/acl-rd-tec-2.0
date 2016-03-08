@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-1713">
+<Title>XtraGen -- A Natural Language Generation System Using XMLand Java-Technologies</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we present XtraGen, a XML- and Java-based software system for the flexible, real-time generation of natural language that is easily integrated and used in real-world applications. We describe its grammar formalism and implementation in detail, depict the context of how the system was evaluated and finally provide an outlook on future work with the system.</Paragraph>
+</Section>
+</Paper>
+

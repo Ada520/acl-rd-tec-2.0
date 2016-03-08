@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N04-4031">
+<Title>Computational Linkuistics: word triggers across hyperlinks</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> It is known that context words tend to be selftriggers, that is, the probability of a content word to appear more than once in a document, given that it already appears once, is significantly higher than the probability of the first occurrence. We look at self-triggerability across hyperlinks on the Web. We show that the probability of a word a6a8a7 to appear in a Web document a9a11a10 depends on the presence of a6a12a7 in documents pointing to a9a13a10 . In Document Modeling, we will propose the use of a correction factor, a14 , which indicates how much more likely a word is to appear in a document given that another document containing the same word is linked to it.</Paragraph>
+</Section>
+</Paper>
+

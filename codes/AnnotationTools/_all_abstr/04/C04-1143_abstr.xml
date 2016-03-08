@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1143">
+<Title>FASIL Email Summarisation System</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Email summarisation presents a unique set of requirements that are different from general text summarisation. This work describes the implementation of an email summarisation system for use in a voice-based Virtual Personal Assistant developed for the EU FASiL Project. Evaluation results from the first integrated version of the project are presented.</Paragraph>
+</Section>
+</Paper>
+

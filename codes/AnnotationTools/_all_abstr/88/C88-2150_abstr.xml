@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C88-2150">
+<Title>Generation as Structure Driven Derivation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+FRG
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes two algorithms which construct two different types of generators for lexical functional grammars (LFGs). The first type generates sentences from functional structures and the second from semantic structures. The latter works on the basis of extended LFGs, which contain a mapping from f-structures into semantic structures. Both algorithms can be used on all grammars within the respective class of LFG-grammars. Thus sentences can be generated from input structures by means of LFG-grammars and the same grammar formalism, although not necessarily the same grammar, can be used for both analysis and synthesis.</Paragraph>
+</Section>
+</Paper>
+

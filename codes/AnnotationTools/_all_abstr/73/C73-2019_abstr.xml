@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C73-2019">
+<Title></Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+MARTIN KAY
+MORPHOLOGICAL ANALYSIS
+</SectionTitle>
+<Paragraph position="0"> A computer program that is intended to carry out nontrivial operations on texts in an ordinary language must start by recognizing the words that the text is made up of. This is the procedure I call morphological analysis. It is necessary because the linguistically interesting properties of words cannot be discovered by examining the words themselves but are associated with them in an essentially arbitrary manner.</Paragraph>
+<Paragraph position="1"> Therefore, there must be a list - what we call a dictionary - to define the mapping of words into linguistically interesting properties and a process to look words up in this dictionary.</Paragraph>
+<Paragraph position="2"> Many computer programs have been written in which morphological analysis consists of nothing more than accepting any unbroken string of letters encountered in a text as a word and referring it to a dictionary. This means that, in addition to what is usually found there, the dictionary must contain plural forms of norms, all the forms of every verb, regular or irregular, all adverbs, and so forth. A machine dictionary of English constructed on these principles would contain four to six times as many entries as a standard dictionary but some of these entries could presumably consist of little more than a reference to the standard form of the word - the singular of the noun, the infinitive of the verb, or whatever. A modern computer could easily accommodate a dictionary of English enlarged in this way and it is an attractive thing to do if only because it reduces the problem of morphological analysis almost to triviality. The increase in the size of the dictionary is more alarming in the case of a highly inflected language. There are, however, many languages for which this solution is unthinkable and many for which it is clearly undesirable. In ancient Greek, Latin, and Sanskrit, for example, it was not customary to leave spaces between words so that</Paragraph>
+</Section>
+</Paper>
+

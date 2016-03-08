@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N04-4030">
+<Title>Nearly-Automated Metadata Hierarchy Creation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Currently, information architects create meta-data category hierarchies manually. We present a nearly-automated approach for deriving such hierarchies, by converting the lexical hierarchy WordNet into a format that reflects the contents of a target information collection. We use the term &amp;quot;nearly-automated&amp;quot; because an information architect should have to make only small adjustments to produce an acceptable metadata structure. We contrast the results with an algorithm that uses lexical co-occurrence statistics.</Paragraph>
+</Section>
+</Paper>
+

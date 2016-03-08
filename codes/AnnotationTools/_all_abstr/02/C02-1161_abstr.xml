@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C02-1161">
+<Title>Lexical Query Paraphrasing for Document Retrievala0</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe a mechanism for the generation of lexical paraphrases of queries posed to an Internet resource. These paraphrases are generated using WordNet and part-of-speech information to propose synonyms for the content words in the queries.</Paragraph>
+<Paragraph position="1"> Statistical information, obtained from a corpus, is then used to rank the paraphrases. We evaluated our mechanism using 404 queries whose answers reside in the LA Times subset of the TREC-9 corpus. There was a 14% improvement in performance when paraphrases were used for document retrieval.</Paragraph>
+</Section>
+</Paper>
+

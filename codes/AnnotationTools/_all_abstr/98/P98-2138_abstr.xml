@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-2138">
+<Title>Combining Trigram and Winnow in Thai OCR Error Correction</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> For languages that have no explicit word boundary such as Thai, Chinese and Japanese, correcting words in text is harder than in English because of additional ambiguities in locating error words. The traditional method handles this by hypothesizing that every substrings in the input sentence could be error words and trying to correct all of them. In this paper, we propose the idea of reducing the scope of spelling correction by focusing only on dubious areas in the input sentence. Boundaries of these dubious areas could be obtained approximately by applying word segmentation algorithm and finding word sequences with low probability. To generate the candidate correction words, we used a modified edit distance which reflects the characteristic of Thai OCR errors. Finally, a part-of-speech trigram model and Winnow algorithm are combined to determine the most probable correction.</Paragraph>
+</Section>
+</Paper>
+

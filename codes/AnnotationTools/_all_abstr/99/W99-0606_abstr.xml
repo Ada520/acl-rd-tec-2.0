@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W99-0606">
+<Title>Boosting Applied to Tagging and PP Attachment</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Boosting is a machine learning algorithm that is not well known in computational linguistics. We apply it to part-of-speech tagging and prepositional phrase attachment. Performance is very encouraging. We also show how to improve data quality by using boosting to identify annotation errors.</Paragraph>
+</Section>
+</Paper>
+

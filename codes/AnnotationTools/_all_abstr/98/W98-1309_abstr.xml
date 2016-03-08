@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-1309">
+<Title>Implementing Voting Constraints with Finite State Transducers</Title>
+<Section position="2" start_page="0" end_page="91" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> We describe a finite state implementation of a constraint-based morphological disambiguation system in which individual constraints vote on matching morphological parses and disambiguation of all tokens in a sentence is performed at the end, by selecting parses that collectively make up the the highest voted combination. The approach depends on assigning votes to constraints via statistical and/or manual means, and then letting constraint rules cast votes on matching parses of a given lexical item. This approach does not reflect the outcome of matching constraint rules to the set of morphological parses immediately. Only after all applicable rules are applied to a sentence, all tokens are disambiguated in parallel. Thus, the outcome of the rule applications is independent of the order of rule applications.</Paragraph>
+<Paragraph position="1"> Constraint-based morphological disambiguation systems (e.g. \[6, 7, 15\]) typically look at a context of several sequential tokens each annotated with their possible morphological interpretations (or tags), and in a reductionistic way, remove parses that are considered to be impossible in the given context. Since constraint rule application is ordered, parses removed by one rule may not be used or referred to in subsequent rule applications. Addition of a new rule requires that its place in the sequence be carefully determined to avoid any undesirable interactions.</Paragraph>
+<Paragraph position="2"> Automata intersection based approaches run the risk of deleting all parses of a sentence, and have also been observed to end up with large intersected machines. Our approach eliminates the ordering problem, since parse removals are not committed during application, but only after all rules are processed. Figure 1 highlights the voting congtraints paradigm.</Paragraph>
+<Paragraph position="4"> In the following sections we describe voting constraint rules and then some present preliminary results from tagging English. We then present the implementation using finite state transducers and discuss various issues involved.</Paragraph>
+</Section>
+</Paper>
+

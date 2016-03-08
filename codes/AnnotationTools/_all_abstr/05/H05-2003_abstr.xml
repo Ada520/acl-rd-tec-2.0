@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H05-2003">
+<Title>Introducing Discussion Summarization to Online Classrooms</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a novel summarization system, Classummary, for interactive online classroom discussions. This system is originally designed for Open Source Software (OSS) development forums.</Paragraph>
+<Paragraph position="1"> However, this new application provides valuable feedback on designing summarization systems and applying them to everyday use, in addition to the traditional natural language processing evaluation methods. In our demonstration at HLT, new users will be able to direct this summarizer themselves.</Paragraph>
+</Section>
+</Paper>
+

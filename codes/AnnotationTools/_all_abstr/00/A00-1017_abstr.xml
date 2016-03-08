@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A00-1017">
+<Title>A Representation for Complex and Evolving Data Dependencies in Generation</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper introduces an approach to representing the kinds of information that components in a natural language generation (NLG) system will need to communicate to one another.</Paragraph>
+<Paragraph position="1"> This information may be partial, may involve more than one level of analysis and may need to include information about the history of a derivation. We present a general representation scheme capable of handling these cases. In addition, we make a proposal for organising inter-module communication in an NLG system by having a central server for this information. We have validated the approach by a reanalysis of an existing NLG system and through a full implementation of a runnable specification.</Paragraph>
+</Section>
+</Paper>
+

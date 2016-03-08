@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A97-1038">
+<Title>CogentHelp: NLG meets SE in a tool for authoring dynamically generated on-line help</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> CogentHelp is a prototype tool for authoring dynamically generated on-line help for applications with graphical user interfaces, embodying the &amp;quot;evolution-friendly&amp;quot; properties of tools in the literate programming tradition. In this paper, we describe CogentHelp, highlighting the usefulness of certain natural language generation techniques in supporting software-engineering goals for help authoring tools -- principally, quality and evolvability of help texts.</Paragraph>
+</Section>
+</Paper>
+

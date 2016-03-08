@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1001">
+<Title>Grammar Modularity and its Impact on Grammar Documentation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper addresses the documentation of large-scale grammars.1 We argue that grammar implementation differs from ordinary software programs: the concept of modules, as known from software engineering, cannot be transferred directly to grammar implementations, due to grammar-specific properties. These properties also put special constraints on the form of grammar documentation. To fulfill these constraints, we propose an XML-based, grammar-specific documentation technique.</Paragraph>
+</Section>
+</Paper>
+

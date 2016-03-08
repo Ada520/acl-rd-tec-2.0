@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-1232">
+<Title></Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A method is described to automatically acquire from text corpora a Portuguese stem lexicon for two-level morphological analysis. It makes use of a lexical transducer to generate all possible stems for a given unknown inflected word form, and the EM algorithm to rank alternative stems.</Paragraph>
+</Section>
+</Paper>
+

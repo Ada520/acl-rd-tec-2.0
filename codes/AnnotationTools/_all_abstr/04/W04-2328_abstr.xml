@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-2328">
+<Title>Multi-level Dialogue Act Tags</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we discuss the use of multi-layered tagsets for dialogue acts, in the context of dialogue understanding for multi-party meeting recording and retrieval applications. We discuss some desiderata for such tagsets and critically examine some previous proposals. We then de ne MAL-TUS, a new tagset based on the ICSI-MR and Switchboard tagsets, which satis es these requirements. We present some experiments using MALTUS which attempt to compare the merits of integrated versus multi-level classi ers for the detection of dialogue acts.</Paragraph>
+</Section>
+</Paper>
+

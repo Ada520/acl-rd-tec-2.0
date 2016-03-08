@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-1033">
+<Title>An Analysis of the AskMSR Question-Answering System</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe the architecture of the AskMSR question answering system and systematically evaluate contributions of different system components to accuracy.</Paragraph>
+<Paragraph position="1"> The system differs from most question answering systems in its dependency on data redundancy rather than sophisticated linguistic analyses of either questions or candidate answers. Because a wrong answer is often worse than no answer, we also explore strategies for predicting when the question answering system is likely to give an incorrect answer.</Paragraph>
+</Section>
+</Paper>
+

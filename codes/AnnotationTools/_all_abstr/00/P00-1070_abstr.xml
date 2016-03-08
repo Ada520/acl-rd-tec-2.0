@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P00-1070">
+<Title>Importance of Pronominal Anaphora resolution in Question Answering systems</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The main aim of this paper is to analyse the e#0Bects of applying pronominal anaphora resolution to Question Answering #28QA#29 systems.</Paragraph>
+<Paragraph position="1"> For this task a complete QA system has been implemented. System evaluation measures performance improvements obtained when information that is referenced anaphorically in documents is not ignored.</Paragraph>
+</Section>
+</Paper>
+

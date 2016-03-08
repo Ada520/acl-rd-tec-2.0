@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C88-1066">
+<Title>(8) ID rules LP rules S -&gt; NP, VP AUX ( NP S -~ AIIX, NP, VP V ( NP VP -&gt; AIlX, VP NP ( VP VP -&gt; V, VP VP -&gt; V, NP VP ~-&gt; V, NP, VP The ID rules of (5) admit LTs with the following branches</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper summarizes the formalism of Category Cooccurrence Restrictions (CCRs) and describes two parsing algorithms that interpret it. CCRs are Boolean conditions on the cooccurrence of categories in local trees which allow the statement of generalizations which cannot be captured in other current syntax formalisms. The use of CCRs leads to syntactic descriptions formulated entirely with restrictive statements. The paper shows how conventional algorithms for the analysis of context free languages can be adapted to the CCR formalism. Special attention is given to the part of the parser that checks the fulfillment of logical well-formedness conditions on trees.</Paragraph>
+</Section>
+</Paper>
+

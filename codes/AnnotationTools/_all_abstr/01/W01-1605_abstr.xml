@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W01-1605">
+<Title>Building a Discourse-Tagged Corpus in the Framework of Rhetorical Structure Theory</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe our experience in developing a discourse-annotated corpus for community-wide use.</Paragraph>
+<Paragraph position="1"> Working in the framework of Rhetorical Structure Theory, we were able to create a large annotated resource with very high consistency, using a well-defined methodology and protocol. This resource is made publicly available through the Linguistic Data Consortium to enable researchers to develop empirically grounded, discourse-specific applications.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A92-1026">
+<Title>Robust Processing of Real-World Natural-Language Texts</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+SR, I International
+Abstract
+</SectionTitle>
+<Paragraph position="0"> I1. is often assumed that when natural language processing meets the real world, the ideal of aiming for complete and correct interpretations has to be abandoned. However, our experience with TACITUS; especially in the MUC-3 evaluation, has shown that. principled techniques fox' syntactic and pragmatic analysis can be bolstered with methods for achieving robustness. We describe three techniques for making syntactic analysis more robust--an agenda-based scheduling parser, a recovery technique for failed parses, and a new technique called terminal substring parsing. For pragmatics processing, we describe how the method of abductive inference is inherently robust, in that an interpretation is always possible, so that in the absence of the required world knowledge, performance degrades gracefully. Each of these techlfiques have been evaluated and the results of the evaluations are presented.</Paragraph>
+</Section>
+</Paper>
+

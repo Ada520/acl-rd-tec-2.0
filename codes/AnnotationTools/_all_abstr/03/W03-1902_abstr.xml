@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-1902">
+<Title>PIPCA - Unisinos</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This work presents the data model we adopted for annotating coreference. Our data model includes different levels of annotation, such as part-of-speech, syntax and discourse. We compare our encoding schemes to the abstract XML encoding being proposed as standard. We also present our tool for coreference resolution that handles our data model.</Paragraph>
+</Section>
+</Paper>
+

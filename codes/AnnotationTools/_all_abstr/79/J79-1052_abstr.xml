@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J79-1052">
+<Title>A COMPUTATIONAL TREATMENT OF COORDINATE CONJUNCTIONS</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+SUMMARY
+</SectionTitle>
+<Paragraph position="0"> The present paper describes a computational solution to the problem of locating words that are zeroed under conjunction. In this solution, which is based on general properties 3f conjunctional constructions, a mechanism locates zeroed elements in the conjunction strings and cross-references them dth respect to elements in the head construction. Constraints can then be applied to elided conjuncts as though they were expanded, and transformational expansion, which reconstructs the complete sentences underlying conjunctional occurrences, can be carried out straightforwardly by following the pointers which have been set up.</Paragraph>
+<Paragraph position="1"> The main innovation is called &amp;quot;stacking&amp;quot;. It is a nond.eterministic programming device which causes restrictions (i.., subprograms applying detailed constraints) to be re-executed on conjoined segments whenever the restriction is inovked on an element which has a conjunct.</Paragraph>
+</Section>
+</Paper>
+

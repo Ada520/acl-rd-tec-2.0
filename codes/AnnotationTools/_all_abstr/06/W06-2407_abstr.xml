@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-2407">
+<Title>Extending corpus-based identification of light verb constructions using a supervised learning framework</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Light verb constructions (LVCs), such as &amp;quot;make a call&amp;quot; in English, can be said to be complex predicates in which the verb plays only a functional role. LVCs pose challenges for natural language understanding, as their semantics differ from usual predicate structures. We extend the existing corpus-based measures for identifying LVCs between verb-object pairs in English, by proposing using new features that use mutual information and assess other syntactic properties. Our work also incorporates both existing and new LVC features into a machine learning approach. We experimentally show that using the proposed framework incorporating all features outperforms previous work by 17%. As machine learning techniques model the trends found in training data, we believe the proposed LVC detection framework and statistical features is easily extendable to other languages.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-2160">
+<Title>Producing More tleadable Extracts by Revising Them</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we first experimentally investigated the factors that make extracts hard to read. We did this by having human subjects try to revise extracts to produce more readable ones. We then classified the factors into five, most of which are related to cohesion, after which we devised revision rnles for each factor, and partially implemented a system that revises extracts.</Paragraph>
+</Section>
+</Paper>
+

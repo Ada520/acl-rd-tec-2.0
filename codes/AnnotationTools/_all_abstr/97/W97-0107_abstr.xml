@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0107">
+<Title>Reestimation and Best-First Parsing Algorithm for Probabilistic Dependency Grammars</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a reesthnation algorithm and a best-first parsing (BFP) algorithm for probabilistic dependency grummars (PDG). The proposed reestimation algorithm is a variation of the inside-outside algorithm adapted to probabilistic dependency grammars. The inside-outside algorithm is a probabilistic parameter reestimation algorithm for phrase structure grammars in Chomsky Normal Form (CNF). Dependency grammar represents a sentence structure as a set of dependency links between arbitrary two words in the sentence, and can not be reestimated by the inside-outside algorithm directly.</Paragraph>
+<Paragraph position="1"> In this paper, non-constituent objects, complete-llnk and complete-sequence are defined as basic units of dependency structure, and the probabilities of them are reestimated. The reestimation and BFP algorithms utilize CYK-style chart and the non-constituent objects as chart entries. Both algoritbrn~ have O(n s) time complexities.</Paragraph>
+</Section>
+</Paper>
+

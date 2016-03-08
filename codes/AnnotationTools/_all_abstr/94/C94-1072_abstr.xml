@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C94-1072">
+<Title>and DISCO -- An HPSG-based NLP System its Application for Appointment Scheduling -- Project Note --</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The natural language system DISC() is described. It combines a powerful and flexible grammar development system; * linguistic competence for German including morphology, syntax and semantics; * new metlmds for linguistic performance modelling on the basis of high-level competence grammars; * new methods for modelling multi-agent dialogue competence; null * an interesting sample application for appointment scheduling and calendar management.</Paragraph>
+</Section>
+</Paper>
+

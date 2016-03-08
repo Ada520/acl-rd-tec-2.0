@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-1034">
+<Title></Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+References
+</SectionTitle>
+<Paragraph position="0"> 1 R. Byrd and Y. Ravin. 1999. Identifying and Extracting Relations in Text. In Proceedings of NLDB 99. Klagenfurt, Austria.</Paragraph>
+<Paragraph position="1"> 2 Charles L. A. Clarke , Gordon V. Cormack , Thomas R. Lynam, Exploiting redundancy in question answering, Proceedings of the 24th annual international ACM SIGIR conference on Research and development in information retrieval, p.358-365, September 2001, New Orleans, Louisiana, United States 3 S. Harabagiu, D. Moldovan, M. Pasca, R. Mihalcea, M. Surdeanu, R. Bunescu, R. Grju, V. Rus, and P. Morarescu. 2000. FALCON: Boosting Knowledge for Answer Engines. In Proceedings of the 9th Text Retrieval Conference (TREC-9) 4 L. Hiyakumoto. 2001. Planning and Execution for Open-Domain Question Answering PhD Thesis proposal. Carnegie Mellon University.</Paragraph>
+<Paragraph position="2"> 5 H. Hovy, L. Gerber, U. Hermjakob, M. Junk, and C-Y. Lin. 2001 Question Answering in Webclopedia. In Proceedings of the 9th Text REtrieval Conference (TREC9).</Paragraph>
+<Paragraph position="3"> 6 Marius A. Pasca , Sandra M. Harabagiu, High performance question/answering, Proceedings of the 24th annual international ACM SIGIR conference on Research and development in information retrieval, p.366-374, September 2001, New Orleans, Louisiana, United States 7 John Prager , Eric Brown , Anni Coden , Dragomir Radev, Question-answering by predictive annotation, Proceedings of the 23rd annual international ACM SIGIR conference on Research and development in information retrieval, p.184-191, July 24-28, 2000, Athens, Greece 8 John Prager , Dragomir Radev , Krzysztof Czuba, Answering what-is questions by Virtual Annotation, Proceedings of the first international conference on Human language technology research, p.1-5, March 18-21, 2001, San Diego 9 Dragomir R. Radev , John Prager , Valerie Samn, Ranking suspected answers to natural language questions using predictive annotation, Proceedings of the sixth conference on Applied natural language processing, p.150-157, April 29-May 04, 2000, Seattle, Washington 10 E. Voorhees. 2001. QA-Track Overview. In Proceedings of the 10th Text REtrieval Conference (TREC2001).</Paragraph>
+<Paragraph position="4"> 11 Weka. On-line information and implementation available at http://www.cs.waikato.ac.nz/ml/weka/.</Paragraph>
+<Paragraph position="5"> 12 Ian H. Witten , Eibe Frank, Data mining: practical machine learning tools and techniques with Java implementations, Morgan Kaufmann Publishers Inc., San Francisco, CA, 2000</Paragraph>
+</Section>
+</Paper>
+

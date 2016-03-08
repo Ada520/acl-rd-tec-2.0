@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J85-4002">
+<Title>PHRED: A GENERATOR FOR NATURAL LANGUAGE INTERFACES 1</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+PHRED (PHRasal English Diction is a natural language generator designed for use in a variety of
+</SectionTitle>
+<Paragraph position="0"> domains. It was constructed to share a knowledge base with PHRAN (PHRasal ANalyzer) as part of a real-time user-friendly interface. The knowledge base consists of pattern-concept pairs, i.e., associations between linguistic structures and conceptual templates. Using this knowledge base, PHRED produces appropriate and grammatical natural language output from a conceptual representation.</Paragraph>
+<Paragraph position="1"> PHRED and PHRAN are currently used as central components of the user interface to the UNIX Consultant System (UC). This system answers questions and solves problems related to the UNIX 3 operating system. UC passes the conceptual form of its responses, usually either questions or answers to questions, to the PHRED generator, which expresses them in the user's language. Currently the consultant can answer questions and produce its responses in either English or Spanish.</Paragraph>
+<Paragraph position="2"> There are a number of practical advantages to PHRED as the generation component of a natural language system. Having a knowledge base shared between analyzer and generator eliminates the redundancy of having separate grammars and lexicons for input and output. It avoids possibly awkward inconsistencies caused by such a separation, and allows for interchangeable interfaces, such as the English and Spanish versions of the UC interface.</Paragraph>
+<Paragraph position="3"> The phrasal approach to language processing realized in PHRED has proven helpful in generation as in analysis. PHRED commands the use of idioms, grammatical constructions, and canned phrases without a specialized mechanism or data structure. This is accomplished without restricting the ability of the generator to utilize more general linguistic knowledge.</Paragraph>
+<Paragraph position="4"> As the generation component of a natural language interface, PHRED affords extensibility, simplicity, and processing speed. Its design incorporates a cognitive motivation as well. It diverges from the traditional computational approach by focusing on the use of specialized phrasal knowledge. This phrasal approach minimizes the autonomy of the individual word, the bane of some earlier approaches to language processing. The two-stage process used by PHRED to select appropriate linguistic structures also fits well with cognitive theories of language and memory.</Paragraph>
+</Section>
+</Paper>
+

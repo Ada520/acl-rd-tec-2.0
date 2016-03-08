@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-1106">
+<Title>Pseudo-Projectivity: A Polynomially Parsable Non-Projective Dependency Grammar</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> Dependency grammar has a long tradition in syntactic theory, dating back to at least Tesni~re's work from the thirties3 Recently, it has gained renewed attention as empirical methods in parsing are discovering the importance of relations between words (see, e.g., (Collins, 1997)), which is what dependency grammars model explicitly do, but context-free phrase-structure grammars do not. One problem that has posed an impediment to more wide-spread acceptance of dependency grammars is the fact that there is no computationally tractable version of dependency grammar which is not restricted to projective analyses. However, it is well known that there are some syntactic phenomena (such as wh-movement in English or clitic climbing in Romance) that require non-projective analyses. In this paper, we present a form of projectivity which we call pseudoprojectivity, and we present a generative string-rewriting formalism that can generate pseudo-projective analyses and which is polynomially parsable.</Paragraph>
+<Paragraph position="1"> The paper is structured as follows. In Section 2, we introduce our notion of pseudoprojectivity. We briefly review a previously proposed formalization of projective dependency grammars in Section 3. In Section 4, we extend this formalism to handle pseudo-projectivity.</Paragraph>
+<Paragraph position="2"> We informally present a parser in Section 5.</Paragraph>
+</Section>
+</Paper>
+

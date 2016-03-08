@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C02-1158">
+<Title>Study of Practical Effectiveness for Machine Translation Using Recursive Chain-link-type Learning</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A number of machine translation systemsbased on thelearningalgorithms are presented. These methods acquire translation rules from pairs of similar sentences in a bilingual text corpora. This means that it is difficult for the systems to acquire the translation rules from sparse data. As a result, these methods require large amounts of training data in order to acquire high-quality translation rules. To overcomethis problem, we propose a method ofmachine translation using a Recursive Chain-link-type Learning. In our new method, the system can acquire many new high-quality translation rules from sparse translation examples based on already acquired translation rules. Therefore, acquisition of new translation rules results in the generation of more new translation rules.</Paragraph>
+<Paragraph position="1"> Such aprocessofacquisitionoftranslationrules islikealinkedchain. Fromtheresultsofevaluationexperiments,weconfirmedtheeffectiveness null of Recursive Chain-link-type Learning.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C92-2067">
+<Title>A New Quantitative Quality Measure for Machine 'lYanslation Systems</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> In this paper, an objective qtumtitative quality measure is proposed to evaluate tile performance of machiue translation systems. The proposed method is to compare the raw translation output of an MT system with the final revised version lor the customers, and then compute the editing efforts required to convert the raw translation to the final version. In contrast to the other prolx)sals, the evaluatiral process can he (lone quickly and automatically. Itence, it can provide a quick response on any system change. A system designer can thus quickly lind the advantages or faults of a particular performanceimproving strategy aml improve system performance dynamieally. Application of such a measure to improve the system performance on-line on a parameterized and feedback-controlled system will be demonstrated. Furthermore, because the revised versiou is used directly as a reference, tile perfoInunice lneasnre can reflect tile real quality gap between the system performance and customer expectation. A system designer can thus concentrate on practically impo~ult topics rather than ml theoretically interesting issues.</Paragraph>
+</Section>
+</Paper>
+

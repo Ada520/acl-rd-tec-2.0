@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C80-1039">
+<Title>ON FROFF: A TEXT PROCESSING SYSTEM FOR ENGLISH TEXTS AND FIGURES</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> With a rapid advancement of scientific exchages, a high qualitative text processing system have been expected. Under these circumstances, many systems which run off texts have been implemented. In our laboratory, a typewiriter-based word processor with a fixed widths of characters (it is called ROFF) was designed. Its output is, however, inferior in its quality to the one printed by phototypesetter or manual operations.</Paragraph>
+<Paragraph position="1"> The Flexible Run OFF(FROFF) system is an integrated system that is designed for setting not only ordinary texts but also figures or tables indispensable to our documents, and utilizes a dot-printer as its output device. Here we must make mention of the TROFF designed for setting running text including mathematics, but as this system drives an expensive phototypesetter on the UNIX operating system, member of the almost all standard research institutes can not adopt this system configuration when he comes to think of its cost performance. This FROFF system is easy to realize in a standard computer system with the basic I/O devices including a display, dot-printer. Recently, a laboratory provided such devices incrementally increasing, it can be known for sure to be true that the circumstances under which a system with equivalent equipments to FROFF is implemented has been prepared.</Paragraph>
+<Paragraph position="2"> This program is written in mainly FLISP (a descendant of INTERLISP) and partly in Fortran, Assembler. A reason for selection of FLISP as a programming language is an easiness of programming, debugging, and extension of the system.</Paragraph>
+</Section>
+</Paper>
+

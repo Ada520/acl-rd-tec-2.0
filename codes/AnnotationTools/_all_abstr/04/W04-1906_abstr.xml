@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-1906">
+<Title>Corpus-based Induction of an LFG Syntax-Semantics Interface for Frame Semantic Processing</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a method for corpus-based induction of an LFG syntax-semantics interface for frame semantic processing in a computational LFG parsing architecture. We show how to model frame semantic annotations in an LFG projection architecture, including special phenomena that involve non-isomorphic mappings between levels. Frame semantic annotations are ported from a manually annotated corpus to a &amp;quot;parallel&amp;quot; LFG corpus. We extract functional descriptions from the frame-annotated LFG corpus, to derive general frame assignment rules that can be applied to new sentences. We evaluate the results by applying the induced frame assignment rules to LFG parser output.1</Paragraph>
+</Section>
+</Paper>
+

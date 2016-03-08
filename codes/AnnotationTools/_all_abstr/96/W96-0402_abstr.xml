@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W96-0402">
+<Title>Learning Micro-Planning Rules for Preventative Expressions*</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Building text planning resources by hand is time-consuming and difficult. Certainly, a number of planning architectures and their accompanying plan libraries have been implemented, but while the architectures themselves may be reused in a new domain, the library of plans typically cannot.</Paragraph>
+<Paragraph position="1"> One way to address this problem is to use machine learning techniques to automate the derivation of planning resources for new domains. In this paper, we apply this technique to build micro-planning rules for preventative expressions in instructional text.</Paragraph>
+</Section>
+</Paper>
+

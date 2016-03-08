@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C92-3144">
+<Title>THE FIRST BUC REPORT</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> The Budapest Unification Grammar (BUG) system described in this paper is a system for generating natural language parsers from feature-structure based grammatical descriptions (graamnars). In the current version, source grammars are limited to the context-free phrase structure grammar format. BuG compiles source grmnmars into automata, which it can then use for parsing input strings.</Paragraph>
+<Paragraph position="1"> BUG was developed at the ftesearch Institute for Linguistics (Budapest) and at the Theoretical Linguistics Program, Budapest University (ELTE) with the support of OTKA (National Funds for Research) of the Hungarian Academy of Sciences. It was written in C and is portable across Unix*, DOS and VMS.</Paragraph>
+<Paragraph position="2"> BUG differs from other unification-based grammar-writing tools in two major respects as well as in a number of minor ways. One major difference is that nu(~ uses feature geometries.</Paragraph>
+<Paragraph position="3"> The feature geometry is a (recursive) definition of well-formed feature structures, which must be specified in the source grammar. The other major difference is that BUG uses a built-in performance restriction, called tile string completion limit (SCL). Using the string completion limit, we can limit the generative power of a context-free grammar to regular languages. The paper focuses on these two innovations as well as a third feature of huG, which is the separation of the structural description (SD, conditions of application) from the structural change (SC, effect of application) in source rules.</Paragraph>
+<Paragraph position="4"> * Unix is a trademark of AT&amp;T.</Paragraph>
+</Section>
+</Paper>
+

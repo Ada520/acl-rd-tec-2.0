@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1061">
+<Title>Machine-Assisted Rhetorical Structure Annotation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Manually annotating the rhetorical structure of texts is very labour-intensive. At the same time, high-quality automatic analysis is currently out of reach. We thus propose to split the manual annotation in two phases: the simpler marking of lexical connectives and their relations, and the more di cult decisions on overall tree structure. To this end, we developed an environment of two analysis tools and XML-based declarative resources. Our ConAno tool allows for e cient, interactive annotation of connectives, scopes and relations. This intermediate result is exported to O'Donnell's 'RST Tool', which facilitates completing the tree structure. null</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H01-1023">
+<Title>Evaluation Results for the Talk'n'Travel System</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> We describe and present evaluation results for Talk'n'Travel, a spoken dialogue language system for making air travel plans over the telephone. Talk'n'Travel is a fully conversational, mixed-initiative system that allows the user to specify the constraints on his travel plan in arbitrary order, ask questions, etc., in general spoken English. The system was independently evaluated as part of the DARPA Communicator program and achieved a high success rate.</Paragraph>
+<Paragraph position="1"> .</Paragraph>
+</Section>
+</Paper>
+

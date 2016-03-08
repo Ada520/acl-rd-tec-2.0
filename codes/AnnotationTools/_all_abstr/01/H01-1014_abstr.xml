@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H01-1014">
+<Title>Converting Dependency Structures to Phrase Structures</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. INTRODUCTION
+</SectionTitle>
+<Paragraph position="0"> Treebanks are of two types according to their annotation schemata: phrase-structure Treebanks such as the English Penn Treebank [8] and dependency Treebanks such as the Czech dependency Tree-bank [6]. Long before Treebanks were developed and widely used for natural language processing, there had been much discussion of comparison between dependency grammars and context-free phrase-structure grammars [5]. In this paper, we address the relationship between dependency structures and phrase structures from a practical perspective; namely, the exploration of different algorithms that convert dependency structures to phrase structures and the evaluation of their performance against an existing Treebank. This work not only provides ways to convert Treebanks from one type of representation to the other, but also clarifies the differences in representational coverage of the two approaches.</Paragraph>
+</Section>
+</Paper>
+

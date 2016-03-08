@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-2240">
+<Title>Discovering Phonotactic Finite-State Automata by Genetic Search</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a genetic algorithm based approach to the automatic discovery of finite-state automata (FSAs) from positive data.</Paragraph>
+<Paragraph position="1"> FSAs are commonly used in computational phonology, but - given the limited learnability of FSAs from arbitrary language subsets - are usually constructed manually. The approach presented here offers a practical automatic method that helps reduce the cost of manual FSA construction.</Paragraph>
+</Section>
+</Paper>
+

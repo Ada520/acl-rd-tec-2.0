@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E06-2029">
+<Title>Adaptivity in Question Answering with User Modelling and a Dialogue Interface</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Most question answering (QA) and information retrieval (IR) systems are insensitive to different users' needs and preferences, and also to the existence of multiple, complex or controversial answers. We introduce adaptivity in QA and IR by creating a hybrid system based on a dialogue interface and a user model. Keywords: question answering, information retrieval, user modelling, dialogue interfaces.</Paragraph>
+</Section>
+</Paper>
+

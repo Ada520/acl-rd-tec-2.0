@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E06-2013">
+<Title>Automatic Annotation for All Semantic Layers in FrameNet</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe a system for automatic annotation of English text in the FrameNet standard. In addition to the conventional annotation of frame elements and their semantic roles, we annotate additional semantic information such as support verbs and prepositions, aspectual markers, copular verbs, null arguments, and slot fillers. As far as we are aware, this is the first system that finds this information automatically. null</Paragraph>
+</Section>
+</Paper>
+

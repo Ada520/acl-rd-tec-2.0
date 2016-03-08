@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-1016">
+<Title>Generic Sentence Fusion is an Ill-Defined Summarization Task</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We report on a series of human evaluations of the task of sentence fusion. In this task, a human is given two sentences and asked to produce a single coherent sentence that contains only the important information from the original two. Thus, this is a highly constrained summarization task. Our investigations show that even at this restricted level, there is no measurable agreement between humans regarding what information should be considered important. We further investigate the ability of separate evaluators to assess summaries, and find similarly disturbing lack of agreement.</Paragraph>
+</Section>
+</Paper>
+

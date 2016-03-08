@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-2037">
+<Title>Using Test Suites in Evaluation of Machine Translation Systems.</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. Background.
+</SectionTitle>
+<Paragraph position="0"> As awareness of the increasing need for translations grows, readiness to consider computerized aids to translation grows with it. Recent years have seen increased funding for research in machine aids to translation, both in the public and the private sector, and potential customers are much in evidence in conferences devoted to work in the area. Activity in the area in its turn stimulate,; an interest in evaluation techniques: sponsors would like to know if their money has been well spent, system developers would like to know how well they fare compared to their rivals, and potential customers need to be able to estimate the wisdom of their proposed investment.</Paragraph>
+<Paragraph position="1"> indeed, interest in evaluation extends beyond translation aids to natural language processing as a whole, as a consequence of attempts to facilitate storage and retrieval of large anaounts of information. Concrete manifestations of this interest include a workshop on evaluation in Philadelphia in late 1988, and, in the particular field of machine translation, the publication of two books, the first \[4\] dedicated to the topic, the second \[7\] containing much discussion of it.</Paragraph>
+<Paragraph position="2"> This paper is concerned with only one sub-topic within the large general area. It is based on work (carried out under mandate for the Suissetra Association) aimed at defining an evaluation strategy for a translation service interested in acquiring a ready-made translation system from a commercial firm, with no possibility of examining the internal workings of the system other than, perhaps, being able to glean clues from the content of dictionary entries. The type of test discussed here is only one of several proposed, all of which assume an evaluation set-up permitting an initial up-dating of the dictionary to cover the vocabulary of the test corpora, plus at least one system up-date with subsequent re-execution of the tests. It is hoped that the particular type of test - the construction and use of test suites - will be of interest to the natural language processing community as a whole.</Paragraph>
+</Section>
+</Paper>
+

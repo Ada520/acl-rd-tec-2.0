@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H05-2001">
+<Title>Automatic Detection of Translation Errors: The State of the Art</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+2 System Overview
+</SectionTitle>
+<Paragraph position="0"> A modular architecture promotes flexibility (ease of adaptation to new domains, client requirements and language pairs) and extensibility (incorporation of new error-detector components as they become available).</Paragraph>
+<Paragraph position="1"> In a transparent preprocessing stage, source and target texts are read and aligned. The resulting stream of alignment regions is passed to a set of independent error-detection modules, each of which records errors in a global table for subsequent report generation. Certain of the error-detection components make use of external data in the form of lexical and other language resources.</Paragraph>
+</Section>
+</Paper>
+

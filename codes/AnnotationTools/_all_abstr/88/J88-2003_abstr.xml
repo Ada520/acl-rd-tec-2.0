@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J88-2003">
+<Title>TEMPORAL ONTOLOGY AND TEMPORAL REFERENCE</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+TEMPORAL ONTOLOGY AND TEMPORAL REFERENCE
+</SectionTitle>
+<Paragraph position="0"> &amp;quot;Two weeks later, Bonadea had already been his lover for a fortnight.&amp;quot; --Robert Musil, Der Mann ohne Eigenschaften.</Paragraph>
+<Paragraph position="1"> A semantics of temporal categories in language and a theory of their use in defining the temporal relations between events both require a more complex structure on the domain underlying the meaning representations than is commonly assumed. This paper proposes an ontology based on such notions as causation and consequence, rather than on purely temporal primitives. A central notion in the ontology is that of an elementary event-complex called a &amp;quot;nucleus.&amp;quot; A nucleus can be thought of as an association of a goal event, or &amp;quot;culmination,&amp;quot; with a &amp;quot;preparatory process&amp;quot; by which it is accomplished, and a &amp;quot;consequent state,&amp;quot; which ensues. Natural-language categories like aspects, futurates, adverbials, and when-clauses are argued to change the temporal/aspectual category of propositions under the control of such a nucleic knowledge representation structure. The same concept of a nucleus plays a central role in a theory of temporal reference, and of the semantics of tense, which we follow McCawley, Partee, and Isard in regarding as an anaphoric category. We claim that any manageable formalism for natural-language temporal descriptions will have to embody such an ontology, as will any usable temporal database for knowledge about events which is to be interrogated using natural language.</Paragraph>
+</Section>
+</Paper>
+

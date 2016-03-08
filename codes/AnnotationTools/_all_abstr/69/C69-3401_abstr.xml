@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C69-3401">
+<Title></Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> REL, Rapidly Extenslble Language System, permits a variety of languages to coexist within a single computer system. Here the term &amp;quot;language&amp;quot; is understood to include a particular data base. New languages may be defined by constructing a new base language with its syntax and semantics, by extending the terminology from a given base level in order to reflect specific concepts, or by associating a given base language with a certain data base.</Paragraph>
+<Paragraph position="1"> REL consists of an operating environment, a language processor, and the set of currently defined languages. The structural properties of these languages which determine the characterization and organization of the language processor are described. In particular, representation and manipulation of syntax and semantics are discussed, the mechanism of language extension is outlined, and the concept of a generator is introduced.</Paragraph>
+</Section>
+</Paper>
+

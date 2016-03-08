@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="I05-2030">
+<Title>Opinion Extraction Using a Learning-Based Anaphora Resolution Technique</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper addresses the task of extracting opinions from a given document collection. Assuming that an opinion can be represented as a tuple &lt;Subject, Attribute, Value&gt; , we propose a computational method to extract such tuples from texts. In this method, the main task is decomposed into (a) the process of extracting Attribute-Value pairs from a given text and (b) the process of judging whether an extracted pair expresses an opinion of the author. We apply machine-learning techniques to both subtasks. We also report on the results of our experiments and discuss future directions.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P01-1059">
+<Title>Producing Biographical Summaries: Combining Linguistic Knowledge with Corpus Statistics1</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe a biographical multi-document summarizer that summarizes information about people described in the news. The summarizer uses corpus statistics along with linguistic knowledge to select and merge descriptions of people from a document collection, removing redundant descriptions. The summarization components have been extensively evaluated for coherence, accuracy, and non-redundancy of the descriptions produced.</Paragraph>
+</Section>
+</Paper>
+

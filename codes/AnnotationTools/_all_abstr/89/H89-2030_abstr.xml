@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H89-2030">
+<Title>Belief Ascription and Model Generative Reasoning: joining two paradigms to a robust parser of messages.</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> This paper discusses the extension of ViewGen, a program for belief ascription, to the area of intensional object identification with applications to battle environments, and its combination in a overall system with MGR, a Model-Generative Reasoning system, and PREMO a semantics-based parser for robust parsing of noisy message data.</Paragraph>
+<Paragraph position="1"> ViewGen represents the beliefs of agents as explicit, partitioned proposition-sets known as environments. Environments are convenient, even essential, for addressing important pragmatic issues of reasoning. The paper concentrates on showing that the transfer of information in intensional object identification and belief ascription itself can both be seen as different manifestations of a single environment-amalgamation process. The entities we shall be concerned with will be ones, for example, the system itself believes to be separate entities while it is computing the beliefs and reasoning of a hostile agent that believes them to be the same entity (e.g. we believe enemy radar shows two of our ships to be the same ship, or vice-versa. The KAL disaster should bring the right kind of scenario to mind). The representational issue we address is how to represent that fictional single entity in the belief space of the other agent, and what content it should have given that it is an amalgamation of two real entities.</Paragraph>
+<Paragraph position="2"> A major feature of the paper is our work on embedding within the ViewGen belief-and-point-ofview system the knowledge representation system of our MGR reasoner, and then bringing together the multiple viewpoints offered by ViewGen with the multiple representations of MGR. The fusing of these techniques, we believe, offers a very strong system for extracting message gists from texts and reasoning about them.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P05-2005">
+<Title>Exploiting Named Entity Taggers in a Second Language</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+72840, Mexico
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this work we present a method for Named Entity Recognition (NER). Our method does not rely on complex linguistic resources, and apart from a hand coded system, we do not use any language-dependent tools. The only information we use is automatically extracted from the documents, without human intervention.</Paragraph>
+<Paragraph position="1"> Moreover, the method performs well even without the use of the hand coded system.</Paragraph>
+<Paragraph position="2"> The experimental results are very encouraging. Our approach even outperformed the hand coded system on NER in Spanish, and it achieved high accuracies in Portuguese. null</Paragraph>
+</Section>
+</Paper>
+

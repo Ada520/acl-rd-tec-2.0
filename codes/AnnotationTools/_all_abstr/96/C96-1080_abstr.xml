@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-1080">
+<Title>The Influence of Tagging on the Classification of Lexical Complements</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A large corpus (about 100 MB of text) was selected and examples of 750 fl'equently occurring verbs were tagged with their compleinent (:lass as defined by a large computational syntactic dictionary, COMLEX Syntax. This tagging task led to the refinement of already existing classes and to the addition of classes that had previously not been defined.</Paragraph>
+<Paragraph position="1"> This has resulted in the enrichment and improvement of the original COMLEX Syntax dictionary. Tagging also provides statistical data which will allow users to select, more common complelnents of a particular verb and ignore rare usage.</Paragraph>
+<Paragraph position="2"> We discuss below some of the problems encountered in tagging and their resolution. null</Paragraph>
+</Section>
+</Paper>
+

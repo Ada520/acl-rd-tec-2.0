@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-0216">
+<Title>Integration of Speech and Vision in a small mobile robot</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper reports on the integration of a speech recognition component into a small robot, J. Edgar, which was developed in the AI Vision Lab at the University of Melbourne. While the use of voice commands was fairly easy to implement, the interaction of the voice commands with the existing navigation system of the robot turned out to pose a number of problems.</Paragraph>
+<Paragraph position="1"> Introduction J. Edgar is a small autonomous mobile robot developed in the AI Vision Lab at the University of Melbourne, which is primarily used as a platform for research in vision and navigation. The project which we describe in this paper consists in the addition of some language capabilities to the existing system, in particular the recognition of voice commands and the integration of the speech recognition component with the navigation system.</Paragraph>
+<Paragraph position="2"> While the vision and navigation work is mainly carried out by Ph.D. students in Computer Science, adding speech and language capabilities to the J.Edgar robot has been a collaborative project between the two Departments of Computer Science and of Linguistics and Applied Linguistics, and the work has been performed by severai linguistics students hosted by the Computer Science department and working in tandem with CS students.</Paragraph>
+<Paragraph position="3"> The paper is organized as follows: section 1describes the capabilities and restrictions of the robot J. Edgar, section 2 is an overview of the speech recognition and language understanding system we have added to the robot, section 3 goes through the different stages of the integration and section 4 briefly describes the generation component.</Paragraph>
+</Section>
+</Paper>
+

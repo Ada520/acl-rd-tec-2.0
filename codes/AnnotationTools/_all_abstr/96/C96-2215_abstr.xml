@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-2215">
+<Title>Most Probable Tree in Data-Oriented Parsing and Stochastic Tree Grammars. In Proceedings</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper studies the computational complexity of disambiguation under probabilistic tree-grammars as in (Bod, 1992; Schabes and Waters, 1993). It presents a proof that the following problems are NP-hard: computing the Most Probable Parse from a sentence or from a word-graph, and computing the Most Probable Sentence (MPS) from a wordgraph. The NP-hardness of computing the MPS from a word-graph also holds for Stochastic Context-Free Grammars (SCFGs).</Paragraph>
+</Section>
+</Paper>
+

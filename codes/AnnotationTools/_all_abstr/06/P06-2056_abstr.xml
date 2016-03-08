@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P06-2056">
+<Title>Unsupervised Segmentation of Chinese Text by Use of Branching Entropy</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We propose an unsupervised segmentation method based on an assumption about language data: that the increasing point of entropy of successive characters is the location of a word boundary. A large-scale experiment was conducted by using 200 MB of unsegmented training data and 1 MB of test data,and precision of90%wasattained with recall being around 80%. Moreover, we found that the precision was stable at around 90% independently of the learning data size.</Paragraph>
+</Section>
+</Paper>
+

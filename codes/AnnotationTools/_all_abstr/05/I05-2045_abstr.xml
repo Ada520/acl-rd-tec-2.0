@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="I05-2045">
+<Title>Unsupervised Feature Selection for Relation Extraction</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents an unsupervised relation extraction algorithm, which induces relations between entity pairs by grouping them into a &amp;quot;natural&amp;quot; number of clusters based on the similarity of their contexts. Stability-based criterion is used to automatically estimate the number of clusters. For removing noisy feature words in clustering procedure, feature selection is conducted by optimizing a trace based criterion sub-ject to some constraint in an unsupervised manner. After relation clustering procedure, we employ a discriminative category matching (DCM) to find typical and discriminative words to represent different relations. Experimental results show the effectiveness of our algorithm. null</Paragraph>
+</Section>
+</Paper>
+

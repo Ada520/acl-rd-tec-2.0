@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P80-1004">
+<Title>Metaphor - A Key to Extensible Semantic Analysis</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Interpreting metaphors is an integral and inescapable process in human understanding of natural language. This paper discusses a method of analyzing metaphors based on the existence of a small number of generalized metaphor mappings. Each generalized metaphor contains a recognition network, a basic mapping, additional transfer mappings, and an implicit intention component. It is argued that the method reduces metaphor interpretation from a reconstruction to a recognition task. Implications towards automating certain aspects of language learning are also discussed, t</Paragraph>
+</Section>
+</Paper>
+

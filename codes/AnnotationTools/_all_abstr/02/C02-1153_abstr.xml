@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C02-1153">
+<Title>Generating the XTAG English grammar using metarules</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We discuss a grammar development process used to generate the trees of the wide-coverage Lexicalized Tree Adjoining Grammar (LTAG) for English of the XTAG Project. Result of the coupling of Becker's metarules and a simple yet principled hierarchy of rule application, the approach has been successful to generate the large set of verb trees in the grammar, from a very small initial set of trees.</Paragraph>
+</Section>
+</Paper>
+

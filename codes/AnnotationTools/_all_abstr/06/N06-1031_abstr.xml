@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N06-1031">
+<Title>Relabeling Syntax Trees to Improve Syntax-Based Machine Translation Quality</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We identify problems with the Penn Tree-bank that render it imperfect for syntax-based machine translation and propose methods of relabeling the syntax trees to improve translation quality. We develop a system incorporating a handful of relabeling strategies that yields a statistically signi cant improvement of 2.3 BLEU points over a baseline syntax-based system.</Paragraph>
+</Section>
+</Paper>
+

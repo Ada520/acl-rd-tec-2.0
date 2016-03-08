@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N06-4007">
+<Title>Automatic Cluster Stopping with Criterion Functions and the Gap Statistic</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> SenseClusters is a freely available system that clusters similar contexts. It can be applied to a wide range of problems, although here we focus on word sense and name discrimination. It supports several different measures for automatically determining the number of clusters in which a collection of contexts should be grouped. These can be used to discover the number of senses in which a word is used in a large corpus of text, or the number of entities that share the same name.</Paragraph>
+<Paragraph position="1"> There are three measures based on clustering criterion functions, and another on the Gap Statistic.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-1012">
+<Title>Automatic Evaluation of Summaries Using Document Graphs</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Summarization evaluation has been always a challenge to researchers in the document summarization field. Usually, human involvement is necessary to evaluate the quality of a summary.</Paragraph>
+<Paragraph position="1"> Here we present a new method for automatic evaluation of text summaries by using document graphs. Data from Document Understanding Conference 2002 (DUC-2002) has been used in the experiment. We propose measuring the similarity between two summaries or between a summary and a document based on the concepts/entities and relations between them in the text.</Paragraph>
+</Section>
+</Paper>
+

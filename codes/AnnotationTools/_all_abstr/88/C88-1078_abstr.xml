@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C88-1078">
+<Title>Inheritance in Hierarchical Relational Structures</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A brief survey is conducted of the inheritance principle - the conveyance of properties between components within a hierarchical relational structure. The standard form of inheritance is considered, using the subset (is-a) relation and highlighted as an example of downward inheritance. Downward inheritance is extended to specialisation of actions, and cases are presented in which the rule fails.</Paragraph>
+<Paragraph position="1"> sider them on tile same plane of generality and abstractness as the standard hierarchical inheritance rules. Upward inheritance, on the other hand, is formally on the same plane as the more common downward form. Our analysis shows that the explanation for this powerful tool resides in one semantical aspect of a large class of very common relations.</Paragraph>
+</Section>
+</Paper>
+

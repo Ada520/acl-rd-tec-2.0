@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-3229">
+<Title>A Resource-light Approach to Russian Morphology: Tagging Russian using Czech resources</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we describe a resource-light system for the automatic morphological analysis and tagging of Russian. We eschew the use of extensive resources (particularly, large annotated corpora and lexicons), exploiting instead (i) pre-existing annotated corpora of Czech; (ii) an unannotated corpus of Russian. We show that our approach has benefits, and present what we believe to be one of the first full evaluations of a Russian tagger in the openly available literature.</Paragraph>
+</Section>
+</Paper>
+

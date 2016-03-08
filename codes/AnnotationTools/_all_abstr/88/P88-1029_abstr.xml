@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P88-1029">
+<Title>Conditional Descriptions in Functional Unification Grammar</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A grammatical description often applies to a linguistic object only when that object has certain features. Such conditional descriptions can be indirectly modeled in Kay's Functional Unification Grammar (FUG) using functional descriptions that are embedded within disjunctive alternatives. An extension to FUG is proposed that allows for a direct representation of conditional descriptions. This extension has been used to model the input conditions on the systems of systemic grammar. Conditional descriptions are formally defined in terms of logical implication and negation. This formal definition enables the use of conditional descriptions as a general notational extension to any of the unification-based gramdeg mar representation systems currently used in computational linguistics.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J89-3001">
+<Title>PRACTICAL PARSING OF GENERALIZED PHRASE STRUCTURE GRAMMARS</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+PRACTICAL PARSING OF GENERALIZED PHRASE STRUCTURE GRAMMARS
+</SectionTitle>
+<Paragraph position="0"> An efficient algorithm is described for parsing a dialect of generalized phrase structure grammar (GPSG). A practical parsing system, based on the algorithm, is presented. The dialect of GPSG which the parsing system accepts is smaller, but considerably &amp;quot;purer&amp;quot; (closer to the original definition of GPSG) and mathematically &amp;quot;cleaner&amp;quot; than that which is accepted by other practical parsing systems.</Paragraph>
+<Paragraph position="1"> In particular, the parsing system correctly implements feature co-occurrence restrictions, subject only to the restriction that the FCR set can be expressed in clausal form as a set of Horn clauses.</Paragraph>
+</Section>
+</Paper>
+

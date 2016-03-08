@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E93-1007">
+<Title>Data-Oriented Methods for Grapheme-to-Phoneme Conversion</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> It is traditionally assumed that various sources of linguistic knowledge and their interaction should be formalised in order to be able to convert words into their phonemic representations with reasonable accuracy. We show that using supervised learning techniques, based on a corpus of transcribed words, the same and even better performance can be achieved, without explicit modeling of linguistic knowledge.</Paragraph>
+<Paragraph position="1"> In this paper we present two instances of this approach. A first model implements a variant of instance-based learning, in which a weighed similarity metric and a database of prototypical exemplars are used to predict new mappings. In the second model, grapheme-to-phoneme mappings are looked up in a compressed text-to-speech lexicon (table lookup) enriched with default mappings. We compare performance and accuracy of these approaches to a connectionist (backpropagation) approach and to the linguistic knowledge-based approach.</Paragraph>
+</Section>
+</Paper>
+

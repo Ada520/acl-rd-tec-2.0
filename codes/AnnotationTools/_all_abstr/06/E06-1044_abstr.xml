@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E06-1044">
+<Title>Modelling Semantic Role Plausibility in Human Sentence Processing</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present the psycholinguistically motivatedtask ofpredictinghuman plausibility judgements for verb-role-argument triples and introduce a probabilistic model that solves it. We also evaluate our model on the related role-labelling task, and compare it with a standard role labeller. For both tasks, our model benefits from class-based smoothing, which allows it to make correct argument-specific predictions despite a severe sparse data problem. The standard labeller suffers from sparse data and a strong reliance on syntactic cues, especially in the prediction task.</Paragraph>
+</Section>
+</Paper>
+

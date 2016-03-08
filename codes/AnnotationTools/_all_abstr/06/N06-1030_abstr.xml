@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N06-1030">
+<Title>Learning Pronunciation Dictionaries Language Complexity and Word Selection Strategies</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The speed with which pronunciation dictionaries can be bootstrapped depends on the efficiency of learning algorithms and on the ordering of words presented to the user. This paper presents an active-learning word selection strategy that is mindful of human limitations.</Paragraph>
+<Paragraph position="1"> Learning rates approach that of an oracle system that knows the final LTS rule set.</Paragraph>
+</Section>
+</Paper>
+

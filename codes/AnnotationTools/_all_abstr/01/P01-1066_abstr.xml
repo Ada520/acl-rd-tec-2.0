@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P01-1066">
+<Title>Quantitative and Qualitative Evaluation of Darpa Communicator Spoken Dialogue Systems</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes the application of the PARADISE evaluation framework to the corpus of 662 human-computer dialogues collected in the June 2000 Darpa Communicator data collection.</Paragraph>
+<Paragraph position="1"> We describe results based on the standard logfile metrics as well as results based on additional qualitative metrics derived using the DATE dialogue act tagging scheme. We show that performance models derived via using the standard metrics can account for 37% of the variance in user satisfaction, and that the addition of DATE metrics improved the models by an absolute 5%.</Paragraph>
+</Section>
+</Paper>
+

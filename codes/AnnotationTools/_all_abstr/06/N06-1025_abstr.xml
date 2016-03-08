@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N06-1025">
+<Title>Exploiting Semantic Role Labeling, WordNet and Wikipedia for Coreference Resolution</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we present an extension of a machine learning based coreference resolution system which uses features induced from different semantic knowledge sources. These features represent knowledge mined from WordNet and Wikipedia, as well as information about semantic role labels. We show that semantic features indeed improve the performance on different referring expression types such as pronouns and common nouns.</Paragraph>
+</Section>
+</Paper>
+

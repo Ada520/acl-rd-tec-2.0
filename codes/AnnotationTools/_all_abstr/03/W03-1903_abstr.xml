@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-1903">
+<Title>Ontology-based linguistic annotation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We propose an ontology-based framework for linguistic annotation of written texts.</Paragraph>
+<Paragraph position="1"> We argue that linguistic annotation can be actually considered a special case of semantic annotation with regard to an ontology such as pursued within the context of the Semantic Web. Furthermore, we present CREAM, a semantic annotation framework, as well as its concrete implementation OntoMat and show how they can be used for the purpose of linguistic annotation. We demonstrate the value of our framework by applying it to the annotation of anaphoric relations in written texts.</Paragraph>
+</Section>
+</Paper>
+

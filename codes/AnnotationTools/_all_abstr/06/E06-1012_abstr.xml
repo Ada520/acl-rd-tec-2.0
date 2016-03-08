@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E06-1012">
+<Title>Statistical Dependency Parsing of Turkish</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents results from the first statistical dependency parser for Turkish.</Paragraph>
+<Paragraph position="1"> Turkish is a free-constituent order language with complex agglutinative inflectional and derivational morphology and presents interesting challenges for statistical parsing, as in general, dependency relations are between &amp;quot;portions&amp;quot; of words - called inflectional groups. We have explored statistical models that use different representational units for parsing.</Paragraph>
+<Paragraph position="2"> We have used the Turkish Dependency Treebank to train and test our parser but have limited this initial exploration to that subset of the treebank sentences withonlyleft-to-right non-crossing dependency links. Our results indicate that the best accuracy in terms of the dependency relations between inflectional groups is obtained when we use inflectional groups as units in parsing, and when contexts around the dependent are employed.</Paragraph>
+</Section>
+</Paper>
+

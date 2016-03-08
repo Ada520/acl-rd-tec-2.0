@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H05-2019">
+<Title>POSBIOTM/W: A Development Workbench For Machine Learning Oriented Biomedical Text Mining System [?]</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The POSBIOTM/W1 is a workbench for machine-learning oriented biomedical text mining system. The POSTBIOTM/W is intended to assist biologist in mining useful information efficiently from biomedical text resources. To do so, it provides a suit of tools for gathering, managing, analyzing and annotating texts. The workbench is implemented in Java, which means that it is platform-independent.</Paragraph>
+</Section>
+</Paper>
+

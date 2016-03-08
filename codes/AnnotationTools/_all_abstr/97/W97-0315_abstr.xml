@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0315">
+<Title>Name Searching and Information Retrieval</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> Name searching, matching, and recognition have been active areas of research for a number of years \[Hickey 1981, Carroll 1985, Rau 1991, Borgman and Siegfried 1992, Paik et al. 1993, Hayes 1994, Proceedings 1995, Pfeiffer et al. 1996\], but relatively little evaluation of either the effectiveness of name searching tools or of the effect of name recognition on relrieval performance has been published. In many retrieval contexts being able to retrieve on names, whether personal, institutional, geographic, or other names, is an important capability.</Paragraph>
+<Paragraph position="1"> Some applications \[ring and Croft 1994\] use name searching to extend the traditional information retrieval paradigm. To date, however, the main application of name searching has been in determining whether a name of interest in a query matches a name in a database of names \[Hickey 1981, Hermansen, 1985\]. Two examples of companies that develop customized name matching systems of this sort for business and government clients are Language Analysis Systems, Inc. and Search Software America.</Paragraph>
+<Paragraph position="2"> In this paper a different application of name searching is considered: using name recognition and matching to support ranked retrieval of flee text documents. Although this application uses name matching techniques much like those used m conventional relational database name searching, and nalne recognition, or tagging, techniques much like those of information extraction applications; text retrieval is sufficiently different from those applications, as to present different problems and issues, calling for different name searching techniques. This paper describes a series of experiments exploring the retrieval application and draws some tentative conclusions about it and how it differs from database name matching and information extraction name recognition applications.</Paragraph>
+<Paragraph position="3"> This study reviews the accuracy of personal name recognition as shown in the Named Entity Task of the</Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+Sixth Message Understanding Conference (MUC-6)
+</SectionTitle>
+<Paragraph position="0"> \[Proceedings 1995\]; investigates the frequency of personal and other names in case law and in news database queries; and finally explores the effect on retrieval performance of searching for, personal names differently from other words, through a simulation of name searching based on proximity searching. The main conclusions of this study are: 1) that name recognition in text can be done effectively; 2) that names occur frequently enough in both texts and queries of legal and news databases to make their recognition worthwhile; and 3) that name searching can lead to improved retrieval for queries with personal names.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

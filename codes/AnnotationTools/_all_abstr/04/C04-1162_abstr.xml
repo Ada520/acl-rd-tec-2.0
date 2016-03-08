@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1162">
+<Title>PageRank on Semantic Networks, with Application to Word Sense Disambiguation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a new open text word sense disambiguation method that combines the use of logical inferences with PageRank-style algorithms applied on graphs extracted from natural language documents. We evaluate the accuracy of the proposed algorithm on several sense-annotated texts, and show that it consistently outperforms the accuracy of other previously proposed knowledge-based word sense disambiguation methods. We also explore and evaluate methods that combine several open-text word sense disambiguation algorithms.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-1606">
+<Title>Normalization and Paraphrasing Using Symbolic Methods</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe an ongoing work in information extraction which is seen as a text normalization task. The normalized representation can be used to detect paraphrases in texts. Normalization and paraphrase detection tasks are built on top of a robust analyzer for English and are exclusively achieved using symbolic methods.</Paragraph>
+<Paragraph position="1"> Both grammar development rules and information extraction rules are expressed within the same formalism and are developed in an integrated way. The experiment we describe in the paper is evaluated and presents encouraging results.</Paragraph>
+</Section>
+</Paper>
+

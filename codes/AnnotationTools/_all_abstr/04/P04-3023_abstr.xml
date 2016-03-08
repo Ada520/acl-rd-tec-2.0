@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P04-3023">
+<Title>On the Equivalence of Weighted Finite-state Transducers</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Although they can be topologically different, two distinct transducers may actually recognize the same rational relation. Being able to test the equivalence of transducers allows to implement such operations as incremental minimization and iterative composition. This paper presents an algorithm for testing the equivalence of deterministic weighted finite-state transducers, and outlines an implementation of its applications in a prototype weighted finite-state calculus tool.</Paragraph>
+<Paragraph position="1"> Introduction The addition of weights in finite-state devices (where transitions, initial states and final states are weighted) introduced the need to reevaluate many of the techniques and algorithms used in classical finite-state calculus. Interesting consequences are, for instance, that not all non-deterministic weighted automata can be made deterministic (Buchsbaum et al., 2000); or that epsilon transitions may offset the weights in the result of the composition of two transducers (Pereira and Riley, 1997).</Paragraph>
+<Paragraph position="2"> A fundamental operation on finite-state transducers in equivalence testing, which leads to applications such as incremental minimization and iterative composition. Here, we present an algorithm for equivalence testing in the weighted case, and describe its application to these applications. We also describe a prototype implementation, which is demonstrated.</Paragraph>
+</Section>
+</Paper>
+

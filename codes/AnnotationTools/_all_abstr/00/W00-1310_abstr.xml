@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-1310">
+<Title>Nonlocal Language Modeling based on Context Co-occurrence Vectors</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a novel nonlocal lmlguage model which utilizes contextual information.</Paragraph>
+<Paragraph position="1"> A reduced vector space model calculated from co-occurrences of word pairs provides word co-occurrence vectors. The sum of word co-occurrence vectors represents tile context of a document, and the cosine similarity between the context vector and the word co-occurrence vectors represents the \]ong-distmlce lexical dependencies. Experiments on the Mainichi Newspaper corpus show significant improvement in perplexity (5.070 overall and 27.2% on target vocabulary)</Paragraph>
+</Section>
+</Paper>
+

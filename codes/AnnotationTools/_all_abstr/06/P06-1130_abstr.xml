@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P06-1130">
+<Title>Sydney, July 2006. c(c)2006 Association for Computational Linguistics Robust PCFG-Based Generation using Automatically Acquired LFG Approximations</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a novel PCFG-based architecture for robust probabilistic generation based on wide-coverage LFG approximations (Cahill et al., 2004) automatically extracted from treebanks, maximising the probability of a tree given an f-structure.</Paragraph>
+<Paragraph position="1"> We evaluate our approach using string-based evaluation. We currently achieve coverage of 95.26%, a BLEU score of 0.7227 and string accuracy of 0.7476 on the Penn-II WSJ Section 23 sentences of length [?]20.</Paragraph>
+</Section>
+</Paper>
+

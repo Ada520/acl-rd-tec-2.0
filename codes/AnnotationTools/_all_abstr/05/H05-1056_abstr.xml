@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H05-1056">
+<Title>Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing (HLT/EMNLP), pages 443-450, Vancouver, October 2005. c(c)2005 Association for Computational Linguistics Extracting Personal Names from Email: Applying Named Entity Recognition to Informal Text</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> There has been little prior work on Named Entity Recognition for &amp;quot;informal&amp;quot; documents like email. We present two methods for improving performance of per-son name recognizers for email: email-specific structural features and a recall-enhancing method which exploits name repetition across multiple documents.</Paragraph>
+</Section>
+</Paper>
+

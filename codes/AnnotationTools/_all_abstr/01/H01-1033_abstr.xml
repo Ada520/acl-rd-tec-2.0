@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H01-1033">
+<Title>Improved Cross-Language Retrieval using Backoff Translation</Title>
+<Section position="1" start_page="3" end_page="3" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> The limited coverage of available translation lexicons can pose a serious challenge in some cross-language information retrieval applications. We present two techniques for combining evidence from dictionary-based and corpus-based translation lexicons, and show that backoff translation outperforms a technique based on merging lexicons.</Paragraph>
+</Section>
+</Paper>
+

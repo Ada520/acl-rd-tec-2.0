@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C86-1008">
+<Title>A TWO-LEVEL DI~ REPRESENTATION 1</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> In this paper a two level dialogue representation system is presenteddeg It is intended to recognize the structure of a large range of dialogues including some nonverbal communicative acts which may be involved in an interaction. It provides a syntactic description of a dialogue which can be expressed in terms of re-writing rules. The semantic level of the proposed representation system is given by the goal and subgoal structure underlying the dialogue syntactic units. Two types of goal are identified; goals which relate to the content of the dialogue, and those which relate to cormaunicating the contentdeg i. INTRODUCTION Research on computational modelling of discourse has highlighted some important aspects of hun~an dialogic communication. In some cases (Reichman, 1984), a structural description of linguistic communication has been attempted altklough not for proper dialogue. What is required is a structural description identifying a corresponding set of con~nunicative acts which can be confined in a fixed pattern, to form higher level communication act categories or dialogue constituents.</Paragraph>
+<Paragraph position="1"> The importance of such a structural description, if attained, is that it would make possible an axiomatic theory of dialogue, embedding rhetorical patterns, focusing, and focus shifting.</Paragraph>
+<Paragraph position="2"> A possible basis for such a structural description is Burton's (1981) taxonomy of communication acts, with some modifications.</Paragraph>
+<Paragraph position="3"> Such a formalization of dialogue, however, is a fully syntactic one which needs to be augmented with some semantics. Our assumption is that dialogue constituents have a semantic interpretation in terms of goals and subgoals.</Paragraph>
+<Paragraph position="4"> A theoretical frame for a dialogue classification system based on these assunptions is being developed with the aim of providing a coherent basis for the computational modelling of dialogue.</Paragraph>
+<Paragraph position="5"> The final aim of our project is, in fact the design and implementation of a computational dialogic interaction system, with the ability to recover fr~n communication failure.</Paragraph>
+</Section>
+</Paper>
+

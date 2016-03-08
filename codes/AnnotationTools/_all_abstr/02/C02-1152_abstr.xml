@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C02-1152">
+<Title>Ecient Dialogue Strategy to Find Users' Intended Items from Information Query Results</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Weaddressadialogueframeworkthatnarrows  downtheuser'squeryresultsobtainedbyaninformationretrievalsystem. Thefollow-updialoguetoconstrainqueryresultsissignicantes- null  peciallywiththespeechinterfacessuchastelephonesbecausealotofqueryresultscannotbe null presented to the user. The proposed dialogue frameworkgeneratesguidingquestionsbasedon an information theoretic criterion to eliminate retrieved candidates by a spontaneous query withoutassumingasemanticslotstructure. We rstdescribeitsconceptongeneralinformation query tasks, and then deal with a query task ontheappliancemanualwherestructuredtask knowledgeisavailable. Ahierarchical conrmation strategyisproposedbymakinguseofatree structure of the manual, and then three cost functions for selecting optimal question nodes arecompared. Experimentalevaluationdemonstrates that the proposed system helps users ndtheirintendeditemsmoreeciently.</Paragraph>
+</Section>
+</Paper>
+

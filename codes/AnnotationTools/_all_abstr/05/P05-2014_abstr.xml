@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P05-2014">
+<Title>Dialogue Act Tagging for Instant Messaging Chat Sessions</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Instant Messaging chat sessions are real-time text-based conversations which can be analyzed using dialogue-act models.</Paragraph>
+<Paragraph position="1"> We describe a statistical approach for modelling and detecting dialogue acts in Instant Messaging dialogue. This involved the collection of a small set of task-based dialogues and annotating them with a revised tag set. We then dealt with segmentation and synchronisation issues which do not arise in spoken dialogue.</Paragraph>
+<Paragraph position="2"> The model we developed combines naive Bayes and dialogue-act n-grams to obtain better than 80% accuracy in our tagging experiment.</Paragraph>
+</Section>
+</Paper>
+

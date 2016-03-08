@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P81-1029">
+<Title></Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+0.0 INTRODUCTION
+A CASE FOR RULE-DRIVEN SEMANTIC PROCESSING
+</SectionTitle>
+<Paragraph position="0"> The primary cask of semantic processing is to provide an appropriate mapping between the synCactlc consClCuanCs of a parsed sentence and the arguments of the semanclc predlcaces implied by the verb. This is known as the Alignment Problem.\[Levln\] Sectloo One of thls paper gives an overview of a generally accepted approach to semantic processing that goes through several levels of representation to achieve this mapping. Although somewhat inflexible and cumbersome, the different levels succeed in preservln S the context sensitive information provided by verb semantics. Section Two presents the author's rule-driven approach which is more uniform and flexible yet still accommodates context senslClve constraints.</Paragraph>
+<Paragraph position="1"> This approach is based on general underlying principles for syntactic methods of Incroduclns semantic arguments and has interesting implications for linguistic theories about case. These implications are dicuesed in Section Three. A system that implements this approach has been designed for and tested on pulley problem statements gathered from several physics text books.\[Palmer\]</Paragraph>
+</Section>
+</Paper>
+

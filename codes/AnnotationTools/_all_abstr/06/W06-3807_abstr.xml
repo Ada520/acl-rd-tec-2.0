@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-3807">
+<Title>Learning of Graph-based Question Answering Rules</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we present a graph-based approach to question answering. The method assumes a graph representation of question sentences and text sentences.</Paragraph>
+<Paragraph position="1"> Question answering rules are automaticallylearntfromatrainingcorpusofques- null tions and answer sentences with the answer annotated. The method is independentfromthegraphrepresentationformal- null ism chosen. A particular example is presented that uses a specific graph representation of the logical contents of sentences.</Paragraph>
+</Section>
+</Paper>
+

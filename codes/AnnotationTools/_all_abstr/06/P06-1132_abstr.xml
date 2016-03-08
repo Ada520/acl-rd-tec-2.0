@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P06-1132">
+<Title></Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Japanese case markers, which indicate the grammatical relation of the complement NP to the predicate, often pose challenges to the generation of Japanese text, be it done by a foreign language learner, or by a machine translation (MT) system.</Paragraph>
+<Paragraph position="1"> In this paper, we describe the task of predicting Japanese case markers and propose machine learning methods for solving it in two settings: (i) monolingual, when given information only from the Japanese sentence; and (ii) bilingual, when also given information from a corresponding English source sentence in an MT context. We formulate the task after the well-studied task of English semantic role labelling, and explore features from a syntactic dependency structure of the sentence.</Paragraph>
+<Paragraph position="2"> For the monolingual task, we evaluated our models on the Kyoto Corpus and achieved over 84% accuracy in assigning correct case markers for each phrase. For the bilingual task, we achieved an accuracy of 92% per phrase using a bilingual dataset from a technical domain. We show that in both settings, features that exploit dependency information, whether derived from gold-standard annotations or automatically assigned, contribute significantly to the prediction of case markers.1</Paragraph>
+</Section>
+</Paper>
+

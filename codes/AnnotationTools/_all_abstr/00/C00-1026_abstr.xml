@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-1026">
+<Title>Automatic Senmntic Classification for Chinese Unknown Compound Nouns</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Tim paper describes a similarity-based model to present the morphological rules for Chinese compound nouns. This representation model serves functions of 1) as the morphological rules of the compounds, 2) as a mean to evaluate the properness of a compound construction, and 3) as a mean to disambiguate the semantic ambiguity of the nlorphological head of a compound noun. An automatic semantic classil'ication system for Chinese unknown compounds is thus implemented based on the model. Experiments and on'or analyses arc also presented.</Paragraph>
+</Section>
+</Paper>
+

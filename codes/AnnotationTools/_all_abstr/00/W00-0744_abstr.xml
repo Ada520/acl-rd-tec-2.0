@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-0744">
+<Title>Recognition and Tagging of Compound Verb Groups in Czech</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In Czech corpora compound verb groups are usually tagged in word-by-word manner. As a consequence, some of the morphological tags of particular components of the verb group lose their original meaning. We present a method for automatic recognition of compound verb groups in Czech. From an annotated corpus 126 definite clause grammar rules were constructed.</Paragraph>
+<Paragraph position="1"> These rules describe all compound verb groups that are frequent in Czech. Using those rules we can find compound verb groups in unannotated texts with the accuracy 93%. Tagging compound verb groups in an annotated corpus exploiting the verb rules is described.</Paragraph>
+<Paragraph position="2"> Keywords: compound verb groups, chunking, morphosyntactic tagging, inductive logic programming null</Paragraph>
+</Section>
+</Paper>
+

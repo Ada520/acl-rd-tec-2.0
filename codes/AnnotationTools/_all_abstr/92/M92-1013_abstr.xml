@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="M92-1013">
+<Title>MITRE-Bedford ALEMBIC : MUC-4 Test Results and Analysis</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+PRELIMINARIES
+</SectionTitle>
+<Paragraph position="0"> This note embodies our analyses of the performance of the ALEMBIC system in the MUC-4 evaluation task.</Paragraph>
+<Paragraph position="1"> These analyses have provided us with a reasonably good understanding of the principal factors contributing to the system's correct responses and to its errors . This understanding is based in part on interpretations of the performance measures provided by the MUC-4 scoring software; in addition, we performed a number of qualitative and quantitative investigations into linguistic aspects of the messages that underly the system 's performance.</Paragraph>
+<Paragraph position="2"> It should be noted however, that ALEMBIC iS still in very early stages of development, and that the analyse s we give here should be taken as just presenting a snapshot of the system's performance. In the weeks since the MUC-4 evaluation runs, the system has of course remained under development, and its performance score s have improved steadily . One consequence of our system's relative youth is that it embodies many oportunitie s for improvement, and even minor implementational tweaks can yield significant performance gains .</Paragraph>
+</Section>
+</Paper>
+

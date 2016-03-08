@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W95-0112">
+<Title>Automatically Acquiring Conceptual Patterns Without an Annotated Corpus</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Previous work on automated dictionary construction for information extraction has relied on annotated text corpora. However, annotating a corpus is time-consuming and difficult.</Paragraph>
+<Paragraph position="1"> We propose that conceptual patterns for information extraction can be acquired automatically using only a preclassified training corpus and no text annotations. We describe a system called AutoSlog-TS, which is a variation of our previous AutoSlog system, that runs exhaustively on an untagged text corpus. Text classification experiments in the MUC-4 terrorism domain show that the AutoSlog-TS dictionary performs comparably to a hand-crafted dictionary, and actually achieves higher precision on one test set. For text classification, AutoSlog-TS requires no manual effort beyond the preclassified training corpus. Additional experiments suggest how a dictionary produced by AutoSlog-TS can be filtered automatically for information extraction tasks. Some manual intervention is still required in this case, but AutoSlog-TS significantly reduces the amount of effort required to create an appropriate training corpus.</Paragraph>
+</Section>
+</Paper>
+

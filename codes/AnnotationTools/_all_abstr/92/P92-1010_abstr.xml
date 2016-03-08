@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P92-1010">
+<Title>Reasoning with Descriptions of Trees *</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> In this paper we introduce a logic for describing trees which allows us to reason about both the parent and domination relationships. The use of domination has found a number of applications, such as in deterministic parsers based on Description theory (Marcus, Hindle &amp; Fleck, 1983), in a compact organization of the basic structures of Tree-Adjoining Grammars (Vijay-Shanker &amp; Schabes, 1992), and in a new characterization of the adjoining operation that allows a clean integration of TAGs into the unification-based framework (Vijay-Shanker, 1992) Our logic serves to formalize the reasoning on which these applications are based.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E06-2012">
+<Title>Maytag: A multi-staged approach to identifying complex events in textual data</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a novel application of NLP and text mining to the analysis of financial documents. In particular, we describe an implemented prototype, Maytag, which combines information extraction and subject classification tools in an interactive exploratory framework. We present experimental results on their performance, as tailored to the financial domain, and some forward-looking extensions to the approach that enables users to specify classifications on the fly.</Paragraph>
+</Section>
+</Paper>
+

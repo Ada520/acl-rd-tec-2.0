@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="M91-1005">
+<Title>Category Total Labor Hours Domain Independent MUC-3 Specific Profiler 0 180 Parser / Analyzer Grammar rule s Lexical entrie s</Title>
+<Section position="1" start_page="0" end_page="49" type="abstr">
+<SectionTitle>
+ADVANCED DECISION SYSTEMS' CODEX:
+MUC-3 TEST RESULTS AND ANALYSI S
+</SectionTitle>
+<Paragraph position="0"> The underlying principle of the CODEX concept is to do the analysis in two phases . First, we perform a &amp;quot;surface level&amp;quot; analysis of the message text to determine if there is any evidence for data items of interest. If there is not, then no further processing of the message is attempted. If, however, there is evidence for the items of interest, we pro ceed to the second phase in which detailed analysis is performed only on those sections of the message identified b y the first phase as having potentially relevant material in them .</Paragraph>
+<Paragraph position="1"> For MUC-3, the profiler was set-up to overgenerate partially completed templates based on the detection o f the basic event types (i .e., murder, bombing, kidnapping, etc.) at the sentence level, with the parser/analyzer used to either reject these hypothesized templates or to complete them based on more detailed analysis of the text. The parser/ analyzer would also do the appropriate reasoning to determine whether the incident was attempted, threatened, or ac complished. The generation of templates based solely on profiler output was designed to be a fail-safe feature in th e event of parser failure. Since CAUCUS was not enabled for TST2, this fail-safe mechanism provided our only output.</Paragraph>
+<Paragraph position="2"> It produced one template per incident type per sentence in which a concept of the incident type was found .</Paragraph>
+</Section>
+</Paper>
+

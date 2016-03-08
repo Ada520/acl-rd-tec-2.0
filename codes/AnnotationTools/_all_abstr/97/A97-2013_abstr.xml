@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A97-2013">
+<Title>EAGLE: An Extensible Architecture for General Linguistic Engineering</Title>
+<Section position="1" start_page="0" end_page="23" type="abstr">
+<SectionTitle>
+EAGLE:
+</SectionTitle>
+<Paragraph position="0"></Paragraph>
+<Section position="1" start_page="0" end_page="23" type="sub_section">
+<SectionTitle>
+Department of Computer and Information Science and
+</SectionTitle>
+<Paragraph position="0"> The Institute for Research in Cognitive Science email: {breck,cdoran,jcreynar,niv,srini}@hnc.cis.upenn.edu Over the course of two summer projects, we developed a general purpose natural language system which advances the state-of-the-art in several areas. The system contains demonstrated advancements in part-of-speech tagging, end-of-sentence detection, and coreference resolution. In addition, we believe that we have strong maximal noun phrase detection, and subject-verb-object recognition and a pattern matching language well suited to a range of tasks. Other features of the system include modularity and interchangeability of components, rapid component integration and a debugging environment.</Paragraph>
+<Paragraph position="1"> The demo will feature aspects of the system currently being used to develop a coreference resolution engine in preparation for MUC-7, in addition to an information extraction task done over the summer of 1996. Two aspects of the system will be featured prominently, a diagnostic tool for evaluating system output using SRA's discourse tagging tool (DTT) and the MOP pattern matching language.</Paragraph>
+<Paragraph position="2"> The diagnostic tool takes a coreference annotated text to be evaluated, an answer key assumed to be correct, and produces various diagnostics which evaluate system performance. Areas of  In addition, we present MOP (Mother of Perl), a pattern description language developed for use in an information extraction task and currently being used to do coreference. Patterns are described in MOP by left-to-right enumeration of components, with each component specifing at various levels of descriptive granularity. The patterns are compiled into Perl scripts, which perform back-tracking search on the input text. MOP also allows for rapid integration of a variety of analytical modules, such as part-of-speech taggers and parsers.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

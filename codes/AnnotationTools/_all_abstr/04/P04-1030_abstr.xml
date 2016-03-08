@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P04-1030">
+<Title>Head-Driven Parsing for Word Lattices</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present the first application of the head-driven statistical parsing model of Collins (1999) as a simultaneous language model and parser for large-vocabulary speech recognition. The model is adapted to an online left to right chart-parser for word lattices, integrating acoustic, n-gram, and parser probabilities. The parser uses structural and lexical dependencies not considered by n-gram models, conditioning recognition on more linguistically-grounded relationships. Experiments on the Wall Street Journal treebank and lattice corpora show word error rates competitive with the standard n-gram language model while extracting additional structural information useful for speech understanding.</Paragraph>
+</Section>
+</Paper>
+

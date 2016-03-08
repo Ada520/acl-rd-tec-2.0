@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A00-2008">
+<Title>c johnson@soliloquy.corn</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents the syntactic and semantic tags used to annotate predicate-argument structure in the Berkeley FrameNet Project. It briefly explains the theory of frame semantics on which semantic annotation is based, discusses possible applications of FrameNet annotation, and compares FrameNet to other prominent iexical resources.</Paragraph>
+<Paragraph position="1"> Introduction This paper presents the tagset used to annotate the predicate-argument structures of English verbs, adjectives, and nouns in the Berkeley FrameNet Project (NSF IR\]-9618838, &amp;quot;Tools for Lexicon Building&amp;quot;), a corpus-based computational lexicography project based on the theory of frame semantics (see Fillmore 1982). It briefly explains the theoretical background and shows how frame-semantic annotation creates lexicographic generalizations that are not possible with more traditional linguistic approaches to argument structure based on thematic roles.</Paragraph>
+</Section>
+</Paper>
+

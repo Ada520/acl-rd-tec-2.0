@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-1316">
+<Title>Multimodal Dialog Description Language for Rapid System Development</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we explain a rapid development method of multimodal dialogue sys-tem using MIML (Multimodal Interaction Markup Language), which defines dialogue patterns between human and various types of interactive agents. The feature of this language is three-layered description of agent-based interactive systems which separates task level description, interaction description and device dependent realization. MIML has advantages in high-level interaction description, modality extensibility and compatibility with standardized technologies. null</Paragraph>
+</Section>
+</Paper>
+

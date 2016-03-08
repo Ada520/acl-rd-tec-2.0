@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-1233">
+<Title>Introducing MegaHAL</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Conversation simulators are computer programs which give the appearance of conversing with a user in natural language. Alan Turing devised a simple test in order to decide whether such programs are intelligent. In 1991, the Cambridge Centre for Behavioural Studies held the first formal instantiation of the Turing Test. In this incarnation the test was known as the Loebner contest, as Dr.</Paragraph>
+<Paragraph position="1"> Hugh Loebner pledged a $100,000 grand prize for the first computer program'to pass the test.</Paragraph>
+<Paragraph position="2"> In this paper we give a brief background to the contest, before describing in detail the workings of MegaHAL, the primary author's entry to the 1998 Loebner contest.</Paragraph>
+</Section>
+</Paper>
+

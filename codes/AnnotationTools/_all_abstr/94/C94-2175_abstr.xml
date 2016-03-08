@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C94-2175">
+<Title>Bilingual Text, Matching using Bilingual Dictionary and Statistics</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a unified framework for bilingnal text matching by combining existing hand-written bilingual dictionaries and statistical techniques. The process of bilingual text matching consists of two major steps: sentence alignment and structural matching of bilingual sentences. Statistical techniques are apt plied to estimate word correspondences not included in bilingual dictionaries. Estimated word correspondences are useful for improving both sentence alignment and structural matching.</Paragraph>
+</Section>
+</Paper>
+

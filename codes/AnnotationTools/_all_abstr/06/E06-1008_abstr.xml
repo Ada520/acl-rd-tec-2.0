@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E06-1008">
+<Title>Generating statistical language models from interpretation grammars in dialogue systems</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we explore statistical language modelling for a speech-enabled MP3 player application by generating a corpus from the interpretation grammar written for the application with the Grammatical Framework (GF) (Ranta, 2004).</Paragraph>
+<Paragraph position="1"> We create a statistical language model (SLM) directly from our interpretation grammar and compare recognition performance of this model against a speech recognition grammar compiled from the same GF interpretation grammar. The results show a relative Word Error Rate (WER) reduction of 37% for the SLM derived from the interpretation grammar whilemaintainingalowin-grammarWER comparable to that associated with the speech recognition grammar. From this starting point we try to improve our artificially generated model by interpolating it with different corpora achieving great reduction in perplexity and 8% relative recognition improvement.</Paragraph>
+</Section>
+</Paper>
+

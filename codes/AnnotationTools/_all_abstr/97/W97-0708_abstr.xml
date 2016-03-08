@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0708">
+<Title>Goal-Directed Approach for Text Summarization</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The information to InClude m a summary vanes depending on the author's mtentmn and the use of the summary To create the best summaries, the appropriate goals of the extracting process should be set and a guide should be outlined that instructs the system how to meet the tasks The approach described m thin report m intended to be a basic archltecture to extract a set of concme sentences that are indicated or predlcted by goals and contexts To evaluate a sentence, the sentence selection algorithm simply measures the mformatlveness of each sentence by comparing with the determined goals, and the algorlthm extracts a set of the hlghest scored bentences by repeat apphcatmn of thin comparmon null Thin approach m apphed m the summary of newspaper artlcles The headhnes are used as the goals Also the method to extract charactenstlc sentences by using property mformatlon of text is shown In thls experiment m whlch Japanese news articles are summarized, the sunlmarles consmt of about 30% of the original text On avelage, thin method extracts 50% less text than the slmple tltle-keyword method</Paragraph>
+</Section>
+</Paper>
+

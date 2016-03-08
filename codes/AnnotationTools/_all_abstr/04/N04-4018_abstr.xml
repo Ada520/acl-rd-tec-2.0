@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N04-4018">
+<Title>Improving Automatic Sentence Boundary Detection with Confusion Networks</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We extend existing methods for automatic sentence boundary detection by leveraging multiple recognizer hypotheses in order to provide robustness to speech recognition errors. For each hypothesized word sequence, an HMM is used to estimate the posterior probability of a sentence boundary at each word boundary.</Paragraph>
+<Paragraph position="1"> The hypotheses are combined using confusion networks to determine the overall most likely events. Experiments show improved detection of sentences for conversational telephone speech, though results are mixed for broadcast news.</Paragraph>
+</Section>
+</Paper>
+

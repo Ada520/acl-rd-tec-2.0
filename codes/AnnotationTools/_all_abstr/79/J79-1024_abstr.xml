@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J79-1024">
+<Title>American Journal of Computational Linguistics Mi crof i che 2 4 THE SQAP DATA BASE FOR NATURAL LANGUAGE INFOR8MATION</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> The Swedish Question Answering Pro j ect (SQAP) aims at handli~g many digferent kinds of facts, and nat only facts in a small dpecial application area. The SQAP data base consists of a network of nodes correspdnding to objects, properties, and events in the real.world. Deduction can be performed, and deduction rules can be input in natural language and stored in the data base.</Paragraph>
+<Paragraph position="1"> This report describes the data base, specially focusing on problems in its desbn, both problems which have been solved and problems which are not yet solved.</Paragraph>
+<Paragraph position="2"> Specially full treatment is given to the data base representation df natural language noun phrases, and to the represen-Gation of deduction fules in the data base in the PSom DPS data base &amp;quot;patterns&amp;quot;</Paragraph>
+</Section>
+</Paper>
+

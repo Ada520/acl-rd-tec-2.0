@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W94-0315">
+<Title>Using a textual representational level component in the context of discourse or dialogue generation</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A natural language generation system is typically constituted by two main components: a content planning component (e.g., text planner or dialogue act planner) and a linguistic realization component. But, this is not sufficient since, on the one hand, the message built by the content pldnning component is generally not adequately detailed in order to control the many possibilities for its expression and, on the other hand, the content planner cannot influence the way in which the message will be verbalized.</Paragraph>
+<Paragraph position="1"> Generation systems require a third component, called the micro-planning (or sentence planning or phrasing) component, which acts as an intermediary between the pragmatico-semantic level and the purely syntactic level. The micro-planner is responsible for transforming the message into a textual structure. For this transformation to be achieved, grammatical and lexical resources must be selected.</Paragraph>
+</Section>
+</Paper>
+

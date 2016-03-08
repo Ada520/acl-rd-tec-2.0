@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A00-3004">
+<Title>A Weighted Robust Parsing Approach to Semantic Annotation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper proposes a grammar-based approach to semantic annotation which combines the notions of robust parsing and fuzzy grammars. We present an overview of a preliminary research aimed to generalize some results from a recent project on interaction through speech with information systems where techniques based on the above notions have been successfully applied. The goal of the article is to give a development environment to linguists*</Paragraph>
+</Section>
+</Paper>
+

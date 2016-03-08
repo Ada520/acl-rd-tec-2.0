@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P91-1004">
+<Title>Toward a Plan-Based Understanding Model for Mixed-Initiative Dialogues</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> In this paper, we present an enhanced plan-based model of dialogue understanding that provides a framework for computer processing of mixed-initiative dialogues.</Paragraph>
+<Paragraph position="1"> In mixed-initiative dialogues, each speaker brings to the conversation his or her own plans and goals based on his or her own domain knowledge, and which do not necessarily match those of the other speaker, even in cooperative situations. Thus, mixed-initiative dialogues exhibit a more complicated discourse structure than do dialogues in which a single speaker controls the conversational initiative.</Paragraph>
+</Section>
+</Paper>
+

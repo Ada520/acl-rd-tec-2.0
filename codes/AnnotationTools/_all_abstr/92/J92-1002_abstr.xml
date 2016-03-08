@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J92-1002">
+<Title>An Estimate of an Upper Bound for the Entropy of English</Title>
+<Section position="2" start_page="0" end_page="32" type="abstr">
+<SectionTitle>
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> We present an estimate of an upper bound for the entropy of characters in printed English. The estimate is the cross-entropy of the 5.96 million character Brown Corpus (Kucera and Francis 1967) as measured by a word trigram language model that we constructed from 583 million words of training text. We obtain an upper bound of 1.75 bits per character.</Paragraph>
+<Paragraph position="1"> Since Shannon's 1951 paper, there have been a number of estimates of the entropy of English. Cover and King (1978) list an extensive bibliography. Our approach differs from previous work in that  1. We use a much larger sample of English text; previous estimates were based on samples of at most a few hundred letters.</Paragraph>
+<Paragraph position="2"> 2. We use a language model to approximate the probabilities of character strings; previous estimates employed human subjects from whom probabilities were elicited through various clever experiments.</Paragraph>
+<Paragraph position="3"> 3. We predict all printable ASCII characters.</Paragraph>
+<Paragraph position="4"> 2. Method Our estimate for the entropy bound is based upon the well-known fact that the cross-entropy of a stochastic process as measured by a model is an upper bound on the entropy of the process. In this section, we briefly review the relevant notions. 2.1 Entropy, Cross-Entropy, and Text Compression Suppose X = {... X-2, X-l, Xo, X1, X2...} is a stationary stochastic process over a finite alphabet. Let P denote the probability distribution of X and let Ep denote expectations * P.O. Box 704, Yorktown Heights, NY 10598 (~) 1992 Association for Computational Linguistics Computational Linguistics Volume 18, Number 1 with respect to P. The entropy of X is defined by</Paragraph>
+<Paragraph position="6"> If the base of the logarithm is 2, then the entropy is measured in bits. It can be shown that H(P) can also be expressed as</Paragraph>
+<Paragraph position="8"> If the process is ergodic, then the Shannon-McMillan-Breiman theorem (Algoet and Cover 1988) states that almost surely</Paragraph>
+<Paragraph position="10"> Thus, for an ergodic process, an estimate of H(P) can be obtained from a knowledge of P on a sufficiently long sample drawn randomly according to P.</Paragraph>
+<Paragraph position="11"> When P is not known, an upper bound to H(P) can still be obtained from an approximation to P. Suppose that the stationary stochastic process M is a model for P. The cross-entropy of P as measured by M is defined by</Paragraph>
+<Paragraph position="13"> The cross-entropy H(P, M) is relevant to us since it is an upper bound on the entropy H(P). That is, for any model M, H(P) &lt; H(P,M). (7) The difference between H(P, M) and H(P) is a measure of the inaccuracy of the model M. More accurate models yield better upper bounds on the entropy. Combining Equations (6) and (7) we see that almost surely for P, H(P) &lt; lim - 1 log M(X1X2... Xn). (8) n---*OO n Entropy and cross-entropy can be understood from the perspective of text compression. It is well known that for any uniquely decodable coding scheme (Cover and Thomas 1991), Ep I(XIX2... Xn) ~ -Ep log e(XlX2... Xn) , (9) where I(X1X2...Xn) is the number of bits in the encoding of the string X1X2...Xn. Combining Equations (2) and (9), we see that H(P) is a lower bound on the average number of bits per symbol required to encode a long string of text drawn from P:</Paragraph>
+<Paragraph position="15"> Brown et al. An Estimate of an Upper Bound for the Entropy of English On the other hand, an arithmetic coding scheme (Bell, Cleary, and Witten 1990) using model M will encode the sequence xlx2... Xn in IM(XlX2... Xn) = r -- logM(XlX2... Xn) + 11 (11) bits, where \[r\] denotes the smallest integer not less than r. Combining Equations (7) and (11) we see that H(P,M) is the number of bits per symbol achieved by using model M to encode a long string of text drawn from P:</Paragraph>
+<Paragraph position="17"></Paragraph>
+<Section position="1" start_page="32" end_page="32" type="sub_section">
+<SectionTitle>
+2.2 The Entropy Bound
+</SectionTitle>
+<Paragraph position="0"> We view printed English as a stochastic process over the alphabet of 95 printable ASCII characters. This alphabet includes, for example, all uppercase and lowercase letters, all digits, the blank, all punctuation characters, etc. Using Equation (8) we can estimate an upper bound on the entropy of characters in English as follows:  1. Construct a language model M over finite strings of characters.</Paragraph>
+<Paragraph position="1"> 2. Collect a reasonably long test sample of English text.</Paragraph>
+<Paragraph position="2"> 3. Then</Paragraph>
+<Paragraph position="4"> where n is the number of characters in the sample.</Paragraph>
+<Paragraph position="5"> We emphasize that for this paradigm to be reasonable, the language model M must be constructed without knowledge of the test sample. Without this proscription, one might, for example, construct a model that assigns probability one to the test sample and zero to any other character string of the same length. Even quite subtle use of knowledge of the test sample can have a profound effect on the cross-entropy. For example, the cross-entropy would be noticeably lower had we restricted ourselves to characters that appear in the test sample rather than to all printable ASCII characters, and would be lower still had we used the actual vocabulary of the test sample. But these values could not be trumpeted as upper bounds to the entropy of English since Equation (13) would no longer be valid.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P00-1009">
+<Title>An Improved Parser for Data-Oriented Lexical-Functional Analysis</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present an LFG-DOP parser which uses fragments from LFG-annotated sentences to parse new sentences. Experiments with the Verbmobil and Homecentre corpora show that (1) Viterbi n best search performs about 100 times faster than Monte Carlo search while both achieve the same accuracy; (2) the DOP hypothesis which states that parse accuracy increases with increasing fragment size is confirmed for LFG-DOP; (3) LFG-DOP's relative frequency estimator performs worse than a discounted frequency estimator; and  (4) LFG-DOP significantly outperforms Tree-DOP if evaluated on tree structures only.</Paragraph>
+</Section>
+</Paper>
+

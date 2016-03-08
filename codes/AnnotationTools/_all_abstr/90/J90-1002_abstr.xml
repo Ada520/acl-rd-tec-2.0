@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J90-1002">
+<Title>AN INTERPRETATION OF NEGATION IN FEATURE STRUCTURE DESCRIPTIONS</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+AN INTERPRETATION OF NEGATION
+IN FEATURE STRUCTURE DESCRIPTIONS
+</SectionTitle>
+<Paragraph position="0"> Feature structures are informational elements that have been used in several linguistic theories and in computational systems for natural language processing. A logical calculus has been developed and used as a description language for feature structures. In the present work, a framework in three-valued logic is suggested for defining the semantics of a feature structure description language, allowing for a more complete set of logical operators. In particular, an interpretation of the negation and implication operators is examined within this framework. We extend this approach to interpret descriptions that involve existence (or nonexistence) of values for attributes. A definition of augmented feature structures is proposed, and one particular interpretation of the description language with a negation operator is described. A sound and complete proof system is presented for the logic thus obtained and its computational aspects studied.</Paragraph>
+</Section>
+</Paper>
+

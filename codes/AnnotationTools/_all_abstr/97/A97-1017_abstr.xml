@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A97-1017">
+<Title>Probabilistic and Rule-Based Tagger of an Inflective Languagea Comparison</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present results of probabilistic tagging of Czech texts in order to show how these techniques work for one of the highly morphologically ambiguous inflective languages. After description of the tag system used, we show the results of four experiments using a simple probabilistic model to tag Czech texts (unigram, two bigram experiments, and a trigram one). For comparison, we have applied the same code and settings to tag an English text (another four experiments) using the same size of training and test data in the experiments in order to avoid any doubt concerning the validity of the comparison. The experiments use the source channel model and maximum likelihood training on a Czech hand-tagged corpus and on tagged Wall Street Journal (WSJ) from the LDC collection.</Paragraph>
+<Paragraph position="1"> The experiments show (not surprisingly) that the more training data, the better is the success rate. The results also indicate that for inflective languages with 1000+ tags we have to develop a more sophisticated approach in order to get closer to an acceptable error rate. In order to compare two different approaches to text tagging -statistical and rule-based -- we modified Eric Brill's rule-based part of speech tagger and carried out two more experiments on the Czech data, obtaining similar results in terms of the error rate. We have also run three more experiments with greatly reduced tagset to get another comparison based on similar tagset size.</Paragraph>
+</Section>
+</Paper>
+

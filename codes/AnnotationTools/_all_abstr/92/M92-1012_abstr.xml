@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="M92-1012">
+<Title>MCDONNELL DOUGLAS ELECTRONIC SYSTEMS COMPAN Y MUC-4 TEST RESULTS AND ANALYSIS</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+MCDONNELL DOUGLAS ELECTRONIC SYSTEMS COMPAN Y
+MUC-4 TEST RESULTS AND ANALYSIS
+</SectionTitle>
+<Paragraph position="0"></Paragraph>
+<Paragraph position="2"> Our MUC4 TexUS system not only incorporates many of the concepts, knowledge, and algorithm s from our MUC3 INLET system, but also represents our first version of a domain-independent end-to-end natural language processing capability. Although we are excited that our system correctly process tex t from the lexical to the discourse level for the first time, we stress that the MUC4 system is a framework that will not be complete until the end of the year . Relative to MUC3, our scores reflect an increase i n precision due to our system's end-to-end completeness, and a lowering of recall due to the curren t incompleteness of our knowledge base and implementation . As TexUS nears completion, we expect our performance on the MUC4 task to improve substantially .</Paragraph>
+</Section>
+</Paper>
+

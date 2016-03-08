@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-1703">
+<Title>Level Use User Function Conception NLP specialist Script Conception NLP specialist + Language specialist Activity Conception Language teacher Conception Language teacher Scenario Playing Student</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This article focuses on the development of Natural Language Processing (NLP) tools for Computer Assisted Language Learning (CALL). After identifying the inherent limitations of NLP-free tools, we describe the general framework of Mirto, an NLP-based authoring platform under construction in our laboratory, and organized into four distinct layers: functions, scripts, activities and scenarios. Through several examples, we explain how Mirto's architecture allows to implement state-of-the-art NLP functions, integrate them into easily handled scripts in order to create, without computing skills, didactic activities that could be recorded in more complex sequences or scenarios.</Paragraph>
+</Section>
+</Paper>
+

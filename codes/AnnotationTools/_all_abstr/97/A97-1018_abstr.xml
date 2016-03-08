@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A97-1018">
+<Title>Common words Candidates for Chinese Place Names Candidates for Chinese Personal Names</Title>
+<Section position="1" start_page="0" end_page="119" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Chinese word segmentation and POS tagging are two key techniques in many applications in Chinese information processing. Great efforts have been paid to the research in the last decade, but unfortunately, no practical system with high performance for unrestricted texts is available up to date. CSeg&amp;Tagl.0, a Chinese word segmenter and POS tagger which unifies these two procedures into one model, is introduced in this paper. The preliminary open tests show that the segmentation precision of CSeg&amp;Tagl.0 is about 98.0% - 99.3%, POS tagging precision about 91.0% 97.1%, and the recall and precision for unknown words are ranging from 95.0% to 99.0% and from 87.6% to 95.3% respectively. The processing speed is about 100 characters per second on Pentium 133 PC. The work of improving the performance of the system is still ongoing.</Paragraph>
+<Paragraph position="1"> 1. Background and the Related Issues In Chinese, there do not exist delimiters, such as spacing in English, to explicitly indicate boundaries between words. Chinese word segmentation is therefore proposed as the first step in any Chinese information processing systems. Then we still face the problem of part-of-speech tagging. These two issues have been intensively studied by the Chinese language computing community in the last decade\[l-18\].</Paragraph>
+<Paragraph position="2"> Unfortunately however, no word segmenter and POS tagger for Chinese with satisfactory performance in treating unrestricted texts are available so far.</Paragraph>
+<Paragraph position="3"> Two main obstacles block the progress of Chinese word segmentation: one is ambiguRy, another is  unknown word. The sentences in (I) are examples of ambiguity and the sentence (2) and (3) examples of unknown word.</Paragraph>
+<Paragraph position="4"> (la) ~-@~:9~P~:~\[~.</Paragraph>
+<Paragraph position="5"> (lb) ~_~, ~ P)i:~ ~ ~ f.-J ~,~t~ ~ ~,,.</Paragraph>
+<Paragraph position="6">  At least two explanations are possible for the fragment &amp;quot;(O~,P~&amp;quot; in (1), resulting in two different segmentations: correct segmentation for (1 a) this CLASSIFIER institute very famous (This institute is very famous.) correct segmentation for (lb) ~- I ~ I ~9~ I ~ I this CLASSIFIER research A UX involve of problem very complex (The problems involved in this research are very complex.) Two transliterated foreign personal names(TFN), i.e., &amp;quot;~&amp;quot; and &amp;quot;IS~,It~-~'T * 1~ bJf:l:~ * ,~ are involved in the sentence (2): ~- Ilg b~@ * -~ ....</Paragraph>
+<Paragraph position="7"> They will be wrongly broken into pieces of isolated characters if not processed: correct segmentation for (2) accompany TFN1 president visit of I ,~,~ I N~-~&amp;quot; ~7 b~&amp;quot; -~ ...</Paragraph>
+<Paragraph position="8"> have premier TFN2 (Visitors accompanying the president TFN1 include the premier TFN2, ...) wrong segmentation for (2) I N t ,~,N I IN I tt/i I -~ I I~- I INI b I :it: I ~ I I-~ I ~1~...</Paragraph>
+<Paragraph position="9"> The sentence (3) contains a Chinese personal</Paragraph>
+<Paragraph position="11"> only clear ChineseSURNAME touching /* logically ill-formed sentence */ POS tagging for Chinese is similar to that of English, except that an English tagger only need to tag one word sequence for an input sentence, but in the case of Chinese, to get a correct tag sequence for a sentence, a Chinese tagger may be requested to tag more than one word sequences simultaneously due to the presence of segmentation ambiguities.</Paragraph>
+<Paragraph position="12"> Chinese word segmentation and POS tagging techniques can be found many applications in the real world such as information retrieval, text categorization, text proofreading, OCR, speech recognition and text-to-speech conversion systems. For instance, in information retrieval, the incorrect segmentation for the fragment &amp;quot;/~:~P)i:&amp;quot; in (la) and (lb) will definitely cause improper access to the texts involving it. Another typical application is in text-to-speech conversion. The over-segmentation of TFN1 and TFN2 in the sentence (2) will result in the synthesized speeches choppy. The CN in (3) may make the word segmentation and POS tagging of the whole sentence totally wrong, and further, the pronunciation of the character -~ totally wrong (~- should be pronounced as shah4 if it is referred to a surname, whereas as danl if adjective or adverb).</Paragraph>
+</Section>
+</Paper>
+

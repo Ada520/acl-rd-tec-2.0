@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-3006">
+<Title>Error Detection and Recovery in Spoken Dialogue Systems</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes our research on both the detection and subsequent resolution of recognition errors in spoken dialogue systems. The paper consists of two major components. The first half concerns the design of the error detection mechanism for resolving city names in our MERCURY flight reservation system, and an investigation of the behavioral patterns of users in subsequent subdialogues involving keypad entry for disambiguation. An important observation is that, upon a request for keypad entry, users are frequently unresponsive to the extent of waiting for a time-out or hanging up the phone. The second half concerns a pilot experiment investigating the feasibility of replacing the solicitation of a keypad entry with that of a &amp;quot;speak-and-spell&amp;quot; entry. A novelty of our work is the introduction of a speech synthesizer to simulate the user, which facilitates development and evaluation of our proposed strategy.</Paragraph>
+<Paragraph position="1"> We have found that the speak-and-spell strategy is quite effective in simulation mode, but it remains to be tested in real user dialogues.</Paragraph>
+</Section>
+</Paper>
+

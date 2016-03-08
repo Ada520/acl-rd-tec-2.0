@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-1072">
+<Title>Semantic-Head Based Resolution of Scopal Ambiguities*</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We introduce an algorithm for scope resolution in underspecified semantic representations. Scope preferences are suggested on the basis of semantic argument structure. The major novelty of this approach is that, while maintaining an (scopally) underspecified semantic representation, we at the same time suggest a resolution possibility. The algorithm has been implemented and tested in a large-scale system and fared quite well: 28% of the utterances were ambiguous, 80% of these were correctly interpreted, leaving errors in only 5.7% of the utterance set.</Paragraph>
+</Section>
+</Paper>
+

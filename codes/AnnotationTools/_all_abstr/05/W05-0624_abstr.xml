@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W05-0624">
+<Title>Sparse Bayesian Classification of Predicate Arguments</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present an application of Sparse Bayesian Learning to the task of semantic role labeling, and we demonstrate that this method produces smaller classifiers than the popular Support Vector approach.</Paragraph>
+<Paragraph position="1"> We describe the classification strategy and the features used by the classifier. In particular, the contribution of six parse tree path features is investigated.</Paragraph>
+</Section>
+</Paper>
+

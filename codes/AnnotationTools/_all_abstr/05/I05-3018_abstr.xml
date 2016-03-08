@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="I05-3018">
+<Title>Combination of Machine Learning Methods for Optimum Chinese Word Segmentation Masayuki Asahara Chooi-Ling Goh Kenta Fukuoka</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This article presents our recent work for participation in the Second International Chinese Word Segmentation Bakeoff. Our system performs two procedures: Out-of-vocabulary extraction and word segmentation. We compose three out-of-vocabulary extraction modules: Character-based tagging with different classifiers - maximum entropy, support vector machines, and conditional random fields. We also compose three word segmentation modules character-based tagging by maximum entropy classifier, maximum entropy markov model, and conditional random fields. All modules are based on previously proposed methods. We submitted three systems which are different combination of the modules.</Paragraph>
+</Section>
+</Paper>
+

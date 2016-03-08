@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-1416">
+<Title>On Identifying Sets</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A range of research has explored the problem of generating referring expressions that uniquely identify a single entity from the shared context. But what about expressions that identify sets of entities? In this paper, I adapt recent semantic research on plural descriptions--using covers to abstract collective and distributive readings and using sets of assignments to represent dependencies among references--to describe a search problem for set-identifying expressions that largely mirrors the search problem for singular referring expressions.</Paragraph>
+<Paragraph position="1"> By structuring the search space only in terms of the words that can be added to the description, the proposal defuses potential combinatorial explosions that might otherwise arise with reference to sets.</Paragraph>
+</Section>
+</Paper>
+

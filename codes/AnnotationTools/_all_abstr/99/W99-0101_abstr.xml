@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W99-0101">
+<Title>O @ O O O O O @ O O O O O O O O @ O O O @ O O O O O O O @ O O O O O O O O O O An Integrated Approach to Reference and Presupposition Resolution</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe an approach to resolving definite descriptious and pronominal anaphora as subcases of a general strategy for presupposition satisfaction.</Paragraph>
+<Paragraph position="1"> Generally, a presupposition is satisfied in a context if the context contains a specific type of information and is organized in such a way that this information can be retrieved by the interlocutors. The model of discourse context we develop assumes that discourse structure is organized around a stack of questions under discussion, which plays a crucial role in narrowing the search for referents and other presupposed information. The algerithmA for maintaining the discourse structures and retrieving presupposed information are presented and illustrated by several example dialogues in which human users interact with an agent tomake hotel reservatious.</Paragraph>
+</Section>
+</Paper>
+

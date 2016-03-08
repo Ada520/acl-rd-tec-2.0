@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-0854">
+<Title>KUNLP System in SENSEVAL-3</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We have participated in both English all words task and English lexical sample task of SENSEVAL3. Our system disambiguates senses of a target word in a context by selecting a substituent among WordNet relatives of the target word, such as synonyms, hypernyms, meronyms and so on. The decision is made based on co-occurrence frequency between candidate relatives and each of the context words. Since the co-occurrence frequency is obtainable from raw corpus, our method is considered to be an unsupervised learning algorithm that does not require a sense-tagged corpus.</Paragraph>
+</Section>
+</Paper>
+

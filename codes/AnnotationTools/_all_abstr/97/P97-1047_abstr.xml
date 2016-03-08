@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P97-1047">
+<Title>Decoding Algorithm in Statistical Machine Translation</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Decoding algorithm is a crucial part in statistical machine translation. We describe a stack decoding algorithm in this paper.</Paragraph>
+<Paragraph position="1"> We present the hypothesis scoring method and the heuristics used in our algorithm.</Paragraph>
+<Paragraph position="2"> We report several techniques deployed to improve the performance of the decoder.</Paragraph>
+<Paragraph position="3"> We also introduce a simplified model to moderate the sparse data problem and to speed up the decoding process. We evaluate and compare these techniques/models in our statistical machine translation system. null</Paragraph>
+</Section>
+</Paper>
+

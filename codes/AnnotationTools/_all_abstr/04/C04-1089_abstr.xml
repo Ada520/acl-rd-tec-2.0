@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1089">
+<Title>Mining New Word Translations from Comparable Corpora</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> New words such as names, technical terms, etc appear frequently. As such, the bilingual lexicon of a machine translation system has to be constantly updated with these new word translations. Comparable corpora such as news documents of the same period from different news agencies are readily available. In this paper, we present a new approach to mining new word translations from comparable corpora, by using context information to complement transliteration information. We evaluated our approach on six months of Chinese and English Gigaword corpora, with encouraging results.</Paragraph>
+</Section>
+</Paper>
+

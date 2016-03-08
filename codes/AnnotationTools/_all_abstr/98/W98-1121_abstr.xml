@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-1121">
+<Title>POS Tagging versus Classes in Language Modeling</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Language models for speech recognition concen-Irate solely on recognizing the words that were spoken. In this paper, we advocate redefining the speech recognition problem so that its goal is to find both the best sequence of words and their POS tags, and thus incorporate POS tagging. The use of POS tags allows more sophisticated generalizations than are afforded by using a class-based approach. Furthermore, if we want to incorporate speech repair and intonational phrase modeling into the language model, using POS tags rather than classes gives better performance in this task.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-3255">
+<Title>Efficient Decoding for Statistical Machine Translation with a Fully Expanded WFST Model</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper proposes a novel method to compile statistical models for machine translation to achieve efficient decoding. In our method, each statistical submodel is represented by a weighted finite-state transducer (WFST), and all of the submodels are expanded into a composition model beforehand. Furthermore, the ambiguity of the composition model is reduced by the statistics of hypotheses while decoding. The experimental results show that the proposed model representation drastically improves the efficiency of decoding compared to the dynamic composition of the submodels, which corresponds to conventional approaches.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-1110">
+<Title>Generalized unknown morpheme guessing for hybrid POS tagging of Korean*</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Most of errors in Korean morphological analysis and POS (Part-of-Speech) tagging are caused by unknown morphemes. This paper presents a generalized unknown morpheme handling method with P OSTAG (POStech TAGger) which is a statistical/rule based hybrid POS tagging system. The generalized unknown morpheme guessing is based on a combination of a morpheme pattern dictionary which encodes general lexical patterns of Korean morphemes with a posteriori syllable tri-gram estimation.</Paragraph>
+<Paragraph position="1"> The syllable tri-grams help to calculate lexical probabilities of the unknown morphemes and are utilized to search the best tagging result.</Paragraph>
+<Paragraph position="2"> In our scheme, we can guess the POS's of unknown morphemes regardless of their numbers and positions in an eojeol, which was not possible before in Korean tagging systems. In a series of experiments using three different domain corpora, we can achieve 97% tagging accuracy regardless of many unknown morphemes in test corpora.</Paragraph>
+</Section>
+</Paper>
+

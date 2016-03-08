@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W96-0309">
+<Title>Qualia Structure and the Compositional Interpretation of Compounds</Title>
+<Section position="2" start_page="0" end_page="77" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The analysis of nominal compound constructions has proven to be a recalcitrant problem for linguistic semantics and poses serious challenges for natural language processing systems.</Paragraph>
+<Paragraph position="1"> We argue for a compositional treatment of compound constructions which limits the need for listing of compounds in the lexicon. We argue that the development of a practical model of compound interpretation crucially depends on issues of lexicon design. The Generative Lexicon (Pustejovsky 1995) provides us with a model of the lexicon which couples sufficiently expressive lexical semantic representations with mechanisms which capture the relationship between those representations and their syntactic expression. In our approach, the qualia structures of the nouns in a compound provide relational structure enabling compositional interpretation of the modification of the head noun by the modifying noun. This brings compound interpretation under the same rubric as other forms of composition in natural language, including argument selection, adjectival modification, and type coercion (Pustejovsky (1991,1995), Bouillon 1995).</Paragraph>
+<Paragraph position="2"> We examine data from both English and Italian and develop analyses for both languages which use phrase structure schemata to account for the connections between lexical semantic representation and syntactic expression. In addition to applications in natural language understanding, machine translation, and generation, the model of compound interpretation developed here can be applied to multi-lingual information extraction tasks.</Paragraph>
+</Section>
+</Paper>
+

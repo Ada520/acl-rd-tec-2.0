@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-3113">
+<Title>A Design Methodology for a Biomedical Literature Indexing Tool Using the Rhetoric of Science</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Literature indexing tools provide researchers with a means to navigate through the network of scholarly scientific articles in a subject domain. We propose that more effective indexing tools may be designed using the links between articles provided by citations.</Paragraph>
+<Paragraph position="1"> With the explosion in the amount of scientific literature and with the advent of artifacts requiring more sophisticated indexing, a means to provide more information about the citation relation in order to give more intelligent control to the navigation process is warranted. In order to navigate a citation index in this more-sophisticated manner, the citation index must provide not only the citation-link information, but also must indicate the function of the citation. The design methodology of an indexing tool for scholarly biomedical literature which uses the rhetorical context surrounding the citation to provide the citation function is presented. In particular, we discuss how the scientific method is reflected in scientific writing and how this knowledge can be used to decide the purpose of a citation.</Paragraph>
+</Section>
+</Paper>
+

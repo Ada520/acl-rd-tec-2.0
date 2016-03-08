@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-0103">
+<Title>Semi-supervised learning of geographical gazetteers from the internet</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we present an approach to the acquisition of geographical gazetteers. Instead of creating these resources manually, we propose to extract gazetteers from the World Wide Web, using Data Mining techniques.</Paragraph>
+<Paragraph position="1"> The bootstrapping approach, investigated in our study, allows us to create new gazetteers using only a small seed dataset (1260 words).</Paragraph>
+<Paragraph position="2"> In addition to gazetteers, the system produces classifiers. They can be used online to determine a class (CITY, ISLAND, RIVER, MOUNTAIN, REGION, COUNTRY) of any geographical name. Our classifiers perform with the average accuracy of 86.5%.</Paragraph>
+</Section>
+</Paper>
+

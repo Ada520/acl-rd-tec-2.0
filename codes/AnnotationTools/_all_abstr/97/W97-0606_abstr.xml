@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0606">
+<Title>Clarification Dialogues as Measure to Increase Robustness in a Spoken Dialogue System</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A number of methods are implemented in the face-to-face translation system VERBMOBIL to improve its robustness. In this paper, we describe clarification dialogues as one method to deal with incomplete or inconsistent information. Currently, three * types of clarification dialogues are realized: subdialogues concerning phonological ambiguities, unknown words and semantic inconsistencies. For each clarification type we discuss the detection of situations and system states which lead to their initialization and explain the information flow during processing.</Paragraph>
+</Section>
+</Paper>
+

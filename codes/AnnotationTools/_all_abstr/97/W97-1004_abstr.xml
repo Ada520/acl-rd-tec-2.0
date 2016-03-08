@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-1004">
+<Title>Learning New Compositions from Given Ones</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we study the problem of &amp;quot;learning new compositions of words from given ones with a specific syntactic structure, e.g., A-N or V-N structures. We first cluster words according to the given compositions, then construct a cluster-based compositional frame for each word cluster, which contains both new and given compositions relevant with the words in the cluster. In contrast to other methods, we don't pre-define the number of clusters, and formalize the problem of clustering words as a non-linear optimization one, in which we specify the environments of words based on word clusters to be determined, rather than their neighboring words. To solve the problem, we make use of a kind of cooperative evolution strategy to design an evolutionary algorithm.</Paragraph>
+</Section>
+</Paper>
+

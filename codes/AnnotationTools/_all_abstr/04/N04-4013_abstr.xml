@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N04-4013">
+<Title>Web Search Intent Induction via Automatic Query Reformulation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a computationally ef cient method for automatic grouping of web search results based on reformulating the original query to alternative queries the user may have intended.</Paragraph>
+<Paragraph position="1"> The method requires no data other than query logs and the standard inverted indices used by most search engines. Our method outperforms standard web search in the task of enabling users to quickly nd relevant documents for informational queries.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C94-1081">
+<Title>PARSING TURKISH USING THE LEXICAL FUNCTIONAL GRAMMAR FORMALISM 1</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+PARSING TURKISH USING THE LEXICAL FUNCTIONAL GRAMMAR FORMALISM 1
+</SectionTitle>
+<Paragraph position="0"> Abstract This paper describes our work on parsing Turkish using the lexical-functional grammar formalism. This work represents the first effort for parsing Turkish. Our implementation is based on Tomita's parser developed at Carnegie-Mellon University Center for Machine Translation. The grammar covers a substantial subset of Turkish including simple and complex sentences, and deals with a reasonable amount of word order freeness. The complex agglutinative morphology of Turkish lexical structures is handled using a separate two-level morphological analyzer.</Paragraph>
+<Paragraph position="1"> After a discussion of key relevant issues regarding Turkish grammar, we discuss aspects of our system and present results fi'om our implementatiou. Our initial results suggest that our system can parse about 82% of the sentences directly and almost all the remaining with very minor pre-editing.</Paragraph>
+</Section>
+</Paper>
+

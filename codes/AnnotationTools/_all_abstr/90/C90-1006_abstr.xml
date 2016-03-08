@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-1006">
+<Title>Advice-Giving Dialogue&amp;quot; An Integrated System</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we present the implementation of an advice-giving system for financial investment for the final phase of the project ESTEAM-3 161. This system integrates multiple agents in a single architecture allowing cooperation between a natural language dialoguer, &amp;quot;~ltelligent&amp;quot; data base access modules, and a problem solver in the financial domain.</Paragraph>
+<Paragraph position="1"> Using a user model, this system adapts the mixed initiative dialogue during both the formulation of the problem and its resolution by the expert. A novice user thus has access to expert knowledge despite the weakness of his own knowledge.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P04-2008">
+<Title>Improving the Accuracy of Subcategorizations Acquired from Corpora</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a method of improving the accuracy of subcategorization frames (SCFs) acquired from corpora to augment existing lexicon resources. I estimate a confidence value of each SCF using corpus-based statistics, and then perform clustering of SCF confidence-value vectors for words to capture co-occurrence tendency among SCFs in the lexicon. I apply my method to SCFs acquired from corpora using lexicons of two large-scale lexicalized grammars.</Paragraph>
+<Paragraph position="1"> The resulting SCFs achieve higher precision and recall compared to SCFs obtained by naive frequency cut-off.</Paragraph>
+</Section>
+</Paper>
+

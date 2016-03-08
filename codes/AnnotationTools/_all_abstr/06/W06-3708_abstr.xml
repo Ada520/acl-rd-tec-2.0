@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-3708">
+<Title>S-MINDS 2-Way Speech-to-Speech Translation System</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Sehda's 2-way speech translation system, S-MINDS, interprets between provider and patient in routine medical interactions with very high accuracy.</Paragraph>
+<Paragraph position="1"> Optimizing the system for new tasks or languages requires very little data.</Paragraph>
+<Paragraph position="2"> New developments include a hybrid translation approach that allows participants to say complex or out-of-domain utterances, the expansion of hands-free functionality, and the ability to deliver the most urgent expressions instantaneously.</Paragraph>
+</Section>
+</Paper>
+

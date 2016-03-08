@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0415">
+<Title>Spoken Language Translation with the ITSVox System</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> This paper describes the ITSVox speech-to-speech translation prototype currently under development at LATL in collaboration with IDIAP. The ITSVox project aims at a general, interactive, multimodal translation system with the following characterics : (i) it is not restricted to a particular subdomain, (ii) it can be used either as a fully automatic system or as an interactive system, (iii I it can translate either written or spoken inputs into either written or spoken outputs, and (iv) it is speaker independent.</Paragraph>
+<Paragraph position="1"> ITSVox is currently restricted to (some subsets of) French , English in the speech-to-speech mode, French , , English in the written mode with speech output. We will first give a quick description of the system and then discuss in more details the speech modules and their interfaces with other components of the system.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C94-1095">
+<Title>INTEX: A CORPUS PROCI!\]SSIN(-?, SYSTEM</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> INTEX is a text processor; it is usually used to parse corpora of several megabytes. It includes several built-in large coverage dictionaries and grammars represented by graphs; the user inay add his/her own dictionaries and gramnlars.</Paragraph>
+<Paragraph position="1"> These tools am applied to texts in order to locate lexical and syntactic patterns, remove ambiguities, and tag words. INTEX builds collcordances and indexes of all types of patterns; it is used by linguists to analyse corpora, but can also be viewed as an information feb'lewd system.</Paragraph>
+</Section>
+</Paper>
+

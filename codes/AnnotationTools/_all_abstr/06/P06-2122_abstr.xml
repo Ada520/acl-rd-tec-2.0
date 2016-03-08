@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P06-2122">
+<Title>Inducing Word Alignments with Bilexical Synchronous Trees</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper compares different bilexical tree-based models for bilingual alignment.</Paragraph>
+<Paragraph position="1"> EM training for the new model benets from the dynamic programming hook trick . The model produces improved dependency structure for both languages.</Paragraph>
+</Section>
+</Paper>
+

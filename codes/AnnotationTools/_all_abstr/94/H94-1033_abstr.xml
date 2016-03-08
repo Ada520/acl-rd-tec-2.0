@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H94-1033">
+<Title>Pattern Matching in a Linguistically- Motivated Text Understanding System</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> An ongoing debate in text understanding efforts centers on the use of pattern-matching techniques, which some have characterized as &amp;quot;designed to ignore as much text as possible,&amp;quot; versus approaches which primarily employ rules that are domain-independent and linguisticaUy-motivated. For instance, in the message-processing community, there has been a noticeable pulling back from large-coverage grammars to the point where, in some systems, traditional models of syntax and semantics have been completely replaced by domain-specific finite-state approximations.</Paragraph>
+<Paragraph position="1"> In this paper we report on a hybrid approach which uses such domain-specific patterns as a supplement to domain-independent grammar rules, domain-independent semantic rules, and automatically hypothesized domain-specific semantic rules. The surprising result, as measured on TIPSTER test data, is that domain-specific pattern matching improved performance, but only slightly, over more general linguistically-motivated techniques.</Paragraph>
+</Section>
+</Paper>
+

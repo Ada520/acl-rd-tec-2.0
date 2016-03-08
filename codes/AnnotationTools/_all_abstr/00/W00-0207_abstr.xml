@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-0207">
+<Title>Generation from Lexical Conceptual Structures</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> This paper describes a system for generating natural language sentences from an interlingual representation, Lexical Conceptual Structure (LCS). This system has been developed as part of a Chinese-English Machine Translation system, however, it promises to be useful for many other MT language pairs.</Paragraph>
+<Paragraph position="1"> The generation system has also been used in Cross-Language information retrieval research (Levow et al., 2000).</Paragraph>
+<Paragraph position="2"> One of the big challenges in Natural Language processing efforts is to be able to make use of existing resources, a big difficulty being the sometimes large differences in syntax, semantics, and ontologies of such resources. A case in point is the interlingua representations used for machine translation and cross-language processing. Such representations are becoming fairly popular, yet there are widely different views about what these languages should be composed of, varying from purely conceptual knowledge-representations, having little to do with the structure of language, to very syntactic representations, maintaining most of the idiosyncrasies of the source languages. In our generation system we make use of resources associated with two different (kinds of) interlingua structures: Lexical Conceptual Structure (LCS), and the Abstract Meaning Representations used at USC/ISI (Langkilde and Knight, 1998a).</Paragraph>
+</Section>
+</Paper>
+

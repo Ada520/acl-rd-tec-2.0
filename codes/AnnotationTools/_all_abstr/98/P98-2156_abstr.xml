@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-2156">
+<Title>An alternative LR algorithm for TAGs</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a new LR algorithm for tree-adjoining grammars. It is an alternative to an existing algorithm that is shown to be incorrect.</Paragraph>
+<Paragraph position="1"> Furthermore, the new algorithm is much simpler, being very close to traditional LR parsing for context-free grammars. The construction of derived trees and the computation of features also become straightforward.</Paragraph>
+</Section>
+</Paper>
+

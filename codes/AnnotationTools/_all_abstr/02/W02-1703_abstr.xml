@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-1703">
+<Title></Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we sketch the design, motivation and use of the GeM annotation scheme: an XML-based annotation framework for preparing corpora involving documents with complex layout of text, graphics, diagrams, layout and other navigational elements.We set out the basic organizational layers, contrast the technical approach with some other schemes for complex markup in the XML tradition, and indicate some of the applications we are pursuing.</Paragraph>
+</Section>
+</Paper>
+

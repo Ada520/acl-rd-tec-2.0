@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E06-1046">
+<Title>Edit Machines for Robust Multimodal Language Processing</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Multimodal grammars provide an expressive formalism for multimodal integration and understanding. However, hand-crafted multimodal grammars can be brittle with respect to unexpected, erroneous, or disfluent inputs. Spoken language (speech-only) understanding systems have addressed this issue of lack of robustness of hand-crafted grammars by exploiting classification techniques to extract fillers of a frame representation. In this paper, we illustrate the limitations of such classification approaches for multimodal integration and understanding and present an approach based on edit machines that combine the expressiveness of multimodal grammars with the robustness of stochasticlanguage models ofspeech recognition. We also present an approach where the edit operations are trained from data using a noisy channel model paradigm. We evaluate and compare the performance of the hand-crafted and learned edit machines in the context of a multimodal conversational system (MATCH).</Paragraph>
+</Section>
+</Paper>
+

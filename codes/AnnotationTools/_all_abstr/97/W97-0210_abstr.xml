@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0210">
+<Title>m m Investigating Complementary Methods for Verb Sense Pruning</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present an approach for tagging verb sense that combines a domain-independent method based on subcategorization and alternations with a domain-dependent method utilizing statistically extracted verb clusters. Initial results indicate that verb senses can be pruned for highly polysemous verbs by up to 74% by the first method and by up to 85% by the second method.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J99-1003">
+<Title>Bitext Maps and Alignment via Pattern Recognition</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Linguistic Data Consortium}
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> Existing translations contain more solutions to more translation problems than any other existing resource (Isabelle 1992).</Paragraph>
+<Paragraph position="1"> Although the above statement was made about translation problems faced by human translators, recent research (Brown et al. 1993; Melamed 1996b) suggests that it also applies to problems in machine translation. Texts that are available in two languages (bitexts) (Harris 1988) also play a pivotal role in various less automated applications. For example, bilingual lexicographers can use bitexts to discover new cross-language lexicalization patterns (Catizone, Russell, and Warwick 1993; Gale and Church 1991b); students of foreign languages can use one half of a bitext to practice their reading skills, referring to the other half for translation when they get stuck (Nerbonne et al.</Paragraph>
+<Paragraph position="2"> 1997). Bitexts are of little use, however, without an automatic method for matching corresponding text units in their two halves.</Paragraph>
+<Paragraph position="3"> The bitext mapping problem can be formulated in terms of pattern recognition.</Paragraph>
+<Paragraph position="4"> From this point of view, the success of a bitext mapping algorithm hinges on three tasks: signal generation, noise filtering, and search. This article presents the Smooth Injective Map Recognizer (SIMR), a generic pattern recognition algorithm that is partic- null A bitext space.</Paragraph>
+<Paragraph position="5"> ularly well suited to mapping bitext correspondence. SIMR demonstrates that, given effective signal generators and noise filters, it is possible to map bitext correspondence with high accuracy in linear space and time. If necessary, SIMR can be used with the Geometric Segment Alignment (GSA) algorithm, which uses segment boundary information to reduce general bitext maps to segment alignments. Evaluations on preexisting gold standards have shown that SIMR's bitext maps and GSA's alignments are more accurate than those of comparable algorithms in the literature.</Paragraph>
+<Paragraph position="6"> The article begins with a geometric interpretation of the bitext mapping problem and a discussion of previous work. SIMR is detailed in Section 4 and evaluated in Section 6. Section 7 discusses the formal relationship between bitext maps and segment alignments. The GSA algorithm for converting from the former to the latter is presented in Section 7 and evaluated in Section 8.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H91-1011">
+<Title>Modelling Context Dependency in Acoustic-Phonetic and Lexical Representations 1</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> In 1989, our group first reported on the development of SUM-MIT, a segment-based speaker-independent continuous-speech recognition system \[13\] . The initial version of SUMMIT made use of fairly simple context-independent models for the lexical labels.</Paragraph>
+<Paragraph position="1"> Recently, we have begun to incorporate more complex models of lexical labels that take into account a variety of contextual factors. These changes, along with an improved corrective training procedure for adapting pronunciation arc weights and a larger set of training data, have resulted in the reduction of error rate by almost a factor of two on the Resource Management task.</Paragraph>
+</Section>
+</Paper>
+

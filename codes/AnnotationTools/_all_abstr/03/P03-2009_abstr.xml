@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P03-2009">
+<Title>Spkr ID Words Discourse Chunk</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Discourse chunking is a simple way to segment dialogues according to how dialogue participants raise topics and negotiate them. This paper explains a method for arranging dialogues into chunks, and also shows how discourse chunking can be used to improve performance for a dialogue act tagger that uses a case-based reasoning approach.</Paragraph>
+<Paragraph position="1"> 1 Dialogue act tagging A dialogue act (hereafter DA) is an encapsulation of the speakers intentions in dialoguewhat the speaker is trying to accomplish by saying something. In DA tagging (similar to part-of-speech tagging), utterances in a dialogue are tagged with the most appropriate speech act from a tagset. DA tagging has application in NLP work, including speech recognition and language understanding. The Verbmobil-2 corpus was used for this study, with its accompanying tagset, shown in Table 1.1.</Paragraph>
+<Paragraph position="2"> Much of the work in DA tagging (Reithinger, 1997; Samuel, 2000; Stolcke et al. 2000; Wright, 1998) uses lexical information (the words or n-grams in an utterance), and to a lesser extent syntactic and phonological information (as with prosody). However, there has traditionally been a lack of true discourse-level information in tasks involving dialogue acts. Discourse information is typically limited to looking at surrounding DA tags (Reithinger, 1997; Samuel, 2000). Unfortunately, knowledge of prior DA tags does not always translate to an accurate guess of whats coming next, especially when this information is imperfect. Theories about the structure of dialogue (for example, centering [Grosz, Joshi, &amp; Weinstein 1995], and more recently Dialogue Macrogame Theory [Mann 2002]) have not generally been applied to the DA tagging task. Their use amounts to a separate tagging task of its own, with the concomitant time-consuming corpus annotation.</Paragraph>
+<Paragraph position="3"> In this work, I present the results from a DA tagging project that uses a case-based reasoning system (after Kolodner 1993). I show how the results from this DA tagger are improved by the use of a concept I call discourse chunking.</Paragraph>
+<Paragraph position="4"> Discourse chunking gives information about the patterns of topic raising and negotiation in dia- null OFFER &lt;uhm&gt; would you like me to call POLITENESS_FORMULA good of you to stop by REFER_TO_SETTING want to step into your office since we are standing right outside of it REJECT no that is bad for me unfortunately REQUEST you think so? REQUEST_CLARIFY I thought we had said twelve noon REQUEST_COMMENT is that alright with you REQUEST_COMMIT can you take care of &lt;uhm&gt; arranging those reservations REQUEST_SUGGEST do you have any preference SUGGEST we could travel on a Monday THANK okay thanks John Table 1.1. The tagset for the Verbmobil-2 corpus. (Verbmobil 2003)  logue, and where an utterance fits within these patterns. It is also able to use existing DA tag information within the corpus, without the need for separate annotation.</Paragraph>
+</Section>
+</Paper>
+

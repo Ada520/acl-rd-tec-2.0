@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-1903">
+<Title>A Reliable Indexing Method for a Practical QA System</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We propose a fast and reliable Question-answering (QA) system in Korean, which uses a predictive answer indexer based on 2-pass scoring method. The indexing process is as follows. The predictive answer indexer first extracts all answer candidates in a document.</Paragraph>
+<Paragraph position="1"> Then, using 2-pass scoring method, it gives scores to the adjacent content words that are closely related with each answer candidate. Next, it stores the weighted content words with each candidate into a database. Using this technique, along with a complementary analysis of questions, the proposed QA system saves response time and enhances the precision.</Paragraph>
+<Paragraph position="2"> Introduction Traditional Information Retrieval (IR) focuses on searching and ranking a list of documents in response to a user's question. However, in many cases, a user has a specific question and want for IR systems to return the answer itself rather than a list of documents (Voorhees and Tice (2000)).</Paragraph>
+<Paragraph position="3"> To satisfy this need, the concept of Question Answering (QA) comes up, and a lot of researches have been carried out, as shown in the proceedings of AAAI (AAAI (n.d.)) and TREC (Text REtrieval Conference) (TREC (n.d.)). A QA system searches a large collection of texts, and filters out inadequate phrases or sentences within the texts. Owing to the filtering process, a user can promptly approach to his/her answer phrases without troublesome tasks.</Paragraph>
+<Paragraph position="4"> Unfortunately, most of the previous researches have passed over the following problems that occurs in real fields like World Wide Web (WWW): a0 Users want to find answers as soon as possible. If a QA system does not respond to their questions within a few seconds, they will keep a suspicious eye on usefulness of the system.</Paragraph>
+<Paragraph position="5"> a1 Users express their intentions by using various syntactic forms. The fact makes it difficult that a QA system performs well at any domains. Ultimately, the QA system cannot be easily converted into any domains.</Paragraph>
+<Paragraph position="6"> a1 A QA system cannot correctly respond to all of the users' questions. It can answer the questions that are included in the predefined categories such as person, date, and time.</Paragraph>
+<Paragraph position="7"> To solve the problems, we propose a practical QA system using a predictive answer indexer in Korean - MAYA (MAke Your Answer). MAYA focuses on resolving the practical problems such as real-time response and domain portability.</Paragraph>
+<Paragraph position="8"> We can easily add new categories to MAYA by only supplementing domain dictionaries and rules. We do not have to revise the searching engine of MAYA because the indexer is designed as a separate component that extracts candidate answers. Users can promptly obtain answer phrases on retrieval time because MAYA indexes answer candidates in advance.</Paragraph>
+<Paragraph position="9"> This paper is organized as follows. First, we review the previous works of the QA systems.</Paragraph>
+<Paragraph position="10"> Second, we present our system, and describe the applied NLP techniques. Third, we analyze the result of our experiments. Finally, we draw conclusions.</Paragraph>
+</Section>
+</Paper>
+

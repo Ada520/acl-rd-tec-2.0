@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="T75-2035">
+<Title>Formal Reasoning ~nd Language Understanding Systems</Title>
+<Section position="1" start_page="0" end_page="175" type="abstr">
+<SectionTitle>
+I. Introduction
+</SectionTitle>
+<Paragraph position="0"> Computational studies in linguistics have led to a variety of proposals~ for semantic representations of natural language. To a first approximation these all have a number of features in common.</Paragraph>
+<Paragraph position="1"> First, there is some formal language onto which, with the aid of a grammar, surface forms are mapped. Secondly, there is a formal language (usually, but not necessarily, the same as the first) for the representation of world knowledge and which is used to perform inferences necessary for integrating the surface form into the knowledge structure, and/or for answering questions. Finally, there is, or should be \[5,18\] a specification of the semantics of these formal languages.</Paragraph>
+<Paragraph position="2"> There seem to be three dominant proposals for semantic representations:  (I) Procedural semantics \[16,17\] where the underlying representation consists of procedures in some executable language.</Paragraph>
+<Paragraph position="3"> (2) Network structures \[11,13,14\] which represent knowledge by appropriate graphical data structures.</Paragraph>
+<Paragraph position="4"> (3) Logical representation \[3,7,12\] which  express world knowledge by formulae in some formal calculus.</Paragraph>
+<Paragraph position="5"> These distinctions are not nearly as clear as one might like. Both logical and network representations often appeal to procedural components, networks appear to be representable as logical formlae via fairly direct mappings \[15\], while logical formulae have straight-forward procedural representations \[6\].</Paragraph>
+<Paragraph position="6"> In this paper I shall discuss mechanisms for formal reasoning within logical representations. I shall make the (gross) assumption that surface forms have aleady been mapped onto some form of predicate calculus representation. In particular, I make no claims about the role or nature of the inferences required in mapping from surface structures to a logical deep structure. Neither do I take any position on the primitives of this deep structure. They may derive from a case oriented grammar, conceptual dependency theory etc. Ultimately, of course, the extent to which the choice of these primitives facilitates inference will be a factor affecting this choice. I take it as self evident that no semantic representation can explicitly contain all of the information required by a language understanding system so there is a need for inferring new knowledge from that explicitly represented. In this connection it is worth observing that, contrary to some prevailing opinions, formal reasoning does not preclude fuzzy or imprecise reasoning. There are no  a priori reasons why notions like &amp;quot;probably&amp;quot;, &amp;quot;possibly&amp;quot;, etc. cannot be formalized within a logical calculus and new imprecise knowledge deduced from old by means of prefectly definite and precise rules of inference.</Paragraph>
+<Paragraph position="7"> In the remainder of this paper I discuss two paradigms for formal reasoning with which I have worked - resolution and natural deduction - and argue in favour of the latter approach. I also indicate how other semantic representations - procedures and networks - might fit into this paradigm. Finally, I discuss some problems deriving from computational linguistics which have not been seriously considered by researchers in formal inference but which I think might fruitfully be explored within a logical framework.</Paragraph>
+</Section>
+</Paper>
+

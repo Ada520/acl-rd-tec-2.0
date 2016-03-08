@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-2305">
+<Title>Combining Acoustic Confidences and Pragmatic Plausibility for Classifying Spoken Chess Move Instructions</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a machine learning approach to classifying n-best speech recognition hypotheses as either correctly or incorrectly recognised. The learners are trained on a combination of acoustic confidence features and move evaluation scores in a chess-playing scenario. The results show significant improvements over sharp baselines that use confidence rejection thresholds for classification.</Paragraph>
+</Section>
+</Paper>
+

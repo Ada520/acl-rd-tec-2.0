@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E99-1013">
+<Title>Complementing WordNet with Roget's and Corpus-based Thesauri for Information Retrieval</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper proposes a method to overcome the drawbacks of WordNet when applied to information retrieval by complementing it with Roget's thesaurus and corpus-derived thesauri. Words and relations which are not included in WordNet can be found in the corpus-derived thesauri. Effects of polysemy can be minimized with weighting method considering all query terms and all of the thesauri. Experimental results show that our method enhances information retrieval performance significantly.</Paragraph>
+<Paragraph position="1">  expansion (Voorhees, 1994; Smeaton and Berrut, 1995), computing lexical cohesion (Stairmand, 1997), word sense disambiguation (Voorhees, 1993), and so on, but the results have not been very successful.</Paragraph>
+<Paragraph position="2"> Previously, we conducted query expansion experiments using WordNet (Mandala et al., to appear 1999) and found limitations, which can be summarized as follows :</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-0907">
+<Title>Making Sense of Japanese Relative Clause Constructions</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We apply the C4.5 decision tree learner in interpreting Japanese relative clause constructions, based around shallow syntactic and semantic processing.</Paragraph>
+<Paragraph position="1"> In parameterising data for use with C4.5, we propose and test various means of reducing intra-clausal interpretational ambiguity, and cross indexing the overall analysis of cosubordinated relative clause constructions. We additionally investigate the disambiguating effect of the different parameter types used, and establish upper bounds for the task.</Paragraph>
+</Section>
+</Paper>
+

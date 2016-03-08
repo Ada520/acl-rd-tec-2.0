@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W96-0202">
+<Title>Parsing Chinese with an Almost-Context-Free Grammar</Title>
+<Section position="1" start_page="0" end_page="13" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe a novel parsing strategy we are employing for Chinese. We believe progress in Chinese parsing technology has been slowed by the excessive ambiguity that typically arises in pure context-free grammars. This problem has inspired a modified formalism that enhances our ability to write and maintain robust large grammars, by constraining productions with left/right contexts and/or nonterminal functions. Parsing is somewhat more expensive than for pure context-free parsing, but is still efficient by both theoretical and empirical analyses. Encouraging experimental results with our current grammar are described.</Paragraph>
+<Paragraph position="1"> Introduction Chinese NLP is still greatly impeded by the relative scarcity of resources that have already become commonplace for English and other European languages. A strategy we are pursuing is the use of automatic methods to aid in the acquisition of such resources (4, 5, 6). However, we are also selectively engineering certain resources by hand, for both comparison and applications purposes. One such tool that we have been developing is a general-purpose bracketer for unrestricted Chinese text. In this paper we describe an approach to parsing that has evolved as a result of the problems we have encountered in making the transition from English to Chinese processing.</Paragraph>
+<Paragraph position="2"> We have found that the primary obstacle has been the syntactic flexibility of Chinese, coupled with an absence of explicit marking by morphological inflections. In particular, compounding is extremely flexible in Chinese, allowing both verb and noun constituents to be arbitrarily mixed. This creates extraordinary difficulties for grammar writers, since robust rules for such compound forms tend to also accept many undesirable forms. This creates too many possible parses per sentence. We employ probabilistic grammars, so that it is possible to choose the Viterbi (most probable) parse, but probabilities alone do not compensate sufficiently for the inadequacy of structural constraints.</Paragraph>
+<Paragraph position="3"> There are two usual routes: either (1) keep the context-free basis but introduce finer-grained categories, or (2) move to context-sensitive grammars. The former strategy includes feature-based grammars with weak unification. One disadvantage of this approach is that some features can become obscure and cumbersome. Moreover, the expressive power remains restricted to that of a CFG, so certain constraints simply cannot be expressed. Thus, many systems opt for some variety of context-sensitive grammar. However, it is easy for parsing complexity in such systems to become impractical.</Paragraph>
+<Paragraph position="4"> We describe an approach that is not quite context-free, but still admits acceptably fast Earley-style parsing. A benefit of this approach is that the form of rules is natural and simple to write. We have found this approach to be very effective for constraining the types of ambiguities that arise from the compounding flexibility in Chinese.</Paragraph>
+<Paragraph position="5"> In the remainder of this paper, we first describe our grammar framework in Sections 24. The parsing strategy is then described in Section 5, followed by current experimental results in Section 6.</Paragraph>
+<Section position="1" start_page="13" end_page="13" type="sub_section">
+<SectionTitle>
+The Grammar Framework
+</SectionTitle>
+<Paragraph position="0"> We have made two extensions to the form of standard context-free grammars:</Paragraph>
+</Section>
+</Section>
+</Paper>
+

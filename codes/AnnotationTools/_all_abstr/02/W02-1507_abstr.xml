@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-1507">
+<Title>A Classification of Grammar Development Strategies</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we propose a classification of grammar development strategies according to two criteria : hand-written versus automatically acquired grammars, and grammars based on a low versus high level of syntactic abstraction. Our classification yields four types of grammars. For each type, we discuss implementation and evaluation issues.</Paragraph>
+</Section>
+</Paper>
+

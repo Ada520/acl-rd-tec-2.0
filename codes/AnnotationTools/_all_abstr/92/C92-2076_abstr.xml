@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C92-2076">
+<Title>DISJUNCTIVE FEATURE STRUCTURES AS HYPERGRAPHS</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+DISJUNCTIVE FEATURE STRUCTURES AS HYPERGRAPHS
+JEAN V~RONIS
+</SectionTitle>
+<Paragraph position="0"> Groupe Reprdsentation et Traitement des Connaissances, Centre National de la Recherche Scientifique, 31, Chemin Joseph Aiguier, 13402 Marseille Cedex 09, France and Department of Computer Science, Vassar College Poughkeepsie, New York 12601, U.S.A.</Paragraph>
+<Paragraph position="1"> e-mail : veronis@vassar .edu Abstract -- In this paper, we present a new mathematical framework in which disjunctive feature structures are defined as directed acyclic hypergraphs. Disjunction is defined in the feature structure domain, and not at the syntactic level in feature descriptions. This enables us to study properties and specify operations in terms of properties of, or operations on, hypergraphs rather titan in syntactic terms. We illustrate the expressive power of this framework by defining a class of disjunctive feature structures with interesting properties (factored normal form or FNF), such as closure under factoring, unfactoring, unification, and generalization. Unification, in particular, has the intuitive appeal of preserving as much as possible the particular factoring of the disjunctive feature structures to be unified. We also show that unification in the FNF class can be extremely efficient in practical applications.</Paragraph>
+</Section>
+</Paper>
+

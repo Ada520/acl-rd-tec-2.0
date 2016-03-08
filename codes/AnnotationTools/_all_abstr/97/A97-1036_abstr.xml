@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A97-1036">
+<Title>An Open Distributed Architecture for Reuse and Integration of Heterogeneous NLP Components</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The shift from Computational Linguistics to Language Engineering is indicative of new trends in NLP. This paper reviews two NLP engineering problems: reuse and integration, while relating these concerns to the larger context of applied NLP. It presents a software architecture which is geared to support the development of a variety of large-scale NLP applications: Information Retrieval, Corpus Processing, Multilingual MT, and integration of Speech Components.</Paragraph>
+</Section>
+</Paper>
+

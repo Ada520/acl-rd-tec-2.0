@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P00-1068">
+<Title>Diagnostic Processing of Japanese for Computer-Assisted Second Language Learning</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> As an application of NLP to computer-assisted language learning(CALL) , we propose a diagnostic processing of Japanese being able to detect errors and inappropriateness of sentences composed by the students in the given situation and the context of the exercise texts. Using LTAG(Lexicalized Tree Adjoining Grammar) formalism, we have implemented a prototype of such a diagnostic parser as a component of a CALL system being developed.</Paragraph>
+</Section>
+</Paper>
+

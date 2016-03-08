@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P99-1075">
+<Title>Packing of Feature Structures for Efficient Unification of Disjunctive Feature Structures</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper proposes a method for packing feature structures, which automatically collapses equivalent parts of lexical/phrasal feature structures of HPSG into a single packed feature structure. This method avoids redundant repetition of unification of those parts. Preliminary experiments show that this method can significantly improve a unification speed in parsing.</Paragraph>
+</Section>
+</Paper>
+

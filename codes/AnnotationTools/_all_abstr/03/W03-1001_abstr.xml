@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-1001">
+<Title>A Projection Extension Algorithm for Statistical Machine Translation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we describe a phrase-based unigram model for statistical machine translation that uses a much simpler set of model parameters than similar phrase-based models. The units of translation are blocks - pairs of phrases. During decoding, we use a block unigram model and a word-based trigram language model. During training, the blocks are learned from source interval projections using an underlying high-precision word alignment.</Paragraph>
+<Paragraph position="1"> The system performance is significantly increased by applying a novel block extension algorithm using an additional high-recall word alignment. The blocks are further filtered using unigram-count selection criteria. The system has been successfully test on a Chinese-English and an Arabic-English translation task.</Paragraph>
+</Section>
+</Paper>
+

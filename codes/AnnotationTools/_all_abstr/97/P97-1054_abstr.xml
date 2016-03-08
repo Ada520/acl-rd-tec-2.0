@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P97-1054">
+<Title>Co-evolution of Language and of the Language Acquisition Device</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A new account of parameter setting during grammatical acquisition is presented in terms of Generalized Categorial Grammar embedded in a default inheritance hierarchy, providing a natural partial ordering on the setting of parameters. Experiments show that several experimentally effective learners can be defined in this framework.</Paragraph>
+<Paragraph position="1"> Ew)lutionary simulations suggest that a lea.rner with default initial settings for parameters will emerge, provided that learning is memory limited and the environment of linguistic adaptation contains an appropriate language.</Paragraph>
+</Section>
+</Paper>
+

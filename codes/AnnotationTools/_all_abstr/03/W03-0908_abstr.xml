@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-0908">
+<Title>Towards Light Semantic Processing for Question Answering</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The paper1 presents a lightweight knowledge-based reasoning framework for the JAVELIN open-domain Question Answering (QA) system. We propose a constrained representation of text meaning, along with a flexible unification strategy that matches questions with retrieved passages based on semantic similarities and weighted relations between words.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E06-2003">
+<Title>LinguaStream: An Integrated Environment for Computational Linguistics Experimentation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> By presenting the LinguaStream platform, we introduce different methodological principles and analysis models, which make it possible to build hybrid experimental NLP systems by articulating corpus processing tasks.</Paragraph>
+</Section>
+</Paper>
+

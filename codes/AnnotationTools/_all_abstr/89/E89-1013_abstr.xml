@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E89-1013">
+<Title>JPSG Parser on Constraint Logic Programming</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a constraint logic programming language cu-Prolog and introduces a simple Japanese parser based on Japanese Phrase Structure Grammar (JPSG) as a suitable application of cu-Prolog.</Paragraph>
+<Paragraph position="1"> cu-Prolog adopts constraint unification instead of the normal Prolog unification. In cu-Prolog, constraints in terms of user defined predicates can be directly added to the program clauses. Such a clause is called Constraint Added Horn Clause (CAHC}.</Paragraph>
+<Paragraph position="2"> Unlike conventional CLP systems, cu-Prolog deals with constraints about symbolic or combinatorial objects. For natural language processing, such constraints are more important than those on numerical or boolean objects. In comparison with normal Prolog, cu-Prolog has more descriptive power, and is more declarative. It enables a natural implementation of JPSG and other unification based grammar formalisms.</Paragraph>
+<Paragraph position="3"> *From this April, Fujitsu Corporation</Paragraph>
+</Section>
+</Paper>
+

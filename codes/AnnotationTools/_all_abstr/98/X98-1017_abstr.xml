@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="X98-1017">
+<Title>The Smart/Empire TIPSTER IR System</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 INTRODUCTION
+</SectionTitle>
+<Paragraph position="0"> The primary goal of the Cornell/Sabir TIPSTER Phase III project is to develop techniques to improve the end-user efficiency of information retrieval (IR) systems. We have focused our investigations in four related research areas:  1. High Precision Information Retrieval. The goal of our research in this area is to increase the accuracy of the set of documents given to the user.</Paragraph>
+<Paragraph position="1"> 2. Near-Duplicate Detection. The goal of our work  in near-duplicate detection is to develop methods for delineating or removing from the set of retrieved documents any information that the user has already seen.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-1504">
+<Title>Axiomatization of Restricted Non-Projective Dependency Trees through Finite-State Constraints that Analyse Crossing Bracketings</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, a representation for syntactic dependency trees (D-trees) is defined through a finite set of axioms. The axiomatized representation constitutes a string that can encode non-projective D-trees of restricted structural complexity. Upper-bounds for the structural complexity of these D-trees are fixed through the following new parameters: proper embracement depth a0 , nested crossing depth a1 , and non-projectivity depth a2 .</Paragraph>
+<Paragraph position="1"> In the representation, syntactic dependencies between words are indicated with pairs of brackets.</Paragraph>
+<Paragraph position="2"> When the brackets indicate dependencies that cross each other, the crossing pairs of brackets are distinguished by assigning separate colors to each of them. These colors are allocated in a way (Yli-Jyr&amp;quot;a and Nyk&amp;quot;anen, 2004) that ensures a unique representation for each D-tree, and entails that languages whose nested crossing depth is not bounded cannot be captured using a fixed number of colors.</Paragraph>
+<Paragraph position="3"> Although the axiomatization is finite, it ensures that the represented dependency structures are trees.</Paragraph>
+<Paragraph position="4"> This is possible because the described D-trees have bounded non-projectivity depth. The axioms are also regular because proper embracement depth of represented D-trees is bounded.</Paragraph>
+<Paragraph position="5"> Our representation suggests that extra strong generative power can be squeezed out of finite-state equivalent grammars. Bracketed D-tree representations (cf. annotated sentences) are structural descriptions that are assigned to their subsequences (cf. generated strings or yields of trees) where brackets and other special-purpose characters have been omitted.</Paragraph>
+</Section>
+</Paper>
+

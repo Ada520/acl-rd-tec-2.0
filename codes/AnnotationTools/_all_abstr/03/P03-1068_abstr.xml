@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P03-1068">
+<Title>Towards a Resource for Lexical Semantics: A Large German Corpus with Extensive Semantic Annotation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe the ongoing construction of a large, semantically annotated corpus resource as reliable basis for the large-scale acquisition of word-semantic information, e.g. the construction of domain-independent lexica. The backbone of the annotation are semantic roles in the frame semantics paradigm. We report experiences and evaluate the annotated data from the first project stage. On this basis, we discuss the problems of vagueness and ambiguity in semantic annotation.</Paragraph>
+</Section>
+</Paper>
+

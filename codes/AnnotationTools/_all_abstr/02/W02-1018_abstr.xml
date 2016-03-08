@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-1018">
+<Title>A Phrase-Based, Joint Probability Model for Statistical Machine Translation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a joint probability model for statistical machine translation, which automatically learns word and phrase equivalents from bilingual corpora. Translations produced with parameters estimated using the joint model are more accurate than translations produced using IBM Model 4.</Paragraph>
+</Section>
+</Paper>
+

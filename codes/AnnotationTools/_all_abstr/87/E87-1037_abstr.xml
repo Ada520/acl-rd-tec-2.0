@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E87-1037">
+<Title>A Comparison of Rule-Invocation Strategies in Context-Free Chart Parsing</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Currently several grammatical formalisms converge towards being declarative and towards utilizing context-free phrase-structure grammar as a backbone, e.g. LFG and PATR-II. Typically the processing of these formalisms is organized within a chart-parsing framework. The declarative character of the formalisms makes it important to decide upon an overall optimal control strategy on the part of the processor. In particular, this brings the rule-invocation strategy into critical focus: to gain maximal processing efficiency, one has to determine the best way of putting the rules to use. The aim of this paper is to provide a survey and a practical comparison of fundamental rule-invocation strategies within context-free chart parsing.</Paragraph>
+</Section>
+</Paper>
+

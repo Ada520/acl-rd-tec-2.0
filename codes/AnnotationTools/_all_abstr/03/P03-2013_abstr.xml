@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P03-2013">
+<Title>Approaches to Zero Adnominal Recognition</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes our preliminary attempt to automatically recognize zero adnominals, a subgroup of zero pronouns, in Japanese discourse. Based on the corpus study, we define and classify what we call &amp;quot;argument-taking nouns (ATNs),&amp;quot; i.e., nouns that can appear with zero adnominals. We propose an ATN recognition algorithm that consists of lexicon-based heuristics, drawn from the observations of our analysis. We finally present the result of the algorithm evaluation and discuss future directions.</Paragraph>
+</Section>
+</Paper>
+

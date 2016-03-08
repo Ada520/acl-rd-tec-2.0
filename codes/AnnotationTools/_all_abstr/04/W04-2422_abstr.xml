@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-2422">
+<Title>Learning Transformation Rules for Semantic Role Labeling</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents our work on Semantic Role Labeling using a Transformation-Based Error-Driven approach in the style of Eric Brill (Brill, 1995). Our approach achieved an overall F1 score of 43.48 on non-verb annotations. We believe our approach is noteworthy because of its novelty in this area and because it produces short lists of human-understandable transformation rules as its output.</Paragraph>
+</Section>
+</Paper>
+

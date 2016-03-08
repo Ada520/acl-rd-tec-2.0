@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P06-2102">
+<Title>Unsupervised Induction of Modern Standard Arabic Verb Classes Using Syntactic Frames and LSA</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We exploit the resources in the Arabic Treebank (ATB) and Arabic Gigaword (AG) to determine the best features for the novel task of automatically creating lexicalsemanticverbclassesforModernStan- null dard Arabic (MSA). The verbs are classified into groups that share semantic elements of meaning as they exhibit similar syntactic behavior. The results of the clustering experiments are compared with a gold standard set of classes, which is approximated by using the noisy English translations provided in the ATB to create Levin-like classes for MSA. The quality of the clusters is found to be sensitive to the inclusion of syntactic frames, LSA vectors, morphological pattern, and sub-ject animacy. The best set of parameters yields an Fb=1 score of 0.456, compared to a random baseline of an Fb=1 score of 0.205.</Paragraph>
+</Section>
+</Paper>
+

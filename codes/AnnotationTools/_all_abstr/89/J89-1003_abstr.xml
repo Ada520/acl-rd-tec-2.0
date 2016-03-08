@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J89-1003">
+<Title>DESIGN OF LMT: A PROLOG-BASED MACHINE TRANSLATION SYSTEM</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+DESIGN OF LMT: A PROLOG-BASED MACHINE TRANSLATION SYSTEM
+</SectionTitle>
+<Paragraph position="0"> LMT (logic-based machine translation) is an experimental English-to-German MT system, being developed in the framework of logic programming. The English analysis uses a logic grammar formalism, Modular Logic Grammar, which allows logic grammars to be more compact, and which has a modular treatment of syntax, lexicon, and semantics. The English grammar is written independently of the task of translation. LMT uses a syntax-to-syntax transfer method for translation, although the English syntactic analysis trees contain some results of semantic choices and show deep grammatical relations. Semantic type checking with Prolog inference is done during analysis and transfer. The transfer algorithm uses logical variables and unification to good advantage; transfer works in a simple left-to-right, top-down way. After transfer, the German syntactic generation component produces a surface structure tree by application of a system of tree transformations. These transformations use an augmentation of Prolog pattern matching. LMT has a single lexicon, containing both source and transfer information, as well as some idiosyncratic target morphological information. There is a compact external format for this lexicon, with a lexical preprocessing system that applies defaults and compiles it into an internal format convenient for the syntactic components. During lexical preprocessing, English morphological analysis can be coupled with rules that synthesize new transfer entries. 1</Paragraph>
+</Section>
+</Paper>
+

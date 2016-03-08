@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W99-0201">
+<Title>Cross-Document Event Coreference: Annotations, Experiments, and Observations Amit Bagga General Electric Company CRD</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Abstract
+</SectionTitle>
+<Paragraph position="0"> We have developed cross document event tracking technology that extends our earlier efforts in cross document person coreference. The software takes class of events, like &amp;quot;resignations&amp;quot; and clusters documents that mention resignations into equivalence classes. Documents belong to the same equivalence class if they mention the same &amp;quot;resignation&amp;quot; event, i.e. resignations involving the same person, time, and organization. Other events evaluated include &amp;quot;elections&amp;quot; and &amp;quot;espionage&amp;quot; events. Results range from 45-90% F-measure scores and we present a brief interannotator study for the &amp;quot;elections&amp;quot; data set.</Paragraph>
+</Section>
+</Paper>
+

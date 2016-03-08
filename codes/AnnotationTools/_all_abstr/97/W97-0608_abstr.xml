@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0608">
+<Title>A practical Message-to-Speech strategy for dialogue systems</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we present a Message-to-Speech system for Natural Language Generation that is to be integrated in a dialogue system. As the system has to function in a very restrictive environment with respect to computational resources, a compromise between concept based and template based generation systems had to be found. Still, the approach aims at achieving linguistic flexibility for the utterances and attaining a natural sounding prosody.</Paragraph>
+</Section>
+</Paper>
+

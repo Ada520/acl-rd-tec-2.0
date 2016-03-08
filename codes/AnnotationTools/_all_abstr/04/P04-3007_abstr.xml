@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P04-3007">
+<Title>Exploiting Aggregate Properties of Bilingual Dictionaries For Distinguishing Senses of English Words and Inducing English Sense Clusters</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We propose a novel method for inducing monolingual semantic hierarchies and sense clusters from numerous foreign-language-to-English bilingual dictionaries. The method exploits patterns of non-transitivity in translations across multiple languages. No complex or hierarchical structure is assumed or used in the input dictionaries: each is initially parsed into the &amp;quot;lowest common denominator&amp;quot; form, which is to say, a list of pairs of the form (foreign word, English word). We then propose a monolingual synonymy measure derived from this aggregate resource, which is used to derive multilinguallymotivated sense hierarchies for monolingual English words, with potential applications in word sense classification, lexicography and statistical machine translation.</Paragraph>
+</Section>
+</Paper>
+

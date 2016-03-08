@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-1602">
+<Title>Text Simplification for Reading Assistance: A Project Note</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes our ongoing research project on text simplification for congenitally deaf people. Text simplification we are aiming at is the task of offering a deaf reader a syntactic and lexical paraphrase of a given text for assisting her/him to understand what it means.</Paragraph>
+<Paragraph position="1"> In this paper, we discuss the issues we should address to realize text simplification and report on the present results in three different aspects of this task: readability assessment, paraphrase representation and post-transfer error detection.</Paragraph>
+</Section>
+</Paper>
+

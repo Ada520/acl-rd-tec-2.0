@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P97-1043">
+<Title>The Complexity of Recognition of Linguistically Adequate Dependency Grammars</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Results of computational complexity exist for a wide range of phrase structure-based grammar formalisms, while there is an apparent lack of such results for dependency-based formalisms. We here adapt a result on the complexity of ID/LP-grammars to the dependency framework. Contrary to previous studies on heavily restricted dependency grammars, we prove that recognition (and thus, parsing) of linguistically adequate dependency grammars is~A/T'-complete.</Paragraph>
+</Section>
+</Paper>
+

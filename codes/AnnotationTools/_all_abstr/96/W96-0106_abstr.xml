@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W96-0106">
+<Title>Relating Turing's Formula and Zipf's Law</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> An asymptote is derived from Turing's local reestimation formula for population frequencies, and a local reestimation formula is derived from Zipf's law for the asymptotic behavior of population frequencies. The two are shown to be qualitatively different asymptotically, but nevertheless to be instances of a common class of reestimation-formula-asymptote pairs, in which they constitute the upper and lower bounds of the convergence region of the cumulative of the frequency function, as rank tends to infinity. The results demonstrate that Turing's formula is qualitatively different from the various extensions to Zipf's law, and suggest that it smooths the frequency estimates towards a geometric distribution.</Paragraph>
+</Section>
+</Paper>
+

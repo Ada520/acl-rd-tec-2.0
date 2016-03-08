@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E06-2018">
+<Title>Exploring the Sense Distributions of Homographs</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper quantitatively investigates in how far local context is useful to disambiguate the senses of an ambiguous word.</Paragraph>
+<Paragraph position="1"> This is done by comparing the co-occurrence frequencies of particular context words. First, one context word representing a certain sense is chosen, and then the co-occurrence frequencies with two other context words, one of the same and one of another sense, are compared. As expected, it turns out that context words belonging to the same sense have considerably higher co-occurrence frequencies than words belonging to different senses.</Paragraph>
+<Paragraph position="2"> In our study, the sense inventory is taken from the University of South Florida homograph norms, and the co-occurrence counts are based on the British National Corpus.</Paragraph>
+</Section>
+</Paper>
+

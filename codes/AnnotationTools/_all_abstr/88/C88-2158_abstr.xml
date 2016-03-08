@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C88-2158">
+<Title>Object-Oriented Parallel Parsing for Context-Free Grammars</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a new parallel parsing scheme for context-free grammars and our experience of implementing this scheme, and it also reports the result of our simulation for running the parsing program on a massive parallel processor.</Paragraph>
+<Paragraph position="1"> In our basic parsing scheme, a set of context freegrammar :,:ules is represented by a network of processor-like computing agents each having its local memory. Each computing agent in the network corresponds to an occurfence of a non-terminal or terminal symbol appearing in the grammar rules. Computing agents in the network work concurrently and communicate with one another by passing messages which are partial parse trees.</Paragraph>
+<Paragraph position="2"> This scheme is shown to he fast (0(n,h) time for the first complete parse tree, where n is the length of an input sentence and h is the height of the parse tree) and useful in various modes of parsing such as on-line parsing, overlap parsing, on-line unparsing, pipe-lining to semantics processing, etc. Performance evaluation for implementing this scheme on a massive parallel machine is conducted by distributed event simulation using the Time Warp mechanism /Jeffersong5/.</Paragraph>
+<Paragraph position="3"> Our parsing scheme is implemented in a programming language called ABCL/1 which is designed for object-oriented concurrent programming and used for various concurrent programming/Yonezawa86/. The program is currently runing on standard single-cpu nlachines such as SUN3s and Symbolics Lisp machines (by simulated parallelism). null In our experiment and simulation, a set of about 250 context-free grammar rules specifying a subset of English is represented by the corresponding network of objects (i.e., computing agents) and about 1100 concurrently executable objects are involved.</Paragraph>
+</Section>
+</Paper>
+

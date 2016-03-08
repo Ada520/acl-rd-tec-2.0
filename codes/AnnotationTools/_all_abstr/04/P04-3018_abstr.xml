@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P04-3018">
+<Title>Resource Analysis for Question Answering</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper attempts to analyze and bound the utility of various structured and unstructured resources in Question Answering, independent of a specific system or component. We quantify the degree to which gazetteers, web resources, encyclopedia, web documents and web-based query expansion can help Question Answering in general and specific question types in particular. Depending on which resources are used, the QA task may shift from complex answer-finding mechanisms to simpler data extraction methods followed by answer re-mapping in local documents.</Paragraph>
+</Section>
+</Paper>
+

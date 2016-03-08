@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H90-1095">
+<Title>Speech Representation and Speech Understanding</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+OBJECTIVE
+</SectionTitle>
+<Paragraph position="0"> The core objective of the research is to encode speech into segments which retain necessary information for accurate continuous speech recognition, but are more efficient to deal with than the usual encoding of short fxames of speech. We use a multi-stage decision-tree encoder with linear combinations of features at the decision nodes; the result is segments which cover multiple frames and which are coded with the terminal node number of the final tree.</Paragraph>
+<Paragraph position="1"> Additional contract objectives include showing that application knowledge can be efficiently applied to these codes to produce accurate transcriptions. The Knowledge Systems Laboratory at Stanford University is to help test the result in an application-development environment. The contract is to produce results which can be employed in a commercial system at the end of the contract.</Paragraph>
+</Section>
+</Paper>
+

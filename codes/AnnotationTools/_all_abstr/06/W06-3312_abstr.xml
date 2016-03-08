@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-3312">
+<Title>Postnominal Prepositional Phrase Attachment in Proteomics</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a small set of attachment heuristics for postnominal PPs occurring in full-text articles related to enzymes.</Paragraph>
+<Paragraph position="1"> A detailed analysis of the results suggests their utility for extraction of relations expressed by nominalizations (often with several attached PPs). The system achieves 82% accuracy on a manually annotated test corpus of over 3000 PPs from varied biomedical texts.</Paragraph>
+</Section>
+</Paper>
+

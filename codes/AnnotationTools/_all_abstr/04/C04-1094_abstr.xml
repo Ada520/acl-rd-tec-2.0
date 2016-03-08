@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1094">
+<Title>Using Syntactic Information to Extract Relevant Terms for Multi-Document Summarization</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The identification of the key concepts in a set of documents is a useful source of information for several information access applications. We are interested in its application to multi-document summarization, both for the automatic generation of summaries and for interactive summarization systems.</Paragraph>
+<Paragraph position="1"> In this paper, we study whether the syntactic position of terms in the texts can be used to predict which terms are good candidates as key concepts. Our experiments show that a) distance to the verb is highly correlated with the probability of a term being part of a key concept; b) subject modifiers are the best syntactic locations to find relevant terms; and c) in the task of automatically finding key terms, the combination of statistical term weights with shallow syntactic information gives better results than statistical measures alone.</Paragraph>
+</Section>
+</Paper>
+

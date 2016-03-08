@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E93-1026">
+<Title>Inheriting Verb Alternations</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The paper shows how the verbal lexicon can be formalised in a way that captures and exploits generalisations about the alternation behaviour of verb classes. An alternation is a pattern in which a number of words share the same relationship between * a pair of senses. The alternations captured are ones where the different senses specify different relationships between syntactic complements and semantic arguments, as between bake in &amp;quot;John is baking the cake&amp;quot; and &amp;quot;The cake is baking&amp;quot;. The formal language used is DATR. The lexical entries it builds are as specified in HPSG. The complex alternation behaviour shared between families of verbs is elegantly represented in a way that makes generalisations explicit, avoids redundancy, and offers practical benefits to computational lexicographers.</Paragraph>
+</Section>
+</Paper>
+

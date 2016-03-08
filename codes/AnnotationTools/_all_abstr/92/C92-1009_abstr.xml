@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C92-1009">
+<Title>Feature Structure Based Semantic Head Driven Generation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper proposes a generation method for feature-structured)ased unification grammars.</Paragraph>
+<Paragraph position="1"> As comlx~red with fixed ~rity term notation, feature structure notation is more tlexible for representing knowledge needed to generate idiom~ttic structures as well as genem~l constructions. The method enables feature strncture retrieval via nmltiple indices. The indexing mechanism, when used with a semantic head driven generation algorithm, attains efficient generation even when a large amount of generation knowledge must be considered. Our method can produce all possi ble structures in parNlet, using structure sharing among ambiguous substructures.</Paragraph>
+</Section>
+</Paper>
+

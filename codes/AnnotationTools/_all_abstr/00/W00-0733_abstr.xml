@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-0733">
+<Title>Text Chunking by System Combination</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> We will apply a system-internal combination of memory-based learning classifiers to the CoNLL-2000 shared task: finding base chunks.</Paragraph>
+<Paragraph position="1"> Apart from testing different combination methods, we will also examine if dividing the chunking process in a boundary recognition phase and a type identification phase would aid performance. null</Paragraph>
+</Section>
+</Paper>
+

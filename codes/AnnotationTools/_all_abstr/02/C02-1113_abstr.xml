@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C02-1113">
+<Title>Natural Language and Inference in a Computer Game</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present an engine for text adventures - computer games with which the player interacts using natural language. The system employs current methods from computational linguistics and an efficient inference system for description logic to make the interaction more natural. The inference system is especially useful in the linguistic modules dealing with reference resolution and generation and we show how we use it to rank different readings in the case of referential and syntactic ambiguities. It turns out that the player's utterances are naturally restricted in the game scenario, which simplifies the language processing task.</Paragraph>
+</Section>
+</Paper>
+

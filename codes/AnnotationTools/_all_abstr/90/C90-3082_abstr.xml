@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-3082">
+<Title>The General Architecture of Generation in ACORD*</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes the general architecture of generation in the ACORD project. The central module of this architecture is a planning component, which allows to plan single sentences as an answer to a KB query. The planner works for three different languages (English, French and German) and for sentence generators based on two different grammar formalisms (ucG for English and French, Lr'G for German) independent of the particular grammar or grammar formalism. It uses several knowledge sources of the ACORD system to make its decisions. The output of the planner is used for the language specific generators as well as for the update of information needed for pronoun resolution.</Paragraph>
+</Section>
+</Paper>
+

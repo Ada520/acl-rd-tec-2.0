@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-1040">
+<Title>Dialogue Management in Vector-Based Call Routing</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a domain independent, automatically trained call router which directs customer calls based on their response to an open-ended &amp;quot;How may I direct your call?&amp;quot; query. Routing behavior is trained from a corpus of transcribed and hand-routed calls and then carried out using vector-based information retrieval techniques. Based on the statistical discriminating power of the n-gram terms extracted from the caller's request, the caller is 1) routed to the appropriate destination, 2) transferred to a human operator, or 3) asked a disambiguation question. In the last case, the system dynamically generates queries tailored to the caller's request and the destinations with which it is consistent. Our approach is domain independent and the training process is fully automatic. Evaluations over a financial services call center handling hundreds of activities with dozens of destinations demonstrate a substantial improvement on existing systems by correctly routing 93.8% of the calls after punting 10.2% of the calls to a human operator.</Paragraph>
+</Section>
+</Paper>
+

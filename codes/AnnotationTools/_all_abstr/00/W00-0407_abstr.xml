@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-0407">
+<Title>Evaluation of Phrase-Representation Summarization based on Information Retrieval Task</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We have developed an improved task-based evaluation method of summarization, the accuracy of which is increased by specifying the details of the task including background stories, and by assigning ten subjects per summary sample. The method also serves precision/recall pairs for a variety of situations by introducing multiple levels of relevance assessment. The method is applied to prove phrase-represented summary is most effective to select relevant documents from information retrieval results.</Paragraph>
+<Paragraph position="1"> Introduction Summaries are often used to select relevant documents from information retrieval results. The goal of summarization for such &amp;quot;indicative&amp;quot; use is to serve fast and accurate judgement. We have developed the concept of the &amp;quot;at-a-glance&amp;quot; summary, and its realization in the Japanese language - &amp;quot;phrase-representation summarizatiola&amp;quot; - to achieve this goal (Ueda, et al. 2000). We have conducted an evaluation experiment to verify the effectiveness of this summarization method.</Paragraph>
+<Paragraph position="2"> There are two strategies for evaluating summarization systems: intrinsic and extrinsic (Jing, et al. 1998). Intrinsic methods measure a system's quality mainly by comparing the system's output with an &amp;quot;ideal&amp;quot; summary. Extrinsic methods measure a system's performance in a particular task. The aim of the phrase-representation summarization method is fast and accurate judgement in selecting documents in information retrieval. Thus, we adopted a task-based method to evaluate whether the goal was achieved. Task-based evaluation has recently drawn the attention in thq summarization field, because the assumption that there is only one &amp;quot;ideal&amp;quot; summary is considered to be incorrect, and some experiments on information retrieval were reported (Jing, et al. 1998) (Mani, et al. 1998) (Mochizuki and Okunura 1999). However, there is no standard evaluation method, and we consider that there are some shortcomings in the existing methods. Thus, we have developed an improved evaluation method and carried out a relatively large experiment.</Paragraph>
+<Paragraph position="3"> In this paper, we first give an overview of the phrase-representation summarization method.</Paragraph>
+<Paragraph position="4"> We then consider the evaluation method and show the result of an experiment based on the improved method to demonstrate the effectiveness of phrase-representation summarization.</Paragraph>
+</Section>
+</Paper>
+

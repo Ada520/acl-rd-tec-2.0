@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W93-0113">
+<Title>Evaluation Techniques for Automatic Semantic Extraction: Comparing Syntactic and Window Based Approaches</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> As large on-line corpora become more prevalent, a number of attempts have been made to automatically extract thesaurus-like relations directly from text using knowledge poor methods. In the absence of any specific application, comparing the results of these attempts is difficult. Here we propose an evaluation method using gold standards, i.e., pre-existing hand-compiled resources, as a means of comparing extraction techniques. Using this evaluation method, we compare two semantic extraction techniques which produce similar word lists, one using syntactic context of words , and the other using windows of heuristically tagged words. The two techniques are very similar except that in one case selective natural language processing, a partial syntactic analysis, is performed. On a 4 megabyte corpus, syntactic contexts produce significantly better results against the gold standards for the most characteristk: words in the corpus, while windows produce better results for rare words.</Paragraph>
+</Section>
+</Paper>
+

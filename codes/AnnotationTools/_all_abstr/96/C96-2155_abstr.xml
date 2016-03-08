@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-2155">
+<Title>Generation of Paraphrases from Ambiguous Logical Forms</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a method for generating multiple paraphrases from ambiguous logical forms. The method is based on a chart structure with edges indexed on semantic information and annotations that relate edges to the semantic facts they express. These annotations consist of logical expressions that identify particular realizations encoded in the chart. The method allows simultaneous generation from multiple interpretations, without hindering the generation process or causing any work to be superfluously duplicated.</Paragraph>
+</Section>
+</Paper>
+

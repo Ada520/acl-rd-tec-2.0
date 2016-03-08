@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-1011">
+<Title>Handling Figures in Document Summarization</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Some document genres contain a large number of figures. This position paper outlines approaches to diagram summarization that can augment the many well-developed techniques of text summarization.</Paragraph>
+<Paragraph position="1"> We discuss figures as surrogates for entire documents, thumbnails, extraction, the relations between text and figures as well as how automation might be achieved. The focus is on diagrams (line drawings) because they allow parsing techniques to be used, in contrast to the difficulties of general image understanding. We describe the advances in raster image vectorization and parsing needed to produce corpora for diagram summarization.</Paragraph>
+</Section>
+</Paper>
+

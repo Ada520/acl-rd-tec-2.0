@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C82-1013">
+<Title>FORWARD AND BACKWARD REASONING IN AUTOMATIC ABSTRACTING</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+FORWARD AND BACKWARD REASONING IN AUTOMATIC ABSTRACTING
+</SectionTitle>
+<Paragraph position="0"> Danilo FUM ? Giovanni GUIDA, Carlo TASSO Istituto di Matematica, Informatica e Sistemistica, Universita' di Udine. Italy.</Paragraph>
+<Paragraph position="1"> o Laboratorio di Psicologia E.E., Universita' di Trieste, Italy. The paper is devoted to present a new approach to automatic abstracting which is supported by the development of SUSY, an experimental system currently being implemented at the University of Udine (Italy). The original contribution of the research reported is mostly focused on the role of forward and backward reasoning in the abstracting activity. In the paper the specifications and basic methodologies of SUSY are introduced, its architecture is illustrated with particular attention to the organization of the basic algorithms, and an example to support the novel approach proposed is described.</Paragraph>
+</Section>
+</Paper>
+

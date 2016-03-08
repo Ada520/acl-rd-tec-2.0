@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H01-1052">
+<Title>Mitigating the Paucity-of-Data Problem: Exploring the Effect of Training Corpus Size on Classifier Performance for Natural Language Processing</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> In this paper, we discuss experiments applying machine learning techniques to the task of confusion set disambiguation, using three orders of magnitude more training data than has previously been used for any disambiguation-in-string-context problem. In an attempt to determine when current learning methods will cease to benefit from additional training data, we analyze residual errors made by learners when issues of sparse data have been significantly mitigated. Finally, in the context of our results, we discuss possible directions for the empirical natural language research community.</Paragraph>
+</Section>
+</Paper>
+

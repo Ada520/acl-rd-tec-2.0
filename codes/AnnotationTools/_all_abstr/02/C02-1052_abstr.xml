@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C02-1052">
+<Title>Using an Ontology to Determine English Countability</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we show to what degree the countability of English nouns is predictable from their semantics. We found that at 78% of nouns' countability could be predicted using an ontology of 2,710 nodes. We also show how this predictability can be used to aid non-native speakers to determine the countability of English nouns when building a bilingual machine translation lexicon.</Paragraph>
+</Section>
+</Paper>
+

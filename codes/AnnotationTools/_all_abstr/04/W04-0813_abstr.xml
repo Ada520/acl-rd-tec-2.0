@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-0813">
+<Title>The Basque Country University system: English and Basque tasks</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Our group participated in the Basque and English lexical sample tasks in Senseval-3. A language-specific feature set was defined for Basque. Four different learning algorithms were applied, and also a method that combined their outputs. Before submission, the performance of the methods was tested for each task on the Senseval-3 training data using cross validation.</Paragraph>
+<Paragraph position="1"> Finally, two systems were submitted for each language: the best single algorithm and the best ensemble.</Paragraph>
+</Section>
+</Paper>
+

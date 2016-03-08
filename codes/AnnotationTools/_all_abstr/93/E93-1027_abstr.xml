@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E93-1027">
+<Title>Linguistic Knowledge Acquisition from Parsing Failures</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A semi-automatic procedure of linguistic knowledge acquisition is proposed, which combines corpus-based techniques with the conventional rule-based approach. The rule-based component generates all the possible hypotheses of defects which the existing linguistic knowledge might contain, when it fails to parse a sentence. The rule-based component does not try to identify the defects, but generates a set of hypotheses and the corpus-based component chooses the plausible ones among them.</Paragraph>
+<Paragraph position="1"> The procedure will be used for adapting or re-using existing linguistic resources for new application domains.</Paragraph>
+</Section>
+</Paper>
+

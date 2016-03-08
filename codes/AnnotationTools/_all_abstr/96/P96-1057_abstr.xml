@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P96-1057">
+<Title>Processing Complex Sentences in the Centering Framework</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We extend the centering model for the resolution of intia-sentential anaphora and specify how to handle complex sentences. An empirical evaluation indicates that the functional information structure guides the search for an antecedent within the sentence.</Paragraph>
+</Section>
+</Paper>
+

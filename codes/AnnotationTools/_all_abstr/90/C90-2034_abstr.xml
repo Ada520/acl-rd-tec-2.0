@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-2034">
+<Title>To Parse or Not to Parse: Relation-Driven Text Skimming</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We have designed and implemented a text processing system that can extract important information from hundreds of paragraphs per hour and can be transported within weeks to a new domain. The system performs efficiently because it determines the level of processing required to understand a text. This &amp;quot;skimming&amp;quot; method identifies surface relations in the input text that are likely to contribute to its interpretation in a domain. This approach differs from previous skimming techniques in that it uses conceptual information as part of bottom-up linguistic processing, thus using linguistic knowledge more fully while limiting grammatical complexity.</Paragraph>
+</Section>
+</Paper>
+

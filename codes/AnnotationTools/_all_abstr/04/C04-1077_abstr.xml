@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1077">
+<Title>Corpus and Evaluation Measures for Multiple Document Summarization with Multiple Sources</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we introduce a large-scale test collection for multiple document summarization, the Text Summarization Challenge 3 (TSC3) corpus. We detail the corpus construction and evaluation measures. The significant feature of the corpus is that it annotates not only the important sentences in a document set, but also those among them that have the same content. Moreover, we define new evaluation metrics taking redundancy into account and discuss the effectiveness of redundancy minimization.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-2241">
+<Title>A Preliminary Model of Centering in Dialog*</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The centering framework explains local coherence by relating local focus and the form of referring expressions.</Paragraph>
+<Paragraph position="1"> It has proven useful in monolog, but its utility for multi-party discourse has not been shown, and a variety of issues must be tackled to adapt the model for dialog. This paper reports our application of three naive models of centering theory for dialog. These results will be used as baselines for evaluating future models. 1</Paragraph>
+</Section>
+</Paper>
+

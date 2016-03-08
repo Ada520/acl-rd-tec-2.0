@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P80-1019">
+<Title>Expanding the Horizons of Natural Language Interfaces</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Current natural language interfaces have concentrated largely on determining the literal &amp;quot;meaning&amp;quot; of input from their users. While such decoding is an essential underpinning, much recent work suggests that natural language interlaces will never appear cooperative or graceful unless they also incorporate numerous non-literal aspects of communication, such as robust communication procedures.</Paragraph>
+<Paragraph position="1"> This toaper defends that view. but claims that direct imitation of human performance =s not the best way to =mplement many of these non-literal aspects of communication; that the new technology of powerful personal computers with integral graphics displays offers techniques superior to those of humans for these aspects, while still satistying human communication needs. The paper proposes interfaces based on a judicious mixture of these techniques and the still valuable methods of more traditional natural language interfaces.</Paragraph>
+</Section>
+</Paper>
+

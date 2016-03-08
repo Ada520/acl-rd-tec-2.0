@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W01-0511">
+<Title>ClassifyingtheSemanticRelationsinNounCompoundsviaa Domain-SpecificLexicalHierarchy</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We are developing corpus-based techniques for identifying semantic relations at an intermediate level of description (more specific than those used in case frames, but more general than those used in traditional knowledge representation systems). In this paperwe describe aclassification algorithmforidentifying relationships between two-word noun compounds. We find that a very simple approach using a machine learning algorithm and a domain-specific lexical hierarchy successfully generalizes from training instances, performing better on previously unseen words than a baseline consisting of training on the words themselves.</Paragraph>
+</Section>
+</Paper>
+

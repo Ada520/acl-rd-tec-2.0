@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-0423">
+<Title>Named Entity Recognition with a Maximum Entropy Approach</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> The named entity recognition (NER) task involves identifying noun phrases that are names, and assigning a class to each name. This task has its origin from the Message Understanding Conferences (MUC) in the 1990s, a series of conferences aimed at evaluating systems that extract information from natural language texts. It became evident that in order to achieve good performance in information extraction, a system needs to be able to recognize names. A separate subtask on NER was created in MUC6 and MUC-7 (Chinchor, 1998).</Paragraph>
+<Paragraph position="1"> Much research has since been carried out on NER, using both knowledge engineering and machine learning approaches. At the last CoNLL in 2002, a common NER task was used to evaluate competing NER systems. In this year's CoNLL, the NER task is to tag noun phrases with the following four classes: person (PER), organization (ORG), location (LOC), and miscellaneous (MISC). This paper presents a maximum entropy approach to the NER task, where NER not only made use of local context within a sentence, but also made use of other occurrences of each word within the same document to extract useful features (global features). Such global features enhance the performance of NER (Chieu and Ng, 2002b).</Paragraph>
+</Section>
+</Paper>
+

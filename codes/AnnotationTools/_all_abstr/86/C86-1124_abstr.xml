@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C86-1124">
+<Title>FORMAL SPECIFICATION OF NATURAL LANGUAGE SYNTAX</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+FORMAL SPECIFICATION OF NATURAL LANGUAGE SYNTAX
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> The two-level grammar is investigated as a notation for giving formal specification of the context-frec and context-sensitive aspects of n,~tural language syntax. In this paper, a large class of English declarative sentences, including post-noun-modificatlon by relative clauses, is formalized using a two-level grammar. The principal advantages of two-level grammar are: 1) it is very e~sy to understand and may be used to give a formal description using a structured form of natural language; 2) it is formal with many well-known mathematical properties; and 3) it is directly implementable by interpretation. The significance of the latter fact is that once we have written a two-level grammar for natural language syntax, we can derive a parser automatically without writing any additional specialized computer programs. Because of the ease with which two-levcl grammars may express logic and their Turing computability we expect that they will also bc very snitable for future extensions to semantics and knowledge representation.</Paragraph>
+</Section>
+</Paper>
+

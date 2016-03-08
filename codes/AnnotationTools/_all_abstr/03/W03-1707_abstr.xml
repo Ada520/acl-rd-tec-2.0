@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-1707">
+<Title>Annotating the Propositions in the Penn Chinese Treebank</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we describe an approach to annotate the propositions in the Penn Chinese Treebank. We describe how diathesis alternation patterns can be used to make coarse sense distinctions for Chinese verbs as a necessary step in annotating the predicate-structure of Chinese verbs. We then discuss the representation scheme we use to label the semantic arguments and adjuncts of the predicates. We discuss several complications for this type of annotation and describe our solutions.</Paragraph>
+<Paragraph position="1"> We then discuss how a lexical database with predicate-argument structure information can be used to ensure consistent annotation. Finally, we discuss possible applications for this resource.</Paragraph>
+</Section>
+</Paper>
+

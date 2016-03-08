@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P90-1026">
+<Title>Asymmetry in Parsing and Generating with Unification Grammars: Case Studies From ELU</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Recent developments in generation algorithms have enabled work in nnificafion-based computational linguistics to approach more closely the ideal of grammars as declarative statements of linguistic facts, neutral between analysis an0_ synthesis, x-&amp;quot;~-oui this perspective, however, the situation is still far from perfect; all known methods of generation impose constraints on the grammars they assume.</Paragraph>
+<Paragraph position="1"> We briefly consider a number of proposals for generation, outlining their consequences for the form of grammacs, and then report on experience arising from the addition of a generator to an existing unification environment. The algorithm in question (based on that of Shieber et al. (1989)), though among the most permissive currently available, excludes certain classes of parsable analyses.</Paragraph>
+</Section>
+</Paper>
+

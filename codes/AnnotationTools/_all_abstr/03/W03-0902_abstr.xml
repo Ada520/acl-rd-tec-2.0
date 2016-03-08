@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-0902">
+<Title>Extracting and Evaluating General World Knowledge from the Brown Corpus</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We have been developing techniques for extracting general world knowledge from miscellaneous texts by a process of approximate interpretation and abstraction, focusing initially on the Brown corpus. We apply interpretive rules to clausal patterns and patterns of modification, and concurrently abstract general &amp;quot;possibilistic&amp;quot; propositions from the resulting formulas. Two examples are &amp;quot;A person may believe a proposition&amp;quot;, and &amp;quot;Children may live with relatives&amp;quot;. Our methods currently yield over 117,000 such propositions (of variable quality) for the Brown corpus (more than 2 per sentence). We report here on our efforts to evaluate these results with a judging scheme aimed at determining how many of these propositions pass muster as &amp;quot;reasonable general claims&amp;quot; about the world in the opinion of human judges.</Paragraph>
+<Paragraph position="1"> We find that nearly 60% of the extracted propositions are favorably judged according to our scheme by any given judge. The percentage unanimously judged to be reasonable claims by multiple judges is lower, but still sufficiently high to suggest that our techniques may be of some use in tackling the long-standing &amp;quot;knowledge acquisition bottleneck&amp;quot; in AI.</Paragraph>
+</Section>
+</Paper>
+

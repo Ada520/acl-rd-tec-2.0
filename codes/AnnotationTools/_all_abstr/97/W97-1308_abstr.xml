@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-1308">
+<Title>Supporting anaphor resolution in dialogues with a corpus-based probabilistic model</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a corpus-based investigation of anaphora in dialogues, using data from English and Portuguese face-to-face conversations. The approach relies on the manual annotation of a significant number of anaphora cases - around three thousand for each language - in order to create a database of real-life usage which ultimately aims at supporting anaphora interpreters in NLP systems. Each case of anaphora was annotated according to four properties described in the paper. The code used for the annotation is also described. Once the required number of cases had been analysed, a probabilistic model was built by linking categories in each property to form a probability tree. The results are summed up in an antecedent-likelihood theory, which elaborates on the probabilities and observed regularities of the immediate context to support anaphor resolution by selecting the most likely antecedent. The theory will be tested on a previously annotated dialogue and then fine-tuned for best performance. Automatic annotation is briefly discussed. Possible applications comprise machine translation, computer-aided language learning, and dialogue systems in general.</Paragraph>
+</Section>
+</Paper>
+

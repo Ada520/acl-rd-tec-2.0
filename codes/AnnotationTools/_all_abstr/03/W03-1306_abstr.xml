@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-1306">
+<Title>Boosting Precision and Recall of Dictionary-Based Protein Name Recognition</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Dictionary-based protein name recognition is the first step for practical information extraction from biomedical documents because it provides ID information of recognized terms unlike machine learning based approaches. However, dictionary based approaches have two serious problems: (1) a large number of false recognitions mainly caused by short names. (2) low recall due to spelling variation. In this paper, we tackle the former problem by using a machine learning method to filter out false positives. We also present an approximate string searching method to alleviate the latter problem. Experimental results using the GENIA corpus show that the filtering using a naive Bayes classifier greatly improves precision with slight loss of recall, resulting in a much better F-score.</Paragraph>
+</Section>
+</Paper>
+

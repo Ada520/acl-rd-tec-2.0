@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P01-1042">
+<Title>Joint and conditional estimation of tagging and parsing models</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Mark Johnson@Brown.edu
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper compares two different ways of estimating statistical language models. Many statistical NLP tagging and parsing models are estimated by maximizing the (joint) likelihood of the fully-observed training data. However, since these applications only require the conditional probability distributions, these distributions can in principle be learnt by maximizing the conditional likelihood of the training data.</Paragraph>
+<Paragraph position="1"> Perhaps somewhat surprisingly, models estimated by maximizing the joint were superior to models estimated by maximizing the conditional, even though some of the latter models intuitively had access to &amp;quot;more information&amp;quot;.</Paragraph>
+</Section>
+</Paper>
+

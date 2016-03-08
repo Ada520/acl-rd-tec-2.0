@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-0427">
+<Title>Memory-based one-step named-entity recognition: Effects of seed list features, classifier stacking, and unannotated data</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Outline
+</SectionTitle>
+<Paragraph position="0"> We present a memory-based named-entity recognition system that chunks and labels named entities in a one-shot task. Training and testing on CoNLL-2003 shared task data, we measure the effects of three extensions.</Paragraph>
+<Paragraph position="1"> First, we incorporate features that signal the presence of wordforms in external, language-specific seed (gazetteer) lists. Second, we build a second-stage stacked classifier that corrects first-stage output errors. Third, we add selected instances from classified unannotated data to the training material. The system that incorporates all attains an overall F-rate on the final test set of 78.20 on English and 63.02 on German.</Paragraph>
+</Section>
+</Paper>
+

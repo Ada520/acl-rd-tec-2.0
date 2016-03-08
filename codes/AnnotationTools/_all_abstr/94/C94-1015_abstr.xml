@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C94-1015">
+<Title>Constituent lloundary Parsing for Exanll)lo-lkised Maclhine Tr,'inslation</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ATR Interpreting Telocomnlunications Research Laboratories
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper i)roposes an effective parsing nicthod for examlile-based machine transhltiOl~. In this method, an input string is parsed by the tOl)-down aplflication of linguistic patterns consisting ol variables and constituent boundaries. A constituent boundary is expressed by either a functional word or a l)art-of..speech bigram. When structural ambiguity occurs, the most plausible structure is selected usin b, tile total values of distance calculations in tile oxanll)le-basod Iraillework.</Paragraph>
+<Paragraph position="1"> Transfer-Driven Machine Translation (TDMT) achieves efficient aitd robust translation within the example-based framework by adopting this parsing method. Using bi-directional translation between Japanese and Vnglish&gt; tile effectiveness of this method in TDMT is nlso shown.</Paragraph>
+</Section>
+</Paper>
+

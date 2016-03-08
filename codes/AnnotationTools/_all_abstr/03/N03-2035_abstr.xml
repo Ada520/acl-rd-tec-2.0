@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N03-2035">
+<Title>A Context-Sensitive Homograph Disambiguation in Thai Text-to-Speech Synthesis</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Homograph ambiguity is an original issue in Text-to-Speech (TTS). To disambiguate homograph, several efficient approaches have been proposed such as part-of-speech (POS) n-gram, Bayesian classifier, decision tree, and Bayesian-hybrid approaches. These methods need words or/and POS tags surrounding the question homographs in disambiguation.</Paragraph>
+<Paragraph position="1"> Some languages such as Thai, Chinese, and Japanese have no word-boundary delimiter.</Paragraph>
+<Paragraph position="2"> Therefore before solving homograph ambiguity, we need to identify word boundaries. In this paper, we propose a unique framework that solves both word segmentation and homograph ambiguity problems altogether.</Paragraph>
+<Paragraph position="3"> Our model employs both local and long-distance contexts, which are automatically extracted by a machine learning technique called Winnow.</Paragraph>
+</Section>
+</Paper>
+

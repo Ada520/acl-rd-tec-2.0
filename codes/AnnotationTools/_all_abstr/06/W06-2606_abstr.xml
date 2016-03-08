@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-2606">
+<Title>Reranking Translation Hypotheses Using Structural Properties</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We investigate methods that add syntactically motivated features to a statistical machine translation system in a reranking framework. Thegoalistoanalyzewhether shallow parsing techniques help in identifying ungrammatical hypotheses. We show that improvements are possible by utilizing supertagging, lightweight dependency analysis, a link grammar parser and a maximum-entropy based chunk parser.</Paragraph>
+<Paragraph position="1"> Adding features to n-best lists and discriminatively training the system on a development set increases the BLEU score up to 0.7% on the test set.</Paragraph>
+</Section>
+</Paper>
+

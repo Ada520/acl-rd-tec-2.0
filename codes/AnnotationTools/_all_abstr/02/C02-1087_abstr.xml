@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C02-1087">
+<Title>Selforganizing classification on the Reuters news corpus</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we propose an integration of a selforganizing map and semantic networks from WordNet for a text classification task using the new Reuters news corpus. This neural model is based on significance vectors and benefits from the presentation of document clusters. The Hypernym relation in WordNet supplements the neural model in classification. We also analyse the relationships of news headlines and their contents of the new Reuters corpus by a series of experiments. This hybrid approach of neural selforganization and symbolic hypernym relationships is successful to achieve good classification rates on 100,000 full-text news articles. These results demonstrate that this approach can scale up to a large real-world task and show a lot of potential for text classification.</Paragraph>
+<Paragraph position="1"> Introduction Text classification is the categorization of documents with respect to a set of predefined categories. Traditional neural techniques for classification problems cannot present their results easily without adding extra modules but selforganizing memory networks (SOM) are capable of combining topological presentation with neural learning. We extract suitable relations from WordNet to present a semantic map of news articles and show that these relations can complement neural techniques in text categorization. This integration of SOM and WordNet is proposed to deal with the text classification of news articles.</Paragraph>
+<Paragraph position="2"> The remainder of this paper is organised as follows. In Section 1, we give a brief review of SOM. Section 2 is dedicated to a description of methods of dimensionality reduction. In section 3 of our hybrid neural approach, the new version of the Reuters corpus and the results of our experiments are presented.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W93-0216">
+<Title>Empirical Evidence for Intention-based Discourse Segmentation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> Each utterance of a discourse either bears a semantic relation to a preceding utterance, or constitutes the onset of a new semantic unit. Thus, a critical task in discourse understanding is determining how to relate each new utterance to the current representation of the discourse, Sequences of semantically related utterances are referred to as segrnents. The discourse intentions of the speaker provide one basis for determining which utterances belong within one segment \[Grosz and Sidner, 1986\]. As discussed in \[Passonneau and Litman, 1993\], we are conducting an empirical study of the relation between discourse segments and intentions. We have estabfished that naive subjects can reliably identify the same discourse segment boundaries, using a commonsense notion of speaker intention as the segmentation criterion. Briefly, Section 2 describes our study, and Section 3 presents our results that agreement among subjects on discourse segment boundaries is highly statistically significant.</Paragraph>
+<Paragraph position="1"> Taking these results as a starting point, we ask in Section 4 whether subjects also agree on the intentions they associate with segments. Exa.mination of our data suggests that subjects do agree on the semantic labels they associate with segments. In Section 5 we discuss the question of how relations among segments are recognized by looking at a class of cases in which ;m earlier suspended segment is resumed (i.e., discourse pops). We hypothesize that in spontaneous oral discourse, relations among segments are often not directly signaled, but must be inferred.</Paragraph>
+</Section>
+</Paper>
+

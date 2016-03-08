@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E99-1027">
+<Title>Specifying a shallow grammatical representation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We investigate the controversial issue about the upper bound of interjudge agreement in the use of a low-level grammatical representation. Pessimistic views suggest that several percent of words in running text are undecidable in terms of part-of-speech categories. Our experiments with 55kW data give reason for optimism: linguists with only 30 hours' training apply the EngCG-2 morphological tags with almost 100% inter-judge agreement.</Paragraph>
+</Section>
+</Paper>
+

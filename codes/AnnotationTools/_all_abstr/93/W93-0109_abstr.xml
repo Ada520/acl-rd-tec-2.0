@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W93-0109">
+<Title>The Automatic Acquisition of Frequencies of Verb Subcategorization Frames from Tagged Corpora</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe a mechanism for automatically acquiring verb subcategorization frames and their frequencies in a large corpus. A tagged corpus is first partially parsed to identify noun phrases and then a finear grammar is used to estimate the appropriate subcategorization frame for each verb token in the corpus. In an experiment involving the identification of six fixed subcategorization frames, our current system showed more than 80% accuracy. In addition, a new statistical approach substantially improves the accuracy of the frequency estimation.</Paragraph>
+</Section>
+</Paper>
+

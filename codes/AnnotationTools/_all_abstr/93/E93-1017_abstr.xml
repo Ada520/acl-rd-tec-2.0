@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E93-1017">
+<Title>The donkey strikes back Extending the dynamic interpretation &amp;quot;constructively&amp;quot;</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The dynamic interpretation of a formula as a binary relation (inducing transitions) on states is extended by alternative treatments of implication, universal quantification, negation and disjunction that are more &amp;quot;dynamic&amp;quot; (in a precise sense) than the usual reductions to tests from quantified dynamic logic (which, nonetheless, can be recovered from the new connectives). An analysis of the &amp;quot;donkey&amp;quot; sentence followed by the assertion &amp;quot;It will kick back&amp;quot; is provided. null</Paragraph>
+</Section>
+</Paper>
+

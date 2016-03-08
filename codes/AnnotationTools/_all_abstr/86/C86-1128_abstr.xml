@@ -1,0 +1,78 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C86-1128">
+<Title>A PROLOG Implementation of Government-Binding Theory</Title>
+<Section position="2" start_page="0" end_page="547" type="abstr">
+<SectionTitle>
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> A number of recent research efforts have explicitly grounded parser design on linguistic theory (e.g., Bayer et al. (1985), Berwick and Weinberg (1984), Marcus (1980), Reyle and Frey (1983), and Wehrli (1983)). Although many of these parsers are based on generative grammar, and transformational grammar in particular, with few exceptions (Wehrli (1983)) the modular approach as suggested by this theory has been lagging (Barton (1984)). Moreover, Chomsky (1986) has recently suggested that rule-based parsers are implausible and that parsers could be based on lexical properties and structure determining principles.</Paragraph>
+<Paragraph position="1"> This paper describes a principle-based parser which is modular in design and which processes sentences simultaneously with respect to modules of Government-Binding (GB) Theory (Chomsky (1981, 1982, 1986)). This parser requires few grammar rules and no explicit subcategorization features for VPs. We also attempt to show that logic programming  (specifically, PROLOG (Clark and Tarnlund (1982), Clocksin and Mellish (1984), Hogger (1984), and Kowalski (1979))) makes perspicuous the principles and constraints which underlie this parser.</Paragraph>
+<Paragraph position="2"> 2. Overview of Government-Binding Theory GB-Theory (Chomsky (1981)) has shifted the emphasis of grammar from a system of rules to a system of modules which include:  For the purposes (and space limitations) of this paper we only briefly describe the theories of X-bar, Theta, Control, and Binding. We also will present three principles, viz., Theta-Criterion, Projection Principle, and Binding Conditions.</Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+2.1 X-Bar Theory
+</SectionTitle>
+<Paragraph position="0"> X-bar theory is one part of GB-theory which captures eross-categorial relations and specifies the constraints on underlying structures. The two general schemata of X-bar theory are: (1)a. X~Specifier b. X-------~X Complement The types of categories that may precede or follow a head are similar and Specifier and Complement represent this commonality of the pre-head and post-head categories, respectively. Although the parse operates in accordance with X-bar theory, it does not require specific instructions for each X (X = N, V, A, P).</Paragraph>
+</Section>
+<Section position="2" start_page="0" end_page="546" type="sub_section">
+<SectionTitle>
+2.2 Theta-Theory
+</SectionTitle>
+<Paragraph position="0"> Theta-theory is the module which determines a sentence's argument structure and theta or thematic-role (e.g., agency, theme, locative) assignments. It is through theta-relations and general principles that arguments and their possible positions can be predicted and explained.</Paragraph>
+<Paragraph position="1"> Theta-roles are assumed to be assigned compositionally, in that a head (i.e., X of an</Paragraph>
+<Paragraph position="3"> and this pair (head and complement) in turn determines the theta-role (if one exists) of its specifiers. For example, in sentences: (2)a. John broke the bottle.</Paragraph>
+<Paragraph position="4"> h. John broke his (own) leg.</Paragraph>
+<Paragraph position="5"> BREAK assigns the role of theme to pottle and in a. and b., respectively. However, the VP broke the bottle assigns the role of agent to John in a., while broke his leg assigns some other role (perhaps, experiencer) to John in b.  ~tv Categories One difficulty parsing strategies must solve is the detection of the presence of gaps or empty categories and their antecedents. There are three different sets of properties that may be associated with empty categories (Chomsky (1982)), and these sets determine whether an empty category is a trace, PRO, or a variable. While all of these empty categories are phonologically null, their location and interpretation must be determined for a parse to be complete. In short, a trace remains at an extraction site of Move ~, PRO is a pronominal which may be present in ungoverned positions, and variables are Case-marked traces.</Paragraph>
+</Section>
+<Section position="3" start_page="546" end_page="546" type="sub_section">
+<SectionTitle>
+2~4 Control Theorx
+</SectionTitle>
+<Paragraph position="0"> Control theory determines the controller of PRO. In other words, the reference of PRO is derivable by Control theory which assigns an interpretation to PRO as subjects of embedded infinitives: (3)a. John. wants \[PRO. to leave\]. l l b. John persuaded Bill i \[PROj to leave\]. In both (3) a. and b., i=j, but in (3) a. John is the subject, and in b., Bill is the object. In other words, want and persuade are subject and object control verbs, respectively, and are lexically marked as such.</Paragraph>
+</Section>
+<Section position="4" start_page="546" end_page="546" type="sub_section">
+<SectionTitle>
+2.5 Bindin~
+</SectionTitle>
+<Paragraph position="0"> Binding theory constrains the assignment of indices (which are interpreted as intended coreference). The binding conditions are: (4)a. An anaphor is bound in its governing category.</Paragraph>
+<Paragraph position="1"> b, A pronominal is free in its governing category.</Paragraph>
+<Paragraph position="2"> e. An R-expression is free.</Paragraph>
+<Paragraph position="3"> An R-expression is a referential term such as a proper noun or a variable. A governing category is the minimal S or NP which contains an anaphor or pronominal and a governor of that anaphor or pronominal. And X is a governor of Y iff X = A, N, V, or P and Y is contained in the smallest maximal projection of X (i.e., the smallest XP) and X c-commands Y. C-command is defined in the usual way, that is, X c-commands Y iff the first branching node dominating X also dominates Y, and X does not dominate Y.</Paragraph>
+</Section>
+<Section position="5" start_page="546" end_page="546" type="sub_section">
+<SectionTitle>
+2.6 Chain~ Theta-Criteri~_~etion
+Princ\[Lle
+</SectionTitle>
+<Paragraph position="0"> Intuitively, a chain encodes the history of movement of a constituent. We distinguish between two landing sites of movement, name\].y, an arg~unent position (A-position) and a non-argument position (A-position). NP-movement moves or relates a gap with another A-position within an S while w__hh-movement relates a position in an S to a position in COMP, which is outside  of S and is an A-position. We will limit our discussion to A-positions.</Paragraph>
+<Paragraph position="1"> Definition. A chain ( e ~ .... _ _%~ is a seque.ee consisting of a .oau1 locally hound traces ~ 2''''' ~n' Definition. A locally binds B iff either A  is the nearest head binding B or A is a locally bound trace which is the nearest binder of B. It should be noted that all arguments must be in one and only one chain. It is argued in GB-theory that both Case and theta-roles are assigned to chains rather than individual NPs. Theta-roles are assigned according to a strict condition called the Theta-criterion.</Paragraph>
+<Paragraph position="2"> (5) Each chain receives one and only one theta-role.</Paragraph>
+<Paragraph position="3"> This says basically that theta-role assignments are complete and well-defined.</Paragraph>
+<Paragraph position="4"> The question of where in a grammar the Theta-criterion holds is answered by the  Projection Principle.</Paragraph>
+<Paragraph position="5"> (6) The Theta-criterion is satisfied at all levels of syntactic representation, name\].y, D-structure, S-structure, and LF (logical form).</Paragraph>
+<Paragraph position="6">  We exploit the notions of chains, and principles (5) and (6) in our system. Since a head theta-marks its colnplement as specified in the lexicon, the force of (5) and (6) is that D-structure, S-structure, and LF are projections from the lexicon.</Paragraph>
+<Paragraph position="7"> 3. Modules of the Parser The parser processes a sentence and outputs a triple whose parts are simultaneously determined and consists of a constituent analysis, intended coreference relations (binding and control), and argument structures (theta-relations). Since a distinguishing f&amp;ature of this parser is the processing of the latter two representations, we will discuss only the derivations of them.</Paragraph>
+<Paragraph position="8"> It should be noted that, although the structural analysis of the parse will not be presented in this paper, the parser is a deterministic one with a limited look-ahead facility (Marcus (\].980)). In essence, it: is deterministic in that a\].l structures created are permanent and cannot be modified or deleted, in other words, the structures created during the parse are equivalent to the structures of the output of the parse.</Paragraph>
+<Paragraph position="9"> The next two subsections will sketch the lexical component and the scope of the grammar, Binding, control, and theta conditions will be presented in Sections 4. and 5.</Paragraph>
+</Section>
+<Section position="6" start_page="546" end_page="547" type="sub_section">
+<SectionTitle>
+3.1 Lexicon
+</SectionTitle>
+<Paragraph position="0"> The lexicon is a critical component; it contains all the processable words and their associat:ed syntactic and semantic features.</Paragraph>
+<Paragraph position="1"> syntactic characterization includes X-bar features (iN, iV), tense, number, etc.</Paragraph>
+<Paragraph position="2"> The  Traditionally, the features also contain subcategorizations or templates which specify the types of complements (if any) a lexical entry could take. For instance, a subcategorization would indicate whether or not a verb is transitive. However, these templates are redundant in that we can replace them with the theta-roles which an entry (e.g., a verb) assigns to or theta-marks its complement. From this, the parser derives the subcategorization. For instance, the verb told selects a goal and a proposition. A goal is structurally realized as an NP and a proposition must be either an S or an NP. The choice between the structure of S or NP is determinable given a particular S as input.</Paragraph>
+</Section>
+<Section position="7" start_page="547" end_page="547" type="sub_section">
+<SectionTitle>
+3,2 Grammar Rules
+</SectionTitle>
+<Paragraph position="0"> Incorporating GB theory into the parser helps to eliminate many grammar rules because of their redundancy. As seen above, syntactic structure is derivable from means other than explicit rules. The parser does require a set of grammar rules and we hope to reduce this set in later versions. It should be noted that since priority during implementation was given to Binding theory, Theta-theory, and chains, some rules were used for ease of development. As mentioned above, we plan to eliminate rules which are unnecessary because the structures they specify can be derived from other general principles. However, some rules which describe language-speclfic properties or marked structures may be necessary and, thus, will have to be stated explicitly.</Paragraph>
+<Paragraph position="1"> Some of the rules the parser presently needs are those that deal with NP constructions. The rule S--n~NP INFL VP is used as well as some specific rules for determining imperatives and interrogatives (e.g., subject-auxiliary inversion).</Paragraph>
+<Paragraph position="2"> We are using rule to mean a phrase structure rule (e.g., a familiar rewriting rule or an X-bar schema) within a grammar. Rule can also denote an implementation of the above concept, i.e., a production rule or a PROLOG clause. The choice of interpretation should be clear from context.</Paragraph>
+<Paragraph position="3"> As contrasted with rules, principles are general constraints on syntactic representations (and not on rule application as could be argued). The significance of principles is to constrain the class of possible syntactic representations. The Projection Principle (6), for instance, severely restricts the argument structure of D-structure, S-structure, and LF. This bound on syntactic representation enables a parser to predict syntactic structure without explicit rules.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

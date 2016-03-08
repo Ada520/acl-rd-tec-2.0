@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H89-2047">
+<Title>Improvements in the Stochastic Segment Model for Phoneme Recognition</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+tBoston University
+~BBN Systems and Technologies Corp.
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> The heart of a speech recognition system is the acoustic model of sub-word units (e.g., phonemes). In this work we discuss refinements of the stochastic segment model, an alternative to hidden Markov models for representation of the acoustic variability of phonemes. We concentrate on mechanisms for better modelling time correlation of features across an entire segment. Results are presented for speaker-independent phoneme classification in continuous speech based on the 'lIMIT 0a!~base.</Paragraph>
+</Section>
+</Paper>
+

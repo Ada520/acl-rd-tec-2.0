@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0804">
+<Title>Formal redundancy and consistency checking rules for the lexical database WordNet TM 1.5</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In a manually built-up semantic net in which not the concept definitions automatically determine the position of the concepts in the net, but rather the links coded by the lexicographers, the formal properties of the encoded attributes and relations provide necessary but not sufficient conditions to support maintenance of internal consistency and avoidance of redundancy. According to our experience the potential of this methodology has not yet been fully exploited due to lack of understanding of applicable formal rules, or due to inflexibility of available software tools. Based on a more comprehensive inquiry performed on the lexical database Word-Net TM 1.5, this paper presents a selection of pertinent checking rules and the results of their application to WordNet 1.5. Transferable insights are: 1. Semantic relations which are closely related but differing in a checkable property, should be differentiated. 2. Inferable relations - such as the transitive closure of a hierarchical relation or semantic relations induced by lexical ones - need to be taken into account when checking real relations, i.e. directly stored relations. 3. A semantic net needs proper representation of lexical gaps. A disjunctive hypernym, implemented as a set of hypernyms, is considered harmful.</Paragraph>
+</Section>
+</Paper>
+

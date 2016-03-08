@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W05-1201">
+<Title>Classification of semantic relations by humans and machines [?] Erwin Marsi and Emiel Krahmer Communication and Cognition</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper addresses the classification of semantic relations between pairs of sentences extracted from a Dutch parallel corpus at the word, phrase and sentence level.</Paragraph>
+<Paragraph position="1"> We first investigate the performance of human annotators on the task of manually aligning dependency analyses of the respective sentences and of assigning one of five semantic relations to the aligned phrases (equals, generalizes, specifies, restates and intersects). Results indicate that humans can perform this task well, with an F-score of .98 on alignment and an F-score of .95 on semantic relations (after correction). We then describe and evaluate a combined alignment and classification algorithm, which achieves an F-score on alignment of .85 (using EuroWordNet) and an F-score of .80 on semantic relation classification.</Paragraph>
+</Section>
+</Paper>
+

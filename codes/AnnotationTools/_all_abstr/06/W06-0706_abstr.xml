@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-0706">
+<Title>Automating Help-desk Responses: A Comparative Study of Information-gathering Approaches</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a comparative study of corpus-based methods for the automatic synthesis of email responses to help-desk requests. Our methods were developed by considering two operational dimensions:  (1) information-gathering technique, and (2) granularity of the information. In par- null ticular, we investigate two techniques retrieval and prediction applied to information represented at two levels of granularity sentence-level and document level. We also developed a hybrid method that combines prediction with retrieval. Our results show that the different approaches are applicable in different situations, addressing a combined 72% of the requests with either complete or partial responses.</Paragraph>
+</Section>
+</Paper>
+

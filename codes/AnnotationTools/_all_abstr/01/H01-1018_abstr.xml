@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H01-1018">
+<Title>Domain Portability in Speech-to-Speech Translation</Title>
+<Section position="1" start_page="0" end_page="1" type="abstr">
+<SectionTitle>
+1. INTRODUCTION
+</SectionTitle>
+<Paragraph position="0"> Speech-to-speech translation has made significant advances over the past decade, with several high-visibility projects (C-STAR, Verbmobil, the Spoken Language Translator, and others) significantly advancing the state-of-the-art. While speech recognition can currently effectively deal with very large vocabularies and is fairly speaker independent, speech translation is currently still effective only in limited, albeit large, domains. The issue of domain portability is thus of significant importance, with several current research efforts designed to develop speech-translation systems that can be ported to new domains with significantly less time and effort than is currently possible.</Paragraph>
+<Paragraph position="1"> This paper reports on three experiments on portability of a speech-to-speech translation system between semantic domains.</Paragraph>
+<Paragraph position="2">  The experiments were conducted with the JANUS system [5, 8, 12], initially developed for a narrow travel planning domain, and ported to the doctor-patient domain and an extended tourism domain. The experiments cover both rule-based and statistical methods, and hand-written as well as automatically learned rules. For rule-based systems, we have investigated the re-usability of rules and other knowledge sources from other domains. For statistical methods, we have investigated how much additional training data is needed for each new domain. We are also experimenting with combinations of hand-written and automatically learned components. For speech recognition, we have conducted studies of what parameters change when a recognizer is ported from one domain to another, and how these changes affect recognition performance.</Paragraph>
+</Section>
+</Paper>
+

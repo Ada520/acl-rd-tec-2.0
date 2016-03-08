@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P00-1061">
+<Title>Lexicalized Stochastic Modeling of Constraint-Based Grammars using Log-Linear Measures and EM Training</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a new approach to stochastic modeling of constraint-based grammars that is based on log-linear models and uses EM for estimation from unannotated data. The techniques are applied to an LFG grammar for German. Evaluation on an exact match task yields 86% precision for an ambiguity rate of 5.4, and 90% precision on a subcat frame match for an ambiguity rate of 25.</Paragraph>
+<Paragraph position="1"> Experimental comparison to training from a parsebank shows a 10% gain from EM training. Also, a new class-based grammar lexicalization is presented, showing a 10% gain over unlexicalized models.</Paragraph>
+</Section>
+</Paper>
+

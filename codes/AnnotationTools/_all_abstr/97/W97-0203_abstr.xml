@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0203">
+<Title>Desiderata for Tagging with WordNet Synsets or MCCA Categories</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+2 Introduction
+</SectionTitle>
+<Paragraph position="0"> Content analysis provides distributional methods for analyzing characteristics of textual material. Its roots are the same as computational linguistics (CL), but it has been largely ignored in CL until recently (Dunning, 1993; Carletta, 1996; Kilgarriff, 1996). One content analysis approach, Minnesota Contextual Content Analysis (MCCA) (McTavish &amp; Pirro, 1990), in use for over 20 years and with a well-developed dictionary category system, contains analysis methods that provide insights into the use of WordNet (Miller, et al., 1990) for tagging.</Paragraph>
+<Paragraph position="1"> We describe the unique characteristics of MCCA, how its categories relate to WordNet synsets, the analysis methods used in MCCA to provide quantitative information about texts, what implications this has for the use of WordNet in tagging, and how these techniques may contribute to lexical semantic tagging.</Paragraph>
+<Paragraph position="2"> Specifically, we show that WordNet provides a backbone, but that additional lexical semantic information needs to be associated with WordNet synsets. We describe novel perspectives on how this information can be used in various NLP tasks.</Paragraph>
+</Section>
+</Paper>
+

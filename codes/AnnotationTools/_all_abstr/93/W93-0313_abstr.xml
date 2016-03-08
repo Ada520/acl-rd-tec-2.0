@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W93-0313">
+<Title>Experiences about Compound Dictionary on Computer Networks</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> This paper reports on the implementation, user interface, and experiences with the on-line dictionary system we developed. We call it Avenue. Avenue consists of several different kinds of dictionaries. Since it simultaneously searches all of its dictionaries for each query, the user does not need to specify which dictionary to search for the desired word. Japanese people usually consult several different dictionaries to look up a word. It is troublesome to find appropriate dictionary all the time. Avenue does not have this problem. Even if only one dictionary contains the word, the information will appear without fail.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-0843">
+<Title></Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+References
+</SectionTitle>
+<Paragraph position="0"> E. Crestan and M. El-Beze. 2001. Improving supervised WSD by including rough semantic features in a multi-level view of the context. Sempro 2001.</Paragraph>
+<Paragraph position="1"> M. Diab and P. Resnik. 2002. An unsupervised method for word sense tagging using parallel corpora. ACL.</Paragraph>
+<Paragraph position="2"> C. de Loupy and M. El-Beze and P.-F. Marteau. 1998. WSD based on three short context methods. Senseval Workshop.</Paragraph>
+<Paragraph position="3"> N. Ide and T. Erjavec and D. Tufis. 2001. Automatic sense tagging using parallel corpora. 6th Natural Langauge Processing Pacific Rim Symposium. J. Veronis and P. Langlais. 2000. Evaluation of parallel text alignment systems - The ARCADE project. Parallel Text Processing. Kluwer Academic Pub. L. Breiman and J. H. Friedman and R. A. Olshen and C. J. Stone. 1984. Classification and Regression Trees. Wadsworth Inc.</Paragraph>
+<Paragraph position="4"> L. Bahl and R. Bakis and P. de Souza and R. Mercer. 1988. Obtaining candidate words by polling in a large vocabulary speech recognition system. ICASP. R. DeMori and R. Kuhn. 1995. The application fo semantic classification trees to natural language understanding. IEEE transaction on PAMI.</Paragraph>
+</Section>
+</Paper>
+

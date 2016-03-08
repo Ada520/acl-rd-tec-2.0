@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P00-1074">
+<Title>Computational Linguistics Research on Philippine Languages</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This is a paper that describes computational linguistic activities on Philippines languages. The Philippines is an archipelago with vast numbers of islands and numerous languages. The tasks of understanding, representing and implementing these languages require enormous work. An extensive amount of work has been done on understanding at least some of the major Philippine languages, but little has been done on the computational aspect. Majority of the latter has been on the purpose of machine translation.</Paragraph>
+</Section>
+</Paper>
+

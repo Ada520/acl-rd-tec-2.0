@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0910">
+<Title>Ivan.P.Bretan@telia.se Robert.H.Eklund@telia.se Mats.G.Wiren@telia.se</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe two methods relevant to multi-lingual machine translation systems, which can be used to port linguistic data (grammars, lexicons and transfer rules) between systems used for processing related languages. The methods are fully implemented within the Spoken Language Translator system, and were used to create versions of the system for two new language pairs using only a month of expert effort.</Paragraph>
+</Section>
+</Paper>
+

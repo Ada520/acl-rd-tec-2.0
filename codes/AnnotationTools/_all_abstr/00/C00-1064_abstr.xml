@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-1064">
+<Title>Structural Feature Selection For English-Korean Statistical Machine Translation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> When aligning texts in very different languages such as Korean and English, structural features beyond word or phrase give useful intbrmation. In this paper, we present a method for selecting struetm'al features of two languages, from which we construct a model that assigns the conditional probabilities to corresponding tag sequences in bilingual English-Korean corpora. For tag sequence mapl)ing 1)etween two langauges, we first, define a structural feature fllnction which represents statistical prol)erties of elnpirical distribution of a set of training samples.</Paragraph>
+<Paragraph position="1"> The system, based on maximmn entrol)y coneet)t, sele(:ts only ti;atures that pro(luee high increases in log-likelihood of training salnl)les. These structurally mat)ped features are more informative knowledge for statistical machine translation t)etween English and Korean. Also, the inforum.tion can help to reduce the 1)arameter sl)ace of statisti('al alignment 1)y eliminating synta(:tically uiflikely alignmenls.</Paragraph>
+</Section>
+</Paper>
+

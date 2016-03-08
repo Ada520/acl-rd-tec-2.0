@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P00-1002">
+<Title>Generic NLP Technologies: Language, Knowledge and Information Extraction</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> We have witnessed signi#0Ccant progress in NLP applications such as information extraction #28IE#29, summarization, machine translation, cross-lingual information retrieval #28CLIR#29, etc. The progress will be accelerated by advances in speech technology, which not only enables us to interact with systems via speech but also to store and retrieve texts input via speech.</Paragraph>
+<Paragraph position="1"> The progress of NLP applications in this decade has been mainly accomplished by the rapid development of corpus-based and statistical techniques, while rather simple techniques have been used as far as the structural aspects of language are concerned.</Paragraph>
+<Paragraph position="2"> In this paper, we will discuss how we can combine more sophisticated, linguistically elaborate techniques with the current statistical techniques and what kinds of improvementwe can expect from suchanintegration of di#0Berent knowledge types and methods.</Paragraph>
+</Section>
+</Paper>
+

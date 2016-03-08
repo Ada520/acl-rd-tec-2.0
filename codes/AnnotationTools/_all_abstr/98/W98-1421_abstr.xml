@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-1421">
+<Title>Towards Multilingual Protocol Generation For Spontaneous Speech Dialogues*</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> : This paper presents a novel multi-lingual progress protocol generation module. The module is used within the speech-to--speech translation system VERBMOBIL. The task of the protocol is to give the dialogue partners a brief description of the content of their dialogue. We utilize an .abstract representation describing, for instance, thematic information and dialogue acts of the dialogue utterances. From this representation we generate simplified paraphrases of the individual turns of the dialogue which together make up the protocol. Instead of writing completely new software, the protocol generation component is almost exclusively composed of already existing modules in the system which are extended by planning and formatting routines for protocol formulations. We describe how the abstract information is extracted from user utterances in different languages and how the abstract thematic representation is used to generate a protocol in one specific language. Future directions are given.</Paragraph>
+</Section>
+</Paper>
+

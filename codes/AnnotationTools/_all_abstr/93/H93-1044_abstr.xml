@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H93-1044">
+<Title>Session 8: Statistical Language Modeling</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> Over the past several years, the successful application of statistical techniques in natural language processing has penetrated further and further into written language technology, proceding with time from the periphery of written language processing into deeper and deeper aspects of language processing. At the periphery of natural language understanding, Hidden Markov Models were first applied over ten years ago to the problem of determining part of speech (POS). HMM POS taggers have yielded quite good results for many tasks (96%+ correct, on a per word basis), and have been widely used in written language systems for the last several years. A little closer in from the periphery, extensions to probabilistic context free parsing (PCFG) methods have greatly increased the accuracy of probabilistic parsing methods within the last several years; these methods condition the probabilities of standard CFG rules on aspects of extended lingustic context. Just within the last year or two, we have begun to see the first applications of statistical methods to the problem of word sense determination and lexical semantics. It is worthy of note that the first presentation of a majority of these techniques has been within this series of Workshops sponsored by ARPA.</Paragraph>
+<Paragraph position="1"> It is a measure of how fast this field is progressing that a majority of papers in this session, six, are on lexical semantics, an area where the effective application of statistical techniques would have been unthinkable only a few years ago. One other paper addresses the question of how a POS tagger can be built using very limited amounts of training data, another presents a method for finding word associations and two others address various aspects of statistical parsing.</Paragraph>
+</Section>
+</Paper>
+

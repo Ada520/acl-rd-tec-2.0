@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P04-1022">
+<Title>Collocation Translation Acquisition Using Monolingual Corpora</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Collocation translation is important for machine translation and many other NLP tasks.</Paragraph>
+<Paragraph position="1"> Unlike previous methods using bilingual parallel corpora, this paper presents a new method for acquiring collocation translations by making use of monolingual corpora and linguistic knowledge. First, dependency triples are extracted from Chinese and English corpora with dependency parsers. Then, a dependency triple translation model is estimated using the EM algorithm based on a dependency correspondence assumption. The generated triple translation model is used to extract collocation translations from two monolingual corpora. Experiments show that our approach outperforms the existing monolingual corpus based methods in dependency triple translation and achieves promising results in collocation translation extraction.</Paragraph>
+</Section>
+</Paper>
+

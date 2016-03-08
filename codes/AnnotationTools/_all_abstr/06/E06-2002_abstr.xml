@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E06-2002">
+<Title>A Web-based Demonstrator of a Multi-lingual Phrase-based Translation System</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a multi-lingual phrase-based Statistical Machine Translation system accessible by means of a Web page. The user can issue translation requests from Arabic, Chinese or Spanish into English. The same phrase-based statistical technology is employed to realize the three supported language-pairs. New language-pairs can be easily added to the demonstrator. The Web-based interface allows the use of the translation system to any computer connected to the Internet.</Paragraph>
+</Section>
+</Paper>
+

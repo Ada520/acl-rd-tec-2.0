@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P84-1073">
+<Title>LR Pa rse rs For Natural Languages,</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> MLR, an extended LR parser, is introduced, and its application to natural language parsing is discussed.</Paragraph>
+<Paragraph position="1"> An LR parser is a ~;hift-reduce parser which is doterministically guided by a parsing table. A parsing table can be obtained automatically from a context-free phrase structure grammar. LR parsers cannot manage antl)iguous grammars such as natural language grammars, because their I)arsing tables would have multiply-defined entries, which precludes deterministic parsing. MLR, however, can handle mulliply-defined entries, using a dynamic programnting method. When an input sentence is ambiguous, the MI.R parser produces all possible parse trees witftoul parsing any part of the input sentenc:e more than once in the same way, despite the fact that the parser does not maintain a chart as in chart par~ing. Our method also prnvkles an elegant solution to the problem of multi-part-of-speech words such as &amp;quot;that&amp;quot;. The MLR parser and its parsing table generator have been implemented at Carnegie-Mellon University.</Paragraph>
+</Section>
+</Paper>
+

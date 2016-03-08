@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-2237">
+<Title>Using Chunk Based Partial Parsing of Spontaneous Speech in Unrestricted Domains for Reducing Word Error Rate in Speech Recognition</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we present a chunk based partial parsing system for spontaneous, conversational speech in unrestricted domains. We show that the chunk parses produced by this parsing system can be usefully applied to the task of reranking Nbest lists from a speech recognizer, using a combination of chunk-based n-gram model scores and chunk coverage scores.</Paragraph>
+<Paragraph position="1"> The input for the system is Nbest lists generated from speech recognizer lattices. The hypotheses from the Nbest lists are tagged for part of speech, &amp;quot;cleaned up&amp;quot; by a preprocessing pipe, parsed by a part of speech based chunk parser, and rescored using a backpropagation neural net trained on the chunk based scores. Finally, the reranked Nbest lists are generated.</Paragraph>
+<Paragraph position="2"> The results of a system evaluation are promising in that a chunk accuracy of 87.4% is achieved and the best performance on a randomly selected test set is a decrease in word error rate of 0.3 percent (absolute), measured on the new first hypotheses in the reranked Nbest lists.</Paragraph>
+</Section>
+</Paper>
+

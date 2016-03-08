@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J79-1047">
+<Title>Association for Computational Linguistics k SURVEY OF SYNTACTIC ANN-YS IS PROCEDURES FOR NATURAL LANGUAGE</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+SUMMARY
+</SectionTitle>
+<Paragraph position="0"> This report includes a brief discussion of the role of automatic syntactic analysis, a survey of parsing procedures used in the analysis of natural language, and a discussion of the approaches taken to a number of difficult linguistic problems, such as conjunction and graded acceptability. It also conta'ins precise.</Paragraph>
+<Paragraph position="1"> specifications in the programming language SETL of a number of parsing algorithms, includinq several context-free parsers, a unrestricted rewriting rul e Parser, and a transformational parser.</Paragraph>
+</Section>
+</Paper>
+

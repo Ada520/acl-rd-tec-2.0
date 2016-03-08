@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J92-4005">
+<Title>and the complex feature structure: Top: Left : Right :</Title>
+<Section position="2" start_page="520" end_page="522" type="abstr">
+<SectionTitle>
+1 Shieber's definition of restriction is as follows:
+</SectionTitle>
+<Paragraph position="0"> &amp;quot;Given a relation F between paths and labels, and a dag D, we define D!F to be the most specific dag D ~ (D D D ~) such that for every path p either Dr(p) is undefined, or D~(p) is atomic, or for every l C dom(D~(p))~ p@l. That is, every path in the restricted dag is either undefined, atomic, or specifically allowed by the restrictor.&amp;quot; That definition might seem to suggest that paths that are instantiated (atom valued) are not filtered out by the restrictor. His examples demonstrate that that is not the correct interpretation of his definition. Rather, it would seem that atomic paths (i.e. 'leaves'), and not atomic-valued paths, fall through the filter.</Paragraph>
+<Paragraph position="1">  Computational Linguistics Volume 18, Number 4 the parse tree for each arc labeled g in the graph corresponding to the item recognized:  S. P. Harrison and T. M. Ellison Restriction and Termination in Parsing For this grammar, the length of the path (Tng +) in each subgraph Tn increases as one ascends the tree. Hence the term bottom-up path building is used to characterize grammars of this sort.</Paragraph>
+<Paragraph position="2"> Using the same restrictor (i.e. (cat)) employed for G1, a parser interpreting G2 will not terminate on any grammatical input. As in G1, only one active edge generated from the Rule 'recursive clause' is put on</Paragraph>
+<Paragraph position="4"> The rule 'base clause' of G2 generates the</Paragraph>
+<Paragraph position="6"> The fundamental rule then applies to E1 and E2 to yield the passive edge:</Paragraph>
+<Paragraph position="8"> and then applies to E1 and E3 to yield:</Paragraph>
+<Paragraph position="10"> and so forth, ad infinitum. Ultimately, the fundamental rule will generate a passive edge with a graph G such that G(g) = {Gi: T'(g)}, for the passive edge: (0, 1, S --', A.T, Gi) where {Gi : T'(g)} is the subgraph corresponding to the constituent T. At that point, the parser, in effect, will have parsed the input string. Nonetheless, it will continue to add new passive edges, each with a graph whose/g+/path is one arc longer than that of the passive edge from which it is generated.</Paragraph>
+<Paragraph position="11"> Bottom-up path building grammars are not without interesting linguistic applications. Consider, for example, the following PATR implementation of the append operation on lists employed in HPSG (Pollard and Sag 1987; Section 2.2):  Given the rules 'base case' and 'recursive clause,' one need only introduce a 'dummy' constituent Append (whose only function is to collect the list-valued attributes list1 and list2 in a single list), and appropriate constraints on some list-valued attribute, in order to simulate the HPSG append in PATR. Unfortunately, because these two rules are an instance of the bottom-up path building problem, no derivation employing these rules will terminate. 2</Paragraph>
+<Section position="1" start_page="522" end_page="522" type="sub_section">
+<SectionTitle>
+Solutions
+</SectionTitle>
+<Paragraph position="0"> The source of the bottom-up path building problem is the active edge E1 above, whose ~g+} path is of indeterminate length. Because the parser does not know how long that path should be, it keeps adding to it ad infinitum. Observe, however, that the parser had the required information (obtained from the (g) attribute of constituent A), but was induced by the restrictor to throw that information away.</Paragraph>
+<Paragraph position="1"> There are at least three solutions to the problem posed by bottom-up path building grammars under restriction:  1. Impose a finite limit on the path (g+}.</Paragraph>
+<Paragraph position="2"> 2. Convert the grammar to top-down path building.</Paragraph>
+<Paragraph position="3"> 3. Change the nature and implementation of restriction.</Paragraph>
+<Paragraph position="4">  We consider each of these proposals in turn in the following paragraphs. Solution 1 involves picking an arbitrary upper limit on the length of (g+}, and adding a corresponding path to the restrictor. The parser would then terminate for any input whose (g+} path length is less than or equal to that of the stipulated path. For example, a parser interpreting G2 above would terminate with the restrictor {(cat}(g g g)}. But that is a &amp;quot;Band-Aid&amp;quot; solution at best.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

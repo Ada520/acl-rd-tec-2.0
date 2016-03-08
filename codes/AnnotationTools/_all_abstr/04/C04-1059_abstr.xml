@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1059">
+<Title>Language Model Adaptation for Statistical Machine Translation with Structured Query Models</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We explore unsupervised language model adaptation techniques for Statistical Machine Translation. The hypotheses from the machine translation output are converted into queries at different levels of representation power and used to extract similar sentences from very large monolingual text collection.</Paragraph>
+<Paragraph position="1"> Specific language models are then build from the retrieved data and interpolated with a general background model. Experiments show significant improvements when translating with these adapted language models.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C02-1008">
+<Title>A Transitive Model for Extracting Translation Equivalents of Web Queries through Anchor Text Mining</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> One of the existing difficulties of cross-language information retrieval (CLIR) and Web search is the lack of appropriate translations of new terminology and proper names. Different from conventional approaches, in our previous research we developed an approach for exploiting Web anchor texts as live bilingual corpora and reducing the existing difficulties of query term translation. Although Web anchor texts, undoubtedly, are very valuable multilingual and wide-scoped hypertext resources, not every particular pair of languages contains sufficient anchor texts in the Web to extract corresponding translations in the language pair. For more generalized applications, in this paper we extend our previous approach by adding a phase of transitive (indirect) translation via an intermediate (third) language, and propose a transitive model to further exploit anchor-text mining in term translation extraction applications.</Paragraph>
+<Paragraph position="1"> Preliminary experimental results show that many query translations which cannot be obtained using the previous approach can be extracted with the improved approach.</Paragraph>
+</Section>
+</Paper>
+

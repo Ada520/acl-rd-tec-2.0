@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H91-1061">
+<Title>Evaluating Text Categorization I</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> While certain standard procedures are widely used for evaluating text retrieval systems and algorithms, the sarne is not true for text categorization. Omission of important data from reports is common and methods of measuring effectiveness vary widely.</Paragraph>
+<Paragraph position="1"> This \]'ms m~de judging the relative merits of techniques for text categorization dif~.cult and has disguised important research issues. null In this paper I discuss a variety of ways of evaluating the effectiveness of text categorization systems, drawing both on reported categorization experiments and on methods used in evaluating query-driven retrieval. I also consider the extent to which the same evaluation methods may be used with systems for text extraction, a more complex task. In evaluatlng either kind of system, the purpose for which the output is to be used is crucial in choosing appropriate evaluation methods.</Paragraph>
+</Section>
+</Paper>
+

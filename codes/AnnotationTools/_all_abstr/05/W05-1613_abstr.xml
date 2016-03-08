@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W05-1613">
+<Title>Natural Language Directed Inference in the Presentation of Ontologies</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> It is hard to come up with a general formalisation of the problem of content determination in natural language generation because of the degree of domaindependence that is involved. This paper presents a novel way of looking at a class of content determination problems in terms of a non-standard kind of inference, which we call natural language directed inference. This is illustrated through examples from a system under development to present parts of ontologies in natural language. Natural language directed inference represents an interesting challenge to research in automated reasoning and natural language processing.</Paragraph>
+</Section>
+</Paper>
+

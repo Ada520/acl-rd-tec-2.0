@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-0812">
+<Title>Senseval-3: The Italian All-words Task</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes the Italian all-words sense disambiguation task for Senseval-3. The annotation procedure and criteria together with the encoding of multiwords are presented.</Paragraph>
+</Section>
+</Paper>
+

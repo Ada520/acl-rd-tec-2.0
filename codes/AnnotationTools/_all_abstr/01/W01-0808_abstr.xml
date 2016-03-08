@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W01-0808">
+<Title>Construction of a Spanish Generation module in the framework of a General-Purpose, Multilingual Natural Language Processing System. In Proceedings of the VII</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents an overview of a robust, broad-coverage, and application-independent natural language generation system. It demonstrates how the different language generation components function within a multilingual Machine Translation (MT) system, using the languages that we are currently working on (English, Spanish, Japanese, and Chinese).</Paragraph>
+<Paragraph position="1"> Section 1 provides a system description. Section 2 focuses on the generation components and their core set of rules. Section 3 describes an additional layer of generation rules included to address application-specific issues. Section 4 provides a brief description of the evaluation method and results for the MT system of which our generation components are a part.</Paragraph>
+</Section>
+</Paper>
+

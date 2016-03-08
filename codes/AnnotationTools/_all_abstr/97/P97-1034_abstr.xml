@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P97-1034">
+<Title>Tracking Initiative in Collaborative Dialogue Interactions</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we argue for the need to distinguish between task and dialogue initiatives, and present a model for tracking shifts in both types of initiatives in dialogue interactions.</Paragraph>
+<Paragraph position="1"> Our model predicts the initiative holders in the next dialogue turn based on the current initiative holders and the effect that observed cues have on changing them. Our evaluation across various corpora shows that the use of cues consistently improves the accuracy in the system' s prediction of task and dialogue initiative holders by 2-4 and 8-13 percentage points, respectively, thus illustrating the generality of our model.</Paragraph>
+</Section>
+</Paper>
+

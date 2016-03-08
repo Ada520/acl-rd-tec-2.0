@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="M92-1038">
+<Title>University of Massachusetts : Description of the CIRCUS System a s Used for MUC-4</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+THE CIRCUS SENTENCE ANALYZER
+</SectionTitle>
+<Paragraph position="0"> CIRCUS is a conceptual analyzer that produces semantic case frame representations for input sentences .</Paragraph>
+<Paragraph position="1"> Although space does not permit us to give a full technical description of CIRCUS, we will attempt to convey som e sense of sentence analysis via CIRCUS . For more details, please consult [2] and [1].</Paragraph>
+<Paragraph position="2"> CIRCUS uses no syntactic grammar and produces no parse tree as it analyzes a sentence. Rather, it uses lexically-indexed syntactic knowledge to segment incoming text into noun phrases, prepositional phrases, and ver b phrases. These constituents are stored in global buffers that track the subjects, verbs, direct objects, and prepositiona l phrases of a sentence. Because we restrict the buffer contents to simple constituents with a highly local sense of th e sentence, larger constituents like clauses are not explicitly stored by the syntactic component of CIRCUS.</Paragraph>
+<Paragraph position="3"> While syntactic buffers are being bound to sentence fragments, a mechanism for handling predictive semantics is responsible for establishing case role assignments . Semantic case frames are activated by concept node (CN) definitions, and each CN defmition can be triggered by one or more lexical items . Associated with each slot in a CN are both hard and soft constraints . A hard constraint is a predicate that must be satisfied, while a soft constraint defines apreference rather than an absolute requirement When a CN instantiation meets certain criteria established by the CN definition, CIRCUS freezes that case frame and passes it along as output from the sentence analyzer. A single sentence can generate an arbitrary number of case frame instantiations depending on the conceptual complexit y of the sentence and the availability of relevant CN definitions in the dictionary.</Paragraph>
+<Paragraph position="4"> Because CIRCUS is designed to generate case frame representations in response to sentence fragments , ungrammatical sentences or sentences with highly complicated syntactic structures are often navigated without difficulty. CIRCUS was designed to maximize robust processing in the face of incomplete knowledge . It does not require complete dictionary coverage with respect to CN defmition or even part-of-speech recognition, so CIRCUS is especially well-suited for text extraction applications from unconstrained text . The first serious evaluation of CIRCUS took place with MUC-3, where CIRCUS posted the highest combined scores for recall and precision of al l the participating sites [3, 4, 5] .</Paragraph>
+</Section>
+</Paper>
+

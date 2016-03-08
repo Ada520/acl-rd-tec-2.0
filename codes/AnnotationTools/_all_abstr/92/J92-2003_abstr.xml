@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J92-2003">
+<Title>Feature Structures and Nonmonotonicity</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> While monotonicity is often desirable from a formal and computational perspective, it is at odds with a considerable body of linguistic work. Default principles, default rules, and default feature-values can be found in many linguistic formalisms and are used prominently in work on phonology, morphology, and syntax. In spite of their great expressive power and flexibility, unification-based grammar formalisms (see Shieber 1986a, for an introduction) are in general not very successful in modeling such devices. Unification is an information-combining, monotonic, operation on feature structures, whereas the implementation of default devices typically requires some form of nonmonotonicity. In this paper, we present a nonmonotonic operation on feature structures, which enables us to implement the effects of a number of default devices used in linguistics. As the operation is defined in terms of feature structures only, an important characteristic of unification-based formalisms, namely that linguistic knowledge is encoded in the form of feature structures, is preserved.</Paragraph>
+<Paragraph position="1"> In the next section, we present an overview of linguistic phenomena that are best described using defaults. We also argue that previous proposals for handling these phenomena in a unification-based setting are unsatisfactory. Section 3 provides the formal background for the central part of the paper, Section 4, in which a definition of default unification is presented. Section 5 briefly presents some applications of this operation and the final section draws some conclusions concerning the role of non-monotonicity in unification-based formalisms.</Paragraph>
+</Section>
+</Paper>
+

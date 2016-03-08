@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C65-1020">
+<Title>CONSTRUCTION CODE ASSOCIATED WITH M,</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> Automatic syntactic analysis is simplified by disengaging the grammatical rules, by means of a parsing logic, from the computer routines that apply them. A case in point is the John Cocke logic. It iterates on five simple parameters and finds all structures permitted by the grammar, thus testing the rules, which can then be changed without changing the routines. The rules themselves need not be ordered so far as the logic of the system is concerned. However, in operating with an IC grammar, rules for bracketing endocentric constructions must be made quite complex merely to avoid multiple analyses of unambiguous or trivially ambiguous expressions.</Paragraph>
+<Paragraph position="1"> The rules can be simplified if they are classified and if the system is provided with an additional capability for applying them in a specified order. Although an additional parameter is introduced into the system, the disengagement of grammar from routine is preserved. The additional parameter controls the direction, left-to-right or right-to-left, in which constructions are put together.</Paragraph>
+<Paragraph position="2"> The decision as to which direction should be specified is a grammatical decision, and is related to Yngve's hypothesis of asymmetry in language. It does not affect the operation of the parsing logic.</Paragraph>
+<Paragraph position="3"> Robinson 3</Paragraph>
+</Section>
+</Paper>
+

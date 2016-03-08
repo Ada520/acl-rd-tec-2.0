@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1199">
+<Title>Learning to Identify Single-Snippet Answers to Definition Questions</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a learning-based method to identify single-snippet answers to definition questions in question answering systems for document collections. Our method combines and extends two previous techniques that were based mostly on manually crafted lexical patterns and WordNet hypernyms. We train a Support Vector Machine (SVM) on vectors comprising the verdicts or attributes of the previous techniques, and additional phrasal attributes that we acquire automatically.</Paragraph>
+<Paragraph position="1"> The SVM is then used to identify and rank single 250-character snippets that contain answers to definition questions. Experimental results indicate that our method clearly outperforms the techniques it builds upon.</Paragraph>
+</Section>
+</Paper>
+

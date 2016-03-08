@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W01-1403">
+<Title>Inducing Lexico-Structural Transfer Rules from Parsed Bi-texts</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a novel approach to inducing lexico-structural transfer rules from parsed bi-texts using syntactic pattern matching, statistical co-occurrence and error-driven filtering.</Paragraph>
+<Paragraph position="1"> We present initial evaluation results and discuss future directions.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-2007">
+<Title>Lexical Ambiguity and The Role of Knowledge Representation in Lexicon Design</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The traditional framework \['or ambiguity resolution employs only 'static' knowledge, expressed generally as selectional restrictions or domain specific constraints, and makes uo use of any specific knowledge manipulation mechanisms apart from the simple ability to match valences of structurally related words. In contraust, this paper suggests how a theory of lexical semantics making use of a knowledge representation framework offers a richer, more expressive vocabulary for lexical information. In particular, by performing specialized inference over the ways in which aspects of knowledge structures of words in context c~Ln be composed, mutually compatible and contextully relevant lexieal components of words and phrases are highlighted. In the view presented here, lexical ambiguity resolution is an integral part of the same procedure that creates the semantic interpretation of a sentence itself.</Paragraph>
+<Paragraph position="1"> Keywords: lexical ambiguity, lexical semantics, compositionality, lexical organization.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J01-4006">
+<Title>Squibs and Discussions The Uncommon Denominator: A Proposal for Consistent Reporting of Pronoun Resolution Results</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> To describe the merits of new pronoun resolution tect~niques, we often compare them with previous approaches using the performance metrics precision and recall.</Paragraph>
+<Paragraph position="2"> Precision computes how well a technique did what it was designed to do, and is not at issue here. Recall is intended as a more general performance measure, yet R scores are difficult to interpret due in part to varying methods of calculating T. T includes only the pronouns that were included in the study rather than all pronouns in the data set. But since different studies consider different sorts of pronouns to be in scope, R scores from different studies are difficult to compare. Also, since the pronouns in scope for a study might represent a large or small percentage of the pronouns in the corpus, R reveals little about a technique's utility for the general problem of pronoun resolution.</Paragraph>
+<Paragraph position="3"> This paper proposes a new reporting format and a new performance measure to supplement R and P. Pronoun resolution studies differ in many respects, such as the method of calculating C and the underlying semantic assumptions, and this proposal does not address ways to make the studies themselves more consistent (for discussion of these issues, see Walker 1989, van Deemter and Kibble 1999, Mitkov 2000). Instead, we propose a reporting format that clarifies the details of a study's test data (especially those details that tend to differ between studies) and explicitly derives the numbers used to compute performance measures.</Paragraph>
+</Section>
+</Paper>
+

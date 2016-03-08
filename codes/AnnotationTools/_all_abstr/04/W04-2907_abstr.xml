@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-2907">
+<Title>tioning: Low latency real-time broadcast news tran-</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Much of the massive quantities of digitized data widely available, e.g., text, speech, hand-written sequences, are either given directly, or, as a result of some prior processing, as weighted automata. These are compact representations of a large number of alternative sequences and their weights reflecting the uncertainty or variability of the data. Thus, the indexation of such data requires indexing weighted automata.</Paragraph>
+<Paragraph position="1"> We present a general algorithm for the indexation of weighted automata. The resulting index is represented by a deterministic weighted transducer that is optimal for search: the search for an input string takes time linear in the sum of the size of that string and the number of indices of the weighted automata where it appears. We also introduce a general framework based on weighted transducers that generalizes this indexation to enable the search for more complex patterns including syntactic information or for different types of sequences, e.g., word sequences instead of phonemic sequences. The use of this framework is illustrated with several examples.</Paragraph>
+<Paragraph position="2"> We applied our general indexation algorithm and framework to the problem of indexation of speech utterances and report the results of our experiments in several tasks demonstrating that our techniques yield comparable results to previous methods, while providing greater generality, including the possibility of searching for arbitrary patterns represented by weighted automata. null</Paragraph>
+</Section>
+</Paper>
+

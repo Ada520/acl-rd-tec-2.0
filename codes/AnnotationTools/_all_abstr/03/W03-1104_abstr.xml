@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-1104">
+<Title>A Differential LSI Method for Document Classification</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We have developed an effective probabilistic classifier for document classification by introducing the concept of the differential document vectors and DLSI (differential latent semantics index) spaces. A simple posteriori calculation using the intra- and extra-document statistics demonstrates the advantage of the DLSI space-based probabilistic classifier over the popularly used LSI space-based classifier in classification performance.</Paragraph>
+</Section>
+</Paper>
+

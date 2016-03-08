@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H93-1070">
+<Title>The Importance of Proper Weighting Methods</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> The importance of good weighting methods in information retrieval -- methods that stress the most useful features of a document or query representative -- is examined. Evidence is presented that good weighting methods are more important than the feature selection process and it is suggested that the two need to go hand-in-hand in order to be effective. The paper concludes with a method for learning a good weight for a term based upon the characteristics of that term.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C88-1051">
+<Title>The Success of Failure The concept of failure in dialogue logics and its relevance for NL-semantics</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we present a new interpretation of failure, a concept to which a lot of attention is being paid in the field of artificial intelligence research, especially due to the rise of the programming language PROLOG that treats negation as procedural failure. Our interpretation of failure, however, does not originate from research in the foundations of PROLOG. We present it here as an outcome of research on so-called dialogue logics, a tradition in logic research that envisages a logical proof as a formaliz~ed discussion between conflicting parties. Systems of formalized discussion that show the same logical behaviour as standard logical systems can be build. We show how such a system with additional fall operator can be used for the treatment of phenomena that are also relevant for natural language discourse. In the paper the following will be analyzed: negative questions, the paradox of the small number, and conditionals.</Paragraph>
+</Section>
+</Paper>
+

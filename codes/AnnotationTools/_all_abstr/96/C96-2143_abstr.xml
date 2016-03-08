@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-2143">
+<Title>A Computational Model for Generating Referring Expressions in a Multilingual Application Domain</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we analyse the problem of generating referring expressions in a multilingnal generation system that produces instructions on how to fill out pension forms. The model we propose is an implementation of the theoretical investigations of Martin and is based on a clear representation of the knowledge sources and choices that contribute to the identification of the most appropriate linguistic expressions. To cope effectively with pronominalization we propose to augment the Centering Model with mechanisms exploiting the discourse structure. At every stage of the referring expressions generation process issues raised by multilinguality are considered and dealt with by means of rules customized with respect to the output language.</Paragraph>
+</Section>
+</Paper>
+

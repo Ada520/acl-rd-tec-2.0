@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-0912">
+<Title>tions of Pragmatic Principles: Implications for Theories of Linguistic and Cognitive Representation. Jan Nuyts and Eric Pederson. Language and</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> One main problem for NLP applications is that natural language expressions are underspecified and require enrichments of different sorts to get a truth-conditional interpretaton in context. Underspecification applies on two levels: what is said underdetermines what is meant, and linguistic meaning underspecifies what is said. One instance of this phenomenon is aspect in Russian, especially the imperfective one. It gives rise to a variety of readings, which are difficult to capture by one invariant meaning. Instead, the imperfective aspect is sense-general; its meaning has to be specified in the course of interpretation by contextual cues and pragmatic inferences. This paper advocates an account of the different imperfective readings in terms of pragmatic principles and inferential heuristics based on, and supplied by, a semantic skeleton consisting of a 'selectional theory' of aspect. This framework might serve as basis for a rule-guided derivation of aspectual readings in Russian.</Paragraph>
+</Section>
+</Paper>
+

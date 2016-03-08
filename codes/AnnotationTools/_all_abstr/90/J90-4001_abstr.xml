@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J90-4001">
+<Title>ANAPHORA RESOLUTION IN SLOT GRAMMAR</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ANAPHORA RESOLUTION IN SLOT GRAMMAR
+</SectionTitle>
+<Paragraph position="0"> Shalom Lappin and Michael McCord IBM T. J. Watson Research Center P.O.B. 704 Yorktown Heights, NY 10598 We present three algorithms for resolving anaphora in Slot Grammar: (1) an algorithm for interpreting elliptical VPs in antecedent-contained deletion structures, subdeletion constructions, and intersentential cases; (2) a syntactic filter on pronominal coreference; and (3) an algorithm for identifying the binder of an anaphor (reflexive pronoun or the reciprocal phrase &amp;quot;each other&amp;quot;). These algorithms operate on the output of a Slot Grammar parser, and, like the parser, they run in Prolog. The VP anaphora algorithm implements an S-structure analysis of VP ellipsis that we argue provides a more unified and empirically motivated treatment of VP anaphora resolution than analyses that attempt to interpret elliptical VPs at a level of logical form. Each algorithm can operate independently of the others, and we have incorporated each into an integrated anaphora resolution component. The interpreted elliptical VP structures that the VP anaphora algorithm produces provide the input to the two NP anaphora resolution procedures. The integrated anaphora resolution component provides a powerful syntactically driven module for generating partially interpreted representations that can serve as input to semantic and discourse interpretation systems.</Paragraph>
+</Section>
+</Paper>
+

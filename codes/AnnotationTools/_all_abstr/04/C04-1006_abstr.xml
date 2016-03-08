@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1006">
+<Title>Improved Word Alignment Using a Symmetric Lexicon Model</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Word-aligned bilingual corpora are an important knowledge source for many tasks in natural language processing. We improve the well-known IBM alignment models, as well as the Hidden-Markov alignment model using a symmetric lexicon model. This symmetrization takes not only the standard translation direction from source to target into account, but also the inverse translation direction from target to source. We present a theoretically sound derivation of these techniques. In addition to the symmetrization, we introduce a smoothed lexicon model. The standard lexicon model is based on full-form words only. We propose a lexicon smoothing method that takes the word base forms explicitly into account. Therefore, it is especially useful for highly inflected languages such as German. We evaluate these methods on the German-English Verbmobil task and the French-English Canadian Hansards task.</Paragraph>
+<Paragraph position="1"> We show statistically significant improvements of the alignment quality compared to the best system reported so far. For the Canadian Hansards task, we achieve an improvement of more than 30% relative. null</Paragraph>
+</Section>
+</Paper>
+

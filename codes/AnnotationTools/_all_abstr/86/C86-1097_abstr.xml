@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C86-1097">
+<Title>CRITAC- A JAPANESE TEXT PROOFREADING SYSTEM</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> CRITAC (CRITiquing using ACcumulated knowledge) is an experimental expert system for proofreading Japanese text.</Paragraph>
+<Paragraph position="1"> It detects mistypes, Kana-to-Kanji misconversions, and stylistic errors. This system combines Prolog-coded heuristic knowledge with conventional Japanese text processing techniques which involve heavy computation and access to large language databases.</Paragraph>
+</Section>
+</Paper>
+

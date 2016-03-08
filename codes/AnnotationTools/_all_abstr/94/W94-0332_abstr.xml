@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W94-0332">
+<Title>Representing Conceptual and Linguistic Knowledge for Multi-Lingual Generation in a Technical Domain</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We report on a head-driven way to generate a language-specific representation for a language-independent conceptual structure. With a grammar oriented towards conceptual rather than phrasal structure, the approach shows some advant~ages over previous works in head-driven generation. ~It is particularly suited for multi-lingual generation systems where language-independent representations andlprocesses should be maintained to a maximum extent. We briefly sketch the architecture of our Genie system based on some results of an analysis of a technical manual for a gearbox.</Paragraph>
+<Paragraph position="1">  i I I Comb inatory Thematic info (from textspee) I I rules I ~ Sentence objects: I Texts: r and spec&amp;quot; I -- I prOcessOr I ~ English.,-,~, surface form ~ English I Cdegntent/ ~English and I descrip--\] tions~ &amp;quot;~dish categories Conceptual ~ Conceptual t~nceptual rules knowledgebase ~ processor l--'~and lexicon</Paragraph>
+</Section>
+</Paper>
+

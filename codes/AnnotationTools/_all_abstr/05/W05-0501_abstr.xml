@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W05-0501">
+<Title>The Input for Syntactic Acquisition: Solutions from Language Change Modeling</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Sparse data is a well-known problem for any probabilistic model. However, recent language acquisition proposals sugest that the data children learn from is heavily restricted - children learn only from unambiguous trigers (Fodor 198, Dresher 199, Lightfoot 199) and degree-0 data (Lightfoot 191).</Paragraph>
+<Paragraph position="1"> Surprisingly, we show that these conditions are a necessary feature of an accurate language acquisition model. We test these predictions indirectly by developing a mathematical learning and language change model inspired by Yang's (203, 200) insights. Our logic is that, besides accounting for how children acquire the adult grammar so quickly, a viable acquisition proposal must also be able to account for how populations change their grammars over time. The language change we examine is the shift in Old English from a strongly Object-Verb (OV) distribution to a strongly Verb-Object (VO) distribution between 100 A.D. and 120 A.D., based on data from the YCOE Corpus (Taylor et al. 203) and the PPCME2 Corpus (Kroch &amp; Taylor 200). Grounding our simulated population with these historical data, we demonstrate that these acquisition restrictions seem to be both sufficient and necessary for an Old English population to shift its distribution from strongly OV to strongly VO at the right time.</Paragraph>
+</Section>
+</Paper>
+

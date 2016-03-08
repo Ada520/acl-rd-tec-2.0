@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C86-1092">
+<Title>Per~: Idngw for Parsing and ~ Transfer</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> PeriPhrase is a high-level computer language developed by A.L.P. Systems to facilitate parsing and structural transfer. It is designed to speed the development of cc~puter-assisted translation systems and grammar checkers. We describe the syntax and semantics of this tool, its integrated development environment, and some of our experience with it.</Paragraph>
+<Paragraph position="1"> I. IntroductiGn Up to 80% of the time needed to develop a new language pair for coni0uter translation is spent in writing source-language analysis and transfer programs. The PeriPhrase language and development environment were created to allow a computational linguist to write such programs more quickly, using high-level rules that are easily written, read, and debugged.</Paragraph>
+<Paragraph position="2"> The syntax of PeriPhrase was heavily influenced by its predecessor &amp;quot;PHRASE,&amp;quot; which in turn borrowed from BNF, rule-based programming languages like PROLOG, and expert systems. There are obvious similarities to PARSIFAl., Marcus ' Deterministic Parser, and many ot/ler projects. It is perhaps true that few of the individual features of the language originated with us. However, we believe the synthesis of these features together with a very powerful debugging environment to be unique and significant, reflecting the practical needs of coni0utational linguists building large commercial systems.</Paragraph>
+</Section>
+</Paper>
+

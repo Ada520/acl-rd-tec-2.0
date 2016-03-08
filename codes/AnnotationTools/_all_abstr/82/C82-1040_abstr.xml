@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C82-1040">
+<Title>A Parser Which Learns the Application Order of Rewriting Rules</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+0. Introduction
+</SectionTitle>
+<Paragraph position="0"> The efficiency of syntactic analysis by using a set of rewriting rules is greatly influenced by the order or the arrangement of the rules for the application. There are some trials which subdivide the set of rules into subsets and specify the sequence of rule applications, thus avoiding the useless rule applicagions \[i\]. But the subdivision of the rule set and the specification of the sequence of rule applications are not so easy for the establishment of the most efficient analysis system.</Paragraph>
+<Paragraph position="1"> We have developed a rewriting rule system which can manipulate arbitrary list of trees. The control mechanism of this system can adjust the weight of the rewriting rules, and can analyze the most plausible sentential structure f t, thus realizing the fast syntact analysis. The system learns (so to s\[ ) the weight of importance of the reutiting rules during the analysis of~ input sentences.</Paragraph>
+<Paragraph position="2"> I. Objectives of the Parser We designed a new syntactic analysis system (a parser) with the following objectives.</Paragraph>
+<Paragraph position="3"> (i) The function of rewriting rules must be powerful enough to handle a list of trees and to express transformational rules, (2) All the possible sentential structures must be obtained for an input sentence in the sequence that the most plausible one is analyzed first.</Paragraph>
+<Paragraph position="4">  (3) The analysis must be efficient enough for practical applications.</Paragraph>
+<Paragraph position="5"> (4) The syntactic parser must have a  learning mechanism as to the application sequences of rewriting rules to obtain the efficiency of analysis.</Paragraph>
+</Section>
+</Paper>
+

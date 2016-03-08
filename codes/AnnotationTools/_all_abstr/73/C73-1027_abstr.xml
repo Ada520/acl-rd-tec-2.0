@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C73-1027">
+<Title>AN ENGLISH DICTIONARY FOR COMPUTERIZED SYNTACTIC AND SEMANTIC PROCESSING SYSTEMS</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+AN ENGLISH DICTIONARY
+FOR
+COMPUTERIZED SYNTACTIC AND SEMANTIC
+PROCESSING SYSTEMS
+1. INTRODUCTION
+</SectionTitle>
+<Paragraph position="0"> R. F. SIMMONS (1970) and M. PA~AK and A. W. PRATT (1971) point out that no computerized system using natural language either as part of the processor or as the object processed and having a syntactico-semantic component has a lexicon of more than a few hundred items (except for the SNOV' s medical lexicon). It is obvious from the lack * of success of large-scale computerized systems using natural language data that better solutions will be reached if these systems have a large lexicon as an integra.1 component. Our purpose is to build a large scale dictionary 1 of English which will incorporate important recent research into language structure and which will have the potential of being used either as part of a computerized natural language-using system or as a large data base, itself a source for further syntactico-semantic studies.</Paragraph>
+<Paragraph position="1"> There are a number of specific problems that anyone who constructs a large-scale computerized dictionary must resolve. First, as discussed in B,. N. SMITH (1972) and P. B. GovE (1972), a computerized dictionary must incorporate additional types of data than is available in standard dictionaries. Since standard dictionaries and some of their computerized counterparts define words in terms of other words, they are of necessity circular. In addition, the efficiency of any system will depend on the size and form of the dictionary. Any usable large-scale dictionary of English probably would have to contain at least 200,000 entries (including inflected forms).</Paragraph>
+<Paragraph position="2">  If each entry is defined as in a standard dictionary with, say, 20 words used in the definition then there must be storage for 4,000,000 words.</Paragraph>
+<Paragraph position="3"> In addition if, as has been proposed in N. CHOMSlIY (1965), each entry has syntactico-semantic features attached we will encounter a similar problem: entries probably need on the average 20 features to specify them. Finally, when words are arbitrarily stored in computer systems, with pointers directing the search from word to word (cf. M. R. QmL-LIAN, 1968), the search algorithm can be long.</Paragraph>
+<Paragraph position="4"> With all of these problems in mind, we have defined a theoretical model which we expect will eliminate or substantially reduce these very real limitations of computerized dictionaries discussed above. The purpose of our research is to implement the scheme, so that it may be used in artificial intelligence systems; as a data base for computer assisted instruction systems (e.g. PLATO), and as a tool for lexical testing (cf.</Paragraph>
+<Paragraph position="5"> J. OLNEY, D. R.aMSEY, 1972) and information retrieval (e.g. cf. C.</Paragraph>
+<Paragraph position="6"> SALTON, 1971; W. A. WOODS, 1972).</Paragraph>
+</Section>
+</Paper>
+

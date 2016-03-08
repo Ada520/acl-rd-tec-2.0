@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-1114">
+<Title>Improving Document Clustering by Utilizing Meta-Data*</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we examine how to improve the precision and recall of document clustering by utilizing meta-data.</Paragraph>
+<Paragraph position="1"> We use meta-data through NewsML tags to assist clustering and show that this approach is effective through experiments on sample news data. Experimental result shows that clustering using NewsML could improve average recall and precision over the same without using NewsML by about 10%. Our algorithm facilitates effective e-business for the news media and publishing industry to empower e-business.</Paragraph>
+<Paragraph position="2">  Introduction Nowadays, people have great demand on knowledge and information, while information overload becoming one serious problem. News media and publishing industry therefore try to suit customers' need by using electronic information management system. Document clustering algorithm has been introduced to group similar documents together for easier searching and reading. Document clustering algorithm has been widely used in news media and publishing industry, which ensured it effectiveness over manual clustering. With labor cost reduced and time saved, document clustering algorithm provides convenient clustered-news for users.</Paragraph>
+<Paragraph position="3"> To improve the accuracy of document clustering algorithm, we suggest to provide more flexible information for each document. Under the hypothesis that document clustering algorithm can get better result with more information about data used, we suggest that using additional meta-data contained in NewsML standard could enhance the performance of document clustering algorithms. We evaluated the effectiveness of using meta-data in the proposed clustering algorithm. We used Chinese electronic news sources for the evaluation. The experiment showed that using the meta-data provided by NewsML achieved better document clustering.</Paragraph>
+<Paragraph position="4"> The remaining of the paper is organized as follows: In Section 2, we give an overview of current document clustering approaches. Section 3, analyses existing problems in document clustering and suggests a solution using NewsML. We show the tags that could be used in the algorithm and how they are handled. The performance of algorithm through experiments, and we will present the experimental results regarding measures in precision and recall. In Section 5, we include a brief summary and discussion on future work.</Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+Current Approaches
+</SectionTitle>
+<Paragraph position="0"> Different document clustering methods have been examined. These conventional clustering methods mainly consist of two parts: construction of a similarity matrix between documents and formulation of clustering algorithm to generate clusters.</Paragraph>
+</Section>
+<Section position="2" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+Similarity Matrix
+</SectionTitle>
+<Paragraph position="0"> The first step of conventional clustering method is to construct a similarity matrix between these documents so as to understand how documents are similar to one another. The constructed similarity matrix will later be used by the clustering algorithm for generating clusters.</Paragraph>
+<Paragraph position="1">  2001) is one of the widely used approaches for constructing a similarity matrix. Named Entities form the major components in a document. When fundamental entities like Person, Company and Geographical names are detected, the algorithm could understand the content of a document to a certain extent.</Paragraph>
+<Paragraph position="2"> Named entity method has also been investigated together with keywords to perform clustering (Lam, Meng, Wong and Yen, 2001). The similarity score is calculated based on the named entity vectors and the keyword vector with weighting parameters to control the degree of emphasis on the corresponding vectors.</Paragraph>
+<Paragraph position="3"> Concept terms method (Wong, Lam and Yen, 1999) has been proposed in order to deal with the problem of vocabulary switching. The potentially concept terms are basically the keywords derived from a separated concept generation corpus. Concept terms are selected based on the co-occurrence between a query and a document.</Paragraph>
+<Paragraph position="4"> However, named entities approach and concept terms approach contain some limitations: The accuracy of the clustering algorithm would be directly proportional to the accuracy of algorithm. Thus, any error from identifications of named entities or concept terms will adversely affect the quality of the clustering algorithm as well.</Paragraph>
+<Paragraph position="5"> N-gram Algorithm (Lee, Cho and Park, 1999) has been introduced in order to avoid the aforementioned limitations. An N-gram is a character sequence of length N extracted from a document.</Paragraph>
+<Paragraph position="6"> The main idea of the N-gram approach is that the character structure of a term can be used to find semantically similar terms. The approach assumes no prior linguistic knowledge about the text being processed. Moreover, there is no language-specific information used in the N-grams approach, which qualifies this method as a language-independent approach. By using N-grams, frequently appeared terms of each document can be extracted and compared to make the similarity measure.</Paragraph>
+</Section>
+<Section position="3" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+2.2 Clustering Algorithm
+</SectionTitle>
+<Paragraph position="0"> Probabilistic method is one of the commonly used methods in document clustering. The aim of probabilistic method is to minimize the heterogeneity in each group with respect to the group representative based on statistical approaches (Estivill-Castro and Yang, 2001). Neural network is also used to perform a cyclic learning process for clustering (Grothkopf, Andernach and Stevens-Rayburn, 1998).</Paragraph>
+<Paragraph position="1"> Hierarchical clustering methods include group-average clustering algorithm and single-link clustering algorithm (Johnson and Kargupta, 2000; Tombros, Villa and Van Rijsbergen, 2002).</Paragraph>
+<Paragraph position="2"> Group average clustering is based on creating a hierarchical tree by initially creating a singleton cluster for each document. The clusters are merged to the parent node until the algorithm goal is achieved. The algorithm merges document pairs in the resulting clusters by merging clusters in a greedy, bottom-up fashion. A divide-and-conquer strategy can be used to balance the cluster quality and computational efficiency.</Paragraph>
+<Paragraph position="3"> The basic steps of group-average clustering algorithm are like this: On each iteration, it first divides the current pool of clusters into evenly sized buckets. Group-average clustering is then applied to each bucket locally, merging smaller clusters into larger ones. The time complexity for the algorithm is O(kn), where k is bucket size and n is the number of documents.</Paragraph>
+<Paragraph position="4"> Single link clustering (Dunlop, 2000), on the other hand, is based on creating a hierarchical tree by continually inserting an additional node that satisfies the following criteria:  - The new node is currently outside the hierarchy null - Of all similarities between nodes inside and  outside the hierarchy, the new node which has the strongest similarity is selected. It is then added to the hierarchy at a level based on how strong the similarity is.</Paragraph>
+<Paragraph position="5"> The approach is fairly fast and result in hierarchies where the closest nearest neighbours are at lower levels of the hierarchy. However, it leads to non-balanced clusters, and many node-node comparisons can have the same strength of similarity thus many documents can be linked at the same level in the hierarchy.</Paragraph>
+<Paragraph position="6"> The accuracy of the above conventional clustering method, however, is generally low. Therefore a new approach is proposed.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-0226">
+<Title>Bridging the Gap Between Dialogue Management and Dialogue Models</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Why do few working spoken dialogue systems make use of dialogue models in their dialogue management? We find out the causes and propose a generic dialogue model. It promises to bridge the gap between practical dialogue management and (pattern-based) dialogue model through integrating interaction patterns with the underling tasks and modeling interaction patterns via utterance groups using a high level construct different from dialogue act.</Paragraph>
+</Section>
+</Paper>
+

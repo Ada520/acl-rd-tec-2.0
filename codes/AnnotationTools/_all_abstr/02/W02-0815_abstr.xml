@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-0815">
+<Title></Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+References
+</SectionTitle>
+<Paragraph position="0"> 1 S. Atkins. 1992. Tools for corpus-aided lexicography: the HECTOR project. Acta Linguistica Hungarica, 41:5--72.</Paragraph>
+<Paragraph position="1"> 2 Bran Boguraev , Ted Briscoe, Large lexicons for natural language processing: utilising the grammar coding system of LDOCE, Computational Linguistics, v.13 n.3-4, July-December 1987 3 Ted Briscoe , John Carroll, Automatic extraction of subcategorization from corpora, Proceedings of the fifth conference on Applied natural language processing, p.356-363, March 31-April 03, 1997, Washington, DC 4 G. Carroll and M. Rooth. 1998. Valence induction with a head-lexicalized PCFG. In 3rd Conference on Empirical Methods in Natural Language Processing.</Paragraph>
+<Paragraph position="2"> 5 Bonnie J. Dorr, Large-Scale Dictionary Construction for ForeignLanguage Tutoring and Interlingual Machine Translation, Machine Translation, v.12 n.4, p.271-322, 1997 6 Ralph Grishman , Catherine Macleod , Adam Meyers, Comlex Syntax: building a computational lexicon, Proceedings of the 15th conference on Computational linguistics, August 05-09, 1994, Kyoto, Japan 7 A. Kilgarriff. 1998. SENSEVAL: An exercise in evaluating word sense disambiguation programs. In Proceedings of LREC, pages 581--588.</Paragraph>
+<Paragraph position="3"> 8 A. Korhonen. 2002. Subcategorization Acquisition. Ph.D. thesis, University of Cambridge.</Paragraph>
+<Paragraph position="4"> 9 S. Kurohashi. 2002. SENSEVAL-2 Japanese translation task. In Proceedings of SENSEVAL-2: Second International Workshop on Evaluating Word Sense Disambiguating Systems.</Paragraph>
+<Paragraph position="5"> 10 G. Leech. 1992. 100 million words of English: the British National Corpus. Language Research, 28(1):1--13.</Paragraph>
+<Paragraph position="6"> 11 B. Levin. 1993. English Verb Classes and Alternations. Chicago University Press.</Paragraph>
+<Paragraph position="7"> 12 Christopher D. Manning , Hinrich Schtze, Foundations of statistical natural language processing, MIT Press, Cambridge, MA, 1999 13 G. Miller, R. Beckwith, C. Felbaum, D. Gross, and K. Miller. 1990. Introduction to WordNet: An on-line lexical database. Journal of Lexicography, 3(4):235--244. 14 J. Preiss, A. Korhonen, and T. Briscoe. 2002. Sub-categorization acquisition as an evaluation method for WSD. In Proceedings of LREC.</Paragraph>
+<Paragraph position="8"> 15 D. Roland and D. Jurafsky. 2001. Verb sense and verb subcategorization probabilities. In S. Stevenson and P. Merlo, editors, The Lexical Basis of Sentence Processing: Formal, Computational, and Experimental Issue. Cambridge University Press, Jon Benjamins, Amsterdam. To appear. 16 Douglas Roland , Daniel Jurafsky , Lise Menn , Susanne Gahl , Elizabeth Elder , Chris Riddoch, Verb subcategorization frequency differences between business-news and balanced corpora: the role of verb sense, Proceedings of the workshop on Comparing corpora, p.28-34, October 07-07, 2000, Hong Kong 17 Anoop Sarkar , Daniel Zeman, Automatic extraction of subcategorization frames for Czech, Proceedings of the 18th conference on Computational linguistics, July 31-August 04, 2000, Saarbrcken, Germany</Paragraph>
+</Section>
+</Paper>
+

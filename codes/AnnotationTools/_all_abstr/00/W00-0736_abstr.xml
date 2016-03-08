@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-0736">
+<Title>Phrase Parsing with Rule Sequence Processors: an Application to the Shared CoNLL Task</Title>
+<Section position="2" start_page="161" end_page="161" type="abstr">
+<SectionTitle>
+3 Chunking with the
+</SectionTitle>
+<Paragraph position="0"></Paragraph>
+<Section position="1" start_page="161" end_page="161" type="sub_section">
+<SectionTitle>
+Hand-Engineered System
+</SectionTitle>
+<Paragraph position="0"> As a point of comparison, we also applied our hand-engineered chunker to the CoNLL task.</Paragraph>
+<Paragraph position="1"> We expected that it would not perfbrm at its best on this task, since it was designed with a significantly different model of chunking in mind, and indeed, unmodified, it produced disappointing results: accuracy precision recall\[ Ffl- 1 84 80 75 \[ 77 The magnitude of our error term was something of a surprise. With production runs on standard newswire stories (several hundred words in lengths) the chunker typically produces fewer errors per story than one can count on one hand. The discrepancy with the results measured on the CoNLL task is of course due to the fact that our manually engineered parser was designed to produce chunks to a different standard.</Paragraph>
+<Paragraph position="2"> The standard was carefully defined so as to be maximally informative to downstream processing. Generally speaking, this means that it tends to make distinctions that are not made in the CoNLL data, e.g., splitting verbal runs such as &amp;quot;failed to realize&amp;quot; into individual verb groups when more than one event is denoted.</Paragraph>
+<Paragraph position="3"> Our curiosity about these discrepancies is now piqued. As a point of further investigation, we intend to apply the phraser's training procedure to adapt the manual chunker to the CoNLL task. With transformation-based rule sequences, this is easy to do: one merely trains the procedure to transform the output required  for the one task into that required for the other. The rules acquired in this way are then simply tacked on to the end of the original rule sequence (a half dozen such rules written by hand bring the performance of the chunker up to F=82, for example).</Paragraph>
+<Paragraph position="4"> A more interesting point of investigation, however, would be to analyze the discrepancies between current chunk standards from the standpoint of syntactic and semantic criteria. We look forward to reporting on this at some future point.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

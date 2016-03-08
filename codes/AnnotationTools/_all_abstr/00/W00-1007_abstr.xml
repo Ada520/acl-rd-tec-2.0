@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-1007">
+<Title>Abstract Anaphora Resolution in Danish</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper 1 I describe the use of Danish pronouns and deictics in dialogues. Then I present an adaptation to Danish of Eckert and Strube's algorithm for resolving anaphora referring to individual NPs and abstract objects in English dialogues (Eckert and Strube, 1999b; Eckert and Strube, 1999a).</Paragraph>
+<Paragraph position="1"> The adapted algorithm is tested on four Danish dialogues from two dialogue collections and the results obtained are evaluated.</Paragraph>
+</Section>
+</Paper>
+

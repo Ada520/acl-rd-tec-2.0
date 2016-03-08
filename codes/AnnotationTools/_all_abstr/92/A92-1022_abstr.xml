@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A92-1022">
+<Title>References</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The availability of large files of manuallyreviewed parse trees from the University of Pennsylvania &amp;quot;tree bank&amp;quot;, along with a program for comparing system-generated parses against these &amp;quot;standard&amp;quot; parses, provides a new opportunity for evaluating different parsing strategies. We discuss some of the restructuring required to the output of our parser so that it could be meaningfully compared with these standard parses. We then describe several heuristics for improving parsing accuracy and coverage, such as closest attachment of modifiers, statistical grammars, and fitted parses, and present a quantitative evaluation of the improvements obtained with each strategy.</Paragraph>
+</Section>
+</Paper>
+

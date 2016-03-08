@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E06-1026">
+<Title>Latent Variable Models for Semantic Orientations of Phrases</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We propose models for semantic orientations of phrases as well as classification methods based on the models. Although eachphraseconsistsofmultiplewords, the semantic orientation of the phrase is not a mere sum of the orientations of the component words. Some words can invert the orientation. In order to capture the prop-erty of such phrases, we introduce latent variables into the models. Through experiments, we show that the proposed latent variable models work well in the classification of semantic orientations of phrases and achieved nearly 82% classification accuracy. null</Paragraph>
+</Section>
+</Paper>
+

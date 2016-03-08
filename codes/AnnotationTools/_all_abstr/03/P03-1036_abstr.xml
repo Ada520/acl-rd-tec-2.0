@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P03-1036">
+<Title>Unsupervised Segmentation of Words Using Prior Distributions of Morph Length and Frequency</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a language-independent and unsupervised algorithm for the segmentation of words into morphs. The algorithm is based on a new generative probabilistic model, which makes use of relevant prior information on the length and frequency distributions of morphs in a language. Our algorithm is shown to out-perform two competing algorithms, when evaluated on data from a language with agglutinative morphology (Finnish), and to perform well also on English data.</Paragraph>
+</Section>
+</Paper>
+

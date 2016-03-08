@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-0107">
+<Title>A Measure of Semantic Complexity for Natural Language Systems</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper will describe a way to organize the salient objects, their attributes, and relationships between the objects in a given domain. This organization allows us to assign an information value to each collection, and to the domain as a whole, which corresponds to the number of things to &amp;quot;talk about&amp;quot; in the domain. This number gives a measure of semantic complexity; that is, it will correspond to the number of objects, attributes, and relationships in the domain, but not to the level of syntactic diversity allowed when conveying these meanings.</Paragraph>
+<Paragraph position="1"> Defining a measure of semantic complexity for a dialog system domain will give an insight towards making a complexity measurement standard. With such a standard, natural language programmers can measure the feasibility of making a natural language interface, compare different language processors' ability to handle more and more complex domains, and quantify the abilities of the current state of the art in natural language processors.</Paragraph>
+</Section>
+</Paper>
+

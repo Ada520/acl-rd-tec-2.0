@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E06-1033">
+<Title>Adaptive Transformation-based Learning for Improving Dictionary Tagging</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present an adaptive technique that enables users to produce a high quality dictionary parsed into its lexicographic components (headwords, pronunciations, parts of speech, translations, etc.) using an extremely small amount of user provided training data. We use transformation-based learning (TBL) as a postprocessor at two points in our system to improve performance. The results using two dictionaries show that the tagging accuracy increases from 83% and 91% to 93% and 94% for individual words or &amp;quot;tokens&amp;quot;, and from 64% and 83% to 90% and 93% for contiguous &amp;quot;phrases&amp;quot; such as definitions or examples of usage.</Paragraph>
+</Section>
+</Paper>
+

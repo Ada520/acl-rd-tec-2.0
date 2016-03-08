@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-2136">
+<Title>Automatic Acquisition of Domain Knowledge for Information Extraction</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In developing an Infbrmation Extraction tIE) system tbr a new class of events or relations, one of the major tasks is identifying the many ways in which these events or relations may be expressed in text. This has generally involved the manual analysis and, in some cases, the annotation of large quantities of text involving these events. This paper presents an alternative approach, based on an automatic discovery procedure, ExDIsCO, which identifies a set; of relewmt documents and a set of event patterns from un-annotated text, starting from a small set of &amp;quot;seed patterns.&amp;quot; We evaluate ExDIScO by comparing the pertbrmance of discovered patterns against that of manually constructed systems on actual extraction tasks.</Paragraph>
+</Section>
+</Paper>
+

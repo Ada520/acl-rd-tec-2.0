@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N01-1017">
+<Title>Generating Training Data for Medical Dictations</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In automatic speech recognition (ASR) enabled applications for medical dictations, corpora of literal transcriptions of speech are critical for training both speaker independent and speaker adapted acoustic models. Obtaining these transcriptions is both costly and time consuming.</Paragraph>
+<Paragraph position="1"> Non-literal transcriptions, on the other hand, are easy to obtain because they are generated in the normal course of a medical transcription operation.</Paragraph>
+<Paragraph position="2"> This paper presents a method of automatically generating texts that can take the place of literal transcriptions for training acoustic and language models. ATRS1 is an automatic transcription reconstruction system that can produce near-literal transcriptions with almost no human labor. We will show that (i) adapted acoustic models trained on ATRS data perform as well as or better than adapted acoustic models trained on literal transcriptions (as measured by recognition accuracy) and (ii) language models trained on ATRS data have lower perplexity than language models trained on non-literal data.</Paragraph>
+<Paragraph position="3"> Introduction Dictation applications of automatic speech recognition (ASR) require literal transcriptions of speech in order to train both speaker independent and speaker adapted acoustic models. Literal transcriptions may also be used to train stochastic language models that need to perform well on spontaneous or disfluent speech. With the exception of personal desktop systems, however, obtaining these transcriptions is costly and time consuming since they must be produced manually 1 patent pending (Serial No.: 09/487398) by humans educated for the task. The high cost makes literal transcription unworkable for ASR applications that require adapted acoustic models for thousands of talkers as well as accurate language models for idiosyncratic natural speech.</Paragraph>
+<Paragraph position="4"> Non-literal transcriptions, on the other hand, are easy to obtain because they are generated in the normal course of a medical transcription operation. It has been previously shown by Wightman and Harder (1999) that the non-literal transcriptions can be successfully used in acoustic adaptation.</Paragraph>
+<Paragraph position="5"> However, non-literal transcriptions are incomplete. They exclude many utterances that commonly occur in medical dictation--filled pauses, repetitions, repairs, ungrammatical phrases, pleasantries, asides to the transcriptionist, etc. Depending on the talker, such material may constitute a significant portion of the dictation. We present a method of automatically generating texts that can take the place of literal transcriptions for training acoustic and language models. ATRS is an automatic transcription reconstruction system that can produce near-literal transcriptions with almost no human labor.</Paragraph>
+<Paragraph position="6"> The following sections will describe ATRS and present experimental results from language and acoustic modeling. We will show that (i) adapted acoustic models trained on ATRS data perform as well as or better than adapted acoustic models trained on literal transcriptions (as measured by recognition accuracy) and (ii) language models trained on ATRS data have lower perplexity than language models trained on non-literal data. Data used in the experiments comes from medical dictations. All of the dictations are telephone speech.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P81-1031">
+<Title></Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. Introduction
+INTERPRETING NATURAL LANGUAGE DATABASE UPDATES
+</SectionTitle>
+<Paragraph position="0"> Although the problem of querying a database in natural language has been studied extensively, there has been relatively little work on processing database updates expressed in natural language. To interpret update requests, several linguistic issues must be addressod that do not typically pose difficulties when dealing exclusively with queries. This paper briefly examines some of the linguistic problems encountered, and describes an implemented system that performs simple natural language database update&amp; The primary difficulty with interpreting natural language updates is that there may be several ways in which a particular update can be performed in the underlying database. Many of these options, while literally correct and semantically meaningful, may correspond to bizarre interpretations of the request. While human speakers would intuitively reject these unusual readings, a computer program may be unable to distinguish them from more appropriate ones. If carried out, they often have undesirable side effects on the database, For example, a simple request to &amp;quot;Change the teacher of CS345 from Smith tb Jones&amp;quot; might be carried out by altering the number of a course that Jones already teaches to be CS345, by changing Smith's name to b- Jones, or by modifying a &amp;quot;teaches&amp;quot; link in the database. While all of these may literally carry Otlt the update, they may implicitly cause unanticipated changes such as altering Jones' salary to be Smith's, Our approach to this problem is to generate a limited set of &amp;quot;candidate&amp;quot; updates, rank them according to a set of domain-independent heuristics that reflect general properties of &amp;quot;reasonable&amp;quot; updates, and either perform the update or present the highest ranked options to the user for selection.</Paragraph>
+<Paragraph position="1"> This process may be guided by various linguistic considerations, such as the difference between &amp;quot;transparent&amp;quot; and &amp;quot;&amp;quot;opaque&amp;quot; readings of the user's request, and the interpretation of counterfactual conditionals.</Paragraph>
+<Paragraph position="2"> Our goal is a system that will process natural language updates, explaining problems or options to the user in terms that s/he can understand, and effecting the changes to the underlying database with the minimal disruption of other views. At this time, a pilot implementation is complete.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-1013">
+<Title>Explanation-Based Learning of Data-Oriented Parsing</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a new view of ExplanatiomBased Learning (EBL) of natural language parsing. Rather than employing EBL for specializing parsers by inferring new ones, this paper suggests employing EBL for learning how to reduce ambiguity only partially.We exemplify this by presenting a new EBL method that learns parsers that avoid spurious overgeneration, and we show how the same method can be used for reducing the sizes of stochastic: grammars learned from treebanks, e.g. (Bod, 1995, Charniak, 1996, Sekine and Grishman, 1995).</Paragraph>
+<Paragraph position="1"> The present method consists of an EBL algorithm for learning partial-parsers, and a parsing algorithm which combines partial-parsers with existing &amp;quot;full-parsers&amp;quot;. The learned partial-parsers, implementable as Cascades of Finite State Transducers (CF-STs), recognize and combine constituents efficiently, prohibiting spurious overgeneration. The parsing algorithm combines a learned partial-parser with a given full-parser such that the role of the full-parser is limited tO combining the constituents, recognized by the partial-parser, and to recognizing unrecognized portions of the input sentence. Besides the reduction of the parse-space prior to disambiguation, the present method provides a way for refining existing disambiguation models that learn stochastic grammars from tree-banks e.g. (Bod, 1995, Charniak, 1996, Sekine and Grishman, 1995).</Paragraph>
+<Paragraph position="2"> We exhibit encouraging empirical results using a pilot implementation: parse-space is reduced substantially with minimal loss of coverage. The speedup gain for disambiguation models is exemplified by experiments with the DOP model (Bod, 1995).</Paragraph>
+</Section>
+</Paper>
+

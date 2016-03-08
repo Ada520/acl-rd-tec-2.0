@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-2202">
+<Title>Word Extraction from Corpora and Its Part-of-Speech Estimation Using Distributional Analysis</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Unknown words are inevitable at any step of analysis in natural language processing. Wc propose a method to extract words from a corl)us and estimate the probability that each word belongs to given parts of speech (POSs), using a distributional analysis. Our experiments have shown that this method is etfective for inferring the POS of unknown words.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P01-1006">
+<Title>Evaluation tool for rule-based anaphora resolution methods</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we argue that comparative evaluation in anaphora resolution has to be performed using the same pre-processing tools and on the same set of data. The paper proposes an evaluation environment for comparing anaphora resolution algorithms which is illustrated by presenting the results of the comparative evaluation of three methods on the basis of several evaluation measures.</Paragraph>
+</Section>
+</Paper>
+

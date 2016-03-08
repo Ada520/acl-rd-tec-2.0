@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E99-1020">
+<Title>Tabular Algorithms for TAG Parsing</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe several tabular algorithms for Tree Adjoining Grammar parsing, creating a continuum from simple pure bottom-up algorithms to complex predictive algorithms and showing what transformations must be applied to each one in order to obtain the next one in the continuum.</Paragraph>
+</Section>
+</Paper>
+

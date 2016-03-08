@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P06-2053">
+<Title>Sydney, July 2006. c(c)2006 Association for Computational Linguistics Towards the Orwellian Nightmare Separation of Business and Personal Emails</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes the largest scale annotation project involving the Enron email corpus to date. Over 12,500 emails were classified, by humans, into the categories &amp;quot;Business&amp;quot; and &amp;quot;Personal&amp;quot;, and then subcategorised by type within these categories. The paper quantifies how well humans perform on this task (evaluated by inter-annotator agreement). It presents the problems experienced with the separation of these language types. As a final section, the paper presents preliminary results using a machine to perform this classification task.</Paragraph>
+</Section>
+</Paper>
+

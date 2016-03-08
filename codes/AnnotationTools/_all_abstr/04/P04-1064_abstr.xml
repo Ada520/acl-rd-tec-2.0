@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P04-1064">
+<Title>Aligning words using matrix factorisation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Aligning words from sentences which are mutual translations is an important problem in different settings, such as bilingual terminology extraction, Machine Translation, or projection of linguistic features. Here, we view word alignment as matrix factorisation. In order to produce proper alignments, we show that factors must satisfy a number of constraints such as orthogonality. We then propose an algorithm for orthogonal non-negative matrix factorisation, based on a probabilistic model of the alignment data, and apply it to word alignment. This is illustrated on a French-English alignment task from the Hansard.</Paragraph>
+</Section>
+</Paper>
+

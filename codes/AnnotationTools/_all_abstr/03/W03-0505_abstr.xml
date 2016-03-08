@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-0505">
+<Title>Summarising Legal Texts: Sentential Tense and Argumentative Roles</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We report on the SUM project which applies automatic summarisation techniques to the legal domain. We pursue a methodology based on Teufel and Moens (2002) where sentences are classified according to their argumentative role. We describe some experiments with judgments of the House of Lords where we have performed automatic linguistic annotation of a small sample set in order to explore correlations between linguistic features and argumentative roles. We use state-of-the-art NLP techniques to perform the linguistic annotation using XML-based tools and a combination of rule-based and statistical methods. We focus here on the predictive capacity of tense and aspect features for a classifier.</Paragraph>
+</Section>
+</Paper>
+

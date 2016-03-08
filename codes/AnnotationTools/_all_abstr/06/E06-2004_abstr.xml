@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E06-2004">
+<Title>DUDE: a Dialogue and Understanding Development Environment, mapping Business Process Models to Information State Update dialogue systems</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We demonstrate a new development environment1 &amp;quot;Information State Update&amp;quot; dialogue systems which allows non-expert developers to produce complete spoken dialogue systems based only on a Business Process Model (BPM) describing their application (e.g. banking, cinema booking, shopping, restaurant information). The environment includes automatic generation of Grammatical Framework (GF) grammars for robust interpretation of spontaneous speech, and uses application databases to generatelexicalentries and grammar rules. The GF grammar is compiled to an ATK or Nuance language model for speech recognition. The demonstration system allows users to create and modify spoken dialogue systems, starting with a definition of a BusinessProcessModelandendingwithaworking null system. This paper describes the environment, its main components,and someof the research issues involved in its development.</Paragraph>
+</Section>
+</Paper>
+

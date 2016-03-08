@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W95-0109">
+<Title>Automatic Construction of a Chinese Electronic Dictionary</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> In this paper, an unsupervised approach for constructing a large-scale Chinese electronic dictionary is surveyed. The main purpose is to enable cheap and quick acquisition of a large-scale dictionary from a large untagged text corpus with the aid of the information in a small tagged seed corpus. The basic model is based on a Viterbi reestimation technique. During the dictionary construction process, it tries to optimize the automatic segmentation and tagging process by repeatedly refining the set of parameters of the underlying language model. The refined parameters are then used to furtherget a better tagging result. In addition, a two-class classifier, which is capable of classifying an n-gram either as a word or a non-word, is used in combination with the Viterbi training module to improve the system performance.</Paragraph>
+<Paragraph position="1"> Two different system configurations had been developed to construct the dictionary. The configurations include (1) a Viterbi word identification module followed by a Viterbi POS tagging module and (2) a two-class classification module as the postfilter for the above Viterbi word identification module.</Paragraph>
+<Paragraph position="2"> With a seed of 1,000 sentences and an untagged corpus of 311,591 sentences, the performance for bigram word identification is 56.88% in precision and 77.37% in recall when the two-class classifier is applied to the word list suggested by the Viterbi word identification module. The Viterbi part of speech tag reestimation stage gives the figures of 71.16% and 71.81% weighted precision rates and 73.42% and 73.83% weighted recall rates for the 2 different configurations when using a seed corpus of 9676 sentences.</Paragraph>
+</Section>
+</Paper>
+

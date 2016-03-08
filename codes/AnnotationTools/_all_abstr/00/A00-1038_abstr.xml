@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A00-1038">
+<Title>Large-scale Controlled Vocabulary Indexing for Named Entities</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A large-scale controlled vocabulary indexing system is described. The system currently covers almost 70,000 named entity topics, and applies to documents from thousands of news publications. Topic definitions are built through substantially automated knowledge engineering.</Paragraph>
+</Section>
+</Paper>
+

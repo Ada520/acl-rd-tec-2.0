@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E06-2031">
+<Title>Why Are They Excited? Identifying and Explaining Spikes in Blog Mood Levels</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe a method for discovering irregularities in temporal mood patterns appearing in a large corpus of blog posts, and labeling them with a natural language explanation. Simple techniques based on comparing corpus frequencies, coupled with large quantities of data, are shown to be effective for identifying the events underlying changes in global moods.</Paragraph>
+</Section>
+</Paper>
+

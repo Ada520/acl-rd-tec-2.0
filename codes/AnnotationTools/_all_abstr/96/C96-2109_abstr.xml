@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-2109">
+<Title>An Evaluation Semantics for DATR Theories</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes an operational semantics for DATR theories. The semantics is presented as a set of inference rules that axiomatises the evaluation relationship for DATR expressions. The inference rules provide a clear picture of the way in which DATR works, and should lead to a better understanding of the mathematical and computational properties of the language.</Paragraph>
+</Section>
+</Paper>
+

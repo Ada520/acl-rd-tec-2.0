@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J95-1001">
+<Title>Principled Disambiguation: Discriminating Adjective Senses with Modified Nouns</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+SUNY Albany
+</SectionTitle>
+<Paragraph position="0"> Slava M. Katz t IBM T. J. Watson Research Center Recent corpus-based work on word sense disambiguation explores the application of statistical pattern recognition procedures to lexical co-occurrence data from very large text databases. In this paper we argue for a linguistically principled approach to disambiguation, in which relevant contextual clues are narrowly defined, in syntactic and semantic terms, and in which only highly reliable clues are exploited. Statistical methods play a definite role in this work, helping to organize and analyze data, but the disambiguation method itself does not employ statistical data or decision criteria. This approach results in improved understanding of the disambiguation problem both in general and on a word-specific basis and leads to broadly applicable and nearly errorless clues to word sense. The approach is illustrated by an experiment discriminating among the senses of adjectives, which have been relatively neglected in work on sense disambiguation. In particular, the paper assesses the potential of nouns for discriminating among the senses of adjectives that modify them. This assessment is based on an empirical study of five of the most frequent ambiguous adjectives in English: hard, light, old, right, and short. About three-quarters of all instances of these adjectives can be disambiguated almost errorlessly by the nouns they modify or by the syntactic constructions in which they occur. Such disambiguation requires only simple rules, which can be automated easily. Furthermore, a small number of semantic attributes supply a compact means of representing the noun clues in a very few rules. Clues other than nouns are required when modified nouns are not useable. The sense of an ambiguous modified noun may be needed to determine the relevant semantic attribute for disambiguation of a target adjective; and other adjectives, verbs, and grammatical constructions all show evidence of high reliability, and sometimes of high applicability, when they stand in specific, well-defined syntactic relations to the ambiguous adjective. Some of these clues, however, may be hard to automate.</Paragraph>
+</Section>
+</Paper>
+

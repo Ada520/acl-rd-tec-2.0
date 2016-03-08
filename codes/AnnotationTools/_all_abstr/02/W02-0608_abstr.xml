@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-0608">
+<Title>Probabilistic Context-Free Grammars for Phonology</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a phonological probabilistic context-free grammar, which describes the word and syllable structure of German words. The grammar is trained on a large corpus by a simple supervised method, and evaluated on a syllabification task achieving 96.88% word accuracy on word tokens, and 90.33% on word types. We added rules for English phonemes to the grammar, and trained the enriched grammar on an English corpus. Both grammars are evaluated qualitatively showing that probabilistic context-free grammars can contribute linguistic knowledge to phonology. Our formal approach is multilingual, while the training data is language-dependent.</Paragraph>
+</Section>
+</Paper>
+

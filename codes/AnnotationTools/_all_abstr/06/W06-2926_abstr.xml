@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-2926">
+<Title>A Pipeline Model for Bottom-Up Dependency Parsing</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a new machine learning framework for multi-lingual dependency parsing. The framework uses a linear, pipeline based, bottom-up parsing algorithm, with a look ahead local search that serves to make the local predictions more robust.</Paragraph>
+<Paragraph position="1"> As shown, the performance of the rst generation of this algorithm is promising.</Paragraph>
+</Section>
+</Paper>
+

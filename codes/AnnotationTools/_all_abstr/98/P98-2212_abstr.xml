@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-2212">
+<Title>Automatically Creating Bilingual Lexicons for Machine Translation from Bilingual Text</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> A method is presented for automatically augmenting the bilingual lexicon of an existing Machine Translation system, by extracting bilingual entries from aligned bilingual text. The proposed method only relies on the resources already available in the MT system itself. It is based on the use of bilingual lexical templates to match the terminal symbols in the parses of the aligned sentences.</Paragraph>
+</Section>
+</Paper>
+

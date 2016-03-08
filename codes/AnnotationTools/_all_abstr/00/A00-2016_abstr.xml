@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A00-2016">
+<Title>Rapid Parser Development: A Machine Learning Approach for Korean</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper demonstrates that machine learning is a suitable approach for rapid parser development.</Paragraph>
+<Paragraph position="1"> From 1000 newly treebanked Korean sentences we generate a deterministic shift-reduce parser. The quality of the treebank, particularly crucial given its small size, is supported by a consistency checker.</Paragraph>
+</Section>
+</Paper>
+

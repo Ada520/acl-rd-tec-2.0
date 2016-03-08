@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P04-1075">
+<Title>Multi-Criteria-based Active Learning for Named Entity Recognition</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we propose a multi-criteria -based active learning approach and effectively apply it to named entity recognition.</Paragraph>
+<Paragraph position="1"> Active learning targets to minimize the human annotation efforts by selecting examples for labeling. To maximize the contribution of the selected examples, we consider the multiple criteria: informativeness, representativeness and diversity and propose measures to quantify them. More comprehensively, we incorporate all the criteria using two selection strategies, both of which result in less labeling cost than single -criterion-based method. The results of the named entity recognition in both MUC-6 and GENIA show that the labeling cost can be reduced by at least 80% without degrading the performance.</Paragraph>
+</Section>
+</Paper>
+

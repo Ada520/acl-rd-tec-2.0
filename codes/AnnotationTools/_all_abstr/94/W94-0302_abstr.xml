@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W94-0302">
+<Title>DPOCL: A Principled Approach to Discourse Planning</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Research in discourse processing has ident~ed two representational requirements for discourse planning systems. First, discourse plans must adequately represent the intentional structure of the utterances they produce in order to enable a computations.\] discourse agent to respond effectively to communicative failures \[15\]. Second, discourse plans must represent the information~ structure of utterances. In addition to these representational requirements, we argue that discourse planners ahonid be formally characterizab\]e in terms of soundness and completeness.</Paragraph>
+</Section>
+</Paper>
+

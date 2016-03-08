@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1043">
+<Title>Uni cational Combinatory Categorial Grammar: Combining Information Structure and Discourse Representations</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we present a grammar formalism that combines the insights from Combinatory Categorial Grammar with feature structure uni cation. We show how information structure can be incorporated with syntactic and semantic representations in a principled way. We focus on the way theme, rheme, and focus are integrated in the compositional semantics, using Discourse Representation Theory as rst-order semantic theory. UCCG can be used for parsing and generating prosodically annotated text, and therefore has the potential to advance spoken dialogue systems.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E95-1042">
+<Title>Aggregation in the NL-generator of the Visual and Natural language Specification Tool</Title>
+<Section position="2" start_page="0" end_page="286" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we show how to use the so-called aggregation technique to remove redundancies in the fact base of the Visual and Natural language Specification Tool (VINST). The current aggregation modules of the natural language generator of VINST is described and an improvement is proposed with one new aggregation rule and a bidirectional grammar.</Paragraph>
+<Paragraph position="1"> I. Introduction This paper describes the aggregation process in the natural language generator of the Visual and Natural language Specification Tool (VINST), and how the aggregation can be improved.</Paragraph>
+<Paragraph position="2"> Aggregation is the process which removes redundancy in texts. Redundancy typically occurs when the material selected for communication contains information that is duplicated in the text, or else is so closely related that the reader can automatically infer one piece when reading another. Aggregation is also called ellipsis by linguists.</Paragraph>
+<Paragraph position="3"> In the VINST-system Natural Language generation is applied in various places. In the specification part to paraphrase the rules expressed in formal language, to paraphrase automata, further on to paraphrase questions asked to the theorem prover, and to paraphrase the executed events and the newly created fact base. We will in this paper only treat the generation of NL from fact bases.</Paragraph>
+<Paragraph position="4"> The kind of text produced in this domain is illustrated in the right hand window of VINST in figure 1.</Paragraph>
+<Paragraph position="5"> When generating a text from a fact base in VINST the text becomes very tedious to read since the text is very redundant and does not feel correct conceptually. To make the text smoother to read a new architecture is suggested where a new aggregation rule from (Dalianis &amp; Hovy 1993) is suggested to be used, namely predicate grouping rule.</Paragraph>
+<Paragraph position="7"> can execute events and the inter preter intewrets the specification.</Paragraph>
+<Paragraph position="8"> The VINST-system is a multi-modal specification and validation tool, specifically for the functionality of telecom services. The specification is carried out with a Visual Language (VL) and a restricted Natural Language (NL), which are translated to LOXY (Echarti &amp; St~lmarck 1988), a First Order Language extended with time.</Paragraph>
+<Paragraph position="9"> The VINST system is a ready usable prototype which has been demonstrated and tested on various sites in the world (Engstedt 1991, Preifelt &amp; Engstedt 1992). The VINST prototype is implemented in AAIS-Prolog and SuperCard on Macintosh. The Prolog is used for the NL-system and the SuperCard for the VL-part and for the user interaction of the system.</Paragraph>
+</Section>
+</Paper>
+

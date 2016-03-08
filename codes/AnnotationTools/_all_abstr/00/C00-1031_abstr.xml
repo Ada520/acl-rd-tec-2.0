@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-1031">
+<Title>An Empirical Investigation of the Relation Between Discourse Structure and Co-Reference</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We compare the potential of two classes el' linear and hierarchical models of discourse to determine co-reference links and resolve anaphors. The comparison uses a col pus of thirty texts, which were manually annotated for co-reference and discourse structure.</Paragraph>
+</Section>
+</Paper>
+

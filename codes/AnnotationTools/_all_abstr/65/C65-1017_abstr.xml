@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C65-1017">
+<Title>A SYSTEM FOR TRANSFORMATIONAL ANALYSIS</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> A system is proposed here for assigning a derived P-marker to a given transformed sentence and obtaining the corresponding base P-marker at the same time. Rules of analytical phrase-structure grammar for such a system have associated with them i~formation pertaining to the transformational histories of their own derivation. When a phrase-structure analysis of the sentence is obtained, the set of grammar rules used for the analysis contains all the information necessary for the direct mapping of the derived P-marker into the corresponding P-marker. The system can also be used for decomposing a given complex sentence into &amp;quot;kernel&amp;quot; sentences for the purpose of structure matching between a query sentence and stored document sentences in information retrieval. An experimental program for the proposed system has been written and is currently tested with a small sample grammar. Study is underway to see if there is any mechanical procedure for obtaining an smalytical phrase structure grammar of the proposed type for a given transformational grammar.</Paragraph>
+</Section>
+</Paper>
+

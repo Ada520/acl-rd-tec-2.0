@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-2162">
+<Title>A Unified Theory of Irony and Its Computational Formalization</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a unified theory of verbal irony tbr developing a computational model of irony. The theory claims that an ironic utterance implicitly communicates the fact that its utterance situation is surrounded by ironic environment which has three properties, but hearers can assume an utterance to be ironic even when they recognize that it implicitly communicates only two of the three properties. Implicit communication of three properties is accomplished in such a way that an utterance alludes to the speaker's expectation, violates pragmatic principles, and implies the speaker's emotional attitude. This paper also describes a method for computationally formalizing ironic environment and its implicit communication using situation theory with action theory.</Paragraph>
+</Section>
+</Paper>
+

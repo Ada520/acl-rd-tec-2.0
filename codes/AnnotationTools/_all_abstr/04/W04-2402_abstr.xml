@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-2402">
+<Title>Semantic Lexicon Construction: Learning from Unlabeled Data via Spectral Analysis</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper considers the task of automatically collecting words with their entity class labels, starting from a small number of labeled examples ('seed' words). We show that spectral analysis is useful for compensating for the paucity of labeled examples by learning from unlabeled data. The proposed method significantly outperforms a number of methods that employ techniques such as EM and co-training.</Paragraph>
+<Paragraph position="1"> Furthermore, when trained with 300 labeled examples and unlabeled data, it rivals Naive Bayes classifiers trained with 7500 labeled examples. null</Paragraph>
+</Section>
+</Paper>
+

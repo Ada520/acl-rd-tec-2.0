@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1055">
+<Title>Skeletons in the parser: Using a shallow parser to improve deep parsing</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe a simple approach for integrating shallow and deep parsing. We use phrase structure bracketing obtained from the Collins parser as filters to guide deep parsing. Our experiments demonstrate that our technique yields substantial gains in speed along with modest improvements in accuracy.</Paragraph>
+</Section>
+</Paper>
+

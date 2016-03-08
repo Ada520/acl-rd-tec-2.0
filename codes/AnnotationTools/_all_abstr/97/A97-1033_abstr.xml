@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A97-1033">
+<Title>Building a Generation Knowledge Source using Internet-Accessible Newswire</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we describe a method for automatic creation of a knowledge source for text generation using information extraction over the Internet. We present a prototype system called PROFILE which uses a client-server architecture to extract noun-phrase descriptions of entities such as people, places, and organizations. The system serves two purposes: as an information extraction tool, it allows users to search for textual descriptions of entities; as a utility to generate functional descriptions (FD), it is used in a functional-unification based generation system. We present an evaluation of the approach and its applications to natural language generation and summarization.</Paragraph>
+</Section>
+</Paper>
+

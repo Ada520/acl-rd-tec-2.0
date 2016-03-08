@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W01-1502">
+<Title>Extending NLP Tools Repositories for the Interaction with Language Data Resources Repositories</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This short paper presents some motivations behind the organization of the ACL/EACL01 &amp;quot;Workshop on Sharing Tools and Resources for Research and Education&amp;quot;, concentrating on the possible connection of Tools and Resources repositories. Taking some papers printed in this volume and the ACL Natural Language Software Registry as a basis, we outline some of the steps to be done on the side of NLP tool repositories in order to achieve this goal.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-0304">
+<Title>NJFun: A Reinforcement Learning Spoken Dialogue System</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes NJFun, a real-time spoken dialogue systemthat-provides users with information about things to d~ in New Jersey. NJFun automatically optimizes its dialogue strategy over time, by using a methodology for applying reinforcement learning to a working dialogue system with human users.</Paragraph>
+</Section>
+</Paper>
+

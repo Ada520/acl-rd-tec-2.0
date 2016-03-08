@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W99-0109">
+<Title>O Q O O O O O @ @ O O O O O O O O O O @ O O O O O O O O O @ O O</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Centering theory (CT) has been mostly discussed from the point of view of interpretation rather than generation, and research has tended to concentrate on problems of anaphora resolution. This paper examines how centering could fit into the generation task, separating out components of the theory which are concerned with planning and lexical choice. We argue that it is a mistake to define a total ordering on the transitions CONTINUE, PJZTAm, SHIFT and that they are in fact epiphenomenal; a partia/ordering emerges from the interaction between cohesion (maintaining the same center) and salience (reall.qing the center as Subject). CT has generally been neglected by NLG practitioners, possibly because it appears to assume that the center is determined according to feedbsch from the surface grammar, to text planning, but we argue that this is an artefactual problem which can be eliminated on an appropriate interpretation of the CT rules.</Paragraph>
+</Section>
+</Paper>
+

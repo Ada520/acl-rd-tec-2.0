@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C94-1012">
+<Title>Coping With Ambiguity in a Large-Scale Machine Translation System</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In an interlingual knowledge-based machine translation system, ambiguity arises when the source 1.qnguage analyzer produces more than one interlingua expression for a source sentence. This can have a negative impact on translation quality, since a target sentence may be produced from an unintended meaning. In this paper we describe the ,nethods nsed in the KANT machine translation system to reduce or eliminate ambiguity in a large-scale application domain. We also test these methods on a large corpus of test sentences, in order to illustrate how the different disambiguation methods redtuce the average number of parses per sentence,</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-1006">
+<Title>The Effects of Word Order and Segmentation on Translation Retrieval Performance</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This research looks at tim cIt'ccts of word order mL(t scgm(mtation on l;ra.nslation retri(~val t)(~rfor-III~\[.11C( ~. lot&amp;quot; ~.111 eXl)erim(:nta.1 Jal&gt;an(&gt;s(&gt;English (;rm&gt;lation memory system. We iml)lem('.nt a number of both bag-of-words and word order-s(msitiv(~ s;imilarity metrics, and test each over charact(ul/ased m~d word-based indexing. Tim translation r(%rieval l)elt'ormmm(~ of ca(:h sysi;em (:ontiguration is (~valuat(~(1 (mq)iri(:ally through tlm n()ti(&gt;n of word edit distan(:(~ \])(}(;W(}(}IL translation (:ml(li(lal;(~ ()ul;lml;s mid tim mo(hd translation. Ore resull;s in(li('.at(~ (;hat(; (:hm'act(!r-l)as(!d indexing is (:(msislxmtly sup(&gt; riot (;() wor(l-bas(:d in(l(:xing, sugg(:sl;ing (;hal; s(:glncnl;al;ion is ;m mm('.cessary luxury in th(', giv(m domain. \Y=or(1 ord(:r-s(:nsi(;iv(: al)i)roach('s at(: do.monsl;rat(:d to generally OUtlt(~rform bag-of-words methods, with som'(:c bmguagc segment-lev(d edit distan(:o, proving th(: most; (:fl'(:(;l;iv(~ similarity m(,,l;ric.</Paragraph>
+</Section>
+</Paper>
+

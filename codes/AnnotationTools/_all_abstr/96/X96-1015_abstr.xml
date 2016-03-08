@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="X96-1015">
+<Title>SPOT: TRW'S MULTI-LINGUAl, TEXT SEARCH TOOL</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> TRW has developed a text search tool that allows users to enter a query in foreign languages and retrieve documents that match the query. A single query can contain words and phrases in a mix of different languages, with the foreign-language terms entered using the native script. The browser also displays the original document in its native script. Key terms in the browser display are highlighted. The interface is targeted for the non-native speaker and includes a variety of tools to help formulate foreign-language queries. Spot has been designed to interface to multiple search engines through an object-oriented search engine abstraction layer.</Paragraph>
+<Paragraph position="1"> It currently supports Paracers Fast Data Finder search engine, with support for Excalibur's RetrievalWare currently being developed.</Paragraph>
+</Section>
+</Paper>
+

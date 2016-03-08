@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P91-1014">
+<Title>Polynomial Time and Space Shift-Reduce Parsing of Arbitrary Context-free Grammars.*</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We introduce an algorithm for designing a predictive left to right shift-reduce non-deterministic push-down machine corresponding to an arbitrary unrestricted context-free grammar and an algorithm for efficiently driving this machine in pseudo-parallel. The performance of the resulting parser is formally proven to be superior to Earley's parser (1970).</Paragraph>
+<Paragraph position="1"> The technique employed consists in constructing before run-time a parsing table that encodes a non-deterministic machine in the which the predictive behavior has been compiled out. At run time, the machine is driven in pseudo-parallel with the help of a chart.</Paragraph>
+<Paragraph position="2"> The recognizer behaves in the worst case in O(IGI2n3)-time and O(IGIn2)-space. However in practice it is always superior to Earley's parser since the prediction steps have been compiled before runtime. null Finally, we explain how other more efficient variants of the basic parser can be obtained by determinizing portionsof the basic non-deterministic push-down machine while still using the same pseudo-parallel driver.</Paragraph>
+</Section>
+</Paper>
+

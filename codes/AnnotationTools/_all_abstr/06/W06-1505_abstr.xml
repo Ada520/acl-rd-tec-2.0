@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-1505">
+<Title>Sydney, July 2006. c(c)2006 Association for Computational Linguistics A Tree Adjoining Grammar Analysis of the Syntax and Semantics of It-Clefts</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we argue that in it-clefts as in It was Ohno who won, the cleft pronoun (it) and the cleft clause (who won) form a discontinuous syntactic constituent, and a semantic unit as a definite description, presenting arguments from Percus (1997) and Hedberg (2000). We propose a syntax of it-clefts using Tree-Local Multi-Component Tree Adjoining Grammar and a compositional semantics on the proposed syntax using Synchronous Tree Adjoining Grammar.</Paragraph>
+</Section>
+</Paper>
+

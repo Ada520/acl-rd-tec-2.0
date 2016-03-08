@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-3104">
+<Title>A Study of Text Categorization for Model Organism Databases</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> One of the routine tasks for model organism database curators is to identify and associate research articles to database entries. Such task can be considered as text categorization which has been studied in the general English domain. The task can be decomposed into two text categorization subtasks: i) finding relevant articles associating with specific model organisms, and ii) routing the articles to specific entries or specific areas. In this paper, we investigated the first subtask and designed a study using existing reference information available at four well-known model organism databases and investigated the problem of identifying relevant articles for these organisms. We used features obtained from abstract text and titles. Additionally, we studied the determination power of other MEDLINE citation fields (e.g., Authors, MeshHeadings, Journals). Furthermore, we compared three supervised machine learning techniques on predicting to which organism the article belongs.</Paragraph>
+</Section>
+</Paper>
+

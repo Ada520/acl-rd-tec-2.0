@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-1603">
+<Title>Sydney, July 2006. c(c)2006 Association for Computational Linguistics Paraphrase Recognition via Dissimilarity Signi cance Classi cation</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We propose a supervised, two-phase framework to address the problem of paraphrase recognition (PR). Unlike most PR systems that focus on sentence similarity, our framework detects dissimilarities between sentences and makes its paraphrase judgment based on the signi cance of such dissimilarities. The ability to differentiate signi cant dissimilarities not only reveals what makes two sentences a nonparaphrase, but also helps to recall additional paraphrases that contain extra but insigni cant information. Experimental results show that while being accurate at discerning non-paraphrasing dissimilarities, our implemented system is able to achieve higher paraphrase recall (93%), at an overall performance comparable to the alternatives.</Paragraph>
+</Section>
+</Paper>
+

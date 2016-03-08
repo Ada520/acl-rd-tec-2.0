@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0305">
+<Title>Detecting Subject Boundaries Within Text: A Language Independent Statistical Approach</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe here an algorithm for detecting subject boundaries within text based on a statistical lexical similarity measure.</Paragraph>
+<Paragraph position="1"> Hearst has already tackled this problem with good results (Hearst, 1994). One of her main assumptions is that a change in subject is accompanied by a change in vocabulary. Using this assumption, but by introducing a new measure of word significance, we have been able to build a robust and reliable algorithm which exhibits improved accuracy without sacrificing language independency.</Paragraph>
+</Section>
+</Paper>
+

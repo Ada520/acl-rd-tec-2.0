@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C90-3043">
+<Title>Sent S V 0 1 I 1 NP VSUP OSUP I \ NO Vsup NP</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+3 245
+</SectionTitle>
+<Paragraph position="0"> supported expression. For example, the entry for cas contains the sequence grand, standing for the supported expression grand cas.</Paragraph>
+<Paragraph position="1"> The passive transformation is possible for some of these support constructions, but its applicability cannot be predicted: (18)a Grand cas a 6t6 fait de cela = High store was set on that (18)b *Fi a 6t6 fait de vos conseils Hence, this possibility must also be marked in the lexical entry, so that the absence of an article in the subject grand cas can be taken into account by the test for the well-formedness of the subject.</Paragraph>
+<Paragraph position="2"> IV. Conclusions Systematic studies of French support verbs have shown that there are many thousands of support constructions of the type discussed here, for each such verb (cf. J. Giry-Schneider, 1987; G. Gross, 1989). The translations of such expressions is irregular, but this is to be expected, and such irregularity will be confined to the lexicon. The regularities of support verb constructions can be handled in the manner discussed here, and this treatment simplifies considerably the parsing module of a program for automatic translation.</Paragraph>
+</Section>
+</Paper>
+

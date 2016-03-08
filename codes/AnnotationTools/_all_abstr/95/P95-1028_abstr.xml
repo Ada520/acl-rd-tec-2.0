@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P95-1028">
+<Title>Quantifier Scope and Constituency</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Traditional approaches to quantifier scope typically need stipulation to exclude readings that are unavailable to human understanders. This paper shows that quantifier scope phenomena can be precisely characterized by a semantic representation constrained by surhce constituency, if the distinction between referential and quantificational NPs is properly observed. A CCG implementation is described and compared to other approaches.</Paragraph>
+</Section>
+</Paper>
+

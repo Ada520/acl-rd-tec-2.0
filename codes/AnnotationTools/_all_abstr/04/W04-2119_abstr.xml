@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-2119">
+<Title>Application Adaptive Electronic Dictionary with Intelligent Interface</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The paper presents an electronic dictionary that can be adapted to the needs of different NLP applications. It suggests some ways to save on software customisation and acquisition effort through an intelligent developer interface. The emphasis is made on the flexibility of data representation, handling and access speed.</Paragraph>
+</Section>
+</Paper>
+

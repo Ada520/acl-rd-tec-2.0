@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A92-1033">
+<Title>Overview of Natural Language Processing of Captions for Retrieving Multimedia Data</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper briefly describes the current implementation status of an intelligent information retrieval system, MARIE, that employs natural language processing techniques. Descriptive captions are used to identify photographic images concerning various military projects. The captions are parsed to produce a logical form from which nouns and verbs are extracted to form the primary keywords. User queries are also specified in natural language. A two-phase search process employing coarse-grain and fine-grain match processes is used to find the captions that best match the query. A type hierarchy based on object-oriented programming constructs is used to represent the semantic knowledge base. This knowledge base contains knowledge of various military concepts and terminology with specifics from the Naval Weapons Center.</Paragraph>
+<Paragraph position="1"> Methods are used for creating the logical form during semantic analysis, generating the keywords to be used in the coarse-grain match process, and fine-grain matching between query and caption logical forms.</Paragraph>
+</Section>
+</Paper>
+

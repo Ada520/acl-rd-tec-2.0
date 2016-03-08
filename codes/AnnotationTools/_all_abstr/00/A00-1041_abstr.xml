@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A00-1041">
+<Title>Answer Extraction</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Information retrieval systems have typically concentrated on retrieving a set of documents which are relevant to a user's query. This paper describes a system that attempts to retrieve a much smaller section of text, namely, a direct answer to a user's question.</Paragraph>
+<Paragraph position="1"> The SMART IR system is used to extract a ranked set of passages that are relevant to the query. Entities are extracted from these passages as potential answers to the question, and ranked for plausibility according to how well their type matches the query, and according to their frequency and position in the passages. The system was evaluated at the TREC-8 question answering track: we give results and error analysis on these queries.</Paragraph>
+</Section>
+</Paper>
+

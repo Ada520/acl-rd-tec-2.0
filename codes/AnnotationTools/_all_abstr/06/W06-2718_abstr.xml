@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-2718">
+<Title>A Standoff Annotation Interface between DELPH-IN Components</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a standoff annotation framework for the integration of NLP components, currently implemented in the context of the DELPH-IN tools1. This provides a flexible standoff pointer scheme suitable for various types of data, a lattice encodes structural ambiguity, intra-annotation relationships are encoded, and annotations are decorated with structured content. We provide an XML serialization for intercomponent communication.</Paragraph>
+</Section>
+</Paper>
+

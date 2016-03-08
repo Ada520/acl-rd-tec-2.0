@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-1507">
+<Title>Categorial Type Logic meets Dependency Grammar to annotate an Italian Corpus</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we present work in progress on the annotation of an Italian Corpus (CORIS) developed at CILTA (University of Bologna). We induce categorial type assignments from a dependency treebank (Torino University treebank, TUT) and use the obtained categories with annotated dependency relations to study the distributional behavior of Italian words and reach an empirically founded part-of-speech classification. null</Paragraph>
+</Section>
+</Paper>
+

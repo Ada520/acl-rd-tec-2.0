@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P97-1005">
+<Title>Automatic Detection of Text Genre</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> As the text databases available to users become larger and more heterogeneous, genre becomes increasingly important for computational linguistics as a complement to topical and structural principles of classification. We propose a theory of genres as bundles of facets, which correlate with various surface cues, and argue that genre detection based on surface cues is as successful as detection based on deeper structural properties.</Paragraph>
+</Section>
+</Paper>
+

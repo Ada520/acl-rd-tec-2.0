@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J87-3002">
+<Title>LARGE LEXICONS FOR NATURAL LANGUAGE PROCESSING: UTILISING THE GRAMMAR CODING SYSTEM OF LDOCE</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+LARGE LEXICONS FOR NATURAL LANGUAGE PROCESSING:
+UTILISING THE GRAMMAR CODING SYSTEM OF LDOCE
+</SectionTitle>
+<Paragraph position="0"> This article focusses on the derivation of large lexicons for natural language processing. We describe the development of a dictionary support environment linking a restructured version of the Longman Dictionary of Contemporary English to natural language processing systems. The process of restructuring the information in the machine readable version of the dictionary is discussed. The Longman grammar code system is used to construct 'theory neutral' lexical entries. We demonstrate how such lexical entries can be put to practical use by linking up the system described here with the experimental PATR-II grammar development environment. Finally, we offer an evaluation of the utility of the grammar coding system for use by automatic natural language parsing systems.</Paragraph>
+</Section>
+</Paper>
+

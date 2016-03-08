@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W94-0312">
+<Title>Generating Event Descriptions with SAGE: a Simulation and Generation Environment</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+FAX: (617) 648-1735
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> The SAGE system (Simulation and Generation Environment) was developed to address issues at the interface between conceptual modelling and natural language generation. In this paper, I describe SAGE and its components in the context of event descriptions. I show how kinds of information, such as the Reichenbachian temporal points and event structure, which are usually treated as unified systems, are often best represented at multiple levels in the overall system. SAGE is composed of a knowledge representation language and simulator, which form the underlying model and constitute the &amp;quot;speaker&amp;quot;; a graphics component, which displays the actions of the simulator and provides an anchor for locative and deictic relations; and the generator SPOKESMAN, which produces a textual narration of events.</Paragraph>
+</Section>
+</Paper>
+

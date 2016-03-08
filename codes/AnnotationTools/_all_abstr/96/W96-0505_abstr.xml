@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W96-0505">
+<Title>Debug EdltsCructure Newnem L.mngclmge Style Prefenmeu Tools Trust I ~ ...... t d.~.~i, oF ,.,d., I E~e~ m</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We will demonstrate the GIST system, which generates social security forms in English, Italian and German. The system is intended for use by the technical authors and translators who design forms. A knowledge specification tool allows the author to build a model of the form in the knowledge representation language LOOM. From the LOOM model, a text drafter generates equivalent texts in the three supported languages, guided by some broad stylistic parameters which the author can control. The output texts serve as drafts which the authors and translators can modify or extend.</Paragraph>
+<Paragraph position="1"> Keywords: multilingual generation, applications.</Paragraph>
+<Paragraph position="2"> Type of submission: demonstration.</Paragraph>
+<Paragraph position="3"> in Europe have multiple languages: GIST focusses on the Trentino Alto-Adige region of Northern Italy, in which all official documentation has to be produced in two languages, Italian and German, laid out side by side on the page. The GIST consortium includes two organizations that have to implement this requirement: the Italian social security institute (INPS), and the local government agency for the Bolzano province (PAB).</Paragraph>
+</Section>
+</Paper>
+

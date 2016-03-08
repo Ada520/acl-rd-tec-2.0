@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-2161">
+<Title>Integration of Large-Scale Linguistic Resources in a Natural Language Understanding System</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Knowledge acquisition is a serious bottleneck for natural language understanding systems.</Paragraph>
+<Paragraph position="1"> For this reason, large-scale linguistic resources have been compiled and made available by organizations such as the Linguistic Data Consortium (Comlex) and Princeton University (WordNet). Systems making use of these resources can greatly accelerate the development process by avoiding the need for the developer to re-create this information.</Paragraph>
+<Paragraph position="2"> In this paper we describe how we integrated these large scale linguistic resources into our natural language understanding system. Client-server architecture was used to make a large volume of lexical information and a large knowledge base available to the system at development and/or run time. We discuss issues of achieving compatibility between these disparate resources.</Paragraph>
+</Section>
+</Paper>
+

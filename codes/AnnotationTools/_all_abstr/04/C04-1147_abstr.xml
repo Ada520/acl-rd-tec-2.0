@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1147">
+<Title>Fast Computation of Lexical Affinity Models</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present a framework for the fast computation of lexical affinity models. The framework is composed of a novel algorithm to efficiently compute the co-occurrence distribution between pairs of terms, an independence model, and a parametric affinity model. In comparison with previous models, which either use arbitrary windows to compute similarity between words or use lexical affinity to create sequential models, in this paper we focus on models intended to capture the co-occurrence patterns of any pair of words or phrases at any distance in the corpus. The framework is flexible, allowing fast adaptation to applications and it is scalable.</Paragraph>
+<Paragraph position="1"> We apply it in combination with a terabyte corpus to answer natural language tests, achieving encouraging results.</Paragraph>
+</Section>
+</Paper>
+

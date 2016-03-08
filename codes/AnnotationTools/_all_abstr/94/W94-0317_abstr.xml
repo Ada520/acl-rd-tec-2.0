@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W94-0317">
+<Title>Planning Reference Choices for Argumentative Texts</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper deals with the reference choices involved in the generation of argumentative text. A piece of argumentative text such as the proof of a mathematical theorem conveys a sequence of derivations. For each step of derivation, the premises (previously conveyed intermediate results) and the inference method (such as the application of a particular theorem or definition) must be made clear. The appropriateness of these references crucially affects the quality of the text produced.</Paragraph>
+<Paragraph position="1"> Although hot restricted to nominal phrases, our reference decisions are similar to those concerning nominal subsequent referring expressions: they depend on the availability of the object referred to within a context and are sensitive to its attentional hierarchy. In this paper, we show how the current context can be appropriately segmented into an attentional hierarchy by viewing text generation as a combination of planned and unplanned behavior, and how the discourse theory of Reichmann can be adapted to handle our special reference problem.</Paragraph>
+</Section>
+</Paper>
+

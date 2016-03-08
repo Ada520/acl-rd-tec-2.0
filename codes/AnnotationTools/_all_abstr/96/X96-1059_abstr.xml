@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="X96-1059">
+<Title></Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> Recognition of proper nouns in Japanese text has been studied as a part of the more general problem of morphological analysis in Japanese text processing (\[1\] \[2\]). It has also been studied in the framework of Japanese information extraction (\[3\]) in recent years.</Paragraph>
+<Paragraph position="1"> Our approach to the Multi-lingual Evaluation Task (MET) for Japanese text is to consider the given task as a morphological analysis problem in Japanese. Our morphological analyzer has done all the necessary work for the recognition and classification of proper names, numerical and temporal expressions, i.e. Named Entity (NE) items in the Japanese text.</Paragraph>
+<Paragraph position="2"> The analyzer is called &amp;quot;Amorph&amp;quot;. Amorph recognizes NE items in two stages: dictionary lookup and rule application. First, it uses several kinds of dictionaries to segment and tag Japanese character strings. Second, based on the information resulting from the dictionary lookup stage, a set of rules is applied to the segmented strings in order to identify NE items. When a segment is found to be an NE item, this information is added to the segment and it is used to generate the final output 1.</Paragraph>
+</Section>
+</Paper>
+

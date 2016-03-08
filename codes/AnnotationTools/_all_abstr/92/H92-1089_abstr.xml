@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H92-1089">
+<Title>Intonational Features of Local and Global Discourse Structure</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> Division of Applied Sciences Harvard University Cambridge MA 02138 labeled from text while listening to the recorded speech. In this paper, we describe similarities and differences in the segmentations elicited in these two conditions. Our experiments provide support for three hypotheses. First, instructions can be devised, based on the G&amp;S model, that enable subjects to analyze discourses with considerable similarity. Second, discourse structure is marked intonationally, although the relationship between structure and intonational features is a complex one; a given discourse structural feature may be signaled by several intonational features, either separately or in combination. Third, not every intonational feature which is varied to convey structural information is perceptually salient.</Paragraph>
+<Paragraph position="1"> We present results of a study of the relationship between intonational features including pitch range, timing, and amplitude and aspects of discourse structure defined in terms of Grosz and Sidner's (1986) model of discourse. We compare structural labelings of AP news text with prosodic/acoustic features examined from recordings of the same text read by a professional newscaster. We find significant correlations between prosodic/acoustic characteristics and both local and global aspects of discourse structure identified by our labelers. Our results have applications for speech synthesis and, potentially, for speech recognition.</Paragraph>
+</Section>
+</Paper>
+

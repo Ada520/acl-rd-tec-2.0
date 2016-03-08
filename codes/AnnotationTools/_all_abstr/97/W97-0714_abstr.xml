@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0714">
+<Title>ized with Macromed\]a D~rector CommumcaUon between CLOS and Macromecha Director Is medmted by Apple Events</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> SimSum (Slmulatxon of Summarizing) simulates 20 real-world worlang steps of expert summarizers It presents an empmcally founded cogmUve model of summarizing that operaUonahzes the discourse processing model developed by van Dijk and Kmtsch (1983) The observed strate.gles of expert summarizers have g~ven nse to cooperating object-onented agents commumcatlng through dedicated blackboards Each agent ~s implemented as a CLOS object with an assigned actor at the mulUmedm user. interface The interface ~s real-</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J96-3007">
+<Title>Technology A Probabilistic Recursive Transition Network is an elevated version of a Recursive Transition Network used to model and process context-free languages in stochastic parameters. We present</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> Though hidden Markov models have been successful in some applications such as corpus tagging, they are limited to the problems of regular languages. There have been attempts to associate probabilities with context-free grammar formalisms. Recently Briscoe and Carroll (1993) have reported work on generalized probabilistic LR parsing, and others have tried different formalisms such as LTAG (Schabes, Roth, and Osborne 1993) and Link grammar (Lafferty, Sleator, and Temperley 1992). Kupiec extended a SCFG that worked on CNF to a general CFG (Kupiec 1991). The re-estimation algorithm presented in this paper may be seen as another version for general CFG.</Paragraph>
+<Paragraph position="1"> One significant problem of most probabilistic approaches is the computational burden of estimating the parameters (Lari and Young 1990). In this paper, we consider a probabilistic recursive transition network (PRTN) as an underlying grammar representation, and present an algorithm for training the probabilistic parameters, then suggest an improved version that works with reduced redundant computations. The key point is to save intermediate results and avoid the same computation later on.</Paragraph>
+<Paragraph position="2"> Moreover, the computation of Outside probabilities can be made only on the valid parse space once a chart is prepared.</Paragraph>
+</Section>
+</Paper>
+

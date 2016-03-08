@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="N03-2029">
+<Title>Automatic Derivation of Surface Text Patterns for a Maximum Entropy Based Question Answering System</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we investigate the use of surface text patterns for a Maximum Entropy based Question Answering (QA) system. These text patterns are collected automatically in an unsupervised fashion using a collection of trivia question and answer pairs as seeds. These patterns are used to generate features for a statistical question answering system. We report our results on the TREC-10 question set.</Paragraph>
+</Section>
+</Paper>
+

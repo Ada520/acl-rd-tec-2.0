@@ -1,0 +1,66 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C92-3131">
+<Title></Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+* Syntactic level
+</SectionTitle>
+<Paragraph position="0"> Ye veux que men flis l'dpouse parce qu'elle est rtche.</Paragraph>
+<Paragraph position="1"> I want my son to marry her because she is rich. This statement can be inteqneted in two different ways depending on the context: II Je veux que men ills I~#pouse parce qu'elle est fiche.., aiasf, tl ne sera plus d ma charge. I want my son to marry her because she is rich.., that way I'll no longer have to support him.</Paragraph>
+<Paragraph position="2"> 12 Je veux que men flis r dpouse paree q~(elle est fiche et pas parce q~il gaime. Les martages d'amour, je n'y erots pas.</Paragraph>
+<Paragraph position="3"> I want my son to marry her because she is rich and not because he laves her. I dor{t believe in lave matches.</Paragraph>
+<Paragraph position="4"> This syntactic ambiguity will be analysed in more detail in the second part of this paper.</Paragraph>
+<Paragraph position="5"> * Argumentative level The Btatement Ha de la flth~e/He has a fever can be considered from two points of view, as a fact or as the ~.akefs action.</Paragraph>
+<Paragraph position="6"> - Giving the cause of a statement considemt as a fact produces an objective explanation as in: I1 a de la fldvre paree qu'll est malade.</Paragraph>
+<Paragraph position="7"> He has a fever because he is sick.</Paragraph>
+<Paragraph position="8"> where the information &amp;quot;he is sick' answers the question Pourquot a-t-tl de la fldvre?/Why does he have a fever? - Giving the cause of a statement considered as a speaker's action produces a justification, implicating the speaker as in: I1 a de la fldvre puisq~tl est tout rouge/ He has a fever since he is flushedl where the information &amp;quot;he is flushed&amp;quot; answers the question Pourqnol dls-tu q~(tl a de la flLh, re?/Why do you say he has a fever? The two intertnetatiom differ with respect to the * peaker's argumentation: either he explains a fact or he justifies himself. This argumentative ambiguity will be explained in the third part of this paper where I shall show how it can be represented in conceptual graph structures containing utterance type concepts. Please note that &amp;quot;utterance&amp;quot; is used in the ~nse of the act of uttering, not that which is uttered.  II - Syntactic ambiguity when anchoring causal relations (1) Je veux que mon flis g6pouse parce qu~elle est  fiche.</Paragraph>
+<Paragraph position="9"> I want my son to marry her because she is rich. The ambiguity (ll and 12) cotreJpondn to different syntactic analyses (Al-broad ~eope and A2-narrow ~eope): AI \[Je veux que mon flls f ~pouse\] parce q~elle riche. \[I want my son to marry her\] because she is rich. A2 Je veux que \[mon ills gC/pouse parce q~elle riche\]. I want \[my son to marry her because she ts rich\]. Except for the case where the conjunction follows a comma (which rules out the second syntaetle analym), I suggest that the statement is totally ambiguous and that it is impossible to choose between these interpretations o11 syntactic grounds. The parser must deliver two syntactic trees.</Paragraph>
+<Paragraph position="10"> The semantic analyser, however, must try to choose one reading only. There is no guaranteed determining factor but some dues may combine in favour of one or other interpretation. Three of these clues are shown below: coreferenee of pronouns, temporal  correspondence and encyclopedic knowledge.</Paragraph>
+<Paragraph position="11"> Coreference of pronouns (2) J'al dtt que Pierre partalt parce que ca iat chantatt.</Paragraph>
+<Paragraph position="12"> I said that Peter was leaving because he felt like It. (3) J'ai dlt que Pierre partatt parce que ca me  ehantait, I said that Peter was leaving because l felt like it.</Paragraph>
+<Paragraph position="13"> Coreference of underlined pronouns favours the narrow scope interpretation for statement (2) and the broad scope one for statement (3). However, no interpretation is really ruled out.</Paragraph>
+<Paragraph position="14"> Although the definition of precise rules seems difficult and still has to be worked out, 1 think that this coreference is a factor in the cognitive process of natural disambiguation.</Paragraph>
+<Paragraph position="15"> Temporal correspondence It is useful to remember that an effect cannot precede its cause in time and that this temporal information can be computed. It depends on the choice of tenses, on the aspeetual indications and on the situation characteristics given in the semantic definitions of the verbs. Several models of temporal representation using conceptual graphs have been designed and implemented \[7\]. The ~mantic analy~-r can u~ information to ~biguate a ~atement.</Paragraph>
+<Paragraph position="16"> Je pense qu'tl a ma~ parce qu'll y a du foutllis. I think he has eaten becouse there is a mess.</Paragraph>
+<Paragraph position="17"> The tenses show that the mess comes after the action of eating. Therefore, the mess cannot be the cause of that action and the narrow neope interprt.'tation in ruled out.</Paragraph>
+<Paragraph position="18"> AcrEs DE COLING-92. NAISZrEs, 23-28 ao0r 1992 8 8 1 PRec. OI; COLING-92, N^r, trEs, AUG. 23-28, 1992 This criterion based on temporal relations is much easier to implement than the first one.</Paragraph>
+<Paragraph position="19"> Encyclopedic knowledge J' espdre qu'tl va faire becat Farce que ~b~ranck est en vacanees.</Paragraph>
+<Paragraph position="20"> I hope the weather will be nice because l:ranck is on vacation.</Paragraph>
+<Paragraph position="21"> Unless we accept a magic causality of meteorological phenomena, everyone knows that clouds do not depend on Frauek's activity. &amp;quot;llais information rules out the narrow scope interpretation for the above statement. null Common sense knowledge may be the most important factor of disambiguation. Sowa's model has tools to enende this kind of knowledge but the relevant information, which is not semantic but pragmarie, must be defined in connection with a specific application.</Paragraph>
+<Paragraph position="22"> For statement (1) and similar statements the parser must deliver two different analyses. The semantic analyser tries to remove the =tmbigtfity using a set of combined clues.</Paragraph>
+<Paragraph position="23"> llI - Argumentative ambiguity when anchoring causal relations Suggested representatlou A statement such as (4) I1 est malade pulsq~(tl a de ta fl~vre.</Paragraph>
+<Paragraph position="24"> He is sfek since he has a fever.</Paragraph>
+<Paragraph position="25"> cannot be paraphrased by 11 est malade parce qdtl a de la fldvrc.</Paragraph>
+<Paragraph position="26"> He is sick because he has a fever.</Paragraph>
+<Paragraph position="27"> which would contradict our basic knowledge of illness and fever, it would be better to paraphrase (4) with one of the following statements: - Je dis (pense, erois, suppose, etc.) qu'tl est malade parce qdtl a de la fldvre.</Paragraph>
+<Paragraph position="28"> - I say (think, assume, imagine, etc.) he is sick because he has a fever. (meaning He Is sick and I say so because he has a fever.) These paraphrases bring out the speaker's activity which remains implicit in (4). Although there may be different kinds of activity (epistemic, cognitive, speech, etc.) they shall all be considered here as utterances, since the problem I wish to address is that of finding the proper structure to represent causal relations.</Paragraph>
+<Paragraph position="29"> The above paraphrases show that statement (4) could be represented as follows:  he has a feverF': in lids graph, the concept type of the U-node (utterance) is different from that of the Prop-nodes (proposition). The U-node represenls the speech situation whose dreumetances form the dependency relations.</Paragraph>
+<Paragraph position="30"> Consequence,~ Several remarks can be made about the suggested representation, 1- Fever is no longer considered as a cause of illness; it causes the speaker's declaration 11 est malade/He is sick.</Paragraph>
+<Paragraph position="31"> 2- In figure 1, proposition 1 is not in the scope of U as it does not belong to its theme. Actually, as O. Duerot has shown \[8\], there are two successive utterances in a statement such as (4). This is easily explained if we acknowledge that the information introduced by puisque/since is already known. As a presupposed piece of information it cannot be stated; in the representation I have chosen it cannot be the theme of an utterance.</Paragraph>
+<Paragraph position="32"> 3- The suggested representation shows that it is necessary to introduce a new type of concept (U) in order to represent the speech situation (which is not a proposition) and the related linguistic phenomena. 1 suggest that this type of concept will enhance the analysis of linguistic phenomena such as modality, temporal relations, reported speech, or any facts dealing with the elreumstanees surrounding an utterance. For instance, let us consider a woman who says to a child: Va darts ta chambrel/Go to your room/ This statement and its context could be represented by the graph shown in figure 2.</Paragraph>
+<Paragraph position="34"> troduce the speaker and the listener. The relation MOD indicates the speech modality. The large box represents a concept whose proposition type remains lmplieiL ACTES DE COL\]NG-92, N,~brl'Es. 23-28 ^OLq&amp;quot; I992 8 8 2 PROC. oi; COLING-92, NAWn~S. AUG. 23-28, 1992 I have shown how puisque/since statements might be represented. I have also argued that it is necessary to introduce a U-type concept (U-node) into the CG-modd so that utterance-related linguistic phenomena can be taken into account. However, in order to represent interpropositional causal links, it must be possible to build the proper representation automatically. Two questions follow: when is it neceessary to have a U-node in the graph of the main danse7 Where should a causal relation be anchored in the modified representation7</Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+U-nodes
+</SectionTitle>
+<Paragraph position="0"> Any sentence, written, spoken or even reported, is the responsibility of a speaker (at this point, paragraph or text levels are not considered). This leads to a first rule: Rule I: A graph representing a sentence must depend on a U-node.</Paragraph>
+<Paragraph position="1"> Any variation in the speech situation (change in point of view, in assertiveness, etc.) must also be indicated. The llst of variations is open but mainly concerns verbs (dire/to say, croire/Zo believe, penser/to think, etc.) which introduce reported speech or a new point of view.</Paragraph>
+<Paragraph position="2"> Rule 2: Verbs that hltroduce reported speech or a point of view must be defined as an utterance (Utype concept).</Paragraph>
+<Paragraph position="3"> Figures 3 and 4 give examples of the application of zules 1 and 2. A further analysis of the utterance activity would refine and extend these rules because modality and other linguistic phenomena may interfere. As we are not concerned here by the distinctions between the different kinds of utterance (episternic, belief, etc.) and the interpretation rules associated with them, we have left the modality of</Paragraph>
+</Section>
+<Section position="2" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+Anchoring
+</SectionTitle>
+<Paragraph position="0"> As the representation of the main elaine becomes more complex the number of anchoring po~fi &amp;quot;bflities increases and it is necessary to determine which ones are legitimate.</Paragraph>
+<Paragraph position="1"> As already explained above, parce que/because and putsque/slnce differ more by the type of their first argument than the nature of the causal relation.</Paragraph>
+<Paragraph position="2"> Parce que/becaz~e relations are usually anchored to a proposition whereas putsque/slnce relations are usually anchored to an utterance.</Paragraph>
+<Paragraph position="3"> Rule 3: A causal relation expressed by puree que/because must be anchored to a propositional node of a conceptual graph.</Paragraph>
+<Paragraph position="4"> According to this rule, in the statement (5) Je dis qt/il a de la fi~re puree qu'tl eat malade. I say that he has after because he is sick.</Paragraph>
+<Paragraph position="5"> anchoring can be done in two ways (the statement is syntactically ambiguous) leading to the graphs shown in figures 5 and 6.</Paragraph>
+<Paragraph position="6">  3: representation of the broad scope interpretation of itatement (5).</Paragraph>
+</Section>
+</Section>
+</Paper>
+

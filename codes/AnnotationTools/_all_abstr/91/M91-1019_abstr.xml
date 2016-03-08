@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="M91-1019">
+<Title>Incident Training Training Training</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+RESULTS
+</SectionTitle>
+<Paragraph position="0"> This report describes the results from the required run in addition to the five optional runs for the Muc-3 task. One purpose of the optional runs is to investigate the precision-recall tradeoff. Two ofthe optional runs (options 1 and 4) were also submitted to Nose, making up a total of three official runs.</Paragraph>
+<Paragraph position="1"> The experiments are conducted using three different training sets selected from the corpus of 1300 messages for which the key-templates have been manually generated during the first phas e of the Muc-3 project. The Training Set 1 (200 messages) and the Training Set 2 (300 messages) contain an almost equal number of relevant and non-relevant messages where a message is terme d relevant if it generates at least one template . The Training Set 1 is a proper subset of Training Se t</Paragraph>
+</Section>
+</Paper>
+

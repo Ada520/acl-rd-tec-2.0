@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-2417">
+<Title>A transformation-based approach to argument labeling</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents the results of applying transformation-based learning (TBL) to the problem of semantic role labeling. The great advantage of the TBL paradigm is that it provides a simple learning framework in which the parallel tasks of argument identification and argument labeling can mutually influence one another. Semantic role labeling nevertheless differs from other tasks in which TBL has been successfully applied, such as part-of-speech tagging and named-entity recognition, because of the large span of some arguments, the dependence of argument labels on global information, and the fact that core argument labels are largely arbitrary. Consequently, some care is needed in posing the task in a TBL framework. null</Paragraph>
+</Section>
+</Paper>
+

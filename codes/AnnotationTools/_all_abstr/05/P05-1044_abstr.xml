@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P05-1044">
+<Title>Contrastive Estimation: Training Log-Linear Models on Unlabeled Data[?]</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Conditional random fields (Lafferty et al., 2001) are quite effective at sequence labeling tasks like shallow parsing (Sha and Pereira, 2003) and named-entity extraction (McCallum and Li, 2003). CRFs are log-linear, allowing the incorporation of arbitrary features into the model. To train on unlabeled data, we require unsupervised estimation methods for log-linear models; few exist. We describe a novel approach, contrastive estimation. We show that the new technique can be intuitively understood as exploiting implicit negative evidence and is computationally efficient. Applied to a sequence labeling problem--POS tagging given a tagging dictionary and unlabeled text--contrastive estimation outperforms EM (with the same feature set), is more robust to degradations of the dictionary, and can largely recover by modeling additional features.</Paragraph>
+</Section>
+</Paper>
+

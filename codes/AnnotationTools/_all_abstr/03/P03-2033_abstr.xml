@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P03-2033">
+<Title>A Debug Tool for Practical Grammar Development</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We have developed willex, a tool that helps grammar developers to work efficiently by using annotated corpora and recording parsing errors. Willex has two major new functions. First, it decreases ambiguity of the parsing results by comparing them to an annotated corpus and removing wrong partial results both automatically and manually. Second, willex accumulates parsing errors as data for the developers to clarify the defects of the grammar statistically. We applied willex to a large-scale HPSG-style grammar as an example.</Paragraph>
+</Section>
+</Paper>
+

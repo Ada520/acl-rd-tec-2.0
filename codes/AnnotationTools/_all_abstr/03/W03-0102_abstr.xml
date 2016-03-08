@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-0102">
+<Title>Pointing to places in a deductive geospatial theory</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Issues in the description of places are discussed in the context of a logical geospatial theory.</Paragraph>
+<Paragraph position="1"> This theory lies at the core of the system GeoLogica, which deduces answers to geographical questions based on knowledge provided by multiple agents.</Paragraph>
+</Section>
+</Paper>
+

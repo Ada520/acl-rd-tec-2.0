@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P06-2109">
+<Title>Trimming CFG Parse Trees for Sentence Compression Using Machine Learning Approaches</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Sentence compression is a task of creating a short grammatical sentence by removing extraneous words or phrases from an original sentence while preserving its meaning. Existing methods learn statistics on trimming context-free grammar (CFG) rules.</Paragraph>
+<Paragraph position="1"> However, these methods sometimes eliminate the original meaning by incorrectly removing important parts of sentences, because trimming probabilities only depend on parents' and daughters' non-terminals in applied CFG rules. We apply a maximum entropy model to the above method.</Paragraph>
+<Paragraph position="2"> Our method can easily include various features, for example, other parts of a parse tree or words the sentences contain.</Paragraph>
+<Paragraph position="3"> We evaluated the method using manually compressed sentences and human judgments. We found that our method produced more grammatical and informative compressed sentences than other methods.</Paragraph>
+</Section>
+</Paper>
+

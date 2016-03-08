@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-0701">
+<Title>I I I</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Summansmg covers a range from text extraction to content condensation Its essential features are picking important concepts from, and reducing, source text or mformahon, to dehver summary reformation or text General strategies for dolug this are clearly preferable to appheatlon-speclfic ones So far, we have found that statlstlcally-baeed sentence extrachon and coneatenatton does not produce effective summaries But we have not yet found general methods of content analysis and condensation We can only identify key source content and present It m summary with heavy domain and goal gmdance The most pressing need is to develop 'sufficmnt to the day' techniques that do more than surface sentence extraction without depending, MUC-hke, on prior specifications for sought content These needed mterme&amp;ate techniques include passage extraction and linking, deep phrase selection and ordenng, entity identification and relating Such strategies benefit from, or require, shallow text analysis and do or can exploit statistical data. They may be enhanced by modern display resources They are apphcable to individual source texts or to data sets as wholes Most importantly, we can tackle tins level of summarising because current robust parsing technology may succeed, given source redundancy, m getting enough of value from sources to help users, and because current text production methods can deliver usable summary texts We should push this line hard, seehng to rmmrarse appheatlon-spec~c domain knowledge, to take advantage of discourse structure, and to address summary function for the user</Paragraph>
+</Section>
+</Paper>
+

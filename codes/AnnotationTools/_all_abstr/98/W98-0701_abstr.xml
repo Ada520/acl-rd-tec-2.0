@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-0701">
+<Title>I I I I I I 1 General Word Sense Disambiguation Method Based on a Full Sentential Context</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a new general supervised word sense disambiguation method based on a relatively small syntactically parsed and semantically tagged training corpus. The method exploits a full sentential context and all the explicit semantic relations in a sentence to identify the senses of all of that sentence's content words. In spite of a very small training corpus, we report an overall accuracy of 80.3% (85.7, 63.9, 83.6 and 86.5%, for nouns, verbs, adjectives and adverbs, respectively), which exceeds the accuracy of a statistical sense-frequency based semantic tagging, the only really applicable general disambiguating technique.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A92-1012">
+<Title>The ACQUILEX LKB: representation issues in semi-automatic acquisition of large lexicons</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe the lexical knowledge base system (LKB) which has been designed and implemented as part of the ACQUILEX project 1 to allow the representation of multilinguM syntactic and semantic information extracted from machine readable dictionaries (MRDs), in such a way that it is usable by natural language processing (NLP) systems. The LKB's lexical representation language (LRL) augments typed graph-based unification with default inheritance, formalised in terms of default unification of feature structures. We evaluate how well the LRL meets the practical requirements arising from the semi-automatic construction of a large scale, multilingual lexicon. The system as described is fully implemented and is being used to represent substantial amounts of information automatically extracted from MRDs.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J92-4003">
+<Title>Class-Based n-gram Models of Natural Language</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> In a number of natural language processing tasks, we face the problem of recovering a string of English words after it has been garbled by passage through a noisy channel.</Paragraph>
+<Paragraph position="1"> To tackle this problem successfully, we must be able to estimate the probability with which any particular string of English words will be presented as input to the noisy channel. In this paper, we discuss a method for making such estimates. We also discuss the related topic of assigning words to classes according to statistical behavior in a large body of text.</Paragraph>
+<Paragraph position="2"> In the next section, we review the concept of a language model and give a definition of n-gram models. In Section 3, we look at the subset of n-gram models in which the words are divided into classes. We show that for n = 2 the maximum likelihood assignment of words to classes is equivalent to the assignment for which the average mutual information of adjacent classes is greatest. Finding an optimal assignment of words to classes is computationally hard, but we describe two algorithms for finding a suboptimal assignment. In Section 4, we apply mutual information to two other forms of word clustering. First, we use it to find pairs of words that function together as a single lexical entity. Then, by examining the probability that two words will appear within a reasonable distance of one another, we use it to find classes that have some loose semantic coherence.</Paragraph>
+<Paragraph position="3"> In describing our work, we draw freely on terminology and notation from the mathematical theory of communication. The reader who is unfamiliar with this field or who has allowed his or her facility with some of its concepts to fall into disrepair may profit from a brief perusal of Feller (1950) and Gallagher (1968). In the first of these, the reader should focus on conditional probabilities and on Markov chains; in the second, on entropy and mutual information.</Paragraph>
+<Paragraph position="4"> * IBM T. J. Watson Research Center, Yorktown Heights, New York 10598.</Paragraph>
+</Section>
+</Paper>
+

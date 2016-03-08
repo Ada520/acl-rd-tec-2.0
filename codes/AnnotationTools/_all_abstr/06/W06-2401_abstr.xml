@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-2401">
+<Title>Named Entities Translation Based on Comparable Corpora</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper we present a system for translating named entities from Basque to Spanish based on comparable corpora.</Paragraph>
+<Paragraph position="1"> For that purpose we have tried two approaches: one based on Basque linguistic features, and a language-independent tool. For both tools we have used Basque-Spanish comparable corpora, a bilingual dictionary and the web as resources.</Paragraph>
+</Section>
+</Paper>
+

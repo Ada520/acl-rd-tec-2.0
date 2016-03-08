@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-1108">
+<Title>A Text Categorization Based on Summarization Technique</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We propose a new approach to text categorization based upon the ideas of summarization. It combines word-based frequency and position method to get categorization knowledge from the title field only. Experimental results indicate that summarization-based categorization can achieve acceptable performance on Reuters news corpus.</Paragraph>
+<Paragraph position="1"> Introduction With the current explosive growth of Interact usage, the demand for fast and useful access to online data is increasing. An efficient categorization system should provide accurate information quickly. There are many applications for text categorization, including information retrieval, text routing, text filtering and text understanding systems.</Paragraph>
+<Paragraph position="2"> The text categorization systems use predefmed categories to label new documents. Many different approaches have been applied to this task, including nearest neighbor classifiers (Masand, Linoff and Waltz, 1992; Yang, 1994; Lain and Ho, 1998; Yang, 1999), Bayesian independence classifiers (Lewis and Ringuette, 1994; Baker and McCallum, 1998; McCallum and Nigam, 1998), decision trees (Fuhr et al., 1991; Lewis and Ringuette, 1994; Apte et al., 1998), induction rule learning (Apte et al., 1994; Cohen and Singer, 1996; Mouilinier et al., 1996), neural networks (Wiener, Pedersen and Weigend, 1995; Ng, Gob and Low, 1997), and support vector machines (Joachims, 1998). These categorization algorithms have been applied to many different subject domains, usually news stories (Apte et al., 1994; Lewis and Ringuette, 1994; Wiener, Pedersen and Weigend, 1995; Yang, 1999), but also physics abstracts (Fuhr et al., 1991), and medical texts (Yang and Chute, 1994).</Paragraph>
+<Paragraph position="3"> In this research to resolve the task of text categorization we apply a method of text summarization, that is, combining word-based frequency and position method to get categorization knowledge from the title field only. Experimental results indicate that summarization-based categorization can achieve acceptable performance on Reuters news corpus. Additionally, the computation time for the title field is very short. Thus, this system is appropriate for online document classifier.</Paragraph>
+<Paragraph position="4"> Following is a description of the organization of this paper. Section 2 describes the previous work of summarization. Summarization-based algorithms for text categorization are outlined in Section 3. The experiments we undertook to assess the performance of these algorithms are the topic of Section 4. Quantitative experimental results are also summarized.</Paragraph>
+<Paragraph position="5"> Finally, concluding remarks and recommendation for future work is made.</Paragraph>
+</Section>
+</Paper>
+

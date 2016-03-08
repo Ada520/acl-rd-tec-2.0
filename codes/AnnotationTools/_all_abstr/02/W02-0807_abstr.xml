@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-0807">
+<Title>Sense Information for Disambiguation: Confluence of Supervised and Unsupervised Methods</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> For SENSEVAL-2, we disambiguated the lexical sample using two different sense inventories.</Paragraph>
+<Paragraph position="1"> Official SENSEVAL-2 results were generated using WordNet, and separately using the New Oxford Dictionary of English (NODE). Since our initial submission, we have implemented additional routines and have now examined the differences in the features used for making sense selections. We report here the contribution of default sense selection, idiomatic usage, syntactic and semantic clues, subcategorization patterns, word forms, syntactic usage, context, selectional preferences, and topics or subject fields. We also compare the differences between WordNet and NODE. Finally, we compare these features to those identified as significant in supervised learning approaches.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-1107">
+<Title>REXTOR: A System for Generating Relations from Natural Language</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper argues that a finite-state language model with a ternary expression representation is currently the most practical and suitable bridge between natural language processing and information retrieval. Despite the theoretical computational inadequacies of finite-state grammars, they are very cost effective (in time and space requirements) and adequate for practical purposes.</Paragraph>
+<Paragraph position="1"> The ternary expressions that we use are not only linguistically-motivated, but also amenable to rapid large-scale indexing. REXTOR (Relations EXtracTOR) is an implementation of this model; in one uniform framework, the system provides two separate grammars for extracting arbitrary patterns of text and building ternary expressions from them. These content representational structures serve as the input to our ternary expressions indexer. This approach to natural language information retrieval promises to significantly raise the performance of current systems.</Paragraph>
+</Section>
+</Paper>
+

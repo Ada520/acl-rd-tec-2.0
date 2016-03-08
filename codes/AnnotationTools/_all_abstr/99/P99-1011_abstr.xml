@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P99-1011">
+<Title>A Meta-Level Grammar: Redefining Synchronous TAG for Translation and Paraphrase</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In applications such as translation and paraphrase, operations are carried out on grammars at the meta level. This paper shows how a meta-grammar, defining structure at the meta level, is useful in the case of such operations; in particular, how it solves problems in the current definition of Synchronous TAG (Shieber, 1994) caused by ignoring such structure in mapping between grammars, for applications such as translation. Moreover, essential properties of the formalism remain unchanged.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-0702">
+<Title>Conceptual Language Models for Dialog systems</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+3 Knowledge inference
+</SectionTitle>
+<Paragraph position="0"> Usually, when an application is developed, an even small training corpus is available.</Paragraph>
+<Paragraph position="1"> Semantic categories and functions are manually derived for an application. They can be modified when the application is deployed in order to correct errors or add missing constituents.</Paragraph>
+<Paragraph position="2"> A number of words in the lexicon have lexical entries containing their syntactic category, syntactic constructs which can appear in the same sentence, semantic features and constructs they can be part of. When one of these words is encountered in the training corpus, it is considered as a trigger for the semantic categories contained in its lexical entry. The association between words and semantic features is part of the semantic knowledge of the system.</Paragraph>
+<Paragraph position="3"> The presence of a category in the sentence under analysis can be verified manually or by deriving it from the parse tree of the sentence. As lexical entries, grammars and rules for deriving semantic structures from parse trees may be imprecise or incomplete, a single example can be carefully examined and validated manually.</Paragraph>
+<Paragraph position="4"> Once a single example is available with a detailed syntactic and semantic analysis, it can be generalized. A sentence may contain a complete or partial semantic structure or just one component concept. Let G represent such a semantic interpretation. Furthermore, each structure may correspond to a pattern made of phrases and fillers of the sentence represented by a sequence of words W. Semantic Classification Trees (SCT) proposed in [1] can be used for automatically deriving sentence patterns corresponding to conceptual structures. The purpose of learning is to build or modify a SFST that accepts a sequence of words and output a semantic interpretation G.</Paragraph>
+<Paragraph position="5"> The initial analysis of an example starts by using a tagger for replacing words with their preterminal syntactic categories.</Paragraph>
+<Paragraph position="6"> Then, semantic tags are automatically associated with sequences of syntactic tags manually or using the semantic knowledge. A tag expression made of syntactic and semantic tags is obtained in this way as a representation for of G. As a by-product, expressions for the constituents of and components of G are built and added to the semantic knowledge.</Paragraph>
+<Paragraph position="7"> Generalization of the example uses a phrase generator to produce sequences of words from the tag expression.</Paragraph>
+<Paragraph position="8"> These sequences of words enrich the finite state translator which has to map word sequences into the conceptual structure G.</Paragraph>
+<Paragraph position="9"> Further generalization can be obtained by inferring synonyms with a WordNet. If generalization has provided erroneous sequences of words, these sequences can be removed by manual inspection or when it is observed that the system has made an interpretation error because of them. With a similar procedure, new sequences of words can be added to the automaton for G.</Paragraph>
+<Paragraph position="10"> Once it has been found that a word (noun or verb) contributed to hypothesize a concept in the semantic structure, the concept is added as semantic feature in the lexical entry of the word.</Paragraph>
+<Paragraph position="11"> In summary learning of semantic knowledge follows the following steps:  a semantic structure then remove it, * if a phrase is missed in the representation of a semantic structure, but the corresponding tag expressions is present in the semantic knowledge, then the phrase is added to the corresponding SFST, * if the tag expression does not exist in the semantic knowledge, then it is built and sequences of words are generated from it with the above outlined generalization procedure.</Paragraph>
+<Paragraph position="12"> A set of SFST is built in this way. They are added to the LM to provide concept specific components and to produce semantic interpretations at the same time with a translation process.</Paragraph>
+</Section>
+</Paper>
+

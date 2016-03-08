@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H94-1080">
+<Title>A One Pass Decoder Design For Large Vocabulary Recognition</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> To achieve reasonable accuracy in large vocabulary speech recognition systems, it is important to use detailed acoustic models together with good long span language models.</Paragraph>
+<Paragraph position="1"> For example, in the Wall Street Journal (WSJ) task both cross-word triphones and a trigram language model are necessary to achieve state-of-the-art performance. However, when using these models, the size of a pre-compiled recognition network can make a standard Viterbi search infeasible and hence, either multiple-pass or asynchronous stack decoding schemes are typically used. In tl:fis paper, we show that time-synchronous one-pass decoding using cross-word triphones and a trigram language model can be implemented using a dynamically built tree-structured network. This approach avoids the compromises inherent in using fast-matches or preliminary passes and is relatively efficient in implementation.</Paragraph>
+<Paragraph position="2"> It was included in the HTK large vocabulary speech recognition system used for the 1993 ARPA WSJ evaluation and experimental results are presented for that task.</Paragraph>
+</Section>
+</Paper>
+

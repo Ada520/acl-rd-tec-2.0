@@ -1,0 +1,92 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E91-1030">
+<Title>The Formal and Processing Models of CLG</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Keywords: Grammatical formalisms,
+</SectionTitle>
+<Paragraph position="0"> Complex constraint resolution.</Paragraph>
+<Paragraph position="1"> Introduction CLG is a family of grammar formalisms based on complex constraint resolution designed, implemented and tested over the last three years. CLG grammars consist of the description of global and local constraints of linguistic objects as described in \[1\] and \[2\].</Paragraph>
+<Paragraph position="2"> For the more recent members of the CLG family, global constraints consist of sort declarations ~md the definition of relation between sorts, while local constraints consist of partial lexical and phrasal descriptions. The sorts definable in CLG are closed, in a way akin to the ones used by UCG 13\]. Relations over sorts represent the statement of linguistic principles in the spirit of HPSG \[4\].</Paragraph>
+<Paragraph position="3"> The constraint language is a classical first order language with the usual unary and binary logical connectives, i.e. negation (-), conjunction (&amp;), disjunction (I), material implication (---)), equivalence (,-)) and a restricted form of quantification ('7' and Zl) over finitely instantiatable domains. The interpretation of these C/onneclives in CLG is strictly classical as in Smolka's FL 16\] and Johnson's AVL \[5\], unlike the intuitionistic interpretation of negation of Moshier and Rounds \[7\]. A more detailed description of CLG including its denotational semantics can be found in 121.</Paragraph>
+<Paragraph position="4"> In this paper we present the tormal processing model of CLG, which has been influenced by the Constraint Logic Programming paradigm 18\] 191. We show in what way it extends pure unilication based formalisms and how it achieves a sound implementation of classically interpreted first order logic while maintaining practical computational behaviour by resorting to a simple set of constraint rewrite rules and a lazy evaluation model for constraints satisfaction thus avoiding the problem mentioned in I10\] concerning the non-monotonic properties of negation and implication intcrpretcd in the Herbrand universe.</Paragraph>
+<Paragraph position="5"> The paper is organized as follows: in the first part we show how we extend term unification to accommodate complex constraint resolution. We then explain what rewrites are involved in CLG constraint resolution, proceeding to show what the benefits of the delayed evaluation model of CLG are. We conclude by discussing some of the issues involved in our approach and compare it to other approaches based on standard first order logics.</Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+From Unification to Constraint
+Solving
+</SectionTitle>
+<Paragraph position="0"> We will first show how to extend a unilication based parsing algorithm for a grammar formalism based on an equational theory, to an algorithm for a formalism with complex constraints attached to rules.</Paragraph>
+<Paragraph position="1"> Assume a countable set V of variables x, y, z, ... and a countable set F of function symbols f, g, h .... each one equipped with an arity expressed as W. Let T he the term algebra over F and V, and TO be the corresponding set of ground terms.</Paragraph>
+<Paragraph position="2"> - 173 Assume lurthermorc that rules are of thc form: t ----&gt; tl ...tn for t, tl ..... tn are in T and that the parsing algorithm relies solely on the unification algorithm for its operation, applying it to terms andeither computing a unifier of those terms or failing.</Paragraph>
+<Paragraph position="3"> Associating with a term t its usual denotation IItB={St E TO} (where S denotes a substitution of terms for variables) the unifier t of two terms t' and t&amp;quot; has tile following important property I\[ t \]1 = \[I t'\]l n Ht&amp;quot;\]l Next we introduce constraints over terms in T. For the moment we will assume that constraints c include at least atomic equality constraints between terms and formulas built from the atomic constraints using the standard logic operators, namely disjunction, conjunction and negation, and that a notion of validity can be defined for closed formulas (see however \[2\] for an extended constraint language).</Paragraph>
+<Paragraph position="4"> We will extend terms to constrained terms t:c, where c is a constraint involving only variables occurring in t, and take Ilt:cll ={St ~W0 I I--Sc} as its denotation.</Paragraph>
+<Paragraph position="5"> Now, given constrained terms t:c, t':c' and t&amp;quot;:c&amp;quot; we say that t:c is a unifier oft':c' and t&amp;quot;:c&amp;quot;</Paragraph>
+<Paragraph position="7"> It is easy to see that there is at least one algorithm which given two constrained terms either fails, if they do not admit a unifier, or else returns one unifier of the given terms. As a matter of fact it is enough to apply the unification algorithm to t' and t&amp;quot; to obtain an unifying substitution S and to return S(t':c'&amp;c&amp;quot;).</Paragraph>
+<Paragraph position="8"> We can then annotate the rules of our formalism with constraints and use any algorithm for computing the unifier of the constrained terms to obtain a new parsing algorithm for the extended tormalism. It is interesting to note that, if we used the trivial algorithm described above for computing the unifier of constrained terms, we would obtain exactly the same terms as in the equational case but annotated with the conjunction of all the constraints attached to the instances of the rules involved in the derivation.</Paragraph>
+<Paragraph position="9"> One of the obvious drawbacks of using such a strategy for computing unifiers is that there is no guarantee that the denotation of S(t':c'&amp;c&amp;quot;) is not empty since S(c'&amp;c&amp;quot;) may be unsatisfiable.</Paragraph>
+<Paragraph position="10"> We will now give two properties of unifiers which can be used to derive more interesting algorithms.</Paragraph>
+<Paragraph position="11"> Assume t:c is an unifier of t':c' and t&amp;quot;:c&amp;quot; and c is logically equivalent to d, then t:d is also a unifier. Similarly if, for some variable x and term r, we can derive x=r from c, then \[r/x\](t:c) is also a unifier for t':c' and t&amp;quot;:c&amp;quot;, where \[r/xl denotes substitution of r for x.</Paragraph>
+<Paragraph position="12"> It is obvious that by using an algorithm similar to the one used by Jonhson 151 for reducing the constraint c to normal form, it is possible to find all the equalities of the form x=r which can be derived from c, and also decide if c is satisfiable. This strategy, however, suffers from the inherent NP hardness, and, for practical implementations we prefer to use, at most unification steps, an incomplete algorithm reserving the complete algorithm for special points in the computation process which include necessarily the final step.</Paragraph>
+</Section>
+<Section position="2" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+Rewriting and Delaying
+Constraints
+</SectionTitle>
+<Paragraph position="0"> In this section we present a slightly simplified version of the constraint rewriting system which is at the core of the CLG model. As will be apparent from these rules they attempt a partial rewrite to conjunctive rather than to the more common disjunctive normal form. Some of the reasons for this choice will be explained below.</Paragraph>
+<Paragraph position="1"> Another point worthwhile mentioning here is that linguistic descriptions and linguistic representations are pairs consisting of a partial equational description of an object and constraints (cf. \[2\]) in contrast to \[12,14\] where constraints are kept within linguistic objects.</Paragraph>
+<Paragraph position="2">  Thc CLG constraint language includes expressions involving paths which allow ,'eference to a specific argument of a complex term in order to avoid the need for introducing existential quantifiers and extraneous variables when specifying constraints on arguments of terms.</Paragraph>
+<Paragraph position="3"> We define paths p, values v and constraints c as follows (,q~antification is omitted Ibr reasons of simplicity):</Paragraph>
+<Paragraph position="5"> In the above definitions ni denotes the i -th projection while the superscript in I n indicates the arity of f as before. As an example, if t denotes f (a,g (c,d)) the following constraints are satisfied: t.f 2 t.l'2.rc2.g 2 t.f2.rq = a t.12.rt2.g2.r(:2 = d We can now state the CLG rewriting rules for values:</Paragraph>
+</Section>
+<Section position="3" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+Rewriting Values
+</SectionTitle>
+<Paragraph position="0"> f (.t I ..... tn ).Pa..ni.p --+ ti. p f (tl ..... tn).gk'.rti --+ J_ ift nC/gk and for constraints (keeping in mind that implication and equiwdence are just shorthands):</Paragraph>
+</Section>
+<Section position="4" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+Rewriting Constraints
+</SectionTitle>
+<Paragraph position="0"></Paragraph>
+<Paragraph position="2"> if either v or v' is _1_ if v and v' are the same value</Paragraph>
+<Paragraph position="4"> f(tl ..... tn) =g(ul ..... Un) ~ false We will use set notation to denote a conjunction of the constraints in the set. Using this notation we can state the following rules for rewriting constrained terms:</Paragraph>
+</Section>
+<Section position="5" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+Rewriting Constrained Terms
+</SectionTitle>
+<Paragraph position="0"></Paragraph>
+<Paragraph position="2"> \[P (f(zl ..... zk)) / x I t :{ ....... } where z ,Zl ..... Zn are new variables and p(...) which can be defined is by:</Paragraph>
+<Paragraph position="4"> The above is a slight simplification: constraints associated with terms come in fact in pairs, the second element of which is omitted here for the sake of simplicity and contains essentially negated literals and inequations. The reason for this is that we want to give the system a certain inferencing capability without having to resort to expensive exhaustive pairwise search through the constraint set.</Paragraph>
+<Paragraph position="5"> It should also be mentioned that after one constraint in a set is rewritten it will only be rewritten again if some variable occurring in it is instantiated.</Paragraph>
+</Section>
+<Section position="6" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+Completing Rewrites
+</SectionTitle>
+<Paragraph position="0"> As &amp;quot;already mentioned the set of rewrite rules given above is not complete in the sense that it is not sufficient to reduce all constraints to conjunctive normal form, although CLG has a complete set of rewrite rules available to be used whenever needed. At least at the end of processing, representations are reduced to conjunctive form.</Paragraph>
+<Paragraph position="1"> Sets of rules for rewriting first order logic formulae to conjunctive normal form can be found in the literature \[1!\]. The specific set of complete rewrites currently used in CLG includes  There are various reasons for not using them at every unification step. The application of the distributive law (1) is avoided since it contributes to the P-Space completeness of the reduction to normal form: in general we avoid using rules which are input length increasing.</Paragraph>
+<Paragraph position="2"> As for the de Morgan law (2), we do not use it because by itself it does neither help to detect failure nor does it contribute to add positive equational information.</Paragraph>
+<Paragraph position="3"> Lastly, the cut rule (3) is just too expensive to be used in a systematic way.</Paragraph>
+<Paragraph position="4"> Our current experience shows that the number of constraints which need the complete set of rewrite rules to be solved is usually nil or extremely small even for non-trivial grammars \[11.</Paragraph>
+<Paragraph position="5">  The three main characteristics of the CLG processing model are the use of constrained terms to represent partial descriptions, the lack of systematic rewriting of constraints to normal form and the lazy evaluation of complex constraints.</Paragraph>
+<Paragraph position="6"> The choice of constrained terms instead of the more common sets of constraints is motivated by methodological rather than theoretical reasons. The two representations are logically equivalent but CLG's commitment to naturally extend unification to constraint resolution makes the latter better suited if, as in the present case, we want to use existing algorithms where they have shown successful.</Paragraph>
+<Paragraph position="7"> The alternative, to develop new algorithms and data structures for complex constraint resolution (including equation solving) \[12,13,14\] is less attractive. It is preferable to split the problem into its well understood equational subpart and the more speculative complex constraint resolution.</Paragraph>
+<Paragraph position="8"> It is also worthwhile noting that terms constitute a very compact representation for sets of equations and naturally suggest the use of conjunctive forms, another distinguishing characteristics of CLG. Furthermore, conjunctive forms constitute a compact way of representing partial objects in that they localise ambiguity. We already have discussed the reasons for avoiding systematic rewrites of constraints to normal form. This in no way affects the soundness of the system although it may prevent early failure. Even so it is computationally more effective than resorting to normal form reduction Note that CLG is not a priori committed to check whether newly added constraints will lead to inconsistency. However it is often possible to check such inconsistencies at little cost without full reduction to normal form. A solvability check is only performed for a limited number of easily testable situations, mainly for the case of negated literals, of which a separate list is kept as mentioned above.</Paragraph>
+<Paragraph position="9"> - 176 It has to be pointed out though, that in order to guarantee the global completeness of the rewrites, as opposed to potential local incompleteness, CLG completes the rewrite to normalized form at the latest at the very end of processing. Nevertheless this decision is not a commitment. Rather, a rewrite to normal form could be carried out with the frequency deemed necessary. Our present experience however shows that a full rewrite at the end is sufficient. Finally, the way constraint resolution is delayed is a dircct consequence of the rewrites available at run-time. Every constraint which cannot at a given point in time be reduced with one of the above rules is just left untouched in that cycle of constraint evaluation, awaiting for further instantiations to make it a candidate for reduction.</Paragraph>
+<Paragraph position="10"> A last note on some consequences these properties have for the user: as with other complex constraint based systems, in CLG there is no guarantee that all constraints will always be solved, not even after the last rewrite to normal lotto. As a result (a) the system does not fail because all constraints have not been resolved and (b) the intermediate and final data structure are also partial descriptions, being potentially annotated with unresolved constraints, and denote not a single, but a class of representations. The first consequence is clearly a desirable property, for it is unreasonable to think that grammatical descriptions will ever be complete to the point where all and only the constraints which are needed will be expressed in a grammar and all and only the infon~ation which is needed to satisl'y these constraints will be available at the appropriate moment.</Paragraph>
+<Paragraph position="11"> As for the second consequence, We have found unresolved constraints to be the best possible source of information about the state of the computation and the incompleteness of grammatical description.</Paragraph>
+<Paragraph position="12"> Relation to Other Work Although in this paper we have presented a specific (subset ol) constraint language and a specific incomplete set of rewrite rules, neither is integral part of CLG's theoretical framework.</Paragraph>
+<Paragraph position="13"> In fact the basic ideas behind the CLG processing model can be carried over to other frameworks, such as the feature logic of Smolka 16,15t, by replacing the unification of terms with the unification of the set of equational constraints and by either redefining the constraint language in a suitable way (e.g. redefining the notion of path) or else by translating the non-atomic formulae of the feature logic.</Paragraph>
+<Paragraph position="14"> Finally, note that the processing model described in this paper can, and eventually should, be complemented with techniques from constraint logic programming \[16J to handle cases such as constraints on finite domain variables where the completeness of the constraint handling is computalionally tractable. Conclusions We have shown how, starting from a purcly unification based framework, it is possible to extend its expressive power by introducing a constraint language for restricting the ways in which partial objects can be instantiated, and have provided a gcneral strategy for processing in the extended framework.</Paragraph>
+<Paragraph position="15"> We have also prcscntcd and justified the use of partial rewrite rulcs which, whilc maintaining the essential formal properties, arc computationally effective with available technologies.</Paragraph>
+<Paragraph position="16"> We justified the use of conjunctive forms as a better option than their disjunctive counterparts as a means for providing amongst other things a compact representation of partial objects.</Paragraph>
+<Paragraph position="17"> Finally we have emphasized the importance of lazy evaluation of complex constraints in order to ensure computational tractability.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

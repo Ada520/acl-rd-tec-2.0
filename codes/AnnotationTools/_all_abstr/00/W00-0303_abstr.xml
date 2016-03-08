@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-0303">
+<Title>Dialogue Management in the Mercury Flight Reservation System</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes the dialogue module of the Mercury systemewhich has been under development over the past year or two. Mercury provides telephone access to an on-line flight database, and allows users to plan and price itineraries between major airports worldwide. The main focus of this paper is the dialogue control strategy, which is based on a set of ordered rules as a mechanism to manage complex dialogue interactions. The paper also describes the interactions between the dialogue component and the other servers of the system, mediated via a central hub. We evaluated the system on 49 dialogues from users booking real flights, and report on a number of quantitative measures of the dialogue interaction.</Paragraph>
+</Section>
+</Paper>
+

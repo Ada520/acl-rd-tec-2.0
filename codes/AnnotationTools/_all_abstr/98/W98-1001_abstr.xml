@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-1001">
+<Title>Discovering Lexical Information by Tagging Arabic Newspaper Text</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+ABSTRACT
+</SectionTitle>
+<Paragraph position="0"> In this paper we describe a system for building an Arabic lexicon automatically by tagging Arabic newspaper text. In this system we are using several techniques for tagging the words in the text and figuring out their types and their features. The major techniques that we are using are: finding phrases, analyzing the affixes of the words, and analyzing their pattems. Proper nouns are particularly difficult to identify in the Arabic language; we describe techniques for isolating them.</Paragraph>
+</Section>
+</Paper>
+

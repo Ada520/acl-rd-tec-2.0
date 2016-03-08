@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P97-1017">
+<Title>Machine Transliteration</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> It is challenging to translate names and technical terms across languages with different alphabets and sound inventories. These items are commonly transliterated, i.e., replaced with approximate phonetic equivalents.</Paragraph>
+<Paragraph position="1"> For example, computer in English comes out as ~ i/l:::'=--~-- (konpyuutaa) in Japanese.</Paragraph>
+<Paragraph position="2"> Translating such items from Japanese back to English is even more challenging, and of practical interest, as transliterated items make up the bulk of text phrases not found in bilingual dictionaries. We describe and evaluate a method for performing backwards transliterations by machine. This method uses a generative model, incorporating several distinct stages in the transliteration process.</Paragraph>
+</Section>
+</Paper>
+

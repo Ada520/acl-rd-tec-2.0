@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H90-1101">
+<Title>Natural Language, Knowledge Representation, and Discourse</Title>
+<Section position="2" start_page="0" end_page="429" type="abstr">
+<SectionTitle>
+Recent Results
+</SectionTitle>
+<Paragraph position="0"> We developed a model of indirect speech act interpretation that has the generality plan-based approaches, but is sensitive to the syntactic form of the sentence (Hinkelman &amp; Allen, 1989). We also demonstrated an initial version ECOLOGIC, for representing and reasoning about narrative events, using commonsense uncertain knowledge.</Paragraph>
+<Paragraph position="1"> Most recently, we designed and implemented a detailed theory of tense and aspect that addresses well-known problems in the systematic determination of &amp;quot;reference times&amp;quot; for tense-aspect constructs. This is reported in these proceedings.</Paragraph>
+<Paragraph position="2"> Plans for the coming year The major initiative this year is the construction of a prototype NL dialog system operating in a simple, but realistic task domain requiring considerable man-machine interaction. This domain is one of scheduling transportation actions in a complex (simulated) world where only partial knowledge of the world state can ever be obtained. The system must maintain as accurate a representation of the world as possible and keep the human informed, as well as assisting the human in constructing, monitoring and debugging the transportation plans. Within the next year, we plan to have a dialog system that can understand and take part in an extended dialog involving clarification, elaboration and confirmation before the final plan is agreed upon and executed. Related to this project, we are starting a project on the use of prosodic cues for signaling focus in speech act interpretation.</Paragraph>
+<Paragraph position="3"> We also plan to extend ECOLOGIC to allow for &amp;quot;adjudicative inference&amp;quot; (arriving at an unambiguous interpretation using multiple, possibly conflicting sources of knowledge), and &amp;quot;narrative inference&amp;quot; (the inference of identity between discourse entities, and of causal connections based on narrative order). Finally, we plan to develop a better theoretical foundation for wh-question answering, which will use all of the existing rules of interpretation (including syntactic parsing, logical form generation, and de-indexicalization rules) &amp;quot;in reverse&amp;quot;.</Paragraph>
+</Section>
+</Paper>
+

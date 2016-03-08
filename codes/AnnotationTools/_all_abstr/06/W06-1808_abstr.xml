@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-1808">
+<Title>Numerical Data Integration for Cooperative Question-Answering</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we present an approach which aims at providing numerical answers in a question-answering system.</Paragraph>
+<Paragraph position="1"> These answers are generated in a cooperative way: they explain the variation of numerical values when several values, apparently incoherent, are extracted from the web as possible answers to a question.</Paragraph>
+</Section>
+</Paper>
+

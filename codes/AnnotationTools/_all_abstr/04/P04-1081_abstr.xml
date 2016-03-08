@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P04-1081">
+<Title>A Kernel PCA Method for Superior Word Sense Disambiguation Dekai WU1 Weifeng SU Marine CARPUAT dekai@cs.ust.hk weifeng@cs.ust.hk marine@cs.ust.hk</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We introduce a new method for disambiguating word senses that exploits a nonlinear Kernel Principal Component Analysis (KPCA) technique to achieve accuracy superior to the best published individual models. We present empirical results demonstrating significantly better accuracy compared to the state-of-the-art achieved by either na&amp;quot;ive Bayes or maximum entropy models, on Senseval-2 data.</Paragraph>
+<Paragraph position="1"> We also contrast against another type of kernel method, the support vector machine (SVM) model, and show that our KPCA-based model outperforms the SVM-based model. It is hoped that these highly encouraging first results on KPCA for natural language processing tasks will inspire further development of these directions.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C92-1012">
+<Title>Towards Developing Reusable NLP Dictionaries</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Development of reusahle dictionaries for NI,P applications requires a carefully designed lexicological framework, a lexical acquisition strategy, an integrated development toolbox, and facilities to generate dictionaries for client applications. This paper presents results of tile LEXlC projecO, which was set up to prepare the development of large multilingual lexieal resources. null Kt;ywords: lexicons, tools, large-scale resources, typed feature structures.</Paragraph>
+</Section>
+</Paper>
+

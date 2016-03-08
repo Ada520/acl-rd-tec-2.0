@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P96-1026">
+<Title>Two Sources of Control over the Generation of Software Instructions*</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> Our work addresses the generation of software manuals in French and English, starting from a semantic model of the task to be documented (Paris et al., 1995). Our prime concern is to be able to exercise control over the mapping from the task model to the generated text. We set out to establish whether the task model Mone is sufficient to control the linguistic output of a text generation system, or whether additional control is required. In this event, an obvious source to explore is the communicative purpose of the author, which is not necessarily constant throughout a manuM. Indeed, in a typical software manual, it is possible to distinguish at least three sections, each with a different purpose: a tutorial containing exercises for new users, a series of step-by-step instructions for the major tasks to be accomplished, and a ready-reference summary of the commands.</Paragraph>
+<Paragraph position="1"> We need, therefore, to characterise the linguistic expressions of the different elements of the task model, and to establish whether these expressions are sensitive or not to their context, that is, the functional section in which they appear. This paper presents the results of an analysis we conducted to this end on a corpus of software instructions in French.</Paragraph>
+</Section>
+</Paper>
+

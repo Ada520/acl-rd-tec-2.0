@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-1307">
+<Title>Statistics Learning and Universal Grammar: Modeling Word Segmentation</Title>
+<Section position="1" start_page="49" end_page="49" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a computational model of word segmentation and presents simulation results on realistic acquisition In particular, we explore the capacity and limitations of statistical learning mechanisms that have recently gained prominence in cognitive psychology and linguistics.</Paragraph>
+</Section>
+</Paper>
+

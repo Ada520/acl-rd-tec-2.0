@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-1096">
+<Title>Disambiguation of morphological analysis in Bantu languages</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The paper describes problems in disambiguating the morphological analysis of Bantu languages by using Swahili as a test language. The main factors of ambiguity in this language group can be traced to the noun class structure on one hand and to the bi-directional word-formation on the other. In analyzing word-forms, the system applied utilizes SWATWOL, a morphological parsing program based on two-level formalism. Disambiguation is carried out with the latest version (April 1996) of the Constraint Grammar Parser (GGP). Statistics on ambiguity are provided. Solutions tbr resolving different types of ambiguity are presented and they are demonstrated by examples fi'om corpus text. Finally, statistics on the performance of the disambiguator are presented. null Introduction There are five principal factors in Bantu languages which contribute to ambiguous analysis of wordtbrms. First, nouns are grouped into more than ten marked noun classes. The marking of these classes extends across the noun phrase, whereby the noun governs the choice of markers in dependent constituents. Second, verbs inflect steminitially and mark the subject, object, and relative referent by prefixes, whereby the actual form of each prefix is governed by the noun class of the noun it refers to. In addition, verb derivation also adds to the complexity of verbal morphology. Third, reduplication is a productive phenomenon. Because its accurate description in lexicon is not possible, alternative ways in handling it are discussed. Fourth, the majority of Bantu languages have a tone system, but rarely this is indicated in writing. This adds to morphological ambiguity. Fifth, various semantic functions of word-forms are also a source of ambiguity.</Paragraph>
+<Paragraph position="1"> In this paper I shall discuss the points one and two by using Swahili as a test language.</Paragraph>
+</Section>
+</Paper>
+

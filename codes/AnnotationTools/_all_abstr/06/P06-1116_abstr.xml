@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P06-1116">
+<Title>Sydney, July 2006. c(c)2006 Association for Computational Linguistics A Bootstrapping Approach to Unsupervised Detection of Cue Phrase Variants</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We investigate the unsupervised detection of semi- xed cue phrases such as This paper proposes a novel approach. . . 1 from unseen text, on the basis of only a handful of seed cue phrases with the desired semantics. The problem, in contrast to bootstrapping approaches for Question Answering and Information Extraction, is that it is hard to nd a constraining context for occurrences of semi- xed cue phrases.</Paragraph>
+<Paragraph position="1"> Our method uses components of the cue phrase itself, rather than external context, to bootstrap. It successfully excludes phrases which are different from the target semantics, but which look super cially similar. The method achieves 88% accuracy, outperforming standard bootstrapping approaches.</Paragraph>
+</Section>
+</Paper>
+

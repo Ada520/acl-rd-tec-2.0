@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W96-0511">
+<Title>Implementing an Integration of the Systemic Flowchart Model of Dialogue and Rhetorical Structure Theory</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> There are two major types of language generation.l The first of these is monologue generation, which focuses on generating monologue text, typically of paragraph length.</Paragraph>
+<Paragraph position="1"> The second is dialogue generation, the aim of which is to produce co-operative, interactive discourse. Typically projects in natural language generation focus on one or the other, but some researchers are now considering how the two fit together. This paper is one of a series that discuss how this may. be done, at the second stage of generation, i.e. the generation of the structure of discourse.</Paragraph>
+<Paragraph position="2"> The most influential approach to planning discourse monologues in recent years has undoubtedly been Rhetorical Structure Theory (RST). While there is much to discuss about this framework, for our present purposes we shall adopt and accept the 'standard version, as found in Mann and Thompson (1987) and the many papers that build on it. For dialogue we use what we take to be the most holistic and most explicit development of the Birmingham School of discourse analysis (originating with Sinclair and Coulthard 1975), namely the Systemic Flowchart Model (SFM). This was first described in Fawcett, van der Mije and van Wissen (1988).</Paragraph>
+<Paragraph position="3"> The present paper follows on from two earlier papers in particular. The first describes the implementation of the SFM as part of the</Paragraph>
+</Section>
+</Paper>
+

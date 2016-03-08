@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C96-1012">
+<Title></Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Word sense disambugation has recently been utilized in corpus-based aI)proaches, reflecting the growth in the number of nmehine readable texts. One (:ategory ()f al)l)roa(:hes disambiguates an input verb sense based on the similarity t)etween its governing (:its(; fillers and those in given examl)les. In this palter , we introdu&lt;:c the degree of (:&lt;mtriblltion of cast; to verb sells(', disambignation intt) this existing method, in this, greater diversity of semanti(: range of case filler examples will lead to that ease contributing to verb sense disambiguation more. We also report th(; result of a coml)arative ext)eriment, in which the t)erfornlance of disaml)igui~tion is iml)rt)ved t)y considering this notion of semantic contribution.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W96-0401">
+<Title>The HealthDoc Sentence Planner</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes the Sentence Planner (sP) in the HealthDoc project, which is concerned with the production of customized patient-education material from a source encoded in terms of plans. The task of the sP is to transform selected, not necessarily consecutive, plans (which may vary in detail, from text plans specifying only content and discourse organization to fine-grained but incohesive, sentence plans) into completely specified specifications for the surface generator. The paper identifies the sentence planning tasks, which are highly interdependent and partially parallel, and argues, in accordance with \[Nirenburg et al., 1989\], that' a blackboard architecture with several independent modules is most suitable to deal with them. The architecture is presented, and the interaction of the sentence planning modules within this architecture is shown. The first implementation of the sP is discussed; examples illustrate the planning process in action.</Paragraph>
+</Section>
+</Paper>
+

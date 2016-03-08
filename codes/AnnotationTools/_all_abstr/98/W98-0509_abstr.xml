@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-0509">
+<Title>Decision Procedures for Dependency Parsing Using Graded Constraints</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> Language understanding is based on a variety of contributions from different representational levels. From this perspective, one of the most attractive features of dependency based grammar models seems to be their relational nature which allows to accommodate various kinds of relationships in a very similar fashion.</Paragraph>
+<Paragraph position="1"> Since the basic representational framework is a rather general one it can be (re-)interpreted in many different ways. Thus, dependency relations lend themselves to model the surface syntactic structure of an utterance (with labels like subject-of, direct-object-of, determiner-of, etc.), its thematic structure (with labels like agent-of, theme-of, etc.) and even the referential structure (with labels like referential-identity, partof, possessor-of, etc.). This representational similarity obviates the necessity to integrate too many disparate informational contributions into a single tree-like representation. Instead, representational levels can be separated from each other in a clean manner with appropriate mappings being defined to relate the different components to each other.</Paragraph>
+<Paragraph position="2"> Another less obvious advantage of dependency formalisms is their suitability for the ap-</Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+Syn
+Sem
+</SectionTitle>
+<Paragraph position="0"> : : : i Die Knochen sieht die Katze. The bones sees the cat.  tree represents a description level. plication of eliminative parsing techniques. In contrast to the traditional view on parsing as a constructive process, which builds new tree structures from elementary building blocks and intermediate results, eliminative approaches organize structural analysis as a candidate elimination procedure, removing unsuitable interpretations from a maximum set of possible ones. Hence, parsing is constructed as a strictly monotonic process of ambiguity reduction.</Paragraph>
+<Paragraph position="1"> In this paper we describe different algorithmic solutions to eliminative parsing. The novel contribution consists in the use of graded constraints, which allow to model traditional grammar regularities as well as preferences and defaults. Details of the linguistic modeling are presented by Heinecke and SchrSder (1998).</Paragraph>
+</Section>
+</Section>
+</Paper>
+

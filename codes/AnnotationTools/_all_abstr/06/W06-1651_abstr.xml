@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-1651">
+<Title>Joint Extraction of Entities and Relations for Opinion Recognition</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We present an approach for the joint extraction of entities and relations in the context of opinion recognition and analysis.</Paragraph>
+<Paragraph position="1"> We identify two types of opinion-related entities -- expressions of opinions and sources of opinions -- along with the linking relation that exists between them. Inspired by Roth and Yih (2004), we employ an integer linear programming approach to solve the joint opinion recognition task, and show that global, constraint-based inference can significantly boost the performance of both relation extraction and the extraction of opinion-related entities. Performance further improves when a semantic role labeling system is incorporated.</Paragraph>
+<Paragraph position="2"> The resulting system achieves F-measures of 79 and 69 for entity and relation extraction, respectively, improving substantially over prior results in the area.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E06-3003">
+<Title>An Approach to Summarizing Short Stories</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a system that produces extractive summaries of short works of literary fiction. The ultimate purpose of produced summaries is defined as helping a reader to determine whether she would be interested in reading a particular story. To this end, the summary aims to provide a reader with an idea about the settings of a story (such as characters, time and place) without revealing the plot. The approach presented here relies heavily on the notion of aspect. Preliminary results show an improvement over two naive baselines: a lead baseline and a more sophisticated variant of it. Although modest, the results suggest that using aspectual information may be of help when summarizing fiction. A more thorough evaluation involving human judges is under way.</Paragraph>
+</Section>
+</Paper>
+

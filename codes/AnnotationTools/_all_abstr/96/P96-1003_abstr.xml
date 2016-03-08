@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P96-1003">
+<Title>Noun-Phrase Analysis in Unrestricted Text for Information Retrieval</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Information retrieval is an important application area of natural-language processing where one encounters the genuine challenge of processing large quantities of unrestricted natural-language text. This paper reports on the application of a few simple, yet robust and efficient noun-phrase analysis techniques to create better indexing phrases for information retrieval. In particular, we describe a hybrid approach to the extraction of meaningful (continuous or discontinuous) subcompounds from complex noun phrases using both corpus statistics and linguistic heuristics. Results of experiments show that indexing based on such extracted subcompounds improves both recall and precision in an information retrieval system.</Paragraph>
+<Paragraph position="1"> The noun-phrase analysis techniques are also potentially useful for book indexing and automatic thesaurus extraction.</Paragraph>
+</Section>
+</Paper>
+

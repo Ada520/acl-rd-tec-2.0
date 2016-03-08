@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W06-0904">
+<Title>Sydney, July 2006. c(c)2006 Association for Computational Linguistics A Pilot Study on Acquiring Metric Temporal Constraints for Events</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Previous research on temporal anchoring and ordering has focused on the annotation and learning of temporal relations between events. These qualitative relations can be usefully supplemented with information about metric constraints, specifically as to how long events last.</Paragraph>
+<Paragraph position="1"> This paper describes the first steps in acquiring metric temporal constraints for events. The work is carried out in the context of the TimeML framework for marking up events and their temporal relations. This pilot study examines the feasibility of acquisition of metric temporal constraints from corpora.</Paragraph>
+</Section>
+</Paper>
+

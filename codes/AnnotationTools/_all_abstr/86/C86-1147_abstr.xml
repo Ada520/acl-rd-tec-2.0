@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C86-1147">
+<Title>Translation by Understanding: A Machine Translation Sy,i;tem LUTE Hirosato NOMURA, Shozo NAITO, Yasuhiro KATAGIRI, and Aldra SHIMAZU</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This pal)or presents a linguistic model for language understanding and describes its application to an experimental machine translation system called LUTE. The language understanding model is an interactive model between the memory structure and a text. The memory structure is hierarchical and represented in a frame-network. Linguistic and non-linguistic knowledge is stored and the result of understanding the text is assimilated into the memory structure. Tim understanding process is interactive in that the text invokes knowledge and the understanding procedure intcrprots the text by using that knowledge. A linguistic model, called the Extended Case Structure model, is defined by adopting three kinds of information: structure, relation and concept. These three are used rccursively and iteratively as the basis for memory organization. These principles are applied to the design and implementation of the LUTE which translates Japanese into English and vice versa.</Paragraph>
+</Section>
+</Paper>
+

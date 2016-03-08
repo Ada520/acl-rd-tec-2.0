@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C86-1103">
+<Title>A Word Database for Natural Language Processing</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1 Introduction
+</SectionTitle>
+<Paragraph position="0"> The intent of this paper is to show some aspects of a computer dictionary geared towards the natural language component of an expert system. The dictionary is organized as a database to integrate tile various aspects of lexicographic work and, at the same time, enable fast access from a parser.</Paragraph>
+<Paragraph position="1"> Work on the lexicon was long neglected - both in theoretical linguistics and natural language processing projects - so we felt that a principled approach was overdue (cf. Sedelow (1985) for a survey of related work). In the past two years, we concentrated therefore on the formulation of criteria for establishing syntactic features which have to be coded in the lexicon, and we will report here on some of our findings.</Paragraph>
+<Paragraph position="2"> This will be preceded by a brief overview of the aims of our overall project and a short description of the prototype system we are building. We will then describe the design of our lexicographic database including the criteria for selecting sources of the vocabulary and some of our tools for editing and querying.</Paragraph>
+<Paragraph position="3"> The main objectives of the project Linguistics and Logic Based Legal Expert System, which is a Joint Research Project between the University of T/ibingen and the IBM Scientific Center Heidelberg, are to design and implement a natural language based knowledge acquisition and query system and to build a legal expert system on its basis. It consists of the following components: * The dialog component controls the interaction with users and contains among other things an explanation component and a component for preparing system output for display and for eventually generating natural language explanatory texts.</Paragraph>
+<Paragraph position="4"> In a so-called user profile, as much information about a user is kept as necessary: to improve answers and explanations, one must know certain things about the user, mainly about her or his knowledge in current sessions.</Paragraph>
+<Paragraph position="5"> For example, one may want to avoid explanations about details the user already knows.</Paragraph>
+<Paragraph position="6"> * The deductive component is activated by user queries, by input of new knowledge, and by requests of the Natural Language Analyzer.</Paragraph>
+<Paragraph position="7"> * The knowledge manager administers the actual knowledge base in the working area as well as its permanent version in the database. It is the only component allowed to update the permanent knowledge base. It loads knowledge from the database into storage and requests consistency checks for new knowledge. With the exception of the lexical database, the Knowledge Manager also accesses the database on behalf of other system components.</Paragraph>
+<Paragraph position="8">  tensions and modifications of the existing User Specialty Languages system (USL) developed at the Heidelberg Scientific Center (Lehmann, H., N. Ott, M. Zoeppritz (1985), M. Zoeppritz (1984)). USL is a natural language front end to SQL/DS (IBM 1983) operational in six languages. Within the scope of this project, it will be enhanced to suit the requirements of a natural language (German) based expert system. This means that it must be able to deal with both running texts and queries and to translate them into their corresponding logical form.</Paragraph>
+<Paragraph position="9"> The Natural Language Analyzer consists of the following parts: - a sentence separator splitting texts into sentences, * a pre-parser for dictionary look-up, . the parser and the routines for semantic analysis, * routines for the generation of the logical form from intermediate structures (cf. Guenthner and Lehmann (1984) for a description), * routines for semi-automatic generation of thesaurus extensions (Wirth, R. (1984)).</Paragraph>
+<Paragraph position="10"> As a specific application, the area of German traffic law was chosen for the expert system which shall be used in two modes: for consultation by a legal expert and as a tutor for law students (cf. Alschwee et al. (1985) for details).</Paragraph>
+</Section>
+</Paper>
+

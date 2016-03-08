@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-1506">
+<Title>Adapting Existing Grammars: The XLE Experience</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We report on the XLE parser and grammar development platform (Maxwell and Kaplan, 1993) and describe how a basic Lexical Functional Grammar for English has been adapted to two different corpora (newspaper text and copier repair tips).</Paragraph>
+</Section>
+</Paper>
+

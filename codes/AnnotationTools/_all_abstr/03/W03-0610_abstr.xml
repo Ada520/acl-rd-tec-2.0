@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W03-0610">
+<Title>Conversational Robots: Building Blocks for Grounding Word Meaning</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> How can we build robots that engage in fluid spoken conversations with people, moving beyond canned responses to words and towards actually understanding? As a step towards addressing this question, we introduce a robotic architecture that provides a basis for grounding word meanings. The architecture provides perceptual, procedural, and affordance representations for grounding words. A perceptuallycoupled on-line simulator enables sensory-motor representations that can shift points of view. Held together, we show that this architecture provides a rich set of data structures and procedures that provide the foundations for grounding the meaning of certain classes of words.</Paragraph>
+</Section>
+</Paper>
+

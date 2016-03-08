@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P03-1022">
+<Title>A Machine Learning Approach to Pronoun Resolution in Spoken Dialogue</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We apply a decision tree based approach to pronoun resolution in spoken dialogue.</Paragraph>
+<Paragraph position="1"> Our system deals with pronouns with NPand non-NP-antecedents. We present a set of features designed for pronoun resolution in spoken dialogue and determine the most promising features. We evaluate the system on twenty Switchboard dialogues and show that it compares well to Byron's (2002) manually tuned system.</Paragraph>
+</Section>
+</Paper>
+

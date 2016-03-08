@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A00-2028">
+<Title>Learning to Predict Problematic Situations in a Spoken Dialogue System: Experiments with How May I Help You?</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Current spoken dialogue systems are deficient in their strategies for preventing, identifying and repairing problems that arise in the conversation. This paper reports results on learning to automatically identify and predict problematic human-computer dialogues in a corpus of 4774 dialogues collected with the How May I Help You spoken dialogue system.</Paragraph>
+<Paragraph position="1"> Our expectation is that the ability to predict problematic dialogues will allow the system's dialogue manager to modify its behavior to repair problems, and even perhaps, to prevent them. We train a problematic dialogue classifier using automaticallyobtainable features that can identify problematic dialogues significantly better (23%) than the baseline. A classifier trained with only automatic features from the first exchange in the dialogue can predict problematic dialogues 7% more accurately than the baseline, and one trained with automatic features from the first two exchanges can perform 14% better than the baseline.</Paragraph>
+</Section>
+</Paper>
+

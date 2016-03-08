@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J90-2003">
+<Title></Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+AN IMPLEMENTABLE SEMANTICS FOR COMPARATIVE
+CONSTRUCTIONS 1
+</SectionTitle>
+<Paragraph position="0"></Paragraph>
+<Section position="1" start_page="0" end_page="0" type="sub_section">
+<SectionTitle>
+Sweden
+</SectionTitle>
+<Paragraph position="0"> We describe a comprehensive treatment of the syntax and semantics of comparative constructions based on theoretical work by Pinkham, which can be implemented in a relatively straightforward fashion within a feature-based phrase-structure grammar. Comparatives are divided up into &amp;quot;clausal&amp;quot; and &amp;quot;phrasal&amp;quot; constructions; in contrast to most previous theories, however, phrasals are not regarded as reduced forms of clausals. We begin by defining a Montagovian semantics for phrasal comparatives that directly links interpretation rules to the surface syntactic structure; we 1then show how this solution can be made computationally more efficient by &amp;quot;factoring&amp;quot; the interpretation through an intermediate level of representation, using a method similar to that used for dealing with scoping phenomena. Detailed examples are provided, showing how the method can correctly describe the semantics of a variety of superficially widely different comparative constructions. The ideas have all been implemented within a large-scale grammar for Swedish, a &amp;quot;toy&amp;quot; version of which is presented, along with examples of the output.</Paragraph>
+</Section>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W02-0809">
+<Title>Dutch Word Sense Disambiguation: Optimizing the Localness of Context</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe a new version of the Dutch word sense disambiguation system trained and tested on a corrected version of the SENSEVAL-2 data. The system is an ensemble of word experts; each word expert is a memory-based classifier of which the parameters are automatically determined through cross-validation on training material. The original best-performing system, which used only local context features for disambiguation, is further refined by performing additional parallel cross-validation experiments for optimizing algorithmic parameters and the amount of local context available to each of the word experts' memory-based kernels. This procedure produces an accuracy of 84.8% on test material, improving on a base-line score of 77.2% and the previous SENSEVAL-2 score of 84.2%. We show that cross-validation overfits; had the local context been held constant at two left and right neighbouring words, the system would have scored 85.0%.</Paragraph>
+</Section>
+</Paper>
+

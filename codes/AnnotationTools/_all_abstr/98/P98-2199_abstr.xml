@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-2199">
+<Title>Segregatory Coordination and Ellipsis in Text Generation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we provide an account of how to generate sentences with coordination constructions from clause-sized semantic representations. An algorithm is developed and various examples from linguistic literature will be used to demonstrate that the algorithm does its job well.</Paragraph>
+</Section>
+</Paper>
+

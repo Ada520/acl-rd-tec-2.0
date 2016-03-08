@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H90-1078">
+<Title>Adaptive Natural Language Processing</Title>
+<Section position="1" start_page="0" end_page="3" type="abstr">
+<SectionTitle>
+1 Objectives
+</SectionTitle>
+<Paragraph position="0"> Current NLP technology is very weak at understanding new words, novel forms, or input containing errors. The objective of this project is a pilot study of several new ideas for the automatic adaptation and improvement of natural language processing (NLP) systems. The effort focuses particularly on automatically inferring the meaning of new words in context and on developing partial interpretations of language that is either fragmentary or beyond the capability of the NLP system to understand. The techniques are being evaluated in a message processing domain, such as automatic data base update based on articles from The Wall Street Journal on corporate takeover bids.</Paragraph>
+<Paragraph position="1"> The NLP system wit use large annotated corpora, such as those being developed under the DARPA-funded TREE-BANK project at the University of Pennsylvania, to adapt by acquiring syntactic and semantic information from the annotated examples. Large knowledge bases of common facts will contribute to adaptability by providing information necessary for semantic analysis and discourse analysis. Statistical language modeling, based on probability estimates derived from the large corpora, will provide a means of ranking alternative interpretations of fragments.</Paragraph>
+<Paragraph position="2"> This pilot study is designed to test the feasibility of such a new approach.</Paragraph>
+<Paragraph position="3">  In the three months since this project began, we have run pilot experiments on the effectiveness of probability models for (1) ranking interpretations of sentences, (2) predicting the part of speech of known but ambiguous words, and (3) predicting the part of speech of unknown words. Additionally, we are experimenting with using unification algorithms to infer properties of an unknown word from examples.</Paragraph>
+<Paragraph position="4"> In preliminary experiments, we obtained a reduction in the error rate in selecting the correct interpretation of a sentence by a factor of from two to four, depending on the test material.</Paragraph>
+<Paragraph position="5"> Using supervised training for a tri-tag probabilistic model, we achieved a 3-5% error rate on a test set m picking the correct part of speech. 405</Paragraph>
+</Section>
+</Paper>
+

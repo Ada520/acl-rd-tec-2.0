@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P03-1039">
+<Title>Chunk-based Statistical Translation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes an alternative translation model based on a text chunk under the framework of statistical machine translation. The translation model suggested here first performs chunking. Then, each word in a chunk is translated. Finally, translated chunks are reordered.</Paragraph>
+<Paragraph position="1"> Under this scenario of translation modeling, we have experimented on a broad-coverage Japanese-English traveling corpus and achieved improved performance.</Paragraph>
+</Section>
+</Paper>
+

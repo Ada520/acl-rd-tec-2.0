@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-0410">
+<Title>Using Summarization for Automatic Briefing Generation</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> We describe a system which automatically generates multimedia briefings from high-level outlines. The system uses summarization in content selection and creation, and in helping form a coherent narrative for the briefing. The approach does not require a domain knowledge base.</Paragraph>
+</Section>
+</Paper>
+

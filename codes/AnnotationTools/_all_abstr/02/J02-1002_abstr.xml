@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J02-1002">
+<Title>A Critique and Improvement of an Evaluation Metric for Text Segmentation</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> Text segmentation is the task of determining the positions at which topics change in a stream of text. Interest in automatic text segmentation has blossomed over the last few years, with applications ranging from information retrieval to text summarization to story segmentation of video feeds. Early work in multiparagraph discourse segmentation examined the problem of subdividing texts into multiparagraph units that represent passages or subtopics. An example, drawn from Hearst (1997), is a 21paragraph science news article, called &amp;quot;Stargazers,&amp;quot; whose main topic is the existence of life on earth and other planets. Its contents can be described as consisting of the following subtopic discussions (numbers indicate paragraphs):</Paragraph>
+</Section>
+</Paper>
+

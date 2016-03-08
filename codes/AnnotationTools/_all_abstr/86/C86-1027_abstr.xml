@@ -1,0 +1,28 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C86-1027">
+<Title>A Parametric NL Translator</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This report outlines a machine translation system whose linguistic component is based on principles of Government and Binding. A &amp;quot;universal grammar&amp;quot; is defined, together with pal-ameters of variation for specific languages. The system, written in Prolog, parses, generates, and translates between English and Spanish (both directions).</Paragraph>
+<Paragraph position="1"> i. Introduction The theory of Gov~t and Binding (GB) (Chc~sky 1981) proposes universal principles of grammar (UG) that underlie all natural grammars, with the principles being subject to parametrization, giving rise to language variation. One example is the so-called &amp;quot;pro-drop&amp;quot; parameter of languages like Spanish, Hungarian, C~ineae, etc., that, among other things, allow '%dssing&amp;quot; subjects. To model such a theory, one needs merely (~) to define the UG along with an appropriate set of parameter values for each language, as opposed to defining totally independent language-specific grammars. The overall size of the system is thereby reduced, and adding the grammar for a new language ideally means simply adding its parameter settings. Hence the motivation for a GB approach to machine translation.</Paragraph>
+<Paragraph position="2"> To test the approach, a model of UG was constructed, parameters defined for Spanish and English, and language-specific rules added for morphology and, where necessary, idiosyncratic syntax. The result is the GB-Translator (GBT) (Sharp 1985).</Paragraph>
+<Paragraph position="3"> A general knowledge of GB is assumed in the following, as is a familiarity with Prolog, the language in which the GBT is implemented.</Paragraph>
+<Paragraph position="4"> The overall strategy of the GBT is as follows: (I) a. read in a sentence in the source language; b. perform a morphological and constituent analysis, building an S-structure representation; c. convert the S-structure to D- (&amp;quot;deep&amp;quot;) structure via reverse-transformations; d. perfor~ lexical transfer frc~ the source D-structure to target D-structure; e. transform the D-structure to one or more Sstructures; null f. validate each S-structure for well-formedhess; null g. &amp;quot;flatten&amp;quot; and display only the well-form~l target sentences.</Paragraph>
+<Paragraph position="5"> Since GB is primarily a theory of syntax, no semantic processing has been introduced in the GBT. What is of interest here is the variety of syntactic forms available in diverse languages for expressing semantically equivalent propositions, with &amp;quot;equivalence,, being controlled by appropriate choices of lexical items in the two languages. Problems of semantic ambiguity and structural alteration have not been addressed, as this relates more to translation theory than to GB.</Paragraph>
+<Paragraph position="6"> An example of the system's behavior is shown below, where user responses are underlined: (2) Enter source language: 9_e_e~lish.</Paragraph>
+<Paragraph position="7"> Enter target language: ~ish.</Paragraph>
+<Paragraph position="8"> Enter sentence in english: I believe John to have told the truth.</Paragraph>
+<Paragraph position="9"> Yo creo clue Juan ha dicho la verdad.</Paragraph>
+<Paragraph position="10"> Creo que Juan ha dicho la verdad.</Paragraph>
+<Paragraph position="11"> Enter source language: ~L3anish.</Paragraph>
+<Paragraph position="12"> Enter target language: ~lish.</Paragraph>
+<Paragraph position="13"> Enter sentence in spanish: Creo que has dicho la verdad.</Paragraph>
+<Paragraph position="14"> I believe that you have told the truth.</Paragraph>
+<Paragraph position="15"> I believe you have told the truth.</Paragraph>
+<Paragraph position="16"> I believe you to have told the truthdeg</Paragraph>
+</Section>
+</Paper>
+

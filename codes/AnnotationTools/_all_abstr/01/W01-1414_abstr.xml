@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W01-1414">
+<Title>Adding Domain Specificity to an MT system</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In the development of a machine translation system, one important issue is being able to adapt to a specific domain without requiring time-consuming lexical work. We have experimented with using a statistical word-alignment algorithm to derive word association pairs (French-English) that complement an existing multi-purpose bilingual dictionary. This word associationinformationisaddedtothe system at the time of the automatic creation of our translation pattern database, thereby making this database more domain specific. This technique significantly improves the overall quality of translation, as measured in an independent blind evaluation.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W04-0403">
+<Title>What is at stake: a case study of Russian expressions starting with a preposition</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> The paper describes an experiment in detecting a specific type of multiword expressions in Russian, namely expressions starting with a preposition. This covers not only prepositional phrases proper, but also fixed syntactic constructions like v techenie ('in the course of'). First, we collect lists of such constructions in a corpus of 50 mln words using a simple mechanism that combines statistical methods with knowledge about the structure of Russian prepositional phrases. Then we analyse the results of this data collection and estimate the efficiency of the collected list for the resolution of morphosyntactic and semantic ambiguity in a corpus.</Paragraph>
+</Section>
+</Paper>
+

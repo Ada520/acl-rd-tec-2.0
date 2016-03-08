@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E06-2005">
+<Title>XMG - An expressive formalism for describing tree-based grammars</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper1 we introduce eXtensible MetaGrammar, a system that facilitates the development of tree based grammars.</Paragraph>
+<Paragraph position="1"> Thissystem includes both (1) aformal language adapted to the description of linguistic information and (2) a compiler for this language. It applies techniques of logic programming (e.g. Warren's Abstract Machine), thus providing an efficient and theoretically motivated framework for the processing of linguistic metadescriptions. null</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P94-1032">
+<Title>Extracting Noun Phrases from Large-Scale Texts: A Hybrid Approach and Its Automatic Evaluation</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> To acquire noun phrases from running texts is useful for many applications, such as word grouping, terminology indexing, etc. The reported literatures adopt pure probabilistic approach, or pure rule-based noun phrases grammar to tackle this problem. In this paper, we apply a probabilistic chunker to deciding the implicit boundaries of constituents and utilize the linguistic knowledge to extract the noun phrases by a finite state mechanism. The test texts are SUSANNE Corpus and the results are evaluated by comparing the parse field of SUSANNE Corpus automatically. The results of this preliminary experiment are encouraging.</Paragraph>
+</Section>
+</Paper>
+

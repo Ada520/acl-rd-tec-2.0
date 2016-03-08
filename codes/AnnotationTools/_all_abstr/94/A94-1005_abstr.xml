@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A94-1005">
+<Title>Machine Translation of Sentences with Fixed Expressions</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents a practical machine translation system based on sentence types for economic news stories.</Paragraph>
+<Paragraph position="1"> Conventional English-to-Japanese machine translation (MT) systems which are rule-based approaches, are difficult to translate certain types of Associated Press (AP) wire service news stories, such as economics and sports, because these topics include many fixed expressions (such as compound words or collocations) which are difficult to be processed by conventional syntactic analysis and/or word selection methods.</Paragraph>
+<Paragraph position="2"> The proposed MT system, an economic-news stories machine translation system (ENTS), can translate economic news sentences with fixed expressions. The system consists of three processes, to handle different types of sentences, fixed type, economics-specific type and general type. This paper focuses mainly on the translation method for fixed-type sentences, which is a kind of example-based approach. In this translation method, fixed sentence translation (STRA) data plays a key role. The STRA data is a set of bilingual templates, which is built automatically from fixed English sentences and their Japanese translation equivalents. The fixed English sentences are extracted automatically from the AP corpus.</Paragraph>
+<Paragraph position="3"> A series of experiments to evaluate ENTS using economic news in the AP news stories showed the translation accuracy was about 50 % higher than with our conventional rule-based MT method.</Paragraph>
+</Section>
+</Paper>
+

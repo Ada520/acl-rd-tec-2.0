@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C88-2118">
+<Title>Parsing Noisy Sentences</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper describes a method to parse and understand a &amp;quot;noisy&amp;quot; sentence that possibly includes errors caused by a speech recognition device. Our parser is connected to a speech recognition device which takes a continuously spoken sentence in Japanese and produces a sequence of phonemes. The output sequence of phonemes can quite possibly include errors: altered phonemes, extra phonemes and missing phonemes. The task is to parse the noisy phoneme sequence and understand the meaning of the original input sentence, given an augmented context-free grammar whose terminal symbols are phonemes. A very efficient parsing method is required, as the task's search space is much larger than that of parsing un-noisy sentences. We adopt the generalized LR parsing algorithm, and a certain scoring scheme to select the most likely sentence o~t of multiple sentence candidates. The use of a confusion matrix, which is created in advance by analyzing a large set of input/output pairs, is discussed to improve the scoring accuracy. The system has been integrated into CMU's knowledge-based machine translation system.</Paragraph>
+</Section>
+</Paper>
+

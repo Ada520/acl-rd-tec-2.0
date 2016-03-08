@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="E06-1030">
+<Title>Web Text Corpus for Natural Language Processing</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Web text has been successfully used as training data for many NLP applications.</Paragraph>
+<Paragraph position="1"> While most previous work accesses web text through search engine hit counts, we created a Web Corpus by downloading web pages to create a topic-diverse collection of 10 billion words of English. We show that for context-sensitive spelling correction the Web Corpus results are better than using a search engine. For thesaurus extraction, it achieved similar over-all results to a corpus of newspaper text. With many more words available on the web, better results can be obtained by collecting much larger web corpora.</Paragraph>
+</Section>
+</Paper>
+

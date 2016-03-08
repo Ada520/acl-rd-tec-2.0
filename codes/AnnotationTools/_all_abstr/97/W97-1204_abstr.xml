@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W97-1204">
+<Title>Integrating Language Generation with Speech Synthesis Concept to Speech System</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Concept To Speech (CTS) systems are closely related to two other types of systems: Natural Language Generation (NLG) and Speech Synthesis (SS). In this paper, we propose a new architecture for a CTS system. A Speech Integrating Markup Language (SIML) is designed as an general interface for integrating NLG and SS. We also present a CTS system for a multimedia presentation generation application. We discuss how to extend the current CTS system based on the new architecture. Currently, only limited semantic, syntactic and prosodic features are covered inour prototype system.</Paragraph>
+</Section>
+</Paper>
+

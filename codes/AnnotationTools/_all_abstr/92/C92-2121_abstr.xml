@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C92-2121">
+<Title>Semantic Network Array Processor as a Massively Parallel Computing Platform for High Performance and Large-Scale Natural Language Processing*</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper demonstrates the utility of the Semantic Network Array Processor (SNAP) as a massively parallel platform for high performance and large-scale natural language processing systems. SNAP is an experimental massively parallel machine which is dedicated to, but not limited to, the natural language processing ushag semantic networks. In designing the SNAP, we have investigated various natural language processing systems and theories to determine the scope of the hardware support and a set of micro-coded instructions to be provided. As a resuit, SNAP employs an extended marker-passing model and a dynamically modifiable network model. A set of primitive instructions is micro-coded to directly support a parallel marker-passing, bitoperations, numeric operations, network modifications, and other essential functions for natural language processing. This paper demonstrates the utility of SNAP for various paradigms of natural language processing. We have discovered that the SNAP provides milliseconds or microseconds performance on several important applicatious such as the memory-based parsing and translation, classificatlon-based parsing, and VLKB search. Also, we argue that there are numerous opportunities in the NLP community to take advantages of the comlmtational power of the SNAP.</Paragraph>
+</Section>
+</Paper>
+

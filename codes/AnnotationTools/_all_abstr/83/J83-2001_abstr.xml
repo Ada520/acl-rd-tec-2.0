@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="J83-2001">
+<Title>Natural Language Access to Data Bases&amp;quot; Interpreting Update Requests 1</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. Introduction
+</SectionTitle>
+<Paragraph position="0"> Natural language is a desirable access mechanism for data base systems because it frees the user from the task of understanding the details of the data base structure. A number of systems have provided natural language query capabilities (for example, Hendrix et al. 1978); however, few of these allow the user to perform updates (changes) to the data base using natural language. (For an example of one that does allow simple updates, see Henisz-Dostert and Thompson 1974.) 1 This work is part of the Knowledge Base Management project (DARPA contract #N00039-82-C-0250), which is investigating the application of artificial intelligence techniques to issues in the field of data base management. The views and conclusions contained in this document are those of the authors and should not be interpreted as representative of the official policies, either expressed or implied, of DARPA or the U.S. Government.</Paragraph>
+</Section>
+</Paper>
+

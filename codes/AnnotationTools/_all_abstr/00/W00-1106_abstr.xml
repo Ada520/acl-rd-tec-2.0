@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-1106">
+<Title>Corpus-Based Learning of Compound Noun Indexing *</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In this paper, we present a corpus-based learning method that can index diverse types of compound nouns using rules automatically extracted from a large tagged corpus.</Paragraph>
+<Paragraph position="1"> We develop an efficient way of extracting the compound noun indexing rules automatically and perform extensive experiments to evaluate our indexing rules. The automatic learning method shows about the same performance compared with the manual linguistic approach but is more portable and requires no human efforts. We also evaluate the seven different filtering methods based on both the effectiveness and the efficiency, and present a new method to solve the problems of compound noun over-generation and data sparseness in statistical compound noun processing.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C02-1014">
+<Title>Semiautomatic labelling of semantic features</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents the strategy and design of a highly efficient semiautomatic method for labelling the semantic features of common nouns, using semantic relationships between words, and based on the information extracted from an electronic monolingual dictionary. The method, that uses genus data, specific relators and synonymy information, obtains an accuracy of over 99% and a scope of 68,2% with regard to all the common nouns contained in a real corpus of over 1 million words, after the manual labelling of only 100 nouns.</Paragraph>
+</Section>
+</Paper>
+

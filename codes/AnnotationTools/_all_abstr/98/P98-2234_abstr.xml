@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P98-2234">
+<Title>Some Properties of Preposition and Subordinate Conjunction Attachments*</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+phone# +1-781-271-2658
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Determining the attachments of prepositions and subordinate conjunctions is a key problem in parsing natural language. This paper presents a trainable approach to making these attachments through transformation sequences and error-driven learning. Our approach is broad coverage, and accounts for roughly three times the attachment cases that have previously been handled by corpus-based techniques. In addition, our approach is based on a simplified model of syntax that is more consistent with the practice in current state-of-the-art language processing systems. This paper sketches syntactic and algorithmic details, and presents experimental results on data sets derived from the Penn Treebank. We obtain an attachment accuracy of 75.4% for the general case, the first such corpus-based result to be reported. For the restricted cases previously studied with corpus-based methods, our approach yields an accuracy comparable to current work (83.1%).</Paragraph>
+</Section>
+</Paper>
+

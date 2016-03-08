@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P97-1042">
+<Title>Compiling Regular Formalisms with Rule Features into Finite-State Automata</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents an algorithm for the compilation of regular formalisms with rule features into finite-state automata. Rule features are incorporated into the right context of rules. This general notion can also be applied to other algorithms which compile regular rewrite rules into automata. null</Paragraph>
+</Section>
+</Paper>
+

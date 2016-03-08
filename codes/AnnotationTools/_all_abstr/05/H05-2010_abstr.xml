@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H05-2010">
+<Title>WebExperimenter for multiple-choice question generation</Title>
+<Section position="1" start_page="0" end_page="1" type="abstr">
+<SectionTitle>
+1 Aim
+</SectionTitle>
+<Paragraph position="0"> Automatic generation of multiple-choice questions is an emerging topic in application of natural language processing. Particularly, applying it to language testing has been proved to be useful (Sumita et al., 2005).</Paragraph>
+<Paragraph position="1"> This demo presents an novel approach of question generation using machine learning we have introduced in (Hoshino and Nakagawa, 2005). Our study aims to generate TOEIC-like  multiple choice, fill-in-the-blank questions from given text using a classifier trained on a set of human-made questions. The system comprises of a question pool, which is a database of questions, an instance converter which does feature extraction, etc. for machine learning and a question generator. Each step of learning and generation is conducted through a web-browser.  The demo serves for the following three purposes; To facilitates repeating the experiment with different  TOEIC: Test of English for International Communication parameters, to demonstrate our method of question generation by showing the result of each steps, and to collect the data (training data and the students' answers) from multiple users in possibly different places.</Paragraph>
+</Section>
+</Paper>
+

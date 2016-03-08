@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C00-1046">
+<Title>Automatic Refinement of a POS Tagger Using a Reliable Parser and Plain Text Corpora</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper proposes a new unsupervised learning method for obtaining English part-ofspecch(POS) disambiguation rules which would improve thc accuracy of a POS tagger. This method has been implemented in the experimental system APRAS (Automatic POS Rule Acquisition System), which extracts POS disambiguation rules fl'om plain text corpora by utilizing different types of coded linguistic knowledge, i.e., POS tagging rules and syntactic parsing rules, which arc already stored in a fully implemented MT system.</Paragraph>
+<Paragraph position="1"> In our ext)eriment , the obtained rules were applied to 1.7% of the sentences in a non-training corpus. For this group of sentences, 78.4% of the changes made in tagging results were an improvement. We also saw a 15.5 % improvement in tagging and parsing speed and an 8.0 % increase of parsable sentences.</Paragraph>
+</Section>
+</Paper>
+

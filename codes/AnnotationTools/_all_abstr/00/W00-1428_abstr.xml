@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W00-1428">
+<Title>Integrating a Large-scale, Reusable Lexicon with a Natural Language Generator</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper presents the integration of a largescale, reusable lexicon for generation with the FUF/SURGE unification-based syntactic realizer.</Paragraph>
+<Paragraph position="1"> The lexicon was combined from multiple existing resources in a semi-automatic process. The integration is a multi-step unification process. This integration allows the reuse of lexical, syntactic, and semantic knowledge encoded in the lexicon in the development of lexical chooser module in a generation system. The lexicon also brings other benefits to a generation system: for example, the ability to generate many lexical and syntactic paraphrases and the ability to avoid non-grammatical output.</Paragraph>
+</Section>
+</Paper>
+

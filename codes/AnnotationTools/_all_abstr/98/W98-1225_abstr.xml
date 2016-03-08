@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-1225">
+<Title>I Natural Language Concept Analysis</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Can we do text analysis without phrase structure? We think the answer could be positive.</Paragraph>
+<Paragraph position="1"> In this paper we outline the basics of an underlying theory which yields hierarchical structure as the result of more abstract principles relating to the combinatorial properties of linguistic units. We discuss the nature of these properties and illustrate our model with examples.</Paragraph>
+<Paragraph position="2"> Keywords Language processing, relational model.</Paragraph>
+</Section>
+</Paper>
+

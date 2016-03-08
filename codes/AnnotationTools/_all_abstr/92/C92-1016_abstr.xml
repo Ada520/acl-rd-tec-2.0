@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C92-1016">
+<Title>Using Active Constraints to I)arse &amp;quot;&amp;quot;)~'(' ',.:, \[ ,~ k,,&lt;;</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Active constraints of tile CO,lslratnl higic programin,rig paradigm allow (l) the reduction of the search space of progr~tms and (2) a very concise representation of the problcnls. These two l)rop erties are particuhtrly interesting for I)arsing prob\[elns : they can hel I ) us to reduce non-determinisln and to use large coverage gramlnars. In this paper, we describe how to use Slleh constraints tot parsing ID/LP grammars and propose an inlplenlelmtl, iou in Prolog Ill.</Paragraph>
+<Paragraph position="1"> Keywords : constraints, syntax, ID/I,P formalism, bottom-up filtering, Prolog IlI</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="A00-2029">
+<Title>Predicting Automatic Speech Recognition Performance Using Prosodic Cues</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> In spoken dialogue systems, it is important for a system to know how likely a speech recognition hypothesis is to be correct, so it can reprompt for fresh input, or, in cases where many errors have occurred, change its interaction strategy or switch the caller to a human attendant. We have discovered prosodic features which more accurately predict when a recognition hypothesis contains a word error than the acoustic confidence score thresholds traditionally used in automatic speech recognition. We present analytic results indicating that there are significant prosodic differences between correctly and incorrectly recognized turns in the TOOT train information corpus. We then present machine learning results showing how the use of prosodic features to automatically predict correct versus incorrectly recognized turns improves over the use of acoustic confidence scores alone.</Paragraph>
+</Section>
+</Paper>
+

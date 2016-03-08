@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="C04-1111">
+<Title>Towards Terascale Knowledge Acquisition</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Although vast amounts of textual data are freely available, many NLP algorithms exploit only a minute percentage of it. In this paper, we study the challenges of working at the terascale. We present an algorithm, designed for the terascale, for mining is-a relations that achieves similar performance to a state-of-the-art linguistically-rich method. We focus on the accuracy of these two systems as a function of processing time and corpus size.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="H89-2011">
+<Title>Francois-Michel Lang and Lynette Hirschman, Improved Portability and Parsing through Interactive Acquisition of Semantic Information. Proc. Second Conf. Applied Natural</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+1. The Problem: Capturing the meaningful semantic relations
+</SectionTitle>
+<Paragraph position="0"> The design of effective natural language processing systems requires a combination of the theoretical and the practical. We want to have a theoretically well-founded design so that we can take advantage of gradual improvements in our knowledge of syntax, semantics, discourse structures, and the subject domain. At the same time we need to adopt a practical approach which recognizes the inevitable shortcomings of our knowledge in these areas. We need to create robust systems which are able to deal appropriately with these shortcomings. We are interested in particular in systems for extracting specified information from a text. Such systems are robust if they are able to extract at least partial information despite the presence of ill-formed or unexpected syntactic, semantic, or discourse structures.</Paragraph>
+<Paragraph position="1"> One type of knowledge which is central to most language understanding systems, in one form or another, is knowledge of the set of meaningful semantic relations in a domain. For most realistic domains, however, this set is very large and not strictly closed. Accumulating a complete inventory of these relations is therefore very difficult, if not impossible. Practical language analysis systems must be able instead to operate with an incomplete knowledge of these relations.</Paragraph>
+</Section>
+</Paper>
+

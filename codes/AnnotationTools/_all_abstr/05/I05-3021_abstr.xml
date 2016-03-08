@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="I05-3021">
+<Title>An Example-Based Chinese Word Segmentation System for CWSB-2</Title>
+<Section position="1" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> This paper reports the example-based segmentation system for our participation in the second Chinese Word Segmentation Bakeoff (CWSB-2), presenting its basic ideas, technical details and evaluation. It is a preliminary implementation. CWSB-2 valuation shows that it performs very well in identifying known words. Its unknown word detection module also illustrates great potential. However, proper facilities for identifying time expressions, numbers and other types of unknown words are needed for improvement.</Paragraph>
+</Section>
+</Paper>
+

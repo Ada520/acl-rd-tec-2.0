@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="W98-0301">
+<Title>marization, and generation of natural language</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> I present a surface-based algorithm that employs knowledge of cue phrase usages in order to determine automatically clause boundaries and discourse markers in unrestricted natural language texts. The knowledge was derived from a comprehensive corpus analysis.</Paragraph>
+</Section>
+</Paper>
+

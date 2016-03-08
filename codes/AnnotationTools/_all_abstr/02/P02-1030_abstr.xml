@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="P02-1030">
+<Title>Scaling Context Space</Title>
+<Section position="2" start_page="0" end_page="0" type="abstr">
+<SectionTitle>
+Abstract
+</SectionTitle>
+<Paragraph position="0"> Context is used in many NLP systems as an indicator of a term's syntactic and semantic function. The accuracy of the system is dependent on the quality and quantity of contextual information available to describe each term. However, the quantity variable is no longer xed by limited corpus resources. Given xed training time and computational resources, it makes sense for systems to invest time in extracting high quality contextual information from a xed corpus. However, with an effectively limitless quantity of text available, extraction rate and representation size need to be considered. We use thesaurus extraction with a range of context extracting tools to demonstrate the interaction between context quantity, time and size on a corpus of 300 million words.</Paragraph>
+</Section>
+</Paper>
+

@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="yes"?>
+
+<Paper uid="M95-1010">
+<Title>( ) Component s Static knowledge Dynamic structures</Title>
+<Section position="2" start_page="123" end_page="124" type="abstr">
+<SectionTitle>
+TE
+</SectionTitle>
+<Paragraph position="0"> PIE got 73% recall and 77% precision for the walkthrough article . There were 15 errors : 5 incorrect, 6 missing, and 4 spurious, many of which were due to failures of the NE module :  The errors in coreference recognition caused 3 incorrect descriptors in TE . PIE failed to infer the location of &amp;quot;Coke&amp;quot; from the phrase &amp;quot;from Coke headquarters in Atlanta&amp;quot; because &amp;quot;Atlanta&amp;quot; is not a dependent of &amp;quot;Coke .&amp;quot; ST The ST recall and precision for the article are 63% and 72% respectively. Most of the correct fillings can b e attributed to its successful analysis of (19) and (20).</Paragraph>
+<Paragraph position="1"> (19) One of the many differences between Robert L . James, chairman and chief executive officer of McCann-Erickson, and John J . Dooner Jr., the agency's president and chief operating officer, is quit e telling: (20) He will be succeeded by Mr . Dooner, 45 .</Paragraph>
+<Paragraph position="2"> The static rule created 4 entries in the post-holder database according to (19) : (21) post : chief executive officer org : McCann - Erickson holder: Robert L . James status: UNK post: chairman org: McCann - Erickson holder: Robert L . James status: UNK post: chief operating officer org : holder: John J. Dooner Jr. status: UNK post: president org : holder: John J . Dooner Jr. status: UNK The double rule is triggered by &amp;quot;succeed&amp;quot; in (20) . The coreference module correctly determined that &amp;quot;He &amp;quot; in (20) refers to &amp;quot;Dooner&amp;quot; and generated two succession events for the chairman and CEO positions o f McCann-Erickson.</Paragraph>
+<Paragraph position="3"> A spurious OUT event (Dooner out as president) was generated because of (22) . (22) There are no immediate plans to replace Mr . Dooner as presiden t The omission of &amp;quot;hire&amp;quot; in the trigger word list is responsible for a missing IN-event implied by (23) : (23) In addition, Peter Kim was hired from WPP Group's J . Walter Thompson last September as vice chairman, chief strategy officer, world-wide .</Paragraph>
+<Paragraph position="4"> All VACANCYJtEASON slots are filled with the default value REASSIGNMENT. For the walkthrough article, all three fillings happen to be incorrect .</Paragraph>
+<Section position="1" start_page="123" end_page="124" type="sub_section">
+<SectionTitle>
+Development Proces s
+</SectionTitle>
+<Paragraph position="0"> The NE module is trained on the 30 dry-run test articles and 50 articles (94*) out of the 100 formal training articles. The CO module is trained on the 30 dry-run test articles . The TE and ST modules are trained on less than 25 of the 100 formal training articles, though they are tested with the complete set durin g development .</Paragraph>
+<Paragraph position="1"> The greatest limiting factor in the development of PIE is the amount of time and human resources available to examine training articles to create domain specific vocabulary and dependency patterns, and to inspect the differences between the answer keys and the system responses to fine-tune the system .</Paragraph>
+<Paragraph position="2">  The development of PIE system started in July 1995, when MUC-6 was announced . The developmen t prior to August 27, 1995 was mostly on general tools that can also be used in non-MUC applications . We estimate that 30 person-days were spent on the following components/tasks .</Paragraph>
+<Paragraph position="3">  The development of MUC-specific components started on August 28 . Table 4 summarizes the process. The first training tests for the CO, TE and ST module were conducted as soon as the system was able t o process all the testing articles without crashing . The last training tests was conducted just before runnin g the formal test . The formal testing results for NE, CO and TE are quite close to the training test results . The F-measure for ST in formal testing is significantly lower than that of training tests because the recall dropped from about 50% to 39%. This was not totally unexpected, since the implementation of the S T module did not begin until September 29th . It did not reach a relatively stable state by the time of the formal testing on October 6th.</Paragraph>
+<Paragraph position="4">  We feel that we have achieved the following objectives in MUC-6 .</Paragraph>
+<Paragraph position="5"> * We developed and tested a domain independent algorithm for coreference recognition that turned ou t to work quite well .</Paragraph>
+<Paragraph position="6"> * We showed that broad-coverage and efficiency can be achieved by principle-based parsing . * We demonstrated that a broad-coverage parser can be very useful in information extraction . Once the dependency relationships of a sentence are established, a small number rules can be used to extrac t information that can be expressed in a large number of variations .</Paragraph>
+<Paragraph position="7"> 12 5</Paragraph>
+</Section>
+</Section>
+</Paper>
+
